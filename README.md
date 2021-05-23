@@ -1,15 +1,14 @@
 # Poke-Codex
 
-Created with [create-ts-pro](https://github.com/Milo123459/create-ts-pro)
+A discord pokemon bot
 
-# create-ts-pro
+# Author
 
-Features:
+## SpencerDevv
+#### (SpencerDevv#6671)
 
-- Yarn PnP
-- Husky config
-- Good defaults
-- Linters
-- Yarn bump command
-- Bump plugin & TypeScript plugin
-- Cool build / bundle commands (yarn.build)
+# Languages
+## Currently, Its using TypeScript but, I made it so you can add JavaScript files in commands/events aswell
+
+# Datastore
+## It will be using MySQL to store data!
