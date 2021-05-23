@@ -1,0 +1,326 @@
+{
+    "name": "Rampardos",
+    "national_id": 409,
+    "types": [
+        "Rock"
+    ],
+    "abilities": [
+        {
+            "name": "Mold Breaker"
+        },
+        {
+            "name": "Sheer Force",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 45,
+    "gender_ratios": {
+        "male": 87.5,
+        "female": 12.5
+    },
+    "egg_groups": [
+        "Monster"
+    ],
+    "hatch_time": [
+        7905,
+        8159
+    ],
+    "height_us": "5'03\"",
+    "height_eu": "1.6 m",
+    "weight_us": "226.0 lbs.",
+    "weight_eu": "102.5 kg",
+    "base_exp_yield": 173,
+    "leveling_rate": "Erratic",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 2,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 97,
+        "atk": 165,
+        "def": 60,
+        "sp_atk": 65,
+        "sp_def": 50,
+        "speed": 58
+    },
+    "evolution_from": "Cranidos",
+    "evolutions": [],
+    "species": "Head Butt Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "Its skull is as hard as iron. It is a brute that tears down jungle trees while catching prey.",
+    "move_learnset": [
+        {
+            "move": "Endeavor",
+            "level": 1
+        },
+        {
+            "move": "Focus Energy",
+            "level": 1
+        },
+        {
+            "move": "Headbutt",
+            "level": 1
+        },
+        {
+            "move": "Leer",
+            "level": 1
+        },
+        {
+            "move": "Pursuit",
+            "level": 1
+        },
+        {
+            "move": "Focus Energy",
+            "level": 6
+        },
+        {
+            "move": "Pursuit",
+            "level": 10
+        },
+        {
+            "move": "Take Down",
+            "level": 15
+        },
+        {
+            "move": "Scary Face",
+            "level": 19
+        },
+        {
+            "move": "Assurance",
+            "level": 24
+        },
+        {
+            "move": "Chip Away",
+            "level": 28
+        },
+        {
+            "move": "Ancient Power",
+            "level": 36
+        },
+        {
+            "move": "Zen Headbutt",
+            "level": 43
+        },
+        {
+            "move": "Screech",
+            "level": 51
+        },
+        {
+            "move": "Head Smash",
+            "level": 58
+        },
+        {
+            "move": "Crunch",
+            "egg_move": true
+        },
+        {
+            "move": "Curse",
+            "egg_move": true
+        },
+        {
+            "move": "Double-Edge",
+            "egg_move": true
+        },
+        {
+            "move": "Hammer Arm",
+            "egg_move": true
+        },
+        {
+            "move": "Iron Head",
+            "egg_move": true
+        },
+        {
+            "move": "Iron Tail",
+            "egg_move": true
+        },
+        {
+            "move": "Leer",
+            "egg_move": true
+        },
+        {
+            "move": "Slam",
+            "egg_move": true
+        },
+        {
+            "move": "Stomp",
+            "egg_move": true
+        },
+        {
+            "move": "Thrash",
+            "egg_move": true
+        },
+        {
+            "move": "Whirlwind",
+            "egg_move": true
+        },
+        {
+            "move": "Roar",
+            "tm": "TM5"
+        },
+        {
+            "move": "Toxic",
+            "tm": "TM6"
+        },
+        {
+            "move": "Hidden Power",
+            "tm": "TM10"
+        },
+        {
+            "move": "Sunny Day",
+            "tm": "TM11"
+        },
+        {
+            "move": "Ice Beam",
+            "tm": "TM13"
+        },
+        {
+            "move": "Blizzard",
+            "tm": "TM14"
+        },
+        {
+            "move": "Hyper Beam",
+            "tm": "TM15"
+        },
+        {
+            "move": "Protect",
+            "tm": "TM17"
+        },
+        {
+            "move": "Rain Dance",
+            "tm": "TM18"
+        },
+        {
+            "move": "Frustration",
+            "tm": "TM21"
+        },
+        {
+            "move": "Smack Down",
+            "tm": "TM23"
+        },
+        {
+            "move": "Thunderbolt",
+            "tm": "TM24"
+        },
+        {
+            "move": "Thunder",
+            "tm": "TM25"
+        },
+        {
+            "move": "Earthquake",
+            "tm": "TM26"
+        },
+        {
+            "move": "Return",
+            "tm": "TM27"
+        },
+        {
+            "move": "Brick Break",
+            "tm": "TM31"
+        },
+        {
+            "move": "Double Team",
+            "tm": "TM32"
+        },
+        {
+            "move": "Flamethrower",
+            "tm": "TM35"
+        },
+        {
+            "move": "Sandstorm",
+            "tm": "TM37"
+        },
+        {
+            "move": "Fire Blast",
+            "tm": "TM38"
+        },
+        {
+            "move": "Rock Tomb",
+            "tm": "TM39"
+        },
+        {
+            "move": "Facade",
+            "tm": "TM42"
+        },
+        {
+            "move": "Rest",
+            "tm": "TM44"
+        },
+        {
+            "move": "Attract",
+            "tm": "TM45"
+        },
+        {
+            "move": "Thief",
+            "tm": "TM46"
+        },
+        {
+            "move": "Round",
+            "tm": "TM48"
+        },
+        {
+            "move": "Focus Blast",
+            "tm": "TM52"
+        },
+        {
+            "move": "Fling",
+            "tm": "TM56"
+        },
+        {
+            "move": "Payback",
+            "tm": "TM66"
+        },
+        {
+            "move": "Giga Impact",
+            "tm": "TM68"
+        },
+        {
+            "move": "Rock Polish",
+            "tm": "TM69"
+        },
+        {
+            "move": "Stone Edge",
+            "tm": "TM71"
+        },
+        {
+            "move": "Swords Dance",
+            "tm": "TM75"
+        },
+        {
+            "move": "Bulldoze",
+            "tm": "TM78"
+        },
+        {
+            "move": "Rock Slide",
+            "tm": "TM80"
+        },
+        {
+            "move": "Dragon Tail",
+            "tm": "TM82"
+        },
+        {
+            "move": "Swagger",
+            "tm": "TM87"
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": "TM88"
+        },
+        {
+            "move": "Substitute",
+            "tm": "TM90"
+        },
+        {
+            "move": "Surf",
+            "tm": "TM94"
+        },
+        {
+            "move": "Confide",
+            "tm": "TM100"
+        }
+    ]
+}

@@ -1,0 +1,287 @@
+{
+    "name": "Spinarak",
+    "national_id": 167,
+    "types": [
+        "Bug",
+        "Poison"
+    ],
+    "abilities": [
+        {
+            "name": "Swarm"
+        },
+        {
+            "name": "Insomnia"
+        },
+        {
+            "name": "Sniper",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 255,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Bug"
+    ],
+    "hatch_time": [
+        4080,
+        4334
+    ],
+    "height_us": "1'08\"",
+    "height_eu": "0.5 m",
+    "weight_us": "18.7 lbs.",
+    "weight_eu": "8.5 kg",
+    "base_exp_yield": 50,
+    "leveling_rate": "Fast",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 1,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 40,
+        "atk": 60,
+        "def": 40,
+        "sp_atk": 40,
+        "sp_def": 40,
+        "speed": 30
+    },
+    "evolution_from": null,
+    "evolutions": [
+        {
+            "to": "Ariados",
+            "level": 22
+        }
+    ],
+    "species": "String Spit Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "The web spun by Spinarak can be considered its second nervous system. It is said that this Pokémon can determine what kind of prey is touching its web just by the tiny vibrations it feels through the web's strands.",
+    "move_learnset": [
+        {
+            "move": "Constrict",
+            "level": 1
+        },
+        {
+            "move": "Poison Sting",
+            "level": 1
+        },
+        {
+            "move": "String Shot",
+            "level": 1
+        },
+        {
+            "move": "Absorb",
+            "level": 5
+        },
+        {
+            "move": "Infestation",
+            "level": 8
+        },
+        {
+            "move": "Scary Face",
+            "level": 12
+        },
+        {
+            "move": "Night Shade",
+            "level": 15
+        },
+        {
+            "move": "Shadow Sneak",
+            "level": 19
+        },
+        {
+            "move": "Fury Swipes",
+            "level": 22
+        },
+        {
+            "move": "Sucker Punch",
+            "level": 26
+        },
+        {
+            "move": "Spider Web",
+            "level": 29
+        },
+        {
+            "move": "Agility",
+            "level": 33
+        },
+        {
+            "move": "Pin Missile",
+            "level": 36
+        },
+        {
+            "move": "Psychic",
+            "level": 40
+        },
+        {
+            "move": "Poison Jab",
+            "level": 43
+        },
+        {
+            "move": "Cross Poison",
+            "level": 47
+        },
+        {
+            "move": "Sticky Web",
+            "level": 50
+        },
+        {
+            "move": "Toxic Thread",
+            "level": 54
+        },
+        {
+            "move": "Baton Pass",
+            "egg_move": true
+        },
+        {
+            "move": "Disable",
+            "egg_move": true
+        },
+        {
+            "move": "Electroweb",
+            "egg_move": true
+        },
+        {
+            "move": "Lunge",
+            "egg_move": true
+        },
+        {
+            "move": "Megahorn",
+            "egg_move": true
+        },
+        {
+            "move": "Night Slash",
+            "egg_move": true
+        },
+        {
+            "move": "Psybeam",
+            "egg_move": true
+        },
+        {
+            "move": "Pursuit",
+            "egg_move": true
+        },
+        {
+            "move": "Rage Powder",
+            "egg_move": true
+        },
+        {
+            "move": "Signal Beam",
+            "egg_move": true
+        },
+        {
+            "move": "Sonic Boom",
+            "egg_move": true
+        },
+        {
+            "move": "Toxic Spikes",
+            "egg_move": true
+        },
+        {
+            "move": "Twineedle",
+            "egg_move": true
+        },
+        {
+            "move": "Toxic",
+            "tm": "TM6"
+        },
+        {
+            "move": "Venoshock",
+            "tm": "TM9"
+        },
+        {
+            "move": "Hidden Power",
+            "tm": "TM10"
+        },
+        {
+            "move": "Sunny Day",
+            "tm": "TM11"
+        },
+        {
+            "move": "Protect",
+            "tm": "TM17"
+        },
+        {
+            "move": "Frustration",
+            "tm": "TM21"
+        },
+        {
+            "move": "Solar Beam",
+            "tm": "TM22"
+        },
+        {
+            "move": "Return",
+            "tm": "TM27"
+        },
+        {
+            "move": "Leech Life",
+            "tm": "TM28"
+        },
+        {
+            "move": "Psychic",
+            "tm": "TM29"
+        },
+        {
+            "move": "Double Team",
+            "tm": "TM32"
+        },
+        {
+            "move": "Sludge Bomb",
+            "tm": "TM36"
+        },
+        {
+            "move": "Facade",
+            "tm": "TM42"
+        },
+        {
+            "move": "Rest",
+            "tm": "TM44"
+        },
+        {
+            "move": "Attract",
+            "tm": "TM45"
+        },
+        {
+            "move": "Thief",
+            "tm": "TM46"
+        },
+        {
+            "move": "Round",
+            "tm": "TM48"
+        },
+        {
+            "move": "X-Scissor",
+            "tm": "TM81"
+        },
+        {
+            "move": "Infestation",
+            "tm": "TM83"
+        },
+        {
+            "move": "Poison Jab",
+            "tm": "TM84"
+        },
+        {
+            "move": "Swagger",
+            "tm": "TM87"
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": "TM88"
+        },
+        {
+            "move": "Substitute",
+            "tm": "TM90"
+        },
+        {
+            "move": "Confide",
+            "tm": "TM100"
+        }
+    ]
+}

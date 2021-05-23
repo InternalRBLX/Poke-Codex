@@ -1,0 +1,368 @@
+{
+    "name": "Krookodile",
+    "national_id": 553,
+    "types": [
+        "Ground",
+        "Dark"
+    ],
+    "items": [
+        {
+            "name": "Black Glasses",
+            "chance": 5
+        }
+    ],
+    "abilities": [
+        {
+            "name": "Intimidate"
+        },
+        {
+            "name": "Moxie"
+        },
+        {
+            "name": "Anger Point",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 45,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Field"
+    ],
+    "hatch_time": [
+        5355,
+        5609
+    ],
+    "height_us": "4'11\"",
+    "height_eu": "1.5 m",
+    "weight_us": "212.3 lbs.",
+    "weight_eu": "96.3 kg",
+    "base_exp_yield": 229,
+    "leveling_rate": "Medium Slow",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 3,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 95,
+        "atk": 117,
+        "def": 70,
+        "sp_atk": 65,
+        "sp_def": 70,
+        "speed": 92
+    },
+    "evolution_from": "Krokorok",
+    "evolutions": [],
+    "species": "Intimidation Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "They never allow prey to escape. Their jaws are so powerful, they can crush the body of an automobile.",
+    "move_learnset": [
+        {
+            "move": "Bite",
+            "level": 1
+        },
+        {
+            "move": "Leer",
+            "level": 1
+        },
+        {
+            "move": "Power Trip",
+            "level": 1
+        },
+        {
+            "move": "Rage",
+            "level": 1
+        },
+        {
+            "move": "Sand Attack",
+            "level": 1
+        },
+        {
+            "move": "Bite",
+            "level": 4
+        },
+        {
+            "move": "Sand Attack",
+            "level": 7
+        },
+        {
+            "move": "Torment",
+            "level": 10
+        },
+        {
+            "move": "Sand Tomb",
+            "level": 13
+        },
+        {
+            "move": "Assurance",
+            "level": 16
+        },
+        {
+            "move": "Mud-Slap",
+            "level": 19
+        },
+        {
+            "move": "Embargo",
+            "level": 22
+        },
+        {
+            "move": "Swagger",
+            "level": 25
+        },
+        {
+            "move": "Crunch",
+            "level": 28
+        },
+        {
+            "move": "Dig",
+            "level": 32
+        },
+        {
+            "move": "Scary Face",
+            "level": 36
+        },
+        {
+            "move": "Foul Play",
+            "level": 42
+        },
+        {
+            "move": "Sandstorm",
+            "level": 48
+        },
+        {
+            "move": "Earthquake",
+            "level": 54
+        },
+        {
+            "move": "Outrage",
+            "level": 60
+        },
+        {
+            "move": "Beat Up",
+            "egg_move": true
+        },
+        {
+            "move": "Counter",
+            "egg_move": true
+        },
+        {
+            "move": "Double-Edge",
+            "egg_move": true
+        },
+        {
+            "move": "Fire Fang",
+            "egg_move": true
+        },
+        {
+            "move": "Focus Energy",
+            "egg_move": true
+        },
+        {
+            "move": "Me First",
+            "egg_move": true
+        },
+        {
+            "move": "Mean Look",
+            "egg_move": true
+        },
+        {
+            "move": "Power Trip",
+            "egg_move": true
+        },
+        {
+            "move": "Pursuit",
+            "egg_move": true
+        },
+        {
+            "move": "Rock Climb",
+            "egg_move": true
+        },
+        {
+            "move": "Thunder Fang",
+            "egg_move": true
+        },
+        {
+            "move": "Uproar",
+            "egg_move": true
+        },
+        {
+            "move": "Dragon Claw",
+            "tm": "TM2"
+        },
+        {
+            "move": "Roar",
+            "tm": "TM5"
+        },
+        {
+            "move": "Toxic",
+            "tm": "TM6"
+        },
+        {
+            "move": "Bulk Up",
+            "tm": "TM8"
+        },
+        {
+            "move": "Hidden Power",
+            "tm": "TM10"
+        },
+        {
+            "move": "Taunt",
+            "tm": "TM12"
+        },
+        {
+            "move": "Hyper Beam",
+            "tm": "TM15"
+        },
+        {
+            "move": "Protect",
+            "tm": "TM17"
+        },
+        {
+            "move": "Frustration",
+            "tm": "TM21"
+        },
+        {
+            "move": "Smack Down",
+            "tm": "TM23"
+        },
+        {
+            "move": "Earthquake",
+            "tm": "TM26"
+        },
+        {
+            "move": "Return",
+            "tm": "TM27"
+        },
+        {
+            "move": "Brick Break",
+            "tm": "TM31"
+        },
+        {
+            "move": "Double Team",
+            "tm": "TM32"
+        },
+        {
+            "move": "Sludge Bomb",
+            "tm": "TM36"
+        },
+        {
+            "move": "Sandstorm",
+            "tm": "TM37"
+        },
+        {
+            "move": "Rock Tomb",
+            "tm": "TM39"
+        },
+        {
+            "move": "Aerial Ace",
+            "tm": "TM40"
+        },
+        {
+            "move": "Torment",
+            "tm": "TM41"
+        },
+        {
+            "move": "Facade",
+            "tm": "TM42"
+        },
+        {
+            "move": "Rest",
+            "tm": "TM44"
+        },
+        {
+            "move": "Attract",
+            "tm": "TM45"
+        },
+        {
+            "move": "Thief",
+            "tm": "TM46"
+        },
+        {
+            "move": "Low Sweep",
+            "tm": "TM47"
+        },
+        {
+            "move": "Round",
+            "tm": "TM48"
+        },
+        {
+            "move": "Focus Blast",
+            "tm": "TM52"
+        },
+        {
+            "move": "Fling",
+            "tm": "TM56"
+        },
+        {
+            "move": "Brutal Swing",
+            "tm": "TM59"
+        },
+        {
+            "move": "Embargo",
+            "tm": "TM63"
+        },
+        {
+            "move": "Shadow Claw",
+            "tm": "TM65"
+        },
+        {
+            "move": "Payback",
+            "tm": "TM66"
+        },
+        {
+            "move": "Giga Impact",
+            "tm": "TM68"
+        },
+        {
+            "move": "Stone Edge",
+            "tm": "TM71"
+        },
+        {
+            "move": "Bulldoze",
+            "tm": "TM78"
+        },
+        {
+            "move": "Rock Slide",
+            "tm": "TM80"
+        },
+        {
+            "move": "Dragon Tail",
+            "tm": "TM82"
+        },
+        {
+            "move": "Grass Knot",
+            "tm": "TM86"
+        },
+        {
+            "move": "Swagger",
+            "tm": "TM87"
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": "TM88"
+        },
+        {
+            "move": "Substitute",
+            "tm": "TM90"
+        },
+        {
+            "move": "Snarl",
+            "tm": "TM95"
+        },
+        {
+            "move": "Dark Pulse",
+            "tm": "TM97"
+        },
+        {
+            "move": "Confide",
+            "tm": "TM100"
+        }
+    ]
+}

@@ -1,0 +1,358 @@
+{
+    "name": "Vaporeon",
+    "national_id": 134,
+    "types": [
+        "Water"
+    ],
+    "abilities": [
+        {
+            "name": "Water Absorb"
+        },
+        {
+            "name": "Hydration",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 45,
+    "gender_ratios": {
+        "male": 87.5,
+        "female": 12.5
+    },
+    "egg_groups": [
+        "Field"
+    ],
+    "hatch_time": [
+        9180,
+        9434
+    ],
+    "height_us": "3'03\"",
+    "height_eu": "1.0 m",
+    "weight_us": "63.9 lbs.",
+    "weight_eu": "29.0 kg",
+    "base_exp_yield": 184,
+    "leveling_rate": "Medium Fast",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 2,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 130,
+        "atk": 65,
+        "def": 60,
+        "sp_atk": 110,
+        "sp_def": 95,
+        "speed": 65
+    },
+    "evolution_from": "Eevee",
+    "evolutions": [],
+    "species": "Bubble Jet Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "Its body’s cellular structure is similar to the molecular composition of water. It can melt invisibly in water.",
+    "move_learnset": [
+        {
+            "move": "Water Gun",
+            "evo": true
+        },
+        {
+            "move": "Water Gun",
+            "level": 1
+        },
+        {
+            "move": "Covet",
+            "level": 1
+        },
+        {
+            "move": "Swift",
+            "level": 1
+        },
+        {
+            "move": "Bite",
+            "level": 1
+        },
+        {
+            "move": "Copycat",
+            "level": 1
+        },
+        {
+            "move": "Baton Pass",
+            "level": 1
+        },
+        {
+            "move": "Take Down",
+            "level": 1
+        },
+        {
+            "move": "Charm",
+            "level": 1
+        },
+        {
+            "move": "Double-Edge",
+            "level": 1
+        },
+        {
+            "move": "Helping Hand",
+            "level": 1
+        },
+        {
+            "move": "Tackle",
+            "level": 1
+        },
+        {
+            "move": "Growl",
+            "level": 1
+        },
+        {
+            "move": "Tail Whip",
+            "level": 1
+        },
+        {
+            "move": "Sand Attack",
+            "level": 5
+        },
+        {
+            "move": "Quick Attack",
+            "level": 10
+        },
+        {
+            "move": "Baby-Doll Eyes",
+            "level": 15
+        },
+        {
+            "move": "Haze",
+            "level": 20
+        },
+        {
+            "move": "Water Pulse",
+            "level": 25
+        },
+        {
+            "move": "Aurora Beam",
+            "level": 30
+        },
+        {
+            "move": "Aqua Ring",
+            "level": 35
+        },
+        {
+            "move": "Muddy Water",
+            "level": 40
+        },
+        {
+            "move": "Acid Armor",
+            "level": 45
+        },
+        {
+            "move": "Hydro Pump",
+            "level": 50
+        },
+        {
+            "move": "Last Resort",
+            "level": 55
+        },
+        {
+            "move": "Pay Day",
+            "tm": true
+        },
+        {
+            "move": "Hyper Beam",
+            "tm": true
+        },
+        {
+            "move": "Giga Impact",
+            "tm": true
+        },
+        {
+            "move": "Dig",
+            "tm": true
+        },
+        {
+            "move": "Rest",
+            "tm": true
+        },
+        {
+            "move": "Snore",
+            "tm": true
+        },
+        {
+            "move": "Protect",
+            "tm": true
+        },
+        {
+            "move": "Icy Wind",
+            "tm": true
+        },
+        {
+            "move": "Charm",
+            "tm": true
+        },
+        {
+            "move": "Attract",
+            "tm": true
+        },
+        {
+            "move": "Rain Dance",
+            "tm": true
+        },
+        {
+            "move": "Sunny Day",
+            "tm": true
+        },
+        {
+            "move": "Hail",
+            "tm": true
+        },
+        {
+            "move": "Whirlpool",
+            "tm": true
+        },
+        {
+            "move": "Facade",
+            "tm": true
+        },
+        {
+            "move": "Swift",
+            "tm": true
+        },
+        {
+            "move": "Helping Hand",
+            "tm": true
+        },
+        {
+            "move": "Dive",
+            "tm": true
+        },
+        {
+            "move": "Weather Ball",
+            "tm": true
+        },
+        {
+            "move": "Fake Tears",
+            "tm": true
+        },
+        {
+            "move": "Brine",
+            "tm": true
+        },
+        {
+            "move": "Round",
+            "tm": true
+        },
+        {
+            "move": "Retaliate",
+            "tm": true
+        },
+        {
+            "move": "Body Slam",
+            "tm": true
+        },
+        {
+            "move": "Hydro Pump",
+            "tm": true
+        },
+        {
+            "move": "Surf",
+            "tm": true
+        },
+        {
+            "move": "Ice Beam",
+            "tm": true
+        },
+        {
+            "move": "Blizzard",
+            "tm": true
+        },
+        {
+            "move": "Focus Energy",
+            "tm": true
+        },
+        {
+            "move": "Waterfall",
+            "tm": true
+        },
+        {
+            "move": "Substitute",
+            "tm": true
+        },
+        {
+            "move": "Endure",
+            "tm": true
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": true
+        },
+        {
+            "move": "Baton Pass",
+            "tm": true
+        },
+        {
+            "move": "Iron Tail",
+            "tm": true
+        },
+        {
+            "move": "Shadow Ball",
+            "tm": true
+        },
+        {
+            "move": "Hyper Voice",
+            "tm": true
+        },
+        {
+            "move": "Muddy Water",
+            "tm": true
+        },
+        {
+            "move": "Stored Power",
+            "tm": true
+        },
+        {
+            "move": "Scald",
+            "tm": true
+        },
+        {
+            "move": "Work Up",
+            "tm": true
+        },
+        {
+            "move": "Liquidation",
+            "tm": true
+        },
+        {
+            "move": "Flail",
+            "egg_move": true
+        },
+        {
+            "move": "Curse",
+            "egg_move": true
+        },
+        {
+            "move": "Tickle",
+            "egg_move": true
+        },
+        {
+            "move": "Yawn",
+            "egg_move": true
+        },
+        {
+            "move": "Detect",
+            "egg_move": true
+        },
+        {
+            "move": "Double Kick",
+            "egg_move": true
+        },
+        {
+            "move": "Mud-Slap",
+            "egg_move": true
+        },
+        {
+            "move": "Wish",
+            "egg_move": true
+        }
+    ]
+}

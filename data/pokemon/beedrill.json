@@ -1,0 +1,253 @@
+{
+    "name": "Beedrill",
+    "national_id": 15,
+    "types": [
+        "Bug",
+        "Poison"
+    ],
+    "items": [
+        {
+            "name": "Poison Barb",
+            "chance": 5
+        }
+    ],
+    "abilities": [
+        {
+            "name": "Swarm"
+        },
+        {
+            "name": "Sniper",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 45,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Bug"
+    ],
+    "hatch_time": [
+        2805,
+        3059
+    ],
+    "height_us": "3'03\"",
+    "height_eu": "1.0 m",
+    "weight_us": "65.0 lbs.",
+    "weight_eu": "29.5 kg",
+    "base_exp_yield": 173,
+    "leveling_rate": "Medium Fast",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 2,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 1,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 65,
+        "atk": 80,
+        "def": 40,
+        "sp_atk": 45,
+        "sp_def": 80,
+        "speed": 75
+    },
+    "evolution_from": "Kakuna",
+    "evolutions": [],
+    "species": "Poison Bee Pokémon",
+    "mega_evolves": true,
+    "pokedex_entry": "Beedrill is extremely territorial. No one should ever approach its nest—this is for their own safety. If angered, they will attack in a furious swarm.",
+    "move_learnset": [
+        {
+            "move": "Fury Attack",
+            "level": 1
+        },
+        {
+            "move": "Twineedle",
+            "level": 1
+        },
+        {
+            "move": "Fury Attack",
+            "level": 11
+        },
+        {
+            "move": "Rage",
+            "level": 14
+        },
+        {
+            "move": "Pursuit",
+            "level": 17
+        },
+        {
+            "move": "Focus Energy",
+            "level": 20
+        },
+        {
+            "move": "Venoshock",
+            "level": 23
+        },
+        {
+            "move": "Assurance",
+            "level": 26
+        },
+        {
+            "move": "Toxic Spikes",
+            "level": 29
+        },
+        {
+            "move": "Pin Missile",
+            "level": 32
+        },
+        {
+            "move": "Poison Jab",
+            "level": 35
+        },
+        {
+            "move": "Agility",
+            "level": 38
+        },
+        {
+            "move": "Endeavor",
+            "level": 41
+        },
+        {
+            "move": "Fell Stinger",
+            "level": 44
+        },
+        {
+            "move": "Toxic",
+            "tm": "TM6"
+        },
+        {
+            "move": "Venoshock",
+            "tm": "TM9"
+        },
+        {
+            "move": "Hidden Power",
+            "tm": "TM10"
+        },
+        {
+            "move": "Sunny Day",
+            "tm": "TM11"
+        },
+        {
+            "move": "Hyper Beam",
+            "tm": "TM15"
+        },
+        {
+            "move": "Protect",
+            "tm": "TM17"
+        },
+        {
+            "move": "Roost",
+            "tm": "TM19"
+        },
+        {
+            "move": "Frustration",
+            "tm": "TM21"
+        },
+        {
+            "move": "Solar Beam",
+            "tm": "TM22"
+        },
+        {
+            "move": "Return",
+            "tm": "TM27"
+        },
+        {
+            "move": "Brick Break",
+            "tm": "TM31"
+        },
+        {
+            "move": "Double Team",
+            "tm": "TM32"
+        },
+        {
+            "move": "Sludge Bomb",
+            "tm": "TM36"
+        },
+        {
+            "move": "Aerial Ace",
+            "tm": "TM40"
+        },
+        {
+            "move": "Facade",
+            "tm": "TM42"
+        },
+        {
+            "move": "Rest",
+            "tm": "TM44"
+        },
+        {
+            "move": "Attract",
+            "tm": "TM45"
+        },
+        {
+            "move": "Thief",
+            "tm": "TM46"
+        },
+        {
+            "move": "Round",
+            "tm": "TM48"
+        },
+        {
+            "move": "False Swipe",
+            "tm": "TM54"
+        },
+        {
+            "move": "Brutal Swing",
+            "tm": "TM59"
+        },
+        {
+            "move": "Acrobatics",
+            "tm": "TM62"
+        },
+        {
+            "move": "Payback",
+            "tm": "TM66"
+        },
+        {
+            "move": "Giga Impact",
+            "tm": "TM68"
+        },
+        {
+            "move": "Swords Dance",
+            "tm": "TM75"
+        },
+        {
+            "move": "X-Scissor",
+            "tm": "TM81"
+        },
+        {
+            "move": "Infestation",
+            "tm": "TM83"
+        },
+        {
+            "move": "Poison Jab",
+            "tm": "TM84"
+        },
+        {
+            "move": "Swagger",
+            "tm": "TM87"
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": "TM88"
+        },
+        {
+            "move": "U-turn",
+            "tm": "TM89"
+        },
+        {
+            "move": "Substitute",
+            "tm": "TM90"
+        },
+        {
+            "move": "Confide",
+            "tm": "TM100"
+        }
+    ]
+}

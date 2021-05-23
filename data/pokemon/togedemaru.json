@@ -1,0 +1,309 @@
+{
+    "name": "Togedemaru",
+    "national_id": 777,
+    "types": [
+        "Electric",
+        "Steel"
+    ],
+    "items": [
+        {
+            "name": "Electric Seed",
+            "chance": 5
+        }
+    ],
+    "abilities": [
+        {
+            "name": "Iron Barbs"
+        },
+        {
+            "name": "Lightning Rod"
+        },
+        {
+            "name": "Sturdy",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 180,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Field",
+        "Fairy"
+    ],
+    "hatch_time": [
+        2570,
+        2826
+    ],
+    "height_us": "1'00\"",
+    "height_eu": "0.3 m",
+    "weight_us": "7.3 lbs.",
+    "weight_eu": "3.3 kg",
+    "base_exp_yield": 152,
+    "leveling_rate": "Medium Fast",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 2,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 65,
+        "atk": 98,
+        "def": 63,
+        "sp_atk": 40,
+        "sp_def": 73,
+        "speed": 96
+    },
+    "evolution_from": null,
+    "evolutions": [],
+    "species": "Roly-Poly Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "When it’s in trouble, it curls up into a ball, makes its fur spikes stand on end, and then discharges electricity indiscriminately.",
+    "move_learnset": [
+        {
+            "move": "Nuzzle",
+            "level": 1
+        },
+        {
+            "move": "Tackle",
+            "level": 1
+        },
+        {
+            "move": "Defense Curl",
+            "level": 5
+        },
+        {
+            "move": "Charge",
+            "level": 10
+        },
+        {
+            "move": "Thunder Shock",
+            "level": 15
+        },
+        {
+            "move": "Fell Stinger",
+            "level": 20
+        },
+        {
+            "move": "Spark",
+            "level": 25
+        },
+        {
+            "move": "Pin Missile",
+            "level": 30
+        },
+        {
+            "move": "Magnet Rise",
+            "level": 35
+        },
+        {
+            "move": "Zing Zap",
+            "level": 40
+        },
+        {
+            "move": "Discharge",
+            "level": 45
+        },
+        {
+            "move": "Electric Terrain",
+            "level": 50
+        },
+        {
+            "move": "Wild Charge",
+            "level": 55
+        },
+        {
+            "move": "Spiky Shield",
+            "level": 60
+        },
+        {
+            "move": "Pin Missile",
+            "tm": true
+        },
+        {
+            "move": "Hyper Beam",
+            "tm": true
+        },
+        {
+            "move": "Giga Impact",
+            "tm": true
+        },
+        {
+            "move": "Thunder Wave",
+            "tm": true
+        },
+        {
+            "move": "Reflect",
+            "tm": true
+        },
+        {
+            "move": "Rest",
+            "tm": true
+        },
+        {
+            "move": "Thief",
+            "tm": true
+        },
+        {
+            "move": "Snore",
+            "tm": true
+        },
+        {
+            "move": "Protect",
+            "tm": true
+        },
+        {
+            "move": "Attract",
+            "tm": true
+        },
+        {
+            "move": "Facade",
+            "tm": true
+        },
+        {
+            "move": "Swift",
+            "tm": true
+        },
+        {
+            "move": "Helping Hand",
+            "tm": true
+        },
+        {
+            "move": "Bounce",
+            "tm": true
+        },
+        {
+            "move": "U-turn",
+            "tm": true
+        },
+        {
+            "move": "Payback",
+            "tm": true
+        },
+        {
+            "move": "Assurance",
+            "tm": true
+        },
+        {
+            "move": "Fling",
+            "tm": true
+        },
+        {
+            "move": "Round",
+            "tm": true
+        },
+        {
+            "move": "Volt Switch",
+            "tm": true
+        },
+        {
+            "move": "Electroweb",
+            "tm": true
+        },
+        {
+            "move": "Electric Terrain",
+            "tm": true
+        },
+        {
+            "move": "Eerie Impulse",
+            "tm": true
+        },
+        {
+            "move": "Thunderbolt",
+            "tm": true
+        },
+        {
+            "move": "Thunder",
+            "tm": true
+        },
+        {
+            "move": "Agility",
+            "tm": true
+        },
+        {
+            "move": "Substitute",
+            "tm": true
+        },
+        {
+            "move": "Reversal",
+            "tm": true
+        },
+        {
+            "move": "Endure",
+            "tm": true
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": true
+        },
+        {
+            "move": "Encore",
+            "tm": true
+        },
+        {
+            "move": "Iron Tail",
+            "tm": true
+        },
+        {
+            "move": "Gyro Ball",
+            "tm": true
+        },
+        {
+            "move": "Poison Jab",
+            "tm": true
+        },
+        {
+            "move": "Zen Headbutt",
+            "tm": true
+        },
+        {
+            "move": "Iron Head",
+            "tm": true
+        },
+        {
+            "move": "Grass Knot",
+            "tm": true
+        },
+        {
+            "move": "Electro Ball",
+            "tm": true
+        },
+        {
+            "move": "Work Up",
+            "tm": true
+        },
+        {
+            "move": "Wild Charge",
+            "tm": true
+        },
+        {
+            "move": "Present",
+            "egg_move": true
+        },
+        {
+            "move": "Wish",
+            "egg_move": true
+        },
+        {
+            "move": "Fake Out",
+            "egg_move": true
+        },
+        {
+            "move": "Tickle",
+            "egg_move": true
+        },
+        {
+            "move": "Flail",
+            "egg_move": true
+        },
+        {
+            "move": "Disarming Voice",
+            "egg_move": true
+        }
+    ]
+}

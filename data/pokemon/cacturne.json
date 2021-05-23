@@ -1,0 +1,350 @@
+{
+    "name": "Cacturne",
+    "national_id": 332,
+    "types": [
+        "Grass",
+        "Dark"
+    ],
+    "items": [
+        {
+            "name": "Sticky Barb",
+            "chance": 5
+        }
+    ],
+    "abilities": [
+        {
+            "name": "Sand Veil"
+        },
+        {
+            "name": "Water Absorb",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 60,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Grass",
+        "Human-Like"
+    ],
+    "hatch_time": [
+        5355,
+        5609
+    ],
+    "height_us": "4'03\"",
+    "height_eu": "1.3 m",
+    "weight_us": "170.6 lbs.",
+    "weight_eu": "77.4 kg",
+    "base_exp_yield": 166,
+    "leveling_rate": "Medium Slow",
+    "base_friendship": 35,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 1,
+        "def": 0,
+        "sp_atk": 1,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 70,
+        "atk": 115,
+        "def": 60,
+        "sp_atk": 115,
+        "sp_def": 60,
+        "speed": 55
+    },
+    "evolution_from": "Cacnea",
+    "evolutions": [],
+    "species": "Scarecrow Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "If a traveler is going through a desert in the thick of night, Cacturne will follow in a ragtag group. The Pokémon are biding their time, waiting for the traveler to tire and become incapable of moving.",
+    "move_learnset": [
+        {
+            "move": "Absorb",
+            "level": 1
+        },
+        {
+            "move": "Destiny Bond",
+            "level": 1
+        },
+        {
+            "move": "Growth",
+            "level": 1
+        },
+        {
+            "move": "Leer",
+            "level": 1
+        },
+        {
+            "move": "Poison Sting",
+            "level": 1
+        },
+        {
+            "move": "Revenge",
+            "level": 1
+        },
+        {
+            "move": "Spiky Shield",
+            "level": 1
+        },
+        {
+            "move": "Absorb",
+            "level": 4
+        },
+        {
+            "move": "Growth",
+            "level": 7
+        },
+        {
+            "move": "Leech Seed",
+            "level": 10
+        },
+        {
+            "move": "Sand Attack",
+            "level": 13
+        },
+        {
+            "move": "Needle Arm",
+            "level": 16
+        },
+        {
+            "move": "Feint Attack",
+            "level": 19
+        },
+        {
+            "move": "Ingrain",
+            "level": 22
+        },
+        {
+            "move": "Payback",
+            "level": 26
+        },
+        {
+            "move": "Spikes",
+            "level": 30
+        },
+        {
+            "move": "Sucker Punch",
+            "level": 35
+        },
+        {
+            "move": "Pin Missile",
+            "level": 38
+        },
+        {
+            "move": "Energy Ball",
+            "level": 44
+        },
+        {
+            "move": "Cotton Spore",
+            "level": 49
+        },
+        {
+            "move": "Sandstorm",
+            "level": 54
+        },
+        {
+            "move": "Destiny Bond",
+            "level": 59
+        },
+        {
+            "move": "Acid",
+            "egg_move": true
+        },
+        {
+            "move": "Belch",
+            "egg_move": true
+        },
+        {
+            "move": "Block",
+            "egg_move": true
+        },
+        {
+            "move": "Counter",
+            "egg_move": true
+        },
+        {
+            "move": "Disable",
+            "egg_move": true
+        },
+        {
+            "move": "Dynamic Punch",
+            "egg_move": true
+        },
+        {
+            "move": "Fell Stinger",
+            "egg_move": true
+        },
+        {
+            "move": "Grass Whistle",
+            "egg_move": true
+        },
+        {
+            "move": "Low Kick",
+            "egg_move": true
+        },
+        {
+            "move": "Magical Leaf",
+            "egg_move": true
+        },
+        {
+            "move": "Nasty Plot",
+            "egg_move": true
+        },
+        {
+            "move": "Power-Up Punch",
+            "egg_move": true
+        },
+        {
+            "move": "Rototiller",
+            "egg_move": true
+        },
+        {
+            "move": "Seed Bomb",
+            "egg_move": true
+        },
+        {
+            "move": "Smelling Salts",
+            "egg_move": true
+        },
+        {
+            "move": "Switcheroo",
+            "egg_move": true
+        },
+        {
+            "move": "Teeter Dance",
+            "egg_move": true
+        },
+        {
+            "move": "Worry Seed",
+            "egg_move": true
+        },
+        {
+            "move": "Toxic",
+            "tm": "TM6"
+        },
+        {
+            "move": "Venoshock",
+            "tm": "TM9"
+        },
+        {
+            "move": "Hidden Power",
+            "tm": "TM10"
+        },
+        {
+            "move": "Sunny Day",
+            "tm": "TM11"
+        },
+        {
+            "move": "Hyper Beam",
+            "tm": "TM15"
+        },
+        {
+            "move": "Protect",
+            "tm": "TM17"
+        },
+        {
+            "move": "Frustration",
+            "tm": "TM21"
+        },
+        {
+            "move": "Solar Beam",
+            "tm": "TM22"
+        },
+        {
+            "move": "Return",
+            "tm": "TM27"
+        },
+        {
+            "move": "Brick Break",
+            "tm": "TM31"
+        },
+        {
+            "move": "Double Team",
+            "tm": "TM32"
+        },
+        {
+            "move": "Sandstorm",
+            "tm": "TM37"
+        },
+        {
+            "move": "Facade",
+            "tm": "TM42"
+        },
+        {
+            "move": "Rest",
+            "tm": "TM44"
+        },
+        {
+            "move": "Attract",
+            "tm": "TM45"
+        },
+        {
+            "move": "Round",
+            "tm": "TM48"
+        },
+        {
+            "move": "Focus Blast",
+            "tm": "TM52"
+        },
+        {
+            "move": "Energy Ball",
+            "tm": "TM53"
+        },
+        {
+            "move": "Fling",
+            "tm": "TM56"
+        },
+        {
+            "move": "Embargo",
+            "tm": "TM63"
+        },
+        {
+            "move": "Payback",
+            "tm": "TM66"
+        },
+        {
+            "move": "Giga Impact",
+            "tm": "TM68"
+        },
+        {
+            "move": "Swords Dance",
+            "tm": "TM75"
+        },
+        {
+            "move": "Poison Jab",
+            "tm": "TM84"
+        },
+        {
+            "move": "Grass Knot",
+            "tm": "TM86"
+        },
+        {
+            "move": "Swagger",
+            "tm": "TM87"
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": "TM88"
+        },
+        {
+            "move": "Substitute",
+            "tm": "TM90"
+        },
+        {
+            "move": "Nature Power",
+            "tm": "TM96"
+        },
+        {
+            "move": "Dark Pulse",
+            "tm": "TM97"
+        },
+        {
+            "move": "Confide",
+            "tm": "TM100"
+        }
+    ]
+}

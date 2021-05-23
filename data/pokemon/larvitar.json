@@ -1,0 +1,312 @@
+{
+    "name": "Larvitar",
+    "national_id": 246,
+    "types": [
+        "Rock",
+        "Ground"
+    ],
+    "abilities": [
+        {
+            "name": "Guts"
+        },
+        {
+            "name": "Sand Veil",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 45,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Monster"
+    ],
+    "hatch_time": [
+        10455,
+        10709
+    ],
+    "height_us": "2'00\"",
+    "height_eu": "0.6 m",
+    "weight_us": "158.7 lbs.",
+    "weight_eu": "72.0 kg",
+    "base_exp_yield": 60,
+    "leveling_rate": "Slow",
+    "base_friendship": 35,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 1,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 50,
+        "atk": 64,
+        "def": 50,
+        "sp_atk": 45,
+        "sp_def": 50,
+        "speed": 41
+    },
+    "evolution_from": null,
+    "evolutions": [
+        {
+            "to": "Pupitar",
+            "level": 30
+        }
+    ],
+    "species": "Rock Skin Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "It feeds on soil. After it has eaten a large mountain, it will fall asleep so it can grow.",
+    "move_learnset": [
+        {
+            "move": "Tackle",
+            "level": 1
+        },
+        {
+            "move": "Leer",
+            "level": 1
+        },
+        {
+            "move": "Rock Throw",
+            "level": 3
+        },
+        {
+            "move": "Payback",
+            "level": 6
+        },
+        {
+            "move": "Bite",
+            "level": 9
+        },
+        {
+            "move": "Scary Face",
+            "level": 12
+        },
+        {
+            "move": "Rock Slide",
+            "level": 15
+        },
+        {
+            "move": "Stomping Tantrum",
+            "level": 18
+        },
+        {
+            "move": "Screech",
+            "level": 21
+        },
+        {
+            "move": "Dark Pulse",
+            "level": 24
+        },
+        {
+            "move": "Crunch",
+            "level": 27
+        },
+        {
+            "move": "Earthquake",
+            "level": 31
+        },
+        {
+            "move": "Stone Edge",
+            "level": 33
+        },
+        {
+            "move": "Thrash",
+            "level": 36
+        },
+        {
+            "move": "Sandstorm",
+            "level": 39
+        },
+        {
+            "move": "Hyper Beam",
+            "level": 42
+        },
+        {
+            "move": "Hyper Beam",
+            "tm": true
+        },
+        {
+            "move": "Dig",
+            "tm": true
+        },
+        {
+            "move": "Screech",
+            "tm": true
+        },
+        {
+            "move": "Rest",
+            "tm": true
+        },
+        {
+            "move": "Rock Slide",
+            "tm": true
+        },
+        {
+            "move": "Snore",
+            "tm": true
+        },
+        {
+            "move": "Protect",
+            "tm": true
+        },
+        {
+            "move": "Scary Face",
+            "tm": true
+        },
+        {
+            "move": "Attract",
+            "tm": true
+        },
+        {
+            "move": "Sandstorm",
+            "tm": true
+        },
+        {
+            "move": "Rain Dance",
+            "tm": true
+        },
+        {
+            "move": "Sunny Day",
+            "tm": true
+        },
+        {
+            "move": "Facade",
+            "tm": true
+        },
+        {
+            "move": "Brick Break",
+            "tm": true
+        },
+        {
+            "move": "Rock Tomb",
+            "tm": true
+        },
+        {
+            "move": "Sand Tomb",
+            "tm": true
+        },
+        {
+            "move": "Payback",
+            "tm": true
+        },
+        {
+            "move": "Assurance",
+            "tm": true
+        },
+        {
+            "move": "Round",
+            "tm": true
+        },
+        {
+            "move": "Retaliate",
+            "tm": true
+        },
+        {
+            "move": "Bulldoze",
+            "tm": true
+        },
+        {
+            "move": "Snarl",
+            "tm": true
+        },
+        {
+            "move": "Stomping Tantrum",
+            "tm": true
+        },
+        {
+            "move": "Body Slam",
+            "tm": true
+        },
+        {
+            "move": "Earthquake",
+            "tm": true
+        },
+        {
+            "move": "Focus Energy",
+            "tm": true
+        },
+        {
+            "move": "Substitute",
+            "tm": true
+        },
+        {
+            "move": "Outrage",
+            "tm": true
+        },
+        {
+            "move": "Endure",
+            "tm": true
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": true
+        },
+        {
+            "move": "Iron Tail",
+            "tm": true
+        },
+        {
+            "move": "Crunch",
+            "tm": true
+        },
+        {
+            "move": "Uproar",
+            "tm": true
+        },
+        {
+            "move": "Taunt",
+            "tm": true
+        },
+        {
+            "move": "Superpower",
+            "tm": true
+        },
+        {
+            "move": "Muddy Water",
+            "tm": true
+        },
+        {
+            "move": "Iron Defense",
+            "tm": true
+        },
+        {
+            "move": "Dragon Dance",
+            "tm": true
+        },
+        {
+            "move": "Dark Pulse",
+            "tm": true
+        },
+        {
+            "move": "Earth Power",
+            "tm": true
+        },
+        {
+            "move": "Iron Head",
+            "tm": true
+        },
+        {
+            "move": "Stone Edge",
+            "tm": true
+        },
+        {
+            "move": "Stealth Rock",
+            "tm": true
+        },
+        {
+            "move": "Stomp",
+            "egg_move": true
+        },
+        {
+            "move": "Ancient Power",
+            "egg_move": true
+        },
+        {
+            "move": "Curse",
+            "egg_move": true
+        }
+    ]
+}

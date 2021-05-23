@@ -1,0 +1,323 @@
+{
+    "name": "Inteleon",
+    "national_id": 818,
+    "types": [
+        "Water"
+    ],
+    "abilities": [
+        {
+            "name": "Torrent"
+        },
+        {
+            "name": "Sniper",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 45,
+    "gender_ratios": {
+        "male": 87.5,
+        "female": 12.5
+    },
+    "egg_groups": [
+        "Water1",
+        "Field"
+    ],
+    "hatch_time": [
+        5140,
+        5396
+    ],
+    "height_us": "6'03\"",
+    "height_eu": "1.9 m",
+    "weight_us": "99.6 lbs.",
+    "weight_eu": "45.2 kg",
+    "base_exp_yield": 265,
+    "leveling_rate": "Medium Slow",
+    "base_friendship": 50,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 3
+    },
+    "base_stats": {
+        "hp": 70,
+        "atk": 85,
+        "def": 65,
+        "sp_atk": 125,
+        "sp_def": 65,
+        "speed": 120
+    },
+    "evolution_from": null,
+    "evolutions": [],
+    "species": "Secret Agent Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "Its nictitating membranes let it pick out foes’ weak points so it can precisely blast them with water that shoots from its fingertips at Mach 3.",
+    "move_learnset": [
+        {
+            "move": "Snipe Shot",
+            "evo": true
+        },
+        {
+            "move": "Snipe Shot",
+            "level": 1
+        },
+        {
+            "move": "Acrobatics",
+            "level": 1
+        },
+        {
+            "move": "Pound",
+            "level": 1
+        },
+        {
+            "move": "Growl",
+            "level": 1
+        },
+        {
+            "move": "Water Gun",
+            "level": 1
+        },
+        {
+            "move": "Bind",
+            "level": 1
+        },
+        {
+            "move": "Water Pulse",
+            "level": 12
+        },
+        {
+            "move": "Tearful Look",
+            "level": 19
+        },
+        {
+            "move": "Sucker Punch",
+            "level": 24
+        },
+        {
+            "move": "U-turn",
+            "level": 30
+        },
+        {
+            "move": "Liquidation",
+            "level": 38
+        },
+        {
+            "move": "Soak",
+            "level": 46
+        },
+        {
+            "move": "Rain Dance",
+            "level": 54
+        },
+        {
+            "move": "Hydro Pump",
+            "level": 62
+        },
+        {
+            "move": "Hyper Beam",
+            "tm": true
+        },
+        {
+            "move": "Giga Impact",
+            "tm": true
+        },
+        {
+            "move": "Light Screen",
+            "tm": true
+        },
+        {
+            "move": "Reflect",
+            "tm": true
+        },
+        {
+            "move": "Safeguard",
+            "tm": true
+        },
+        {
+            "move": "Rest",
+            "tm": true
+        },
+        {
+            "move": "Snore",
+            "tm": true
+        },
+        {
+            "move": "Protect",
+            "tm": true
+        },
+        {
+            "move": "Icy Wind",
+            "tm": true
+        },
+        {
+            "move": "Attract",
+            "tm": true
+        },
+        {
+            "move": "Rain Dance",
+            "tm": true
+        },
+        {
+            "move": "Whirlpool",
+            "tm": true
+        },
+        {
+            "move": "Facade",
+            "tm": true
+        },
+        {
+            "move": "Swift",
+            "tm": true
+        },
+        {
+            "move": "Dive",
+            "tm": true
+        },
+        {
+            "move": "Weather Ball",
+            "tm": true
+        },
+        {
+            "move": "Icicle Spear",
+            "tm": true
+        },
+        {
+            "move": "Bounce",
+            "tm": true
+        },
+        {
+            "move": "Mud Shot",
+            "tm": true
+        },
+        {
+            "move": "U-turn",
+            "tm": true
+        },
+        {
+            "move": "Fling",
+            "tm": true
+        },
+        {
+            "move": "Round",
+            "tm": true
+        },
+        {
+            "move": "Acrobatics",
+            "tm": true
+        },
+        {
+            "move": "Air Slash",
+            "tm": true
+        },
+        {
+            "move": "Breaking Swipe",
+            "tm": true
+        },
+        {
+            "move": "Swords Dance",
+            "tm": true
+        },
+        {
+            "move": "Hydro Pump",
+            "tm": true
+        },
+        {
+            "move": "Surf",
+            "tm": true
+        },
+        {
+            "move": "Ice Beam",
+            "tm": true
+        },
+        {
+            "move": "Blizzard",
+            "tm": true
+        },
+        {
+            "move": "Agility",
+            "tm": true
+        },
+        {
+            "move": "Focus Energy",
+            "tm": true
+        },
+        {
+            "move": "Metronome",
+            "tm": true
+        },
+        {
+            "move": "Waterfall",
+            "tm": true
+        },
+        {
+            "move": "Substitute",
+            "tm": true
+        },
+        {
+            "move": "Endure",
+            "tm": true
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": true
+        },
+        {
+            "move": "Baton Pass",
+            "tm": true
+        },
+        {
+            "move": "Shadow Ball",
+            "tm": true
+        },
+        {
+            "move": "Muddy Water",
+            "tm": true
+        },
+        {
+            "move": "Dark Pulse",
+            "tm": true
+        },
+        {
+            "move": "Scald",
+            "tm": true
+        },
+        {
+            "move": "Work Up",
+            "tm": true
+        },
+        {
+            "move": "Liquidation",
+            "tm": true
+        },
+        {
+            "move": "Aqua Jet",
+            "egg_move": true
+        },
+        {
+            "move": "Double Team",
+            "egg_move": true
+        },
+        {
+            "move": "Aqua Ring",
+            "egg_move": true
+        },
+        {
+            "move": "Mist",
+            "egg_move": true
+        },
+        {
+            "move": "Haze",
+            "egg_move": true
+        },
+        {
+            "move": "Ice Shard",
+            "egg_move": true
+        },
+        {
+            "move": "Fell Stinger",
+            "egg_move": true
+        }
+    ]
+}

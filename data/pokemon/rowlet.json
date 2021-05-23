@@ -1,0 +1,244 @@
+{
+    "name": "Rowlet",
+    "national_id": 722,
+    "types": [
+        "Grass",
+        "Flying"
+    ],
+    "abilities": [
+        {
+            "name": "Overgrow"
+        },
+        {
+            "name": "Long Reach",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 45,
+    "gender_ratios": {
+        "male": 87.5,
+        "female": 12.5
+    },
+    "egg_groups": [
+        "Flying"
+    ],
+    "hatch_time": [
+        3855,
+        4111
+    ],
+    "height_us": "1'00\"",
+    "height_eu": "0.3 m",
+    "weight_us": "3.3 lbs.",
+    "weight_eu": "1.5 kg",
+    "base_exp_yield": 64,
+    "leveling_rate": "Medium Slow",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 1,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 68,
+        "atk": 55,
+        "def": 55,
+        "sp_atk": 50,
+        "sp_def": 50,
+        "speed": 42
+    },
+    "evolution_from": null,
+    "evolutions": [
+        {
+            "to": "Dartrix",
+            "level": 17
+        }
+    ],
+    "species": "Grass Quill Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "During the day, it builds up energy via photosynthesis. At night, it flies silently through the sky, on the prowl for prey.",
+    "move_learnset": [
+        {
+            "move": "Tackle",
+            "level": 1
+        },
+        {
+            "move": "Growl",
+            "level": 1
+        },
+        {
+            "move": "Leafage",
+            "level": 3
+        },
+        {
+            "move": "Astonish",
+            "level": 6
+        },
+        {
+            "move": "Peck",
+            "level": 9
+        },
+        {
+            "move": "Shadow Sneak",
+            "level": 12
+        },
+        {
+            "move": "Razor Leaf",
+            "level": 15
+        },
+        {
+            "move": "Synthesis",
+            "level": 18
+        },
+        {
+            "move": "Pluck",
+            "level": 21
+        },
+        {
+            "move": "Nasty Plot",
+            "level": 24
+        },
+        {
+            "move": "Sucker Punch",
+            "level": 27
+        },
+        {
+            "move": "Leaf Blade",
+            "level": 30
+        },
+        {
+            "move": "Feather Dance",
+            "level": 33
+        },
+        {
+            "move": "Brave Bird",
+            "level": 36
+        },
+        {
+            "move": "Solar Beam",
+            "tm": true
+        },
+        {
+            "move": "Light Screen",
+            "tm": true
+        },
+        {
+            "move": "Safeguard",
+            "tm": true
+        },
+        {
+            "move": "Rest",
+            "tm": true
+        },
+        {
+            "move": "Snore",
+            "tm": true
+        },
+        {
+            "move": "Protect",
+            "tm": true
+        },
+        {
+            "move": "Giga Drain",
+            "tm": true
+        },
+        {
+            "move": "Steel Wing",
+            "tm": true
+        },
+        {
+            "move": "Attract",
+            "tm": true
+        },
+        {
+            "move": "Sunny Day",
+            "tm": true
+        },
+        {
+            "move": "Facade",
+            "tm": true
+        },
+        {
+            "move": "Swift",
+            "tm": true
+        },
+        {
+            "move": "Shadow Claw",
+            "tm": true
+        },
+        {
+            "move": "Round",
+            "tm": true
+        },
+        {
+            "move": "False Swipe",
+            "tm": true
+        },
+        {
+            "move": "Swords Dance",
+            "tm": true
+        },
+        {
+            "move": "Substitute",
+            "tm": true
+        },
+        {
+            "move": "Endure",
+            "tm": true
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": true
+        },
+        {
+            "move": "Baton Pass",
+            "tm": true
+        },
+        {
+            "move": "Leaf Blade",
+            "tm": true
+        },
+        {
+            "move": "Seed Bomb",
+            "tm": true
+        },
+        {
+            "move": "Energy Ball",
+            "tm": true
+        },
+        {
+            "move": "Brave Bird",
+            "tm": true
+        },
+        {
+            "move": "Nasty Plot",
+            "tm": true
+        },
+        {
+            "move": "Grass Knot",
+            "tm": true
+        },
+        {
+            "move": "Work Up",
+            "tm": true
+        },
+        {
+            "move": "Confuse Ray",
+            "egg_move": true
+        },
+        {
+            "move": "Defog",
+            "egg_move": true
+        },
+        {
+            "move": "Knock Off",
+            "egg_move": true
+        },
+        {
+            "move": "Double Team",
+            "egg_move": true
+        }
+    ]
+}

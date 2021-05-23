@@ -1,0 +1,255 @@
+{
+    "name": "Melmetal",
+    "national_id": 809,
+    "types": [
+        "Steel"
+    ],
+    "abilities": [
+        {
+            "name": "Iron Fist"
+        }
+    ],
+    "catch_rate": 3,
+    "gender_ratios": null,
+    "egg_groups": [
+        "Undiscovered"
+    ],
+    "hatch_time": [
+        30840,
+        31096
+    ],
+    "height_us": "8'02\"",
+    "height_eu": "2.5 m",
+    "weight_us": "1763.7 lbs.",
+    "weight_eu": "800.0 kg",
+    "base_exp_yield": 270,
+    "leveling_rate": "Slow",
+    "base_friendship": 0,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 3,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 135,
+        "atk": 143,
+        "def": 143,
+        "sp_atk": 80,
+        "sp_def": 65,
+        "speed": 34
+    },
+    "evolution_from": "Meltan",
+    "evolutions": [],
+    "species": "Hex Nut Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "Centrifugal force is behind the punches of Melmetal’s heavy hex-nut arms. Melmetal is said to deliver the strongest punches of all Pokémon.",
+    "move_learnset": [
+        {
+            "move": "Thunder Punch",
+            "evo": true
+        },
+        {
+            "move": "Thunder Punch",
+            "level": 1
+        },
+        {
+            "move": "Thunder Shock",
+            "level": 1
+        },
+        {
+            "move": "Harden",
+            "level": 1
+        },
+        {
+            "move": "Tail Whip",
+            "level": 1
+        },
+        {
+            "move": "Headbutt",
+            "level": 1
+        },
+        {
+            "move": "Thunder Wave",
+            "level": 24
+        },
+        {
+            "move": "Acid Armor",
+            "level": 32
+        },
+        {
+            "move": "Flash Cannon",
+            "level": 40
+        },
+        {
+            "move": "Mega Punch",
+            "level": 48
+        },
+        {
+            "move": "Protect",
+            "level": 56
+        },
+        {
+            "move": "Discharge",
+            "level": 64
+        },
+        {
+            "move": "Dynamic Punch",
+            "level": 72
+        },
+        {
+            "move": "Superpower",
+            "level": 80
+        },
+        {
+            "move": "Double Iron Bash",
+            "level": 88
+        },
+        {
+            "move": "Hyper Beam",
+            "level": 96
+        },
+        {
+            "move": "Mega Punch",
+            "tm": true
+        },
+        {
+            "move": "Mega Kick",
+            "tm": true
+        },
+        {
+            "move": "Ice Punch",
+            "tm": true
+        },
+        {
+            "move": "Thunder Punch",
+            "tm": true
+        },
+        {
+            "move": "Hyper Beam",
+            "tm": true
+        },
+        {
+            "move": "Giga Impact",
+            "tm": true
+        },
+        {
+            "move": "Solar Beam",
+            "tm": true
+        },
+        {
+            "move": "Thunder Wave",
+            "tm": true
+        },
+        {
+            "move": "Self-Destruct",
+            "tm": true
+        },
+        {
+            "move": "Rest",
+            "tm": true
+        },
+        {
+            "move": "Rock Slide",
+            "tm": true
+        },
+        {
+            "move": "Snore",
+            "tm": true
+        },
+        {
+            "move": "Protect",
+            "tm": true
+        },
+        {
+            "move": "Facade",
+            "tm": true
+        },
+        {
+            "move": "Brick Break",
+            "tm": true
+        },
+        {
+            "move": "Rock Tomb",
+            "tm": true
+        },
+        {
+            "move": "Round",
+            "tm": true
+        },
+        {
+            "move": "Electric Terrain",
+            "tm": true
+        },
+        {
+            "move": "Brutal Swing",
+            "tm": true
+        },
+        {
+            "move": "Body Slam",
+            "tm": true
+        },
+        {
+            "move": "Ice Beam",
+            "tm": true
+        },
+        {
+            "move": "Thunderbolt",
+            "tm": true
+        },
+        {
+            "move": "Thunder",
+            "tm": true
+        },
+        {
+            "move": "Substitute",
+            "tm": true
+        },
+        {
+            "move": "Endure",
+            "tm": true
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": true
+        },
+        {
+            "move": "Superpower",
+            "tm": true
+        },
+        {
+            "move": "Iron Defense",
+            "tm": true
+        },
+        {
+            "move": "Gyro Ball",
+            "tm": true
+        },
+        {
+            "move": "Flash Cannon",
+            "tm": true
+        },
+        {
+            "move": "Iron Head",
+            "tm": true
+        },
+        {
+            "move": "Heavy Slam",
+            "tm": true
+        },
+        {
+            "move": "Darkest Lariat",
+            "tm": true
+        },
+        {
+            "move": "High Horsepower",
+            "tm": true
+        },
+        {
+            "move": "Body Press",
+            "tm": true
+        }
+    ]
+}

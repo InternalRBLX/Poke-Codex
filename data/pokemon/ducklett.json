@@ -1,0 +1,256 @@
+{
+    "name": "Ducklett",
+    "national_id": 580,
+    "types": [
+        "Water",
+        "Flying"
+    ],
+    "abilities": [
+        {
+            "name": "Keen Eye"
+        },
+        {
+            "name": "Big Pecks"
+        },
+        {
+            "name": "Hydration",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 190,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Water 1",
+        "Flying"
+    ],
+    "hatch_time": [
+        5355,
+        5609
+    ],
+    "height_us": "1'08\"",
+    "height_eu": "0.5 m",
+    "weight_us": "12.1 lbs.",
+    "weight_eu": "5.5 kg",
+    "base_exp_yield": 61,
+    "leveling_rate": "Medium Fast",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 1,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 62,
+        "atk": 44,
+        "def": 50,
+        "sp_atk": 44,
+        "sp_def": 50,
+        "speed": 55
+    },
+    "evolution_from": null,
+    "evolutions": [
+        {
+            "to": "Swanna",
+            "level": 35
+        }
+    ],
+    "species": "Water Bird Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "They are better at swimming than flying, and they happily eat their favorite food, peat moss, as they dive underwater.",
+    "move_learnset": [
+        {
+            "move": "Water Gun",
+            "level": 1
+        },
+        {
+            "move": "Water Sport",
+            "level": 3
+        },
+        {
+            "move": "Defog",
+            "level": 6
+        },
+        {
+            "move": "Wing Attack",
+            "level": 9
+        },
+        {
+            "move": "Water Pulse",
+            "level": 13
+        },
+        {
+            "move": "Aerial Ace",
+            "level": 15
+        },
+        {
+            "move": "Bubble Beam",
+            "level": 19
+        },
+        {
+            "move": "Feather Dance",
+            "level": 21
+        },
+        {
+            "move": "Aqua Ring",
+            "level": 24
+        },
+        {
+            "move": "Air Slash",
+            "level": 27
+        },
+        {
+            "move": "Roost",
+            "level": 30
+        },
+        {
+            "move": "Rain Dance",
+            "level": 34
+        },
+        {
+            "move": "Tailwind",
+            "level": 37
+        },
+        {
+            "move": "Brave Bird",
+            "level": 41
+        },
+        {
+            "move": "Hurricane",
+            "level": 46
+        },
+        {
+            "move": "Air Cutter",
+            "egg_move": true
+        },
+        {
+            "move": "Aqua Jet",
+            "egg_move": true
+        },
+        {
+            "move": "Brine",
+            "egg_move": true
+        },
+        {
+            "move": "Gust",
+            "egg_move": true
+        },
+        {
+            "move": "Lucky Chant",
+            "egg_move": true
+        },
+        {
+            "move": "Me First",
+            "egg_move": true
+        },
+        {
+            "move": "Mirror Move",
+            "egg_move": true
+        },
+        {
+            "move": "Mud Sport",
+            "egg_move": true
+        },
+        {
+            "move": "Steel Wing",
+            "egg_move": true
+        },
+        {
+            "move": "Toxic",
+            "tm": "TM6"
+        },
+        {
+            "move": "Hail",
+            "tm": "TM7"
+        },
+        {
+            "move": "Hidden Power",
+            "tm": "TM10"
+        },
+        {
+            "move": "Ice Beam",
+            "tm": "TM13"
+        },
+        {
+            "move": "Protect",
+            "tm": "TM17"
+        },
+        {
+            "move": "Rain Dance",
+            "tm": "TM18"
+        },
+        {
+            "move": "Roost",
+            "tm": "TM19"
+        },
+        {
+            "move": "Frustration",
+            "tm": "TM21"
+        },
+        {
+            "move": "Return",
+            "tm": "TM27"
+        },
+        {
+            "move": "Double Team",
+            "tm": "TM32"
+        },
+        {
+            "move": "Aerial Ace",
+            "tm": "TM40"
+        },
+        {
+            "move": "Facade",
+            "tm": "TM42"
+        },
+        {
+            "move": "Rest",
+            "tm": "TM44"
+        },
+        {
+            "move": "Attract",
+            "tm": "TM45"
+        },
+        {
+            "move": "Round",
+            "tm": "TM48"
+        },
+        {
+            "move": "Steel Wing",
+            "tm": "TM51"
+        },
+        {
+            "move": "Scald",
+            "tm": "TM55"
+        },
+        {
+            "move": "Fly",
+            "tm": "TM76"
+        },
+        {
+            "move": "Swagger",
+            "tm": "TM87"
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": "TM88"
+        },
+        {
+            "move": "Substitute",
+            "tm": "TM90"
+        },
+        {
+            "move": "Surf",
+            "tm": "TM94"
+        },
+        {
+            "move": "Confide",
+            "tm": "TM100"
+        }
+    ]
+}

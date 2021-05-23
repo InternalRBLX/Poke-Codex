@@ -1,0 +1,289 @@
+{
+    "name": "Swablu",
+    "national_id": 333,
+    "types": [
+        "Normal",
+        "Flying"
+    ],
+    "abilities": [
+        {
+            "name": "Natural Cure"
+        },
+        {
+            "name": "Cloud Nine",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 255,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Flying",
+        "Dragon"
+    ],
+    "hatch_time": [
+        5355,
+        5609
+    ],
+    "height_us": "1'04\"",
+    "height_eu": "0.4 m",
+    "weight_us": "2.6 lbs.",
+    "weight_eu": "1.2 kg",
+    "base_exp_yield": 62,
+    "leveling_rate": "Erratic",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 1,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 45,
+        "atk": 40,
+        "def": 60,
+        "sp_atk": 40,
+        "sp_def": 75,
+        "speed": 50
+    },
+    "evolution_from": null,
+    "evolutions": [
+        {
+            "to": "Altaria",
+            "level": 35
+        }
+    ],
+    "species": "Cotton Bird Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "Swablu loves to make things clean. If it spots something dirty, it will wipe and polish it with its cottony wings. If its wings become dirty, this Pokémon finds a stream and showers itself.",
+    "move_learnset": [
+        {
+            "move": "Growl",
+            "level": 1
+        },
+        {
+            "move": "Peck",
+            "level": 1
+        },
+        {
+            "move": "Astonish",
+            "level": 3
+        },
+        {
+            "move": "Sing",
+            "level": 5
+        },
+        {
+            "move": "Fury Attack",
+            "level": 7
+        },
+        {
+            "move": "Safeguard",
+            "level": 9
+        },
+        {
+            "move": "Disarming Voice",
+            "level": 11
+        },
+        {
+            "move": "Mist",
+            "level": 14
+        },
+        {
+            "move": "Round",
+            "level": 17
+        },
+        {
+            "move": "Natural Gift",
+            "level": 20
+        },
+        {
+            "move": "Take Down",
+            "level": 23
+        },
+        {
+            "move": "Refresh",
+            "level": 26
+        },
+        {
+            "move": "Mirror Move",
+            "level": 30
+        },
+        {
+            "move": "Cotton Guard",
+            "level": 34
+        },
+        {
+            "move": "Dragon Pulse",
+            "level": 38
+        },
+        {
+            "move": "Perish Song",
+            "level": 42
+        },
+        {
+            "move": "Moonblast",
+            "level": 46
+        },
+        {
+            "move": "Agility",
+            "egg_move": true
+        },
+        {
+            "move": "Dragon Rush",
+            "egg_move": true
+        },
+        {
+            "move": "Feather Dance",
+            "egg_move": true
+        },
+        {
+            "move": "Haze",
+            "egg_move": true
+        },
+        {
+            "move": "Hyper Voice",
+            "egg_move": true
+        },
+        {
+            "move": "Play Rough",
+            "egg_move": true
+        },
+        {
+            "move": "Power Swap",
+            "egg_move": true
+        },
+        {
+            "move": "Pursuit",
+            "egg_move": true
+        },
+        {
+            "move": "Rage",
+            "egg_move": true
+        },
+        {
+            "move": "Roost",
+            "egg_move": true
+        },
+        {
+            "move": "Steel Wing",
+            "egg_move": true
+        },
+        {
+            "move": "Toxic",
+            "tm": "TM6"
+        },
+        {
+            "move": "Hidden Power",
+            "tm": "TM10"
+        },
+        {
+            "move": "Sunny Day",
+            "tm": "TM11"
+        },
+        {
+            "move": "Ice Beam",
+            "tm": "TM13"
+        },
+        {
+            "move": "Protect",
+            "tm": "TM17"
+        },
+        {
+            "move": "Rain Dance",
+            "tm": "TM18"
+        },
+        {
+            "move": "Roost",
+            "tm": "TM19"
+        },
+        {
+            "move": "Safeguard",
+            "tm": "TM20"
+        },
+        {
+            "move": "Frustration",
+            "tm": "TM21"
+        },
+        {
+            "move": "Solar Beam",
+            "tm": "TM22"
+        },
+        {
+            "move": "Return",
+            "tm": "TM27"
+        },
+        {
+            "move": "Double Team",
+            "tm": "TM32"
+        },
+        {
+            "move": "Aerial Ace",
+            "tm": "TM40"
+        },
+        {
+            "move": "Facade",
+            "tm": "TM42"
+        },
+        {
+            "move": "Rest",
+            "tm": "TM44"
+        },
+        {
+            "move": "Attract",
+            "tm": "TM45"
+        },
+        {
+            "move": "Thief",
+            "tm": "TM46"
+        },
+        {
+            "move": "Round",
+            "tm": "TM48"
+        },
+        {
+            "move": "Echoed Voice",
+            "tm": "TM49"
+        },
+        {
+            "move": "Steel Wing",
+            "tm": "TM51"
+        },
+        {
+            "move": "Fly",
+            "tm": "TM76"
+        },
+        {
+            "move": "Psych Up",
+            "tm": "TM77"
+        },
+        {
+            "move": "Dream Eater",
+            "tm": "TM85"
+        },
+        {
+            "move": "Swagger",
+            "tm": "TM87"
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": "TM88"
+        },
+        {
+            "move": "Substitute",
+            "tm": "TM90"
+        },
+        {
+            "move": "Dazzling Gleam",
+            "tm": "TM99"
+        },
+        {
+            "move": "Confide",
+            "tm": "TM100"
+        }
+    ]
+}

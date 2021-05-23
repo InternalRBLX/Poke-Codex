@@ -1,0 +1,324 @@
+{
+    "name": "Drifblim",
+    "national_id": 426,
+    "types": [
+        "Ghost",
+        "Flying"
+    ],
+    "items": [
+        {
+            "name": "Air Balloon",
+            "chance": 1
+        }
+    ],
+    "abilities": [
+        {
+            "name": "Aftermath"
+        },
+        {
+            "name": "Unburden"
+        },
+        {
+            "name": "Flare Boost",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 60,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Amorphous"
+    ],
+    "hatch_time": [
+        7905,
+        8159
+    ],
+    "height_us": "3'11\"",
+    "height_eu": "1.2 m",
+    "weight_us": "33.1 lbs.",
+    "weight_eu": "15.0 kg",
+    "base_exp_yield": 174,
+    "leveling_rate": "Fluctuating",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 2,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 150,
+        "atk": 80,
+        "def": 44,
+        "sp_atk": 90,
+        "sp_def": 54,
+        "speed": 80
+    },
+    "evolution_from": "Drifloon",
+    "evolutions": [],
+    "species": "Blimp Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "It grabs people and Pokémon and carries them off somewhere. Where do they go? Nobody knows.",
+    "move_learnset": [
+        {
+            "move": "Phantom Force",
+            "evo": true
+        },
+        {
+            "move": "Phantom Force",
+            "level": 1
+        },
+        {
+            "move": "Strength Sap",
+            "level": 1
+        },
+        {
+            "move": "Minimize",
+            "level": 1
+        },
+        {
+            "move": "Astonish",
+            "level": 1
+        },
+        {
+            "move": "Gust",
+            "level": 1
+        },
+        {
+            "move": "Focus Energy",
+            "level": 1
+        },
+        {
+            "move": "Payback",
+            "level": 12
+        },
+        {
+            "move": "Hex",
+            "level": 16
+        },
+        {
+            "move": "Shadow Ball",
+            "level": 20
+        },
+        {
+            "move": "Stockpile",
+            "level": 24
+        },
+        {
+            "move": "Swallow",
+            "level": 24
+        },
+        {
+            "move": "Spit Up",
+            "level": 24
+        },
+        {
+            "move": "Self-Destruct",
+            "level": 31
+        },
+        {
+            "move": "Destiny Bond",
+            "level": 36
+        },
+        {
+            "move": "Baton Pass",
+            "level": 42
+        },
+        {
+            "move": "Tailwind",
+            "level": 48
+        },
+        {
+            "move": "Explosion",
+            "level": 54
+        },
+        {
+            "move": "Fly",
+            "tm": true
+        },
+        {
+            "move": "Hyper Beam",
+            "tm": true
+        },
+        {
+            "move": "Giga Impact",
+            "tm": true
+        },
+        {
+            "move": "Thunder Wave",
+            "tm": true
+        },
+        {
+            "move": "Self-Destruct",
+            "tm": true
+        },
+        {
+            "move": "Rest",
+            "tm": true
+        },
+        {
+            "move": "Thief",
+            "tm": true
+        },
+        {
+            "move": "Snore",
+            "tm": true
+        },
+        {
+            "move": "Protect",
+            "tm": true
+        },
+        {
+            "move": "Icy Wind",
+            "tm": true
+        },
+        {
+            "move": "Attract",
+            "tm": true
+        },
+        {
+            "move": "Rain Dance",
+            "tm": true
+        },
+        {
+            "move": "Sunny Day",
+            "tm": true
+        },
+        {
+            "move": "Will-O-Wisp",
+            "tm": true
+        },
+        {
+            "move": "Facade",
+            "tm": true
+        },
+        {
+            "move": "Swift",
+            "tm": true
+        },
+        {
+            "move": "Imprison",
+            "tm": true
+        },
+        {
+            "move": "Weather Ball",
+            "tm": true
+        },
+        {
+            "move": "Payback",
+            "tm": true
+        },
+        {
+            "move": "Round",
+            "tm": true
+        },
+        {
+            "move": "Hex",
+            "tm": true
+        },
+        {
+            "move": "Acrobatics",
+            "tm": true
+        },
+        {
+            "move": "Phantom Force",
+            "tm": true
+        },
+        {
+            "move": "Brutal Swing",
+            "tm": true
+        },
+        {
+            "move": "Body Slam",
+            "tm": true
+        },
+        {
+            "move": "Thunderbolt",
+            "tm": true
+        },
+        {
+            "move": "Thunder",
+            "tm": true
+        },
+        {
+            "move": "Psychic",
+            "tm": true
+        },
+        {
+            "move": "Focus Energy",
+            "tm": true
+        },
+        {
+            "move": "Amnesia",
+            "tm": true
+        },
+        {
+            "move": "Substitute",
+            "tm": true
+        },
+        {
+            "move": "Endure",
+            "tm": true
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": true
+        },
+        {
+            "move": "Baton Pass",
+            "tm": true
+        },
+        {
+            "move": "Shadow Ball",
+            "tm": true
+        },
+        {
+            "move": "Trick",
+            "tm": true
+        },
+        {
+            "move": "Skill Swap",
+            "tm": true
+        },
+        {
+            "move": "Calm Mind",
+            "tm": true
+        },
+        {
+            "move": "Gyro Ball",
+            "tm": true
+        },
+        {
+            "move": "Ally Switch",
+            "tm": true
+        },
+        {
+            "move": "Memento",
+            "egg_move": true
+        },
+        {
+            "move": "Disable",
+            "egg_move": true
+        },
+        {
+            "move": "Haze",
+            "egg_move": true
+        },
+        {
+            "move": "Hypnosis",
+            "egg_move": true
+        },
+        {
+            "move": "Clear Smog",
+            "egg_move": true
+        },
+        {
+            "move": "Defog",
+            "egg_move": true
+        }
+    ]
+}

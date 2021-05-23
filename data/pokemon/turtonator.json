@@ -1,0 +1,330 @@
+{
+    "name": "Turtonator",
+    "national_id": 776,
+    "types": [
+        "Fire",
+        "Dragon"
+    ],
+    "items": [
+        {
+            "name": "Charcoal",
+            "chance": 5
+        }
+    ],
+    "abilities": [
+        {
+            "name": "Shell Armor"
+        }
+    ],
+    "catch_rate": 70,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Monster",
+        "Dragon"
+    ],
+    "hatch_time": [
+        5140,
+        5396
+    ],
+    "height_us": "6'07\"",
+    "height_eu": "2.0 m",
+    "weight_us": "467.4 lbs.",
+    "weight_eu": "212.0 kg",
+    "base_exp_yield": 170,
+    "leveling_rate": "Medium Fast",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 2,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 60,
+        "atk": 78,
+        "def": 135,
+        "sp_atk": 91,
+        "sp_def": 85,
+        "speed": 36
+    },
+    "evolution_from": null,
+    "evolutions": [],
+    "species": "Blast Turtle Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "Eating sulfur in its volcanic habitat is what causes explosive compounds to develop in its shell. Its droppings are also dangerously explosive.",
+    "move_learnset": [
+        {
+            "move": "Smog",
+            "level": 1
+        },
+        {
+            "move": "Tackle",
+            "level": 1
+        },
+        {
+            "move": "Ember",
+            "level": 4
+        },
+        {
+            "move": "Protect",
+            "level": 8
+        },
+        {
+            "move": "Endure",
+            "level": 12
+        },
+        {
+            "move": "Flail",
+            "level": 16
+        },
+        {
+            "move": "Incinerate",
+            "level": 20
+        },
+        {
+            "move": "Iron Defense",
+            "level": 24
+        },
+        {
+            "move": "Dragon Pulse",
+            "level": 28
+        },
+        {
+            "move": "Body Slam",
+            "level": 32
+        },
+        {
+            "move": "Flamethrower",
+            "level": 36
+        },
+        {
+            "move": "Shell Trap",
+            "level": 40
+        },
+        {
+            "move": "Shell Smash",
+            "level": 44
+        },
+        {
+            "move": "Overheat",
+            "level": 48
+        },
+        {
+            "move": "Explosion",
+            "level": 52
+        },
+        {
+            "move": "Mega Punch",
+            "tm": true
+        },
+        {
+            "move": "Mega Kick",
+            "tm": true
+        },
+        {
+            "move": "Hyper Beam",
+            "tm": true
+        },
+        {
+            "move": "Giga Impact",
+            "tm": true
+        },
+        {
+            "move": "Solar Beam",
+            "tm": true
+        },
+        {
+            "move": "Fire Spin",
+            "tm": true
+        },
+        {
+            "move": "Rest",
+            "tm": true
+        },
+        {
+            "move": "Snore",
+            "tm": true
+        },
+        {
+            "move": "Protect",
+            "tm": true
+        },
+        {
+            "move": "Attract",
+            "tm": true
+        },
+        {
+            "move": "Sunny Day",
+            "tm": true
+        },
+        {
+            "move": "Will-O-Wisp",
+            "tm": true
+        },
+        {
+            "move": "Facade",
+            "tm": true
+        },
+        {
+            "move": "Revenge",
+            "tm": true
+        },
+        {
+            "move": "Rock Tomb",
+            "tm": true
+        },
+        {
+            "move": "Payback",
+            "tm": true
+        },
+        {
+            "move": "Fling",
+            "tm": true
+        },
+        {
+            "move": "Venoshock",
+            "tm": true
+        },
+        {
+            "move": "Round",
+            "tm": true
+        },
+        {
+            "move": "Bulldoze",
+            "tm": true
+        },
+        {
+            "move": "Brutal Swing",
+            "tm": true
+        },
+        {
+            "move": "Stomping Tantrum",
+            "tm": true
+        },
+        {
+            "move": "Body Slam",
+            "tm": true
+        },
+        {
+            "move": "Flamethrower",
+            "tm": true
+        },
+        {
+            "move": "Earthquake",
+            "tm": true
+        },
+        {
+            "move": "Fire Blast",
+            "tm": true
+        },
+        {
+            "move": "Substitute",
+            "tm": true
+        },
+        {
+            "move": "Outrage",
+            "tm": true
+        },
+        {
+            "move": "Endure",
+            "tm": true
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": true
+        },
+        {
+            "move": "Iron Tail",
+            "tm": true
+        },
+        {
+            "move": "Uproar",
+            "tm": true
+        },
+        {
+            "move": "Heat Wave",
+            "tm": true
+        },
+        {
+            "move": "Taunt",
+            "tm": true
+        },
+        {
+            "move": "Hyper Voice",
+            "tm": true
+        },
+        {
+            "move": "Overheat",
+            "tm": true
+        },
+        {
+            "move": "Iron Defense",
+            "tm": true
+        },
+        {
+            "move": "Dragon Claw",
+            "tm": true
+        },
+        {
+            "move": "Bulk Up",
+            "tm": true
+        },
+        {
+            "move": "Dragon Pulse",
+            "tm": true
+        },
+        {
+            "move": "Focus Blast",
+            "tm": true
+        },
+        {
+            "move": "Flash Cannon",
+            "tm": true
+        },
+        {
+            "move": "Iron Head",
+            "tm": true
+        },
+        {
+            "move": "Stone Edge",
+            "tm": true
+        },
+        {
+            "move": "Heavy Slam",
+            "tm": true
+        },
+        {
+            "move": "Work Up",
+            "tm": true
+        },
+        {
+            "move": "Heat Crash",
+            "tm": true
+        },
+        {
+            "move": "Body Press",
+            "tm": true
+        },
+        {
+            "move": "Wide Guard",
+            "egg_move": true
+        },
+        {
+            "move": "Head Smash",
+            "egg_move": true
+        },
+        {
+            "move": "Rapid Spin",
+            "egg_move": true
+        },
+        {
+            "move": "Curse",
+            "egg_move": true
+        }
+    ]
+}

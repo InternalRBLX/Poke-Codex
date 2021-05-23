@@ -1,0 +1,390 @@
+{
+    "name": "Dragonite",
+    "national_id": 149,
+    "types": [
+        "Dragon",
+        "Flying"
+    ],
+    "items": [
+        {
+            "name": "Dragon Scale",
+            "chance": 5
+        }
+    ],
+    "abilities": [
+        {
+            "name": "Inner Focus"
+        },
+        {
+            "name": "Multiscale",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 45,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Water 1",
+        "Dragon"
+    ],
+    "hatch_time": [
+        10455,
+        10709
+    ],
+    "height_us": "7'03\"",
+    "height_eu": "2.2 m",
+    "weight_us": "463.0 lbs.",
+    "weight_eu": "210.0 kg",
+    "base_exp_yield": 270,
+    "leveling_rate": "Slow",
+    "base_friendship": 35,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 3,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 91,
+        "atk": 134,
+        "def": 95,
+        "sp_atk": 100,
+        "sp_def": 100,
+        "speed": 80
+    },
+    "evolution_from": "Dragonair",
+    "evolutions": [],
+    "species": "Dragon Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "Dragonite is capable of circling the globe in just 16 hours. It is a kindhearted Pokémon that leads lost and foundering ships in a storm to the safety of land.",
+    "move_learnset": [
+        {
+            "move": "Fire Punch",
+            "level": 1
+        },
+        {
+            "move": "Hurricane",
+            "level": 1
+        },
+        {
+            "move": "Leer",
+            "level": 1
+        },
+        {
+            "move": "Roost",
+            "level": 1
+        },
+        {
+            "move": "Thunder Punch",
+            "level": 1
+        },
+        {
+            "move": "Thunder Wave",
+            "level": 1
+        },
+        {
+            "move": "Twister",
+            "level": 1
+        },
+        {
+            "move": "Wing Attack",
+            "level": 1
+        },
+        {
+            "move": "Wrap",
+            "level": 1
+        },
+        {
+            "move": "Thunder Wave",
+            "level": 5
+        },
+        {
+            "move": "Twister",
+            "level": 11
+        },
+        {
+            "move": "Dragon Rage",
+            "level": 15
+        },
+        {
+            "move": "Slam",
+            "level": 21
+        },
+        {
+            "move": "Agility",
+            "level": 25
+        },
+        {
+            "move": "Dragon Tail",
+            "level": 33
+        },
+        {
+            "move": "Aqua Tail",
+            "level": 39
+        },
+        {
+            "move": "Dragon Rush",
+            "level": 47
+        },
+        {
+            "move": "Safeguard",
+            "level": 53
+        },
+        {
+            "move": "Dragon Dance",
+            "level": 61
+        },
+        {
+            "move": "Outrage",
+            "level": 67
+        },
+        {
+            "move": "Hyper Beam",
+            "level": 75
+        },
+        {
+            "move": "Hurricane",
+            "level": 81
+        },
+        {
+            "move": "Aqua Jet",
+            "egg_move": true
+        },
+        {
+            "move": "Dragon Breath",
+            "egg_move": true
+        },
+        {
+            "move": "Dragon Dance",
+            "egg_move": true
+        },
+        {
+            "move": "Dragon Pulse",
+            "egg_move": true
+        },
+        {
+            "move": "Dragon Rush",
+            "egg_move": true
+        },
+        {
+            "move": "Extreme Speed",
+            "egg_move": true
+        },
+        {
+            "move": "Haze",
+            "egg_move": true
+        },
+        {
+            "move": "Iron Tail",
+            "egg_move": true
+        },
+        {
+            "move": "Mist",
+            "egg_move": true
+        },
+        {
+            "move": "Supersonic",
+            "egg_move": true
+        },
+        {
+            "move": "Water Pulse",
+            "egg_move": true
+        },
+        {
+            "move": "Dragon Claw",
+            "tm": "TM2"
+        },
+        {
+            "move": "Roar",
+            "tm": "TM5"
+        },
+        {
+            "move": "Toxic",
+            "tm": "TM6"
+        },
+        {
+            "move": "Hail",
+            "tm": "TM7"
+        },
+        {
+            "move": "Hidden Power",
+            "tm": "TM10"
+        },
+        {
+            "move": "Sunny Day",
+            "tm": "TM11"
+        },
+        {
+            "move": "Ice Beam",
+            "tm": "TM13"
+        },
+        {
+            "move": "Blizzard",
+            "tm": "TM14"
+        },
+        {
+            "move": "Hyper Beam",
+            "tm": "TM15"
+        },
+        {
+            "move": "Light Screen",
+            "tm": "TM16"
+        },
+        {
+            "move": "Protect",
+            "tm": "TM17"
+        },
+        {
+            "move": "Rain Dance",
+            "tm": "TM18"
+        },
+        {
+            "move": "Roost",
+            "tm": "TM19"
+        },
+        {
+            "move": "Safeguard",
+            "tm": "TM20"
+        },
+        {
+            "move": "Frustration",
+            "tm": "TM21"
+        },
+        {
+            "move": "Thunderbolt",
+            "tm": "TM24"
+        },
+        {
+            "move": "Thunder",
+            "tm": "TM25"
+        },
+        {
+            "move": "Earthquake",
+            "tm": "TM26"
+        },
+        {
+            "move": "Return",
+            "tm": "TM27"
+        },
+        {
+            "move": "Brick Break",
+            "tm": "TM31"
+        },
+        {
+            "move": "Double Team",
+            "tm": "TM32"
+        },
+        {
+            "move": "Flamethrower",
+            "tm": "TM35"
+        },
+        {
+            "move": "Sandstorm",
+            "tm": "TM37"
+        },
+        {
+            "move": "Fire Blast",
+            "tm": "TM38"
+        },
+        {
+            "move": "Rock Tomb",
+            "tm": "TM39"
+        },
+        {
+            "move": "Aerial Ace",
+            "tm": "TM40"
+        },
+        {
+            "move": "Facade",
+            "tm": "TM42"
+        },
+        {
+            "move": "Rest",
+            "tm": "TM44"
+        },
+        {
+            "move": "Attract",
+            "tm": "TM45"
+        },
+        {
+            "move": "Round",
+            "tm": "TM48"
+        },
+        {
+            "move": "Steel Wing",
+            "tm": "TM51"
+        },
+        {
+            "move": "Focus Blast",
+            "tm": "TM52"
+        },
+        {
+            "move": "Fling",
+            "tm": "TM56"
+        },
+        {
+            "move": "Sky Drop",
+            "tm": "TM58"
+        },
+        {
+            "move": "Brutal Swing",
+            "tm": "TM59"
+        },
+        {
+            "move": "Giga Impact",
+            "tm": "TM68"
+        },
+        {
+            "move": "Stone Edge",
+            "tm": "TM71"
+        },
+        {
+            "move": "Thunder Wave",
+            "tm": "TM73"
+        },
+        {
+            "move": "Fly",
+            "tm": "TM76"
+        },
+        {
+            "move": "Bulldoze",
+            "tm": "TM78"
+        },
+        {
+            "move": "Rock Slide",
+            "tm": "TM80"
+        },
+        {
+            "move": "Dragon Tail",
+            "tm": "TM82"
+        },
+        {
+            "move": "Swagger",
+            "tm": "TM87"
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": "TM88"
+        },
+        {
+            "move": "Substitute",
+            "tm": "TM90"
+        },
+        {
+            "move": "Surf",
+            "tm": "TM94"
+        },
+        {
+            "move": "Waterfall",
+            "tm": "TM98"
+        },
+        {
+            "move": "Confide",
+            "tm": "TM100"
+        }
+    ]
+}

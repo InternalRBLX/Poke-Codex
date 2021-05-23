@@ -1,0 +1,235 @@
+{
+    "name": "Voltorb",
+    "national_id": 100,
+    "types": [
+        "Electric"
+    ],
+    "abilities": [
+        {
+            "name": "Soundproof"
+        },
+        {
+            "name": "Static"
+        },
+        {
+            "name": "Aftermath",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 190,
+    "gender_ratios": null,
+    "egg_groups": [
+        "Mineral"
+    ],
+    "hatch_time": [
+        5355,
+        5609
+    ],
+    "height_us": "1'08\"",
+    "height_eu": "0.5 m",
+    "weight_us": "22.9 lbs.",
+    "weight_eu": "10.4 kg",
+    "base_exp_yield": 66,
+    "leveling_rate": "Medium Fast",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 1
+    },
+    "base_stats": {
+        "hp": 40,
+        "atk": 30,
+        "def": 50,
+        "sp_atk": 55,
+        "sp_def": 55,
+        "speed": 100
+    },
+    "evolution_from": null,
+    "evolutions": [
+        {
+            "to": "Electrode",
+            "level": 30
+        }
+    ],
+    "species": "Ball Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "Voltorb is extremely sensitive - it explodes at the slightest of shocks. It is rumored that it was first created when a Poké Ball was exposed to a powerful pulse of energy.",
+    "move_learnset": [
+        {
+            "move": "Charge",
+            "level": 1
+        },
+        {
+            "move": "Tackle",
+            "level": 1
+        },
+        {
+            "move": "Sonic Boom",
+            "level": 4
+        },
+        {
+            "move": "Eerie Impulse",
+            "level": 6
+        },
+        {
+            "move": "Spark",
+            "level": 9
+        },
+        {
+            "move": "Rollout",
+            "level": 11
+        },
+        {
+            "move": "Screech",
+            "level": 13
+        },
+        {
+            "move": "Charge Beam",
+            "level": 16
+        },
+        {
+            "move": "Swift",
+            "level": 20
+        },
+        {
+            "move": "Electro Ball",
+            "level": 22
+        },
+        {
+            "move": "Self-Destruct",
+            "level": 26
+        },
+        {
+            "move": "Light Screen",
+            "level": 29
+        },
+        {
+            "move": "Magnet Rise",
+            "level": 34
+        },
+        {
+            "move": "Discharge",
+            "level": 37
+        },
+        {
+            "move": "Explosion",
+            "level": 41
+        },
+        {
+            "move": "Gyro Ball",
+            "level": 46
+        },
+        {
+            "move": "Mirror Coat",
+            "level": 48
+        },
+        {
+            "move": "Toxic",
+            "tm": "TM6"
+        },
+        {
+            "move": "Hidden Power",
+            "tm": "TM10"
+        },
+        {
+            "move": "Taunt",
+            "tm": "TM12"
+        },
+        {
+            "move": "Light Screen",
+            "tm": "TM16"
+        },
+        {
+            "move": "Protect",
+            "tm": "TM17"
+        },
+        {
+            "move": "Rain Dance",
+            "tm": "TM18"
+        },
+        {
+            "move": "Frustration",
+            "tm": "TM21"
+        },
+        {
+            "move": "Thunderbolt",
+            "tm": "TM24"
+        },
+        {
+            "move": "Thunder",
+            "tm": "TM25"
+        },
+        {
+            "move": "Return",
+            "tm": "TM27"
+        },
+        {
+            "move": "Double Team",
+            "tm": "TM32"
+        },
+        {
+            "move": "Torment",
+            "tm": "TM41"
+        },
+        {
+            "move": "Facade",
+            "tm": "TM42"
+        },
+        {
+            "move": "Rest",
+            "tm": "TM44"
+        },
+        {
+            "move": "Thief",
+            "tm": "TM46"
+        },
+        {
+            "move": "Round",
+            "tm": "TM48"
+        },
+        {
+            "move": "Charge Beam",
+            "tm": "TM57"
+        },
+        {
+            "move": "Explosion",
+            "tm": "TM64"
+        },
+        {
+            "move": "Volt Switch",
+            "tm": "TM72"
+        },
+        {
+            "move": "Thunder Wave",
+            "tm": "TM73"
+        },
+        {
+            "move": "Gyro Ball",
+            "tm": "TM74"
+        },
+        {
+            "move": "Swagger",
+            "tm": "TM87"
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": "TM88"
+        },
+        {
+            "move": "Substitute",
+            "tm": "TM90"
+        },
+        {
+            "move": "Wild Charge",
+            "tm": "TM93"
+        },
+        {
+            "move": "Confide",
+            "tm": "TM100"
+        }
+    ]
+}

@@ -1,0 +1,238 @@
+{
+    "name": "Wishiwashi",
+    "national_id": 746,
+    "types": [
+        "Water"
+    ],
+    "abilities": [
+        {
+            "name": "Schooling"
+        }
+    ],
+    "catch_rate": 60,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Water 2"
+    ],
+    "hatch_time": [
+        3855,
+        4111
+    ],
+    "height_us": "0'08\"",
+    "height_eu": "0.2 m",
+    "weight_us": "0.7 lbs.",
+    "weight_eu": "0.3 kg",
+    "base_exp_yield": 61,
+    "leveling_rate": "Fast",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 1,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 45,
+        "atk": 20,
+        "def": 20,
+        "sp_atk": 25,
+        "sp_def": 25,
+        "speed": 40
+    },
+    "evolution_from": null,
+    "evolutions": [],
+    "species": "Small Fry Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "When it senses danger, its eyes tear up. The sparkle of its tears signals other Wishiwashi to gather.",
+    "move_learnset": [
+        {
+            "move": "Water Gun",
+            "level": 1
+        },
+        {
+            "move": "Growl",
+            "level": 1
+        },
+        {
+            "move": "Helping Hand",
+            "level": 4
+        },
+        {
+            "move": "Beat Up",
+            "level": 8
+        },
+        {
+            "move": "Brine",
+            "level": 12
+        },
+        {
+            "move": "Tearful Look",
+            "level": 16
+        },
+        {
+            "move": "Dive",
+            "level": 20
+        },
+        {
+            "move": "Soak",
+            "level": 24
+        },
+        {
+            "move": "Uproar",
+            "level": 28
+        },
+        {
+            "move": "Aqua Tail",
+            "level": 32
+        },
+        {
+            "move": "Aqua Ring",
+            "level": 36
+        },
+        {
+            "move": "Endeavor",
+            "level": 40
+        },
+        {
+            "move": "Hydro Pump",
+            "level": 44
+        },
+        {
+            "move": "Double-Edge",
+            "level": 48
+        },
+        {
+            "move": "Rest",
+            "tm": true
+        },
+        {
+            "move": "Snore",
+            "tm": true
+        },
+        {
+            "move": "Protect",
+            "tm": true
+        },
+        {
+            "move": "Attract",
+            "tm": true
+        },
+        {
+            "move": "Rain Dance",
+            "tm": true
+        },
+        {
+            "move": "Hail",
+            "tm": true
+        },
+        {
+            "move": "Whirlpool",
+            "tm": true
+        },
+        {
+            "move": "Beat Up",
+            "tm": true
+        },
+        {
+            "move": "Facade",
+            "tm": true
+        },
+        {
+            "move": "Helping Hand",
+            "tm": true
+        },
+        {
+            "move": "Dive",
+            "tm": true
+        },
+        {
+            "move": "Mud Shot",
+            "tm": true
+        },
+        {
+            "move": "Brine",
+            "tm": true
+        },
+        {
+            "move": "U-turn",
+            "tm": true
+        },
+        {
+            "move": "Round",
+            "tm": true
+        },
+        {
+            "move": "Bulldoze",
+            "tm": true
+        },
+        {
+            "move": "Hydro Pump",
+            "tm": true
+        },
+        {
+            "move": "Surf",
+            "tm": true
+        },
+        {
+            "move": "Ice Beam",
+            "tm": true
+        },
+        {
+            "move": "Earthquake",
+            "tm": true
+        },
+        {
+            "move": "Waterfall",
+            "tm": true
+        },
+        {
+            "move": "Substitute",
+            "tm": true
+        },
+        {
+            "move": "Endure",
+            "tm": true
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": true
+        },
+        {
+            "move": "Iron Tail",
+            "tm": true
+        },
+        {
+            "move": "Uproar",
+            "tm": true
+        },
+        {
+            "move": "Muddy Water",
+            "tm": true
+        },
+        {
+            "move": "Scald",
+            "tm": true
+        },
+        {
+            "move": "Liquidation",
+            "tm": true
+        },
+        {
+            "move": "Mist",
+            "egg_move": true
+        },
+        {
+            "move": "Water Pulse",
+            "egg_move": true
+        },
+        {
+            "move": "Take Down",
+            "egg_move": true
+        }
+    ]
+}

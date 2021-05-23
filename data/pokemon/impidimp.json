@@ -1,0 +1,240 @@
+{
+    "name": "Impidimp",
+    "national_id": 859,
+    "types": [
+        "Dark",
+        "Fairy"
+    ],
+    "abilities": [
+        {
+            "name": "Prankster"
+        },
+        {
+            "name": "Frisk"
+        },
+        {
+            "name": "Pickpocket",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 255,
+    "gender_ratios": {
+        "male": 100,
+        "female": 0
+    },
+    "egg_groups": [
+        "Fairy",
+        "HumanLike"
+    ],
+    "hatch_time": [
+        5140,
+        5396
+    ],
+    "height_us": "1'04\"",
+    "height_eu": "0.4 m",
+    "weight_us": "12.1 lbs.",
+    "weight_eu": "5.5 kg",
+    "base_exp_yield": 53,
+    "leveling_rate": "Medium Fast",
+    "base_friendship": 50,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 1,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 45,
+        "atk": 45,
+        "def": 30,
+        "sp_atk": 55,
+        "sp_def": 40,
+        "speed": 50
+    },
+    "evolution_from": null,
+    "evolutions": [
+        {
+            "to": "Morgrem",
+            "level": 32
+        }
+    ],
+    "species": "Wily Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "It sneaks into people’s homes, stealing things and feasting on the negative energy of the frustrated occupants.",
+    "move_learnset": [
+        {
+            "move": "Fake Out",
+            "level": 1
+        },
+        {
+            "move": "Confide",
+            "level": 1
+        },
+        {
+            "move": "Bite",
+            "level": 4
+        },
+        {
+            "move": "Flatter",
+            "level": 8
+        },
+        {
+            "move": "Fake Tears",
+            "level": 12
+        },
+        {
+            "move": "Assurance",
+            "level": 16
+        },
+        {
+            "move": "Swagger",
+            "level": 20
+        },
+        {
+            "move": "Sucker Punch",
+            "level": 24
+        },
+        {
+            "move": "Torment",
+            "level": 28
+        },
+        {
+            "move": "Dark Pulse",
+            "level": 33
+        },
+        {
+            "move": "Nasty Plot",
+            "level": 36
+        },
+        {
+            "move": "Play Rough",
+            "level": 40
+        },
+        {
+            "move": "Foul Play",
+            "level": 44
+        },
+        {
+            "move": "Mega Punch",
+            "tm": true
+        },
+        {
+            "move": "Mega Kick",
+            "tm": true
+        },
+        {
+            "move": "Thunder Wave",
+            "tm": true
+        },
+        {
+            "move": "Rest",
+            "tm": true
+        },
+        {
+            "move": "Thief",
+            "tm": true
+        },
+        {
+            "move": "Snore",
+            "tm": true
+        },
+        {
+            "move": "Protect",
+            "tm": true
+        },
+        {
+            "move": "Attract",
+            "tm": true
+        },
+        {
+            "move": "Facade",
+            "tm": true
+        },
+        {
+            "move": "Revenge",
+            "tm": true
+        },
+        {
+            "move": "Fake Tears",
+            "tm": true
+        },
+        {
+            "move": "Assurance",
+            "tm": true
+        },
+        {
+            "move": "Drain Punch",
+            "tm": true
+        },
+        {
+            "move": "Round",
+            "tm": true
+        },
+        {
+            "move": "Retaliate",
+            "tm": true
+        },
+        {
+            "move": "Draining Kiss",
+            "tm": true
+        },
+        {
+            "move": "Low Kick",
+            "tm": true
+        },
+        {
+            "move": "Metronome",
+            "tm": true
+        },
+        {
+            "move": "Leech Life",
+            "tm": true
+        },
+        {
+            "move": "Substitute",
+            "tm": true
+        },
+        {
+            "move": "Endure",
+            "tm": true
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": true
+        },
+        {
+            "move": "Uproar",
+            "tm": true
+        },
+        {
+            "move": "Taunt",
+            "tm": true
+        },
+        {
+            "move": "Trick",
+            "tm": true
+        },
+        {
+            "move": "Dark Pulse",
+            "tm": true
+        },
+        {
+            "move": "Nasty Plot",
+            "tm": true
+        },
+        {
+            "move": "Foul Play",
+            "tm": true
+        },
+        {
+            "move": "Play Rough",
+            "tm": true
+        },
+        {
+            "move": "Dazzling Gleam",
+            "tm": true
+        }
+    ]
+}

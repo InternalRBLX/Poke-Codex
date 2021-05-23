@@ -1,0 +1,308 @@
+{
+    "name": "Psyduck",
+    "national_id": 54,
+    "types": [
+        "Water"
+    ],
+    "abilities": [
+        {
+            "name": "Damp"
+        },
+        {
+            "name": "Swift Swim",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 190,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Water 1",
+        "Field"
+    ],
+    "hatch_time": [
+        5355,
+        5609
+    ],
+    "height_us": "2'07\"",
+    "height_eu": "0.8 m",
+    "weight_us": "43.2 lbs.",
+    "weight_eu": "19.6 kg",
+    "base_exp_yield": 64,
+    "leveling_rate": "Medium Fast",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 1,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 50,
+        "atk": 52,
+        "def": 48,
+        "sp_atk": 65,
+        "sp_def": 50,
+        "speed": 55
+    },
+    "evolution_from": null,
+    "evolutions": [
+        {
+            "to": "Golduck",
+            "level": 33
+        }
+    ],
+    "species": "Duck Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "If it uses its mysterious power, Psyduck can't remember having done so. It apparently can't form a memory of such an event because it goes into an altered state that is much like deep sleep.",
+    "move_learnset": [
+        {
+            "move": "Scratch",
+            "level": 1
+        },
+        {
+            "move": "Water Sport",
+            "level": 1
+        },
+        {
+            "move": "Tail Whip",
+            "level": 4
+        },
+        {
+            "move": "Water Gun",
+            "level": 7
+        },
+        {
+            "move": "Confusion",
+            "level": 10
+        },
+        {
+            "move": "Fury Swipes",
+            "level": 13
+        },
+        {
+            "move": "Water Pulse",
+            "level": 16
+        },
+        {
+            "move": "Disable",
+            "level": 19
+        },
+        {
+            "move": "Screech",
+            "level": 22
+        },
+        {
+            "move": "Zen Headbutt",
+            "level": 25
+        },
+        {
+            "move": "Aqua Tail",
+            "level": 28
+        },
+        {
+            "move": "Soak",
+            "level": 31
+        },
+        {
+            "move": "Psych Up",
+            "level": 34
+        },
+        {
+            "move": "Amnesia",
+            "level": 37
+        },
+        {
+            "move": "Hydro Pump",
+            "level": 40
+        },
+        {
+            "move": "Wonder Room",
+            "level": 43
+        },
+        {
+            "move": "Clear Smog",
+            "egg_move": true
+        },
+        {
+            "move": "Confuse Ray",
+            "egg_move": true
+        },
+        {
+            "move": "Cross Chop",
+            "egg_move": true
+        },
+        {
+            "move": "Encore",
+            "egg_move": true
+        },
+        {
+            "move": "Foresight",
+            "egg_move": true
+        },
+        {
+            "move": "Future Sight",
+            "egg_move": true
+        },
+        {
+            "move": "Hypnosis",
+            "egg_move": true
+        },
+        {
+            "move": "Mud Bomb",
+            "egg_move": true
+        },
+        {
+            "move": "Psybeam",
+            "egg_move": true
+        },
+        {
+            "move": "Refresh",
+            "egg_move": true
+        },
+        {
+            "move": "Secret Power",
+            "egg_move": true
+        },
+        {
+            "move": "Simple Beam",
+            "egg_move": true
+        },
+        {
+            "move": "Sleep Talk",
+            "egg_move": true
+        },
+        {
+            "move": "Synchronoise",
+            "egg_move": true
+        },
+        {
+            "move": "Yawn",
+            "egg_move": true
+        },
+        {
+            "move": "Psyshock",
+            "tm": "TM3"
+        },
+        {
+            "move": "Calm Mind",
+            "tm": "TM4"
+        },
+        {
+            "move": "Toxic",
+            "tm": "TM6"
+        },
+        {
+            "move": "Hail",
+            "tm": "TM7"
+        },
+        {
+            "move": "Hidden Power",
+            "tm": "TM10"
+        },
+        {
+            "move": "Ice Beam",
+            "tm": "TM13"
+        },
+        {
+            "move": "Blizzard",
+            "tm": "TM14"
+        },
+        {
+            "move": "Light Screen",
+            "tm": "TM16"
+        },
+        {
+            "move": "Protect",
+            "tm": "TM17"
+        },
+        {
+            "move": "Rain Dance",
+            "tm": "TM18"
+        },
+        {
+            "move": "Frustration",
+            "tm": "TM21"
+        },
+        {
+            "move": "Return",
+            "tm": "TM27"
+        },
+        {
+            "move": "Psychic",
+            "tm": "TM29"
+        },
+        {
+            "move": "Brick Break",
+            "tm": "TM31"
+        },
+        {
+            "move": "Double Team",
+            "tm": "TM32"
+        },
+        {
+            "move": "Aerial Ace",
+            "tm": "TM40"
+        },
+        {
+            "move": "Facade",
+            "tm": "TM42"
+        },
+        {
+            "move": "Rest",
+            "tm": "TM44"
+        },
+        {
+            "move": "Attract",
+            "tm": "TM45"
+        },
+        {
+            "move": "Round",
+            "tm": "TM48"
+        },
+        {
+            "move": "Scald",
+            "tm": "TM55"
+        },
+        {
+            "move": "Fling",
+            "tm": "TM56"
+        },
+        {
+            "move": "Shadow Claw",
+            "tm": "TM65"
+        },
+        {
+            "move": "Psych Up",
+            "tm": "TM77"
+        },
+        {
+            "move": "Swagger",
+            "tm": "TM87"
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": "TM88"
+        },
+        {
+            "move": "Substitute",
+            "tm": "TM90"
+        },
+        {
+            "move": "Surf",
+            "tm": "TM94"
+        },
+        {
+            "move": "Waterfall",
+            "tm": "TM98"
+        },
+        {
+            "move": "Confide",
+            "tm": "TM100"
+        }
+    ]
+}

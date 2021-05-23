@@ -1,0 +1,296 @@
+{
+    "name": "Dodrio",
+    "national_id": 85,
+    "types": [
+        "Normal",
+        "Flying"
+    ],
+    "items": [
+        {
+            "name": "Sharp Beak",
+            "chance": 5
+        }
+    ],
+    "abilities": [
+        {
+            "name": "Run Away"
+        },
+        {
+            "name": "Early Bird"
+        },
+        {
+            "name": "Tangled Feet",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 45,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Flying"
+    ],
+    "hatch_time": [
+        5355,
+        5609
+    ],
+    "height_us": "5'11\"",
+    "height_eu": "1.8 m",
+    "weight_us": "187.8 lbs.",
+    "weight_eu": "85.2 kg",
+    "base_exp_yield": 161,
+    "leveling_rate": "Medium Fast",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 2,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 60,
+        "atk": 110,
+        "def": 70,
+        "sp_atk": 60,
+        "sp_def": 60,
+        "speed": 100
+    },
+    "evolution_from": "Doduo",
+    "evolutions": [],
+    "species": "Triple Bird Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "Apparently, the heads aren't the only parts of the body that Dodrio has three of. It has three sets of hearts and lungs as well, so it is capable of running long distances without rest.",
+    "move_learnset": [
+        {
+            "move": "Growl",
+            "level": 1
+        },
+        {
+            "move": "Peck",
+            "level": 1
+        },
+        {
+            "move": "Quick Attack",
+            "level": 1
+        },
+        {
+            "move": "Rage",
+            "level": 1
+        },
+        {
+            "move": "Tri Attack",
+            "level": 1
+        },
+        {
+            "move": "Quick Attack",
+            "level": 5
+        },
+        {
+            "move": "Rage",
+            "level": 8
+        },
+        {
+            "move": "Fury Attack",
+            "level": 12
+        },
+        {
+            "move": "Pursuit",
+            "level": 15
+        },
+        {
+            "move": "Pluck",
+            "level": 19
+        },
+        {
+            "move": "Double Hit",
+            "level": 22
+        },
+        {
+            "move": "Agility",
+            "level": 26
+        },
+        {
+            "move": "Uproar",
+            "level": 29
+        },
+        {
+            "move": "Acupressure",
+            "level": 34
+        },
+        {
+            "move": "Swords Dance",
+            "level": 38
+        },
+        {
+            "move": "Jump Kick",
+            "level": 43
+        },
+        {
+            "move": "Drill Peck",
+            "level": 47
+        },
+        {
+            "move": "Endeavor",
+            "level": 52
+        },
+        {
+            "move": "Thrash",
+            "level": 56
+        },
+        {
+            "move": "Assurance",
+            "egg_move": true
+        },
+        {
+            "move": "Brave Bird",
+            "egg_move": true
+        },
+        {
+            "move": "Endeavor",
+            "egg_move": true
+        },
+        {
+            "move": "Feint Attack",
+            "egg_move": true
+        },
+        {
+            "move": "Flail",
+            "egg_move": true
+        },
+        {
+            "move": "Haze",
+            "egg_move": true
+        },
+        {
+            "move": "Mirror Move",
+            "egg_move": true
+        },
+        {
+            "move": "Natural Gift",
+            "egg_move": true
+        },
+        {
+            "move": "Quick Attack",
+            "egg_move": true
+        },
+        {
+            "move": "Supersonic",
+            "egg_move": true
+        },
+        {
+            "move": "Work Up",
+            "tm": "TM1"
+        },
+        {
+            "move": "Toxic",
+            "tm": "TM6"
+        },
+        {
+            "move": "Hidden Power",
+            "tm": "TM10"
+        },
+        {
+            "move": "Sunny Day",
+            "tm": "TM11"
+        },
+        {
+            "move": "Taunt",
+            "tm": "TM12"
+        },
+        {
+            "move": "Hyper Beam",
+            "tm": "TM15"
+        },
+        {
+            "move": "Protect",
+            "tm": "TM17"
+        },
+        {
+            "move": "Roost",
+            "tm": "TM19"
+        },
+        {
+            "move": "Frustration",
+            "tm": "TM21"
+        },
+        {
+            "move": "Return",
+            "tm": "TM27"
+        },
+        {
+            "move": "Double Team",
+            "tm": "TM32"
+        },
+        {
+            "move": "Aerial Ace",
+            "tm": "TM40"
+        },
+        {
+            "move": "Torment",
+            "tm": "TM41"
+        },
+        {
+            "move": "Facade",
+            "tm": "TM42"
+        },
+        {
+            "move": "Rest",
+            "tm": "TM44"
+        },
+        {
+            "move": "Attract",
+            "tm": "TM45"
+        },
+        {
+            "move": "Thief",
+            "tm": "TM46"
+        },
+        {
+            "move": "Round",
+            "tm": "TM48"
+        },
+        {
+            "move": "Echoed Voice",
+            "tm": "TM49"
+        },
+        {
+            "move": "Steel Wing",
+            "tm": "TM51"
+        },
+        {
+            "move": "Payback",
+            "tm": "TM66"
+        },
+        {
+            "move": "Giga Impact",
+            "tm": "TM68"
+        },
+        {
+            "move": "Swords Dance",
+            "tm": "TM75"
+        },
+        {
+            "move": "Fly",
+            "tm": "TM76"
+        },
+        {
+            "move": "Swagger",
+            "tm": "TM87"
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": "TM88"
+        },
+        {
+            "move": "Substitute",
+            "tm": "TM90"
+        },
+        {
+            "move": "Confide",
+            "tm": "TM100"
+        }
+    ]
+}

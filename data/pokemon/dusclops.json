@@ -1,0 +1,354 @@
+{
+    "name": "Dusclops",
+    "national_id": 356,
+    "types": [
+        "Ghost"
+    ],
+    "items": [
+        {
+            "name": "Spell Tag",
+            "chance": 5
+        }
+    ],
+    "abilities": [
+        {
+            "name": "Pressure"
+        },
+        {
+            "name": "Frisk",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 90,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Amorphous"
+    ],
+    "hatch_time": [
+        6630,
+        6884
+    ],
+    "height_us": "5'03\"",
+    "height_eu": "1.6 m",
+    "weight_us": "67.5 lbs.",
+    "weight_eu": "30.6 kg",
+    "base_exp_yield": 159,
+    "leveling_rate": "Fast",
+    "base_friendship": 35,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 1,
+        "sp_atk": 0,
+        "sp_def": 1,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 40,
+        "atk": 70,
+        "def": 130,
+        "sp_atk": 60,
+        "sp_def": 130,
+        "speed": 25
+    },
+    "evolution_from": "Duskull",
+    "evolutions": [
+        {
+            "to": "Dusknoir",
+            "trade": true,
+            "hold_item": "Reaper Cloth"
+        }
+    ],
+    "species": "Beckon Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "It seeks drifting will-o’-the-wisps and sucks them into its empty body. What happens inside is a mystery.",
+    "move_learnset": [
+        {
+            "move": "Shadow Punch",
+            "evo": true
+        },
+        {
+            "move": "Shadow Punch",
+            "level": 1
+        },
+        {
+            "move": "Fire Punch",
+            "level": 1
+        },
+        {
+            "move": "Ice Punch",
+            "level": 1
+        },
+        {
+            "move": "Thunder Punch",
+            "level": 1
+        },
+        {
+            "move": "Gravity",
+            "level": 1
+        },
+        {
+            "move": "Bind",
+            "level": 1
+        },
+        {
+            "move": "Astonish",
+            "level": 1
+        },
+        {
+            "move": "Leer",
+            "level": 1
+        },
+        {
+            "move": "Disable",
+            "level": 1
+        },
+        {
+            "move": "Shadow Sneak",
+            "level": 1
+        },
+        {
+            "move": "Confuse Ray",
+            "level": 12
+        },
+        {
+            "move": "Night Shade",
+            "level": 16
+        },
+        {
+            "move": "Payback",
+            "level": 20
+        },
+        {
+            "move": "Will-O-Wisp",
+            "level": 24
+        },
+        {
+            "move": "Mean Look",
+            "level": 28
+        },
+        {
+            "move": "Hex",
+            "level": 32
+        },
+        {
+            "move": "Curse",
+            "level": 36
+        },
+        {
+            "move": "Shadow Ball",
+            "level": 42
+        },
+        {
+            "move": "Future Sight",
+            "level": 48
+        },
+        {
+            "move": "Mega Punch",
+            "tm": true
+        },
+        {
+            "move": "Mega Kick",
+            "tm": true
+        },
+        {
+            "move": "Fire Punch",
+            "tm": true
+        },
+        {
+            "move": "Ice Punch",
+            "tm": true
+        },
+        {
+            "move": "Thunder Punch",
+            "tm": true
+        },
+        {
+            "move": "Hyper Beam",
+            "tm": true
+        },
+        {
+            "move": "Giga Impact",
+            "tm": true
+        },
+        {
+            "move": "Rest",
+            "tm": true
+        },
+        {
+            "move": "Rock Slide",
+            "tm": true
+        },
+        {
+            "move": "Thief",
+            "tm": true
+        },
+        {
+            "move": "Snore",
+            "tm": true
+        },
+        {
+            "move": "Protect",
+            "tm": true
+        },
+        {
+            "move": "Icy Wind",
+            "tm": true
+        },
+        {
+            "move": "Attract",
+            "tm": true
+        },
+        {
+            "move": "Rain Dance",
+            "tm": true
+        },
+        {
+            "move": "Sunny Day",
+            "tm": true
+        },
+        {
+            "move": "Will-O-Wisp",
+            "tm": true
+        },
+        {
+            "move": "Facade",
+            "tm": true
+        },
+        {
+            "move": "Helping Hand",
+            "tm": true
+        },
+        {
+            "move": "Revenge",
+            "tm": true
+        },
+        {
+            "move": "Brick Break",
+            "tm": true
+        },
+        {
+            "move": "Imprison",
+            "tm": true
+        },
+        {
+            "move": "Rock Tomb",
+            "tm": true
+        },
+        {
+            "move": "Payback",
+            "tm": true
+        },
+        {
+            "move": "Fling",
+            "tm": true
+        },
+        {
+            "move": "Trick Room",
+            "tm": true
+        },
+        {
+            "move": "Wonder Room",
+            "tm": true
+        },
+        {
+            "move": "Round",
+            "tm": true
+        },
+        {
+            "move": "Hex",
+            "tm": true
+        },
+        {
+            "move": "Bulldoze",
+            "tm": true
+        },
+        {
+            "move": "Body Slam",
+            "tm": true
+        },
+        {
+            "move": "Ice Beam",
+            "tm": true
+        },
+        {
+            "move": "Blizzard",
+            "tm": true
+        },
+        {
+            "move": "Earthquake",
+            "tm": true
+        },
+        {
+            "move": "Psychic",
+            "tm": true
+        },
+        {
+            "move": "Metronome",
+            "tm": true
+        },
+        {
+            "move": "Substitute",
+            "tm": true
+        },
+        {
+            "move": "Endure",
+            "tm": true
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": true
+        },
+        {
+            "move": "Shadow Ball",
+            "tm": true
+        },
+        {
+            "move": "Future Sight",
+            "tm": true
+        },
+        {
+            "move": "Taunt",
+            "tm": true
+        },
+        {
+            "move": "Trick",
+            "tm": true
+        },
+        {
+            "move": "Skill Swap",
+            "tm": true
+        },
+        {
+            "move": "Calm Mind",
+            "tm": true
+        },
+        {
+            "move": "Dark Pulse",
+            "tm": true
+        },
+        {
+            "move": "Ally Switch",
+            "tm": true
+        },
+        {
+            "move": "Pain Split",
+            "egg_move": true
+        },
+        {
+            "move": "Grudge",
+            "egg_move": true
+        },
+        {
+            "move": "Memento",
+            "egg_move": true
+        },
+        {
+            "move": "Haze",
+            "egg_move": true
+        }
+    ]
+}

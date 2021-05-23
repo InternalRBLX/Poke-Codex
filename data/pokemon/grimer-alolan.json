@@ -1,0 +1,542 @@
+{
+    "name": "Grimer",
+    "national_id": 88,
+    "types": [
+        "Poison",
+        "Dark"
+    ],
+    "items": [
+        {
+            "name": "Black Sludge",
+            "chance": 5
+        }
+    ],
+    "abilities": [
+        {
+            "name": "Poison Touch"
+        },
+        {
+            "name": "Gluttony"
+        },
+        {
+            "name": "Power of Alchemy",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 190,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Amorphous"
+    ],
+    "hatch_time": [
+        5355,
+        5609
+    ],
+    "height_us": "2'04\"",
+    "height_eu": "0.7 m",
+    "weight_us": "92.6 lbs.",
+    "weight_eu": "42.0 kg",
+    "base_exp_yield": 65,
+    "leveling_rate": "Medium Fast",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 1,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 80,
+        "atk": 80,
+        "def": 50,
+        "sp_atk": 40,
+        "sp_def": 50,
+        "speed": 25
+    },
+    "evolution_from": null,
+    "evolutions": [
+        {
+            "to": "Muk",
+            "level": 38
+        }
+    ],
+    "species": "Sludge Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "Grimer emerged from the sludge that settled on a polluted seabed. This Pokémon loves anything filthy. It constantly leaks a horribly germ- infested fluid from all over its body.",
+    "move_learnset": [
+        {
+            "move": "Poison Gas",
+            "level": 1,
+            "variations": [
+                "Alolan Grimer"
+            ]
+        },
+        {
+            "move": "Pound",
+            "level": 1,
+            "variations": [
+                "Alolan Grimer"
+            ]
+        },
+        {
+            "move": "Harden",
+            "level": 4,
+            "variations": [
+                "Alolan Grimer"
+            ]
+        },
+        {
+            "move": "Bite",
+            "level": 7,
+            "variations": [
+                "Alolan Grimer"
+            ]
+        },
+        {
+            "move": "Disable",
+            "level": 12,
+            "variations": [
+                "Alolan Grimer"
+            ]
+        },
+        {
+            "move": "Acid Spray",
+            "level": 15,
+            "variations": [
+                "Alolan Grimer"
+            ]
+        },
+        {
+            "move": "Poison Fang",
+            "level": 18,
+            "variations": [
+                "Alolan Grimer"
+            ]
+        },
+        {
+            "move": "Minimize",
+            "level": 21,
+            "variations": [
+                "Alolan Grimer"
+            ]
+        },
+        {
+            "move": "Fling",
+            "level": 26,
+            "variations": [
+                "Alolan Grimer"
+            ]
+        },
+        {
+            "move": "Knock Off",
+            "level": 29,
+            "variations": [
+                "Alolan Grimer"
+            ]
+        },
+        {
+            "move": "Crunch",
+            "level": 32,
+            "variations": [
+                "Alolan Grimer"
+            ]
+        },
+        {
+            "move": "Screech",
+            "level": 37,
+            "variations": [
+                "Alolan Grimer"
+            ]
+        },
+        {
+            "move": "Gunk Shot",
+            "level": 40,
+            "variations": [
+                "Alolan Grimer"
+            ]
+        },
+        {
+            "move": "Acid Armor",
+            "level": 43,
+            "variations": [
+                "Alolan Grimer"
+            ]
+        },
+        {
+            "move": "Belch",
+            "level": 46,
+            "variations": [
+                "Alolan Grimer"
+            ]
+        },
+        {
+            "move": "Memento",
+            "level": 48,
+            "variations": [
+                "Alolan Grimer"
+            ]
+        },
+        {
+            "move": "Assurance",
+            "egg_move": true,
+            "variations": [
+                "Alolan Grimer"
+            ]
+        },
+        {
+            "move": "Clear Smog",
+            "egg_move": true,
+            "variations": [
+                "Alolan Grimer"
+            ]
+        },
+        {
+            "move": "Curse",
+            "egg_move": true,
+            "variations": [
+                "Alolan Grimer"
+            ]
+        },
+        {
+            "move": "Imprison",
+            "egg_move": true,
+            "variations": [
+                "Alolan Grimer"
+            ]
+        },
+        {
+            "move": "Mean Look",
+            "egg_move": true,
+            "variations": [
+                "Alolan Grimer"
+            ]
+        },
+        {
+            "move": "Power-Up Punch",
+            "egg_move": true,
+            "variations": [
+                "Alolan Grimer"
+            ]
+        },
+        {
+            "move": "Pursuit",
+            "egg_move": true,
+            "variations": [
+                "Alolan Grimer"
+            ]
+        },
+        {
+            "move": "Scary Face",
+            "egg_move": true,
+            "variations": [
+                "Alolan Grimer"
+            ]
+        },
+        {
+            "move": "Shadow Sneak",
+            "egg_move": true,
+            "variations": [
+                "Alolan Grimer"
+            ]
+        },
+        {
+            "move": "Spit Up",
+            "egg_move": true,
+            "variations": [
+                "Alolan Grimer"
+            ]
+        },
+        {
+            "move": "Spite",
+            "egg_move": true,
+            "variations": [
+                "Alolan Grimer"
+            ]
+        },
+        {
+            "move": "Stockpile",
+            "egg_move": true,
+            "variations": [
+                "Alolan Grimer"
+            ]
+        },
+        {
+            "move": "Swallow",
+            "egg_move": true,
+            "variations": [
+                "Alolan Grimer"
+            ]
+        },
+        {
+            "move": "Toxic",
+            "tm": "TM6",
+            "variations": [
+                "Alolan Grimer"
+            ]
+        },
+        {
+            "move": "Venoshock",
+            "tm": "TM9",
+            "variations": [
+                "Alolan Grimer"
+            ]
+        },
+        {
+            "move": "Hidden Power",
+            "tm": "TM10",
+            "variations": [
+                "Alolan Grimer"
+            ]
+        },
+        {
+            "move": "Sunny Day",
+            "tm": "TM11",
+            "variations": [
+                "Alolan Grimer"
+            ]
+        },
+        {
+            "move": "Taunt",
+            "tm": "TM12",
+            "variations": [
+                "Alolan Grimer"
+            ]
+        },
+        {
+            "move": "Protect",
+            "tm": "TM17",
+            "variations": [
+                "Alolan Grimer"
+            ]
+        },
+        {
+            "move": "Rain Dance",
+            "tm": "TM18",
+            "variations": [
+                "Alolan Grimer"
+            ]
+        },
+        {
+            "move": "Frustration",
+            "tm": "TM21",
+            "variations": [
+                "Alolan Grimer"
+            ]
+        },
+        {
+            "move": "Return",
+            "tm": "TM27",
+            "variations": [
+                "Alolan Grimer"
+            ]
+        },
+        {
+            "move": "Shadow Ball",
+            "tm": "TM30",
+            "variations": [
+                "Alolan Grimer"
+            ]
+        },
+        {
+            "move": "Double Team",
+            "tm": "TM32",
+            "variations": [
+                "Alolan Grimer"
+            ]
+        },
+        {
+            "move": "Sludge Wave",
+            "tm": "TM34",
+            "variations": [
+                "Alolan Grimer"
+            ]
+        },
+        {
+            "move": "Flamethrower",
+            "tm": "TM35",
+            "variations": [
+                "Alolan Grimer"
+            ]
+        },
+        {
+            "move": "Sludge Bomb",
+            "tm": "TM36",
+            "variations": [
+                "Alolan Grimer"
+            ]
+        },
+        {
+            "move": "Fire Blast",
+            "tm": "TM38",
+            "variations": [
+                "Alolan Grimer"
+            ]
+        },
+        {
+            "move": "Rock Tomb",
+            "tm": "TM39",
+            "variations": [
+                "Alolan Grimer"
+            ]
+        },
+        {
+            "move": "Torment",
+            "tm": "TM41",
+            "variations": [
+                "Alolan Grimer"
+            ]
+        },
+        {
+            "move": "Facade",
+            "tm": "TM42",
+            "variations": [
+                "Alolan Grimer"
+            ]
+        },
+        {
+            "move": "Rest",
+            "tm": "TM44",
+            "variations": [
+                "Alolan Grimer"
+            ]
+        },
+        {
+            "move": "Attract",
+            "tm": "TM45",
+            "variations": [
+                "Alolan Grimer"
+            ]
+        },
+        {
+            "move": "Thief",
+            "tm": "TM46",
+            "variations": [
+                "Alolan Grimer"
+            ]
+        },
+        {
+            "move": "Round",
+            "tm": "TM48",
+            "variations": [
+                "Alolan Grimer"
+            ]
+        },
+        {
+            "move": "Fling",
+            "tm": "TM56",
+            "variations": [
+                "Alolan Grimer"
+            ]
+        },
+        {
+            "move": "Brutal Swing",
+            "tm": "TM59",
+            "variations": [
+                "Alolan Grimer"
+            ]
+        },
+        {
+            "move": "Quash",
+            "tm": "TM60",
+            "variations": [
+                "Alolan Grimer"
+            ]
+        },
+        {
+            "move": "Embargo",
+            "tm": "TM63",
+            "variations": [
+                "Alolan Grimer"
+            ]
+        },
+        {
+            "move": "Explosion",
+            "tm": "TM64",
+            "variations": [
+                "Alolan Grimer"
+            ]
+        },
+        {
+            "move": "Payback",
+            "tm": "TM66",
+            "variations": [
+                "Alolan Grimer"
+            ]
+        },
+        {
+            "move": "Rock Polish",
+            "tm": "TM69",
+            "variations": [
+                "Alolan Grimer"
+            ]
+        },
+        {
+            "move": "Stone Edge",
+            "tm": "TM71",
+            "variations": [
+                "Alolan Grimer"
+            ]
+        },
+        {
+            "move": "Rock Slide",
+            "tm": "TM80",
+            "variations": [
+                "Alolan Grimer"
+            ]
+        },
+        {
+            "move": "Infestation",
+            "tm": "TM83",
+            "variations": [
+                "Alolan Grimer"
+            ]
+        },
+        {
+            "move": "Poison Jab",
+            "tm": "TM84",
+            "variations": [
+                "Alolan Grimer"
+            ]
+        },
+        {
+            "move": "Swagger",
+            "tm": "TM87",
+            "variations": [
+                "Alolan Grimer"
+            ]
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": "TM88",
+            "variations": [
+                "Alolan Grimer"
+            ]
+        },
+        {
+            "move": "Substitute",
+            "tm": "TM90",
+            "variations": [
+                "Alolan Grimer"
+            ]
+        },
+        {
+            "move": "Snarl",
+            "tm": "TM95",
+            "variations": [
+                "Alolan Grimer"
+            ]
+        },
+        {
+            "move": "Confide",
+            "tm": "TM100",
+            "variations": [
+                "Alolan Grimer"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,270 @@
+{
+    "name": "Taillow",
+    "national_id": 276,
+    "types": [
+        "Normal",
+        "Flying"
+    ],
+    "items": [
+        {
+            "name": "Charti Berry",
+            "chance": 5
+        }
+    ],
+    "abilities": [
+        {
+            "name": "Guts"
+        },
+        {
+            "name": "Scrappy",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 200,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Flying"
+    ],
+    "hatch_time": [
+        4080,
+        4334
+    ],
+    "height_us": "1'00\"",
+    "height_eu": "0.3 m",
+    "weight_us": "5.1 lbs.",
+    "weight_eu": "2.3 kg",
+    "base_exp_yield": 54,
+    "leveling_rate": "Medium Slow",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 1
+    },
+    "base_stats": {
+        "hp": 40,
+        "atk": 55,
+        "def": 30,
+        "sp_atk": 30,
+        "sp_def": 30,
+        "speed": 85
+    },
+    "evolution_from": null,
+    "evolutions": [
+        {
+            "to": "Swellow",
+            "level": 22
+        }
+    ],
+    "species": "Tiny Swallow Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "Taillow is young—it has only just left its nest. As a result, it sometimes becomes lonesome and cries at night. This Pokémon feeds on Wurmple that live in forests.",
+    "move_learnset": [
+        {
+            "move": "Growl",
+            "level": 1
+        },
+        {
+            "move": "Peck",
+            "level": 1
+        },
+        {
+            "move": "Focus Energy",
+            "level": 5
+        },
+        {
+            "move": "Quick Attack",
+            "level": 9
+        },
+        {
+            "move": "Wing Attack",
+            "level": 13
+        },
+        {
+            "move": "Double Team",
+            "level": 17
+        },
+        {
+            "move": "Aerial Ace",
+            "level": 21
+        },
+        {
+            "move": "Quick Guard",
+            "level": 25
+        },
+        {
+            "move": "Agility",
+            "level": 29
+        },
+        {
+            "move": "Air Slash",
+            "level": 33
+        },
+        {
+            "move": "Endeavor",
+            "level": 37
+        },
+        {
+            "move": "Brave Bird",
+            "level": 41
+        },
+        {
+            "move": "Reversal",
+            "level": 45
+        },
+        {
+            "move": "Boomburst",
+            "egg_move": true
+        },
+        {
+            "move": "Brave Bird",
+            "egg_move": true
+        },
+        {
+            "move": "Defog",
+            "egg_move": true
+        },
+        {
+            "move": "Hurricane",
+            "egg_move": true
+        },
+        {
+            "move": "Mirror Move",
+            "egg_move": true
+        },
+        {
+            "move": "Pursuit",
+            "egg_move": true
+        },
+        {
+            "move": "Rage",
+            "egg_move": true
+        },
+        {
+            "move": "Refresh",
+            "egg_move": true
+        },
+        {
+            "move": "Roost",
+            "egg_move": true
+        },
+        {
+            "move": "Sky Attack",
+            "egg_move": true
+        },
+        {
+            "move": "Steel Wing",
+            "egg_move": true
+        },
+        {
+            "move": "Supersonic",
+            "egg_move": true
+        },
+        {
+            "move": "Whirlwind",
+            "egg_move": true
+        },
+        {
+            "move": "Work Up",
+            "tm": "TM1"
+        },
+        {
+            "move": "Toxic",
+            "tm": "TM6"
+        },
+        {
+            "move": "Hidden Power",
+            "tm": "TM10"
+        },
+        {
+            "move": "Sunny Day",
+            "tm": "TM11"
+        },
+        {
+            "move": "Protect",
+            "tm": "TM17"
+        },
+        {
+            "move": "Rain Dance",
+            "tm": "TM18"
+        },
+        {
+            "move": "Roost",
+            "tm": "TM19"
+        },
+        {
+            "move": "Frustration",
+            "tm": "TM21"
+        },
+        {
+            "move": "Return",
+            "tm": "TM27"
+        },
+        {
+            "move": "Double Team",
+            "tm": "TM32"
+        },
+        {
+            "move": "Aerial Ace",
+            "tm": "TM40"
+        },
+        {
+            "move": "Facade",
+            "tm": "TM42"
+        },
+        {
+            "move": "Rest",
+            "tm": "TM44"
+        },
+        {
+            "move": "Attract",
+            "tm": "TM45"
+        },
+        {
+            "move": "Thief",
+            "tm": "TM46"
+        },
+        {
+            "move": "Round",
+            "tm": "TM48"
+        },
+        {
+            "move": "Echoed Voice",
+            "tm": "TM49"
+        },
+        {
+            "move": "Steel Wing",
+            "tm": "TM51"
+        },
+        {
+            "move": "Fly",
+            "tm": "TM76"
+        },
+        {
+            "move": "Swagger",
+            "tm": "TM87"
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": "TM88"
+        },
+        {
+            "move": "U-turn",
+            "tm": "TM89"
+        },
+        {
+            "move": "Substitute",
+            "tm": "TM90"
+        },
+        {
+            "move": "Confide",
+            "tm": "TM100"
+        }
+    ]
+}

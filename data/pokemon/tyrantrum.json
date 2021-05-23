@@ -1,0 +1,296 @@
+{
+    "name": "Tyrantrum",
+    "national_id": 697,
+    "types": [
+        "Rock",
+        "Dragon"
+    ],
+    "abilities": [
+        {
+            "name": "Strong Jaw"
+        },
+        {
+            "name": "Rock Head",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 45,
+    "gender_ratios": {
+        "male": 87.5,
+        "female": 12.5
+    },
+    "egg_groups": [
+        "Monster",
+        "Dragon"
+    ],
+    "hatch_time": [
+        7905,
+        8159
+    ],
+    "height_us": "8'02\"",
+    "height_eu": "2.5 m",
+    "weight_us": "595.2 lbs.",
+    "weight_eu": "270.0 kg",
+    "base_exp_yield": 182,
+    "leveling_rate": "Medium Fast",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 2,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 82,
+        "atk": 121,
+        "def": 119,
+        "sp_atk": 69,
+        "sp_def": 59,
+        "speed": 71
+    },
+    "evolution_from": "Tyrunt",
+    "evolutions": [],
+    "species": "Despot Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "Nothing could stop this Pokémon 100 million years ago, so it behaved like a king.",
+    "move_learnset": [
+        {
+            "move": "Head Smash",
+            "level": 1
+        },
+        {
+            "move": "Roar",
+            "level": 1
+        },
+        {
+            "move": "Rock Slide",
+            "level": 1
+        },
+        {
+            "move": "Stomp",
+            "level": 1
+        },
+        {
+            "move": "Tackle",
+            "level": 1
+        },
+        {
+            "move": "Tail Whip",
+            "level": 1
+        },
+        {
+            "move": "Roar",
+            "level": 6
+        },
+        {
+            "move": "Stomp",
+            "level": 10
+        },
+        {
+            "move": "Bide",
+            "level": 12
+        },
+        {
+            "move": "Stealth Rock",
+            "level": 15
+        },
+        {
+            "move": "Bite",
+            "level": 17
+        },
+        {
+            "move": "Charm",
+            "level": 20
+        },
+        {
+            "move": "Ancient Power",
+            "level": 26
+        },
+        {
+            "move": "Dragon Tail",
+            "level": 30
+        },
+        {
+            "move": "Crunch",
+            "level": 34
+        },
+        {
+            "move": "Dragon Claw",
+            "level": 37
+        },
+        {
+            "move": "Thrash",
+            "level": 42
+        },
+        {
+            "move": "Earthquake",
+            "level": 47
+        },
+        {
+            "move": "Horn Drill",
+            "level": 53
+        },
+        {
+            "move": "Head Smash",
+            "level": 58
+        },
+        {
+            "move": "Giga Impact",
+            "level": 68
+        },
+        {
+            "move": "Curse",
+            "egg_move": true
+        },
+        {
+            "move": "Dragon Dance",
+            "egg_move": true
+        },
+        {
+            "move": "Fire Fang",
+            "egg_move": true
+        },
+        {
+            "move": "Ice Fang",
+            "egg_move": true
+        },
+        {
+            "move": "Poison Fang",
+            "egg_move": true
+        },
+        {
+            "move": "Rock Polish",
+            "egg_move": true
+        },
+        {
+            "move": "Thunder Fang",
+            "egg_move": true
+        },
+        {
+            "move": "Dragon Claw",
+            "tm": "TM2"
+        },
+        {
+            "move": "Roar",
+            "tm": "TM5"
+        },
+        {
+            "move": "Toxic",
+            "tm": "TM6"
+        },
+        {
+            "move": "Hidden Power",
+            "tm": "TM10"
+        },
+        {
+            "move": "Sunny Day",
+            "tm": "TM11"
+        },
+        {
+            "move": "Hyper Beam",
+            "tm": "TM15"
+        },
+        {
+            "move": "Protect",
+            "tm": "TM17"
+        },
+        {
+            "move": "Frustration",
+            "tm": "TM21"
+        },
+        {
+            "move": "Earthquake",
+            "tm": "TM26"
+        },
+        {
+            "move": "Return",
+            "tm": "TM27"
+        },
+        {
+            "move": "Brick Break",
+            "tm": "TM31"
+        },
+        {
+            "move": "Double Team",
+            "tm": "TM32"
+        },
+        {
+            "move": "Sandstorm",
+            "tm": "TM37"
+        },
+        {
+            "move": "Rock Tomb",
+            "tm": "TM39"
+        },
+        {
+            "move": "Aerial Ace",
+            "tm": "TM40"
+        },
+        {
+            "move": "Facade",
+            "tm": "TM42"
+        },
+        {
+            "move": "Rest",
+            "tm": "TM44"
+        },
+        {
+            "move": "Attract",
+            "tm": "TM45"
+        },
+        {
+            "move": "Round",
+            "tm": "TM48"
+        },
+        {
+            "move": "Brutal Swing",
+            "tm": "TM59"
+        },
+        {
+            "move": "Giga Impact",
+            "tm": "TM68"
+        },
+        {
+            "move": "Rock Polish",
+            "tm": "TM69"
+        },
+        {
+            "move": "Stone Edge",
+            "tm": "TM71"
+        },
+        {
+            "move": "Bulldoze",
+            "tm": "TM78"
+        },
+        {
+            "move": "Rock Slide",
+            "tm": "TM80"
+        },
+        {
+            "move": "Dragon Tail",
+            "tm": "TM82"
+        },
+        {
+            "move": "Swagger",
+            "tm": "TM87"
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": "TM88"
+        },
+        {
+            "move": "Substitute",
+            "tm": "TM90"
+        },
+        {
+            "move": "Dark Pulse",
+            "tm": "TM97"
+        },
+        {
+            "move": "Confide",
+            "tm": "TM100"
+        }
+    ]
+}

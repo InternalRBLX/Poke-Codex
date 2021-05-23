@@ -1,0 +1,317 @@
+{
+    "name": "Hakamo-o",
+    "national_id": 783,
+    "types": [
+        "Dragon",
+        "Fighting"
+    ],
+    "items": [
+        {
+            "name": "Razor Claw",
+            "chance": 5
+        }
+    ],
+    "abilities": [
+        {
+            "name": "Bulletproof"
+        },
+        {
+            "name": "Soundproof"
+        },
+        {
+            "name": "Overcoat",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 45,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Dragon"
+    ],
+    "hatch_time": [
+        10280,
+        10536
+    ],
+    "height_us": "3'11\"",
+    "height_eu": "1.2 m",
+    "weight_us": "103.6 lbs.",
+    "weight_eu": "47.0 kg",
+    "base_exp_yield": 147,
+    "leveling_rate": "Slow",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 2,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 55,
+        "atk": 75,
+        "def": 90,
+        "sp_atk": 65,
+        "sp_def": 70,
+        "speed": 65
+    },
+    "evolution_from": "Jangmo-o",
+    "evolutions": [
+        {
+            "to": "Kommo-o",
+            "level": 45
+        }
+    ],
+    "species": "Scaly Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "Before attacking its enemies, it clashes its scales together and roars. Its sharp claws shred the opposition.",
+    "move_learnset": [
+        {
+            "move": "Autotomize",
+            "level": 1
+        },
+        {
+            "move": "Tackle",
+            "level": 1
+        },
+        {
+            "move": "Leer",
+            "level": 1
+        },
+        {
+            "move": "Protect",
+            "level": 1
+        },
+        {
+            "move": "Dragon Tail",
+            "level": 1
+        },
+        {
+            "move": "Scary Face",
+            "level": 12
+        },
+        {
+            "move": "Headbutt",
+            "level": 16
+        },
+        {
+            "move": "Work Up",
+            "level": 20
+        },
+        {
+            "move": "Screech",
+            "level": 24
+        },
+        {
+            "move": "Iron Defense",
+            "level": 28
+        },
+        {
+            "move": "Dragon Claw",
+            "level": 32
+        },
+        {
+            "move": "Noble Roar",
+            "level": 38
+        },
+        {
+            "move": "Dragon Dance",
+            "level": 44
+        },
+        {
+            "move": "Outrage",
+            "level": 50
+        },
+        {
+            "move": "Close Combat",
+            "level": 56
+        },
+        {
+            "move": "Mega Punch",
+            "tm": true
+        },
+        {
+            "move": "Mega Kick",
+            "tm": true
+        },
+        {
+            "move": "Screech",
+            "tm": true
+        },
+        {
+            "move": "Safeguard",
+            "tm": true
+        },
+        {
+            "move": "Rest",
+            "tm": true
+        },
+        {
+            "move": "Rock Slide",
+            "tm": true
+        },
+        {
+            "move": "Snore",
+            "tm": true
+        },
+        {
+            "move": "Protect",
+            "tm": true
+        },
+        {
+            "move": "Scary Face",
+            "tm": true
+        },
+        {
+            "move": "Attract",
+            "tm": true
+        },
+        {
+            "move": "Sandstorm",
+            "tm": true
+        },
+        {
+            "move": "Facade",
+            "tm": true
+        },
+        {
+            "move": "Brick Break",
+            "tm": true
+        },
+        {
+            "move": "Rock Tomb",
+            "tm": true
+        },
+        {
+            "move": "Payback",
+            "tm": true
+        },
+        {
+            "move": "Fling",
+            "tm": true
+        },
+        {
+            "move": "Drain Punch",
+            "tm": true
+        },
+        {
+            "move": "Shadow Claw",
+            "tm": true
+        },
+        {
+            "move": "Round",
+            "tm": true
+        },
+        {
+            "move": "Bulldoze",
+            "tm": true
+        },
+        {
+            "move": "False Swipe",
+            "tm": true
+        },
+        {
+            "move": "Brutal Swing",
+            "tm": true
+        },
+        {
+            "move": "Swords Dance",
+            "tm": true
+        },
+        {
+            "move": "Low Kick",
+            "tm": true
+        },
+        {
+            "move": "Earthquake",
+            "tm": true
+        },
+        {
+            "move": "Substitute",
+            "tm": true
+        },
+        {
+            "move": "Reversal",
+            "tm": true
+        },
+        {
+            "move": "Outrage",
+            "tm": true
+        },
+        {
+            "move": "Endure",
+            "tm": true
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": true
+        },
+        {
+            "move": "Iron Tail",
+            "tm": true
+        },
+        {
+            "move": "Uproar",
+            "tm": true
+        },
+        {
+            "move": "Taunt",
+            "tm": true
+        },
+        {
+            "move": "Iron Defense",
+            "tm": true
+        },
+        {
+            "move": "Dragon Claw",
+            "tm": true
+        },
+        {
+            "move": "Bulk Up",
+            "tm": true
+        },
+        {
+            "move": "Dragon Dance",
+            "tm": true
+        },
+        {
+            "move": "Close Combat",
+            "tm": true
+        },
+        {
+            "move": "X-Scissor",
+            "tm": true
+        },
+        {
+            "move": "Dragon Pulse",
+            "tm": true
+        },
+        {
+            "move": "Focus Blast",
+            "tm": true
+        },
+        {
+            "move": "Iron Head",
+            "tm": true
+        },
+        {
+            "move": "Work Up",
+            "tm": true
+        },
+        {
+            "move": "Counter",
+            "egg_move": true
+        },
+        {
+            "move": "Dragon Breath",
+            "egg_move": true
+        },
+        {
+            "move": "Focus Punch",
+            "egg_move": true
+        }
+    ]
+}

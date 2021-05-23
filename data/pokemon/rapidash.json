@@ -1,0 +1,327 @@
+{
+    "name": "Rapidash",
+    "national_id": 78,
+    "types": [
+        "Fire"
+    ],
+    "items": [
+        {
+            "name": "Shuca Berry",
+            "chance": 5
+        }
+    ],
+    "abilities": [
+        {
+            "name": "Run Away"
+        },
+        {
+            "name": "Flash Fire"
+        },
+        {
+            "name": "Flame Body",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 60,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Field"
+    ],
+    "hatch_time": [
+        5355,
+        5609
+    ],
+    "height_us": "5'07\"",
+    "height_eu": "1.7 m",
+    "weight_us": "209.4 lbs.",
+    "weight_eu": "95.0 kg",
+    "base_exp_yield": 175,
+    "leveling_rate": "Medium Fast",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 2
+    },
+    "base_stats": {
+        "hp": 65,
+        "atk": 100,
+        "def": 70,
+        "sp_atk": 80,
+        "sp_def": 80,
+        "speed": 105
+    },
+    "evolution_from": "Ponyta",
+    "evolutions": [],
+    "species": "Fire Horse Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "The fastest runner becomes the leader, and it decides the herd’s pace and direction of travel.",
+    "move_learnset": [
+        {
+            "move": "Smart Strike",
+            "evo": true
+        },
+        {
+            "move": "Smart Strike",
+            "level": 1
+        },
+        {
+            "move": "Megahorn",
+            "level": 1
+        },
+        {
+            "move": "Poison Jab",
+            "level": 1
+        },
+        {
+            "move": "Tackle",
+            "level": 1
+        },
+        {
+            "move": "Quick Attack",
+            "level": 1
+        },
+        {
+            "move": "Growl",
+            "level": 1
+        },
+        {
+            "move": "Tail Whip",
+            "level": 1
+        },
+        {
+            "move": "Ember",
+            "level": 1
+        },
+        {
+            "move": "Flame Charge",
+            "level": 15
+        },
+        {
+            "move": "Agility",
+            "level": 20
+        },
+        {
+            "move": "Flame Wheel",
+            "level": 25
+        },
+        {
+            "move": "Stomp",
+            "level": 30
+        },
+        {
+            "move": "Fire Spin",
+            "level": 35
+        },
+        {
+            "move": "Take Down",
+            "level": 43
+        },
+        {
+            "move": "Inferno",
+            "level": 49
+        },
+        {
+            "move": "Fire Blast",
+            "level": 56
+        },
+        {
+            "move": "Flare Blitz",
+            "level": 63
+        },
+        {
+            "move": "Pay Day",
+            "tm": true
+        },
+        {
+            "move": "Hyper Beam",
+            "tm": true
+        },
+        {
+            "move": "Giga Impact",
+            "tm": true
+        },
+        {
+            "move": "Solar Beam",
+            "tm": true
+        },
+        {
+            "move": "Solar Blade",
+            "tm": true
+        },
+        {
+            "move": "Fire Spin",
+            "tm": true
+        },
+        {
+            "move": "Rest",
+            "tm": true
+        },
+        {
+            "move": "Snore",
+            "tm": true
+        },
+        {
+            "move": "Protect",
+            "tm": true
+        },
+        {
+            "move": "Charm",
+            "tm": true
+        },
+        {
+            "move": "Attract",
+            "tm": true
+        },
+        {
+            "move": "Sunny Day",
+            "tm": true
+        },
+        {
+            "move": "Will-O-Wisp",
+            "tm": true
+        },
+        {
+            "move": "Facade",
+            "tm": true
+        },
+        {
+            "move": "Swift",
+            "tm": true
+        },
+        {
+            "move": "Bounce",
+            "tm": true
+        },
+        {
+            "move": "Round",
+            "tm": true
+        },
+        {
+            "move": "Mystical Fire",
+            "tm": true
+        },
+        {
+            "move": "Smart Strike",
+            "tm": true
+        },
+        {
+            "move": "Swords Dance",
+            "tm": true
+        },
+        {
+            "move": "Body Slam",
+            "tm": true
+        },
+        {
+            "move": "Flamethrower",
+            "tm": true
+        },
+        {
+            "move": "Low Kick",
+            "tm": true
+        },
+        {
+            "move": "Agility",
+            "tm": true
+        },
+        {
+            "move": "Fire Blast",
+            "tm": true
+        },
+        {
+            "move": "Substitute",
+            "tm": true
+        },
+        {
+            "move": "Endure",
+            "tm": true
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": true
+        },
+        {
+            "move": "Megahorn",
+            "tm": true
+        },
+        {
+            "move": "Baton Pass",
+            "tm": true
+        },
+        {
+            "move": "Iron Tail",
+            "tm": true
+        },
+        {
+            "move": "Heat Wave",
+            "tm": true
+        },
+        {
+            "move": "Overheat",
+            "tm": true
+        },
+        {
+            "move": "Flare Blitz",
+            "tm": true
+        },
+        {
+            "move": "Poison Jab",
+            "tm": true
+        },
+        {
+            "move": "Ally Switch",
+            "tm": true
+        },
+        {
+            "move": "Wild Charge",
+            "tm": true
+        },
+        {
+            "move": "Drill Run",
+            "tm": true
+        },
+        {
+            "move": "Play Rough",
+            "tm": true
+        },
+        {
+            "move": "High Horsepower",
+            "tm": true
+        },
+        {
+            "move": "Throat Chop",
+            "tm": true
+        },
+        {
+            "move": "Thrash",
+            "egg_move": true
+        },
+        {
+            "move": "Double Kick",
+            "egg_move": true
+        },
+        {
+            "move": "Hypnosis",
+            "egg_move": true
+        },
+        {
+            "move": "Double-Edge",
+            "egg_move": true
+        },
+        {
+            "move": "Horn Drill",
+            "egg_move": true
+        },
+        {
+            "move": "Morning Sun",
+            "egg_move": true
+        }
+    ]
+}

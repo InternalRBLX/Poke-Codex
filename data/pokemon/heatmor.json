@@ -1,0 +1,300 @@
+{
+    "name": "Heatmor",
+    "national_id": 631,
+    "types": [
+        "Fire"
+    ],
+    "items": [
+        {
+            "name": "Flame Orb",
+            "chance": 1
+        }
+    ],
+    "abilities": [
+        {
+            "name": "Gluttony"
+        },
+        {
+            "name": "White Smoke",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 90,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Field"
+    ],
+    "hatch_time": [
+        5355,
+        5609
+    ],
+    "height_us": "4'07\"",
+    "height_eu": "1.4 m",
+    "weight_us": "127.9 lbs.",
+    "weight_eu": "58.0 kg",
+    "base_exp_yield": 169,
+    "leveling_rate": "Medium Fast",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 2,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 85,
+        "atk": 97,
+        "def": 66,
+        "sp_atk": 105,
+        "sp_def": 66,
+        "speed": 65
+    },
+    "evolution_from": null,
+    "evolutions": [],
+    "species": "Anteater Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "A flame serves as its tongue, melting through the hard shell of Durant so that Heatmor can devour their insides.",
+    "move_learnset": [
+        {
+            "move": "Lick",
+            "level": 1
+        },
+        {
+            "move": "Tackle",
+            "level": 1
+        },
+        {
+            "move": "Fury Swipes",
+            "level": 5
+        },
+        {
+            "move": "Incinerate",
+            "level": 10
+        },
+        {
+            "move": "Bug Bite",
+            "level": 15
+        },
+        {
+            "move": "Stockpile",
+            "level": 20
+        },
+        {
+            "move": "Swallow",
+            "level": 20
+        },
+        {
+            "move": "Spit Up",
+            "level": 20
+        },
+        {
+            "move": "Slash",
+            "level": 25
+        },
+        {
+            "move": "Bind",
+            "level": 30
+        },
+        {
+            "move": "Fire Lash",
+            "level": 35
+        },
+        {
+            "move": "Hone Claws",
+            "level": 40
+        },
+        {
+            "move": "Amnesia",
+            "level": 45
+        },
+        {
+            "move": "Fire Spin",
+            "level": 50
+        },
+        {
+            "move": "Inferno",
+            "level": 55
+        },
+        {
+            "move": "Flare Blitz",
+            "level": 60
+        },
+        {
+            "move": "Fire Punch",
+            "tm": true
+        },
+        {
+            "move": "Thunder Punch",
+            "tm": true
+        },
+        {
+            "move": "Giga Impact",
+            "tm": true
+        },
+        {
+            "move": "Solar Beam",
+            "tm": true
+        },
+        {
+            "move": "Fire Spin",
+            "tm": true
+        },
+        {
+            "move": "Dig",
+            "tm": true
+        },
+        {
+            "move": "Rest",
+            "tm": true
+        },
+        {
+            "move": "Thief",
+            "tm": true
+        },
+        {
+            "move": "Snore",
+            "tm": true
+        },
+        {
+            "move": "Protect",
+            "tm": true
+        },
+        {
+            "move": "Giga Drain",
+            "tm": true
+        },
+        {
+            "move": "Attract",
+            "tm": true
+        },
+        {
+            "move": "Rain Dance",
+            "tm": true
+        },
+        {
+            "move": "Sunny Day",
+            "tm": true
+        },
+        {
+            "move": "Will-O-Wisp",
+            "tm": true
+        },
+        {
+            "move": "Facade",
+            "tm": true
+        },
+        {
+            "move": "Rock Tomb",
+            "tm": true
+        },
+        {
+            "move": "Fling",
+            "tm": true
+        },
+        {
+            "move": "Drain Punch",
+            "tm": true
+        },
+        {
+            "move": "Shadow Claw",
+            "tm": true
+        },
+        {
+            "move": "Round",
+            "tm": true
+        },
+        {
+            "move": "Brutal Swing",
+            "tm": true
+        },
+        {
+            "move": "Stomping Tantrum",
+            "tm": true
+        },
+        {
+            "move": "Body Slam",
+            "tm": true
+        },
+        {
+            "move": "Flamethrower",
+            "tm": true
+        },
+        {
+            "move": "Low Kick",
+            "tm": true
+        },
+        {
+            "move": "Fire Blast",
+            "tm": true
+        },
+        {
+            "move": "Amnesia",
+            "tm": true
+        },
+        {
+            "move": "Substitute",
+            "tm": true
+        },
+        {
+            "move": "Endure",
+            "tm": true
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": true
+        },
+        {
+            "move": "Heat Wave",
+            "tm": true
+        },
+        {
+            "move": "Taunt",
+            "tm": true
+        },
+        {
+            "move": "Superpower",
+            "tm": true
+        },
+        {
+            "move": "Overheat",
+            "tm": true
+        },
+        {
+            "move": "Flare Blitz",
+            "tm": true
+        },
+        {
+            "move": "Focus Blast",
+            "tm": true
+        },
+        {
+            "move": "Throat Chop",
+            "tm": true
+        },
+        {
+            "move": "Night Slash",
+            "egg_move": true
+        },
+        {
+            "move": "Curse",
+            "egg_move": true
+        },
+        {
+            "move": "Sucker Punch",
+            "egg_move": true
+        },
+        {
+            "move": "Tickle",
+            "egg_move": true
+        },
+        {
+            "move": "Belch",
+            "egg_move": true
+        }
+    ]
+}

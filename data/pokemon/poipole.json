@@ -1,0 +1,172 @@
+{
+    "name": "Poipole",
+    "national_id": 803,
+    "types": [
+        "Poison"
+    ],
+    "abilities": [
+        {
+            "name": "Beast Boost"
+        }
+    ],
+    "catch_rate": 0,
+    "gender_ratios": null,
+    "egg_groups": [
+        "Undiscovered"
+    ],
+    "hatch_time": [
+        1800,
+        1800
+    ],
+    "height_us": "2'0\"",
+    "height_eu": "0.6 m",
+    "weight_us": "4.0 lbs.",
+    "weight_eu": "1.8 kg",
+    "base_exp_yield": 0,
+    "leveling_rate": "Slow",
+    "base_friendship": 0,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 1
+    },
+    "base_stats": {
+        "hp": 67,
+        "atk": 73,
+        "def": 67,
+        "sp_atk": 73,
+        "sp_def": 67,
+        "speed": 73
+    },
+    "evolution_from": null,
+    "evolutions": [
+        {
+            "to": "Naganadel",
+            "move_learned": "Dragon Pulse"
+        }
+    ],
+    "species": "Poison Pin Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "This Ultra Beast is well enough liked to be chosen as a first partner in its own world.",
+    "move_learnset": [
+        {
+            "move": "Acid",
+            "level": 1
+        },
+        {
+            "move": "Dragon Pulse",
+            "level": 1
+        },
+        {
+            "move": "Growl",
+            "level": 1
+        },
+        {
+            "move": "Helping Hand",
+            "level": 1
+        },
+        {
+            "move": "Peck",
+            "level": 1
+        },
+        {
+            "move": "Fury Attack",
+            "level": 7
+        },
+        {
+            "move": "Venoshock",
+            "level": 13
+        },
+        {
+            "move": "Charm",
+            "level": 19
+        },
+        {
+            "move": "Venom Drench",
+            "level": 23
+        },
+        {
+            "move": "Nasty Plot",
+            "level": 31
+        },
+        {
+            "move": "Poison Jab",
+            "level": 37
+        },
+        {
+            "move": "Toxic",
+            "level": 41
+        },
+        {
+            "move": "Fell Stinger",
+            "level": 47
+        },
+        {
+            "move": "Toxic",
+            "tm": "TM6"
+        },
+        {
+            "move": "Venoshock",
+            "tm": "TM9"
+        },
+        {
+            "move": "Hidden Power",
+            "tm": "TM10"
+        },
+        {
+            "move": "Protect",
+            "tm": "TM17"
+        },
+        {
+            "move": "Frustration",
+            "tm": "TM21"
+        },
+        {
+            "move": "Return",
+            "tm": "TM27"
+        },
+        {
+            "move": "Sludge Wave",
+            "tm": "TM34"
+        },
+        {
+            "move": "Sludge Bomb",
+            "tm": "TM36"
+        },
+        {
+            "move": "Facade",
+            "tm": "TM42"
+        },
+        {
+            "move": "Rest",
+            "tm": "TM44"
+        },
+        {
+            "move": "Round",
+            "tm": "TM48"
+        },
+        {
+            "move": "Echoed Voice",
+            "tm": "TM49"
+        },
+        {
+            "move": "Poison Jab",
+            "tm": "TM84"
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": "TM88"
+        },
+        {
+            "move": "Substitute",
+            "tm": "TM90"
+        },
+        {
+            "move": "Confide",
+            "tm": "TM100"
+        }
+    ]
+}

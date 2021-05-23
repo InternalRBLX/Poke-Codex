@@ -1,0 +1,311 @@
+{
+    "name": "Fraxure",
+    "national_id": 611,
+    "types": [
+        "Dragon"
+    ],
+    "abilities": [
+        {
+            "name": "Rivalry"
+        },
+        {
+            "name": "Mold Breaker"
+        },
+        {
+            "name": "Unnerve",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 60,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Monster",
+        "Dragon"
+    ],
+    "hatch_time": [
+        10455,
+        10709
+    ],
+    "height_us": "3'03\"",
+    "height_eu": "1.0 m",
+    "weight_us": "79.4 lbs.",
+    "weight_eu": "36.0 kg",
+    "base_exp_yield": 144,
+    "leveling_rate": "Slow",
+    "base_friendship": 35,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 2,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 66,
+        "atk": 117,
+        "def": 70,
+        "sp_atk": 40,
+        "sp_def": 50,
+        "speed": 67
+    },
+    "evolution_from": "Axew",
+    "evolutions": [
+        {
+            "to": "Haxorus",
+            "level": 48
+        }
+    ],
+    "species": "Axe Jaw Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "Its skin is as hard as a suit of armor. Fraxure’s favorite strategy is to tackle its opponents, stabbing them with its tusks at the same time.",
+    "move_learnset": [
+        {
+            "move": "Scratch",
+            "level": 1
+        },
+        {
+            "move": "Leer",
+            "level": 1
+        },
+        {
+            "move": "Bite",
+            "level": 1
+        },
+        {
+            "move": "False Swipe",
+            "level": 1
+        },
+        {
+            "move": "Assurance",
+            "level": 9
+        },
+        {
+            "move": "Taunt",
+            "level": 12
+        },
+        {
+            "move": "Slash",
+            "level": 15
+        },
+        {
+            "move": "Dragon Claw",
+            "level": 18
+        },
+        {
+            "move": "Scary Face",
+            "level": 21
+        },
+        {
+            "move": "Crunch",
+            "level": 24
+        },
+        {
+            "move": "Dragon Dance",
+            "level": 27
+        },
+        {
+            "move": "Dual Chop",
+            "level": 30
+        },
+        {
+            "move": "Laser Focus",
+            "level": 33
+        },
+        {
+            "move": "Dragon Pulse",
+            "level": 36
+        },
+        {
+            "move": "Swords Dance",
+            "level": 41
+        },
+        {
+            "move": "Outrage",
+            "level": 46
+        },
+        {
+            "move": "Guillotine",
+            "level": 51
+        },
+        {
+            "move": "Giga Impact",
+            "level": 56
+        },
+        {
+            "move": "Giga Impact",
+            "tm": true
+        },
+        {
+            "move": "Dig",
+            "tm": true
+        },
+        {
+            "move": "Rest",
+            "tm": true
+        },
+        {
+            "move": "Snore",
+            "tm": true
+        },
+        {
+            "move": "Protect",
+            "tm": true
+        },
+        {
+            "move": "Scary Face",
+            "tm": true
+        },
+        {
+            "move": "Attract",
+            "tm": true
+        },
+        {
+            "move": "Rain Dance",
+            "tm": true
+        },
+        {
+            "move": "Sunny Day",
+            "tm": true
+        },
+        {
+            "move": "Facade",
+            "tm": true
+        },
+        {
+            "move": "Swift",
+            "tm": true
+        },
+        {
+            "move": "Rock Tomb",
+            "tm": true
+        },
+        {
+            "move": "Payback",
+            "tm": true
+        },
+        {
+            "move": "Assurance",
+            "tm": true
+        },
+        {
+            "move": "Fling",
+            "tm": true
+        },
+        {
+            "move": "Shadow Claw",
+            "tm": true
+        },
+        {
+            "move": "Round",
+            "tm": true
+        },
+        {
+            "move": "False Swipe",
+            "tm": true
+        },
+        {
+            "move": "Stomping Tantrum",
+            "tm": true
+        },
+        {
+            "move": "Breaking Swipe",
+            "tm": true
+        },
+        {
+            "move": "Swords Dance",
+            "tm": true
+        },
+        {
+            "move": "Low Kick",
+            "tm": true
+        },
+        {
+            "move": "Focus Energy",
+            "tm": true
+        },
+        {
+            "move": "Substitute",
+            "tm": true
+        },
+        {
+            "move": "Reversal",
+            "tm": true
+        },
+        {
+            "move": "Outrage",
+            "tm": true
+        },
+        {
+            "move": "Endure",
+            "tm": true
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": true
+        },
+        {
+            "move": "Iron Tail",
+            "tm": true
+        },
+        {
+            "move": "Crunch",
+            "tm": true
+        },
+        {
+            "move": "Taunt",
+            "tm": true
+        },
+        {
+            "move": "Superpower",
+            "tm": true
+        },
+        {
+            "move": "Dragon Claw",
+            "tm": true
+        },
+        {
+            "move": "Dragon Dance",
+            "tm": true
+        },
+        {
+            "move": "Poison Jab",
+            "tm": true
+        },
+        {
+            "move": "X-Scissor",
+            "tm": true
+        },
+        {
+            "move": "Dragon Pulse",
+            "tm": true
+        },
+        {
+            "move": "Counter",
+            "egg_move": true
+        },
+        {
+            "move": "Night Slash",
+            "egg_move": true
+        },
+        {
+            "move": "Endeavor",
+            "egg_move": true
+        },
+        {
+            "move": "Harden",
+            "egg_move": true
+        },
+        {
+            "move": "First Impression",
+            "egg_move": true
+        },
+        {
+            "move": "Counter",
+            "egg_move": true
+        }
+    ]
+}

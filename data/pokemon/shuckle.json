@@ -1,0 +1,296 @@
+{
+    "name": "Shuckle",
+    "national_id": 213,
+    "types": [
+        "Bug",
+        "Rock"
+    ],
+    "items": [
+        {
+            "name": "Berry Juice",
+            "chance": 100
+        }
+    ],
+    "abilities": [
+        {
+            "name": "Sturdy"
+        },
+        {
+            "name": "Gluttony"
+        },
+        {
+            "name": "Contrary",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 190,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Bug"
+    ],
+    "hatch_time": [
+        5355,
+        5609
+    ],
+    "height_us": "2'00\"",
+    "height_eu": "0.6 m",
+    "weight_us": "45.2 lbs.",
+    "weight_eu": "20.5 kg",
+    "base_exp_yield": 177,
+    "leveling_rate": "Medium Slow",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 1,
+        "sp_atk": 0,
+        "sp_def": 1,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 20,
+        "atk": 10,
+        "def": 230,
+        "sp_atk": 10,
+        "sp_def": 230,
+        "speed": 5
+    },
+    "evolution_from": null,
+    "evolutions": [],
+    "species": "Mold Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "The berries stored in its vaselike shell eventually become a thick, pulpy juice.",
+    "move_learnset": [
+        {
+            "move": "Withdraw",
+            "level": 1
+        },
+        {
+            "move": "Wrap",
+            "level": 1
+        },
+        {
+            "move": "Rollout",
+            "level": 5
+        },
+        {
+            "move": "Struggle Bug",
+            "level": 10
+        },
+        {
+            "move": "Rock Throw",
+            "level": 15
+        },
+        {
+            "move": "Safeguard",
+            "level": 20
+        },
+        {
+            "move": "Rest",
+            "level": 25
+        },
+        {
+            "move": "Bug Bite",
+            "level": 30
+        },
+        {
+            "move": "Power Split",
+            "level": 35
+        },
+        {
+            "move": "Guard Split",
+            "level": 35
+        },
+        {
+            "move": "Rock Slide",
+            "level": 40
+        },
+        {
+            "move": "Gastro Acid",
+            "level": 45
+        },
+        {
+            "move": "Sticky Web",
+            "level": 50
+        },
+        {
+            "move": "Power Trick",
+            "level": 55
+        },
+        {
+            "move": "Stone Edge",
+            "level": 60
+        },
+        {
+            "move": "Shell Smash",
+            "level": 65
+        },
+        {
+            "move": "Dig",
+            "tm": true
+        },
+        {
+            "move": "Safeguard",
+            "tm": true
+        },
+        {
+            "move": "Rest",
+            "tm": true
+        },
+        {
+            "move": "Rock Slide",
+            "tm": true
+        },
+        {
+            "move": "Snore",
+            "tm": true
+        },
+        {
+            "move": "Protect",
+            "tm": true
+        },
+        {
+            "move": "Attract",
+            "tm": true
+        },
+        {
+            "move": "Sandstorm",
+            "tm": true
+        },
+        {
+            "move": "Sunny Day",
+            "tm": true
+        },
+        {
+            "move": "Facade",
+            "tm": true
+        },
+        {
+            "move": "Helping Hand",
+            "tm": true
+        },
+        {
+            "move": "Rock Tomb",
+            "tm": true
+        },
+        {
+            "move": "Sand Tomb",
+            "tm": true
+        },
+        {
+            "move": "Mud Shot",
+            "tm": true
+        },
+        {
+            "move": "Rock Blast",
+            "tm": true
+        },
+        {
+            "move": "Venoshock",
+            "tm": true
+        },
+        {
+            "move": "Round",
+            "tm": true
+        },
+        {
+            "move": "Bulldoze",
+            "tm": true
+        },
+        {
+            "move": "Body Slam",
+            "tm": true
+        },
+        {
+            "move": "Earthquake",
+            "tm": true
+        },
+        {
+            "move": "Substitute",
+            "tm": true
+        },
+        {
+            "move": "Reversal",
+            "tm": true
+        },
+        {
+            "move": "Sludge Bomb",
+            "tm": true
+        },
+        {
+            "move": "Endure",
+            "tm": true
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": true
+        },
+        {
+            "move": "Encore",
+            "tm": true
+        },
+        {
+            "move": "Iron Defense",
+            "tm": true
+        },
+        {
+            "move": "Gyro Ball",
+            "tm": true
+        },
+        {
+            "move": "Earth Power",
+            "tm": true
+        },
+        {
+            "move": "Stone Edge",
+            "tm": true
+        },
+        {
+            "move": "Stealth Rock",
+            "tm": true
+        },
+        {
+            "move": "Sludge Wave",
+            "tm": true
+        },
+        {
+            "move": "Sweet Scent",
+            "egg_move": true
+        },
+        {
+            "move": "Knock Off",
+            "egg_move": true
+        },
+        {
+            "move": "Acupressure",
+            "egg_move": true
+        },
+        {
+            "move": "Acid",
+            "egg_move": true
+        },
+        {
+            "move": "Final Gambit",
+            "egg_move": true
+        },
+        {
+            "move": "Defense Curl",
+            "egg_move": true
+        },
+        {
+            "move": "Infestation",
+            "egg_move": true
+        },
+        {
+            "move": "Toxic",
+            "egg_move": true
+        },
+        {
+            "move": "Covet",
+            "egg_move": true
+        }
+    ]
+}

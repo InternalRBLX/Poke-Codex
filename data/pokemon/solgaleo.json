@@ -1,0 +1,348 @@
+{
+    "name": "Solgaleo",
+    "national_id": 791,
+    "types": [
+        "Psychic",
+        "Steel"
+    ],
+    "abilities": [
+        {
+            "name": "Full Metal Body"
+        }
+    ],
+    "catch_rate": 45,
+    "gender_ratios": null,
+    "egg_groups": [
+        "Undiscovered"
+    ],
+    "hatch_time": [
+        30840,
+        31096
+    ],
+    "height_us": "11'02\"",
+    "height_eu": "3.4 m",
+    "weight_us": "507.1 lbs.",
+    "weight_eu": "230.0 kg",
+    "base_exp_yield": 136,
+    "leveling_rate": "Slow",
+    "base_friendship": 0,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 3,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 137,
+        "atk": 137,
+        "def": 107,
+        "sp_atk": 113,
+        "sp_def": 89,
+        "speed": 97
+    },
+    "evolution_from": "Cosmoem",
+    "evolutions": [],
+    "species": "Sunne Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "Solgaleo was once known as the Beast That Devours the Sun. Energy in the form of light radiates boundlessly from it.",
+    "move_learnset": [
+        {
+            "move": "Sunsteel Strike",
+            "evo": true
+        },
+        {
+            "move": "Sunsteel Strike",
+            "level": 1
+        },
+        {
+            "move": "Cosmic Power",
+            "level": 1
+        },
+        {
+            "move": "Teleport",
+            "level": 1
+        },
+        {
+            "move": "Metal Claw",
+            "level": 1
+        },
+        {
+            "move": "Noble Roar",
+            "level": 1
+        },
+        {
+            "move": "Iron Head",
+            "level": 7
+        },
+        {
+            "move": "Metal Sound",
+            "level": 14
+        },
+        {
+            "move": "Zen Headbutt",
+            "level": 21
+        },
+        {
+            "move": "Flash Cannon",
+            "level": 28
+        },
+        {
+            "move": "Morning Sun",
+            "level": 35
+        },
+        {
+            "move": "Crunch",
+            "level": 42
+        },
+        {
+            "move": "Metal Burst",
+            "level": 49
+        },
+        {
+            "move": "Wild Charge",
+            "level": 56
+        },
+        {
+            "move": "Solar Beam",
+            "level": 63
+        },
+        {
+            "move": "Flare Blitz",
+            "level": 70
+        },
+        {
+            "move": "Wide Guard",
+            "level": 77
+        },
+        {
+            "move": "Giga Impact",
+            "level": 84
+        },
+        {
+            "move": "Hyper Beam",
+            "tm": true
+        },
+        {
+            "move": "Giga Impact",
+            "tm": true
+        },
+        {
+            "move": "Solar Beam",
+            "tm": true
+        },
+        {
+            "move": "Fire Spin",
+            "tm": true
+        },
+        {
+            "move": "Thunder Wave",
+            "tm": true
+        },
+        {
+            "move": "Light Screen",
+            "tm": true
+        },
+        {
+            "move": "Reflect",
+            "tm": true
+        },
+        {
+            "move": "Safeguard",
+            "tm": true
+        },
+        {
+            "move": "Rest",
+            "tm": true
+        },
+        {
+            "move": "Rock Slide",
+            "tm": true
+        },
+        {
+            "move": "Snore",
+            "tm": true
+        },
+        {
+            "move": "Protect",
+            "tm": true
+        },
+        {
+            "move": "Scary Face",
+            "tm": true
+        },
+        {
+            "move": "Sunny Day",
+            "tm": true
+        },
+        {
+            "move": "Facade",
+            "tm": true
+        },
+        {
+            "move": "Swift",
+            "tm": true
+        },
+        {
+            "move": "Helping Hand",
+            "tm": true
+        },
+        {
+            "move": "Rock Tomb",
+            "tm": true
+        },
+        {
+            "move": "Trick Room",
+            "tm": true
+        },
+        {
+            "move": "Round",
+            "tm": true
+        },
+        {
+            "move": "Bulldoze",
+            "tm": true
+        },
+        {
+            "move": "Snarl",
+            "tm": true
+        },
+        {
+            "move": "Mystical Fire",
+            "tm": true
+        },
+        {
+            "move": "Flamethrower",
+            "tm": true
+        },
+        {
+            "move": "Thunderbolt",
+            "tm": true
+        },
+        {
+            "move": "Thunder",
+            "tm": true
+        },
+        {
+            "move": "Earthquake",
+            "tm": true
+        },
+        {
+            "move": "Psychic",
+            "tm": true
+        },
+        {
+            "move": "Agility",
+            "tm": true
+        },
+        {
+            "move": "Fire Blast",
+            "tm": true
+        },
+        {
+            "move": "Substitute",
+            "tm": true
+        },
+        {
+            "move": "Outrage",
+            "tm": true
+        },
+        {
+            "move": "Psyshock",
+            "tm": true
+        },
+        {
+            "move": "Endure",
+            "tm": true
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": true
+        },
+        {
+            "move": "Iron Tail",
+            "tm": true
+        },
+        {
+            "move": "Crunch",
+            "tm": true
+        },
+        {
+            "move": "Future Sight",
+            "tm": true
+        },
+        {
+            "move": "Superpower",
+            "tm": true
+        },
+        {
+            "move": "Hyper Voice",
+            "tm": true
+        },
+        {
+            "move": "Cosmic Power",
+            "tm": true
+        },
+        {
+            "move": "Iron Defense",
+            "tm": true
+        },
+        {
+            "move": "Calm Mind",
+            "tm": true
+        },
+        {
+            "move": "Gyro Ball",
+            "tm": true
+        },
+        {
+            "move": "Close Combat",
+            "tm": true
+        },
+        {
+            "move": "Flare Blitz",
+            "tm": true
+        },
+        {
+            "move": "Focus Blast",
+            "tm": true
+        },
+        {
+            "move": "Zen Headbutt",
+            "tm": true
+        },
+        {
+            "move": "Flash Cannon",
+            "tm": true
+        },
+        {
+            "move": "Iron Head",
+            "tm": true
+        },
+        {
+            "move": "Stone Edge",
+            "tm": true
+        },
+        {
+            "move": "Heavy Slam",
+            "tm": true
+        },
+        {
+            "move": "Work Up",
+            "tm": true
+        },
+        {
+            "move": "Wild Charge",
+            "tm": true
+        },
+        {
+            "move": "Heat Crash",
+            "tm": true
+        },
+        {
+            "move": "Psychic Fangs",
+            "tm": true
+        }
+    ]
+}

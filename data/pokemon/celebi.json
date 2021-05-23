@@ -1,0 +1,330 @@
+{
+    "name": "Celebi",
+    "national_id": 251,
+    "types": [
+        "Psychic",
+        "Grass"
+    ],
+    "items": [
+        {
+            "name": "Lum Berry",
+            "chance": 100
+        }
+    ],
+    "abilities": [
+        {
+            "name": "Natural Cure"
+        }
+    ],
+    "catch_rate": 45,
+    "gender_ratios": null,
+    "egg_groups": [
+        "Undiscovered"
+    ],
+    "hatch_time": [
+        30855,
+        31109
+    ],
+    "height_us": "2'00\"",
+    "height_eu": "0.6 m",
+    "weight_us": "11.0 lbs.",
+    "weight_eu": "5.0 kg",
+    "base_exp_yield": 270,
+    "leveling_rate": "Medium Slow",
+    "base_friendship": 100,
+    "ev_yield": {
+        "hp": 3,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 100,
+        "atk": 100,
+        "def": 100,
+        "sp_atk": 100,
+        "sp_def": 100,
+        "speed": 100
+    },
+    "evolution_from": null,
+    "evolutions": [],
+    "species": "Time Travel Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "This Pokémon traveled through time to come from the future. It bolsters grass and trees with its own strength, and it can heal wounds, too.",
+    "move_learnset": [
+        {
+            "move": "Confusion",
+            "level": 1
+        },
+        {
+            "move": "Heal Bell",
+            "level": 1
+        },
+        {
+            "move": "Magical Leaf",
+            "level": 10
+        },
+        {
+            "move": "Baton Pass",
+            "level": 20
+        },
+        {
+            "move": "Ancient Power",
+            "level": 30
+        },
+        {
+            "move": "Life Dew",
+            "level": 40
+        },
+        {
+            "move": "Leech Seed",
+            "level": 50
+        },
+        {
+            "move": "Recover",
+            "level": 60
+        },
+        {
+            "move": "Future Sight",
+            "level": 70
+        },
+        {
+            "move": "Healing Wish",
+            "level": 80
+        },
+        {
+            "move": "Leaf Storm",
+            "level": 90
+        },
+        {
+            "move": "Perish Song",
+            "level": 100
+        },
+        {
+            "move": "Hyper Beam",
+            "tm": true
+        },
+        {
+            "move": "Giga Impact",
+            "tm": true
+        },
+        {
+            "move": "Magical Leaf",
+            "tm": true
+        },
+        {
+            "move": "Solar Beam",
+            "tm": true
+        },
+        {
+            "move": "Solar Blade",
+            "tm": true
+        },
+        {
+            "move": "Thunder Wave",
+            "tm": true
+        },
+        {
+            "move": "Light Screen",
+            "tm": true
+        },
+        {
+            "move": "Reflect",
+            "tm": true
+        },
+        {
+            "move": "Safeguard",
+            "tm": true
+        },
+        {
+            "move": "Rest",
+            "tm": true
+        },
+        {
+            "move": "Snore",
+            "tm": true
+        },
+        {
+            "move": "Protect",
+            "tm": true
+        },
+        {
+            "move": "Giga Drain",
+            "tm": true
+        },
+        {
+            "move": "Sandstorm",
+            "tm": true
+        },
+        {
+            "move": "Rain Dance",
+            "tm": true
+        },
+        {
+            "move": "Sunny Day",
+            "tm": true
+        },
+        {
+            "move": "Facade",
+            "tm": true
+        },
+        {
+            "move": "Swift",
+            "tm": true
+        },
+        {
+            "move": "Helping Hand",
+            "tm": true
+        },
+        {
+            "move": "Imprison",
+            "tm": true
+        },
+        {
+            "move": "Weather Ball",
+            "tm": true
+        },
+        {
+            "move": "U-turn",
+            "tm": true
+        },
+        {
+            "move": "Fling",
+            "tm": true
+        },
+        {
+            "move": "Psycho Cut",
+            "tm": true
+        },
+        {
+            "move": "Trick Room",
+            "tm": true
+        },
+        {
+            "move": "Wonder Room",
+            "tm": true
+        },
+        {
+            "move": "Magic Room",
+            "tm": true
+        },
+        {
+            "move": "Round",
+            "tm": true
+        },
+        {
+            "move": "Grassy Terrain",
+            "tm": true
+        },
+        {
+            "move": "Psychic Terrain",
+            "tm": true
+        },
+        {
+            "move": "Swords Dance",
+            "tm": true
+        },
+        {
+            "move": "Psychic",
+            "tm": true
+        },
+        {
+            "move": "Metronome",
+            "tm": true
+        },
+        {
+            "move": "Substitute",
+            "tm": true
+        },
+        {
+            "move": "Endure",
+            "tm": true
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": true
+        },
+        {
+            "move": "Baton Pass",
+            "tm": true
+        },
+        {
+            "move": "Shadow Ball",
+            "tm": true
+        },
+        {
+            "move": "Future Sight",
+            "tm": true
+        },
+        {
+            "move": "Uproar",
+            "tm": true
+        },
+        {
+            "move": "Trick",
+            "tm": true
+        },
+        {
+            "move": "Skill Swap",
+            "tm": true
+        },
+        {
+            "move": "Calm Mind",
+            "tm": true
+        },
+        {
+            "move": "Leaf Blade",
+            "tm": true
+        },
+        {
+            "move": "Aura Sphere",
+            "tm": true
+        },
+        {
+            "move": "Seed Bomb",
+            "tm": true
+        },
+        {
+            "move": "Energy Ball",
+            "tm": true
+        },
+        {
+            "move": "Earth Power",
+            "tm": true
+        },
+        {
+            "move": "Nasty Plot",
+            "tm": true
+        },
+        {
+            "move": "Zen Headbutt",
+            "tm": true
+        },
+        {
+            "move": "Leaf Storm",
+            "tm": true
+        },
+        {
+            "move": "Stealth Rock",
+            "tm": true
+        },
+        {
+            "move": "Grass Knot",
+            "tm": true
+        },
+        {
+            "move": "Ally Switch",
+            "tm": true
+        },
+        {
+            "move": "Dazzling Gleam",
+            "tm": true
+        },
+        {
+            "move": "Pollen Puff",
+            "tm": true
+        }
+    ]
+}

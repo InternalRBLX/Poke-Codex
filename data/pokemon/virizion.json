@@ -1,0 +1,284 @@
+{
+    "name": "Virizion",
+    "national_id": 640,
+    "types": [
+        "Grass",
+        "Fighting"
+    ],
+    "abilities": [
+        {
+            "name": "Justified"
+        }
+    ],
+    "catch_rate": 3,
+    "gender_ratios": null,
+    "egg_groups": [
+        "Undiscovered"
+    ],
+    "hatch_time": [
+        20655,
+        20909
+    ],
+    "height_us": "6'07\"",
+    "height_eu": "2.0 m",
+    "weight_us": "440.9 lbs.",
+    "weight_eu": "200.0 kg",
+    "base_exp_yield": 261,
+    "leveling_rate": "Slow",
+    "base_friendship": 35,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 3,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 91,
+        "atk": 90,
+        "def": 72,
+        "sp_atk": 90,
+        "sp_def": 129,
+        "speed": 108
+    },
+    "evolution_from": null,
+    "evolutions": [],
+    "species": "Grassland Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "It darts around opponents with a flurry of quick movements, slicing them up with its horns.",
+    "move_learnset": [
+        {
+            "move": "Quick Attack",
+            "level": 1
+        },
+        {
+            "move": "Leer",
+            "level": 1
+        },
+        {
+            "move": "Helping Hand",
+            "level": 1
+        },
+        {
+            "move": "Work Up",
+            "level": 1
+        },
+        {
+            "move": "Magical Leaf",
+            "level": 7
+        },
+        {
+            "move": "Quick Guard",
+            "level": 14
+        },
+        {
+            "move": "Double Kick",
+            "level": 21
+        },
+        {
+            "move": "Retaliate",
+            "level": 28
+        },
+        {
+            "move": "Giga Drain",
+            "level": 35
+        },
+        {
+            "move": "Take Down",
+            "level": 42
+        },
+        {
+            "move": "Sacred Sword",
+            "level": 49
+        },
+        {
+            "move": "Swords Dance",
+            "level": 56
+        },
+        {
+            "move": "Leaf Blade",
+            "level": 63
+        },
+        {
+            "move": "Close Combat",
+            "level": 70
+        },
+        {
+            "move": "Hyper Beam",
+            "tm": true
+        },
+        {
+            "move": "Giga Impact",
+            "tm": true
+        },
+        {
+            "move": "Magical Leaf",
+            "tm": true
+        },
+        {
+            "move": "Solar Beam",
+            "tm": true
+        },
+        {
+            "move": "Solar Blade",
+            "tm": true
+        },
+        {
+            "move": "Light Screen",
+            "tm": true
+        },
+        {
+            "move": "Reflect",
+            "tm": true
+        },
+        {
+            "move": "Safeguard",
+            "tm": true
+        },
+        {
+            "move": "Rest",
+            "tm": true
+        },
+        {
+            "move": "Snore",
+            "tm": true
+        },
+        {
+            "move": "Protect",
+            "tm": true
+        },
+        {
+            "move": "Giga Drain",
+            "tm": true
+        },
+        {
+            "move": "Sunny Day",
+            "tm": true
+        },
+        {
+            "move": "Facade",
+            "tm": true
+        },
+        {
+            "move": "Swift",
+            "tm": true
+        },
+        {
+            "move": "Helping Hand",
+            "tm": true
+        },
+        {
+            "move": "Revenge",
+            "tm": true
+        },
+        {
+            "move": "Brick Break",
+            "tm": true
+        },
+        {
+            "move": "Bounce",
+            "tm": true
+        },
+        {
+            "move": "Round",
+            "tm": true
+        },
+        {
+            "move": "Retaliate",
+            "tm": true
+        },
+        {
+            "move": "False Swipe",
+            "tm": true
+        },
+        {
+            "move": "Air Slash",
+            "tm": true
+        },
+        {
+            "move": "Smart Strike",
+            "tm": true
+        },
+        {
+            "move": "Swords Dance",
+            "tm": true
+        },
+        {
+            "move": "Substitute",
+            "tm": true
+        },
+        {
+            "move": "Reversal",
+            "tm": true
+        },
+        {
+            "move": "Endure",
+            "tm": true
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": true
+        },
+        {
+            "move": "Megahorn",
+            "tm": true
+        },
+        {
+            "move": "Taunt",
+            "tm": true
+        },
+        {
+            "move": "Superpower",
+            "tm": true
+        },
+        {
+            "move": "Calm Mind",
+            "tm": true
+        },
+        {
+            "move": "Leaf Blade",
+            "tm": true
+        },
+        {
+            "move": "Close Combat",
+            "tm": true
+        },
+        {
+            "move": "Seed Bomb",
+            "tm": true
+        },
+        {
+            "move": "X-Scissor",
+            "tm": true
+        },
+        {
+            "move": "Focus Blast",
+            "tm": true
+        },
+        {
+            "move": "Energy Ball",
+            "tm": true
+        },
+        {
+            "move": "Zen Headbutt",
+            "tm": true
+        },
+        {
+            "move": "Leaf Storm",
+            "tm": true
+        },
+        {
+            "move": "Stone Edge",
+            "tm": true
+        },
+        {
+            "move": "Grass Knot",
+            "tm": true
+        },
+        {
+            "move": "Work Up",
+            "tm": true
+        }
+    ]
+}

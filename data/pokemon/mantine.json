@@ -1,0 +1,334 @@
+{
+    "name": "Mantine",
+    "national_id": 226,
+    "types": [
+        "Water",
+        "Flying"
+    ],
+    "abilities": [
+        {
+            "name": "Swift Swim"
+        },
+        {
+            "name": "Water Absorb"
+        },
+        {
+            "name": "Water Veil",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 25,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Water 1"
+    ],
+    "hatch_time": [
+        6630,
+        6884
+    ],
+    "height_us": "6'11\"",
+    "height_eu": "2.1 m",
+    "weight_us": "485.0 lbs.",
+    "weight_eu": "220.0 kg",
+    "base_exp_yield": 163,
+    "leveling_rate": "Slow",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 2,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 65,
+        "atk": 40,
+        "def": 70,
+        "sp_atk": 80,
+        "sp_def": 140,
+        "speed": 70
+    },
+    "evolution_from": "Mantyke",
+    "evolutions": [],
+    "species": "Kite Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "As it majestically swims, it doesn’t care if Remoraid attach to it to scavenge for its leftovers.",
+    "move_learnset": [
+        {
+            "move": "Psybeam",
+            "level": 1
+        },
+        {
+            "move": "Bullet Seed",
+            "level": 1
+        },
+        {
+            "move": "Roost",
+            "level": 1
+        },
+        {
+            "move": "Tackle",
+            "level": 1
+        },
+        {
+            "move": "Water Gun",
+            "level": 1
+        },
+        {
+            "move": "Supersonic",
+            "level": 1
+        },
+        {
+            "move": "Wing Attack",
+            "level": 1
+        },
+        {
+            "move": "Water Pulse",
+            "level": 12
+        },
+        {
+            "move": "Wide Guard",
+            "level": 16
+        },
+        {
+            "move": "Agility",
+            "level": 20
+        },
+        {
+            "move": "Bubble Beam",
+            "level": 24
+        },
+        {
+            "move": "Headbutt",
+            "level": 28
+        },
+        {
+            "move": "Air Slash",
+            "level": 32
+        },
+        {
+            "move": "Aqua Ring",
+            "level": 36
+        },
+        {
+            "move": "Bounce",
+            "level": 40
+        },
+        {
+            "move": "Take Down",
+            "level": 44
+        },
+        {
+            "move": "Hydro Pump",
+            "level": 48
+        },
+        {
+            "move": "Hyper Beam",
+            "tm": true
+        },
+        {
+            "move": "Giga Impact",
+            "tm": true
+        },
+        {
+            "move": "Rest",
+            "tm": true
+        },
+        {
+            "move": "Rock Slide",
+            "tm": true
+        },
+        {
+            "move": "Snore",
+            "tm": true
+        },
+        {
+            "move": "Protect",
+            "tm": true
+        },
+        {
+            "move": "Icy Wind",
+            "tm": true
+        },
+        {
+            "move": "Attract",
+            "tm": true
+        },
+        {
+            "move": "Rain Dance",
+            "tm": true
+        },
+        {
+            "move": "Hail",
+            "tm": true
+        },
+        {
+            "move": "Whirlpool",
+            "tm": true
+        },
+        {
+            "move": "Facade",
+            "tm": true
+        },
+        {
+            "move": "Swift",
+            "tm": true
+        },
+        {
+            "move": "Helping Hand",
+            "tm": true
+        },
+        {
+            "move": "Dive",
+            "tm": true
+        },
+        {
+            "move": "Rock Tomb",
+            "tm": true
+        },
+        {
+            "move": "Bullet Seed",
+            "tm": true
+        },
+        {
+            "move": "Bounce",
+            "tm": true
+        },
+        {
+            "move": "Rock Blast",
+            "tm": true
+        },
+        {
+            "move": "Brine",
+            "tm": true
+        },
+        {
+            "move": "Assurance",
+            "tm": true
+        },
+        {
+            "move": "Round",
+            "tm": true
+        },
+        {
+            "move": "Acrobatics",
+            "tm": true
+        },
+        {
+            "move": "Bulldoze",
+            "tm": true
+        },
+        {
+            "move": "Air Slash",
+            "tm": true
+        },
+        {
+            "move": "Body Slam",
+            "tm": true
+        },
+        {
+            "move": "Hydro Pump",
+            "tm": true
+        },
+        {
+            "move": "Surf",
+            "tm": true
+        },
+        {
+            "move": "Ice Beam",
+            "tm": true
+        },
+        {
+            "move": "Blizzard",
+            "tm": true
+        },
+        {
+            "move": "Earthquake",
+            "tm": true
+        },
+        {
+            "move": "Agility",
+            "tm": true
+        },
+        {
+            "move": "Waterfall",
+            "tm": true
+        },
+        {
+            "move": "Amnesia",
+            "tm": true
+        },
+        {
+            "move": "Substitute",
+            "tm": true
+        },
+        {
+            "move": "Endure",
+            "tm": true
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": true
+        },
+        {
+            "move": "Seed Bomb",
+            "tm": true
+        },
+        {
+            "move": "Gunk Shot",
+            "tm": true
+        },
+        {
+            "move": "Iron Head",
+            "tm": true
+        },
+        {
+            "move": "Scald",
+            "tm": true
+        },
+        {
+            "move": "Hurricane",
+            "tm": true
+        },
+        {
+            "move": "Liquidation",
+            "tm": true
+        },
+        {
+            "move": "Body Press",
+            "tm": true
+        },
+        {
+            "move": "Twister",
+            "egg_move": true
+        },
+        {
+            "move": "Haze",
+            "egg_move": true
+        },
+        {
+            "move": "Slam",
+            "egg_move": true
+        },
+        {
+            "move": "Mirror Coat",
+            "egg_move": true
+        },
+        {
+            "move": "Splash",
+            "egg_move": true
+        },
+        {
+            "move": "Tailwind",
+            "egg_move": true
+        },
+        {
+            "move": "Confuse Ray",
+            "egg_move": true
+        }
+    ]
+}

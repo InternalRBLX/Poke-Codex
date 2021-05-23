@@ -1,0 +1,284 @@
+{
+    "name": "Grotle",
+    "national_id": 388,
+    "types": [
+        "Grass"
+    ],
+    "abilities": [
+        {
+            "name": "Overgrow"
+        },
+        {
+            "name": "Shell Armor",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 45,
+    "gender_ratios": {
+        "male": 87.5,
+        "female": 12.5
+    },
+    "egg_groups": [
+        "Monster",
+        "Grass"
+    ],
+    "hatch_time": [
+        5355,
+        5609
+    ],
+    "height_us": "3'07\"",
+    "height_eu": "1.1 m",
+    "weight_us": "213.8 lbs.",
+    "weight_eu": "97.0 kg",
+    "base_exp_yield": 142,
+    "leveling_rate": "Medium Slow",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 1,
+        "def": 1,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 75,
+        "atk": 89,
+        "def": 85,
+        "sp_atk": 55,
+        "sp_def": 65,
+        "speed": 36
+    },
+    "evolution_from": "Turtwig",
+    "evolutions": [
+        {
+            "to": "Torterra",
+            "level": 32
+        }
+    ],
+    "species": "Grove Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "It knows where pure water wells up. It carries fellow Pokémon there on its back.",
+    "move_learnset": [
+        {
+            "move": "Absorb",
+            "level": 1
+        },
+        {
+            "move": "Tackle",
+            "level": 1
+        },
+        {
+            "move": "Withdraw",
+            "level": 1
+        },
+        {
+            "move": "Withdraw",
+            "level": 5
+        },
+        {
+            "move": "Absorb",
+            "level": 9
+        },
+        {
+            "move": "Razor Leaf",
+            "level": 13
+        },
+        {
+            "move": "Curse",
+            "level": 17
+        },
+        {
+            "move": "Bite",
+            "level": 22
+        },
+        {
+            "move": "Mega Drain",
+            "level": 27
+        },
+        {
+            "move": "Leech Seed",
+            "level": 32
+        },
+        {
+            "move": "Synthesis",
+            "level": 37
+        },
+        {
+            "move": "Crunch",
+            "level": 42
+        },
+        {
+            "move": "Giga Drain",
+            "level": 47
+        },
+        {
+            "move": "Leaf Storm",
+            "level": 52
+        },
+        {
+            "move": "Amnesia",
+            "egg_move": true
+        },
+        {
+            "move": "Body Slam",
+            "egg_move": true
+        },
+        {
+            "move": "Double-Edge",
+            "egg_move": true
+        },
+        {
+            "move": "Earth Power",
+            "egg_move": true
+        },
+        {
+            "move": "Grassy Terrain",
+            "egg_move": true
+        },
+        {
+            "move": "Growth",
+            "egg_move": true
+        },
+        {
+            "move": "Heavy Slam",
+            "egg_move": true
+        },
+        {
+            "move": "Sand Tomb",
+            "egg_move": true
+        },
+        {
+            "move": "Seed Bomb",
+            "egg_move": true
+        },
+        {
+            "move": "Spit Up",
+            "egg_move": true
+        },
+        {
+            "move": "Stockpile",
+            "egg_move": true
+        },
+        {
+            "move": "Superpower",
+            "egg_move": true
+        },
+        {
+            "move": "Swallow",
+            "egg_move": true
+        },
+        {
+            "move": "Thrash",
+            "egg_move": true
+        },
+        {
+            "move": "Tickle",
+            "egg_move": true
+        },
+        {
+            "move": "Wide Guard",
+            "egg_move": true
+        },
+        {
+            "move": "Worry Seed",
+            "egg_move": true
+        },
+        {
+            "move": "Work Up",
+            "tm": "TM1"
+        },
+        {
+            "move": "Toxic",
+            "tm": "TM6"
+        },
+        {
+            "move": "Hidden Power",
+            "tm": "TM10"
+        },
+        {
+            "move": "Sunny Day",
+            "tm": "TM11"
+        },
+        {
+            "move": "Light Screen",
+            "tm": "TM16"
+        },
+        {
+            "move": "Protect",
+            "tm": "TM17"
+        },
+        {
+            "move": "Safeguard",
+            "tm": "TM20"
+        },
+        {
+            "move": "Frustration",
+            "tm": "TM21"
+        },
+        {
+            "move": "Solar Beam",
+            "tm": "TM22"
+        },
+        {
+            "move": "Return",
+            "tm": "TM27"
+        },
+        {
+            "move": "Double Team",
+            "tm": "TM32"
+        },
+        {
+            "move": "Reflect",
+            "tm": "TM33"
+        },
+        {
+            "move": "Facade",
+            "tm": "TM42"
+        },
+        {
+            "move": "Rest",
+            "tm": "TM44"
+        },
+        {
+            "move": "Attract",
+            "tm": "TM45"
+        },
+        {
+            "move": "Round",
+            "tm": "TM48"
+        },
+        {
+            "move": "Energy Ball",
+            "tm": "TM53"
+        },
+        {
+            "move": "Swords Dance",
+            "tm": "TM75"
+        },
+        {
+            "move": "Grass Knot",
+            "tm": "TM86"
+        },
+        {
+            "move": "Swagger",
+            "tm": "TM87"
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": "TM88"
+        },
+        {
+            "move": "Substitute",
+            "tm": "TM90"
+        },
+        {
+            "move": "Nature Power",
+            "tm": "TM96"
+        },
+        {
+            "move": "Confide",
+            "tm": "TM100"
+        }
+    ]
+}

@@ -1,0 +1,327 @@
+{
+    "name": "Murkrow",
+    "national_id": 198,
+    "types": [
+        "Dark",
+        "Flying"
+    ],
+    "abilities": [
+        {
+            "name": "Insomnia"
+        },
+        {
+            "name": "Super Luck"
+        },
+        {
+            "name": "Prankster",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 30,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Flying"
+    ],
+    "hatch_time": [
+        5355,
+        5609
+    ],
+    "height_us": "1'08\"",
+    "height_eu": "0.5 m",
+    "weight_us": "4.6 lbs.",
+    "weight_eu": "2.1 kg",
+    "base_exp_yield": 81,
+    "leveling_rate": "Medium Slow",
+    "base_friendship": 35,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 1
+    },
+    "base_stats": {
+        "hp": 60,
+        "atk": 85,
+        "def": 42,
+        "sp_atk": 85,
+        "sp_def": 42,
+        "speed": 91
+    },
+    "evolution_from": null,
+    "evolutions": [
+        {
+            "to": "Honchkrow",
+            "item": "Dusk Stone"
+        }
+    ],
+    "species": "Darkness Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "Murkrow was feared and loathed as the alleged bearer of ill fortune. This Pokémon shows strong interest in anything that sparkles or glitters. It will even try to steal rings from women.",
+    "move_learnset": [
+        {
+            "move": "Astonish",
+            "level": 1
+        },
+        {
+            "move": "Peck",
+            "level": 1
+        },
+        {
+            "move": "Pursuit",
+            "level": 5
+        },
+        {
+            "move": "Haze",
+            "level": 11
+        },
+        {
+            "move": "Wing Attack",
+            "level": 15
+        },
+        {
+            "move": "Night Shade",
+            "level": 21
+        },
+        {
+            "move": "Assurance",
+            "level": 25
+        },
+        {
+            "move": "Taunt",
+            "level": 31
+        },
+        {
+            "move": "Feint Attack",
+            "level": 35
+        },
+        {
+            "move": "Mean Look",
+            "level": 41
+        },
+        {
+            "move": "Foul Play",
+            "level": 45
+        },
+        {
+            "move": "Tailwind",
+            "level": 50
+        },
+        {
+            "move": "Sucker Punch",
+            "level": 55
+        },
+        {
+            "move": "Torment",
+            "level": 61
+        },
+        {
+            "move": "Quash",
+            "level": 65
+        },
+        {
+            "move": "Assurance",
+            "egg_move": true
+        },
+        {
+            "move": "Brave Bird",
+            "egg_move": true
+        },
+        {
+            "move": "Confuse Ray",
+            "egg_move": true
+        },
+        {
+            "move": "Drill Peck",
+            "egg_move": true
+        },
+        {
+            "move": "Feather Dance",
+            "egg_move": true
+        },
+        {
+            "move": "Feint Attack",
+            "egg_move": true
+        },
+        {
+            "move": "Flatter",
+            "egg_move": true
+        },
+        {
+            "move": "Mirror Move",
+            "egg_move": true
+        },
+        {
+            "move": "Perish Song",
+            "egg_move": true
+        },
+        {
+            "move": "Psycho Shift",
+            "egg_move": true
+        },
+        {
+            "move": "Punishment",
+            "egg_move": true
+        },
+        {
+            "move": "Roost",
+            "egg_move": true
+        },
+        {
+            "move": "Screech",
+            "egg_move": true
+        },
+        {
+            "move": "Sky Attack",
+            "egg_move": true
+        },
+        {
+            "move": "Whirlwind",
+            "egg_move": true
+        },
+        {
+            "move": "Wing Attack",
+            "egg_move": true
+        },
+        {
+            "move": "Calm Mind",
+            "tm": "TM4"
+        },
+        {
+            "move": "Toxic",
+            "tm": "TM6"
+        },
+        {
+            "move": "Hidden Power",
+            "tm": "TM10"
+        },
+        {
+            "move": "Sunny Day",
+            "tm": "TM11"
+        },
+        {
+            "move": "Taunt",
+            "tm": "TM12"
+        },
+        {
+            "move": "Protect",
+            "tm": "TM17"
+        },
+        {
+            "move": "Rain Dance",
+            "tm": "TM18"
+        },
+        {
+            "move": "Roost",
+            "tm": "TM19"
+        },
+        {
+            "move": "Frustration",
+            "tm": "TM21"
+        },
+        {
+            "move": "Return",
+            "tm": "TM27"
+        },
+        {
+            "move": "Psychic",
+            "tm": "TM29"
+        },
+        {
+            "move": "Shadow Ball",
+            "tm": "TM30"
+        },
+        {
+            "move": "Double Team",
+            "tm": "TM32"
+        },
+        {
+            "move": "Aerial Ace",
+            "tm": "TM40"
+        },
+        {
+            "move": "Torment",
+            "tm": "TM41"
+        },
+        {
+            "move": "Facade",
+            "tm": "TM42"
+        },
+        {
+            "move": "Rest",
+            "tm": "TM44"
+        },
+        {
+            "move": "Attract",
+            "tm": "TM45"
+        },
+        {
+            "move": "Thief",
+            "tm": "TM46"
+        },
+        {
+            "move": "Round",
+            "tm": "TM48"
+        },
+        {
+            "move": "Steel Wing",
+            "tm": "TM51"
+        },
+        {
+            "move": "Quash",
+            "tm": "TM60"
+        },
+        {
+            "move": "Embargo",
+            "tm": "TM63"
+        },
+        {
+            "move": "Payback",
+            "tm": "TM66"
+        },
+        {
+            "move": "Thunder Wave",
+            "tm": "TM73"
+        },
+        {
+            "move": "Fly",
+            "tm": "TM76"
+        },
+        {
+            "move": "Psych Up",
+            "tm": "TM77"
+        },
+        {
+            "move": "Dream Eater",
+            "tm": "TM85"
+        },
+        {
+            "move": "Swagger",
+            "tm": "TM87"
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": "TM88"
+        },
+        {
+            "move": "Substitute",
+            "tm": "TM90"
+        },
+        {
+            "move": "Snarl",
+            "tm": "TM95"
+        },
+        {
+            "move": "Dark Pulse",
+            "tm": "TM97"
+        },
+        {
+            "move": "Confide",
+            "tm": "TM100"
+        }
+    ]
+}

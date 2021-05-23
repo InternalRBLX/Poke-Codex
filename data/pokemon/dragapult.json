@@ -1,0 +1,363 @@
+{
+    "name": "Dragapult",
+    "national_id": 887,
+    "types": [
+        "Dragon",
+        "Ghost"
+    ],
+    "abilities": [
+        {
+            "name": "Clear Body"
+        },
+        {
+            "name": "Infiltrator"
+        },
+        {
+            "name": "Cursed Body",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 45,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Amorphous",
+        "Dragon"
+    ],
+    "hatch_time": [
+        10280,
+        10536
+    ],
+    "height_us": "9'10\"",
+    "height_eu": "3.0 m",
+    "weight_us": "110.2 lbs.",
+    "weight_eu": "50.0 kg",
+    "base_exp_yield": 300,
+    "leveling_rate": "Slow",
+    "base_friendship": 50,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 3
+    },
+    "base_stats": {
+        "hp": 88,
+        "atk": 120,
+        "def": 75,
+        "sp_atk": 100,
+        "sp_def": 75,
+        "speed": 142
+    },
+    "evolution_from": "Drakloak",
+    "evolutions": [],
+    "species": "Stealth Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "Apparently the Dreepy inside Dragapult’s horns eagerly look forward to being launched out at Mach speeds.",
+    "move_learnset": [
+        {
+            "move": "Dragon Darts",
+            "evo": true
+        },
+        {
+            "move": "Dragon Darts",
+            "level": 1
+        },
+        {
+            "move": "Dragon Breath",
+            "level": 1
+        },
+        {
+            "move": "Sucker Punch",
+            "level": 1
+        },
+        {
+            "move": "Astonish",
+            "level": 1
+        },
+        {
+            "move": "Infestation",
+            "level": 1
+        },
+        {
+            "move": "Quick Attack",
+            "level": 1
+        },
+        {
+            "move": "Bite",
+            "level": 1
+        },
+        {
+            "move": "Lock-On",
+            "level": 6
+        },
+        {
+            "move": "Assurance",
+            "level": 12
+        },
+        {
+            "move": "Hex",
+            "level": 18
+        },
+        {
+            "move": "Agility",
+            "level": 24
+        },
+        {
+            "move": "Double Hit",
+            "level": 30
+        },
+        {
+            "move": "U-turn",
+            "level": 36
+        },
+        {
+            "move": "Dragon Dance",
+            "level": 42
+        },
+        {
+            "move": "Phantom Force",
+            "level": 48
+        },
+        {
+            "move": "Take Down",
+            "level": 54
+        },
+        {
+            "move": "Dragon Rush",
+            "level": 63
+        },
+        {
+            "move": "Double-Edge",
+            "level": 70
+        },
+        {
+            "move": "Last Resort",
+            "level": 78
+        },
+        {
+            "move": "Fly",
+            "tm": true
+        },
+        {
+            "move": "Hyper Beam",
+            "tm": true
+        },
+        {
+            "move": "Giga Impact",
+            "tm": true
+        },
+        {
+            "move": "Solar Beam",
+            "tm": true
+        },
+        {
+            "move": "Thunder Wave",
+            "tm": true
+        },
+        {
+            "move": "Light Screen",
+            "tm": true
+        },
+        {
+            "move": "Reflect",
+            "tm": true
+        },
+        {
+            "move": "Rest",
+            "tm": true
+        },
+        {
+            "move": "Thief",
+            "tm": true
+        },
+        {
+            "move": "Snore",
+            "tm": true
+        },
+        {
+            "move": "Protect",
+            "tm": true
+        },
+        {
+            "move": "Steel Wing",
+            "tm": true
+        },
+        {
+            "move": "Attract",
+            "tm": true
+        },
+        {
+            "move": "Beat Up",
+            "tm": true
+        },
+        {
+            "move": "Will-O-Wisp",
+            "tm": true
+        },
+        {
+            "move": "Facade",
+            "tm": true
+        },
+        {
+            "move": "Swift",
+            "tm": true
+        },
+        {
+            "move": "Helping Hand",
+            "tm": true
+        },
+        {
+            "move": "Dive",
+            "tm": true
+        },
+        {
+            "move": "Brine",
+            "tm": true
+        },
+        {
+            "move": "U-turn",
+            "tm": true
+        },
+        {
+            "move": "Assurance",
+            "tm": true
+        },
+        {
+            "move": "Round",
+            "tm": true
+        },
+        {
+            "move": "Hex",
+            "tm": true
+        },
+        {
+            "move": "Acrobatics",
+            "tm": true
+        },
+        {
+            "move": "Phantom Force",
+            "tm": true
+        },
+        {
+            "move": "Breaking Swipe",
+            "tm": true
+        },
+        {
+            "move": "Body Slam",
+            "tm": true
+        },
+        {
+            "move": "Flamethrower",
+            "tm": true
+        },
+        {
+            "move": "Hydro Pump",
+            "tm": true
+        },
+        {
+            "move": "Surf",
+            "tm": true
+        },
+        {
+            "move": "Thunderbolt",
+            "tm": true
+        },
+        {
+            "move": "Thunder",
+            "tm": true
+        },
+        {
+            "move": "Agility",
+            "tm": true
+        },
+        {
+            "move": "Fire Blast",
+            "tm": true
+        },
+        {
+            "move": "Tri Attack",
+            "tm": true
+        },
+        {
+            "move": "Substitute",
+            "tm": true
+        },
+        {
+            "move": "Outrage",
+            "tm": true
+        },
+        {
+            "move": "Endure",
+            "tm": true
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": true
+        },
+        {
+            "move": "Baton Pass",
+            "tm": true
+        },
+        {
+            "move": "Shadow Ball",
+            "tm": true
+        },
+        {
+            "move": "Dragon Claw",
+            "tm": true
+        },
+        {
+            "move": "Dragon Dance",
+            "tm": true
+        },
+        {
+            "move": "Dragon Pulse",
+            "tm": true
+        },
+        {
+            "move": "Ally Switch",
+            "tm": true
+        },
+        {
+            "move": "Scald",
+            "tm": true
+        },
+        {
+            "move": "Psychic Fangs",
+            "tm": true
+        },
+        {
+            "move": "Curse",
+            "egg_move": true
+        },
+        {
+            "move": "Grudge",
+            "egg_move": true
+        },
+        {
+            "move": "Confuse Ray",
+            "egg_move": true
+        },
+        {
+            "move": "Double Team",
+            "egg_move": true
+        },
+        {
+            "move": "Disable",
+            "egg_move": true
+        },
+        {
+            "move": "Dragon Tail",
+            "egg_move": true
+        },
+        {
+            "move": "Sucker Punch",
+            "egg_move": true
+        }
+    ]
+}

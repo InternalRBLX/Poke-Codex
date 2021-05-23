@@ -1,0 +1,297 @@
+{
+    "name": "Pumpkaboo",
+    "national_id": 710,
+    "types": [
+        "Ghost",
+        "Grass"
+    ],
+    "items": [
+        {
+            "name": "Miracle Seed",
+            "chance": 100
+        }
+    ],
+    "abilities": [
+        {
+            "name": "Pickup"
+        },
+        {
+            "name": "Frisk"
+        },
+        {
+            "name": "Insomnia",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 120,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Amorphous"
+    ],
+    "hatch_time": [
+        5355,
+        5609
+    ],
+    "height_us": "2'07\"",
+    "height_eu": "0.8 m",
+    "weight_us": "33.1 lbs.",
+    "weight_eu": "15.0 kg",
+    "base_exp_yield": 67,
+    "leveling_rate": "Medium Fast",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 1,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 59,
+        "atk": 66,
+        "def": 70,
+        "sp_atk": 44,
+        "sp_def": 55,
+        "speed": 41
+    },
+    "evolution_from": null,
+    "evolutions": [
+        {
+            "to": "Gourgeist",
+            "trade": true
+        }
+    ],
+    "species": "Pumpkin Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "Massive Pumpkaboo are said to be the product of areas where a great number of lost souls lingered.",
+    "move_learnset": [
+        {
+            "move": "Trick-or-Treat",
+            "level": 1
+        },
+        {
+            "move": "Astonish",
+            "level": 1
+        },
+        {
+            "move": "Shadow Sneak",
+            "level": 4
+        },
+        {
+            "move": "Confuse Ray",
+            "level": 8
+        },
+        {
+            "move": "Trick-or-Treat",
+            "level": 12
+        },
+        {
+            "move": "Razor Leaf",
+            "level": 12
+        },
+        {
+            "move": "Leech Seed",
+            "level": 16
+        },
+        {
+            "move": "Bullet Seed",
+            "level": 20
+        },
+        {
+            "move": "Trick-or-Treat",
+            "level": 24
+        },
+        {
+            "move": "Scary Face",
+            "level": 24
+        },
+        {
+            "move": "Worry Seed",
+            "level": 28
+        },
+        {
+            "move": "Seed Bomb",
+            "level": 32
+        },
+        {
+            "move": "Trick-or-Treat",
+            "level": 36
+        },
+        {
+            "move": "Shadow Ball",
+            "level": 36
+        },
+        {
+            "move": "Trick",
+            "level": 40
+        },
+        {
+            "move": "Pain Split",
+            "level": 44
+        },
+        {
+            "move": "Solar Beam",
+            "tm": true
+        },
+        {
+            "move": "Light Screen",
+            "tm": true
+        },
+        {
+            "move": "Safeguard",
+            "tm": true
+        },
+        {
+            "move": "Rest",
+            "tm": true
+        },
+        {
+            "move": "Rock Slide",
+            "tm": true
+        },
+        {
+            "move": "Thief",
+            "tm": true
+        },
+        {
+            "move": "Snore",
+            "tm": true
+        },
+        {
+            "move": "Protect",
+            "tm": true
+        },
+        {
+            "move": "Scary Face",
+            "tm": true
+        },
+        {
+            "move": "Giga Drain",
+            "tm": true
+        },
+        {
+            "move": "Attract",
+            "tm": true
+        },
+        {
+            "move": "Sunny Day",
+            "tm": true
+        },
+        {
+            "move": "Will-O-Wisp",
+            "tm": true
+        },
+        {
+            "move": "Facade",
+            "tm": true
+        },
+        {
+            "move": "Imprison",
+            "tm": true
+        },
+        {
+            "move": "Bullet Seed",
+            "tm": true
+        },
+        {
+            "move": "Trick Room",
+            "tm": true
+        },
+        {
+            "move": "Round",
+            "tm": true
+        },
+        {
+            "move": "Hex",
+            "tm": true
+        },
+        {
+            "move": "Mystical Fire",
+            "tm": true
+        },
+        {
+            "move": "Flamethrower",
+            "tm": true
+        },
+        {
+            "move": "Psychic",
+            "tm": true
+        },
+        {
+            "move": "Fire Blast",
+            "tm": true
+        },
+        {
+            "move": "Substitute",
+            "tm": true
+        },
+        {
+            "move": "Sludge Bomb",
+            "tm": true
+        },
+        {
+            "move": "Endure",
+            "tm": true
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": true
+        },
+        {
+            "move": "Shadow Ball",
+            "tm": true
+        },
+        {
+            "move": "Trick",
+            "tm": true
+        },
+        {
+            "move": "Skill Swap",
+            "tm": true
+        },
+        {
+            "move": "Gyro Ball",
+            "tm": true
+        },
+        {
+            "move": "Dark Pulse",
+            "tm": true
+        },
+        {
+            "move": "Seed Bomb",
+            "tm": true
+        },
+        {
+            "move": "Energy Ball",
+            "tm": true
+        },
+        {
+            "move": "Grass Knot",
+            "tm": true
+        },
+        {
+            "move": "Foul Play",
+            "tm": true
+        },
+        {
+            "move": "Ally Switch",
+            "tm": true
+        },
+        {
+            "move": "Disable",
+            "egg_move": true
+        },
+        {
+            "move": "Destiny Bond",
+            "egg_move": true
+        },
+        {
+            "move": "Curse",
+            "egg_move": true
+        }
+    ]
+}

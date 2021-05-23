@@ -1,0 +1,284 @@
+{
+    "name": "Spheal",
+    "national_id": 363,
+    "types": [
+        "Ice",
+        "Water"
+    ],
+    "abilities": [
+        {
+            "name": "Thick Fat"
+        },
+        {
+            "name": "Ice Body"
+        },
+        {
+            "name": "Oblivious",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 255,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Water 1",
+        "Field"
+    ],
+    "hatch_time": [
+        5355,
+        5609
+    ],
+    "height_us": "2'07\"",
+    "height_eu": "0.8 m",
+    "weight_us": "87.1 lbs.",
+    "weight_eu": "39.5 kg",
+    "base_exp_yield": 58,
+    "leveling_rate": "Medium Slow",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 1,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 70,
+        "atk": 40,
+        "def": 50,
+        "sp_atk": 55,
+        "sp_def": 50,
+        "speed": 25
+    },
+    "evolution_from": null,
+    "evolutions": [
+        {
+            "to": "Sealeo",
+            "level": 32
+        }
+    ],
+    "species": "Clap Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "Spheal always travels by rolling around on its ball-like body. When the season for ice floes arrives, this Pokémon can be seen rolling about on ice and crossing the sea.",
+    "move_learnset": [
+        {
+            "move": "Defense Curl",
+            "level": 1
+        },
+        {
+            "move": "Growl",
+            "level": 1
+        },
+        {
+            "move": "Powder Snow",
+            "level": 1
+        },
+        {
+            "move": "Water Gun",
+            "level": 1
+        },
+        {
+            "move": "Rollout",
+            "level": 5
+        },
+        {
+            "move": "Encore",
+            "level": 9
+        },
+        {
+            "move": "Ice Ball",
+            "level": 13
+        },
+        {
+            "move": "Brine",
+            "level": 17
+        },
+        {
+            "move": "Aurora Beam",
+            "level": 21
+        },
+        {
+            "move": "Body Slam",
+            "level": 26
+        },
+        {
+            "move": "Rest",
+            "level": 31
+        },
+        {
+            "move": "Snore",
+            "level": 31
+        },
+        {
+            "move": "Hail",
+            "level": 36
+        },
+        {
+            "move": "Blizzard",
+            "level": 41
+        },
+        {
+            "move": "Sheer Cold",
+            "level": 46
+        },
+        {
+            "move": "Aqua Ring",
+            "egg_move": true
+        },
+        {
+            "move": "Belly Drum",
+            "egg_move": true
+        },
+        {
+            "move": "Curse",
+            "egg_move": true
+        },
+        {
+            "move": "Fissure",
+            "egg_move": true
+        },
+        {
+            "move": "Rollout",
+            "egg_move": true
+        },
+        {
+            "move": "Signal Beam",
+            "egg_move": true
+        },
+        {
+            "move": "Sleep Talk",
+            "egg_move": true
+        },
+        {
+            "move": "Spit Up",
+            "egg_move": true
+        },
+        {
+            "move": "Stockpile",
+            "egg_move": true
+        },
+        {
+            "move": "Swallow",
+            "egg_move": true
+        },
+        {
+            "move": "Water Pulse",
+            "egg_move": true
+        },
+        {
+            "move": "Water Sport",
+            "egg_move": true
+        },
+        {
+            "move": "Yawn",
+            "egg_move": true
+        },
+        {
+            "move": "Toxic",
+            "tm": "TM6"
+        },
+        {
+            "move": "Hail",
+            "tm": "TM7"
+        },
+        {
+            "move": "Hidden Power",
+            "tm": "TM10"
+        },
+        {
+            "move": "Ice Beam",
+            "tm": "TM13"
+        },
+        {
+            "move": "Blizzard",
+            "tm": "TM14"
+        },
+        {
+            "move": "Protect",
+            "tm": "TM17"
+        },
+        {
+            "move": "Rain Dance",
+            "tm": "TM18"
+        },
+        {
+            "move": "Frustration",
+            "tm": "TM21"
+        },
+        {
+            "move": "Earthquake",
+            "tm": "TM26"
+        },
+        {
+            "move": "Return",
+            "tm": "TM27"
+        },
+        {
+            "move": "Double Team",
+            "tm": "TM32"
+        },
+        {
+            "move": "Rock Tomb",
+            "tm": "TM39"
+        },
+        {
+            "move": "Facade",
+            "tm": "TM42"
+        },
+        {
+            "move": "Rest",
+            "tm": "TM44"
+        },
+        {
+            "move": "Attract",
+            "tm": "TM45"
+        },
+        {
+            "move": "Round",
+            "tm": "TM48"
+        },
+        {
+            "move": "Echoed Voice",
+            "tm": "TM49"
+        },
+        {
+            "move": "Bulldoze",
+            "tm": "TM78"
+        },
+        {
+            "move": "Frost Breath",
+            "tm": "TM79"
+        },
+        {
+            "move": "Rock Slide",
+            "tm": "TM80"
+        },
+        {
+            "move": "Swagger",
+            "tm": "TM87"
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": "TM88"
+        },
+        {
+            "move": "Substitute",
+            "tm": "TM90"
+        },
+        {
+            "move": "Surf",
+            "tm": "TM94"
+        },
+        {
+            "move": "Waterfall",
+            "tm": "TM98"
+        },
+        {
+            "move": "Confide",
+            "tm": "TM100"
+        }
+    ]
+}

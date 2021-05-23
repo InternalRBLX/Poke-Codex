@@ -1,0 +1,275 @@
+{
+    "name": "Victreebel",
+    "national_id": 71,
+    "types": [
+        "Grass",
+        "Poison"
+    ],
+    "abilities": [
+        {
+            "name": "Chlorophyll"
+        },
+        {
+            "name": "Gluttony",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 45,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Grass"
+    ],
+    "hatch_time": [
+        5355,
+        5609
+    ],
+    "height_us": "5'07\"",
+    "height_eu": "1.7 m",
+    "weight_us": "34.2 lbs.",
+    "weight_eu": "15.5 kg",
+    "base_exp_yield": 216,
+    "leveling_rate": "Medium Slow",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 3,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 80,
+        "atk": 105,
+        "def": 65,
+        "sp_atk": 100,
+        "sp_def": 60,
+        "speed": 70
+    },
+    "evolution_from": "Weepinbell",
+    "evolutions": [],
+    "species": "Flycatcher Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "Victreebel has a long vine that extends from its head. This vine is waved and flicked about as if it were an animal to attract prey. When an unsuspecting prey draws near, this Pokémon swallows it whole.",
+    "move_learnset": [
+        {
+            "move": "Leaf Tornado",
+            "level": 1
+        },
+        {
+            "move": "Razor Leaf",
+            "level": 1
+        },
+        {
+            "move": "Sleep Powder",
+            "level": 1
+        },
+        {
+            "move": "Spit Up",
+            "level": 1
+        },
+        {
+            "move": "Stockpile",
+            "level": 1
+        },
+        {
+            "move": "Swallow",
+            "level": 1
+        },
+        {
+            "move": "Sweet Scent",
+            "level": 1
+        },
+        {
+            "move": "Vine Whip",
+            "level": 1
+        },
+        {
+            "move": "Leaf Storm",
+            "level": 32
+        },
+        {
+            "move": "Leaf Blade",
+            "level": 44
+        },
+        {
+            "move": "Acid Spray",
+            "egg_move": true
+        },
+        {
+            "move": "Belch",
+            "egg_move": true
+        },
+        {
+            "move": "Bullet Seed",
+            "egg_move": true
+        },
+        {
+            "move": "Clear Smog",
+            "egg_move": true
+        },
+        {
+            "move": "Encore",
+            "egg_move": true
+        },
+        {
+            "move": "Giga Drain",
+            "egg_move": true
+        },
+        {
+            "move": "Ingrain",
+            "egg_move": true
+        },
+        {
+            "move": "Leech Life",
+            "egg_move": true
+        },
+        {
+            "move": "Magical Leaf",
+            "egg_move": true
+        },
+        {
+            "move": "Natural Gift",
+            "egg_move": true
+        },
+        {
+            "move": "Power Whip",
+            "egg_move": true
+        },
+        {
+            "move": "Strength Sap",
+            "egg_move": true
+        },
+        {
+            "move": "Synthesis",
+            "egg_move": true
+        },
+        {
+            "move": "Tickle",
+            "egg_move": true
+        },
+        {
+            "move": "Weather Ball",
+            "egg_move": true
+        },
+        {
+            "move": "Worry Seed",
+            "egg_move": true
+        },
+        {
+            "move": "Toxic",
+            "tm": "TM6"
+        },
+        {
+            "move": "Venoshock",
+            "tm": "TM9"
+        },
+        {
+            "move": "Hidden Power",
+            "tm": "TM10"
+        },
+        {
+            "move": "Sunny Day",
+            "tm": "TM11"
+        },
+        {
+            "move": "Hyper Beam",
+            "tm": "TM15"
+        },
+        {
+            "move": "Protect",
+            "tm": "TM17"
+        },
+        {
+            "move": "Frustration",
+            "tm": "TM21"
+        },
+        {
+            "move": "Solar Beam",
+            "tm": "TM22"
+        },
+        {
+            "move": "Return",
+            "tm": "TM27"
+        },
+        {
+            "move": "Double Team",
+            "tm": "TM32"
+        },
+        {
+            "move": "Reflect",
+            "tm": "TM33"
+        },
+        {
+            "move": "Sludge Bomb",
+            "tm": "TM36"
+        },
+        {
+            "move": "Facade",
+            "tm": "TM42"
+        },
+        {
+            "move": "Rest",
+            "tm": "TM44"
+        },
+        {
+            "move": "Attract",
+            "tm": "TM45"
+        },
+        {
+            "move": "Thief",
+            "tm": "TM46"
+        },
+        {
+            "move": "Round",
+            "tm": "TM48"
+        },
+        {
+            "move": "Energy Ball",
+            "tm": "TM53"
+        },
+        {
+            "move": "Giga Impact",
+            "tm": "TM68"
+        },
+        {
+            "move": "Swords Dance",
+            "tm": "TM75"
+        },
+        {
+            "move": "Infestation",
+            "tm": "TM83"
+        },
+        {
+            "move": "Poison Jab",
+            "tm": "TM84"
+        },
+        {
+            "move": "Grass Knot",
+            "tm": "TM86"
+        },
+        {
+            "move": "Swagger",
+            "tm": "TM87"
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": "TM88"
+        },
+        {
+            "move": "Substitute",
+            "tm": "TM90"
+        },
+        {
+            "move": "Nature Power",
+            "tm": "TM96"
+        },
+        {
+            "move": "Confide",
+            "tm": "TM100"
+        }
+    ]
+}

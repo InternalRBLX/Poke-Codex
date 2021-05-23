@@ -1,0 +1,304 @@
+{
+    "name": "Lugia",
+    "national_id": 249,
+    "types": [
+        "Psychic",
+        "Flying"
+    ],
+    "abilities": [
+        {
+            "name": "Pressure"
+        },
+        {
+            "name": "Multiscale",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 3,
+    "gender_ratios": null,
+    "egg_groups": [
+        "Undiscovered"
+    ],
+    "hatch_time": [
+        30855,
+        31109
+    ],
+    "height_us": "17'01\"",
+    "height_eu": "5.2 m",
+    "weight_us": "476.2 lbs.",
+    "weight_eu": "216.0 kg",
+    "base_exp_yield": 306,
+    "leveling_rate": "Slow",
+    "base_friendship": 0,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 3,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 106,
+        "atk": 90,
+        "def": 130,
+        "sp_atk": 90,
+        "sp_def": 154,
+        "speed": 110
+    },
+    "evolution_from": null,
+    "evolutions": [],
+    "species": "Diving Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "Lugia's wings pack devastating power — a light fluttering of its wings can blow apart regular houses. As a result, this Pokémon chooses to live out of sight deep under the sea.",
+    "move_learnset": [
+        {
+            "move": "Weather Ball",
+            "level": 1
+        },
+        {
+            "move": "Whirlwind",
+            "level": 1
+        },
+        {
+            "move": "Gust",
+            "level": 9
+        },
+        {
+            "move": "Dragon Rush",
+            "level": 15
+        },
+        {
+            "move": "Extrasensory",
+            "level": 23
+        },
+        {
+            "move": "Rain Dance",
+            "level": 29
+        },
+        {
+            "move": "Hydro Pump",
+            "level": 37
+        },
+        {
+            "move": "Aeroblast",
+            "level": 43
+        },
+        {
+            "move": "Punishment",
+            "level": 50
+        },
+        {
+            "move": "Ancient Power",
+            "level": 57
+        },
+        {
+            "move": "Safeguard",
+            "level": 65
+        },
+        {
+            "move": "Recover",
+            "level": 71
+        },
+        {
+            "move": "Future Sight",
+            "level": 79
+        },
+        {
+            "move": "Natural Gift",
+            "level": 85
+        },
+        {
+            "move": "Calm Mind",
+            "level": 93
+        },
+        {
+            "move": "Sky Attack",
+            "level": 99
+        },
+        {
+            "move": "Psyshock",
+            "tm": "TM3"
+        },
+        {
+            "move": "Calm Mind",
+            "tm": "TM4"
+        },
+        {
+            "move": "Roar",
+            "tm": "TM5"
+        },
+        {
+            "move": "Toxic",
+            "tm": "TM6"
+        },
+        {
+            "move": "Hail",
+            "tm": "TM7"
+        },
+        {
+            "move": "Hidden Power",
+            "tm": "TM10"
+        },
+        {
+            "move": "Sunny Day",
+            "tm": "TM11"
+        },
+        {
+            "move": "Ice Beam",
+            "tm": "TM13"
+        },
+        {
+            "move": "Blizzard",
+            "tm": "TM14"
+        },
+        {
+            "move": "Hyper Beam",
+            "tm": "TM15"
+        },
+        {
+            "move": "Light Screen",
+            "tm": "TM16"
+        },
+        {
+            "move": "Protect",
+            "tm": "TM17"
+        },
+        {
+            "move": "Rain Dance",
+            "tm": "TM18"
+        },
+        {
+            "move": "Roost",
+            "tm": "TM19"
+        },
+        {
+            "move": "Safeguard",
+            "tm": "TM20"
+        },
+        {
+            "move": "Frustration",
+            "tm": "TM21"
+        },
+        {
+            "move": "Thunderbolt",
+            "tm": "TM24"
+        },
+        {
+            "move": "Thunder",
+            "tm": "TM25"
+        },
+        {
+            "move": "Earthquake",
+            "tm": "TM26"
+        },
+        {
+            "move": "Return",
+            "tm": "TM27"
+        },
+        {
+            "move": "Psychic",
+            "tm": "TM29"
+        },
+        {
+            "move": "Shadow Ball",
+            "tm": "TM30"
+        },
+        {
+            "move": "Double Team",
+            "tm": "TM32"
+        },
+        {
+            "move": "Reflect",
+            "tm": "TM33"
+        },
+        {
+            "move": "Sandstorm",
+            "tm": "TM37"
+        },
+        {
+            "move": "Aerial Ace",
+            "tm": "TM40"
+        },
+        {
+            "move": "Facade",
+            "tm": "TM42"
+        },
+        {
+            "move": "Rest",
+            "tm": "TM44"
+        },
+        {
+            "move": "Round",
+            "tm": "TM48"
+        },
+        {
+            "move": "Echoed Voice",
+            "tm": "TM49"
+        },
+        {
+            "move": "Steel Wing",
+            "tm": "TM51"
+        },
+        {
+            "move": "Charge Beam",
+            "tm": "TM57"
+        },
+        {
+            "move": "Sky Drop",
+            "tm": "TM58"
+        },
+        {
+            "move": "Giga Impact",
+            "tm": "TM68"
+        },
+        {
+            "move": "Thunder Wave",
+            "tm": "TM73"
+        },
+        {
+            "move": "Fly",
+            "tm": "TM76"
+        },
+        {
+            "move": "Psych Up",
+            "tm": "TM77"
+        },
+        {
+            "move": "Bulldoze",
+            "tm": "TM78"
+        },
+        {
+            "move": "Dragon Tail",
+            "tm": "TM82"
+        },
+        {
+            "move": "Dream Eater",
+            "tm": "TM85"
+        },
+        {
+            "move": "Swagger",
+            "tm": "TM87"
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": "TM88"
+        },
+        {
+            "move": "Substitute",
+            "tm": "TM90"
+        },
+        {
+            "move": "Surf",
+            "tm": "TM94"
+        },
+        {
+            "move": "Waterfall",
+            "tm": "TM98"
+        },
+        {
+            "move": "Confide",
+            "tm": "TM100"
+        }
+    ]
+}

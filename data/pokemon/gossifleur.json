@@ -1,0 +1,226 @@
+{
+    "name": "Gossifleur",
+    "national_id": 829,
+    "types": [
+        "Grass"
+    ],
+    "abilities": [
+        {
+            "name": "Cotton Down"
+        },
+        {
+            "name": "Regenerator"
+        },
+        {
+            "name": "Effect Spore",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 190,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Grass"
+    ],
+    "hatch_time": [
+        5140,
+        5396
+    ],
+    "height_us": "1'04\"",
+    "height_eu": "0.4 m",
+    "weight_us": "4.9 lbs.",
+    "weight_eu": "2.2 kg",
+    "base_exp_yield": 50,
+    "leveling_rate": "Medium Fast",
+    "base_friendship": 50,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 1,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 40,
+        "atk": 40,
+        "def": 60,
+        "sp_atk": 40,
+        "sp_def": 60,
+        "speed": 10
+    },
+    "evolution_from": null,
+    "evolutions": [
+        {
+            "to": "Eldegoss",
+            "level": 20
+        }
+    ],
+    "species": "Flowering Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "It whirls around in the wind while singing a joyous song. This delightful display has charmed many into raising this Pokémon.",
+    "move_learnset": [
+        {
+            "move": "Leafage",
+            "level": 1
+        },
+        {
+            "move": "Sing",
+            "level": 1
+        },
+        {
+            "move": "Rapid Spin",
+            "level": 4
+        },
+        {
+            "move": "Sweet Scent",
+            "level": 8
+        },
+        {
+            "move": "Razor Leaf",
+            "level": 12
+        },
+        {
+            "move": "Round",
+            "level": 16
+        },
+        {
+            "move": "Leaf Tornado",
+            "level": 21
+        },
+        {
+            "move": "Synthesis",
+            "level": 24
+        },
+        {
+            "move": "Hyper Voice",
+            "level": 28
+        },
+        {
+            "move": "Aromatherapy",
+            "level": 32
+        },
+        {
+            "move": "Leaf Storm",
+            "level": 36
+        },
+        {
+            "move": "Magical Leaf",
+            "tm": true
+        },
+        {
+            "move": "Solar Beam",
+            "tm": true
+        },
+        {
+            "move": "Light Screen",
+            "tm": true
+        },
+        {
+            "move": "Rest",
+            "tm": true
+        },
+        {
+            "move": "Snore",
+            "tm": true
+        },
+        {
+            "move": "Protect",
+            "tm": true
+        },
+        {
+            "move": "Giga Drain",
+            "tm": true
+        },
+        {
+            "move": "Charm",
+            "tm": true
+        },
+        {
+            "move": "Attract",
+            "tm": true
+        },
+        {
+            "move": "Sunny Day",
+            "tm": true
+        },
+        {
+            "move": "Facade",
+            "tm": true
+        },
+        {
+            "move": "Helping Hand",
+            "tm": true
+        },
+        {
+            "move": "Bullet Seed",
+            "tm": true
+        },
+        {
+            "move": "Round",
+            "tm": true
+        },
+        {
+            "move": "Grassy Terrain",
+            "tm": true
+        },
+        {
+            "move": "Substitute",
+            "tm": true
+        },
+        {
+            "move": "Endure",
+            "tm": true
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": true
+        },
+        {
+            "move": "Hyper Voice",
+            "tm": true
+        },
+        {
+            "move": "Energy Ball",
+            "tm": true
+        },
+        {
+            "move": "Leaf Storm",
+            "tm": true
+        },
+        {
+            "move": "Grass Knot",
+            "tm": true
+        },
+        {
+            "move": "Pollen Puff",
+            "tm": true
+        },
+        {
+            "move": "Growth",
+            "egg_move": true
+        },
+        {
+            "move": "Leech Seed",
+            "egg_move": true
+        },
+        {
+            "move": "Worry Seed",
+            "egg_move": true
+        },
+        {
+            "move": "Poison Powder",
+            "egg_move": true
+        },
+        {
+            "move": "Stun Spore",
+            "egg_move": true
+        },
+        {
+            "move": "Sleep Powder",
+            "egg_move": true
+        }
+    ]
+}

@@ -1,0 +1,320 @@
+{
+    "name": "Charmander",
+    "national_id": 4,
+    "types": [
+        "Fire"
+    ],
+    "abilities": [
+        {
+            "name": "Blaze"
+        },
+        {
+            "name": "Solar Power",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 45,
+    "gender_ratios": {
+        "male": 87.5,
+        "female": 12.5
+    },
+    "egg_groups": [
+        "Monster",
+        "Dragon"
+    ],
+    "hatch_time": [
+        5355,
+        5609
+    ],
+    "height_us": "2'00\"",
+    "height_eu": "0.6 m",
+    "weight_us": "18.7 lbs.",
+    "weight_eu": "8.5 kg",
+    "base_exp_yield": 62,
+    "leveling_rate": "Medium Slow",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 1
+    },
+    "base_stats": {
+        "hp": 39,
+        "atk": 52,
+        "def": 43,
+        "sp_atk": 60,
+        "sp_def": 50,
+        "speed": 65
+    },
+    "evolution_from": null,
+    "evolutions": [
+        {
+            "to": "Charmeleon",
+            "level": 16
+        }
+    ],
+    "species": "Lizard Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "From the time it is born, a flame burns at the tip of its tail. Its life would end if the flame were to go out.",
+    "move_learnset": [
+        {
+            "move": "Scratch",
+            "level": 1
+        },
+        {
+            "move": "Growl",
+            "level": 1
+        },
+        {
+            "move": "Ember",
+            "level": 4
+        },
+        {
+            "move": "Smokescreen",
+            "level": 8
+        },
+        {
+            "move": "Dragon Breath",
+            "level": 12
+        },
+        {
+            "move": "Fire Fang",
+            "level": 17
+        },
+        {
+            "move": "Slash",
+            "level": 20
+        },
+        {
+            "move": "Flamethrower",
+            "level": 24
+        },
+        {
+            "move": "Scary Face",
+            "level": 28
+        },
+        {
+            "move": "Fire Spin",
+            "level": 32
+        },
+        {
+            "move": "Inferno",
+            "level": 36
+        },
+        {
+            "move": "Flare Blitz",
+            "level": 40
+        },
+        {
+            "move": "Mega Punch",
+            "tm": true
+        },
+        {
+            "move": "Mega Kick",
+            "tm": true
+        },
+        {
+            "move": "Fire Punch",
+            "tm": true
+        },
+        {
+            "move": "Thunder Punch",
+            "tm": true
+        },
+        {
+            "move": "Fire Spin",
+            "tm": true
+        },
+        {
+            "move": "Dig",
+            "tm": true
+        },
+        {
+            "move": "Rest",
+            "tm": true
+        },
+        {
+            "move": "Rock Slide",
+            "tm": true
+        },
+        {
+            "move": "Snore",
+            "tm": true
+        },
+        {
+            "move": "Protect",
+            "tm": true
+        },
+        {
+            "move": "Scary Face",
+            "tm": true
+        },
+        {
+            "move": "Attract",
+            "tm": true
+        },
+        {
+            "move": "Sunny Day",
+            "tm": true
+        },
+        {
+            "move": "Beat Up",
+            "tm": true
+        },
+        {
+            "move": "Will-O-Wisp",
+            "tm": true
+        },
+        {
+            "move": "Facade",
+            "tm": true
+        },
+        {
+            "move": "Swift",
+            "tm": true
+        },
+        {
+            "move": "Helping Hand",
+            "tm": true
+        },
+        {
+            "move": "Brick Break",
+            "tm": true
+        },
+        {
+            "move": "Weather Ball",
+            "tm": true
+        },
+        {
+            "move": "Rock Tomb",
+            "tm": true
+        },
+        {
+            "move": "Fling",
+            "tm": true
+        },
+        {
+            "move": "Shadow Claw",
+            "tm": true
+        },
+        {
+            "move": "Fire Fang",
+            "tm": true
+        },
+        {
+            "move": "Round",
+            "tm": true
+        },
+        {
+            "move": "Acrobatics",
+            "tm": true
+        },
+        {
+            "move": "False Swipe",
+            "tm": true
+        },
+        {
+            "move": "Swords Dance",
+            "tm": true
+        },
+        {
+            "move": "Body Slam",
+            "tm": true
+        },
+        {
+            "move": "Flamethrower",
+            "tm": true
+        },
+        {
+            "move": "Fire Blast",
+            "tm": true
+        },
+        {
+            "move": "Substitute",
+            "tm": true
+        },
+        {
+            "move": "Outrage",
+            "tm": true
+        },
+        {
+            "move": "Endure",
+            "tm": true
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": true
+        },
+        {
+            "move": "Iron Tail",
+            "tm": true
+        },
+        {
+            "move": "Crunch",
+            "tm": true
+        },
+        {
+            "move": "Heat Wave",
+            "tm": true
+        },
+        {
+            "move": "Overheat",
+            "tm": true
+        },
+        {
+            "move": "Dragon Claw",
+            "tm": true
+        },
+        {
+            "move": "Dragon Dance",
+            "tm": true
+        },
+        {
+            "move": "Flare Blitz",
+            "tm": true
+        },
+        {
+            "move": "Dragon Pulse",
+            "tm": true
+        },
+        {
+            "move": "Work Up",
+            "tm": true
+        },
+        {
+            "move": "Belly Drum",
+            "egg_move": true
+        },
+        {
+            "move": "Ancient Power",
+            "egg_move": true
+        },
+        {
+            "move": "Bite",
+            "egg_move": true
+        },
+        {
+            "move": "Dragon Rush",
+            "egg_move": true
+        },
+        {
+            "move": "Metal Claw",
+            "egg_move": true
+        },
+        {
+            "move": "Counter",
+            "egg_move": true
+        },
+        {
+            "move": "Wing Attack",
+            "egg_move": true
+        },
+        {
+            "move": "Dragon Tail",
+            "egg_move": true
+        }
+    ]
+}

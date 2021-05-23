@@ -1,0 +1,353 @@
+{
+    "name": "Linoone",
+    "national_id": 264,
+    "types": [
+        "Dark",
+        "Normal"
+    ],
+    "items": [
+        {
+            "name": "Max Revive",
+            "chance": 5
+        },
+        {
+            "name": "Potion",
+            "chance": 50
+        }
+    ],
+    "abilities": [
+        {
+            "name": "Pickup"
+        },
+        {
+            "name": "Gluttony"
+        },
+        {
+            "name": "Quick Feet",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 90,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Field"
+    ],
+    "hatch_time": [
+        4080,
+        4334
+    ],
+    "height_us": "1'08\"",
+    "height_eu": "0.5 m",
+    "weight_us": "71.6 lbs.",
+    "weight_eu": "32.5 kg",
+    "base_exp_yield": 147,
+    "leveling_rate": "Medium Fast",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 2
+    },
+    "base_stats": {
+        "hp": 78,
+        "atk": 70,
+        "def": 61,
+        "sp_atk": 50,
+        "sp_def": 61,
+        "speed": 100
+    },
+    "evolution_from": "Zigzagoon",
+    "evolution_from_regional": "Galarian",
+    "evolutions": [
+        {
+            "to": "Obstagoon",
+            "level": 35,
+            "conditions": [
+                "Nighttime"
+            ]
+        }
+    ],
+    "species": "Rushing Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "It uses its long tongue to taunt opponents. Once the opposition is enraged, this Pokémon hurls itself at the opponent, tackling them forcefully.",
+    "move_learnset": [
+        {
+            "move": "Night Slash",
+            "evo": true
+        },
+        {
+            "move": "Night Slash",
+            "level": 1
+        },
+        {
+            "move": "Switcheroo",
+            "level": 1
+        },
+        {
+            "move": "Pin Missile",
+            "level": 1
+        },
+        {
+            "move": "Baby-Doll Eyes",
+            "level": 1
+        },
+        {
+            "move": "Tackle",
+            "level": 1
+        },
+        {
+            "move": "Leer",
+            "level": 1
+        },
+        {
+            "move": "Sand Attack",
+            "level": 1
+        },
+        {
+            "move": "Lick",
+            "level": 1
+        },
+        {
+            "move": "Snarl",
+            "level": 9
+        },
+        {
+            "move": "Headbutt",
+            "level": 12
+        },
+        {
+            "move": "Hone Claws",
+            "level": 15
+        },
+        {
+            "move": "Fury Swipes",
+            "level": 18
+        },
+        {
+            "move": "Rest",
+            "level": 23
+        },
+        {
+            "move": "Take Down",
+            "level": 28
+        },
+        {
+            "move": "Scary Face",
+            "level": 33
+        },
+        {
+            "move": "Counter",
+            "level": 38
+        },
+        {
+            "move": "Taunt",
+            "level": 43
+        },
+        {
+            "move": "Double-Edge",
+            "level": 48
+        },
+        {
+            "move": "Pin Missile",
+            "tm": true
+        },
+        {
+            "move": "Hyper Beam",
+            "tm": true
+        },
+        {
+            "move": "Giga Impact",
+            "tm": true
+        },
+        {
+            "move": "Thunder Wave",
+            "tm": true
+        },
+        {
+            "move": "Dig",
+            "tm": true
+        },
+        {
+            "move": "Screech",
+            "tm": true
+        },
+        {
+            "move": "Rest",
+            "tm": true
+        },
+        {
+            "move": "Thief",
+            "tm": true
+        },
+        {
+            "move": "Snore",
+            "tm": true
+        },
+        {
+            "move": "Protect",
+            "tm": true
+        },
+        {
+            "move": "Scary Face",
+            "tm": true
+        },
+        {
+            "move": "Icy Wind",
+            "tm": true
+        },
+        {
+            "move": "Attract",
+            "tm": true
+        },
+        {
+            "move": "Rain Dance",
+            "tm": true
+        },
+        {
+            "move": "Sunny Day",
+            "tm": true
+        },
+        {
+            "move": "Whirlpool",
+            "tm": true
+        },
+        {
+            "move": "Facade",
+            "tm": true
+        },
+        {
+            "move": "Swift",
+            "tm": true
+        },
+        {
+            "move": "Helping Hand",
+            "tm": true
+        },
+        {
+            "move": "Fake Tears",
+            "tm": true
+        },
+        {
+            "move": "Mud Shot",
+            "tm": true
+        },
+        {
+            "move": "Payback",
+            "tm": true
+        },
+        {
+            "move": "Assurance",
+            "tm": true
+        },
+        {
+            "move": "Fling",
+            "tm": true
+        },
+        {
+            "move": "Shadow Claw",
+            "tm": true
+        },
+        {
+            "move": "Round",
+            "tm": true
+        },
+        {
+            "move": "Retaliate",
+            "tm": true
+        },
+        {
+            "move": "Snarl",
+            "tm": true
+        },
+        {
+            "move": "Stomping Tantrum",
+            "tm": true
+        },
+        {
+            "move": "Body Slam",
+            "tm": true
+        },
+        {
+            "move": "Surf",
+            "tm": true
+        },
+        {
+            "move": "Ice Beam",
+            "tm": true
+        },
+        {
+            "move": "Blizzard",
+            "tm": true
+        },
+        {
+            "move": "Thunderbolt",
+            "tm": true
+        },
+        {
+            "move": "Thunder",
+            "tm": true
+        },
+        {
+            "move": "Substitute",
+            "tm": true
+        },
+        {
+            "move": "Endure",
+            "tm": true
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": true
+        },
+        {
+            "move": "Iron Tail",
+            "tm": true
+        },
+        {
+            "move": "Shadow Ball",
+            "tm": true
+        },
+        {
+            "move": "Taunt",
+            "tm": true
+        },
+        {
+            "move": "Trick",
+            "tm": true
+        },
+        {
+            "move": "Hyper Voice",
+            "tm": true
+        },
+        {
+            "move": "Seed Bomb",
+            "tm": true
+        },
+        {
+            "move": "Gunk Shot",
+            "tm": true
+        },
+        {
+            "move": "Grass Knot",
+            "tm": true
+        },
+        {
+            "move": "Work Up",
+            "tm": true
+        },
+        {
+            "move": "Throat Chop",
+            "tm": true
+        },
+        {
+            "move": "Body Press",
+            "tm": true
+        }
+    ]
+}

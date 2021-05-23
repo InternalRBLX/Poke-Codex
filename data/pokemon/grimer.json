@@ -1,0 +1,513 @@
+{
+    "name": "Grimer",
+    "national_id": 88,
+    "types": [
+        "Poison"
+    ],
+    "items": [
+        {
+            "name": "Black Sludge",
+            "chance": 5
+        }
+    ],
+    "abilities": [
+        {
+            "name": "Stench"
+        },
+        {
+            "name": "Sticky Hold"
+        },
+        {
+            "name": "Poison Touch",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 190,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Amorphous"
+    ],
+    "hatch_time": [
+        5355,
+        5609
+    ],
+    "height_us": "2'11\"",
+    "height_eu": "0.9 m",
+    "weight_us": "66.1 lbs.",
+    "weight_eu": "30.0 kg",
+    "base_exp_yield": 65,
+    "leveling_rate": "Medium Fast",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 1,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 80,
+        "atk": 80,
+        "def": 50,
+        "sp_atk": 40,
+        "sp_def": 50,
+        "speed": 25
+    },
+    "evolution_from": null,
+    "evolutions": [
+        {
+            "to": "Muk",
+            "level": 38
+        }
+    ],
+    "species": "Sludge Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "Grimer emerged from the sludge that settled on a polluted seabed. This Pokémon loves anything filthy. It constantly leaks a horribly germ- infested fluid from all over its body.",
+    "move_learnset": [
+        {
+            "move": "Poison Gas",
+            "level": 1,
+            "variations": [
+                "Grimer"
+            ]
+        },
+        {
+            "move": "Pound",
+            "level": 1,
+            "variations": [
+                "Grimer"
+            ]
+        },
+        {
+            "move": "Harden",
+            "level": 4,
+            "variations": [
+                "Grimer"
+            ]
+        },
+        {
+            "move": "Mud-Slap",
+            "level": 7,
+            "variations": [
+                "Grimer"
+            ]
+        },
+        {
+            "move": "Disable",
+            "level": 12,
+            "variations": [
+                "Grimer"
+            ]
+        },
+        {
+            "move": "Sludge",
+            "level": 15,
+            "variations": [
+                "Grimer"
+            ]
+        },
+        {
+            "move": "Mud Bomb",
+            "level": 18,
+            "variations": [
+                "Grimer"
+            ]
+        },
+        {
+            "move": "Minimize",
+            "level": 21,
+            "variations": [
+                "Grimer"
+            ]
+        },
+        {
+            "move": "Fling",
+            "level": 26,
+            "variations": [
+                "Grimer"
+            ]
+        },
+        {
+            "move": "Sludge Bomb",
+            "level": 29,
+            "variations": [
+                "Grimer"
+            ]
+        },
+        {
+            "move": "Sludge Wave",
+            "level": 32,
+            "variations": [
+                "Grimer"
+            ]
+        },
+        {
+            "move": "Screech",
+            "level": 37,
+            "variations": [
+                "Grimer"
+            ]
+        },
+        {
+            "move": "Gunk Shot",
+            "level": 40,
+            "variations": [
+                "Grimer"
+            ]
+        },
+        {
+            "move": "Acid Armor",
+            "level": 43,
+            "variations": [
+                "Grimer"
+            ]
+        },
+        {
+            "move": "Belch",
+            "level": 46,
+            "variations": [
+                "Grimer"
+            ]
+        },
+        {
+            "move": "Memento",
+            "level": 48,
+            "variations": [
+                "Grimer"
+            ]
+        },
+        {
+            "move": "Acid Spray",
+            "egg_move": true,
+            "variations": [
+                "Grimer"
+            ]
+        },
+        {
+            "move": "Curse",
+            "egg_move": true,
+            "variations": [
+                "Grimer"
+            ]
+        },
+        {
+            "move": "Haze",
+            "egg_move": true,
+            "variations": [
+                "Grimer"
+            ]
+        },
+        {
+            "move": "Imprison",
+            "egg_move": true,
+            "variations": [
+                "Grimer"
+            ]
+        },
+        {
+            "move": "Lick",
+            "egg_move": true,
+            "variations": [
+                "Grimer"
+            ]
+        },
+        {
+            "move": "Mean Look",
+            "egg_move": true,
+            "variations": [
+                "Grimer"
+            ]
+        },
+        {
+            "move": "Power-Up Punch",
+            "egg_move": true,
+            "variations": [
+                "Grimer"
+            ]
+        },
+        {
+            "move": "Scary Face",
+            "egg_move": true,
+            "variations": [
+                "Grimer"
+            ]
+        },
+        {
+            "move": "Shadow Punch",
+            "egg_move": true,
+            "variations": [
+                "Grimer"
+            ]
+        },
+        {
+            "move": "Shadow Sneak",
+            "egg_move": true,
+            "variations": [
+                "Grimer"
+            ]
+        },
+        {
+            "move": "Spit Up",
+            "egg_move": true,
+            "variations": [
+                "Grimer"
+            ]
+        },
+        {
+            "move": "Stockpile",
+            "egg_move": true,
+            "variations": [
+                "Grimer"
+            ]
+        },
+        {
+            "move": "Swallow",
+            "egg_move": true,
+            "variations": [
+                "Grimer"
+            ]
+        },
+        {
+            "move": "Toxic",
+            "tm": "TM6",
+            "variations": [
+                "Grimer"
+            ]
+        },
+        {
+            "move": "Venoshock",
+            "tm": "TM9",
+            "variations": [
+                "Grimer"
+            ]
+        },
+        {
+            "move": "Hidden Power",
+            "tm": "TM10",
+            "variations": [
+                "Grimer"
+            ]
+        },
+        {
+            "move": "Sunny Day",
+            "tm": "TM11",
+            "variations": [
+                "Grimer"
+            ]
+        },
+        {
+            "move": "Taunt",
+            "tm": "TM12",
+            "variations": [
+                "Grimer"
+            ]
+        },
+        {
+            "move": "Protect",
+            "tm": "TM17",
+            "variations": [
+                "Grimer"
+            ]
+        },
+        {
+            "move": "Rain Dance",
+            "tm": "TM18",
+            "variations": [
+                "Grimer"
+            ]
+        },
+        {
+            "move": "Frustration",
+            "tm": "TM21",
+            "variations": [
+                "Grimer"
+            ]
+        },
+        {
+            "move": "Thunderbolt",
+            "tm": "TM24",
+            "variations": [
+                "Grimer"
+            ]
+        },
+        {
+            "move": "Thunder",
+            "tm": "TM25",
+            "variations": [
+                "Grimer"
+            ]
+        },
+        {
+            "move": "Return",
+            "tm": "TM27",
+            "variations": [
+                "Grimer"
+            ]
+        },
+        {
+            "move": "Shadow Ball",
+            "tm": "TM30",
+            "variations": [
+                "Grimer"
+            ]
+        },
+        {
+            "move": "Double Team",
+            "tm": "TM32",
+            "variations": [
+                "Grimer"
+            ]
+        },
+        {
+            "move": "Sludge Wave",
+            "tm": "TM34",
+            "variations": [
+                "Grimer"
+            ]
+        },
+        {
+            "move": "Flamethrower",
+            "tm": "TM35",
+            "variations": [
+                "Grimer"
+            ]
+        },
+        {
+            "move": "Sludge Bomb",
+            "tm": "TM36",
+            "variations": [
+                "Grimer"
+            ]
+        },
+        {
+            "move": "Fire Blast",
+            "tm": "TM38",
+            "variations": [
+                "Grimer"
+            ]
+        },
+        {
+            "move": "Rock Tomb",
+            "tm": "TM39",
+            "variations": [
+                "Grimer"
+            ]
+        },
+        {
+            "move": "Torment",
+            "tm": "TM41",
+            "variations": [
+                "Grimer"
+            ]
+        },
+        {
+            "move": "Facade",
+            "tm": "TM42",
+            "variations": [
+                "Grimer"
+            ]
+        },
+        {
+            "move": "Rest",
+            "tm": "TM44",
+            "variations": [
+                "Grimer"
+            ]
+        },
+        {
+            "move": "Attract",
+            "tm": "TM45",
+            "variations": [
+                "Grimer"
+            ]
+        },
+        {
+            "move": "Thief",
+            "tm": "TM46",
+            "variations": [
+                "Grimer"
+            ]
+        },
+        {
+            "move": "Round",
+            "tm": "TM48",
+            "variations": [
+                "Grimer"
+            ]
+        },
+        {
+            "move": "Fling",
+            "tm": "TM56",
+            "variations": [
+                "Grimer"
+            ]
+        },
+        {
+            "move": "Explosion",
+            "tm": "TM64",
+            "variations": [
+                "Grimer"
+            ]
+        },
+        {
+            "move": "Payback",
+            "tm": "TM66",
+            "variations": [
+                "Grimer"
+            ]
+        },
+        {
+            "move": "Rock Slide",
+            "tm": "TM80",
+            "variations": [
+                "Grimer"
+            ]
+        },
+        {
+            "move": "Infestation",
+            "tm": "TM83",
+            "variations": [
+                "Grimer"
+            ]
+        },
+        {
+            "move": "Poison Jab",
+            "tm": "TM84",
+            "variations": [
+                "Grimer"
+            ]
+        },
+        {
+            "move": "Swagger",
+            "tm": "TM87",
+            "variations": [
+                "Grimer"
+            ]
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": "TM88",
+            "variations": [
+                "Grimer"
+            ]
+        },
+        {
+            "move": "Substitute",
+            "tm": "TM90",
+            "variations": [
+                "Grimer"
+            ]
+        },
+        {
+            "move": "Confide",
+            "tm": "TM100",
+            "variations": [
+                "Grimer"
+            ]
+        }
+    ]
+}

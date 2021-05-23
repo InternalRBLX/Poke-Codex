@@ -1,0 +1,419 @@
+{
+    "name": "Obstagoon",
+    "national_id": 862,
+    "types": [
+        "Dark",
+        "Normal"
+    ],
+    "abilities": [
+        {
+            "name": "Reckless"
+        },
+        {
+            "name": "Guts"
+        },
+        {
+            "name": "Defiant",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 45,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Field"
+    ],
+    "hatch_time": [
+        3855,
+        4111
+    ],
+    "height_us": "5'03\"",
+    "height_eu": "1.6 m",
+    "weight_us": "101.4 lbs.",
+    "weight_eu": "46.0 kg",
+    "base_exp_yield": 260,
+    "leveling_rate": "Medium Fast",
+    "base_friendship": 50,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 3,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 93,
+        "atk": 90,
+        "def": 101,
+        "sp_atk": 60,
+        "sp_def": 81,
+        "speed": 95
+    },
+    "evolution_from": "Linoone",
+    "evolution_from_regional": "Galarian",
+    "evolutions": [],
+    "species": "Blocking Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "It evolved after experiencing numerous fights. While crossing its arms, it lets out a shout that would make any opponent flinch.",
+    "move_learnset": [
+        {
+            "move": "Obstruct",
+            "evo": true
+        },
+        {
+            "move": "Obstruct",
+            "level": 1
+        },
+        {
+            "move": "Cross Chop",
+            "level": 1
+        },
+        {
+            "move": "Submission",
+            "level": 1
+        },
+        {
+            "move": "Night Slash",
+            "level": 1
+        },
+        {
+            "move": "Switcheroo",
+            "level": 1
+        },
+        {
+            "move": "Pin Missile",
+            "level": 1
+        },
+        {
+            "move": "Baby-Doll Eyes",
+            "level": 1
+        },
+        {
+            "move": "Tackle",
+            "level": 1
+        },
+        {
+            "move": "Leer",
+            "level": 1
+        },
+        {
+            "move": "Sand Attack",
+            "level": 1
+        },
+        {
+            "move": "Lick",
+            "level": 1
+        },
+        {
+            "move": "Snarl",
+            "level": 9
+        },
+        {
+            "move": "Headbutt",
+            "level": 12
+        },
+        {
+            "move": "Hone Claws",
+            "level": 15
+        },
+        {
+            "move": "Fury Swipes",
+            "level": 18
+        },
+        {
+            "move": "Rest",
+            "level": 23
+        },
+        {
+            "move": "Take Down",
+            "level": 28
+        },
+        {
+            "move": "Scary Face",
+            "level": 35
+        },
+        {
+            "move": "Counter",
+            "level": 42
+        },
+        {
+            "move": "Taunt",
+            "level": 49
+        },
+        {
+            "move": "Double-Edge",
+            "level": 56
+        },
+        {
+            "move": "Mega Punch",
+            "tm": true
+        },
+        {
+            "move": "Mega Kick",
+            "tm": true
+        },
+        {
+            "move": "Fire Punch",
+            "tm": true
+        },
+        {
+            "move": "Ice Punch",
+            "tm": true
+        },
+        {
+            "move": "Thunder Punch",
+            "tm": true
+        },
+        {
+            "move": "Pin Missile",
+            "tm": true
+        },
+        {
+            "move": "Hyper Beam",
+            "tm": true
+        },
+        {
+            "move": "Giga Impact",
+            "tm": true
+        },
+        {
+            "move": "Thunder Wave",
+            "tm": true
+        },
+        {
+            "move": "Dig",
+            "tm": true
+        },
+        {
+            "move": "Screech",
+            "tm": true
+        },
+        {
+            "move": "Rest",
+            "tm": true
+        },
+        {
+            "move": "Thief",
+            "tm": true
+        },
+        {
+            "move": "Snore",
+            "tm": true
+        },
+        {
+            "move": "Protect",
+            "tm": true
+        },
+        {
+            "move": "Scary Face",
+            "tm": true
+        },
+        {
+            "move": "Icy Wind",
+            "tm": true
+        },
+        {
+            "move": "Attract",
+            "tm": true
+        },
+        {
+            "move": "Rain Dance",
+            "tm": true
+        },
+        {
+            "move": "Sunny Day",
+            "tm": true
+        },
+        {
+            "move": "Whirlpool",
+            "tm": true
+        },
+        {
+            "move": "Facade",
+            "tm": true
+        },
+        {
+            "move": "Swift",
+            "tm": true
+        },
+        {
+            "move": "Helping Hand",
+            "tm": true
+        },
+        {
+            "move": "Revenge",
+            "tm": true
+        },
+        {
+            "move": "Brick Break",
+            "tm": true
+        },
+        {
+            "move": "Fake Tears",
+            "tm": true
+        },
+        {
+            "move": "Mud Shot",
+            "tm": true
+        },
+        {
+            "move": "Payback",
+            "tm": true
+        },
+        {
+            "move": "Assurance",
+            "tm": true
+        },
+        {
+            "move": "Fling",
+            "tm": true
+        },
+        {
+            "move": "Shadow Claw",
+            "tm": true
+        },
+        {
+            "move": "Cross Poison",
+            "tm": true
+        },
+        {
+            "move": "Round",
+            "tm": true
+        },
+        {
+            "move": "Retaliate",
+            "tm": true
+        },
+        {
+            "move": "Snarl",
+            "tm": true
+        },
+        {
+            "move": "Stomping Tantrum",
+            "tm": true
+        },
+        {
+            "move": "Body Slam",
+            "tm": true
+        },
+        {
+            "move": "Surf",
+            "tm": true
+        },
+        {
+            "move": "Ice Beam",
+            "tm": true
+        },
+        {
+            "move": "Blizzard",
+            "tm": true
+        },
+        {
+            "move": "Low Kick",
+            "tm": true
+        },
+        {
+            "move": "Thunderbolt",
+            "tm": true
+        },
+        {
+            "move": "Thunder",
+            "tm": true
+        },
+        {
+            "move": "Focus Energy",
+            "tm": true
+        },
+        {
+            "move": "Substitute",
+            "tm": true
+        },
+        {
+            "move": "Reversal",
+            "tm": true
+        },
+        {
+            "move": "Endure",
+            "tm": true
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": true
+        },
+        {
+            "move": "Iron Tail",
+            "tm": true
+        },
+        {
+            "move": "Shadow Ball",
+            "tm": true
+        },
+        {
+            "move": "Taunt",
+            "tm": true
+        },
+        {
+            "move": "Trick",
+            "tm": true
+        },
+        {
+            "move": "Hyper Voice",
+            "tm": true
+        },
+        {
+            "move": "Iron Defense",
+            "tm": true
+        },
+        {
+            "move": "Bulk Up",
+            "tm": true
+        },
+        {
+            "move": "Close Combat",
+            "tm": true
+        },
+        {
+            "move": "Seed Bomb",
+            "tm": true
+        },
+        {
+            "move": "X-Scissor",
+            "tm": true
+        },
+        {
+            "move": "Gunk Shot",
+            "tm": true
+        },
+        {
+            "move": "Grass Knot",
+            "tm": true
+        },
+        {
+            "move": "Work Up",
+            "tm": true
+        },
+        {
+            "move": "Throat Chop",
+            "tm": true
+        },
+        {
+            "move": "Body Press",
+            "tm": true
+        },
+        {
+            "move": "Parting Shot",
+            "egg_move": true
+        },
+        {
+            "move": "Quick Guard",
+            "egg_move": true
+        },
+        {
+            "move": "Knock Off",
+            "egg_move": true
+        }
+    ]
+}

@@ -1,0 +1,346 @@
+{
+    "name": "Passimian",
+    "national_id": 766,
+    "types": [
+        "Fighting"
+    ],
+    "abilities": [
+        {
+            "name": "Receiver"
+        },
+        {
+            "name": "Defiant",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 45,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Field"
+    ],
+    "hatch_time": [
+        5140,
+        5396
+    ],
+    "height_us": "6'07\"",
+    "height_eu": "2.0 m",
+    "weight_us": "182.5 lbs.",
+    "weight_eu": "82.8 kg",
+    "base_exp_yield": 172,
+    "leveling_rate": "Slow",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 2,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 100,
+        "atk": 120,
+        "def": 90,
+        "sp_atk": 40,
+        "sp_def": 60,
+        "speed": 80
+    },
+    "evolution_from": null,
+    "evolutions": [],
+    "species": "Teamwork Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "Passimian live in groups of about 20, with each member performing an assigned role. Through cooperation, the group survives.",
+    "move_learnset": [
+        {
+            "move": "Tackle",
+            "level": 1
+        },
+        {
+            "move": "Leer",
+            "level": 1
+        },
+        {
+            "move": "Rock Smash",
+            "level": 5
+        },
+        {
+            "move": "Focus Energy",
+            "level": 10
+        },
+        {
+            "move": "Beat Up",
+            "level": 15
+        },
+        {
+            "move": "Scary Face",
+            "level": 20
+        },
+        {
+            "move": "Take Down",
+            "level": 25
+        },
+        {
+            "move": "Fling",
+            "level": 30
+        },
+        {
+            "move": "Bulk Up",
+            "level": 35
+        },
+        {
+            "move": "Thrash",
+            "level": 40
+        },
+        {
+            "move": "Double-Edge",
+            "level": 45
+        },
+        {
+            "move": "Close Combat",
+            "level": 50
+        },
+        {
+            "move": "Reversal",
+            "level": 55
+        },
+        {
+            "move": "Giga Impact",
+            "level": 60
+        },
+        {
+            "move": "Mega Punch",
+            "tm": true
+        },
+        {
+            "move": "Mega Kick",
+            "tm": true
+        },
+        {
+            "move": "Hyper Beam",
+            "tm": true
+        },
+        {
+            "move": "Giga Impact",
+            "tm": true
+        },
+        {
+            "move": "Rest",
+            "tm": true
+        },
+        {
+            "move": "Rock Slide",
+            "tm": true
+        },
+        {
+            "move": "Thief",
+            "tm": true
+        },
+        {
+            "move": "Snore",
+            "tm": true
+        },
+        {
+            "move": "Protect",
+            "tm": true
+        },
+        {
+            "move": "Scary Face",
+            "tm": true
+        },
+        {
+            "move": "Attract",
+            "tm": true
+        },
+        {
+            "move": "Rain Dance",
+            "tm": true
+        },
+        {
+            "move": "Sunny Day",
+            "tm": true
+        },
+        {
+            "move": "Beat Up",
+            "tm": true
+        },
+        {
+            "move": "Facade",
+            "tm": true
+        },
+        {
+            "move": "Revenge",
+            "tm": true
+        },
+        {
+            "move": "Brick Break",
+            "tm": true
+        },
+        {
+            "move": "Rock Tomb",
+            "tm": true
+        },
+        {
+            "move": "U-turn",
+            "tm": true
+        },
+        {
+            "move": "Payback",
+            "tm": true
+        },
+        {
+            "move": "Assurance",
+            "tm": true
+        },
+        {
+            "move": "Fling",
+            "tm": true
+        },
+        {
+            "move": "Drain Punch",
+            "tm": true
+        },
+        {
+            "move": "Low Sweep",
+            "tm": true
+        },
+        {
+            "move": "Round",
+            "tm": true
+        },
+        {
+            "move": "Acrobatics",
+            "tm": true
+        },
+        {
+            "move": "Retaliate",
+            "tm": true
+        },
+        {
+            "move": "Bulldoze",
+            "tm": true
+        },
+        {
+            "move": "Electroweb",
+            "tm": true
+        },
+        {
+            "move": "Brutal Swing",
+            "tm": true
+        },
+        {
+            "move": "Earthquake",
+            "tm": true
+        },
+        {
+            "move": "Focus Energy",
+            "tm": true
+        },
+        {
+            "move": "Substitute",
+            "tm": true
+        },
+        {
+            "move": "Reversal",
+            "tm": true
+        },
+        {
+            "move": "Endure",
+            "tm": true
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": true
+        },
+        {
+            "move": "Iron Tail",
+            "tm": true
+        },
+        {
+            "move": "Shadow Ball",
+            "tm": true
+        },
+        {
+            "move": "Uproar",
+            "tm": true
+        },
+        {
+            "move": "Taunt",
+            "tm": true
+        },
+        {
+            "move": "Superpower",
+            "tm": true
+        },
+        {
+            "move": "Bulk Up",
+            "tm": true
+        },
+        {
+            "move": "Gyro Ball",
+            "tm": true
+        },
+        {
+            "move": "Close Combat",
+            "tm": true
+        },
+        {
+            "move": "Seed Bomb",
+            "tm": true
+        },
+        {
+            "move": "Focus Blast",
+            "tm": true
+        },
+        {
+            "move": "Energy Ball",
+            "tm": true
+        },
+        {
+            "move": "Gunk Shot",
+            "tm": true
+        },
+        {
+            "move": "Iron Head",
+            "tm": true
+        },
+        {
+            "move": "Grass Knot",
+            "tm": true
+        },
+        {
+            "move": "Work Up",
+            "tm": true
+        },
+        {
+            "move": "Seismic Toss",
+            "egg_move": true
+        },
+        {
+            "move": "Vital Throw",
+            "egg_move": true
+        },
+        {
+            "move": "Quick Guard",
+            "egg_move": true
+        },
+        {
+            "move": "Quick Attack",
+            "egg_move": true
+        },
+        {
+            "move": "Feint",
+            "egg_move": true
+        },
+        {
+            "move": "Counter",
+            "egg_move": true
+        },
+        {
+            "move": "Knock Off",
+            "egg_move": true
+        }
+    ]
+}

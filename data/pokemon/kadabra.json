@@ -1,0 +1,332 @@
+{
+    "name": "Kadabra",
+    "national_id": 64,
+    "types": [
+        "Psychic"
+    ],
+    "items": [
+        {
+            "name": "Twisted Spoon",
+            "chance": 5
+        }
+    ],
+    "abilities": [
+        {
+            "name": "Synchronize"
+        },
+        {
+            "name": "Inner Focus"
+        },
+        {
+            "name": "Magic Guard",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 100,
+    "gender_ratios": {
+        "male": 75,
+        "female": 25
+    },
+    "egg_groups": [
+        "Human-Like"
+    ],
+    "hatch_time": [
+        5355,
+        5609
+    ],
+    "height_us": "4'03\"",
+    "height_eu": "1.3 m",
+    "weight_us": "124.6 lbs.",
+    "weight_eu": "56.5 kg",
+    "base_exp_yield": 140,
+    "leveling_rate": "Medium Slow",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 2,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 40,
+        "atk": 35,
+        "def": 30,
+        "sp_atk": 120,
+        "sp_def": 70,
+        "speed": 105
+    },
+    "evolution_from": "Abra",
+    "evolutions": [
+        {
+            "to": "Alakazam",
+            "trade": true
+        }
+    ],
+    "species": "Psi Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "Kadabra holds a silver spoon in its hand. The spoon is used to amplify the alpha waves in its brain. Without the spoon, the Pokémon is said to be limited to half the usual amount of its telekinetic powers.",
+    "move_learnset": [
+        {
+            "move": "Confusion",
+            "level": 1
+        },
+        {
+            "move": "Kinesis",
+            "level": 1
+        },
+        {
+            "move": "Teleport",
+            "level": 1
+        },
+        {
+            "move": "Confusion",
+            "level": 16
+        },
+        {
+            "move": "Disable",
+            "level": 18
+        },
+        {
+            "move": "Psybeam",
+            "level": 21
+        },
+        {
+            "move": "Miracle Eye",
+            "level": 23
+        },
+        {
+            "move": "Reflect",
+            "level": 26
+        },
+        {
+            "move": "Psycho Cut",
+            "level": 28
+        },
+        {
+            "move": "Recover",
+            "level": 31
+        },
+        {
+            "move": "Telekinesis",
+            "level": 33
+        },
+        {
+            "move": "Ally Switch",
+            "level": 36
+        },
+        {
+            "move": "Psychic",
+            "level": 38
+        },
+        {
+            "move": "Role Play",
+            "level": 41
+        },
+        {
+            "move": "Future Sight",
+            "level": 43
+        },
+        {
+            "move": "Trick",
+            "level": 46
+        },
+        {
+            "move": "Ally Switch",
+            "egg_move": true
+        },
+        {
+            "move": "Barrier",
+            "egg_move": true
+        },
+        {
+            "move": "Encore",
+            "egg_move": true
+        },
+        {
+            "move": "Fire Punch",
+            "egg_move": true
+        },
+        {
+            "move": "Guard Split",
+            "egg_move": true
+        },
+        {
+            "move": "Guard Swap",
+            "egg_move": true
+        },
+        {
+            "move": "Ice Punch",
+            "egg_move": true
+        },
+        {
+            "move": "Knock Off",
+            "egg_move": true
+        },
+        {
+            "move": "Power Trick",
+            "egg_move": true
+        },
+        {
+            "move": "Psychic Terrain",
+            "egg_move": true
+        },
+        {
+            "move": "Psycho Shift",
+            "egg_move": true
+        },
+        {
+            "move": "Skill Swap",
+            "egg_move": true
+        },
+        {
+            "move": "Thunder Punch",
+            "egg_move": true
+        },
+        {
+            "move": "Psyshock",
+            "tm": "TM3"
+        },
+        {
+            "move": "Calm Mind",
+            "tm": "TM4"
+        },
+        {
+            "move": "Toxic",
+            "tm": "TM6"
+        },
+        {
+            "move": "Hidden Power",
+            "tm": "TM10"
+        },
+        {
+            "move": "Sunny Day",
+            "tm": "TM11"
+        },
+        {
+            "move": "Taunt",
+            "tm": "TM12"
+        },
+        {
+            "move": "Light Screen",
+            "tm": "TM16"
+        },
+        {
+            "move": "Protect",
+            "tm": "TM17"
+        },
+        {
+            "move": "Rain Dance",
+            "tm": "TM18"
+        },
+        {
+            "move": "Safeguard",
+            "tm": "TM20"
+        },
+        {
+            "move": "Frustration",
+            "tm": "TM21"
+        },
+        {
+            "move": "Return",
+            "tm": "TM27"
+        },
+        {
+            "move": "Psychic",
+            "tm": "TM29"
+        },
+        {
+            "move": "Shadow Ball",
+            "tm": "TM30"
+        },
+        {
+            "move": "Double Team",
+            "tm": "TM32"
+        },
+        {
+            "move": "Reflect",
+            "tm": "TM33"
+        },
+        {
+            "move": "Torment",
+            "tm": "TM41"
+        },
+        {
+            "move": "Facade",
+            "tm": "TM42"
+        },
+        {
+            "move": "Rest",
+            "tm": "TM44"
+        },
+        {
+            "move": "Attract",
+            "tm": "TM45"
+        },
+        {
+            "move": "Thief",
+            "tm": "TM46"
+        },
+        {
+            "move": "Round",
+            "tm": "TM48"
+        },
+        {
+            "move": "Energy Ball",
+            "tm": "TM53"
+        },
+        {
+            "move": "Fling",
+            "tm": "TM56"
+        },
+        {
+            "move": "Charge Beam",
+            "tm": "TM57"
+        },
+        {
+            "move": "Embargo",
+            "tm": "TM63"
+        },
+        {
+            "move": "Thunder Wave",
+            "tm": "TM73"
+        },
+        {
+            "move": "Psych Up",
+            "tm": "TM77"
+        },
+        {
+            "move": "Dream Eater",
+            "tm": "TM85"
+        },
+        {
+            "move": "Grass Knot",
+            "tm": "TM86"
+        },
+        {
+            "move": "Swagger",
+            "tm": "TM87"
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": "TM88"
+        },
+        {
+            "move": "Substitute",
+            "tm": "TM90"
+        },
+        {
+            "move": "Trick Room",
+            "tm": "TM92"
+        },
+        {
+            "move": "Dazzling Gleam",
+            "tm": "TM99"
+        },
+        {
+            "move": "Confide",
+            "tm": "TM100"
+        }
+    ]
+}

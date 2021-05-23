@@ -1,0 +1,340 @@
+{
+    "name": "Pancham",
+    "national_id": 674,
+    "types": [
+        "Fighting"
+    ],
+    "items": [
+        {
+            "name": "Mental Herb",
+            "chance": 5
+        }
+    ],
+    "abilities": [
+        {
+            "name": "Iron Fist"
+        },
+        {
+            "name": "Mold Breaker"
+        },
+        {
+            "name": "Scrappy",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 220,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Field",
+        "Human-Like"
+    ],
+    "hatch_time": [
+        6630,
+        6884
+    ],
+    "height_us": "2'00\"",
+    "height_eu": "0.6 m",
+    "weight_us": "17.6 lbs.",
+    "weight_eu": "8.0 kg",
+    "base_exp_yield": 70,
+    "leveling_rate": "Medium Fast",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 1,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 67,
+        "atk": 82,
+        "def": 62,
+        "sp_atk": 46,
+        "sp_def": 48,
+        "speed": 43
+    },
+    "evolution_from": null,
+    "evolutions": [
+        {
+            "to": "Pangoro",
+            "level": 32,
+            "conditions": [
+                "With a Dark type Pokémon in party"
+            ]
+        }
+    ],
+    "species": "Playful Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "Wanting to make sure it’s taken seriously, Pancham’s always giving others a glare. But if it’s not focusing, it ends up smiling.",
+    "move_learnset": [
+        {
+            "move": "Tackle",
+            "level": 1
+        },
+        {
+            "move": "Leer",
+            "level": 1
+        },
+        {
+            "move": "Arm Thrust",
+            "level": 4
+        },
+        {
+            "move": "Taunt",
+            "level": 8
+        },
+        {
+            "move": "Circle Throw",
+            "level": 12
+        },
+        {
+            "move": "Low Sweep",
+            "level": 16
+        },
+        {
+            "move": "Work Up",
+            "level": 20
+        },
+        {
+            "move": "Slash",
+            "level": 24
+        },
+        {
+            "move": "Vital Throw",
+            "level": 28
+        },
+        {
+            "move": "Crunch",
+            "level": 33
+        },
+        {
+            "move": "Body Slam",
+            "level": 36
+        },
+        {
+            "move": "Parting Shot",
+            "level": 40
+        },
+        {
+            "move": "Entrainment",
+            "level": 44
+        },
+        {
+            "move": "Mega Punch",
+            "tm": true
+        },
+        {
+            "move": "Mega Kick",
+            "tm": true
+        },
+        {
+            "move": "Fire Punch",
+            "tm": true
+        },
+        {
+            "move": "Ice Punch",
+            "tm": true
+        },
+        {
+            "move": "Thunder Punch",
+            "tm": true
+        },
+        {
+            "move": "Dig",
+            "tm": true
+        },
+        {
+            "move": "Rest",
+            "tm": true
+        },
+        {
+            "move": "Rock Slide",
+            "tm": true
+        },
+        {
+            "move": "Snore",
+            "tm": true
+        },
+        {
+            "move": "Protect",
+            "tm": true
+        },
+        {
+            "move": "Attract",
+            "tm": true
+        },
+        {
+            "move": "Rain Dance",
+            "tm": true
+        },
+        {
+            "move": "Sunny Day",
+            "tm": true
+        },
+        {
+            "move": "Facade",
+            "tm": true
+        },
+        {
+            "move": "Helping Hand",
+            "tm": true
+        },
+        {
+            "move": "Brick Break",
+            "tm": true
+        },
+        {
+            "move": "Rock Tomb",
+            "tm": true
+        },
+        {
+            "move": "Payback",
+            "tm": true
+        },
+        {
+            "move": "Fling",
+            "tm": true
+        },
+        {
+            "move": "Drain Punch",
+            "tm": true
+        },
+        {
+            "move": "Shadow Claw",
+            "tm": true
+        },
+        {
+            "move": "Low Sweep",
+            "tm": true
+        },
+        {
+            "move": "Round",
+            "tm": true
+        },
+        {
+            "move": "Retaliate",
+            "tm": true
+        },
+        {
+            "move": "Bulldoze",
+            "tm": true
+        },
+        {
+            "move": "False Swipe",
+            "tm": true
+        },
+        {
+            "move": "Swords Dance",
+            "tm": true
+        },
+        {
+            "move": "Body Slam",
+            "tm": true
+        },
+        {
+            "move": "Surf",
+            "tm": true
+        },
+        {
+            "move": "Low Kick",
+            "tm": true
+        },
+        {
+            "move": "Substitute",
+            "tm": true
+        },
+        {
+            "move": "Sludge Bomb",
+            "tm": true
+        },
+        {
+            "move": "Endure",
+            "tm": true
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": true
+        },
+        {
+            "move": "Crunch",
+            "tm": true
+        },
+        {
+            "move": "Uproar",
+            "tm": true
+        },
+        {
+            "move": "Taunt",
+            "tm": true
+        },
+        {
+            "move": "Superpower",
+            "tm": true
+        },
+        {
+            "move": "Hyper Voice",
+            "tm": true
+        },
+        {
+            "move": "Bulk Up",
+            "tm": true
+        },
+        {
+            "move": "Dark Pulse",
+            "tm": true
+        },
+        {
+            "move": "Zen Headbutt",
+            "tm": true
+        },
+        {
+            "move": "Gunk Shot",
+            "tm": true
+        },
+        {
+            "move": "Iron Head",
+            "tm": true
+        },
+        {
+            "move": "Stone Edge",
+            "tm": true
+        },
+        {
+            "move": "Grass Knot",
+            "tm": true
+        },
+        {
+            "move": "Foul Play",
+            "tm": true
+        },
+        {
+            "move": "Work Up",
+            "tm": true
+        },
+        {
+            "move": "Quash",
+            "egg_move": true
+        },
+        {
+            "move": "Quick Guard",
+            "egg_move": true
+        },
+        {
+            "move": "Storm Throw",
+            "egg_move": true
+        },
+        {
+            "move": "Power Trip",
+            "egg_move": true
+        },
+        {
+            "move": "Seismic Toss",
+            "egg_move": true
+        }
+    ]
+}

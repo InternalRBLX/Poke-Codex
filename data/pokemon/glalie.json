@@ -1,0 +1,304 @@
+{
+    "name": "Glalie",
+    "national_id": 362,
+    "types": [
+        "Ice"
+    ],
+    "items": [
+        {
+            "name": "Babiri Berry",
+            "chance": 5
+        }
+    ],
+    "abilities": [
+        {
+            "name": "Inner Focus"
+        },
+        {
+            "name": "Ice Body"
+        },
+        {
+            "name": "Moody",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 75,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Fairy",
+        "Mineral"
+    ],
+    "hatch_time": [
+        5355,
+        5609
+    ],
+    "height_us": "4'11\"",
+    "height_eu": "1.5 m",
+    "weight_us": "565.5 lbs.",
+    "weight_eu": "256.5 kg",
+    "base_exp_yield": 168,
+    "leveling_rate": "Medium Fast",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 2,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 80,
+        "atk": 80,
+        "def": 80,
+        "sp_atk": 80,
+        "sp_def": 80,
+        "speed": 80
+    },
+    "evolution_from": "Snorunt",
+    "evolutions": [],
+    "species": "Face Pokémon",
+    "mega_evolves": true,
+    "pokedex_entry": "It can instantly freeze moisture in the atmosphere. It uses this power to freeze its foes.",
+    "move_learnset": [
+        {
+            "move": "Freeze-Dry",
+            "evo": true
+        },
+        {
+            "move": "Freeze-Dry",
+            "level": 1
+        },
+        {
+            "move": "Sheer Cold",
+            "level": 1
+        },
+        {
+            "move": "Powder Snow",
+            "level": 1
+        },
+        {
+            "move": "Astonish",
+            "level": 1
+        },
+        {
+            "move": "Leer",
+            "level": 1
+        },
+        {
+            "move": "Double Team",
+            "level": 1
+        },
+        {
+            "move": "Ice Shard",
+            "level": 15
+        },
+        {
+            "move": "Protect",
+            "level": 20
+        },
+        {
+            "move": "Icy Wind",
+            "level": 25
+        },
+        {
+            "move": "Frost Breath",
+            "level": 30
+        },
+        {
+            "move": "Bite",
+            "level": 35
+        },
+        {
+            "move": "Ice Fang",
+            "level": 40
+        },
+        {
+            "move": "Hail",
+            "level": 47
+        },
+        {
+            "move": "Headbutt",
+            "level": 54
+        },
+        {
+            "move": "Crunch",
+            "level": 61
+        },
+        {
+            "move": "Blizzard",
+            "level": 68
+        },
+        {
+            "move": "Hyper Beam",
+            "tm": true
+        },
+        {
+            "move": "Giga Impact",
+            "tm": true
+        },
+        {
+            "move": "Light Screen",
+            "tm": true
+        },
+        {
+            "move": "Safeguard",
+            "tm": true
+        },
+        {
+            "move": "Self-Destruct",
+            "tm": true
+        },
+        {
+            "move": "Rest",
+            "tm": true
+        },
+        {
+            "move": "Snore",
+            "tm": true
+        },
+        {
+            "move": "Protect",
+            "tm": true
+        },
+        {
+            "move": "Scary Face",
+            "tm": true
+        },
+        {
+            "move": "Icy Wind",
+            "tm": true
+        },
+        {
+            "move": "Attract",
+            "tm": true
+        },
+        {
+            "move": "Rain Dance",
+            "tm": true
+        },
+        {
+            "move": "Hail",
+            "tm": true
+        },
+        {
+            "move": "Facade",
+            "tm": true
+        },
+        {
+            "move": "Weather Ball",
+            "tm": true
+        },
+        {
+            "move": "Fake Tears",
+            "tm": true
+        },
+        {
+            "move": "Icicle Spear",
+            "tm": true
+        },
+        {
+            "move": "Payback",
+            "tm": true
+        },
+        {
+            "move": "Avalanche",
+            "tm": true
+        },
+        {
+            "move": "Ice Fang",
+            "tm": true
+        },
+        {
+            "move": "Round",
+            "tm": true
+        },
+        {
+            "move": "Hex",
+            "tm": true
+        },
+        {
+            "move": "Bulldoze",
+            "tm": true
+        },
+        {
+            "move": "Body Slam",
+            "tm": true
+        },
+        {
+            "move": "Ice Beam",
+            "tm": true
+        },
+        {
+            "move": "Blizzard",
+            "tm": true
+        },
+        {
+            "move": "Earthquake",
+            "tm": true
+        },
+        {
+            "move": "Substitute",
+            "tm": true
+        },
+        {
+            "move": "Spikes",
+            "tm": true
+        },
+        {
+            "move": "Endure",
+            "tm": true
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": true
+        },
+        {
+            "move": "Crunch",
+            "tm": true
+        },
+        {
+            "move": "Shadow Ball",
+            "tm": true
+        },
+        {
+            "move": "Taunt",
+            "tm": true
+        },
+        {
+            "move": "Gyro Ball",
+            "tm": true
+        },
+        {
+            "move": "Dark Pulse",
+            "tm": true
+        },
+        {
+            "move": "Iron Head",
+            "tm": true
+        },
+        {
+            "move": "Block",
+            "egg_move": true
+        },
+        {
+            "move": "Disable",
+            "egg_move": true
+        },
+        {
+            "move": "Switcheroo",
+            "egg_move": true
+        },
+        {
+            "move": "Rollout",
+            "egg_move": true
+        },
+        {
+            "move": "Icicle Crash",
+            "egg_move": true
+        }
+    ]
+}

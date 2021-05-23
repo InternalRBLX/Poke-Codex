@@ -1,0 +1,321 @@
+{
+    "name": "Seviper",
+    "national_id": 336,
+    "types": [
+        "Poison"
+    ],
+    "items": [
+        {
+            "name": "Shed Shell",
+            "chance": 5
+        }
+    ],
+    "abilities": [
+        {
+            "name": "Shed Skin"
+        },
+        {
+            "name": "Infiltrator",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 90,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Field",
+        "Dragon"
+    ],
+    "hatch_time": [
+        5355,
+        5609
+    ],
+    "height_us": "8'10\"",
+    "height_eu": "2.7 m",
+    "weight_us": "115.7 lbs.",
+    "weight_eu": "52.5 kg",
+    "base_exp_yield": 160,
+    "leveling_rate": "Fluctuating",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 1,
+        "def": 0,
+        "sp_atk": 1,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 73,
+        "atk": 100,
+        "def": 60,
+        "sp_atk": 100,
+        "sp_def": 60,
+        "speed": 65
+    },
+    "evolution_from": null,
+    "evolutions": [],
+    "species": "Fang Snake Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "Seviper's swordlike tail serves two purposes—it slashes foes and douses them with secreted poison. This Pokémon will not give up its long-running blood feud with Zangoose.",
+    "move_learnset": [
+        {
+            "move": "Swagger",
+            "level": 1
+        },
+        {
+            "move": "Wrap",
+            "level": 1
+        },
+        {
+            "move": "Bite",
+            "level": 4
+        },
+        {
+            "move": "Lick",
+            "level": 6
+        },
+        {
+            "move": "Poison Tail",
+            "level": 9
+        },
+        {
+            "move": "Feint",
+            "level": 11
+        },
+        {
+            "move": "Screech",
+            "level": 14
+        },
+        {
+            "move": "Venoshock",
+            "level": 16
+        },
+        {
+            "move": "Glare",
+            "level": 19
+        },
+        {
+            "move": "Poison Fang",
+            "level": 21
+        },
+        {
+            "move": "Venom Drench",
+            "level": 24
+        },
+        {
+            "move": "Night Slash",
+            "level": 26
+        },
+        {
+            "move": "Gastro Acid",
+            "level": 29
+        },
+        {
+            "move": "Poison Jab",
+            "level": 31
+        },
+        {
+            "move": "Haze",
+            "level": 34
+        },
+        {
+            "move": "Swords Dance",
+            "level": 36
+        },
+        {
+            "move": "Crunch",
+            "level": 39
+        },
+        {
+            "move": "Belch",
+            "level": 41
+        },
+        {
+            "move": "Coil",
+            "level": 44
+        },
+        {
+            "move": "Wring Out",
+            "level": 46
+        },
+        {
+            "move": "Assurance",
+            "egg_move": true
+        },
+        {
+            "move": "Body Slam",
+            "egg_move": true
+        },
+        {
+            "move": "Final Gambit",
+            "egg_move": true
+        },
+        {
+            "move": "Iron Tail",
+            "egg_move": true
+        },
+        {
+            "move": "Night Slash",
+            "egg_move": true
+        },
+        {
+            "move": "Punishment",
+            "egg_move": true
+        },
+        {
+            "move": "Scary Face",
+            "egg_move": true
+        },
+        {
+            "move": "Spit Up",
+            "egg_move": true
+        },
+        {
+            "move": "Stockpile",
+            "egg_move": true
+        },
+        {
+            "move": "Swallow",
+            "egg_move": true
+        },
+        {
+            "move": "Switcheroo",
+            "egg_move": true
+        },
+        {
+            "move": "Wring Out",
+            "egg_move": true
+        },
+        {
+            "move": "Toxic",
+            "tm": "TM6"
+        },
+        {
+            "move": "Venoshock",
+            "tm": "TM9"
+        },
+        {
+            "move": "Hidden Power",
+            "tm": "TM10"
+        },
+        {
+            "move": "Sunny Day",
+            "tm": "TM11"
+        },
+        {
+            "move": "Taunt",
+            "tm": "TM12"
+        },
+        {
+            "move": "Protect",
+            "tm": "TM17"
+        },
+        {
+            "move": "Rain Dance",
+            "tm": "TM18"
+        },
+        {
+            "move": "Frustration",
+            "tm": "TM21"
+        },
+        {
+            "move": "Earthquake",
+            "tm": "TM26"
+        },
+        {
+            "move": "Return",
+            "tm": "TM27"
+        },
+        {
+            "move": "Double Team",
+            "tm": "TM32"
+        },
+        {
+            "move": "Sludge Wave",
+            "tm": "TM34"
+        },
+        {
+            "move": "Flamethrower",
+            "tm": "TM35"
+        },
+        {
+            "move": "Sludge Bomb",
+            "tm": "TM36"
+        },
+        {
+            "move": "Facade",
+            "tm": "TM42"
+        },
+        {
+            "move": "Rest",
+            "tm": "TM44"
+        },
+        {
+            "move": "Attract",
+            "tm": "TM45"
+        },
+        {
+            "move": "Thief",
+            "tm": "TM46"
+        },
+        {
+            "move": "Round",
+            "tm": "TM48"
+        },
+        {
+            "move": "Brutal Swing",
+            "tm": "TM59"
+        },
+        {
+            "move": "Payback",
+            "tm": "TM66"
+        },
+        {
+            "move": "Swords Dance",
+            "tm": "TM75"
+        },
+        {
+            "move": "Bulldoze",
+            "tm": "TM78"
+        },
+        {
+            "move": "X-Scissor",
+            "tm": "TM81"
+        },
+        {
+            "move": "Dragon Tail",
+            "tm": "TM82"
+        },
+        {
+            "move": "Infestation",
+            "tm": "TM83"
+        },
+        {
+            "move": "Poison Jab",
+            "tm": "TM84"
+        },
+        {
+            "move": "Swagger",
+            "tm": "TM87"
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": "TM88"
+        },
+        {
+            "move": "Substitute",
+            "tm": "TM90"
+        },
+        {
+            "move": "Dark Pulse",
+            "tm": "TM97"
+        },
+        {
+            "move": "Confide",
+            "tm": "TM100"
+        }
+    ]
+}

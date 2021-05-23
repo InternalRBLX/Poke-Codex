@@ -1,0 +1,284 @@
+{
+    "name": "Minccino",
+    "national_id": 572,
+    "types": [
+        "Normal"
+    ],
+    "items": [
+        {
+            "name": "Chesto Berry",
+            "chance": 50
+        }
+    ],
+    "abilities": [
+        {
+            "name": "Cute Charm"
+        },
+        {
+            "name": "Technician"
+        },
+        {
+            "name": "Skill Link",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 255,
+    "gender_ratios": {
+        "male": 25,
+        "female": 75
+    },
+    "egg_groups": [
+        "Field"
+    ],
+    "hatch_time": [
+        4080,
+        4334
+    ],
+    "height_us": "1'04\"",
+    "height_eu": "0.4 m",
+    "weight_us": "12.8 lbs.",
+    "weight_eu": "5.8 kg",
+    "base_exp_yield": 60,
+    "leveling_rate": "Fast",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 1
+    },
+    "base_stats": {
+        "hp": 55,
+        "atk": 50,
+        "def": 40,
+        "sp_atk": 40,
+        "sp_def": 40,
+        "speed": 75
+    },
+    "evolution_from": null,
+    "evolutions": [
+        {
+            "to": "Cinccino",
+            "item": "Shiny Stone"
+        }
+    ],
+    "species": "Chinchilla Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "They pet each other with their tails as a form of greeting. Of the two, the one whose tail is fluffier is a bit more boastful.",
+    "move_learnset": [
+        {
+            "move": "Pound",
+            "level": 1
+        },
+        {
+            "move": "Baby-Doll Eyes",
+            "level": 1
+        },
+        {
+            "move": "Helping Hand",
+            "level": 4
+        },
+        {
+            "move": "Echoed Voice",
+            "level": 8
+        },
+        {
+            "move": "Sing",
+            "level": 12
+        },
+        {
+            "move": "Charm",
+            "level": 16
+        },
+        {
+            "move": "Swift",
+            "level": 20
+        },
+        {
+            "move": "Encore",
+            "level": 24
+        },
+        {
+            "move": "After You",
+            "level": 28
+        },
+        {
+            "move": "Tail Slap",
+            "level": 32
+        },
+        {
+            "move": "Tickle",
+            "level": 36
+        },
+        {
+            "move": "Slam",
+            "level": 40
+        },
+        {
+            "move": "Hyper Voice",
+            "level": 44
+        },
+        {
+            "move": "Last Resort",
+            "level": 48
+        },
+        {
+            "move": "Thunder Wave",
+            "tm": true
+        },
+        {
+            "move": "Dig",
+            "tm": true
+        },
+        {
+            "move": "Safeguard",
+            "tm": true
+        },
+        {
+            "move": "Rest",
+            "tm": true
+        },
+        {
+            "move": "Thief",
+            "tm": true
+        },
+        {
+            "move": "Snore",
+            "tm": true
+        },
+        {
+            "move": "Protect",
+            "tm": true
+        },
+        {
+            "move": "Charm",
+            "tm": true
+        },
+        {
+            "move": "Attract",
+            "tm": true
+        },
+        {
+            "move": "Rain Dance",
+            "tm": true
+        },
+        {
+            "move": "Sunny Day",
+            "tm": true
+        },
+        {
+            "move": "Facade",
+            "tm": true
+        },
+        {
+            "move": "Swift",
+            "tm": true
+        },
+        {
+            "move": "Helping Hand",
+            "tm": true
+        },
+        {
+            "move": "Fake Tears",
+            "tm": true
+        },
+        {
+            "move": "U-turn",
+            "tm": true
+        },
+        {
+            "move": "Fling",
+            "tm": true
+        },
+        {
+            "move": "Round",
+            "tm": true
+        },
+        {
+            "move": "Retaliate",
+            "tm": true
+        },
+        {
+            "move": "Tail Slap",
+            "tm": true
+        },
+        {
+            "move": "Thunderbolt",
+            "tm": true
+        },
+        {
+            "move": "Substitute",
+            "tm": true
+        },
+        {
+            "move": "Endure",
+            "tm": true
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": true
+        },
+        {
+            "move": "Encore",
+            "tm": true
+        },
+        {
+            "move": "Iron Tail",
+            "tm": true
+        },
+        {
+            "move": "Uproar",
+            "tm": true
+        },
+        {
+            "move": "Hyper Voice",
+            "tm": true
+        },
+        {
+            "move": "Calm Mind",
+            "tm": true
+        },
+        {
+            "move": "Seed Bomb",
+            "tm": true
+        },
+        {
+            "move": "Gunk Shot",
+            "tm": true
+        },
+        {
+            "move": "Grass Knot",
+            "tm": true
+        },
+        {
+            "move": "Work Up",
+            "tm": true
+        },
+        {
+            "move": "Play Rough",
+            "tm": true
+        },
+        {
+            "move": "Dazzling Gleam",
+            "tm": true
+        },
+        {
+            "move": "Tail Whip",
+            "egg_move": true
+        },
+        {
+            "move": "Aqua Tail",
+            "egg_move": true
+        },
+        {
+            "move": "Knock Off",
+            "egg_move": true
+        },
+        {
+            "move": "Flail",
+            "egg_move": true
+        }
+    ]
+}

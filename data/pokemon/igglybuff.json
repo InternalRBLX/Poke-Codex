@@ -1,0 +1,277 @@
+{
+    "name": "Igglybuff",
+    "national_id": 174,
+    "types": [
+        "Normal",
+        "Fairy"
+    ],
+    "items": [
+        {
+            "name": "Oran Berry",
+            "chance": 50
+        }
+    ],
+    "abilities": [
+        {
+            "name": "Cute Charm"
+        },
+        {
+            "name": "Competitive"
+        },
+        {
+            "name": "Friend Guard",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 170,
+    "gender_ratios": {
+        "male": 25,
+        "female": 75
+    },
+    "egg_groups": [
+        "Undiscovered"
+    ],
+    "hatch_time": [
+        5355,
+        5609
+    ],
+    "height_us": "1'00\"",
+    "height_eu": "0.3 m",
+    "weight_us": "2.2 lbs.",
+    "weight_eu": "1.0 kg",
+    "base_exp_yield": 42,
+    "leveling_rate": "Fast",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 1,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 90,
+        "atk": 30,
+        "def": 15,
+        "sp_atk": 40,
+        "sp_def": 20,
+        "speed": 15
+    },
+    "evolution_from": null,
+    "evolutions": [
+        {
+            "to": "Jigglypuff",
+            "happiness": true
+        }
+    ],
+    "species": "Balloon Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "Igglybuff has a soft and plushy body that feels very much like a marshmallow. From this body wafts a gently sweet fragrance that soothes and calms the emotions of its foes.",
+    "move_learnset": [
+        {
+            "move": "Charm",
+            "level": 1
+        },
+        {
+            "move": "Sing",
+            "level": 1
+        },
+        {
+            "move": "Defense Curl",
+            "level": 3
+        },
+        {
+            "move": "Pound",
+            "level": 5
+        },
+        {
+            "move": "Sweet Kiss",
+            "level": 9
+        },
+        {
+            "move": "Copycat",
+            "level": 11
+        },
+        {
+            "move": "Captivate",
+            "egg_move": true
+        },
+        {
+            "move": "Covet",
+            "egg_move": true
+        },
+        {
+            "move": "Fake Tears",
+            "egg_move": true
+        },
+        {
+            "move": "Feint Attack",
+            "egg_move": true
+        },
+        {
+            "move": "Gravity",
+            "egg_move": true
+        },
+        {
+            "move": "Heal Pulse",
+            "egg_move": true
+        },
+        {
+            "move": "Last Resort",
+            "egg_move": true
+        },
+        {
+            "move": "Misty Terrain",
+            "egg_move": true
+        },
+        {
+            "move": "Perish Song",
+            "egg_move": true
+        },
+        {
+            "move": "Present",
+            "egg_move": true
+        },
+        {
+            "move": "Punishment",
+            "egg_move": true
+        },
+        {
+            "move": "Sleep Talk",
+            "egg_move": true
+        },
+        {
+            "move": "Wish",
+            "egg_move": true
+        },
+        {
+            "move": "Work Up",
+            "tm": "TM1"
+        },
+        {
+            "move": "Toxic",
+            "tm": "TM6"
+        },
+        {
+            "move": "Hidden Power",
+            "tm": "TM10"
+        },
+        {
+            "move": "Sunny Day",
+            "tm": "TM11"
+        },
+        {
+            "move": "Light Screen",
+            "tm": "TM16"
+        },
+        {
+            "move": "Protect",
+            "tm": "TM17"
+        },
+        {
+            "move": "Rain Dance",
+            "tm": "TM18"
+        },
+        {
+            "move": "Safeguard",
+            "tm": "TM20"
+        },
+        {
+            "move": "Frustration",
+            "tm": "TM21"
+        },
+        {
+            "move": "Solar Beam",
+            "tm": "TM22"
+        },
+        {
+            "move": "Return",
+            "tm": "TM27"
+        },
+        {
+            "move": "Psychic",
+            "tm": "TM29"
+        },
+        {
+            "move": "Shadow Ball",
+            "tm": "TM30"
+        },
+        {
+            "move": "Double Team",
+            "tm": "TM32"
+        },
+        {
+            "move": "Reflect",
+            "tm": "TM33"
+        },
+        {
+            "move": "Flamethrower",
+            "tm": "TM35"
+        },
+        {
+            "move": "Fire Blast",
+            "tm": "TM38"
+        },
+        {
+            "move": "Facade",
+            "tm": "TM42"
+        },
+        {
+            "move": "Rest",
+            "tm": "TM44"
+        },
+        {
+            "move": "Attract",
+            "tm": "TM45"
+        },
+        {
+            "move": "Round",
+            "tm": "TM48"
+        },
+        {
+            "move": "Echoed Voice",
+            "tm": "TM49"
+        },
+        {
+            "move": "Fling",
+            "tm": "TM56"
+        },
+        {
+            "move": "Thunder Wave",
+            "tm": "TM73"
+        },
+        {
+            "move": "Psych Up",
+            "tm": "TM77"
+        },
+        {
+            "move": "Dream Eater",
+            "tm": "TM85"
+        },
+        {
+            "move": "Grass Knot",
+            "tm": "TM86"
+        },
+        {
+            "move": "Swagger",
+            "tm": "TM87"
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": "TM88"
+        },
+        {
+            "move": "Substitute",
+            "tm": "TM90"
+        },
+        {
+            "move": "Wild Charge",
+            "tm": "TM93"
+        },
+        {
+            "move": "Confide",
+            "tm": "TM100"
+        }
+    ]
+}

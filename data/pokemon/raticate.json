@@ -1,0 +1,443 @@
+{
+    "name": "Raticate",
+    "national_id": 20,
+    "types": [
+        "Normal"
+    ],
+    "items": [
+        {
+            "name": "Chilan Berry",
+            "chance": 5
+        }
+    ],
+    "abilities": [
+        {
+            "name": "Run Away"
+        },
+        {
+            "name": "Guts"
+        },
+        {
+            "name": "Hustle",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 127,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Field"
+    ],
+    "hatch_time": [
+        4080,
+        4334
+    ],
+    "height_us": "2'04\"",
+    "height_eu": "0.7 m",
+    "weight_us": "40.8 lbs.",
+    "weight_eu": "18.5 kg",
+    "base_exp_yield": 145,
+    "leveling_rate": "Medium Fast",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 2
+    },
+    "base_stats": {
+        "hp": 55,
+        "atk": 81,
+        "def": 60,
+        "sp_atk": 50,
+        "sp_def": 70,
+        "speed": 97
+    },
+    "evolution_from": "Rattata",
+    "evolutions": [],
+    "species": "Mouse Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "Raticate’s sturdy fangs grow steadily. To keep them ground down, it gnaws on rocks and logs. It may even chew on the walls of houses.",
+    "move_learnset": [
+        {
+            "move": "Focus Energy",
+            "level": 1
+        },
+        {
+            "move": "Quick Attack",
+            "level": 1
+        },
+        {
+            "move": "Scary Face",
+            "level": 1
+        },
+        {
+            "move": "Swords Dance",
+            "level": 1
+        },
+        {
+            "move": "Tackle",
+            "level": 1
+        },
+        {
+            "move": "Tail Whip",
+            "level": 1
+        },
+        {
+            "move": "Quick Attack",
+            "level": 4
+        },
+        {
+            "move": "Focus Energy",
+            "level": 7
+        },
+        {
+            "move": "Bite",
+            "level": 10
+        },
+        {
+            "move": "Pursuit",
+            "level": 13
+        },
+        {
+            "move": "Hyper Fang",
+            "level": 16
+        },
+        {
+            "move": "Assurance",
+            "level": 19
+        },
+        {
+            "move": "Crunch",
+            "level": 24
+        },
+        {
+            "move": "Sucker Punch",
+            "level": 29
+        },
+        {
+            "move": "Super Fang",
+            "level": 34
+        },
+        {
+            "move": "Double-Edge",
+            "level": 39
+        },
+        {
+            "move": "Endeavor",
+            "level": 44
+        },
+        {
+            "move": "Bite",
+            "egg_move": true,
+            "variations": [
+                "Raticate"
+            ]
+        },
+        {
+            "move": "Counter",
+            "egg_move": true,
+            "variations": [
+                "Raticate"
+            ]
+        },
+        {
+            "move": "Final Gambit",
+            "egg_move": true,
+            "variations": [
+                "Raticate"
+            ]
+        },
+        {
+            "move": "Flame Wheel",
+            "egg_move": true,
+            "variations": [
+                "Raticate"
+            ]
+        },
+        {
+            "move": "Fury Swipes",
+            "egg_move": true,
+            "variations": [
+                "Raticate"
+            ]
+        },
+        {
+            "move": "Last Resort",
+            "egg_move": true,
+            "variations": [
+                "Raticate"
+            ]
+        },
+        {
+            "move": "Me First",
+            "egg_move": true,
+            "variations": [
+                "Raticate"
+            ]
+        },
+        {
+            "move": "Revenge",
+            "egg_move": true,
+            "variations": [
+                "Raticate"
+            ]
+        },
+        {
+            "move": "Reversal",
+            "egg_move": true,
+            "variations": [
+                "Raticate"
+            ]
+        },
+        {
+            "move": "Screech",
+            "egg_move": true,
+            "variations": [
+                "Raticate"
+            ]
+        },
+        {
+            "move": "Uproar",
+            "egg_move": true,
+            "variations": [
+                "Raticate"
+            ]
+        },
+        {
+            "move": "Work Up",
+            "tm": "TM1",
+            "variations": [
+                "Raticate"
+            ]
+        },
+        {
+            "move": "Roar",
+            "tm": "TM5",
+            "variations": [
+                "Raticate"
+            ]
+        },
+        {
+            "move": "Toxic",
+            "tm": "TM6",
+            "variations": [
+                "Raticate"
+            ]
+        },
+        {
+            "move": "Hidden Power",
+            "tm": "TM10",
+            "variations": [
+                "Raticate"
+            ]
+        },
+        {
+            "move": "Sunny Day",
+            "tm": "TM11",
+            "variations": [
+                "Raticate"
+            ]
+        },
+        {
+            "move": "Taunt",
+            "tm": "TM12",
+            "variations": [
+                "Raticate"
+            ]
+        },
+        {
+            "move": "Ice Beam",
+            "tm": "TM13",
+            "variations": [
+                "Raticate"
+            ]
+        },
+        {
+            "move": "Blizzard",
+            "tm": "TM14",
+            "variations": [
+                "Raticate"
+            ]
+        },
+        {
+            "move": "Hyper Beam",
+            "tm": "TM15",
+            "variations": [
+                "Raticate"
+            ]
+        },
+        {
+            "move": "Protect",
+            "tm": "TM17",
+            "variations": [
+                "Raticate"
+            ]
+        },
+        {
+            "move": "Rain Dance",
+            "tm": "TM18",
+            "variations": [
+                "Raticate"
+            ]
+        },
+        {
+            "move": "Frustration",
+            "tm": "TM21",
+            "variations": [
+                "Raticate"
+            ]
+        },
+        {
+            "move": "Thunderbolt",
+            "tm": "TM24",
+            "variations": [
+                "Raticate"
+            ]
+        },
+        {
+            "move": "Thunder",
+            "tm": "TM25",
+            "variations": [
+                "Raticate"
+            ]
+        },
+        {
+            "move": "Return",
+            "tm": "TM27",
+            "variations": [
+                "Raticate"
+            ]
+        },
+        {
+            "move": "Shadow Ball",
+            "tm": "TM30",
+            "variations": [
+                "Raticate"
+            ]
+        },
+        {
+            "move": "Double Team",
+            "tm": "TM32",
+            "variations": [
+                "Raticate"
+            ]
+        },
+        {
+            "move": "Facade",
+            "tm": "TM42",
+            "variations": [
+                "Raticate"
+            ]
+        },
+        {
+            "move": "Rest",
+            "tm": "TM44",
+            "variations": [
+                "Raticate"
+            ]
+        },
+        {
+            "move": "Attract",
+            "tm": "TM45",
+            "variations": [
+                "Raticate"
+            ]
+        },
+        {
+            "move": "Thief",
+            "tm": "TM46",
+            "variations": [
+                "Raticate"
+            ]
+        },
+        {
+            "move": "Round",
+            "tm": "TM48",
+            "variations": [
+                "Raticate"
+            ]
+        },
+        {
+            "move": "Charge Beam",
+            "tm": "TM57",
+            "variations": [
+                "Raticate"
+            ]
+        },
+        {
+            "move": "Giga Impact",
+            "tm": "TM68",
+            "variations": [
+                "Raticate"
+            ]
+        },
+        {
+            "move": "Thunder Wave",
+            "tm": "TM73",
+            "variations": [
+                "Raticate"
+            ]
+        },
+        {
+            "move": "Swords Dance",
+            "tm": "TM75",
+            "variations": [
+                "Raticate"
+            ]
+        },
+        {
+            "move": "Grass Knot",
+            "tm": "TM86",
+            "variations": [
+                "Raticate"
+            ]
+        },
+        {
+            "move": "Swagger",
+            "tm": "TM87",
+            "variations": [
+                "Raticate"
+            ]
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": "TM88",
+            "variations": [
+                "Raticate"
+            ]
+        },
+        {
+            "move": "U-turn",
+            "tm": "TM89",
+            "variations": [
+                "Raticate"
+            ]
+        },
+        {
+            "move": "Substitute",
+            "tm": "TM90",
+            "variations": [
+                "Raticate"
+            ]
+        },
+        {
+            "move": "Wild Charge",
+            "tm": "TM93",
+            "variations": [
+                "Raticate"
+            ]
+        },
+        {
+            "move": "Confide",
+            "tm": "TM100",
+            "variations": [
+                "Raticate"
+            ]
+        }
+    ]
+}

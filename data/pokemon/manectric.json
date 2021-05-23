@@ -1,0 +1,285 @@
+{
+    "name": "Manectric",
+    "national_id": 310,
+    "types": [
+        "Electric"
+    ],
+    "abilities": [
+        {
+            "name": "Static"
+        },
+        {
+            "name": "Lightning Rod"
+        },
+        {
+            "name": "Minus",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 45,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Field"
+    ],
+    "hatch_time": [
+        5355,
+        5609
+    ],
+    "height_us": "4'11\"",
+    "height_eu": "1.5 m",
+    "weight_us": "88.6 lbs.",
+    "weight_eu": "40.2 kg",
+    "base_exp_yield": 166,
+    "leveling_rate": "Slow",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 2
+    },
+    "base_stats": {
+        "hp": 70,
+        "atk": 75,
+        "def": 60,
+        "sp_atk": 105,
+        "sp_def": 60,
+        "speed": 105
+    },
+    "evolution_from": "Electrike",
+    "evolutions": [],
+    "species": "Discharge Pokémon",
+    "mega_evolves": true,
+    "pokedex_entry": "It rarely appears before people. It is said to nest where lightning has fallen.",
+    "move_learnset": [
+        {
+            "move": "Fire Fang",
+            "level": 1
+        },
+        {
+            "move": "Tackle",
+            "level": 1
+        },
+        {
+            "move": "Thunder Wave",
+            "level": 1
+        },
+        {
+            "move": "Leer",
+            "level": 1
+        },
+        {
+            "move": "Howl",
+            "level": 1
+        },
+        {
+            "move": "Quick Attack",
+            "level": 12
+        },
+        {
+            "move": "Shock Wave",
+            "level": 16
+        },
+        {
+            "move": "Bite",
+            "level": 20
+        },
+        {
+            "move": "Thunder Fang",
+            "level": 24
+        },
+        {
+            "move": "Roar",
+            "level": 30
+        },
+        {
+            "move": "Discharge",
+            "level": 36
+        },
+        {
+            "move": "Charge",
+            "level": 42
+        },
+        {
+            "move": "Wild Charge",
+            "level": 48
+        },
+        {
+            "move": "Thunder",
+            "level": 54
+        },
+        {
+            "move": "Electric Terrain",
+            "level": 60
+        },
+        {
+            "move": "Hyper Beam",
+            "tm": true
+        },
+        {
+            "move": "Giga Impact",
+            "tm": true
+        },
+        {
+            "move": "Thunder Wave",
+            "tm": true
+        },
+        {
+            "move": "Light Screen",
+            "tm": true
+        },
+        {
+            "move": "Rest",
+            "tm": true
+        },
+        {
+            "move": "Thief",
+            "tm": true
+        },
+        {
+            "move": "Snore",
+            "tm": true
+        },
+        {
+            "move": "Protect",
+            "tm": true
+        },
+        {
+            "move": "Scary Face",
+            "tm": true
+        },
+        {
+            "move": "Attract",
+            "tm": true
+        },
+        {
+            "move": "Rain Dance",
+            "tm": true
+        },
+        {
+            "move": "Facade",
+            "tm": true
+        },
+        {
+            "move": "Swift",
+            "tm": true
+        },
+        {
+            "move": "Thunder Fang",
+            "tm": true
+        },
+        {
+            "move": "Ice Fang",
+            "tm": true
+        },
+        {
+            "move": "Fire Fang",
+            "tm": true
+        },
+        {
+            "move": "Round",
+            "tm": true
+        },
+        {
+            "move": "Volt Switch",
+            "tm": true
+        },
+        {
+            "move": "Snarl",
+            "tm": true
+        },
+        {
+            "move": "Electric Terrain",
+            "tm": true
+        },
+        {
+            "move": "Eerie Impulse",
+            "tm": true
+        },
+        {
+            "move": "Body Slam",
+            "tm": true
+        },
+        {
+            "move": "Flamethrower",
+            "tm": true
+        },
+        {
+            "move": "Thunderbolt",
+            "tm": true
+        },
+        {
+            "move": "Thunder",
+            "tm": true
+        },
+        {
+            "move": "Agility",
+            "tm": true
+        },
+        {
+            "move": "Substitute",
+            "tm": true
+        },
+        {
+            "move": "Endure",
+            "tm": true
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": true
+        },
+        {
+            "move": "Iron Tail",
+            "tm": true
+        },
+        {
+            "move": "Crunch",
+            "tm": true
+        },
+        {
+            "move": "Uproar",
+            "tm": true
+        },
+        {
+            "move": "Hyper Voice",
+            "tm": true
+        },
+        {
+            "move": "Overheat",
+            "tm": true
+        },
+        {
+            "move": "Electro Ball",
+            "tm": true
+        },
+        {
+            "move": "Wild Charge",
+            "tm": true
+        },
+        {
+            "move": "Psychic Fangs",
+            "tm": true
+        },
+        {
+            "move": "Headbutt",
+            "egg_move": true
+        },
+        {
+            "move": "Curse",
+            "egg_move": true
+        },
+        {
+            "move": "Switcheroo",
+            "egg_move": true
+        },
+        {
+            "move": "Spark",
+            "egg_move": true
+        }
+    ]
+}

@@ -1,0 +1,479 @@
+{
+    "name": "Graveler",
+    "national_id": 75,
+    "types": [
+        "Rock",
+        "Ground"
+    ],
+    "items": [
+        {
+            "name": "Everstone",
+            "chance": 5
+        }
+    ],
+    "abilities": [
+        {
+            "name": "Rock Head"
+        },
+        {
+            "name": "Sturdy"
+        },
+        {
+            "name": "Sand Veil",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 120,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Mineral"
+    ],
+    "hatch_time": [
+        4080,
+        4334
+    ],
+    "height_us": "3'03\"",
+    "height_eu": "1.0 m",
+    "weight_us": "231.5 lbs.",
+    "weight_eu": "105.0 kg",
+    "base_exp_yield": 137,
+    "leveling_rate": "Medium Slow",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 2,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 55,
+        "atk": 95,
+        "def": 115,
+        "sp_atk": 45,
+        "sp_def": 45,
+        "speed": 35
+    },
+    "evolution_from": "Geodude",
+    "evolutions": [
+        {
+            "to": "Golem",
+            "trade": true
+        }
+    ],
+    "species": "Rock Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "Rocks are Graveler's favorite food. This Pokémon will climb a mountain from the base to the summit, crunchingly feasting on rocks all the while. Upon reaching the peak, it rolls back down to the bottom.",
+    "move_learnset": [
+        {
+            "move": "Defense Curl",
+            "level": 1,
+            "variations": [
+                "Graveler"
+            ]
+        },
+        {
+            "move": "Mud Sport",
+            "level": 1,
+            "variations": [
+                "Graveler"
+            ]
+        },
+        {
+            "move": "Rock Polish",
+            "level": 1,
+            "variations": [
+                "Graveler"
+            ]
+        },
+        {
+            "move": "Tackle",
+            "level": 1,
+            "variations": [
+                "Graveler"
+            ]
+        },
+        {
+            "move": "Mud Sport",
+            "level": 4,
+            "variations": [
+                "Graveler"
+            ]
+        },
+        {
+            "move": "Rock Polish",
+            "level": 6,
+            "variations": [
+                "Graveler"
+            ]
+        },
+        {
+            "move": "Rollout",
+            "level": 10,
+            "variations": [
+                "Graveler"
+            ]
+        },
+        {
+            "move": "Magnitude",
+            "level": 12,
+            "variations": [
+                "Graveler"
+            ]
+        },
+        {
+            "move": "Rock Throw",
+            "level": 16,
+            "variations": [
+                "Graveler"
+            ]
+        },
+        {
+            "move": "Smack Down",
+            "level": 18,
+            "variations": [
+                "Graveler"
+            ]
+        },
+        {
+            "move": "Bulldoze",
+            "level": 22,
+            "variations": [
+                "Graveler"
+            ]
+        },
+        {
+            "move": "Self-Destruct",
+            "level": 24,
+            "variations": [
+                "Graveler"
+            ]
+        },
+        {
+            "move": "Stealth Rock",
+            "level": 30,
+            "variations": [
+                "Graveler"
+            ]
+        },
+        {
+            "move": "Rock Blast",
+            "level": 34,
+            "variations": [
+                "Graveler"
+            ]
+        },
+        {
+            "move": "Earthquake",
+            "level": 40,
+            "variations": [
+                "Graveler"
+            ]
+        },
+        {
+            "move": "Explosion",
+            "level": 44,
+            "variations": [
+                "Graveler"
+            ]
+        },
+        {
+            "move": "Double-Edge",
+            "level": 50,
+            "variations": [
+                "Graveler"
+            ]
+        },
+        {
+            "move": "Stone Edge",
+            "level": 54,
+            "variations": [
+                "Graveler"
+            ]
+        },
+        {
+            "move": "Autotomize",
+            "egg_move": true,
+            "variations": [
+                "Graveler"
+            ]
+        },
+        {
+            "move": "Block",
+            "egg_move": true,
+            "variations": [
+                "Graveler"
+            ]
+        },
+        {
+            "move": "Curse",
+            "egg_move": true,
+            "variations": [
+                "Graveler"
+            ]
+        },
+        {
+            "move": "Endure",
+            "egg_move": true,
+            "variations": [
+                "Graveler"
+            ]
+        },
+        {
+            "move": "Flail",
+            "egg_move": true,
+            "variations": [
+                "Graveler"
+            ]
+        },
+        {
+            "move": "Focus Punch",
+            "egg_move": true,
+            "variations": [
+                "Graveler"
+            ]
+        },
+        {
+            "move": "Hammer Arm",
+            "egg_move": true,
+            "variations": [
+                "Graveler"
+            ]
+        },
+        {
+            "move": "Mega Punch",
+            "egg_move": true,
+            "variations": [
+                "Graveler"
+            ]
+        },
+        {
+            "move": "Rock Climb",
+            "egg_move": true,
+            "variations": [
+                "Graveler"
+            ]
+        },
+        {
+            "move": "Wide Guard",
+            "egg_move": true,
+            "variations": [
+                "Graveler"
+            ]
+        },
+        {
+            "move": "Toxic",
+            "tm": "TM6",
+            "variations": [
+                "Graveler"
+            ]
+        },
+        {
+            "move": "Hidden Power",
+            "tm": "TM10",
+            "variations": [
+                "Graveler"
+            ]
+        },
+        {
+            "move": "Sunny Day",
+            "tm": "TM11",
+            "variations": [
+                "Graveler"
+            ]
+        },
+        {
+            "move": "Protect",
+            "tm": "TM17",
+            "variations": [
+                "Graveler"
+            ]
+        },
+        {
+            "move": "Frustration",
+            "tm": "TM21",
+            "variations": [
+                "Graveler"
+            ]
+        },
+        {
+            "move": "Smack Down",
+            "tm": "TM23",
+            "variations": [
+                "Graveler"
+            ]
+        },
+        {
+            "move": "Earthquake",
+            "tm": "TM26",
+            "variations": [
+                "Graveler"
+            ]
+        },
+        {
+            "move": "Return",
+            "tm": "TM27",
+            "variations": [
+                "Graveler"
+            ]
+        },
+        {
+            "move": "Brick Break",
+            "tm": "TM31",
+            "variations": [
+                "Graveler"
+            ]
+        },
+        {
+            "move": "Double Team",
+            "tm": "TM32",
+            "variations": [
+                "Graveler"
+            ]
+        },
+        {
+            "move": "Flamethrower",
+            "tm": "TM35",
+            "variations": [
+                "Graveler"
+            ]
+        },
+        {
+            "move": "Sandstorm",
+            "tm": "TM37",
+            "variations": [
+                "Graveler"
+            ]
+        },
+        {
+            "move": "Fire Blast",
+            "tm": "TM38",
+            "variations": [
+                "Graveler"
+            ]
+        },
+        {
+            "move": "Rock Tomb",
+            "tm": "TM39",
+            "variations": [
+                "Graveler"
+            ]
+        },
+        {
+            "move": "Facade",
+            "tm": "TM42",
+            "variations": [
+                "Graveler"
+            ]
+        },
+        {
+            "move": "Rest",
+            "tm": "TM44",
+            "variations": [
+                "Graveler"
+            ]
+        },
+        {
+            "move": "Attract",
+            "tm": "TM45",
+            "variations": [
+                "Graveler"
+            ]
+        },
+        {
+            "move": "Round",
+            "tm": "TM48",
+            "variations": [
+                "Graveler"
+            ]
+        },
+        {
+            "move": "Fling",
+            "tm": "TM56",
+            "variations": [
+                "Graveler"
+            ]
+        },
+        {
+            "move": "Explosion",
+            "tm": "TM64",
+            "variations": [
+                "Graveler"
+            ]
+        },
+        {
+            "move": "Rock Polish",
+            "tm": "TM69",
+            "variations": [
+                "Graveler"
+            ]
+        },
+        {
+            "move": "Stone Edge",
+            "tm": "TM71",
+            "variations": [
+                "Graveler"
+            ]
+        },
+        {
+            "move": "Gyro Ball",
+            "tm": "TM74",
+            "variations": [
+                "Graveler"
+            ]
+        },
+        {
+            "move": "Bulldoze",
+            "tm": "TM78",
+            "variations": [
+                "Graveler"
+            ]
+        },
+        {
+            "move": "Rock Slide",
+            "tm": "TM80",
+            "variations": [
+                "Graveler"
+            ]
+        },
+        {
+            "move": "Swagger",
+            "tm": "TM87",
+            "variations": [
+                "Graveler"
+            ]
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": "TM88",
+            "variations": [
+                "Graveler"
+            ]
+        },
+        {
+            "move": "Substitute",
+            "tm": "TM90",
+            "variations": [
+                "Graveler"
+            ]
+        },
+        {
+            "move": "Nature Power",
+            "tm": "TM96",
+            "variations": [
+                "Graveler"
+            ]
+        },
+        {
+            "move": "Confide",
+            "tm": "TM100",
+            "variations": [
+                "Graveler"
+            ]
+        }
+    ]
+}

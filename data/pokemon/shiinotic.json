@@ -1,0 +1,260 @@
+{
+    "name": "Shiinotic",
+    "national_id": 756,
+    "types": [
+        "Grass",
+        "Fairy"
+    ],
+    "items": [
+        {
+            "name": "Big Mushroom",
+            "chance": 5
+        },
+        {
+            "name": "Tiny Mushroom",
+            "chance": 50
+        }
+    ],
+    "abilities": [
+        {
+            "name": "Illuminate"
+        },
+        {
+            "name": "Effect Spore"
+        },
+        {
+            "name": "Rain Dish",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 75,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Grass"
+    ],
+    "hatch_time": [
+        5140,
+        5396
+    ],
+    "height_us": "3'03\"",
+    "height_eu": "1.0 m",
+    "weight_us": "25.4 lbs.",
+    "weight_eu": "11.5 kg",
+    "base_exp_yield": 142,
+    "leveling_rate": "Medium Fast",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 2,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 60,
+        "atk": 45,
+        "def": 80,
+        "sp_atk": 90,
+        "sp_def": 100,
+        "speed": 30
+    },
+    "evolution_from": "Morelull",
+    "evolutions": [],
+    "species": "Illuminating Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "If you see a light deep in a forest at night, don’t go near. Shiinotic will make you fall fast asleep.",
+    "move_learnset": [
+        {
+            "move": "Absorb",
+            "level": 1
+        },
+        {
+            "move": "Astonish",
+            "level": 1
+        },
+        {
+            "move": "Confuse Ray",
+            "level": 1
+        },
+        {
+            "move": "Ingrain",
+            "level": 1
+        },
+        {
+            "move": "Mega Drain",
+            "level": 12
+        },
+        {
+            "move": "Sleep Powder",
+            "level": 16
+        },
+        {
+            "move": "Moonlight",
+            "level": 20
+        },
+        {
+            "move": "Strength Sap",
+            "level": 27
+        },
+        {
+            "move": "Giga Drain",
+            "level": 32
+        },
+        {
+            "move": "Dazzling Gleam",
+            "level": 38
+        },
+        {
+            "move": "Spore",
+            "level": 44
+        },
+        {
+            "move": "Moonblast",
+            "level": 50
+        },
+        {
+            "move": "Dream Eater",
+            "level": 56
+        },
+        {
+            "move": "Hyper Beam",
+            "tm": true
+        },
+        {
+            "move": "Giga Impact",
+            "tm": true
+        },
+        {
+            "move": "Solar Beam",
+            "tm": true
+        },
+        {
+            "move": "Thunder Wave",
+            "tm": true
+        },
+        {
+            "move": "Light Screen",
+            "tm": true
+        },
+        {
+            "move": "Safeguard",
+            "tm": true
+        },
+        {
+            "move": "Rest",
+            "tm": true
+        },
+        {
+            "move": "Snore",
+            "tm": true
+        },
+        {
+            "move": "Protect",
+            "tm": true
+        },
+        {
+            "move": "Giga Drain",
+            "tm": true
+        },
+        {
+            "move": "Attract",
+            "tm": true
+        },
+        {
+            "move": "Rain Dance",
+            "tm": true
+        },
+        {
+            "move": "Sunny Day",
+            "tm": true
+        },
+        {
+            "move": "Facade",
+            "tm": true
+        },
+        {
+            "move": "Weather Ball",
+            "tm": true
+        },
+        {
+            "move": "Drain Punch",
+            "tm": true
+        },
+        {
+            "move": "Wonder Room",
+            "tm": true
+        },
+        {
+            "move": "Magic Room",
+            "tm": true
+        },
+        {
+            "move": "Round",
+            "tm": true
+        },
+        {
+            "move": "Draining Kiss",
+            "tm": true
+        },
+        {
+            "move": "Amnesia",
+            "tm": true
+        },
+        {
+            "move": "Substitute",
+            "tm": true
+        },
+        {
+            "move": "Sludge Bomb",
+            "tm": true
+        },
+        {
+            "move": "Endure",
+            "tm": true
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": true
+        },
+        {
+            "move": "Seed Bomb",
+            "tm": true
+        },
+        {
+            "move": "Energy Ball",
+            "tm": true
+        },
+        {
+            "move": "Grass Knot",
+            "tm": true
+        },
+        {
+            "move": "Dazzling Gleam",
+            "tm": true
+        },
+        {
+            "move": "Pollen Puff",
+            "tm": true
+        },
+        {
+            "move": "Poison Powder",
+            "egg_move": true
+        },
+        {
+            "move": "Stun Spore",
+            "egg_move": true
+        },
+        {
+            "move": "Growth",
+            "egg_move": true
+        },
+        {
+            "move": "Leech Seed",
+            "egg_move": true
+        }
+    ]
+}

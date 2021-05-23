@@ -1,0 +1,226 @@
+{
+    "name": "Nickit",
+    "national_id": 827,
+    "types": [
+        "Dark"
+    ],
+    "abilities": [
+        {
+            "name": "Run Away"
+        },
+        {
+            "name": "Unburden"
+        },
+        {
+            "name": "Stakeout",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 255,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Field"
+    ],
+    "hatch_time": [
+        3855,
+        4111
+    ],
+    "height_us": "2'00\"",
+    "height_eu": "0.6 m",
+    "weight_us": "19.6 lbs.",
+    "weight_eu": "8.9 kg",
+    "base_exp_yield": 49,
+    "leveling_rate": "Fast",
+    "base_friendship": 50,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 1,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 40,
+        "atk": 28,
+        "def": 28,
+        "sp_atk": 47,
+        "sp_def": 52,
+        "speed": 50
+    },
+    "evolution_from": null,
+    "evolutions": [
+        {
+            "to": "Thievul",
+            "level": 18
+        }
+    ],
+    "species": "Fox Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "Cunning and cautious, this Pokémon survives by stealing food from others. It erases its tracks with swipes of its tail as it makes off with its plunder.",
+    "move_learnset": [
+        {
+            "move": "Quick Attack",
+            "level": 1
+        },
+        {
+            "move": "Tail Whip",
+            "level": 1
+        },
+        {
+            "move": "Beat Up",
+            "level": 4
+        },
+        {
+            "move": "Hone Claws",
+            "level": 8
+        },
+        {
+            "move": "Snarl",
+            "level": 12
+        },
+        {
+            "move": "Assurance",
+            "level": 16
+        },
+        {
+            "move": "Nasty Plot",
+            "level": 20
+        },
+        {
+            "move": "Sucker Punch",
+            "level": 24
+        },
+        {
+            "move": "Night Slash",
+            "level": 28
+        },
+        {
+            "move": "Tail Slap",
+            "level": 32
+        },
+        {
+            "move": "Foul Play",
+            "level": 36
+        },
+        {
+            "move": "Dig",
+            "tm": true
+        },
+        {
+            "move": "Screech",
+            "tm": true
+        },
+        {
+            "move": "Rest",
+            "tm": true
+        },
+        {
+            "move": "Thief",
+            "tm": true
+        },
+        {
+            "move": "Snore",
+            "tm": true
+        },
+        {
+            "move": "Protect",
+            "tm": true
+        },
+        {
+            "move": "Attract",
+            "tm": true
+        },
+        {
+            "move": "Beat Up",
+            "tm": true
+        },
+        {
+            "move": "Facade",
+            "tm": true
+        },
+        {
+            "move": "Swift",
+            "tm": true
+        },
+        {
+            "move": "Fake Tears",
+            "tm": true
+        },
+        {
+            "move": "Mud Shot",
+            "tm": true
+        },
+        {
+            "move": "Assurance",
+            "tm": true
+        },
+        {
+            "move": "Round",
+            "tm": true
+        },
+        {
+            "move": "Tail Slap",
+            "tm": true
+        },
+        {
+            "move": "Snarl",
+            "tm": true
+        },
+        {
+            "move": "Agility",
+            "tm": true
+        },
+        {
+            "move": "Substitute",
+            "tm": true
+        },
+        {
+            "move": "Endure",
+            "tm": true
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": true
+        },
+        {
+            "move": "Baton Pass",
+            "tm": true
+        },
+        {
+            "move": "Taunt",
+            "tm": true
+        },
+        {
+            "move": "Nasty Plot",
+            "tm": true
+        },
+        {
+            "move": "Foul Play",
+            "tm": true
+        },
+        {
+            "move": "Play Rough",
+            "tm": true
+        },
+        {
+            "move": "Quick Guard",
+            "egg_move": true
+        },
+        {
+            "move": "Knock Off",
+            "egg_move": true
+        },
+        {
+            "move": "Howl",
+            "egg_move": true
+        },
+        {
+            "move": "Torment",
+            "egg_move": true
+        }
+    ]
+}

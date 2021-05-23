@@ -1,0 +1,311 @@
+{
+    "name": "Misdreavus",
+    "national_id": 200,
+    "types": [
+        "Ghost"
+    ],
+    "abilities": [
+        {
+            "name": "Levitate"
+        }
+    ],
+    "catch_rate": 45,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Amorphous"
+    ],
+    "hatch_time": [
+        6630,
+        6884
+    ],
+    "height_us": "2'04\"",
+    "height_eu": "0.7 m",
+    "weight_us": "2.2 lbs.",
+    "weight_eu": "1.0 kg",
+    "base_exp_yield": 87,
+    "leveling_rate": "Fast",
+    "base_friendship": 35,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 1,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 60,
+        "atk": 60,
+        "def": 60,
+        "sp_atk": 85,
+        "sp_def": 85,
+        "speed": 85
+    },
+    "evolution_from": null,
+    "evolutions": [
+        {
+            "to": "Mismagius",
+            "item": "Dusk Stone"
+        }
+    ],
+    "species": "Screech Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "Misdreavus frightens people with a creepy, sobbing cry. The Pokémon apparently uses its red spheres to absorb the fearful feelings of foes and turn them into nutrition.",
+    "move_learnset": [
+        {
+            "move": "Growl",
+            "level": 1
+        },
+        {
+            "move": "Psywave",
+            "level": 1
+        },
+        {
+            "move": "Spite",
+            "level": 5
+        },
+        {
+            "move": "Astonish",
+            "level": 10
+        },
+        {
+            "move": "Confuse Ray",
+            "level": 14
+        },
+        {
+            "move": "Mean Look",
+            "level": 19
+        },
+        {
+            "move": "Hex",
+            "level": 23
+        },
+        {
+            "move": "Psybeam",
+            "level": 28
+        },
+        {
+            "move": "Pain Split",
+            "level": 32
+        },
+        {
+            "move": "Payback",
+            "level": 37
+        },
+        {
+            "move": "Shadow Ball",
+            "level": 41
+        },
+        {
+            "move": "Perish Song",
+            "level": 46
+        },
+        {
+            "move": "Grudge",
+            "level": 50
+        },
+        {
+            "move": "Power Gem",
+            "level": 55
+        },
+        {
+            "move": "Curse",
+            "egg_move": true
+        },
+        {
+            "move": "Destiny Bond",
+            "egg_move": true
+        },
+        {
+            "move": "Imprison",
+            "egg_move": true
+        },
+        {
+            "move": "Me First",
+            "egg_move": true
+        },
+        {
+            "move": "Memento",
+            "egg_move": true
+        },
+        {
+            "move": "Nasty Plot",
+            "egg_move": true
+        },
+        {
+            "move": "Ominous Wind",
+            "egg_move": true
+        },
+        {
+            "move": "Screech",
+            "egg_move": true
+        },
+        {
+            "move": "Shadow Sneak",
+            "egg_move": true
+        },
+        {
+            "move": "Skill Swap",
+            "egg_move": true
+        },
+        {
+            "move": "Spite",
+            "egg_move": true
+        },
+        {
+            "move": "Sucker Punch",
+            "egg_move": true
+        },
+        {
+            "move": "Wonder Room",
+            "egg_move": true
+        },
+        {
+            "move": "Calm Mind",
+            "tm": "TM4"
+        },
+        {
+            "move": "Toxic",
+            "tm": "TM6"
+        },
+        {
+            "move": "Hidden Power",
+            "tm": "TM10"
+        },
+        {
+            "move": "Sunny Day",
+            "tm": "TM11"
+        },
+        {
+            "move": "Taunt",
+            "tm": "TM12"
+        },
+        {
+            "move": "Protect",
+            "tm": "TM17"
+        },
+        {
+            "move": "Rain Dance",
+            "tm": "TM18"
+        },
+        {
+            "move": "Frustration",
+            "tm": "TM21"
+        },
+        {
+            "move": "Thunderbolt",
+            "tm": "TM24"
+        },
+        {
+            "move": "Thunder",
+            "tm": "TM25"
+        },
+        {
+            "move": "Return",
+            "tm": "TM27"
+        },
+        {
+            "move": "Psychic",
+            "tm": "TM29"
+        },
+        {
+            "move": "Shadow Ball",
+            "tm": "TM30"
+        },
+        {
+            "move": "Double Team",
+            "tm": "TM32"
+        },
+        {
+            "move": "Aerial Ace",
+            "tm": "TM40"
+        },
+        {
+            "move": "Torment",
+            "tm": "TM41"
+        },
+        {
+            "move": "Facade",
+            "tm": "TM42"
+        },
+        {
+            "move": "Rest",
+            "tm": "TM44"
+        },
+        {
+            "move": "Attract",
+            "tm": "TM45"
+        },
+        {
+            "move": "Thief",
+            "tm": "TM46"
+        },
+        {
+            "move": "Round",
+            "tm": "TM48"
+        },
+        {
+            "move": "Echoed Voice",
+            "tm": "TM49"
+        },
+        {
+            "move": "Charge Beam",
+            "tm": "TM57"
+        },
+        {
+            "move": "Will-O-Wisp",
+            "tm": "TM61"
+        },
+        {
+            "move": "Embargo",
+            "tm": "TM63"
+        },
+        {
+            "move": "Payback",
+            "tm": "TM66"
+        },
+        {
+            "move": "Thunder Wave",
+            "tm": "TM73"
+        },
+        {
+            "move": "Psych Up",
+            "tm": "TM77"
+        },
+        {
+            "move": "Dream Eater",
+            "tm": "TM85"
+        },
+        {
+            "move": "Swagger",
+            "tm": "TM87"
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": "TM88"
+        },
+        {
+            "move": "Substitute",
+            "tm": "TM90"
+        },
+        {
+            "move": "Trick Room",
+            "tm": "TM92"
+        },
+        {
+            "move": "Dark Pulse",
+            "tm": "TM97"
+        },
+        {
+            "move": "Dazzling Gleam",
+            "tm": "TM99"
+        },
+        {
+            "move": "Confide",
+            "tm": "TM100"
+        }
+    ]
+}

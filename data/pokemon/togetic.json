@@ -1,0 +1,384 @@
+{
+    "name": "Togetic",
+    "national_id": 176,
+    "types": [
+        "Fairy",
+        "Flying"
+    ],
+    "abilities": [
+        {
+            "name": "Hustle"
+        },
+        {
+            "name": "Serene Grace"
+        },
+        {
+            "name": "Super Luck",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 75,
+    "gender_ratios": {
+        "male": 87.5,
+        "female": 12.5
+    },
+    "egg_groups": [
+        "Flying",
+        "Fairy"
+    ],
+    "hatch_time": [
+        2805,
+        3059
+    ],
+    "height_us": "2'00\"",
+    "height_eu": "0.6 m",
+    "weight_us": "7.1 lbs.",
+    "weight_eu": "3.2 kg",
+    "base_exp_yield": 142,
+    "leveling_rate": "Fast",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 2,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 55,
+        "atk": 40,
+        "def": 85,
+        "sp_atk": 80,
+        "sp_def": 105,
+        "speed": 40
+    },
+    "evolution_from": "Togepi",
+    "evolutions": [
+        {
+            "to": "Togekiss",
+            "item": "Shiny Stone"
+        }
+    ],
+    "species": "Happiness Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "It grows dispirited if it is not with kind people. It can float in midair without moving its wings.",
+    "move_learnset": [
+        {
+            "move": "Fairy Wind",
+            "evo": true
+        },
+        {
+            "move": "Fairy Wind",
+            "level": 1
+        },
+        {
+            "move": "Growl",
+            "level": 1
+        },
+        {
+            "move": "Pound",
+            "level": 1
+        },
+        {
+            "move": "Sweet Kiss",
+            "level": 1
+        },
+        {
+            "move": "Life Dew",
+            "level": 1
+        },
+        {
+            "move": "Charm",
+            "level": 12
+        },
+        {
+            "move": "Ancient Power",
+            "level": 16
+        },
+        {
+            "move": "Yawn",
+            "level": 20
+        },
+        {
+            "move": "Metronome",
+            "level": 24
+        },
+        {
+            "move": "After You",
+            "level": 28
+        },
+        {
+            "move": "Double-Edge",
+            "level": 32
+        },
+        {
+            "move": "Safeguard",
+            "level": 36
+        },
+        {
+            "move": "Follow Me",
+            "level": 40
+        },
+        {
+            "move": "Baton Pass",
+            "level": 44
+        },
+        {
+            "move": "Last Resort",
+            "level": 48
+        },
+        {
+            "move": "Wish",
+            "level": 52
+        },
+        {
+            "move": "Mega Punch",
+            "tm": true
+        },
+        {
+            "move": "Mega Kick",
+            "tm": true
+        },
+        {
+            "move": "Fly",
+            "tm": true
+        },
+        {
+            "move": "Hyper Beam",
+            "tm": true
+        },
+        {
+            "move": "Giga Impact",
+            "tm": true
+        },
+        {
+            "move": "Magical Leaf",
+            "tm": true
+        },
+        {
+            "move": "Solar Beam",
+            "tm": true
+        },
+        {
+            "move": "Thunder Wave",
+            "tm": true
+        },
+        {
+            "move": "Light Screen",
+            "tm": true
+        },
+        {
+            "move": "Reflect",
+            "tm": true
+        },
+        {
+            "move": "Safeguard",
+            "tm": true
+        },
+        {
+            "move": "Rest",
+            "tm": true
+        },
+        {
+            "move": "Snore",
+            "tm": true
+        },
+        {
+            "move": "Protect",
+            "tm": true
+        },
+        {
+            "move": "Charm",
+            "tm": true
+        },
+        {
+            "move": "Steel Wing",
+            "tm": true
+        },
+        {
+            "move": "Attract",
+            "tm": true
+        },
+        {
+            "move": "Rain Dance",
+            "tm": true
+        },
+        {
+            "move": "Sunny Day",
+            "tm": true
+        },
+        {
+            "move": "Facade",
+            "tm": true
+        },
+        {
+            "move": "Swift",
+            "tm": true
+        },
+        {
+            "move": "Helping Hand",
+            "tm": true
+        },
+        {
+            "move": "Brick Break",
+            "tm": true
+        },
+        {
+            "move": "Imprison",
+            "tm": true
+        },
+        {
+            "move": "Fling",
+            "tm": true
+        },
+        {
+            "move": "Drain Punch",
+            "tm": true
+        },
+        {
+            "move": "Round",
+            "tm": true
+        },
+        {
+            "move": "Retaliate",
+            "tm": true
+        },
+        {
+            "move": "Draining Kiss",
+            "tm": true
+        },
+        {
+            "move": "Mystical Fire",
+            "tm": true
+        },
+        {
+            "move": "Smart Strike",
+            "tm": true
+        },
+        {
+            "move": "Body Slam",
+            "tm": true
+        },
+        {
+            "move": "Flamethrower",
+            "tm": true
+        },
+        {
+            "move": "Psychic",
+            "tm": true
+        },
+        {
+            "move": "Metronome",
+            "tm": true
+        },
+        {
+            "move": "Fire Blast",
+            "tm": true
+        },
+        {
+            "move": "Tri Attack",
+            "tm": true
+        },
+        {
+            "move": "Substitute",
+            "tm": true
+        },
+        {
+            "move": "Psyshock",
+            "tm": true
+        },
+        {
+            "move": "Endure",
+            "tm": true
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": true
+        },
+        {
+            "move": "Baton Pass",
+            "tm": true
+        },
+        {
+            "move": "Encore",
+            "tm": true
+        },
+        {
+            "move": "Shadow Ball",
+            "tm": true
+        },
+        {
+            "move": "Future Sight",
+            "tm": true
+        },
+        {
+            "move": "Uproar",
+            "tm": true
+        },
+        {
+            "move": "Heat Wave",
+            "tm": true
+        },
+        {
+            "move": "Trick",
+            "tm": true
+        },
+        {
+            "move": "Hyper Voice",
+            "tm": true
+        },
+        {
+            "move": "Nasty Plot",
+            "tm": true
+        },
+        {
+            "move": "Zen Headbutt",
+            "tm": true
+        },
+        {
+            "move": "Grass Knot",
+            "tm": true
+        },
+        {
+            "move": "Stored Power",
+            "tm": true
+        },
+        {
+            "move": "Work Up",
+            "tm": true
+        },
+        {
+            "move": "Play Rough",
+            "tm": true
+        },
+        {
+            "move": "Dazzling Gleam",
+            "tm": true
+        },
+        {
+            "move": "Present",
+            "egg_move": true
+        },
+        {
+            "move": "Peck",
+            "egg_move": true
+        },
+        {
+            "move": "Psycho Shift",
+            "egg_move": true
+        },
+        {
+            "move": "Extrasensory",
+            "egg_move": true
+        },
+        {
+            "move": "Morning Sun",
+            "egg_move": true
+        },
+        {
+            "move": "Aerial Ace",
+            "egg_move": true
+        }
+    ]
+}

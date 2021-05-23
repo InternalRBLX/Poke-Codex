@@ -23,6 +23,7 @@
 		"@commitlint/cli": "^12.1.4",
 		"@commitlint/config-angular": "^12.1.4",
 		"@types/glob": "^7",
+		"@types/mysql": "^2.15.18",
 		"@types/node": "^15.6.0",
 		"husky": "^6.0.0",
 		"lint-staged": "^11.0.0",
@@ -73,6 +74,8 @@
 	"dependencies": {
 		"consola": "^2.15.3",
 		"discord.js": "^12.5.3",
-		"glob": "^7.1.7"
+		"glob": "^7.1.7",
+		"moment": "^2.29.1",
+		"mysql": "^2.18.1"
 	}
 }

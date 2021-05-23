@@ -6,12 +6,15 @@ import {
 	MessageEmbed,
 	Intents,
 	Collection,
+	TextChannel,
 } from 'discord.js';
+import * as mysql from 'mysql';
 import glob from 'glob';
 import { Command } from '../Interfaces/Command';
 import { Event } from '../Interfaces/Event';
 import { Config } from '../Interfaces/Config';
 import { promisify } from 'util';
+import * as File from '../config/config.json';
 
 const globPromise = promisify(glob);
 
@@ -53,13 +56,51 @@ class Bot extends Client {
 			this.events.set(file.name, file);
 			this.on(file.name, file.run.bind(null, this));
 		});
+
+		const con = mysql.createConnection(File.database_data);
+		con.connect((err) => {
+			if (err) {
+				this.logger.error(err);
+				process.exit();
+			}
+
+			this.logger.success('Connected to MySQL Database!');
+		});
 	}
 
-	public embed(options: MessageEmbedOptions, message: Message): MessageEmbed {
+	public async sendMessage(
+		channel: TextChannel,
+		content: string
+	): Promise<Message> {
+		return channel.send(content);
+	}
+
+	public async embed(
+		options: MessageEmbedOptions,
+		message: Message
+	): Promise<MessageEmbed> {
 		return new MessageEmbed({ ...options, color: 'RANDOM' }).setFooter(
 			`${message.author.tag} | ${this.user.username}`,
 			message.author.displayAvatarURL({ format: 'png', dynamic: true })
 		);
+	}
+
+	public async sendMessageWithAttachments(
+		channel: TextChannel,
+		content: MessageEmbed,
+		attachments: any[]
+	): Promise<MessageEmbed> {
+		let message = null;
+		await channel
+			.send({ embed: content, files: attachments })
+			.then((msg) => {
+				message = msg;
+			})
+			.catch((err) => {
+				this.logger.error('Failed to send message: ' + err);
+			});
+
+		return message;
 	}
 }
 

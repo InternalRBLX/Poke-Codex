@@ -1,0 +1,341 @@
+{
+    "name": "Copperajah",
+    "national_id": 879,
+    "types": [
+        "Steel"
+    ],
+    "items": [
+        {
+            "name": "Lagging Tail",
+            "chance": 5
+        }
+    ],
+    "abilities": [
+        {
+            "name": "Sheer Force"
+        },
+        {
+            "name": "Heavy Metal",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 90,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Field",
+        "Mineral"
+    ],
+    "hatch_time": [
+        6425,
+        6681
+    ],
+    "height_us": "9'10\"",
+    "height_eu": "3.0 m",
+    "weight_us": "1433.0 lbs.",
+    "weight_eu": "650.0 kg",
+    "base_exp_yield": 175,
+    "leveling_rate": "Medium Fast",
+    "base_friendship": 50,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 2,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 122,
+        "atk": 130,
+        "def": 69,
+        "sp_atk": 80,
+        "sp_def": 69,
+        "speed": 30
+    },
+    "evolution_from": "Cufant",
+    "evolutions": [],
+    "species": "Copperderm Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "These Pokémon live in herds. Their trunks have incredible grip strength, strong enough to crush giant rocks into powder.",
+    "move_learnset": [
+        {
+            "move": "Heavy Slam",
+            "evo": true
+        },
+        {
+            "move": "Heavy Slam",
+            "level": 1
+        },
+        {
+            "move": "Tackle",
+            "level": 1
+        },
+        {
+            "move": "Growl",
+            "level": 1
+        },
+        {
+            "move": "Rollout",
+            "level": 1
+        },
+        {
+            "move": "Rock Smash",
+            "level": 1
+        },
+        {
+            "move": "Bulldoze",
+            "level": 15
+        },
+        {
+            "move": "Stomp",
+            "level": 20
+        },
+        {
+            "move": "Iron Defense",
+            "level": 25
+        },
+        {
+            "move": "Dig",
+            "level": 30
+        },
+        {
+            "move": "Strength",
+            "level": 37
+        },
+        {
+            "move": "Iron Head",
+            "level": 44
+        },
+        {
+            "move": "Play Rough",
+            "level": 51
+        },
+        {
+            "move": "High Horsepower",
+            "level": 58
+        },
+        {
+            "move": "Superpower",
+            "level": 65
+        },
+        {
+            "move": "Mega Kick",
+            "tm": true
+        },
+        {
+            "move": "Hyper Beam",
+            "tm": true
+        },
+        {
+            "move": "Giga Impact",
+            "tm": true
+        },
+        {
+            "move": "Dig",
+            "tm": true
+        },
+        {
+            "move": "Screech",
+            "tm": true
+        },
+        {
+            "move": "Rest",
+            "tm": true
+        },
+        {
+            "move": "Rock Slide",
+            "tm": true
+        },
+        {
+            "move": "Snore",
+            "tm": true
+        },
+        {
+            "move": "Protect",
+            "tm": true
+        },
+        {
+            "move": "Scary Face",
+            "tm": true
+        },
+        {
+            "move": "Attract",
+            "tm": true
+        },
+        {
+            "move": "Facade",
+            "tm": true
+        },
+        {
+            "move": "Revenge",
+            "tm": true
+        },
+        {
+            "move": "Brick Break",
+            "tm": true
+        },
+        {
+            "move": "Rock Tomb",
+            "tm": true
+        },
+        {
+            "move": "Mud Shot",
+            "tm": true
+        },
+        {
+            "move": "Rock Blast",
+            "tm": true
+        },
+        {
+            "move": "Payback",
+            "tm": true
+        },
+        {
+            "move": "Fling",
+            "tm": true
+        },
+        {
+            "move": "Round",
+            "tm": true
+        },
+        {
+            "move": "Bulldoze",
+            "tm": true
+        },
+        {
+            "move": "Snarl",
+            "tm": true
+        },
+        {
+            "move": "Brutal Swing",
+            "tm": true
+        },
+        {
+            "move": "Stomping Tantrum",
+            "tm": true
+        },
+        {
+            "move": "Body Slam",
+            "tm": true
+        },
+        {
+            "move": "Earthquake",
+            "tm": true
+        },
+        {
+            "move": "Substitute",
+            "tm": true
+        },
+        {
+            "move": "Outrage",
+            "tm": true
+        },
+        {
+            "move": "Endure",
+            "tm": true
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": true
+        },
+        {
+            "move": "Taunt",
+            "tm": true
+        },
+        {
+            "move": "Superpower",
+            "tm": true
+        },
+        {
+            "move": "Iron Defense",
+            "tm": true
+        },
+        {
+            "move": "Earth Power",
+            "tm": true
+        },
+        {
+            "move": "Zen Headbutt",
+            "tm": true
+        },
+        {
+            "move": "Flash Cannon",
+            "tm": true
+        },
+        {
+            "move": "Power Whip",
+            "tm": true
+        },
+        {
+            "move": "Iron Head",
+            "tm": true
+        },
+        {
+            "move": "Stone Edge",
+            "tm": true
+        },
+        {
+            "move": "Stealth Rock",
+            "tm": true
+        },
+        {
+            "move": "Heavy Slam",
+            "tm": true
+        },
+        {
+            "move": "Work Up",
+            "tm": true
+        },
+        {
+            "move": "Heat Crash",
+            "tm": true
+        },
+        {
+            "move": "Play Rough",
+            "tm": true
+        },
+        {
+            "move": "High Horsepower",
+            "tm": true
+        },
+        {
+            "move": "Body Press",
+            "tm": true
+        },
+        {
+            "move": "Double-Edge",
+            "egg_move": true
+        },
+        {
+            "move": "Belch",
+            "egg_move": true
+        },
+        {
+            "move": "Curse",
+            "egg_move": true
+        },
+        {
+            "move": "Slam",
+            "egg_move": true
+        },
+        {
+            "move": "Fissure",
+            "egg_move": true
+        },
+        {
+            "move": "Swagger",
+            "egg_move": true
+        },
+        {
+            "move": "Whirlwind",
+            "egg_move": true
+        },
+        {
+            "move": "Defense Curl",
+            "egg_move": true
+        }
+    ]
+}

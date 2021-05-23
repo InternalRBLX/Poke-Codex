@@ -1,0 +1,303 @@
+{
+    "name": "Wailmer",
+    "national_id": 320,
+    "types": [
+        "Water"
+    ],
+    "abilities": [
+        {
+            "name": "Water Veil"
+        },
+        {
+            "name": "Oblivious"
+        },
+        {
+            "name": "Pressure",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 125,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Field",
+        "Water 2"
+    ],
+    "hatch_time": [
+        10455,
+        10709
+    ],
+    "height_us": "6'07\"",
+    "height_eu": "2.0 m",
+    "weight_us": "286.6 lbs.",
+    "weight_eu": "130.0 kg",
+    "base_exp_yield": 80,
+    "leveling_rate": "Fluctuating",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 1,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 130,
+        "atk": 70,
+        "def": 35,
+        "sp_atk": 70,
+        "sp_def": 35,
+        "speed": 60
+    },
+    "evolution_from": null,
+    "evolutions": [
+        {
+            "to": "Wailord",
+            "level": 40
+        }
+    ],
+    "species": "Ball Whale Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "When it sucks in a large volume of seawater, it becomes like a big, bouncy ball. It eats a ton of food daily.",
+    "move_learnset": [
+        {
+            "move": "Splash",
+            "level": 1
+        },
+        {
+            "move": "Growl",
+            "level": 3
+        },
+        {
+            "move": "Astonish",
+            "level": 6
+        },
+        {
+            "move": "Water Gun",
+            "level": 12
+        },
+        {
+            "move": "Mist",
+            "level": 15
+        },
+        {
+            "move": "Water Pulse",
+            "level": 18
+        },
+        {
+            "move": "Heavy Slam",
+            "level": 21
+        },
+        {
+            "move": "Brine",
+            "level": 24
+        },
+        {
+            "move": "Whirlpool",
+            "level": 27
+        },
+        {
+            "move": "Dive",
+            "level": 30
+        },
+        {
+            "move": "Bounce",
+            "level": 33
+        },
+        {
+            "move": "Body Slam",
+            "level": 36
+        },
+        {
+            "move": "Rest",
+            "level": 39
+        },
+        {
+            "move": "Amnesia",
+            "level": 42
+        },
+        {
+            "move": "Hydro Pump",
+            "level": 45
+        },
+        {
+            "move": "Water Spout",
+            "level": 48
+        },
+        {
+            "move": "Self-Destruct",
+            "tm": true
+        },
+        {
+            "move": "Rest",
+            "tm": true
+        },
+        {
+            "move": "Snore",
+            "tm": true
+        },
+        {
+            "move": "Protect",
+            "tm": true
+        },
+        {
+            "move": "Icy Wind",
+            "tm": true
+        },
+        {
+            "move": "Attract",
+            "tm": true
+        },
+        {
+            "move": "Rain Dance",
+            "tm": true
+        },
+        {
+            "move": "Hail",
+            "tm": true
+        },
+        {
+            "move": "Whirlpool",
+            "tm": true
+        },
+        {
+            "move": "Facade",
+            "tm": true
+        },
+        {
+            "move": "Dive",
+            "tm": true
+        },
+        {
+            "move": "Weather Ball",
+            "tm": true
+        },
+        {
+            "move": "Rock Tomb",
+            "tm": true
+        },
+        {
+            "move": "Bounce",
+            "tm": true
+        },
+        {
+            "move": "Brine",
+            "tm": true
+        },
+        {
+            "move": "Avalanche",
+            "tm": true
+        },
+        {
+            "move": "Round",
+            "tm": true
+        },
+        {
+            "move": "Bulldoze",
+            "tm": true
+        },
+        {
+            "move": "Body Slam",
+            "tm": true
+        },
+        {
+            "move": "Hydro Pump",
+            "tm": true
+        },
+        {
+            "move": "Surf",
+            "tm": true
+        },
+        {
+            "move": "Ice Beam",
+            "tm": true
+        },
+        {
+            "move": "Blizzard",
+            "tm": true
+        },
+        {
+            "move": "Earthquake",
+            "tm": true
+        },
+        {
+            "move": "Waterfall",
+            "tm": true
+        },
+        {
+            "move": "Amnesia",
+            "tm": true
+        },
+        {
+            "move": "Substitute",
+            "tm": true
+        },
+        {
+            "move": "Endure",
+            "tm": true
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": true
+        },
+        {
+            "move": "Hyper Voice",
+            "tm": true
+        },
+        {
+            "move": "Zen Headbutt",
+            "tm": true
+        },
+        {
+            "move": "Heavy Slam",
+            "tm": true
+        },
+        {
+            "move": "Scald",
+            "tm": true
+        },
+        {
+            "move": "Body Press",
+            "tm": true
+        },
+        {
+            "move": "Double-Edge",
+            "egg_move": true
+        },
+        {
+            "move": "Thrash",
+            "egg_move": true
+        },
+        {
+            "move": "Curse",
+            "egg_move": true
+        },
+        {
+            "move": "Fissure",
+            "egg_move": true
+        },
+        {
+            "move": "Tickle",
+            "egg_move": true
+        },
+        {
+            "move": "Defense Curl",
+            "egg_move": true
+        },
+        {
+            "move": "Rollout",
+            "egg_move": true
+        },
+        {
+            "move": "Aqua Ring",
+            "egg_move": true
+        },
+        {
+            "move": "Soak",
+            "egg_move": true
+        }
+    ]
+}

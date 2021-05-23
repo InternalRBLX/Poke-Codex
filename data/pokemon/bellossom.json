@@ -1,0 +1,308 @@
+{
+    "name": "Bellossom",
+    "national_id": 182,
+    "types": [
+        "Grass"
+    ],
+    "items": [
+        {
+            "name": "Absorb Bulb",
+            "chance": 5
+        }
+    ],
+    "abilities": [
+        {
+            "name": "Chlorophyll"
+        },
+        {
+            "name": "Healer",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 45,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Grass"
+    ],
+    "hatch_time": [
+        5355,
+        5609
+    ],
+    "height_us": "1'04\"",
+    "height_eu": "0.4 m",
+    "weight_us": "12.8 lbs.",
+    "weight_eu": "5.8 kg",
+    "base_exp_yield": 216,
+    "leveling_rate": "Medium Slow",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 3,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 75,
+        "atk": 80,
+        "def": 85,
+        "sp_atk": 90,
+        "sp_def": 100,
+        "speed": 50
+    },
+    "evolution_from": "Gloom",
+    "evolutions": [],
+    "species": "Flower Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "A Bellossom grows flowers more beautifully if it has evolved from a smelly Gloom—the more stinky the better. At night, this Pokémon closes its petals and goes to sleep.",
+    "move_learnset": [
+        {
+            "move": "Petal Blizzard",
+            "evo": true
+        },
+        {
+            "move": "Petal Blizzard",
+            "level": 1
+        },
+        {
+            "move": "Quiver Dance",
+            "level": 1
+        },
+        {
+            "move": "Mega Drain",
+            "level": 1
+        },
+        {
+            "move": "Poison Powder",
+            "level": 1
+        },
+        {
+            "move": "Stun Spore",
+            "level": 1
+        },
+        {
+            "move": "Sleep Powder",
+            "level": 1
+        },
+        {
+            "move": "Giga Drain",
+            "level": 1
+        },
+        {
+            "move": "Toxic",
+            "level": 1
+        },
+        {
+            "move": "Moonblast",
+            "level": 1
+        },
+        {
+            "move": "Grassy Terrain",
+            "level": 1
+        },
+        {
+            "move": "Moonlight",
+            "level": 1
+        },
+        {
+            "move": "Petal Dance",
+            "level": 1
+        },
+        {
+            "move": "Absorb",
+            "level": 1
+        },
+        {
+            "move": "Growth",
+            "level": 1
+        },
+        {
+            "move": "Acid",
+            "level": 1
+        },
+        {
+            "move": "Sweet Scent",
+            "level": 1
+        },
+        {
+            "move": "Hyper Beam",
+            "tm": true
+        },
+        {
+            "move": "Giga Impact",
+            "tm": true
+        },
+        {
+            "move": "Magical Leaf",
+            "tm": true
+        },
+        {
+            "move": "Solar Beam",
+            "tm": true
+        },
+        {
+            "move": "Safeguard",
+            "tm": true
+        },
+        {
+            "move": "Rest",
+            "tm": true
+        },
+        {
+            "move": "Snore",
+            "tm": true
+        },
+        {
+            "move": "Protect",
+            "tm": true
+        },
+        {
+            "move": "Giga Drain",
+            "tm": true
+        },
+        {
+            "move": "Charm",
+            "tm": true
+        },
+        {
+            "move": "Attract",
+            "tm": true
+        },
+        {
+            "move": "Sunny Day",
+            "tm": true
+        },
+        {
+            "move": "Facade",
+            "tm": true
+        },
+        {
+            "move": "Helping Hand",
+            "tm": true
+        },
+        {
+            "move": "Bullet Seed",
+            "tm": true
+        },
+        {
+            "move": "Fling",
+            "tm": true
+        },
+        {
+            "move": "Drain Punch",
+            "tm": true
+        },
+        {
+            "move": "Venoshock",
+            "tm": true
+        },
+        {
+            "move": "Round",
+            "tm": true
+        },
+        {
+            "move": "Grassy Terrain",
+            "tm": true
+        },
+        {
+            "move": "Swords Dance",
+            "tm": true
+        },
+        {
+            "move": "Substitute",
+            "tm": true
+        },
+        {
+            "move": "Sludge Bomb",
+            "tm": true
+        },
+        {
+            "move": "Endure",
+            "tm": true
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": true
+        },
+        {
+            "move": "Baton Pass",
+            "tm": true
+        },
+        {
+            "move": "Uproar",
+            "tm": true
+        },
+        {
+            "move": "Leaf Blade",
+            "tm": true
+        },
+        {
+            "move": "Seed Bomb",
+            "tm": true
+        },
+        {
+            "move": "Energy Ball",
+            "tm": true
+        },
+        {
+            "move": "Leaf Storm",
+            "tm": true
+        },
+        {
+            "move": "Grass Knot",
+            "tm": true
+        },
+        {
+            "move": "Play Rough",
+            "tm": true
+        },
+        {
+            "move": "Dazzling Gleam",
+            "tm": true
+        },
+        {
+            "move": "Razor Leaf",
+            "egg_move": true
+        },
+        {
+            "move": "Flail",
+            "egg_move": true
+        },
+        {
+            "move": "Synthesis",
+            "egg_move": true
+        },
+        {
+            "move": "Ingrain",
+            "egg_move": true
+        },
+        {
+            "move": "Tickle",
+            "egg_move": true
+        },
+        {
+            "move": "Teeter Dance",
+            "egg_move": true
+        },
+        {
+            "move": "Nature Power",
+            "egg_move": true
+        },
+        {
+            "move": "After You",
+            "egg_move": true
+        },
+        {
+            "move": "Strength Sap",
+            "egg_move": true
+        },
+        {
+            "move": "Leech Seed",
+            "egg_move": true
+        }
+    ]
+}

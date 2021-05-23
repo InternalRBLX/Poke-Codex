@@ -1,0 +1,280 @@
+{
+    "name": "Dialga",
+    "national_id": 483,
+    "types": [
+        "Steel",
+        "Dragon"
+    ],
+    "abilities": [
+        {
+            "name": "Pressure"
+        },
+        {
+            "name": "Telepathy",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 3,
+    "gender_ratios": null,
+    "egg_groups": [
+        "Undiscovered"
+    ],
+    "hatch_time": [
+        30855,
+        31109
+    ],
+    "height_us": "17'09\"",
+    "height_eu": "5.4 m",
+    "weight_us": "1505.8 lbs.",
+    "weight_eu": "683.0 kg",
+    "base_exp_yield": 306,
+    "leveling_rate": "Slow",
+    "base_friendship": 0,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 3,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 100,
+        "atk": 120,
+        "def": 120,
+        "sp_atk": 150,
+        "sp_def": 100,
+        "speed": 90
+    },
+    "evolution_from": null,
+    "evolutions": [],
+    "species": "Temporal Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "It has the power to control time. It appears in Sinnoh-region myths as an ancient deity.",
+    "move_learnset": [
+        {
+            "move": "Dragon Breath",
+            "level": 1
+        },
+        {
+            "move": "Scary Face",
+            "level": 1
+        },
+        {
+            "move": "Metal Claw",
+            "level": 6
+        },
+        {
+            "move": "Ancient Power",
+            "level": 10
+        },
+        {
+            "move": "Slash",
+            "level": 15
+        },
+        {
+            "move": "Power Gem",
+            "level": 19
+        },
+        {
+            "move": "Metal Burst",
+            "level": 24
+        },
+        {
+            "move": "Dragon Claw",
+            "level": 28
+        },
+        {
+            "move": "Earth Power",
+            "level": 33
+        },
+        {
+            "move": "Aura Sphere",
+            "level": 37
+        },
+        {
+            "move": "Iron Tail",
+            "level": 42
+        },
+        {
+            "move": "Roar of Time",
+            "level": 46
+        },
+        {
+            "move": "Flash Cannon",
+            "level": 50
+        },
+        {
+            "move": "Dragon Claw",
+            "tm": "TM2"
+        },
+        {
+            "move": "Roar",
+            "tm": "TM5"
+        },
+        {
+            "move": "Toxic",
+            "tm": "TM6"
+        },
+        {
+            "move": "Bulk Up",
+            "tm": "TM8"
+        },
+        {
+            "move": "Hidden Power",
+            "tm": "TM10"
+        },
+        {
+            "move": "Sunny Day",
+            "tm": "TM11"
+        },
+        {
+            "move": "Ice Beam",
+            "tm": "TM13"
+        },
+        {
+            "move": "Blizzard",
+            "tm": "TM14"
+        },
+        {
+            "move": "Hyper Beam",
+            "tm": "TM15"
+        },
+        {
+            "move": "Protect",
+            "tm": "TM17"
+        },
+        {
+            "move": "Rain Dance",
+            "tm": "TM18"
+        },
+        {
+            "move": "Safeguard",
+            "tm": "TM20"
+        },
+        {
+            "move": "Frustration",
+            "tm": "TM21"
+        },
+        {
+            "move": "Thunderbolt",
+            "tm": "TM24"
+        },
+        {
+            "move": "Thunder",
+            "tm": "TM25"
+        },
+        {
+            "move": "Earthquake",
+            "tm": "TM26"
+        },
+        {
+            "move": "Return",
+            "tm": "TM27"
+        },
+        {
+            "move": "Brick Break",
+            "tm": "TM31"
+        },
+        {
+            "move": "Double Team",
+            "tm": "TM32"
+        },
+        {
+            "move": "Flamethrower",
+            "tm": "TM35"
+        },
+        {
+            "move": "Sandstorm",
+            "tm": "TM37"
+        },
+        {
+            "move": "Fire Blast",
+            "tm": "TM38"
+        },
+        {
+            "move": "Rock Tomb",
+            "tm": "TM39"
+        },
+        {
+            "move": "Aerial Ace",
+            "tm": "TM40"
+        },
+        {
+            "move": "Facade",
+            "tm": "TM42"
+        },
+        {
+            "move": "Rest",
+            "tm": "TM44"
+        },
+        {
+            "move": "Round",
+            "tm": "TM48"
+        },
+        {
+            "move": "Echoed Voice",
+            "tm": "TM49"
+        },
+        {
+            "move": "Overheat",
+            "tm": "TM50"
+        },
+        {
+            "move": "Shadow Claw",
+            "tm": "TM65"
+        },
+        {
+            "move": "Giga Impact",
+            "tm": "TM68"
+        },
+        {
+            "move": "Stone Edge",
+            "tm": "TM71"
+        },
+        {
+            "move": "Thunder Wave",
+            "tm": "TM73"
+        },
+        {
+            "move": "Psych Up",
+            "tm": "TM77"
+        },
+        {
+            "move": "Bulldoze",
+            "tm": "TM78"
+        },
+        {
+            "move": "Rock Slide",
+            "tm": "TM80"
+        },
+        {
+            "move": "Dragon Tail",
+            "tm": "TM82"
+        },
+        {
+            "move": "Swagger",
+            "tm": "TM87"
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": "TM88"
+        },
+        {
+            "move": "Substitute",
+            "tm": "TM90"
+        },
+        {
+            "move": "Flash Cannon",
+            "tm": "TM91"
+        },
+        {
+            "move": "Trick Room",
+            "tm": "TM92"
+        },
+        {
+            "move": "Confide",
+            "tm": "TM100"
+        }
+    ]
+}

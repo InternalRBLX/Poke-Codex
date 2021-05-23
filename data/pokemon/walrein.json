@@ -1,0 +1,303 @@
+{
+    "name": "Walrein",
+    "national_id": 365,
+    "types": [
+        "Ice",
+        "Water"
+    ],
+    "abilities": [
+        {
+            "name": "Thick Fat"
+        },
+        {
+            "name": "Ice Body"
+        },
+        {
+            "name": "Oblivious",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 45,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Water 1",
+        "Field"
+    ],
+    "hatch_time": [
+        5355,
+        5609
+    ],
+    "height_us": "4'07\"",
+    "height_eu": "1.4 m",
+    "weight_us": "332.0 lbs.",
+    "weight_eu": "150.6 kg",
+    "base_exp_yield": 239,
+    "leveling_rate": "Medium Slow",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 3,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 110,
+        "atk": 80,
+        "def": 90,
+        "sp_atk": 95,
+        "sp_def": 90,
+        "speed": 65
+    },
+    "evolution_from": "Sealeo",
+    "evolutions": [],
+    "species": "Ice Break Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "Walrein swims all over in frigid seawater while crushing icebergs with its grand, imposing tusks. Its thick layer of blubber makes enemy attacks bounce off harmlessly.",
+    "move_learnset": [
+        {
+            "move": "Crunch",
+            "level": 1
+        },
+        {
+            "move": "Defense Curl",
+            "level": 1
+        },
+        {
+            "move": "Growl",
+            "level": 1
+        },
+        {
+            "move": "Ice Fang",
+            "level": 1
+        },
+        {
+            "move": "Powder Snow",
+            "level": 1
+        },
+        {
+            "move": "Swagger",
+            "level": 1
+        },
+        {
+            "move": "Water Gun",
+            "level": 1
+        },
+        {
+            "move": "Encore",
+            "level": 7
+        },
+        {
+            "move": "Rollout",
+            "level": 7
+        },
+        {
+            "move": "Ice Ball",
+            "level": 13
+        },
+        {
+            "move": "Aurora Beam",
+            "level": 19
+        },
+        {
+            "move": "Brine",
+            "level": 19
+        },
+        {
+            "move": "Body Slam",
+            "level": 25
+        },
+        {
+            "move": "Rest",
+            "level": 31
+        },
+        {
+            "move": "Snore",
+            "level": 31
+        },
+        {
+            "move": "Hail",
+            "level": 38
+        },
+        {
+            "move": "Blizzard",
+            "level": 49
+        },
+        {
+            "move": "Sheer Cold",
+            "level": 60
+        },
+        {
+            "move": "Aqua Ring",
+            "egg_move": true
+        },
+        {
+            "move": "Belly Drum",
+            "egg_move": true
+        },
+        {
+            "move": "Curse",
+            "egg_move": true
+        },
+        {
+            "move": "Fissure",
+            "egg_move": true
+        },
+        {
+            "move": "Rollout",
+            "egg_move": true
+        },
+        {
+            "move": "Signal Beam",
+            "egg_move": true
+        },
+        {
+            "move": "Sleep Talk",
+            "egg_move": true
+        },
+        {
+            "move": "Spit Up",
+            "egg_move": true
+        },
+        {
+            "move": "Stockpile",
+            "egg_move": true
+        },
+        {
+            "move": "Swallow",
+            "egg_move": true
+        },
+        {
+            "move": "Water Pulse",
+            "egg_move": true
+        },
+        {
+            "move": "Water Sport",
+            "egg_move": true
+        },
+        {
+            "move": "Yawn",
+            "egg_move": true
+        },
+        {
+            "move": "Roar",
+            "tm": "TM5"
+        },
+        {
+            "move": "Toxic",
+            "tm": "TM6"
+        },
+        {
+            "move": "Hail",
+            "tm": "TM7"
+        },
+        {
+            "move": "Hidden Power",
+            "tm": "TM10"
+        },
+        {
+            "move": "Ice Beam",
+            "tm": "TM13"
+        },
+        {
+            "move": "Blizzard",
+            "tm": "TM14"
+        },
+        {
+            "move": "Hyper Beam",
+            "tm": "TM15"
+        },
+        {
+            "move": "Protect",
+            "tm": "TM17"
+        },
+        {
+            "move": "Rain Dance",
+            "tm": "TM18"
+        },
+        {
+            "move": "Frustration",
+            "tm": "TM21"
+        },
+        {
+            "move": "Earthquake",
+            "tm": "TM26"
+        },
+        {
+            "move": "Return",
+            "tm": "TM27"
+        },
+        {
+            "move": "Double Team",
+            "tm": "TM32"
+        },
+        {
+            "move": "Rock Tomb",
+            "tm": "TM39"
+        },
+        {
+            "move": "Facade",
+            "tm": "TM42"
+        },
+        {
+            "move": "Rest",
+            "tm": "TM44"
+        },
+        {
+            "move": "Attract",
+            "tm": "TM45"
+        },
+        {
+            "move": "Round",
+            "tm": "TM48"
+        },
+        {
+            "move": "Echoed Voice",
+            "tm": "TM49"
+        },
+        {
+            "move": "Giga Impact",
+            "tm": "TM68"
+        },
+        {
+            "move": "Bulldoze",
+            "tm": "TM78"
+        },
+        {
+            "move": "Frost Breath",
+            "tm": "TM79"
+        },
+        {
+            "move": "Rock Slide",
+            "tm": "TM80"
+        },
+        {
+            "move": "Swagger",
+            "tm": "TM87"
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": "TM88"
+        },
+        {
+            "move": "Substitute",
+            "tm": "TM90"
+        },
+        {
+            "move": "Surf",
+            "tm": "TM94"
+        },
+        {
+            "move": "Waterfall",
+            "tm": "TM98"
+        },
+        {
+            "move": "Confide",
+            "tm": "TM100"
+        }
+    ]
+}

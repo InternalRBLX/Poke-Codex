@@ -40,12 +40,15 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@commitlint/cli", "npm:12.1.4"],
             ["@commitlint/config-angular", "npm:12.1.4"],
             ["@types/glob", "npm:7.1.3"],
+            ["@types/mysql", "npm:2.15.18"],
             ["@types/node", "npm:15.6.0"],
             ["consola", "npm:2.15.3"],
             ["discord.js", "npm:12.5.3"],
             ["glob", "npm:7.1.7"],
             ["husky", "npm:6.0.0"],
             ["lint-staged", "npm:11.0.0"],
+            ["moment", "npm:2.29.1"],
+            ["mysql", "npm:2.18.1"],
             ["prettier", "npm:2.3.0"],
             ["ts-node", "virtual:cdfc25253e4997efeb1acfaf9a7eecba45f2844dd31bcdcbce07236c098fddcc036d20f9833cfd0b09fe1c74bf126b11ea1ee4b469800cf3e23319c50f017bbb#npm:9.1.1"],
             ["ts-node-dev", "virtual:cdfc25253e4997efeb1acfaf9a7eecba45f2844dd31bcdcbce07236c098fddcc036d20f9833cfd0b09fe1c74bf126b11ea1ee4b469800cf3e23319c50f017bbb#npm:1.1.6"],
@@ -352,6 +355,16 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "linkType": "HARD",
         }]
       ]],
+      ["@types/mysql", [
+        ["npm:2.15.18", {
+          "packageLocation": "./.yarn/cache/@types-mysql-npm-2.15.18-310111ab59-e45226c4ac.zip/node_modules/@types/mysql/",
+          "packageDependencies": [
+            ["@types/mysql", "npm:2.15.18"],
+            ["@types/node", "npm:15.6.0"]
+          ],
+          "linkType": "HARD",
+        }]
+      ]],
       ["@types/node", [
         ["npm:15.6.0", {
           "packageLocation": "./.yarn/cache/@types-node-npm-15.6.0-2f2269856c-54515155db.zip/node_modules/@types/node/",
@@ -416,12 +429,15 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@commitlint/cli", "npm:12.1.4"],
             ["@commitlint/config-angular", "npm:12.1.4"],
             ["@types/glob", "npm:7.1.3"],
+            ["@types/mysql", "npm:2.15.18"],
             ["@types/node", "npm:15.6.0"],
             ["consola", "npm:2.15.3"],
             ["discord.js", "npm:12.5.3"],
             ["glob", "npm:7.1.7"],
             ["husky", "npm:6.0.0"],
             ["lint-staged", "npm:11.0.0"],
+            ["moment", "npm:2.29.1"],
+            ["mysql", "npm:2.18.1"],
             ["prettier", "npm:2.3.0"],
             ["ts-node", "virtual:cdfc25253e4997efeb1acfaf9a7eecba45f2844dd31bcdcbce07236c098fddcc036d20f9833cfd0b09fe1c74bf126b11ea1ee4b469800cf3e23319c50f017bbb#npm:9.1.1"],
             ["ts-node-dev", "virtual:cdfc25253e4997efeb1acfaf9a7eecba45f2844dd31bcdcbce07236c098fddcc036d20f9833cfd0b09fe1c74bf126b11ea1ee4b469800cf3e23319c50f017bbb#npm:1.1.6"],
@@ -641,6 +657,15 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/balanced-match-npm-1.0.2-a53c126459-690643f300.zip/node_modules/balanced-match/",
           "packageDependencies": [
             ["balanced-match", "npm:1.0.2"]
+          ],
+          "linkType": "HARD",
+        }]
+      ]],
+      ["bignumber.js", [
+        ["npm:9.0.0", {
+          "packageLocation": "./.yarn/cache/bignumber.js-npm-9.0.0-ce190bcd7c-5968a936fb.zip/node_modules/bignumber.js/",
+          "packageDependencies": [
+            ["bignumber.js", "npm:9.0.0"]
           ],
           "linkType": "HARD",
         }]
@@ -2339,6 +2364,15 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "linkType": "HARD",
         }]
       ]],
+      ["moment", [
+        ["npm:2.29.1", {
+          "packageLocation": "./.yarn/cache/moment-npm-2.29.1-787d9fdafd-86729013fe.zip/node_modules/moment/",
+          "packageDependencies": [
+            ["moment", "npm:2.29.1"]
+          ],
+          "linkType": "HARD",
+        }]
+      ]],
       ["ms", [
         ["npm:2.1.2", {
           "packageLocation": "./.yarn/cache/ms-npm-2.1.2-ec0c1512ff-9b65fb709b.zip/node_modules/ms/",
@@ -2351,6 +2385,19 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/ms-npm-2.1.3-81ff3cfac1-6e721e648a.zip/node_modules/ms/",
           "packageDependencies": [
             ["ms", "npm:2.1.3"]
+          ],
+          "linkType": "HARD",
+        }]
+      ]],
+      ["mysql", [
+        ["npm:2.18.1", {
+          "packageLocation": "./.yarn/cache/mysql-npm-2.18.1-8fdb56201f-07c6c6c442.zip/node_modules/mysql/",
+          "packageDependencies": [
+            ["mysql", "npm:2.18.1"],
+            ["bignumber.js", "npm:9.0.0"],
+            ["readable-stream", "npm:2.3.7"],
+            ["safe-buffer", "npm:5.1.2"],
+            ["sqlstring", "npm:2.3.1"]
           ],
           "linkType": "HARD",
         }]
@@ -3205,6 +3252,15 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [
             ["split2", "npm:3.2.2"],
             ["readable-stream", "npm:3.6.0"]
+          ],
+          "linkType": "HARD",
+        }]
+      ]],
+      ["sqlstring", [
+        ["npm:2.3.1", {
+          "packageLocation": "./.yarn/cache/sqlstring-npm-2.3.1-2d4ffafe98-d10f04099c.zip/node_modules/sqlstring/",
+          "packageDependencies": [
+            ["sqlstring", "npm:2.3.1"]
           ],
           "linkType": "HARD",
         }]

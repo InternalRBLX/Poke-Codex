@@ -1,0 +1,287 @@
+{
+    "name": "Duraludon",
+    "national_id": 884,
+    "types": [
+        "Steel",
+        "Dragon"
+    ],
+    "abilities": [
+        {
+            "name": "Light Metal"
+        },
+        {
+            "name": "Heavy Metal"
+        },
+        {
+            "name": "Stalwart",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 45,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Mineral",
+        "Dragon"
+    ],
+    "hatch_time": [
+        7710,
+        7966
+    ],
+    "height_us": "5'11\"",
+    "height_eu": "1.8 m",
+    "weight_us": "88.2 lbs.",
+    "weight_eu": "40.0 kg",
+    "base_exp_yield": 187,
+    "leveling_rate": "Medium Fast",
+    "base_friendship": 50,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 2,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 70,
+        "atk": 95,
+        "def": 115,
+        "sp_atk": 120,
+        "sp_def": 50,
+        "speed": 85
+    },
+    "evolution_from": null,
+    "evolutions": [],
+    "species": "Alloy Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "The special metal that composes its body is very light, so this Pokémon has considerable agility. It lives in caves because it dislikes the rain.",
+    "move_learnset": [
+        {
+            "move": "Metal Claw",
+            "level": 1
+        },
+        {
+            "move": "Leer",
+            "level": 1
+        },
+        {
+            "move": "Rock Smash",
+            "level": 6
+        },
+        {
+            "move": "Hone Claws",
+            "level": 12
+        },
+        {
+            "move": "Metal Sound",
+            "level": 18
+        },
+        {
+            "move": "Breaking Swipe",
+            "level": 24
+        },
+        {
+            "move": "Dragon Tail",
+            "level": 30
+        },
+        {
+            "move": "Iron Defense",
+            "level": 36
+        },
+        {
+            "move": "Laser Focus",
+            "level": 42
+        },
+        {
+            "move": "Dragon Claw",
+            "level": 48
+        },
+        {
+            "move": "Flash Cannon",
+            "level": 54
+        },
+        {
+            "move": "Metal Burst",
+            "level": 60
+        },
+        {
+            "move": "Hyper Beam",
+            "level": 66
+        },
+        {
+            "move": "Hyper Beam",
+            "tm": true
+        },
+        {
+            "move": "Giga Impact",
+            "tm": true
+        },
+        {
+            "move": "Solar Beam",
+            "tm": true
+        },
+        {
+            "move": "Thunder Wave",
+            "tm": true
+        },
+        {
+            "move": "Screech",
+            "tm": true
+        },
+        {
+            "move": "Light Screen",
+            "tm": true
+        },
+        {
+            "move": "Reflect",
+            "tm": true
+        },
+        {
+            "move": "Rest",
+            "tm": true
+        },
+        {
+            "move": "Rock Slide",
+            "tm": true
+        },
+        {
+            "move": "Snore",
+            "tm": true
+        },
+        {
+            "move": "Protect",
+            "tm": true
+        },
+        {
+            "move": "Scary Face",
+            "tm": true
+        },
+        {
+            "move": "Attract",
+            "tm": true
+        },
+        {
+            "move": "Facade",
+            "tm": true
+        },
+        {
+            "move": "Brick Break",
+            "tm": true
+        },
+        {
+            "move": "Rock Tomb",
+            "tm": true
+        },
+        {
+            "move": "Round",
+            "tm": true
+        },
+        {
+            "move": "Snarl",
+            "tm": true
+        },
+        {
+            "move": "Stomping Tantrum",
+            "tm": true
+        },
+        {
+            "move": "Breaking Swipe",
+            "tm": true
+        },
+        {
+            "move": "Swords Dance",
+            "tm": true
+        },
+        {
+            "move": "Body Slam",
+            "tm": true
+        },
+        {
+            "move": "Thunderbolt",
+            "tm": true
+        },
+        {
+            "move": "Thunder",
+            "tm": true
+        },
+        {
+            "move": "Substitute",
+            "tm": true
+        },
+        {
+            "move": "Outrage",
+            "tm": true
+        },
+        {
+            "move": "Endure",
+            "tm": true
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": true
+        },
+        {
+            "move": "Iron Defense",
+            "tm": true
+        },
+        {
+            "move": "Dragon Claw",
+            "tm": true
+        },
+        {
+            "move": "Gyro Ball",
+            "tm": true
+        },
+        {
+            "move": "Dark Pulse",
+            "tm": true
+        },
+        {
+            "move": "Dragon Pulse",
+            "tm": true
+        },
+        {
+            "move": "Flash Cannon",
+            "tm": true
+        },
+        {
+            "move": "Iron Head",
+            "tm": true
+        },
+        {
+            "move": "Stone Edge",
+            "tm": true
+        },
+        {
+            "move": "Stealth Rock",
+            "tm": true
+        },
+        {
+            "move": "Heavy Slam",
+            "tm": true
+        },
+        {
+            "move": "Foul Play",
+            "tm": true
+        },
+        {
+            "move": "Body Press",
+            "tm": true
+        },
+        {
+            "move": "Slash",
+            "egg_move": true
+        },
+        {
+            "move": "Night Slash",
+            "egg_move": true
+        },
+        {
+            "move": "Mirror Coat",
+            "egg_move": true
+        }
+    ]
+}

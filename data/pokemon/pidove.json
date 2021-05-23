@@ -1,0 +1,227 @@
+{
+    "name": "Pidove",
+    "national_id": 519,
+    "types": [
+        "Normal",
+        "Flying"
+    ],
+    "abilities": [
+        {
+            "name": "Big Pecks"
+        },
+        {
+            "name": "Super Luck"
+        },
+        {
+            "name": "Rivalry",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 255,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Flying"
+    ],
+    "hatch_time": [
+        4080,
+        4334
+    ],
+    "height_us": "1'00\"",
+    "height_eu": "0.3 m",
+    "weight_us": "4.6 lbs.",
+    "weight_eu": "2.1 kg",
+    "base_exp_yield": 53,
+    "leveling_rate": "Medium Slow",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 1,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 50,
+        "atk": 55,
+        "def": 50,
+        "sp_atk": 36,
+        "sp_def": 30,
+        "speed": 43
+    },
+    "evolution_from": null,
+    "evolutions": [
+        {
+            "to": "Tranquill",
+            "level": 21
+        }
+    ],
+    "species": "Tiny Pigeon Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "It’s forgetful and not very bright, but many Trainers love it anyway for its friendliness and sincerity.",
+    "move_learnset": [
+        {
+            "move": "Gust",
+            "level": 1
+        },
+        {
+            "move": "Growl",
+            "level": 1
+        },
+        {
+            "move": "Leer",
+            "level": 4
+        },
+        {
+            "move": "Quick Attack",
+            "level": 8
+        },
+        {
+            "move": "Taunt",
+            "level": 12
+        },
+        {
+            "move": "Air Cutter",
+            "level": 16
+        },
+        {
+            "move": "Swagger",
+            "level": 20
+        },
+        {
+            "move": "Feather Dance",
+            "level": 24
+        },
+        {
+            "move": "Detect",
+            "level": 28
+        },
+        {
+            "move": "Air Slash",
+            "level": 32
+        },
+        {
+            "move": "Roost",
+            "level": 36
+        },
+        {
+            "move": "Tailwind",
+            "level": 40
+        },
+        {
+            "move": "Sky Attack",
+            "level": 44
+        },
+        {
+            "move": "Fly",
+            "tm": true
+        },
+        {
+            "move": "Rest",
+            "tm": true
+        },
+        {
+            "move": "Snore",
+            "tm": true
+        },
+        {
+            "move": "Protect",
+            "tm": true
+        },
+        {
+            "move": "Steel Wing",
+            "tm": true
+        },
+        {
+            "move": "Attract",
+            "tm": true
+        },
+        {
+            "move": "Rain Dance",
+            "tm": true
+        },
+        {
+            "move": "Sunny Day",
+            "tm": true
+        },
+        {
+            "move": "Facade",
+            "tm": true
+        },
+        {
+            "move": "Swift",
+            "tm": true
+        },
+        {
+            "move": "U-turn",
+            "tm": true
+        },
+        {
+            "move": "Round",
+            "tm": true
+        },
+        {
+            "move": "Air Slash",
+            "tm": true
+        },
+        {
+            "move": "Agility",
+            "tm": true
+        },
+        {
+            "move": "Focus Energy",
+            "tm": true
+        },
+        {
+            "move": "Substitute",
+            "tm": true
+        },
+        {
+            "move": "Endure",
+            "tm": true
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": true
+        },
+        {
+            "move": "Uproar",
+            "tm": true
+        },
+        {
+            "move": "Heat Wave",
+            "tm": true
+        },
+        {
+            "move": "Taunt",
+            "tm": true
+        },
+        {
+            "move": "Work Up",
+            "tm": true
+        },
+        {
+            "move": "Hypnosis",
+            "egg_move": true
+        },
+        {
+            "move": "Wish",
+            "egg_move": true
+        },
+        {
+            "move": "Morning Sun",
+            "egg_move": true
+        },
+        {
+            "move": "Night Slash",
+            "egg_move": true
+        },
+        {
+            "move": "Defog",
+            "egg_move": true
+        }
+    ]
+}

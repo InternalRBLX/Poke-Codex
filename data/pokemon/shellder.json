@@ -1,0 +1,272 @@
+{
+    "name": "Shellder",
+    "national_id": 90,
+    "types": [
+        "Water"
+    ],
+    "items": [
+        {
+            "name": "Big Pearl",
+            "chance": 5
+        },
+        {
+            "name": "Pearl",
+            "chance": 50
+        }
+    ],
+    "abilities": [
+        {
+            "name": "Shell Armor"
+        },
+        {
+            "name": "Skill Link"
+        },
+        {
+            "name": "Overcoat",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 190,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Water 3"
+    ],
+    "hatch_time": [
+        5355,
+        5609
+    ],
+    "height_us": "1'00\"",
+    "height_eu": "0.3 m",
+    "weight_us": "8.8 lbs.",
+    "weight_eu": "4.0 kg",
+    "base_exp_yield": 61,
+    "leveling_rate": "Slow",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 1,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 30,
+        "atk": 65,
+        "def": 100,
+        "sp_atk": 45,
+        "sp_def": 25,
+        "speed": 40
+    },
+    "evolution_from": null,
+    "evolutions": [
+        {
+            "to": "Cloyster",
+            "item": "Water Stone"
+        }
+    ],
+    "species": "Bivalve Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "Its hard shell repels any kind of attack. It is vulnerable only when its shell is open.",
+    "move_learnset": [
+        {
+            "move": "Tackle",
+            "level": 1
+        },
+        {
+            "move": "Water Gun",
+            "level": 1
+        },
+        {
+            "move": "Withdraw",
+            "level": 4
+        },
+        {
+            "move": "Ice Shard",
+            "level": 8
+        },
+        {
+            "move": "Leer",
+            "level": 12
+        },
+        {
+            "move": "Whirlpool",
+            "level": 16
+        },
+        {
+            "move": "Supersonic",
+            "level": 20
+        },
+        {
+            "move": "Aurora Beam",
+            "level": 24
+        },
+        {
+            "move": "Protect",
+            "level": 28
+        },
+        {
+            "move": "Razor Shell",
+            "level": 32
+        },
+        {
+            "move": "Iron Defense",
+            "level": 36
+        },
+        {
+            "move": "Ice Beam",
+            "level": 40
+        },
+        {
+            "move": "Shell Smash",
+            "level": 44
+        },
+        {
+            "move": "Hydro Pump",
+            "level": 48
+        },
+        {
+            "move": "Screech",
+            "tm": true
+        },
+        {
+            "move": "Self-Destruct",
+            "tm": true
+        },
+        {
+            "move": "Rest",
+            "tm": true
+        },
+        {
+            "move": "Snore",
+            "tm": true
+        },
+        {
+            "move": "Protect",
+            "tm": true
+        },
+        {
+            "move": "Icy Wind",
+            "tm": true
+        },
+        {
+            "move": "Attract",
+            "tm": true
+        },
+        {
+            "move": "Rain Dance",
+            "tm": true
+        },
+        {
+            "move": "Hail",
+            "tm": true
+        },
+        {
+            "move": "Whirlpool",
+            "tm": true
+        },
+        {
+            "move": "Facade",
+            "tm": true
+        },
+        {
+            "move": "Swift",
+            "tm": true
+        },
+        {
+            "move": "Dive",
+            "tm": true
+        },
+        {
+            "move": "Icicle Spear",
+            "tm": true
+        },
+        {
+            "move": "Mud Shot",
+            "tm": true
+        },
+        {
+            "move": "Rock Blast",
+            "tm": true
+        },
+        {
+            "move": "Brine",
+            "tm": true
+        },
+        {
+            "move": "Payback",
+            "tm": true
+        },
+        {
+            "move": "Avalanche",
+            "tm": true
+        },
+        {
+            "move": "Round",
+            "tm": true
+        },
+        {
+            "move": "Razor Shell",
+            "tm": true
+        },
+        {
+            "move": "Hydro Pump",
+            "tm": true
+        },
+        {
+            "move": "Surf",
+            "tm": true
+        },
+        {
+            "move": "Ice Beam",
+            "tm": true
+        },
+        {
+            "move": "Blizzard",
+            "tm": true
+        },
+        {
+            "move": "Tri Attack",
+            "tm": true
+        },
+        {
+            "move": "Substitute",
+            "tm": true
+        },
+        {
+            "move": "Endure",
+            "tm": true
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": true
+        },
+        {
+            "move": "Iron Defense",
+            "tm": true
+        },
+        {
+            "move": "Liquidation",
+            "tm": true
+        },
+        {
+            "move": "Bubble Beam",
+            "egg_move": true
+        },
+        {
+            "move": "Water Pulse",
+            "egg_move": true
+        },
+        {
+            "move": "Aqua Ring",
+            "egg_move": true
+        },
+        {
+            "move": "Life Dew",
+            "egg_move": true
+        }
+    ]
+}

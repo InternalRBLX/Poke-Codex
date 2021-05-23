@@ -1,0 +1,281 @@
+{
+    "name": "Nidorina",
+    "national_id": 30,
+    "types": [
+        "Poison"
+    ],
+    "abilities": [
+        {
+            "name": "Poison Point"
+        },
+        {
+            "name": "Rivalry"
+        },
+        {
+            "name": "Hustle",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 120,
+    "gender_ratios": {
+        "female": 100
+    },
+    "egg_groups": [
+        "Undiscovered"
+    ],
+    "hatch_time": [
+        5355,
+        5609
+    ],
+    "height_us": "2'07\"",
+    "height_eu": "0.8 m",
+    "weight_us": "44.1 lbs.",
+    "weight_eu": "20.0 kg",
+    "base_exp_yield": 128,
+    "leveling_rate": "Medium Slow",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 2,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 70,
+        "atk": 62,
+        "def": 67,
+        "sp_atk": 55,
+        "sp_def": 55,
+        "speed": 56
+    },
+    "evolution_from": "Nidoran♀",
+    "evolutions": [
+        {
+            "to": "Nidoqueen",
+            "item": "Moon Stone"
+        }
+    ],
+    "species": "Poison Pin Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "When Nidorina are with their friends or family, they keep their barbs tucked away to prevent hurting each other. This Pokémon appears to become nervous if separated from the others.",
+    "move_learnset": [
+        {
+            "move": "Growl",
+            "level": 1
+        },
+        {
+            "move": "Scratch",
+            "level": 1
+        },
+        {
+            "move": "Tail Whip",
+            "level": 7
+        },
+        {
+            "move": "Double Kick",
+            "level": 9
+        },
+        {
+            "move": "Poison Sting",
+            "level": 13
+        },
+        {
+            "move": "Fury Swipes",
+            "level": 20
+        },
+        {
+            "move": "Bite",
+            "level": 23
+        },
+        {
+            "move": "Helping Hand",
+            "level": 28
+        },
+        {
+            "move": "Toxic Spikes",
+            "level": 35
+        },
+        {
+            "move": "Flatter",
+            "level": 38
+        },
+        {
+            "move": "Crunch",
+            "level": 43
+        },
+        {
+            "move": "Captivate",
+            "level": 50
+        },
+        {
+            "move": "Poison Fang",
+            "level": 58
+        },
+        {
+            "move": "Beat Up",
+            "egg_move": true
+        },
+        {
+            "move": "Charm",
+            "egg_move": true
+        },
+        {
+            "move": "Chip Away",
+            "egg_move": true
+        },
+        {
+            "move": "Counter",
+            "egg_move": true
+        },
+        {
+            "move": "Disable",
+            "egg_move": true
+        },
+        {
+            "move": "Endure",
+            "egg_move": true
+        },
+        {
+            "move": "Focus Energy",
+            "egg_move": true
+        },
+        {
+            "move": "Iron Tail",
+            "egg_move": true
+        },
+        {
+            "move": "Poison Tail",
+            "egg_move": true
+        },
+        {
+            "move": "Pursuit",
+            "egg_move": true
+        },
+        {
+            "move": "Skull Bash",
+            "egg_move": true
+        },
+        {
+            "move": "Supersonic",
+            "egg_move": true
+        },
+        {
+            "move": "Take Down",
+            "egg_move": true
+        },
+        {
+            "move": "Venom Drench",
+            "egg_move": true
+        },
+        {
+            "move": "Toxic",
+            "tm": "TM6"
+        },
+        {
+            "move": "Venoshock",
+            "tm": "TM9"
+        },
+        {
+            "move": "Hidden Power",
+            "tm": "TM10"
+        },
+        {
+            "move": "Sunny Day",
+            "tm": "TM11"
+        },
+        {
+            "move": "Ice Beam",
+            "tm": "TM13"
+        },
+        {
+            "move": "Blizzard",
+            "tm": "TM14"
+        },
+        {
+            "move": "Protect",
+            "tm": "TM17"
+        },
+        {
+            "move": "Rain Dance",
+            "tm": "TM18"
+        },
+        {
+            "move": "Frustration",
+            "tm": "TM21"
+        },
+        {
+            "move": "Thunderbolt",
+            "tm": "TM24"
+        },
+        {
+            "move": "Thunder",
+            "tm": "TM25"
+        },
+        {
+            "move": "Return",
+            "tm": "TM27"
+        },
+        {
+            "move": "Double Team",
+            "tm": "TM32"
+        },
+        {
+            "move": "Sludge Bomb",
+            "tm": "TM36"
+        },
+        {
+            "move": "Aerial Ace",
+            "tm": "TM40"
+        },
+        {
+            "move": "Facade",
+            "tm": "TM42"
+        },
+        {
+            "move": "Rest",
+            "tm": "TM44"
+        },
+        {
+            "move": "Attract",
+            "tm": "TM45"
+        },
+        {
+            "move": "Thief",
+            "tm": "TM46"
+        },
+        {
+            "move": "Round",
+            "tm": "TM48"
+        },
+        {
+            "move": "Echoed Voice",
+            "tm": "TM49"
+        },
+        {
+            "move": "Shadow Claw",
+            "tm": "TM65"
+        },
+        {
+            "move": "Poison Jab",
+            "tm": "TM84"
+        },
+        {
+            "move": "Swagger",
+            "tm": "TM87"
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": "TM88"
+        },
+        {
+            "move": "Substitute",
+            "tm": "TM90"
+        },
+        {
+            "move": "Confide",
+            "tm": "TM100"
+        }
+    ]
+}

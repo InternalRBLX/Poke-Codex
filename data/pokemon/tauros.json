@@ -1,0 +1,264 @@
+{
+    "name": "Tauros",
+    "national_id": 128,
+    "types": [
+        "Normal"
+    ],
+    "abilities": [
+        {
+            "name": "Intimidate"
+        },
+        {
+            "name": "Anger Point"
+        },
+        {
+            "name": "Sheer Force",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 45,
+    "gender_ratios": {
+        "male": 100
+    },
+    "egg_groups": [
+        "Field"
+    ],
+    "hatch_time": [
+        5355,
+        5609
+    ],
+    "height_us": "4'07\"",
+    "height_eu": "1.4 m",
+    "weight_us": "194.9 lbs.",
+    "weight_eu": "88.4 kg",
+    "base_exp_yield": 172,
+    "leveling_rate": "Slow",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 1,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 1
+    },
+    "base_stats": {
+        "hp": 75,
+        "atk": 100,
+        "def": 95,
+        "sp_atk": 40,
+        "sp_def": 70,
+        "speed": 110
+    },
+    "evolution_from": null,
+    "evolutions": [],
+    "species": "Wild Bull Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "This Pokémon is not satisfied unless it is rampaging at all times. If there is no opponent for Tauros to battle, it will charge at thick trees and knock them down to calm itself.",
+    "move_learnset": [
+        {
+            "move": "Tackle",
+            "level": 1
+        },
+        {
+            "move": "Tail Whip",
+            "level": 3
+        },
+        {
+            "move": "Rage",
+            "level": 5
+        },
+        {
+            "move": "Horn Attack",
+            "level": 8
+        },
+        {
+            "move": "Scary Face",
+            "level": 11
+        },
+        {
+            "move": "Pursuit",
+            "level": 15
+        },
+        {
+            "move": "Rest",
+            "level": 19
+        },
+        {
+            "move": "Payback",
+            "level": 24
+        },
+        {
+            "move": "Work Up",
+            "level": 29
+        },
+        {
+            "move": "Take Down",
+            "level": 35
+        },
+        {
+            "move": "Zen Headbutt",
+            "level": 41
+        },
+        {
+            "move": "Swagger",
+            "level": 48
+        },
+        {
+            "move": "Thrash",
+            "level": 55
+        },
+        {
+            "move": "Double-Edge",
+            "level": 63
+        },
+        {
+            "move": "Giga Impact",
+            "level": 71
+        },
+        {
+            "move": "Work Up",
+            "tm": "TM1"
+        },
+        {
+            "move": "Toxic",
+            "tm": "TM6"
+        },
+        {
+            "move": "Hidden Power",
+            "tm": "TM10"
+        },
+        {
+            "move": "Sunny Day",
+            "tm": "TM11"
+        },
+        {
+            "move": "Ice Beam",
+            "tm": "TM13"
+        },
+        {
+            "move": "Blizzard",
+            "tm": "TM14"
+        },
+        {
+            "move": "Hyper Beam",
+            "tm": "TM15"
+        },
+        {
+            "move": "Protect",
+            "tm": "TM17"
+        },
+        {
+            "move": "Rain Dance",
+            "tm": "TM18"
+        },
+        {
+            "move": "Frustration",
+            "tm": "TM21"
+        },
+        {
+            "move": "Solar Beam",
+            "tm": "TM22"
+        },
+        {
+            "move": "Thunderbolt",
+            "tm": "TM24"
+        },
+        {
+            "move": "Thunder",
+            "tm": "TM25"
+        },
+        {
+            "move": "Earthquake",
+            "tm": "TM26"
+        },
+        {
+            "move": "Return",
+            "tm": "TM27"
+        },
+        {
+            "move": "Double Team",
+            "tm": "TM32"
+        },
+        {
+            "move": "Flamethrower",
+            "tm": "TM35"
+        },
+        {
+            "move": "Sandstorm",
+            "tm": "TM37"
+        },
+        {
+            "move": "Fire Blast",
+            "tm": "TM38"
+        },
+        {
+            "move": "Rock Tomb",
+            "tm": "TM39"
+        },
+        {
+            "move": "Facade",
+            "tm": "TM42"
+        },
+        {
+            "move": "Rest",
+            "tm": "TM44"
+        },
+        {
+            "move": "Attract",
+            "tm": "TM45"
+        },
+        {
+            "move": "Round",
+            "tm": "TM48"
+        },
+        {
+            "move": "Payback",
+            "tm": "TM66"
+        },
+        {
+            "move": "Smart Strike",
+            "tm": "TM67"
+        },
+        {
+            "move": "Giga Impact",
+            "tm": "TM68"
+        },
+        {
+            "move": "Stone Edge",
+            "tm": "TM71"
+        },
+        {
+            "move": "Bulldoze",
+            "tm": "TM78"
+        },
+        {
+            "move": "Rock Slide",
+            "tm": "TM80"
+        },
+        {
+            "move": "Swagger",
+            "tm": "TM87"
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": "TM88"
+        },
+        {
+            "move": "Substitute",
+            "tm": "TM90"
+        },
+        {
+            "move": "Wild Charge",
+            "tm": "TM93"
+        },
+        {
+            "move": "Surf",
+            "tm": "TM94"
+        },
+        {
+            "move": "Confide",
+            "tm": "TM100"
+        }
+    ]
+}

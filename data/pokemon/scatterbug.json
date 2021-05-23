@@ -1,0 +1,94 @@
+{
+    "name": "Scatterbug",
+    "national_id": 664,
+    "types": [
+        "Bug"
+    ],
+    "abilities": [
+        {
+            "name": "Shield Dust"
+        },
+        {
+            "name": "Compound Eyes"
+        },
+        {
+            "name": "Friend Guard",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 255,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Bug"
+    ],
+    "hatch_time": [
+        4080,
+        4334
+    ],
+    "height_us": "1'00\"",
+    "height_eu": "0.3 m",
+    "weight_us": "5.5 lbs.",
+    "weight_eu": "2.5 kg",
+    "base_exp_yield": 40,
+    "leveling_rate": "Medium Fast",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 1,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 38,
+        "atk": 35,
+        "def": 40,
+        "sp_atk": 27,
+        "sp_def": 25,
+        "speed": 35
+    },
+    "evolution_from": null,
+    "evolutions": [
+        {
+            "to": "Spewpa",
+            "level": 9
+        }
+    ],
+    "species": "Scatterdust Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "The powder that covers its body regulates its temperature, so it can live in any region or climate.",
+    "move_learnset": [
+        {
+            "move": "String Shot",
+            "level": 1
+        },
+        {
+            "move": "Tackle",
+            "level": 1
+        },
+        {
+            "move": "Stun Spore",
+            "level": 6
+        },
+        {
+            "move": "Bug Bite",
+            "level": 15
+        },
+        {
+            "move": "Poison Powder",
+            "egg_move": true
+        },
+        {
+            "move": "Rage Powder",
+            "egg_move": true
+        },
+        {
+            "move": "Stun Spore",
+            "egg_move": true
+        }
+    ]
+}

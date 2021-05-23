@@ -1,0 +1,317 @@
+{
+    "name": "Buneary",
+    "national_id": 427,
+    "types": [
+        "Normal"
+    ],
+    "items": [
+        {
+            "name": "Pecha Berry",
+            "chance": 50
+        }
+    ],
+    "abilities": [
+        {
+            "name": "Run Away"
+        },
+        {
+            "name": "Klutz"
+        },
+        {
+            "name": "Limber",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 190,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Field",
+        "Human-Like"
+    ],
+    "hatch_time": [
+        5355,
+        5609
+    ],
+    "height_us": "1'04\"",
+    "height_eu": "0.4 m",
+    "weight_us": "12.1 lbs.",
+    "weight_eu": "5.5 kg",
+    "base_exp_yield": 70,
+    "leveling_rate": "Medium Fast",
+    "base_friendship": 0,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 1
+    },
+    "base_stats": {
+        "hp": 55,
+        "atk": 66,
+        "def": 44,
+        "sp_atk": 44,
+        "sp_def": 56,
+        "speed": 85
+    },
+    "evolution_from": null,
+    "evolutions": [
+        {
+            "to": "Lopunny",
+            "happiness": true
+        }
+    ],
+    "species": "Rabbit Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "When it senses danger, it perks up its ears. On cold nights, it sleeps with its head tucked into its fur.",
+    "move_learnset": [
+        {
+            "move": "Defense Curl",
+            "level": 1
+        },
+        {
+            "move": "Foresight",
+            "level": 1
+        },
+        {
+            "move": "Frustration",
+            "level": 1
+        },
+        {
+            "move": "Pound",
+            "level": 1
+        },
+        {
+            "move": "Splash",
+            "level": 1
+        },
+        {
+            "move": "Endure",
+            "level": 6
+        },
+        {
+            "move": "Baby-Doll Eyes",
+            "level": 13
+        },
+        {
+            "move": "Quick Attack",
+            "level": 16
+        },
+        {
+            "move": "Jump Kick",
+            "level": 23
+        },
+        {
+            "move": "Baton Pass",
+            "level": 26
+        },
+        {
+            "move": "Agility",
+            "level": 33
+        },
+        {
+            "move": "Dizzy Punch",
+            "level": 36
+        },
+        {
+            "move": "After You",
+            "level": 43
+        },
+        {
+            "move": "Charm",
+            "level": 46
+        },
+        {
+            "move": "Entrainment",
+            "level": 50
+        },
+        {
+            "move": "Bounce",
+            "level": 56
+        },
+        {
+            "move": "Healing Wish",
+            "level": 63
+        },
+        {
+            "move": "Circle Throw",
+            "egg_move": true
+        },
+        {
+            "move": "Copycat",
+            "egg_move": true
+        },
+        {
+            "move": "Cosmic Power",
+            "egg_move": true
+        },
+        {
+            "move": "Double Hit",
+            "egg_move": true
+        },
+        {
+            "move": "Encore",
+            "egg_move": true
+        },
+        {
+            "move": "Fake Out",
+            "egg_move": true
+        },
+        {
+            "move": "Fake Tears",
+            "egg_move": true
+        },
+        {
+            "move": "Fire Punch",
+            "egg_move": true
+        },
+        {
+            "move": "Flail",
+            "egg_move": true
+        },
+        {
+            "move": "Focus Punch",
+            "egg_move": true
+        },
+        {
+            "move": "Ice Punch",
+            "egg_move": true
+        },
+        {
+            "move": "Low Kick",
+            "egg_move": true
+        },
+        {
+            "move": "Mud Sport",
+            "egg_move": true
+        },
+        {
+            "move": "Power-Up Punch",
+            "egg_move": true
+        },
+        {
+            "move": "Sky Uppercut",
+            "egg_move": true
+        },
+        {
+            "move": "Sweet Kiss",
+            "egg_move": true
+        },
+        {
+            "move": "Switcheroo",
+            "egg_move": true
+        },
+        {
+            "move": "Teeter Dance",
+            "egg_move": true
+        },
+        {
+            "move": "Thunder Punch",
+            "egg_move": true
+        },
+        {
+            "move": "Work Up",
+            "tm": "TM1"
+        },
+        {
+            "move": "Toxic",
+            "tm": "TM6"
+        },
+        {
+            "move": "Hidden Power",
+            "tm": "TM10"
+        },
+        {
+            "move": "Sunny Day",
+            "tm": "TM11"
+        },
+        {
+            "move": "Ice Beam",
+            "tm": "TM13"
+        },
+        {
+            "move": "Protect",
+            "tm": "TM17"
+        },
+        {
+            "move": "Rain Dance",
+            "tm": "TM18"
+        },
+        {
+            "move": "Frustration",
+            "tm": "TM21"
+        },
+        {
+            "move": "Solar Beam",
+            "tm": "TM22"
+        },
+        {
+            "move": "Thunderbolt",
+            "tm": "TM24"
+        },
+        {
+            "move": "Return",
+            "tm": "TM27"
+        },
+        {
+            "move": "Shadow Ball",
+            "tm": "TM30"
+        },
+        {
+            "move": "Double Team",
+            "tm": "TM32"
+        },
+        {
+            "move": "Facade",
+            "tm": "TM42"
+        },
+        {
+            "move": "Rest",
+            "tm": "TM44"
+        },
+        {
+            "move": "Attract",
+            "tm": "TM45"
+        },
+        {
+            "move": "Round",
+            "tm": "TM48"
+        },
+        {
+            "move": "Fling",
+            "tm": "TM56"
+        },
+        {
+            "move": "Charge Beam",
+            "tm": "TM57"
+        },
+        {
+            "move": "Thunder Wave",
+            "tm": "TM73"
+        },
+        {
+            "move": "Grass Knot",
+            "tm": "TM86"
+        },
+        {
+            "move": "Swagger",
+            "tm": "TM87"
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": "TM88"
+        },
+        {
+            "move": "Substitute",
+            "tm": "TM90"
+        },
+        {
+            "move": "Confide",
+            "tm": "TM100"
+        }
+    ]
+}

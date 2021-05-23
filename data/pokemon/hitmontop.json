@@ -1,0 +1,292 @@
+{
+    "name": "Hitmontop",
+    "national_id": 237,
+    "types": [
+        "Fighting"
+    ],
+    "abilities": [
+        {
+            "name": "Intimidate"
+        },
+        {
+            "name": "Technician"
+        },
+        {
+            "name": "Steadfast",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 45,
+    "gender_ratios": {
+        "male": 100
+    },
+    "egg_groups": [
+        "Human-Like"
+    ],
+    "hatch_time": [
+        6630,
+        6884
+    ],
+    "height_us": "4'07\"",
+    "height_eu": "1.4 m",
+    "weight_us": "105.8 lbs.",
+    "weight_eu": "48.0 kg",
+    "base_exp_yield": 159,
+    "leveling_rate": "Medium Fast",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 2,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 50,
+        "atk": 95,
+        "def": 95,
+        "sp_atk": 35,
+        "sp_def": 110,
+        "speed": 70
+    },
+    "evolution_from": "Tyrogue",
+    "evolutions": [],
+    "species": "Handstand Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "After doing a handstand to throw off the opponent’s timing, it presents its fancy kick moves.",
+    "move_learnset": [
+        {
+            "move": "Triple Kick",
+            "evo": true
+        },
+        {
+            "move": "Triple Kick",
+            "level": 1
+        },
+        {
+            "move": "Feint",
+            "level": 1
+        },
+        {
+            "move": "Rapid Spin",
+            "level": 1
+        },
+        {
+            "move": "Tackle",
+            "level": 1
+        },
+        {
+            "move": "Helping Hand",
+            "level": 1
+        },
+        {
+            "move": "Fake Out",
+            "level": 1
+        },
+        {
+            "move": "Focus Energy",
+            "level": 1
+        },
+        {
+            "move": "Quick Attack",
+            "level": 4
+        },
+        {
+            "move": "Gyro Ball",
+            "level": 8
+        },
+        {
+            "move": "Detect",
+            "level": 12
+        },
+        {
+            "move": "Revenge",
+            "level": 16
+        },
+        {
+            "move": "Wide Guard",
+            "level": 21
+        },
+        {
+            "move": "Quick Guard",
+            "level": 21
+        },
+        {
+            "move": "Sucker Punch",
+            "level": 24
+        },
+        {
+            "move": "Agility",
+            "level": 28
+        },
+        {
+            "move": "Dig",
+            "level": 32
+        },
+        {
+            "move": "Close Combat",
+            "level": 36
+        },
+        {
+            "move": "Counter",
+            "level": 40
+        },
+        {
+            "move": "Endeavor",
+            "level": 44
+        },
+        {
+            "move": "Mega Punch",
+            "tm": true
+        },
+        {
+            "move": "Mega Kick",
+            "tm": true
+        },
+        {
+            "move": "Dig",
+            "tm": true
+        },
+        {
+            "move": "Rest",
+            "tm": true
+        },
+        {
+            "move": "Rock Slide",
+            "tm": true
+        },
+        {
+            "move": "Thief",
+            "tm": true
+        },
+        {
+            "move": "Snore",
+            "tm": true
+        },
+        {
+            "move": "Protect",
+            "tm": true
+        },
+        {
+            "move": "Attract",
+            "tm": true
+        },
+        {
+            "move": "Sandstorm",
+            "tm": true
+        },
+        {
+            "move": "Rain Dance",
+            "tm": true
+        },
+        {
+            "move": "Sunny Day",
+            "tm": true
+        },
+        {
+            "move": "Facade",
+            "tm": true
+        },
+        {
+            "move": "Swift",
+            "tm": true
+        },
+        {
+            "move": "Helping Hand",
+            "tm": true
+        },
+        {
+            "move": "Revenge",
+            "tm": true
+        },
+        {
+            "move": "Brick Break",
+            "tm": true
+        },
+        {
+            "move": "Low Sweep",
+            "tm": true
+        },
+        {
+            "move": "Round",
+            "tm": true
+        },
+        {
+            "move": "Retaliate",
+            "tm": true
+        },
+        {
+            "move": "Bulldoze",
+            "tm": true
+        },
+        {
+            "move": "Brutal Swing",
+            "tm": true
+        },
+        {
+            "move": "Body Slam",
+            "tm": true
+        },
+        {
+            "move": "Low Kick",
+            "tm": true
+        },
+        {
+            "move": "Earthquake",
+            "tm": true
+        },
+        {
+            "move": "Agility",
+            "tm": true
+        },
+        {
+            "move": "Focus Energy",
+            "tm": true
+        },
+        {
+            "move": "Substitute",
+            "tm": true
+        },
+        {
+            "move": "Endure",
+            "tm": true
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": true
+        },
+        {
+            "move": "Uproar",
+            "tm": true
+        },
+        {
+            "move": "Bulk Up",
+            "tm": true
+        },
+        {
+            "move": "Gyro Ball",
+            "tm": true
+        },
+        {
+            "move": "Close Combat",
+            "tm": true
+        },
+        {
+            "move": "Focus Blast",
+            "tm": true
+        },
+        {
+            "move": "Stone Edge",
+            "tm": true
+        },
+        {
+            "move": "Work Up",
+            "tm": true
+        },
+        {
+            "move": "Drill Run",
+            "tm": true
+        }
+    ]
+}

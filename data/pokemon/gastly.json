@@ -1,0 +1,312 @@
+{
+    "name": "Gastly",
+    "national_id": 92,
+    "types": [
+        "Ghost",
+        "Poison"
+    ],
+    "abilities": [
+        {
+            "name": "Levitate"
+        }
+    ],
+    "catch_rate": 190,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Amorphous"
+    ],
+    "hatch_time": [
+        5355,
+        5609
+    ],
+    "height_us": "4'03\"",
+    "height_eu": "1.3 m",
+    "weight_us": "0.2 lbs.",
+    "weight_eu": "0.1 kg",
+    "base_exp_yield": 62,
+    "leveling_rate": "Medium Slow",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 1,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 30,
+        "atk": 35,
+        "def": 30,
+        "sp_atk": 100,
+        "sp_def": 35,
+        "speed": 80
+    },
+    "evolution_from": null,
+    "evolutions": [
+        {
+            "to": "Haunter",
+            "level": 25
+        }
+    ],
+    "species": "Gas Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "With its gas-like body, it can sneak into any place it desires. However, it can be blown away by wind.",
+    "move_learnset": [
+        {
+            "move": "Lick",
+            "level": 1
+        },
+        {
+            "move": "Confuse Ray",
+            "level": 1
+        },
+        {
+            "move": "Hypnosis",
+            "level": 4
+        },
+        {
+            "move": "Mean Look",
+            "level": 8
+        },
+        {
+            "move": "Payback",
+            "level": 12
+        },
+        {
+            "move": "Spite",
+            "level": 16
+        },
+        {
+            "move": "Curse",
+            "level": 20
+        },
+        {
+            "move": "Hex",
+            "level": 24
+        },
+        {
+            "move": "Night Shade",
+            "level": 28
+        },
+        {
+            "move": "Sucker Punch",
+            "level": 32
+        },
+        {
+            "move": "Dark Pulse",
+            "level": 36
+        },
+        {
+            "move": "Shadow Ball",
+            "level": 40
+        },
+        {
+            "move": "Destiny Bond",
+            "level": 44
+        },
+        {
+            "move": "Dream Eater",
+            "level": 48
+        },
+        {
+            "move": "Fire Punch",
+            "tm": true
+        },
+        {
+            "move": "Ice Punch",
+            "tm": true
+        },
+        {
+            "move": "Thunder Punch",
+            "tm": true
+        },
+        {
+            "move": "Self-Destruct",
+            "tm": true
+        },
+        {
+            "move": "Rest",
+            "tm": true
+        },
+        {
+            "move": "Thief",
+            "tm": true
+        },
+        {
+            "move": "Snore",
+            "tm": true
+        },
+        {
+            "move": "Protect",
+            "tm": true
+        },
+        {
+            "move": "Scary Face",
+            "tm": true
+        },
+        {
+            "move": "Icy Wind",
+            "tm": true
+        },
+        {
+            "move": "Giga Drain",
+            "tm": true
+        },
+        {
+            "move": "Attract",
+            "tm": true
+        },
+        {
+            "move": "Rain Dance",
+            "tm": true
+        },
+        {
+            "move": "Sunny Day",
+            "tm": true
+        },
+        {
+            "move": "Will-O-Wisp",
+            "tm": true
+        },
+        {
+            "move": "Facade",
+            "tm": true
+        },
+        {
+            "move": "Payback",
+            "tm": true
+        },
+        {
+            "move": "Trick Room",
+            "tm": true
+        },
+        {
+            "move": "Wonder Room",
+            "tm": true
+        },
+        {
+            "move": "Venoshock",
+            "tm": true
+        },
+        {
+            "move": "Round",
+            "tm": true
+        },
+        {
+            "move": "Hex",
+            "tm": true
+        },
+        {
+            "move": "Thunderbolt",
+            "tm": true
+        },
+        {
+            "move": "Psychic",
+            "tm": true
+        },
+        {
+            "move": "Substitute",
+            "tm": true
+        },
+        {
+            "move": "Sludge Bomb",
+            "tm": true
+        },
+        {
+            "move": "Endure",
+            "tm": true
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": true
+        },
+        {
+            "move": "Shadow Ball",
+            "tm": true
+        },
+        {
+            "move": "Uproar",
+            "tm": true
+        },
+        {
+            "move": "Taunt",
+            "tm": true
+        },
+        {
+            "move": "Trick",
+            "tm": true
+        },
+        {
+            "move": "Skill Swap",
+            "tm": true
+        },
+        {
+            "move": "Poison Jab",
+            "tm": true
+        },
+        {
+            "move": "Dark Pulse",
+            "tm": true
+        },
+        {
+            "move": "Energy Ball",
+            "tm": true
+        },
+        {
+            "move": "Sludge Wave",
+            "tm": true
+        },
+        {
+            "move": "Foul Play",
+            "tm": true
+        },
+        {
+            "move": "Ally Switch",
+            "tm": true
+        },
+        {
+            "move": "Dazzling Gleam",
+            "tm": true
+        },
+        {
+            "move": "Perish Song",
+            "egg_move": true
+        },
+        {
+            "move": "Haze",
+            "egg_move": true
+        },
+        {
+            "move": "Astonish",
+            "egg_move": true
+        },
+        {
+            "move": "Grudge",
+            "egg_move": true
+        },
+        {
+            "move": "Disable",
+            "egg_move": true
+        },
+        {
+            "move": "Clear Smog",
+            "egg_move": true
+        },
+        {
+            "move": "Smog",
+            "egg_move": true
+        },
+        {
+            "move": "Reflect Type",
+            "egg_move": true
+        },
+        {
+            "move": "Toxic",
+            "egg_move": true
+        }
+    ]
+}

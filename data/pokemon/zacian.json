@@ -1,0 +1,282 @@
+{
+    "name": "Zacian",
+    "national_id": 888,
+    "types": [
+        "Fairy"
+    ],
+    "abilities": [
+        {
+            "name": "Intrepid Sword"
+        }
+    ],
+    "catch_rate": 10,
+    "gender_ratios": {
+        "male": 0,
+        "female": 0
+    },
+    "egg_groups": [
+        "Undiscovered"
+    ],
+    "hatch_time": [
+        30840,
+        31096
+    ],
+    "height_us": "9'02\"",
+    "height_eu": "2.8 m",
+    "weight_us": "242.5 lbs.",
+    "weight_eu": "110.0 kg",
+    "base_exp_yield": 335,
+    "leveling_rate": "Slow",
+    "base_friendship": 0,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 3
+    },
+    "base_stats": {
+        "hp": 92,
+        "atk": 130,
+        "def": 115,
+        "sp_atk": 80,
+        "sp_def": 115,
+        "speed": 138
+    },
+    "evolution_from": null,
+    "evolutions": [],
+    "species": "Warrior Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "This Pokémon has slumbered for many years. Some say it’s Zamazenta’s elder sister—others say the two Pokémon are rivals.",
+    "move_learnset": [
+        {
+            "move": "Sacred Sword",
+            "level": 1
+        },
+        {
+            "move": "Quick Guard",
+            "level": 1
+        },
+        {
+            "move": "Metal Claw",
+            "level": 1
+        },
+        {
+            "move": "Howl",
+            "level": 1
+        },
+        {
+            "move": "Quick Attack",
+            "level": 1
+        },
+        {
+            "move": "Bite",
+            "level": 1
+        },
+        {
+            "move": "Slash",
+            "level": 11
+        },
+        {
+            "move": "Swords Dance",
+            "level": 22
+        },
+        {
+            "move": "Iron Head",
+            "level": 33
+        },
+        {
+            "move": "Laser Focus",
+            "level": 44
+        },
+        {
+            "move": "Crunch",
+            "level": 55
+        },
+        {
+            "move": "Moonblast",
+            "level": 66
+        },
+        {
+            "move": "Close Combat",
+            "level": 77
+        },
+        {
+            "move": "Giga Impact",
+            "level": 88
+        },
+        {
+            "move": "Hyper Beam",
+            "tm": true
+        },
+        {
+            "move": "Giga Impact",
+            "tm": true
+        },
+        {
+            "move": "Solar Blade",
+            "tm": true
+        },
+        {
+            "move": "Dig",
+            "tm": true
+        },
+        {
+            "move": "Rest",
+            "tm": true
+        },
+        {
+            "move": "Snore",
+            "tm": true
+        },
+        {
+            "move": "Protect",
+            "tm": true
+        },
+        {
+            "move": "Scary Face",
+            "tm": true
+        },
+        {
+            "move": "Facade",
+            "tm": true
+        },
+        {
+            "move": "Swift",
+            "tm": true
+        },
+        {
+            "move": "Helping Hand",
+            "tm": true
+        },
+        {
+            "move": "Revenge",
+            "tm": true
+        },
+        {
+            "move": "Brick Break",
+            "tm": true
+        },
+        {
+            "move": "Imprison",
+            "tm": true
+        },
+        {
+            "move": "Assurance",
+            "tm": true
+        },
+        {
+            "move": "Thunder Fang",
+            "tm": true
+        },
+        {
+            "move": "Ice Fang",
+            "tm": true
+        },
+        {
+            "move": "Fire Fang",
+            "tm": true
+        },
+        {
+            "move": "Psycho Cut",
+            "tm": true
+        },
+        {
+            "move": "Round",
+            "tm": true
+        },
+        {
+            "move": "Retaliate",
+            "tm": true
+        },
+        {
+            "move": "Tail Slap",
+            "tm": true
+        },
+        {
+            "move": "Snarl",
+            "tm": true
+        },
+        {
+            "move": "False Swipe",
+            "tm": true
+        },
+        {
+            "move": "Air Slash",
+            "tm": true
+        },
+        {
+            "move": "Brutal Swing",
+            "tm": true
+        },
+        {
+            "move": "Swords Dance",
+            "tm": true
+        },
+        {
+            "move": "Agility",
+            "tm": true
+        },
+        {
+            "move": "Focus Energy",
+            "tm": true
+        },
+        {
+            "move": "Substitute",
+            "tm": true
+        },
+        {
+            "move": "Reversal",
+            "tm": true
+        },
+        {
+            "move": "Endure",
+            "tm": true
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": true
+        },
+        {
+            "move": "Iron Tail",
+            "tm": true
+        },
+        {
+            "move": "Crunch",
+            "tm": true
+        },
+        {
+            "move": "Hyper Voice",
+            "tm": true
+        },
+        {
+            "move": "Close Combat",
+            "tm": true
+        },
+        {
+            "move": "Focus Blast",
+            "tm": true
+        },
+        {
+            "move": "Iron Head",
+            "tm": true
+        },
+        {
+            "move": "Work Up",
+            "tm": true
+        },
+        {
+            "move": "Wild Charge",
+            "tm": true
+        },
+        {
+            "move": "Play Rough",
+            "tm": true
+        },
+        {
+            "move": "Psychic Fangs",
+            "tm": true
+        }
+    ]
+}

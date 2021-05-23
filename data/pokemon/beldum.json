@@ -1,0 +1,71 @@
+{
+    "name": "Beldum",
+    "national_id": 374,
+    "types": [
+        "Steel",
+        "Psychic"
+    ],
+    "items": [
+        {
+            "name": "Metal Coat",
+            "chance": 5
+        }
+    ],
+    "abilities": [
+        {
+            "name": "Clear Body"
+        },
+        {
+            "name": "Light Metal",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 3,
+    "gender_ratios": null,
+    "egg_groups": [
+        "Mineral"
+    ],
+    "hatch_time": [
+        10455,
+        10709
+    ],
+    "height_us": "2'00\"",
+    "height_eu": "0.6 m",
+    "weight_us": "209.9 lbs.",
+    "weight_eu": "95.2 kg",
+    "base_exp_yield": 60,
+    "leveling_rate": "Slow",
+    "base_friendship": 35,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 1,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 40,
+        "atk": 55,
+        "def": 80,
+        "sp_atk": 35,
+        "sp_def": 60,
+        "speed": 30
+    },
+    "evolution_from": null,
+    "evolutions": [
+        {
+            "to": "Metang",
+            "level": 20
+        }
+    ],
+    "species": "Iron Ball Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "Beldum keeps itself floating by generating a magnetic force that repels earth's natural magnetism. When it sleeps, this Pokémon anchors itself to a cliff using the hooks on its rear.",
+    "move_learnset": [
+        {
+            "move": "Take Down",
+            "level": 1
+        }
+    ]
+}

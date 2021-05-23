@@ -1,0 +1,111 @@
+{
+    "name": "Wynaut",
+    "national_id": 360,
+    "types": [
+        "Psychic"
+    ],
+    "abilities": [
+        {
+            "name": "Shadow Tag"
+        },
+        {
+            "name": "Telepathy",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 125,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Undiscovered"
+    ],
+    "hatch_time": [
+        5355,
+        5609
+    ],
+    "height_us": "2'00\"",
+    "height_eu": "0.6 m",
+    "weight_us": "30.9 lbs.",
+    "weight_eu": "14.0 kg",
+    "base_exp_yield": 52,
+    "leveling_rate": "Medium Fast",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 1,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 95,
+        "atk": 23,
+        "def": 48,
+        "sp_atk": 23,
+        "sp_def": 48,
+        "speed": 23
+    },
+    "evolution_from": null,
+    "evolutions": [
+        {
+            "to": "Wobbuffet",
+            "level": 15
+        }
+    ],
+    "species": "Bright Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "It tends to move in a pack with others. They cluster in a tight group to sleep in a cave.",
+    "move_learnset": [
+        {
+            "move": "Counter",
+            "level": 1
+        },
+        {
+            "move": "Mirror Coat",
+            "level": 1
+        },
+        {
+            "move": "Safeguard",
+            "level": 1
+        },
+        {
+            "move": "Destiny Bond",
+            "level": 1
+        },
+        {
+            "move": "Splash",
+            "level": 1
+        },
+        {
+            "move": "Charm",
+            "level": 1
+        },
+        {
+            "move": "Encore",
+            "level": 1
+        },
+        {
+            "move": "Amnesia",
+            "level": 1
+        },
+        {
+            "move": "Safeguard",
+            "tm": true
+        },
+        {
+            "move": "Charm",
+            "tm": true
+        },
+        {
+            "move": "Amnesia",
+            "tm": true
+        },
+        {
+            "move": "Encore",
+            "tm": true
+        }
+    ]
+}

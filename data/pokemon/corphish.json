@@ -1,0 +1,303 @@
+{
+    "name": "Corphish",
+    "national_id": 341,
+    "types": [
+        "Water"
+    ],
+    "abilities": [
+        {
+            "name": "Hyper Cutter"
+        },
+        {
+            "name": "Shell Armor"
+        },
+        {
+            "name": "Adaptability",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 205,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Water 1",
+        "Water 3"
+    ],
+    "hatch_time": [
+        4080,
+        4334
+    ],
+    "height_us": "2'00\"",
+    "height_eu": "0.6 m",
+    "weight_us": "25.4 lbs.",
+    "weight_eu": "11.5 kg",
+    "base_exp_yield": 62,
+    "leveling_rate": "Fluctuating",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 1,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 43,
+        "atk": 80,
+        "def": 65,
+        "sp_atk": 50,
+        "sp_def": 35,
+        "speed": 35
+    },
+    "evolution_from": null,
+    "evolutions": [
+        {
+            "to": "Crawdaunt",
+            "level": 30
+        }
+    ],
+    "species": "Ruffian Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "It was originally a Pokémon from afar that escaped to the wild. It can adapt to the dirtiest river.",
+    "move_learnset": [
+        {
+            "move": "Water Gun",
+            "level": 1
+        },
+        {
+            "move": "Harden",
+            "level": 1
+        },
+        {
+            "move": "Leer",
+            "level": 4
+        },
+        {
+            "move": "Taunt",
+            "level": 8
+        },
+        {
+            "move": "Bubble Beam",
+            "level": 12
+        },
+        {
+            "move": "Knock Off",
+            "level": 16
+        },
+        {
+            "move": "Double Hit",
+            "level": 20
+        },
+        {
+            "move": "Protect",
+            "level": 24
+        },
+        {
+            "move": "Night Slash",
+            "level": 28
+        },
+        {
+            "move": "Razor Shell",
+            "level": 32
+        },
+        {
+            "move": "Swords Dance",
+            "level": 36
+        },
+        {
+            "move": "Crunch",
+            "level": 40
+        },
+        {
+            "move": "Crabhammer",
+            "level": 44
+        },
+        {
+            "move": "Endeavor",
+            "level": 48
+        },
+        {
+            "move": "Guillotine",
+            "level": 52
+        },
+        {
+            "move": "Dig",
+            "tm": true
+        },
+        {
+            "move": "Rest",
+            "tm": true
+        },
+        {
+            "move": "Rock Slide",
+            "tm": true
+        },
+        {
+            "move": "Snore",
+            "tm": true
+        },
+        {
+            "move": "Protect",
+            "tm": true
+        },
+        {
+            "move": "Icy Wind",
+            "tm": true
+        },
+        {
+            "move": "Attract",
+            "tm": true
+        },
+        {
+            "move": "Rain Dance",
+            "tm": true
+        },
+        {
+            "move": "Hail",
+            "tm": true
+        },
+        {
+            "move": "Whirlpool",
+            "tm": true
+        },
+        {
+            "move": "Facade",
+            "tm": true
+        },
+        {
+            "move": "Brick Break",
+            "tm": true
+        },
+        {
+            "move": "Rock Tomb",
+            "tm": true
+        },
+        {
+            "move": "Mud Shot",
+            "tm": true
+        },
+        {
+            "move": "Payback",
+            "tm": true
+        },
+        {
+            "move": "Fling",
+            "tm": true
+        },
+        {
+            "move": "Round",
+            "tm": true
+        },
+        {
+            "move": "Razor Shell",
+            "tm": true
+        },
+        {
+            "move": "False Swipe",
+            "tm": true
+        },
+        {
+            "move": "Swords Dance",
+            "tm": true
+        },
+        {
+            "move": "Body Slam",
+            "tm": true
+        },
+        {
+            "move": "Hydro Pump",
+            "tm": true
+        },
+        {
+            "move": "Surf",
+            "tm": true
+        },
+        {
+            "move": "Ice Beam",
+            "tm": true
+        },
+        {
+            "move": "Blizzard",
+            "tm": true
+        },
+        {
+            "move": "Waterfall",
+            "tm": true
+        },
+        {
+            "move": "Substitute",
+            "tm": true
+        },
+        {
+            "move": "Sludge Bomb",
+            "tm": true
+        },
+        {
+            "move": "Endure",
+            "tm": true
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": true
+        },
+        {
+            "move": "Crunch",
+            "tm": true
+        },
+        {
+            "move": "Taunt",
+            "tm": true
+        },
+        {
+            "move": "Superpower",
+            "tm": true
+        },
+        {
+            "move": "Muddy Water",
+            "tm": true
+        },
+        {
+            "move": "Iron Defense",
+            "tm": true
+        },
+        {
+            "move": "Dragon Dance",
+            "tm": true
+        },
+        {
+            "move": "X-Scissor",
+            "tm": true
+        },
+        {
+            "move": "Scald",
+            "tm": true
+        },
+        {
+            "move": "Ancient Power",
+            "egg_move": true
+        },
+        {
+            "move": "Metal Claw",
+            "egg_move": true
+        },
+        {
+            "move": "Double-Edge",
+            "egg_move": true
+        },
+        {
+            "move": "Aqua Jet",
+            "egg_move": true
+        },
+        {
+            "move": "Switcheroo",
+            "egg_move": true
+        },
+        {
+            "move": "Slash",
+            "egg_move": true
+        }
+    ]
+}

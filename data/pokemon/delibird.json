@@ -1,0 +1,271 @@
+{
+    "name": "Delibird",
+    "national_id": 225,
+    "types": [
+        "Ice",
+        "Flying"
+    ],
+    "abilities": [
+        {
+            "name": "Vital Spirit"
+        },
+        {
+            "name": "Hustle"
+        },
+        {
+            "name": "Insomnia",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 45,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Water 1",
+        "Field"
+    ],
+    "hatch_time": [
+        5355,
+        5609
+    ],
+    "height_us": "2'11\"",
+    "height_eu": "0.9 m",
+    "weight_us": "35.3 lbs.",
+    "weight_eu": "16.0 kg",
+    "base_exp_yield": 116,
+    "leveling_rate": "Fast",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 1
+    },
+    "base_stats": {
+        "hp": 45,
+        "atk": 55,
+        "def": 45,
+        "sp_atk": 65,
+        "sp_def": 45,
+        "speed": 75
+    },
+    "evolution_from": null,
+    "evolutions": [],
+    "species": "Delivery Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "It has a generous habit of sharing its food with people and Pokémon, so it’s always scrounging around for more food.",
+    "move_learnset": [
+        {
+            "move": "Present",
+            "level": 1
+        },
+        {
+            "move": "Drill Peck",
+            "level": 25
+        },
+        {
+            "move": "Mega Punch",
+            "tm": true
+        },
+        {
+            "move": "Mega Kick",
+            "tm": true
+        },
+        {
+            "move": "Ice Punch",
+            "tm": true
+        },
+        {
+            "move": "Fly",
+            "tm": true
+        },
+        {
+            "move": "Rest",
+            "tm": true
+        },
+        {
+            "move": "Thief",
+            "tm": true
+        },
+        {
+            "move": "Snore",
+            "tm": true
+        },
+        {
+            "move": "Protect",
+            "tm": true
+        },
+        {
+            "move": "Icy Wind",
+            "tm": true
+        },
+        {
+            "move": "Steel Wing",
+            "tm": true
+        },
+        {
+            "move": "Attract",
+            "tm": true
+        },
+        {
+            "move": "Rain Dance",
+            "tm": true
+        },
+        {
+            "move": "Hail",
+            "tm": true
+        },
+        {
+            "move": "Facade",
+            "tm": true
+        },
+        {
+            "move": "Swift",
+            "tm": true
+        },
+        {
+            "move": "Helping Hand",
+            "tm": true
+        },
+        {
+            "move": "Brick Break",
+            "tm": true
+        },
+        {
+            "move": "Weather Ball",
+            "tm": true
+        },
+        {
+            "move": "Icicle Spear",
+            "tm": true
+        },
+        {
+            "move": "Bounce",
+            "tm": true
+        },
+        {
+            "move": "Assurance",
+            "tm": true
+        },
+        {
+            "move": "Fling",
+            "tm": true
+        },
+        {
+            "move": "Avalanche",
+            "tm": true
+        },
+        {
+            "move": "Round",
+            "tm": true
+        },
+        {
+            "move": "Brutal Swing",
+            "tm": true
+        },
+        {
+            "move": "Body Slam",
+            "tm": true
+        },
+        {
+            "move": "Ice Beam",
+            "tm": true
+        },
+        {
+            "move": "Blizzard",
+            "tm": true
+        },
+        {
+            "move": "Agility",
+            "tm": true
+        },
+        {
+            "move": "Substitute",
+            "tm": true
+        },
+        {
+            "move": "Spikes",
+            "tm": true
+        },
+        {
+            "move": "Endure",
+            "tm": true
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": true
+        },
+        {
+            "move": "Baton Pass",
+            "tm": true
+        },
+        {
+            "move": "Future Sight",
+            "tm": true
+        },
+        {
+            "move": "Seed Bomb",
+            "tm": true
+        },
+        {
+            "move": "Brave Bird",
+            "tm": true
+        },
+        {
+            "move": "Gunk Shot",
+            "tm": true
+        },
+        {
+            "move": "Drill Run",
+            "tm": true
+        },
+        {
+            "move": "Aurora Beam",
+            "egg_move": true
+        },
+        {
+            "move": "Quick Attack",
+            "egg_move": true
+        },
+        {
+            "move": "Splash",
+            "egg_move": true
+        },
+        {
+            "move": "Rapid Spin",
+            "egg_move": true
+        },
+        {
+            "move": "Ice Shard",
+            "egg_move": true
+        },
+        {
+            "move": "Fake Out",
+            "egg_move": true
+        },
+        {
+            "move": "Freeze-Dry",
+            "egg_move": true
+        },
+        {
+            "move": "Destiny Bond",
+            "egg_move": true
+        },
+        {
+            "move": "Counter",
+            "egg_move": true
+        },
+        {
+            "move": "Aurora Veil",
+            "egg_move": true
+        },
+        {
+            "move": "Memento",
+            "egg_move": true
+        }
+    ]
+}

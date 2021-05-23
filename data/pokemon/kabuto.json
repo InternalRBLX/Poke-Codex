@@ -1,0 +1,276 @@
+{
+    "name": "Kabuto",
+    "national_id": 140,
+    "types": [
+        "Rock",
+        "Water"
+    ],
+    "abilities": [
+        {
+            "name": "Swift Swim"
+        },
+        {
+            "name": "Battle Armor"
+        },
+        {
+            "name": "Weak Armor",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 45,
+    "gender_ratios": {
+        "male": 87.5,
+        "female": 12.5
+    },
+    "egg_groups": [
+        "Water 1",
+        "Water 3"
+    ],
+    "hatch_time": [
+        7905,
+        8159
+    ],
+    "height_us": "1'08\"",
+    "height_eu": "0.5 m",
+    "weight_us": "25.4 lbs.",
+    "weight_eu": "11.5 kg",
+    "base_exp_yield": 71,
+    "leveling_rate": "Medium Fast",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 1,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 30,
+        "atk": 80,
+        "def": 90,
+        "sp_atk": 55,
+        "sp_def": 45,
+        "speed": 55
+    },
+    "evolution_from": null,
+    "evolutions": [
+        {
+            "to": "Kabutops",
+            "level": 40
+        }
+    ],
+    "species": "Shellfish Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "Kabuto is a Pokémon that has been regenerated from a fossil. However, in extremely rare cases, living examples have been discovered. The Pokémon has not changed at all for 300 million years.",
+    "move_learnset": [
+        {
+            "move": "Harden",
+            "level": 1
+        },
+        {
+            "move": "Scratch",
+            "level": 1
+        },
+        {
+            "move": "Absorb",
+            "level": 6
+        },
+        {
+            "move": "Leer",
+            "level": 11
+        },
+        {
+            "move": "Mud Shot",
+            "level": 16
+        },
+        {
+            "move": "Sand Attack",
+            "level": 21
+        },
+        {
+            "move": "Endure",
+            "level": 26
+        },
+        {
+            "move": "Aqua Jet",
+            "level": 31
+        },
+        {
+            "move": "Mega Drain",
+            "level": 36
+        },
+        {
+            "move": "Metal Sound",
+            "level": 41
+        },
+        {
+            "move": "Ancient Power",
+            "level": 46
+        },
+        {
+            "move": "Wring Out",
+            "level": 50
+        },
+        {
+            "move": "Aurora Beam",
+            "egg_move": true
+        },
+        {
+            "move": "Bubble Beam",
+            "egg_move": true
+        },
+        {
+            "move": "Confuse Ray",
+            "egg_move": true
+        },
+        {
+            "move": "Flail",
+            "egg_move": true
+        },
+        {
+            "move": "Foresight",
+            "egg_move": true
+        },
+        {
+            "move": "Giga Drain",
+            "egg_move": true
+        },
+        {
+            "move": "Icy Wind",
+            "egg_move": true
+        },
+        {
+            "move": "Knock Off",
+            "egg_move": true
+        },
+        {
+            "move": "Mud Shot",
+            "egg_move": true
+        },
+        {
+            "move": "Rapid Spin",
+            "egg_move": true
+        },
+        {
+            "move": "Screech",
+            "egg_move": true
+        },
+        {
+            "move": "Take Down",
+            "egg_move": true
+        },
+        {
+            "move": "Toxic",
+            "tm": "TM6"
+        },
+        {
+            "move": "Hail",
+            "tm": "TM7"
+        },
+        {
+            "move": "Hidden Power",
+            "tm": "TM10"
+        },
+        {
+            "move": "Ice Beam",
+            "tm": "TM13"
+        },
+        {
+            "move": "Blizzard",
+            "tm": "TM14"
+        },
+        {
+            "move": "Protect",
+            "tm": "TM17"
+        },
+        {
+            "move": "Rain Dance",
+            "tm": "TM18"
+        },
+        {
+            "move": "Frustration",
+            "tm": "TM21"
+        },
+        {
+            "move": "Smack Down",
+            "tm": "TM23"
+        },
+        {
+            "move": "Return",
+            "tm": "TM27"
+        },
+        {
+            "move": "Double Team",
+            "tm": "TM32"
+        },
+        {
+            "move": "Sandstorm",
+            "tm": "TM37"
+        },
+        {
+            "move": "Rock Tomb",
+            "tm": "TM39"
+        },
+        {
+            "move": "Aerial Ace",
+            "tm": "TM40"
+        },
+        {
+            "move": "Facade",
+            "tm": "TM42"
+        },
+        {
+            "move": "Rest",
+            "tm": "TM44"
+        },
+        {
+            "move": "Attract",
+            "tm": "TM45"
+        },
+        {
+            "move": "Thief",
+            "tm": "TM46"
+        },
+        {
+            "move": "Round",
+            "tm": "TM48"
+        },
+        {
+            "move": "Scald",
+            "tm": "TM55"
+        },
+        {
+            "move": "Rock Polish",
+            "tm": "TM69"
+        },
+        {
+            "move": "Rock Slide",
+            "tm": "TM80"
+        },
+        {
+            "move": "Swagger",
+            "tm": "TM87"
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": "TM88"
+        },
+        {
+            "move": "Substitute",
+            "tm": "TM90"
+        },
+        {
+            "move": "Surf",
+            "tm": "TM94"
+        },
+        {
+            "move": "Waterfall",
+            "tm": "TM98"
+        },
+        {
+            "move": "Confide",
+            "tm": "TM100"
+        }
+    ]
+}

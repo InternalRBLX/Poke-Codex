@@ -1,0 +1,218 @@
+{
+    "name": "Feebas",
+    "national_id": 349,
+    "types": [
+        "Water"
+    ],
+    "abilities": [
+        {
+            "name": "Swift Swim"
+        },
+        {
+            "name": "Oblivious"
+        },
+        {
+            "name": "Adaptability",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 255,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Water 1",
+        "Dragon"
+    ],
+    "hatch_time": [
+        5355,
+        5609
+    ],
+    "height_us": "2'00\"",
+    "height_eu": "0.6 m",
+    "weight_us": "16.3 lbs.",
+    "weight_eu": "7.4 kg",
+    "base_exp_yield": 40,
+    "leveling_rate": "Erratic",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 1
+    },
+    "base_stats": {
+        "hp": 20,
+        "atk": 15,
+        "def": 20,
+        "sp_atk": 10,
+        "sp_def": 55,
+        "speed": 80
+    },
+    "evolution_from": null,
+    "evolutions": [
+        {
+            "to": "Milotic",
+            "trade": true,
+            "hold_item": "Prism Scale"
+        },
+        {
+            "to": "Milotic",
+            "conditions": [
+                "Beauty"
+            ]
+        }
+    ],
+    "species": "Fish Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "It is a shabby and ugly Pokémon. However, it is very hardy and can survive on little water.",
+    "move_learnset": [
+        {
+            "move": "Splash",
+            "level": 1
+        },
+        {
+            "move": "Tackle",
+            "level": 15
+        },
+        {
+            "move": "Flail",
+            "level": 25
+        },
+        {
+            "move": "Light Screen",
+            "tm": true
+        },
+        {
+            "move": "Rest",
+            "tm": true
+        },
+        {
+            "move": "Snore",
+            "tm": true
+        },
+        {
+            "move": "Protect",
+            "tm": true
+        },
+        {
+            "move": "Icy Wind",
+            "tm": true
+        },
+        {
+            "move": "Attract",
+            "tm": true
+        },
+        {
+            "move": "Rain Dance",
+            "tm": true
+        },
+        {
+            "move": "Hail",
+            "tm": true
+        },
+        {
+            "move": "Whirlpool",
+            "tm": true
+        },
+        {
+            "move": "Facade",
+            "tm": true
+        },
+        {
+            "move": "Swift",
+            "tm": true
+        },
+        {
+            "move": "Dive",
+            "tm": true
+        },
+        {
+            "move": "Mud Shot",
+            "tm": true
+        },
+        {
+            "move": "Brine",
+            "tm": true
+        },
+        {
+            "move": "Round",
+            "tm": true
+        },
+        {
+            "move": "Surf",
+            "tm": true
+        },
+        {
+            "move": "Ice Beam",
+            "tm": true
+        },
+        {
+            "move": "Blizzard",
+            "tm": true
+        },
+        {
+            "move": "Waterfall",
+            "tm": true
+        },
+        {
+            "move": "Substitute",
+            "tm": true
+        },
+        {
+            "move": "Endure",
+            "tm": true
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": true
+        },
+        {
+            "move": "Iron Tail",
+            "tm": true
+        },
+        {
+            "move": "Muddy Water",
+            "tm": true
+        },
+        {
+            "move": "Dragon Pulse",
+            "tm": true
+        },
+        {
+            "move": "Scald",
+            "tm": true
+        },
+        {
+            "move": "Mirror Coat",
+            "egg_move": true
+        },
+        {
+            "move": "Dragon Breath",
+            "egg_move": true
+        },
+        {
+            "move": "Hypnosis",
+            "egg_move": true
+        },
+        {
+            "move": "Confuse Ray",
+            "egg_move": true
+        },
+        {
+            "move": "Mist",
+            "egg_move": true
+        },
+        {
+            "move": "Haze",
+            "egg_move": true
+        },
+        {
+            "move": "Tickle",
+            "egg_move": true
+        }
+    ]
+}

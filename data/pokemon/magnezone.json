@@ -1,0 +1,285 @@
+{
+    "name": "Magnezone",
+    "national_id": 462,
+    "types": [
+        "Electric",
+        "Steel"
+    ],
+    "items": [
+        {
+            "name": "Metal Coat",
+            "chance": 5
+        }
+    ],
+    "abilities": [
+        {
+            "name": "Magnet Pull"
+        },
+        {
+            "name": "Sturdy"
+        },
+        {
+            "name": "Analytic",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 30,
+    "gender_ratios": null,
+    "egg_groups": [
+        "Mineral"
+    ],
+    "hatch_time": [
+        5355,
+        5609
+    ],
+    "height_us": "3'11\"",
+    "height_eu": "1.2 m",
+    "weight_us": "396.8 lbs.",
+    "weight_eu": "180.0 kg",
+    "base_exp_yield": 241,
+    "leveling_rate": "Medium Fast",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 3,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 70,
+        "atk": 70,
+        "def": 115,
+        "sp_atk": 130,
+        "sp_def": 90,
+        "speed": 60
+    },
+    "evolution_from": "Magneton",
+    "evolutions": [],
+    "species": "Magnet Area Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "It evolved from exposure to a special magnetic field. Three units generate magnetism.",
+    "move_learnset": [
+        {
+            "move": "Barrier",
+            "level": 1
+        },
+        {
+            "move": "Electric Terrain",
+            "level": 1
+        },
+        {
+            "move": "Magnetic Flux",
+            "level": 1
+        },
+        {
+            "move": "Mirror Coat",
+            "level": 1
+        },
+        {
+            "move": "Supersonic",
+            "level": 1
+        },
+        {
+            "move": "Tackle",
+            "level": 1
+        },
+        {
+            "move": "Thunder Shock",
+            "level": 1
+        },
+        {
+            "move": "Thunder Wave",
+            "level": 1
+        },
+        {
+            "move": "Tri Attack",
+            "level": 1
+        },
+        {
+            "move": "Zap Cannon",
+            "level": 1
+        },
+        {
+            "move": "Thunder Shock",
+            "level": 5
+        },
+        {
+            "move": "Thunder Wave",
+            "level": 7
+        },
+        {
+            "move": "Magnet Bomb",
+            "level": 11
+        },
+        {
+            "move": "Light Screen",
+            "level": 13
+        },
+        {
+            "move": "Sonic Boom",
+            "level": 17
+        },
+        {
+            "move": "Spark",
+            "level": 19
+        },
+        {
+            "move": "Mirror Shot",
+            "level": 23
+        },
+        {
+            "move": "Metal Sound",
+            "level": 25
+        },
+        {
+            "move": "Electro Ball",
+            "level": 29
+        },
+        {
+            "move": "Flash Cannon",
+            "level": 33
+        },
+        {
+            "move": "Screech",
+            "level": 39
+        },
+        {
+            "move": "Discharge",
+            "level": 43
+        },
+        {
+            "move": "Lock-On",
+            "level": 49
+        },
+        {
+            "move": "Magnet Rise",
+            "level": 53
+        },
+        {
+            "move": "Gyro Ball",
+            "level": 59
+        },
+        {
+            "move": "Zap Cannon",
+            "level": 63
+        },
+        {
+            "move": "Toxic",
+            "tm": "TM6"
+        },
+        {
+            "move": "Hidden Power",
+            "tm": "TM10"
+        },
+        {
+            "move": "Sunny Day",
+            "tm": "TM11"
+        },
+        {
+            "move": "Hyper Beam",
+            "tm": "TM15"
+        },
+        {
+            "move": "Light Screen",
+            "tm": "TM16"
+        },
+        {
+            "move": "Protect",
+            "tm": "TM17"
+        },
+        {
+            "move": "Rain Dance",
+            "tm": "TM18"
+        },
+        {
+            "move": "Frustration",
+            "tm": "TM21"
+        },
+        {
+            "move": "Thunderbolt",
+            "tm": "TM24"
+        },
+        {
+            "move": "Thunder",
+            "tm": "TM25"
+        },
+        {
+            "move": "Return",
+            "tm": "TM27"
+        },
+        {
+            "move": "Double Team",
+            "tm": "TM32"
+        },
+        {
+            "move": "Reflect",
+            "tm": "TM33"
+        },
+        {
+            "move": "Facade",
+            "tm": "TM42"
+        },
+        {
+            "move": "Rest",
+            "tm": "TM44"
+        },
+        {
+            "move": "Round",
+            "tm": "TM48"
+        },
+        {
+            "move": "Charge Beam",
+            "tm": "TM57"
+        },
+        {
+            "move": "Explosion",
+            "tm": "TM64"
+        },
+        {
+            "move": "Giga Impact",
+            "tm": "TM68"
+        },
+        {
+            "move": "Volt Switch",
+            "tm": "TM72"
+        },
+        {
+            "move": "Thunder Wave",
+            "tm": "TM73"
+        },
+        {
+            "move": "Gyro Ball",
+            "tm": "TM74"
+        },
+        {
+            "move": "Psych Up",
+            "tm": "TM77"
+        },
+        {
+            "move": "Swagger",
+            "tm": "TM87"
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": "TM88"
+        },
+        {
+            "move": "Substitute",
+            "tm": "TM90"
+        },
+        {
+            "move": "Flash Cannon",
+            "tm": "TM91"
+        },
+        {
+            "move": "Wild Charge",
+            "tm": "TM93"
+        },
+        {
+            "move": "Confide",
+            "tm": "TM100"
+        }
+    ]
+}

@@ -1,0 +1,286 @@
+{
+    "name": "Bronzor",
+    "national_id": 436,
+    "types": [
+        "Steel",
+        "Psychic"
+    ],
+    "items": [
+        {
+            "name": "Metal Coat",
+            "chance": 5
+        }
+    ],
+    "abilities": [
+        {
+            "name": "Levitate"
+        },
+        {
+            "name": "Heatproof"
+        },
+        {
+            "name": "Heavy Metal",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 255,
+    "gender_ratios": null,
+    "egg_groups": [
+        "Mineral"
+    ],
+    "hatch_time": [
+        5355,
+        5609
+    ],
+    "height_us": "1'08\"",
+    "height_eu": "0.5 m",
+    "weight_us": "133.4 lbs.",
+    "weight_eu": "60.5 kg",
+    "base_exp_yield": 60,
+    "leveling_rate": "Medium Fast",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 1,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 57,
+        "atk": 24,
+        "def": 86,
+        "sp_atk": 24,
+        "sp_def": 86,
+        "speed": 23
+    },
+    "evolution_from": null,
+    "evolutions": [
+        {
+            "to": "Bronzong",
+            "level": 33
+        }
+    ],
+    "species": "Bronze Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "Implements shaped like it were discovered in ancient tombs. It is unknown if they are related.",
+    "move_learnset": [
+        {
+            "move": "Tackle",
+            "level": 1
+        },
+        {
+            "move": "Confusion",
+            "level": 1
+        },
+        {
+            "move": "Confuse Ray",
+            "level": 4
+        },
+        {
+            "move": "Payback",
+            "level": 8
+        },
+        {
+            "move": "Imprison",
+            "level": 12
+        },
+        {
+            "move": "Gyro Ball",
+            "level": 16
+        },
+        {
+            "move": "Hypnosis",
+            "level": 20
+        },
+        {
+            "move": "Safeguard",
+            "level": 24
+        },
+        {
+            "move": "Extrasensory",
+            "level": 28
+        },
+        {
+            "move": "Heavy Slam",
+            "level": 32
+        },
+        {
+            "move": "Iron Defense",
+            "level": 36
+        },
+        {
+            "move": "Metal Sound",
+            "level": 40
+        },
+        {
+            "move": "Future Sight",
+            "level": 44
+        },
+        {
+            "move": "Solar Beam",
+            "tm": true
+        },
+        {
+            "move": "Light Screen",
+            "tm": true
+        },
+        {
+            "move": "Reflect",
+            "tm": true
+        },
+        {
+            "move": "Safeguard",
+            "tm": true
+        },
+        {
+            "move": "Rest",
+            "tm": true
+        },
+        {
+            "move": "Rock Slide",
+            "tm": true
+        },
+        {
+            "move": "Snore",
+            "tm": true
+        },
+        {
+            "move": "Protect",
+            "tm": true
+        },
+        {
+            "move": "Sandstorm",
+            "tm": true
+        },
+        {
+            "move": "Rain Dance",
+            "tm": true
+        },
+        {
+            "move": "Sunny Day",
+            "tm": true
+        },
+        {
+            "move": "Facade",
+            "tm": true
+        },
+        {
+            "move": "Imprison",
+            "tm": true
+        },
+        {
+            "move": "Rock Tomb",
+            "tm": true
+        },
+        {
+            "move": "Payback",
+            "tm": true
+        },
+        {
+            "move": "Power Swap",
+            "tm": true
+        },
+        {
+            "move": "Guard Swap",
+            "tm": true
+        },
+        {
+            "move": "Speed Swap",
+            "tm": true
+        },
+        {
+            "move": "Trick Room",
+            "tm": true
+        },
+        {
+            "move": "Wonder Room",
+            "tm": true
+        },
+        {
+            "move": "Round",
+            "tm": true
+        },
+        {
+            "move": "Hex",
+            "tm": true
+        },
+        {
+            "move": "Bulldoze",
+            "tm": true
+        },
+        {
+            "move": "Earthquake",
+            "tm": true
+        },
+        {
+            "move": "Psychic",
+            "tm": true
+        },
+        {
+            "move": "Substitute",
+            "tm": true
+        },
+        {
+            "move": "Psyshock",
+            "tm": true
+        },
+        {
+            "move": "Endure",
+            "tm": true
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": true
+        },
+        {
+            "move": "Shadow Ball",
+            "tm": true
+        },
+        {
+            "move": "Future Sight",
+            "tm": true
+        },
+        {
+            "move": "Trick",
+            "tm": true
+        },
+        {
+            "move": "Skill Swap",
+            "tm": true
+        },
+        {
+            "move": "Iron Defense",
+            "tm": true
+        },
+        {
+            "move": "Calm Mind",
+            "tm": true
+        },
+        {
+            "move": "Gyro Ball",
+            "tm": true
+        },
+        {
+            "move": "Flash Cannon",
+            "tm": true
+        },
+        {
+            "move": "Stealth Rock",
+            "tm": true
+        },
+        {
+            "move": "Grass Knot",
+            "tm": true
+        },
+        {
+            "move": "Heavy Slam",
+            "tm": true
+        },
+        {
+            "move": "Ally Switch",
+            "tm": true
+        }
+    ]
+}

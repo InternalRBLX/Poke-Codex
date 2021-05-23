@@ -1,0 +1,8 @@
+{
+    "name": "Lumiose Galette",
+    "sell_price": 175,
+    "holdable": true,
+    "battle": true,
+    "category": "Medicine",
+    "subcategory": "Status"
+}

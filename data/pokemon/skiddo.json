@@ -1,0 +1,259 @@
+{
+    "name": "Skiddo",
+    "national_id": 672,
+    "types": [
+        "Grass"
+    ],
+    "abilities": [
+        {
+            "name": "Sap Sipper"
+        },
+        {
+            "name": "Grass Pelt",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 200,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Field"
+    ],
+    "hatch_time": [
+        5355,
+        5609
+    ],
+    "height_us": "2'11\"",
+    "height_eu": "0.9 m",
+    "weight_us": "68.3 lbs.",
+    "weight_eu": "31.0 kg",
+    "base_exp_yield": 70,
+    "leveling_rate": "Medium Fast",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 1,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 66,
+        "atk": 65,
+        "def": 48,
+        "sp_atk": 62,
+        "sp_def": 57,
+        "speed": 52
+    },
+    "evolution_from": null,
+    "evolutions": [
+        {
+            "to": "Gogoat",
+            "level": 32
+        }
+    ],
+    "species": "Mount Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "If it has sunshine and water, it doesn't need to eat, because it can generate energy from the leaves on its back.",
+    "move_learnset": [
+        {
+            "move": "Growth",
+            "level": 1
+        },
+        {
+            "move": "Tackle",
+            "level": 1
+        },
+        {
+            "move": "Vine Whip",
+            "level": 7
+        },
+        {
+            "move": "Tail Whip",
+            "level": 9
+        },
+        {
+            "move": "Leech Seed",
+            "level": 12
+        },
+        {
+            "move": "Razor Leaf",
+            "level": 13
+        },
+        {
+            "move": "Worry Seed",
+            "level": 16
+        },
+        {
+            "move": "Synthesis",
+            "level": 20
+        },
+        {
+            "move": "Take Down",
+            "level": 22
+        },
+        {
+            "move": "Bulldoze",
+            "level": 26
+        },
+        {
+            "move": "Seed Bomb",
+            "level": 30
+        },
+        {
+            "move": "Bulk Up",
+            "level": 34
+        },
+        {
+            "move": "Double-Edge",
+            "level": 38
+        },
+        {
+            "move": "Horn Leech",
+            "level": 42
+        },
+        {
+            "move": "Leaf Blade",
+            "level": 45
+        },
+        {
+            "move": "Milk Drink",
+            "level": 50
+        },
+        {
+            "move": "Defense Curl",
+            "egg_move": true
+        },
+        {
+            "move": "Grassy Terrain",
+            "egg_move": true
+        },
+        {
+            "move": "Milk Drink",
+            "egg_move": true
+        },
+        {
+            "move": "Rollout",
+            "egg_move": true
+        },
+        {
+            "move": "Work Up",
+            "tm": "TM1"
+        },
+        {
+            "move": "Roar",
+            "tm": "TM5"
+        },
+        {
+            "move": "Toxic",
+            "tm": "TM6"
+        },
+        {
+            "move": "Bulk Up",
+            "tm": "TM8"
+        },
+        {
+            "move": "Hidden Power",
+            "tm": "TM10"
+        },
+        {
+            "move": "Sunny Day",
+            "tm": "TM11"
+        },
+        {
+            "move": "Protect",
+            "tm": "TM17"
+        },
+        {
+            "move": "Rain Dance",
+            "tm": "TM18"
+        },
+        {
+            "move": "Frustration",
+            "tm": "TM21"
+        },
+        {
+            "move": "Solar Beam",
+            "tm": "TM22"
+        },
+        {
+            "move": "Return",
+            "tm": "TM27"
+        },
+        {
+            "move": "Brick Break",
+            "tm": "TM31"
+        },
+        {
+            "move": "Double Team",
+            "tm": "TM32"
+        },
+        {
+            "move": "Facade",
+            "tm": "TM42"
+        },
+        {
+            "move": "Rest",
+            "tm": "TM44"
+        },
+        {
+            "move": "Attract",
+            "tm": "TM45"
+        },
+        {
+            "move": "Round",
+            "tm": "TM48"
+        },
+        {
+            "move": "Energy Ball",
+            "tm": "TM53"
+        },
+        {
+            "move": "Payback",
+            "tm": "TM66"
+        },
+        {
+            "move": "Bulldoze",
+            "tm": "TM78"
+        },
+        {
+            "move": "Rock Slide",
+            "tm": "TM80"
+        },
+        {
+            "move": "Grass Knot",
+            "tm": "TM86"
+        },
+        {
+            "move": "Swagger",
+            "tm": "TM87"
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": "TM88"
+        },
+        {
+            "move": "Substitute",
+            "tm": "TM90"
+        },
+        {
+            "move": "Wild Charge",
+            "tm": "TM93"
+        },
+        {
+            "move": "Surf",
+            "tm": "TM94"
+        },
+        {
+            "move": "Nature Power",
+            "tm": "TM96"
+        },
+        {
+            "move": "Confide",
+            "tm": "TM100"
+        }
+    ]
+}

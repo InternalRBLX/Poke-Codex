@@ -1,0 +1,340 @@
+{
+    "name": "Swampert",
+    "national_id": 260,
+    "types": [
+        "Water",
+        "Ground"
+    ],
+    "abilities": [
+        {
+            "name": "Torrent"
+        },
+        {
+            "name": "Damp",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 45,
+    "gender_ratios": {
+        "male": 87.5,
+        "female": 12.5
+    },
+    "egg_groups": [
+        "Monster",
+        "Water 1"
+    ],
+    "hatch_time": [
+        5355,
+        5609
+    ],
+    "height_us": "4'11\"",
+    "height_eu": "1.5 m",
+    "weight_us": "180.6 lbs.",
+    "weight_eu": "81.9 kg",
+    "base_exp_yield": 241,
+    "leveling_rate": "Medium Slow",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 3,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 100,
+        "atk": 110,
+        "def": 90,
+        "sp_atk": 85,
+        "sp_def": 90,
+        "speed": 60
+    },
+    "evolution_from": "Marshtomp",
+    "evolutions": [],
+    "species": "Mud Fish Pokémon",
+    "mega_evolves": true,
+    "pokedex_entry": "Swampert predicts storms by sensing subtle differences in the sounds of waves and tidal winds with its fins. If a storm is approaching, it piles up boulders to protect itself.",
+    "move_learnset": [
+        {
+            "move": "Growl",
+            "level": 1
+        },
+        {
+            "move": "Hammer Arm",
+            "level": 1
+        },
+        {
+            "move": "Mud Shot",
+            "level": 1
+        },
+        {
+            "move": "Mud-Slap",
+            "level": 1
+        },
+        {
+            "move": "Tackle",
+            "level": 1
+        },
+        {
+            "move": "Water Gun",
+            "level": 1
+        },
+        {
+            "move": "Water Gun",
+            "level": 4
+        },
+        {
+            "move": "Mud-Slap",
+            "level": 9
+        },
+        {
+            "move": "Foresight",
+            "level": 12
+        },
+        {
+            "move": "Bide",
+            "level": 18
+        },
+        {
+            "move": "Mud Bomb",
+            "level": 22
+        },
+        {
+            "move": "Rock Slide",
+            "level": 28
+        },
+        {
+            "move": "Protect",
+            "level": 32
+        },
+        {
+            "move": "Muddy Water",
+            "level": 39
+        },
+        {
+            "move": "Take Down",
+            "level": 44
+        },
+        {
+            "move": "Earthquake",
+            "level": 51
+        },
+        {
+            "move": "Endeavor",
+            "level": 56
+        },
+        {
+            "move": "Hammer Arm",
+            "level": 63
+        },
+        {
+            "move": "Ancient Power",
+            "egg_move": true
+        },
+        {
+            "move": "Avalanche",
+            "egg_move": true
+        },
+        {
+            "move": "Barrier",
+            "egg_move": true
+        },
+        {
+            "move": "Bite",
+            "egg_move": true
+        },
+        {
+            "move": "Counter",
+            "egg_move": true
+        },
+        {
+            "move": "Curse",
+            "egg_move": true
+        },
+        {
+            "move": "Double-Edge",
+            "egg_move": true
+        },
+        {
+            "move": "Ice Ball",
+            "egg_move": true
+        },
+        {
+            "move": "Mirror Coat",
+            "egg_move": true
+        },
+        {
+            "move": "Mud Bomb",
+            "egg_move": true
+        },
+        {
+            "move": "Refresh",
+            "egg_move": true
+        },
+        {
+            "move": "Sludge",
+            "egg_move": true
+        },
+        {
+            "move": "Stomp",
+            "egg_move": true
+        },
+        {
+            "move": "Uproar",
+            "egg_move": true
+        },
+        {
+            "move": "Whirlpool",
+            "egg_move": true
+        },
+        {
+            "move": "Wide Guard",
+            "egg_move": true
+        },
+        {
+            "move": "Yawn",
+            "egg_move": true
+        },
+        {
+            "move": "Work Up",
+            "tm": "TM1"
+        },
+        {
+            "move": "Roar",
+            "tm": "TM5"
+        },
+        {
+            "move": "Toxic",
+            "tm": "TM6"
+        },
+        {
+            "move": "Hail",
+            "tm": "TM7"
+        },
+        {
+            "move": "Hidden Power",
+            "tm": "TM10"
+        },
+        {
+            "move": "Ice Beam",
+            "tm": "TM13"
+        },
+        {
+            "move": "Blizzard",
+            "tm": "TM14"
+        },
+        {
+            "move": "Hyper Beam",
+            "tm": "TM15"
+        },
+        {
+            "move": "Protect",
+            "tm": "TM17"
+        },
+        {
+            "move": "Rain Dance",
+            "tm": "TM18"
+        },
+        {
+            "move": "Frustration",
+            "tm": "TM21"
+        },
+        {
+            "move": "Earthquake",
+            "tm": "TM26"
+        },
+        {
+            "move": "Return",
+            "tm": "TM27"
+        },
+        {
+            "move": "Brick Break",
+            "tm": "TM31"
+        },
+        {
+            "move": "Double Team",
+            "tm": "TM32"
+        },
+        {
+            "move": "Sludge Wave",
+            "tm": "TM34"
+        },
+        {
+            "move": "Rock Tomb",
+            "tm": "TM39"
+        },
+        {
+            "move": "Facade",
+            "tm": "TM42"
+        },
+        {
+            "move": "Rest",
+            "tm": "TM44"
+        },
+        {
+            "move": "Attract",
+            "tm": "TM45"
+        },
+        {
+            "move": "Round",
+            "tm": "TM48"
+        },
+        {
+            "move": "Echoed Voice",
+            "tm": "TM49"
+        },
+        {
+            "move": "Focus Blast",
+            "tm": "TM52"
+        },
+        {
+            "move": "Scald",
+            "tm": "TM55"
+        },
+        {
+            "move": "Fling",
+            "tm": "TM56"
+        },
+        {
+            "move": "Giga Impact",
+            "tm": "TM68"
+        },
+        {
+            "move": "Stone Edge",
+            "tm": "TM71"
+        },
+        {
+            "move": "Bulldoze",
+            "tm": "TM78"
+        },
+        {
+            "move": "Rock Slide",
+            "tm": "TM80"
+        },
+        {
+            "move": "Swagger",
+            "tm": "TM87"
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": "TM88"
+        },
+        {
+            "move": "Substitute",
+            "tm": "TM90"
+        },
+        {
+            "move": "Surf",
+            "tm": "TM94"
+        },
+        {
+            "move": "Waterfall",
+            "tm": "TM98"
+        },
+        {
+            "move": "Confide",
+            "tm": "TM100"
+        }
+    ]
+}

@@ -1,0 +1,227 @@
+{
+    "name": "Clamperl",
+    "national_id": 366,
+    "types": [
+        "Water"
+    ],
+    "items": [
+        {
+            "name": "Big Pearl",
+            "chance": 5
+        },
+        {
+            "name": "Pearl",
+            "chance": 50
+        }
+    ],
+    "abilities": [
+        {
+            "name": "Shell Armor"
+        },
+        {
+            "name": "Rattled",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 255,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Water 1"
+    ],
+    "hatch_time": [
+        5355,
+        5609
+    ],
+    "height_us": "1'04\"",
+    "height_eu": "0.4 m",
+    "weight_us": "115.7 lbs.",
+    "weight_eu": "52.5 kg",
+    "base_exp_yield": 69,
+    "leveling_rate": "Erratic",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 1,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 35,
+        "atk": 64,
+        "def": 85,
+        "sp_atk": 74,
+        "sp_def": 55,
+        "speed": 32
+    },
+    "evolution_from": null,
+    "evolutions": [
+        {
+            "to": "Huntail",
+            "trade": true,
+            "hold_item": "Deepseatooth"
+        },
+        {
+            "to": "Gorebyss",
+            "trade": true,
+            "hold_item": "Deepseascale"
+        }
+    ],
+    "species": "Bivalve Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "Clamperl grows while being protected by its rock-hard shell. When its body becomes too large to fit inside the shell, it is sure evidence that this Pokémon is getting close to evolution.",
+    "move_learnset": [
+        {
+            "move": "Clamp",
+            "level": 1
+        },
+        {
+            "move": "Iron Defense",
+            "level": 1
+        },
+        {
+            "move": "Water Gun",
+            "level": 1
+        },
+        {
+            "move": "Whirlpool",
+            "level": 1
+        },
+        {
+            "move": "Shell Smash",
+            "level": 50
+        },
+        {
+            "move": "Aqua Ring",
+            "egg_move": true
+        },
+        {
+            "move": "Barrier",
+            "egg_move": true
+        },
+        {
+            "move": "Body Slam",
+            "egg_move": true
+        },
+        {
+            "move": "Brine",
+            "egg_move": true
+        },
+        {
+            "move": "Confuse Ray",
+            "egg_move": true
+        },
+        {
+            "move": "Endure",
+            "egg_move": true
+        },
+        {
+            "move": "Mud Sport",
+            "egg_move": true
+        },
+        {
+            "move": "Muddy Water",
+            "egg_move": true
+        },
+        {
+            "move": "Refresh",
+            "egg_move": true
+        },
+        {
+            "move": "Supersonic",
+            "egg_move": true
+        },
+        {
+            "move": "Water Pulse",
+            "egg_move": true
+        },
+        {
+            "move": "Toxic",
+            "tm": "TM6"
+        },
+        {
+            "move": "Hail",
+            "tm": "TM7"
+        },
+        {
+            "move": "Hidden Power",
+            "tm": "TM10"
+        },
+        {
+            "move": "Ice Beam",
+            "tm": "TM13"
+        },
+        {
+            "move": "Blizzard",
+            "tm": "TM14"
+        },
+        {
+            "move": "Protect",
+            "tm": "TM17"
+        },
+        {
+            "move": "Rain Dance",
+            "tm": "TM18"
+        },
+        {
+            "move": "Frustration",
+            "tm": "TM21"
+        },
+        {
+            "move": "Return",
+            "tm": "TM27"
+        },
+        {
+            "move": "Double Team",
+            "tm": "TM32"
+        },
+        {
+            "move": "Facade",
+            "tm": "TM42"
+        },
+        {
+            "move": "Rest",
+            "tm": "TM44"
+        },
+        {
+            "move": "Attract",
+            "tm": "TM45"
+        },
+        {
+            "move": "Round",
+            "tm": "TM48"
+        },
+        {
+            "move": "Scald",
+            "tm": "TM55"
+        },
+        {
+            "move": "Swagger",
+            "tm": "TM87"
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": "TM88"
+        },
+        {
+            "move": "Substitute",
+            "tm": "TM90"
+        },
+        {
+            "move": "Surf",
+            "tm": "TM94"
+        },
+        {
+            "move": "Waterfall",
+            "tm": "TM98"
+        },
+        {
+            "move": "Confide",
+            "tm": "TM100"
+        }
+    ]
+}

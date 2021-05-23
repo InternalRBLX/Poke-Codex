@@ -1,0 +1,304 @@
+{
+    "name": "Prinplup",
+    "national_id": 394,
+    "types": [
+        "Water"
+    ],
+    "abilities": [
+        {
+            "name": "Torrent"
+        },
+        {
+            "name": "Defiant",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 45,
+    "gender_ratios": {
+        "male": 87.5,
+        "female": 12.5
+    },
+    "egg_groups": [
+        "Water 1",
+        "Field"
+    ],
+    "hatch_time": [
+        5355,
+        5609
+    ],
+    "height_us": "2'07\"",
+    "height_eu": "0.8 m",
+    "weight_us": "50.7 lbs.",
+    "weight_eu": "23.0 kg",
+    "base_exp_yield": 142,
+    "leveling_rate": "Medium Slow",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 2,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 64,
+        "atk": 66,
+        "def": 68,
+        "sp_atk": 81,
+        "sp_def": 76,
+        "speed": 50
+    },
+    "evolution_from": "Piplup",
+    "evolutions": [
+        {
+            "to": "Empoleon",
+            "level": 36
+        }
+    ],
+    "species": "Penguin Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "It lives a solitary life. Its wings deliver wicked blows that can snap even the thickest of trees.",
+    "move_learnset": [
+        {
+            "move": "Bubble",
+            "level": 1
+        },
+        {
+            "move": "Growl",
+            "level": 1
+        },
+        {
+            "move": "Metal Claw",
+            "level": 1
+        },
+        {
+            "move": "Tackle",
+            "level": 1
+        },
+        {
+            "move": "Growl",
+            "level": 4
+        },
+        {
+            "move": "Bubble",
+            "level": 8
+        },
+        {
+            "move": "Water Sport",
+            "level": 11
+        },
+        {
+            "move": "Peck",
+            "level": 15
+        },
+        {
+            "move": "Bubble Beam",
+            "level": 19
+        },
+        {
+            "move": "Bide",
+            "level": 24
+        },
+        {
+            "move": "Fury Attack",
+            "level": 28
+        },
+        {
+            "move": "Brine",
+            "level": 33
+        },
+        {
+            "move": "Whirlpool",
+            "level": 37
+        },
+        {
+            "move": "Mist",
+            "level": 42
+        },
+        {
+            "move": "Drill Peck",
+            "level": 46
+        },
+        {
+            "move": "Hydro Pump",
+            "level": 50
+        },
+        {
+            "move": "Agility",
+            "egg_move": true
+        },
+        {
+            "move": "Aqua Ring",
+            "egg_move": true
+        },
+        {
+            "move": "Bide",
+            "egg_move": true
+        },
+        {
+            "move": "Double Hit",
+            "egg_move": true
+        },
+        {
+            "move": "Feather Dance",
+            "egg_move": true
+        },
+        {
+            "move": "Flail",
+            "egg_move": true
+        },
+        {
+            "move": "Hydro Pump",
+            "egg_move": true
+        },
+        {
+            "move": "Icy Wind",
+            "egg_move": true
+        },
+        {
+            "move": "Mud-Slap",
+            "egg_move": true
+        },
+        {
+            "move": "Mud Sport",
+            "egg_move": true
+        },
+        {
+            "move": "Power Trip",
+            "egg_move": true
+        },
+        {
+            "move": "Snore",
+            "egg_move": true
+        },
+        {
+            "move": "Supersonic",
+            "egg_move": true
+        },
+        {
+            "move": "Yawn",
+            "egg_move": true
+        },
+        {
+            "move": "Work Up",
+            "tm": "TM1"
+        },
+        {
+            "move": "Toxic",
+            "tm": "TM6"
+        },
+        {
+            "move": "Hail",
+            "tm": "TM7"
+        },
+        {
+            "move": "Hidden Power",
+            "tm": "TM10"
+        },
+        {
+            "move": "Ice Beam",
+            "tm": "TM13"
+        },
+        {
+            "move": "Blizzard",
+            "tm": "TM14"
+        },
+        {
+            "move": "Protect",
+            "tm": "TM17"
+        },
+        {
+            "move": "Rain Dance",
+            "tm": "TM18"
+        },
+        {
+            "move": "Frustration",
+            "tm": "TM21"
+        },
+        {
+            "move": "Return",
+            "tm": "TM27"
+        },
+        {
+            "move": "Brick Break",
+            "tm": "TM31"
+        },
+        {
+            "move": "Double Team",
+            "tm": "TM32"
+        },
+        {
+            "move": "Rock Tomb",
+            "tm": "TM39"
+        },
+        {
+            "move": "Aerial Ace",
+            "tm": "TM40"
+        },
+        {
+            "move": "Facade",
+            "tm": "TM42"
+        },
+        {
+            "move": "Rest",
+            "tm": "TM44"
+        },
+        {
+            "move": "Attract",
+            "tm": "TM45"
+        },
+        {
+            "move": "Round",
+            "tm": "TM48"
+        },
+        {
+            "move": "Echoed Voice",
+            "tm": "TM49"
+        },
+        {
+            "move": "Scald",
+            "tm": "TM55"
+        },
+        {
+            "move": "Fling",
+            "tm": "TM56"
+        },
+        {
+            "move": "Quash",
+            "tm": "TM60"
+        },
+        {
+            "move": "Shadow Claw",
+            "tm": "TM65"
+        },
+        {
+            "move": "Grass Knot",
+            "tm": "TM86"
+        },
+        {
+            "move": "Swagger",
+            "tm": "TM87"
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": "TM88"
+        },
+        {
+            "move": "Substitute",
+            "tm": "TM90"
+        },
+        {
+            "move": "Surf",
+            "tm": "TM94"
+        },
+        {
+            "move": "Waterfall",
+            "tm": "TM98"
+        },
+        {
+            "move": "Confide",
+            "tm": "TM100"
+        }
+    ]
+}

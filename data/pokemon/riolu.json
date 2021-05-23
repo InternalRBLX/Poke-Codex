@@ -1,0 +1,349 @@
+{
+    "name": "Riolu",
+    "national_id": 447,
+    "types": [
+        "Fighting"
+    ],
+    "abilities": [
+        {
+            "name": "Steadfast"
+        },
+        {
+            "name": "Inner Focus"
+        },
+        {
+            "name": "Prankster",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 75,
+    "gender_ratios": {
+        "male": 87.5,
+        "female": 12.5
+    },
+    "egg_groups": [
+        "Undiscovered"
+    ],
+    "hatch_time": [
+        6630,
+        6884
+    ],
+    "height_us": "2'04\"",
+    "height_eu": "0.7 m",
+    "weight_us": "44.5 lbs.",
+    "weight_eu": "20.2 kg",
+    "base_exp_yield": 57,
+    "leveling_rate": "Medium Slow",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 1,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 40,
+        "atk": 70,
+        "def": 40,
+        "sp_atk": 35,
+        "sp_def": 40,
+        "speed": 60
+    },
+    "evolution_from": null,
+    "evolutions": [
+        {
+            "to": "Lucario",
+            "happiness": true,
+            "conditions": [
+                "Daytime"
+            ]
+        }
+    ],
+    "species": "Emanation Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "It can use waves called auras to gauge how others are feeling. These same waves can also tell this Pokémon about the state of the environment.",
+    "move_learnset": [
+        {
+            "move": "Quick Attack",
+            "level": 1
+        },
+        {
+            "move": "Endure",
+            "level": 1
+        },
+        {
+            "move": "Feint",
+            "level": 4
+        },
+        {
+            "move": "Metal Claw",
+            "level": 8
+        },
+        {
+            "move": "Counter",
+            "level": 12
+        },
+        {
+            "move": "Work Up",
+            "level": 16
+        },
+        {
+            "move": "Rock Smash",
+            "level": 20
+        },
+        {
+            "move": "Nasty Plot",
+            "level": 24
+        },
+        {
+            "move": "Screech",
+            "level": 28
+        },
+        {
+            "move": "Quick Guard",
+            "level": 32
+        },
+        {
+            "move": "Force Palm",
+            "level": 36
+        },
+        {
+            "move": "Swords Dance",
+            "level": 40
+        },
+        {
+            "move": "Helping Hand",
+            "level": 44
+        },
+        {
+            "move": "Copycat",
+            "level": 48
+        },
+        {
+            "move": "Final Gambit",
+            "level": 52
+        },
+        {
+            "move": "Reversal",
+            "level": 56
+        },
+        {
+            "move": "Mega Punch",
+            "tm": true
+        },
+        {
+            "move": "Mega Kick",
+            "tm": true
+        },
+        {
+            "move": "Ice Punch",
+            "tm": true
+        },
+        {
+            "move": "Thunder Punch",
+            "tm": true
+        },
+        {
+            "move": "Dig",
+            "tm": true
+        },
+        {
+            "move": "Screech",
+            "tm": true
+        },
+        {
+            "move": "Rest",
+            "tm": true
+        },
+        {
+            "move": "Rock Slide",
+            "tm": true
+        },
+        {
+            "move": "Snore",
+            "tm": true
+        },
+        {
+            "move": "Protect",
+            "tm": true
+        },
+        {
+            "move": "Attract",
+            "tm": true
+        },
+        {
+            "move": "Rain Dance",
+            "tm": true
+        },
+        {
+            "move": "Sunny Day",
+            "tm": true
+        },
+        {
+            "move": "Facade",
+            "tm": true
+        },
+        {
+            "move": "Swift",
+            "tm": true
+        },
+        {
+            "move": "Helping Hand",
+            "tm": true
+        },
+        {
+            "move": "Revenge",
+            "tm": true
+        },
+        {
+            "move": "Brick Break",
+            "tm": true
+        },
+        {
+            "move": "Rock Tomb",
+            "tm": true
+        },
+        {
+            "move": "Payback",
+            "tm": true
+        },
+        {
+            "move": "Fling",
+            "tm": true
+        },
+        {
+            "move": "Drain Punch",
+            "tm": true
+        },
+        {
+            "move": "Shadow Claw",
+            "tm": true
+        },
+        {
+            "move": "Low Sweep",
+            "tm": true
+        },
+        {
+            "move": "Round",
+            "tm": true
+        },
+        {
+            "move": "Retaliate",
+            "tm": true
+        },
+        {
+            "move": "Bulldoze",
+            "tm": true
+        },
+        {
+            "move": "Swords Dance",
+            "tm": true
+        },
+        {
+            "move": "Low Kick",
+            "tm": true
+        },
+        {
+            "move": "Earthquake",
+            "tm": true
+        },
+        {
+            "move": "Agility",
+            "tm": true
+        },
+        {
+            "move": "Substitute",
+            "tm": true
+        },
+        {
+            "move": "Reversal",
+            "tm": true
+        },
+        {
+            "move": "Endure",
+            "tm": true
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": true
+        },
+        {
+            "move": "Iron Tail",
+            "tm": true
+        },
+        {
+            "move": "Crunch",
+            "tm": true
+        },
+        {
+            "move": "Blaze Kick",
+            "tm": true
+        },
+        {
+            "move": "Iron Defense",
+            "tm": true
+        },
+        {
+            "move": "Bulk Up",
+            "tm": true
+        },
+        {
+            "move": "Poison Jab",
+            "tm": true
+        },
+        {
+            "move": "Focus Blast",
+            "tm": true
+        },
+        {
+            "move": "Nasty Plot",
+            "tm": true
+        },
+        {
+            "move": "Zen Headbutt",
+            "tm": true
+        },
+        {
+            "move": "Work Up",
+            "tm": true
+        },
+        {
+            "move": "Cross Chop",
+            "egg_move": true
+        },
+        {
+            "move": "Detect",
+            "egg_move": true
+        },
+        {
+            "move": "Bite",
+            "egg_move": true
+        },
+        {
+            "move": "Mind Reader",
+            "egg_move": true
+        },
+        {
+            "move": "High Jump Kick",
+            "egg_move": true
+        },
+        {
+            "move": "Vacuum Wave",
+            "egg_move": true
+        },
+        {
+            "move": "Bullet Punch",
+            "egg_move": true
+        },
+        {
+            "move": "Circle Throw",
+            "egg_move": true
+        },
+        {
+            "move": "Howl",
+            "egg_move": true
+        }
+    ]
+}

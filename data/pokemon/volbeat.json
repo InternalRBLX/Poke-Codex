@@ -1,0 +1,295 @@
+{
+    "name": "Volbeat",
+    "national_id": 313,
+    "types": [
+        "Bug"
+    ],
+    "items": [
+        {
+            "name": "Bright Powder",
+            "chance": 5
+        }
+    ],
+    "abilities": [
+        {
+            "name": "Illuminate"
+        },
+        {
+            "name": "Swarm"
+        },
+        {
+            "name": "Prankster",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 150,
+    "gender_ratios": {
+        "male": 100
+    },
+    "egg_groups": [
+        "Bug",
+        "Human-Like"
+    ],
+    "hatch_time": [
+        4080,
+        4334
+    ],
+    "height_us": "2'04\"",
+    "height_eu": "0.7 m",
+    "weight_us": "39.0 lbs.",
+    "weight_eu": "17.7 kg",
+    "base_exp_yield": 140,
+    "leveling_rate": "Erratic",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 1
+    },
+    "base_stats": {
+        "hp": 65,
+        "atk": 73,
+        "def": 55,
+        "sp_atk": 47,
+        "sp_def": 75,
+        "speed": 85
+    },
+    "evolution_from": null,
+    "evolutions": [],
+    "species": "Firefly Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "Volbeat’s tail glows like a lightbulb. With other Volbeat, it uses its tail to draw geometric shapes in the night sky. This Pokémon loves the sweet aroma given off by Illumise.",
+    "move_learnset": [
+        {
+            "move": "Flash",
+            "level": 1
+        },
+        {
+            "move": "Tackle",
+            "level": 1
+        },
+        {
+            "move": "Double Team",
+            "level": 5
+        },
+        {
+            "move": "Confuse Ray",
+            "level": 8
+        },
+        {
+            "move": "Quick Attack",
+            "level": 12
+        },
+        {
+            "move": "Struggle Bug",
+            "level": 15
+        },
+        {
+            "move": "Moonlight",
+            "level": 19
+        },
+        {
+            "move": "Tail Glow",
+            "level": 22
+        },
+        {
+            "move": "Signal Beam",
+            "level": 26
+        },
+        {
+            "move": "Protect",
+            "level": 29
+        },
+        {
+            "move": "Zen Headbutt",
+            "level": 33
+        },
+        {
+            "move": "Helping Hand",
+            "level": 36
+        },
+        {
+            "move": "Bug Buzz",
+            "level": 40
+        },
+        {
+            "move": "Play Rough",
+            "level": 43
+        },
+        {
+            "move": "Double-Edge",
+            "level": 47
+        },
+        {
+            "move": "Infestation",
+            "level": 50
+        },
+        {
+            "move": "Baton Pass",
+            "egg_move": true
+        },
+        {
+            "move": "Bug Buzz",
+            "egg_move": true
+        },
+        {
+            "move": "Dizzy Punch",
+            "egg_move": true
+        },
+        {
+            "move": "Encore",
+            "egg_move": true
+        },
+        {
+            "move": "Lunge",
+            "egg_move": true
+        },
+        {
+            "move": "Seismic Toss",
+            "egg_move": true
+        },
+        {
+            "move": "Silver Wind",
+            "egg_move": true
+        },
+        {
+            "move": "Trick",
+            "egg_move": true
+        },
+        {
+            "move": "Toxic",
+            "tm": "TM6"
+        },
+        {
+            "move": "Hidden Power",
+            "tm": "TM10"
+        },
+        {
+            "move": "Sunny Day",
+            "tm": "TM11"
+        },
+        {
+            "move": "Light Screen",
+            "tm": "TM16"
+        },
+        {
+            "move": "Protect",
+            "tm": "TM17"
+        },
+        {
+            "move": "Rain Dance",
+            "tm": "TM18"
+        },
+        {
+            "move": "Roost",
+            "tm": "TM19"
+        },
+        {
+            "move": "Frustration",
+            "tm": "TM21"
+        },
+        {
+            "move": "Solar Beam",
+            "tm": "TM22"
+        },
+        {
+            "move": "Thunderbolt",
+            "tm": "TM24"
+        },
+        {
+            "move": "Thunder",
+            "tm": "TM25"
+        },
+        {
+            "move": "Return",
+            "tm": "TM27"
+        },
+        {
+            "move": "Shadow Ball",
+            "tm": "TM30"
+        },
+        {
+            "move": "Brick Break",
+            "tm": "TM31"
+        },
+        {
+            "move": "Double Team",
+            "tm": "TM32"
+        },
+        {
+            "move": "Aerial Ace",
+            "tm": "TM40"
+        },
+        {
+            "move": "Facade",
+            "tm": "TM42"
+        },
+        {
+            "move": "Rest",
+            "tm": "TM44"
+        },
+        {
+            "move": "Attract",
+            "tm": "TM45"
+        },
+        {
+            "move": "Thief",
+            "tm": "TM46"
+        },
+        {
+            "move": "Round",
+            "tm": "TM48"
+        },
+        {
+            "move": "Fling",
+            "tm": "TM56"
+        },
+        {
+            "move": "Charge Beam",
+            "tm": "TM57"
+        },
+        {
+            "move": "Acrobatics",
+            "tm": "TM62"
+        },
+        {
+            "move": "Thunder Wave",
+            "tm": "TM73"
+        },
+        {
+            "move": "Psych Up",
+            "tm": "TM77"
+        },
+        {
+            "move": "Infestation",
+            "tm": "TM83"
+        },
+        {
+            "move": "Swagger",
+            "tm": "TM87"
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": "TM88"
+        },
+        {
+            "move": "U-turn",
+            "tm": "TM89"
+        },
+        {
+            "move": "Substitute",
+            "tm": "TM90"
+        },
+        {
+            "move": "Dazzling Gleam",
+            "tm": "TM99"
+        },
+        {
+            "move": "Confide",
+            "tm": "TM100"
+        }
+    ]
+}

@@ -1,0 +1,122 @@
+{
+    "name": "Wobbuffet",
+    "national_id": 202,
+    "types": [
+        "Psychic"
+    ],
+    "abilities": [
+        {
+            "name": "Shadow Tag"
+        },
+        {
+            "name": "Telepathy",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 45,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Amorphous"
+    ],
+    "hatch_time": [
+        5355,
+        5609
+    ],
+    "height_us": "4'03\"",
+    "height_eu": "1.3 m",
+    "weight_us": "62.8 lbs.",
+    "weight_eu": "28.5 kg",
+    "base_exp_yield": 142,
+    "leveling_rate": "Medium Fast",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 2,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 190,
+        "atk": 33,
+        "def": 58,
+        "sp_atk": 33,
+        "sp_def": 58,
+        "speed": 33
+    },
+    "evolution_from": "Wynaut",
+    "evolutions": [],
+    "species": "Patient Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "To keep its pitch-black tail hidden, it lives quietly in the darkness. It is never first to attack.",
+    "move_learnset": [
+        {
+            "move": "Counter",
+            "evo": true
+        },
+        {
+            "move": "Mirror Coat",
+            "evo": true
+        },
+        {
+            "move": "Safeguard",
+            "evo": true
+        },
+        {
+            "move": "Destiny Bond",
+            "evo": true
+        },
+        {
+            "move": "Splash",
+            "level": 1
+        },
+        {
+            "move": "Charm",
+            "level": 1
+        },
+        {
+            "move": "Encore",
+            "level": 1
+        },
+        {
+            "move": "Amnesia",
+            "level": 1
+        },
+        {
+            "move": "Counter",
+            "level": 1
+        },
+        {
+            "move": "Mirror Coat",
+            "level": 1
+        },
+        {
+            "move": "Safeguard",
+            "level": 1
+        },
+        {
+            "move": "Destiny Bond",
+            "level": 1
+        },
+        {
+            "move": "Safeguard",
+            "tm": true
+        },
+        {
+            "move": "Charm",
+            "tm": true
+        },
+        {
+            "move": "Amnesia",
+            "tm": true
+        },
+        {
+            "move": "Encore",
+            "tm": true
+        }
+    ]
+}

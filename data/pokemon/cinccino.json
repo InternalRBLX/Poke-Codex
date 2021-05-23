@@ -1,0 +1,315 @@
+{
+    "name": "Cinccino",
+    "national_id": 573,
+    "types": [
+        "Normal"
+    ],
+    "items": [
+        {
+            "name": "Chesto Berry",
+            "chance": 50
+        }
+    ],
+    "abilities": [
+        {
+            "name": "Cute Charm"
+        },
+        {
+            "name": "Technician"
+        },
+        {
+            "name": "Skill Link",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 60,
+    "gender_ratios": {
+        "male": 25,
+        "female": 75
+    },
+    "egg_groups": [
+        "Field"
+    ],
+    "hatch_time": [
+        4080,
+        4334
+    ],
+    "height_us": "1'08\"",
+    "height_eu": "0.5 m",
+    "weight_us": "16.5 lbs.",
+    "weight_eu": "7.5 kg",
+    "base_exp_yield": 165,
+    "leveling_rate": "Fast",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 2
+    },
+    "base_stats": {
+        "hp": 75,
+        "atk": 95,
+        "def": 60,
+        "sp_atk": 65,
+        "sp_def": 60,
+        "speed": 115
+    },
+    "evolution_from": "Minccino",
+    "evolutions": [],
+    "species": "Scarf Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "A special oil that seeps through their fur helps them avoid attacks. The oil fetches a high price at market.",
+    "move_learnset": [
+        {
+            "move": "Bullet Seed",
+            "level": 1
+        },
+        {
+            "move": "Rock Blast",
+            "level": 1
+        },
+        {
+            "move": "Sing",
+            "level": 1
+        },
+        {
+            "move": "Charm",
+            "level": 1
+        },
+        {
+            "move": "Swift",
+            "level": 1
+        },
+        {
+            "move": "Encore",
+            "level": 1
+        },
+        {
+            "move": "After You",
+            "level": 1
+        },
+        {
+            "move": "Tail Slap",
+            "level": 1
+        },
+        {
+            "move": "Tickle",
+            "level": 1
+        },
+        {
+            "move": "Slam",
+            "level": 1
+        },
+        {
+            "move": "Hyper Voice",
+            "level": 1
+        },
+        {
+            "move": "Last Resort",
+            "level": 1
+        },
+        {
+            "move": "Pound",
+            "level": 1
+        },
+        {
+            "move": "Baby-Doll Eyes",
+            "level": 1
+        },
+        {
+            "move": "Helping Hand",
+            "level": 1
+        },
+        {
+            "move": "Echoed Voice",
+            "level": 1
+        },
+        {
+            "move": "Hyper Beam",
+            "tm": true
+        },
+        {
+            "move": "Giga Impact",
+            "tm": true
+        },
+        {
+            "move": "Thunder Wave",
+            "tm": true
+        },
+        {
+            "move": "Dig",
+            "tm": true
+        },
+        {
+            "move": "Light Screen",
+            "tm": true
+        },
+        {
+            "move": "Safeguard",
+            "tm": true
+        },
+        {
+            "move": "Rest",
+            "tm": true
+        },
+        {
+            "move": "Thief",
+            "tm": true
+        },
+        {
+            "move": "Snore",
+            "tm": true
+        },
+        {
+            "move": "Protect",
+            "tm": true
+        },
+        {
+            "move": "Charm",
+            "tm": true
+        },
+        {
+            "move": "Attract",
+            "tm": true
+        },
+        {
+            "move": "Rain Dance",
+            "tm": true
+        },
+        {
+            "move": "Sunny Day",
+            "tm": true
+        },
+        {
+            "move": "Facade",
+            "tm": true
+        },
+        {
+            "move": "Swift",
+            "tm": true
+        },
+        {
+            "move": "Helping Hand",
+            "tm": true
+        },
+        {
+            "move": "Fake Tears",
+            "tm": true
+        },
+        {
+            "move": "Bullet Seed",
+            "tm": true
+        },
+        {
+            "move": "Rock Blast",
+            "tm": true
+        },
+        {
+            "move": "U-turn",
+            "tm": true
+        },
+        {
+            "move": "Fling",
+            "tm": true
+        },
+        {
+            "move": "Round",
+            "tm": true
+        },
+        {
+            "move": "Retaliate",
+            "tm": true
+        },
+        {
+            "move": "Tail Slap",
+            "tm": true
+        },
+        {
+            "move": "Thunderbolt",
+            "tm": true
+        },
+        {
+            "move": "Thunder",
+            "tm": true
+        },
+        {
+            "move": "Substitute",
+            "tm": true
+        },
+        {
+            "move": "Endure",
+            "tm": true
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": true
+        },
+        {
+            "move": "Encore",
+            "tm": true
+        },
+        {
+            "move": "Iron Tail",
+            "tm": true
+        },
+        {
+            "move": "Uproar",
+            "tm": true
+        },
+        {
+            "move": "Hyper Voice",
+            "tm": true
+        },
+        {
+            "move": "Calm Mind",
+            "tm": true
+        },
+        {
+            "move": "Seed Bomb",
+            "tm": true
+        },
+        {
+            "move": "Focus Blast",
+            "tm": true
+        },
+        {
+            "move": "Gunk Shot",
+            "tm": true
+        },
+        {
+            "move": "Grass Knot",
+            "tm": true
+        },
+        {
+            "move": "Work Up",
+            "tm": true
+        },
+        {
+            "move": "Play Rough",
+            "tm": true
+        },
+        {
+            "move": "Dazzling Gleam",
+            "tm": true
+        },
+        {
+            "move": "Tail Whip",
+            "egg_move": true
+        },
+        {
+            "move": "Aqua Tail",
+            "egg_move": true
+        },
+        {
+            "move": "Knock Off",
+            "egg_move": true
+        },
+        {
+            "move": "Flail",
+            "egg_move": true
+        }
+    ]
+}

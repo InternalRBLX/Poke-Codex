@@ -1,0 +1,244 @@
+{
+    "name": "Articuno",
+    "national_id": 144,
+    "types": [
+        "Ice",
+        "Flying"
+    ],
+    "abilities": [
+        {
+            "name": "Pressure"
+        },
+        {
+            "name": "Snow Cloak",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 3,
+    "gender_ratios": null,
+    "egg_groups": [
+        "Undiscovered"
+    ],
+    "hatch_time": [
+        20655,
+        20909
+    ],
+    "height_us": "5'07\"",
+    "height_eu": "1.7 m",
+    "weight_us": "122.1 lbs.",
+    "weight_eu": "55.4 kg",
+    "base_exp_yield": 261,
+    "leveling_rate": "Slow",
+    "base_friendship": 35,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 3,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 90,
+        "atk": 85,
+        "def": 100,
+        "sp_atk": 95,
+        "sp_def": 125,
+        "speed": 85
+    },
+    "evolution_from": null,
+    "evolutions": [],
+    "species": "Freeze Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "Articuno is a legendary bird Pokémon that can control ice. The flapping of its wings chills the air. As a result, it is said that when this Pokémon flies, snow will fall.",
+    "move_learnset": [
+        {
+            "move": "Gust",
+            "level": 1
+        },
+        {
+            "move": "Powder Snow",
+            "level": 1
+        },
+        {
+            "move": "Mist",
+            "level": 8
+        },
+        {
+            "move": "Ice Shard",
+            "level": 15
+        },
+        {
+            "move": "Mind Reader",
+            "level": 22
+        },
+        {
+            "move": "Ancient Power",
+            "level": 29
+        },
+        {
+            "move": "Agility",
+            "level": 36
+        },
+        {
+            "move": "Freeze-Dry",
+            "level": 43
+        },
+        {
+            "move": "Reflect",
+            "level": 50
+        },
+        {
+            "move": "Hail",
+            "level": 57
+        },
+        {
+            "move": "Tailwind",
+            "level": 64
+        },
+        {
+            "move": "Ice Beam",
+            "level": 71
+        },
+        {
+            "move": "Blizzard",
+            "level": 78
+        },
+        {
+            "move": "Roost",
+            "level": 85
+        },
+        {
+            "move": "Hurricane",
+            "level": 92
+        },
+        {
+            "move": "Sheer Cold",
+            "level": 99
+        },
+        {
+            "move": "Roar",
+            "tm": "TM5"
+        },
+        {
+            "move": "Toxic",
+            "tm": "TM6"
+        },
+        {
+            "move": "Hail",
+            "tm": "TM7"
+        },
+        {
+            "move": "Hidden Power",
+            "tm": "TM10"
+        },
+        {
+            "move": "Sunny Day",
+            "tm": "TM11"
+        },
+        {
+            "move": "Ice Beam",
+            "tm": "TM13"
+        },
+        {
+            "move": "Blizzard",
+            "tm": "TM14"
+        },
+        {
+            "move": "Hyper Beam",
+            "tm": "TM15"
+        },
+        {
+            "move": "Protect",
+            "tm": "TM17"
+        },
+        {
+            "move": "Rain Dance",
+            "tm": "TM18"
+        },
+        {
+            "move": "Roost",
+            "tm": "TM19"
+        },
+        {
+            "move": "Frustration",
+            "tm": "TM21"
+        },
+        {
+            "move": "Return",
+            "tm": "TM27"
+        },
+        {
+            "move": "Double Team",
+            "tm": "TM32"
+        },
+        {
+            "move": "Reflect",
+            "tm": "TM33"
+        },
+        {
+            "move": "Sandstorm",
+            "tm": "TM37"
+        },
+        {
+            "move": "Aerial Ace",
+            "tm": "TM40"
+        },
+        {
+            "move": "Facade",
+            "tm": "TM42"
+        },
+        {
+            "move": "Rest",
+            "tm": "TM44"
+        },
+        {
+            "move": "Round",
+            "tm": "TM48"
+        },
+        {
+            "move": "Steel Wing",
+            "tm": "TM51"
+        },
+        {
+            "move": "Sky Drop",
+            "tm": "TM58"
+        },
+        {
+            "move": "Giga Impact",
+            "tm": "TM68"
+        },
+        {
+            "move": "Aurora Veil",
+            "tm": "TM70"
+        },
+        {
+            "move": "Fly",
+            "tm": "TM76"
+        },
+        {
+            "move": "Frost Breath",
+            "tm": "TM79"
+        },
+        {
+            "move": "Swagger",
+            "tm": "TM87"
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": "TM88"
+        },
+        {
+            "move": "U-turn",
+            "tm": "TM89"
+        },
+        {
+            "move": "Substitute",
+            "tm": "TM90"
+        },
+        {
+            "move": "Confide",
+            "tm": "TM100"
+        }
+    ]
+}

@@ -1,0 +1,263 @@
+{
+    "name": "Torracat",
+    "national_id": 726,
+    "types": [
+        "Fire"
+    ],
+    "abilities": [
+        {
+            "name": "Blaze"
+        },
+        {
+            "name": "Intimidate",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 45,
+    "gender_ratios": {
+        "male": 87.5,
+        "female": 12.5
+    },
+    "egg_groups": [
+        "Field"
+    ],
+    "hatch_time": [
+        3855,
+        4111
+    ],
+    "height_us": "2'04\"",
+    "height_eu": "0.7 m",
+    "weight_us": "55.1 lbs.",
+    "weight_eu": "25.0 kg",
+    "base_exp_yield": 147,
+    "leveling_rate": "Medium Slow",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 2
+    },
+    "base_stats": {
+        "hp": 65,
+        "atk": 85,
+        "def": 50,
+        "sp_atk": 80,
+        "sp_def": 50,
+        "speed": 90
+    },
+    "evolution_from": "Litten",
+    "evolutions": [
+        {
+            "to": "Incineroar",
+            "level": 34
+        }
+    ],
+    "species": "Fire Cat Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "When facing a powerful enemy, Torracat’s fighting spirit gets pumped up, and its fire bell blazes hotter.",
+    "move_learnset": [
+        {
+            "move": "Scratch",
+            "level": 1
+        },
+        {
+            "move": "Growl",
+            "level": 1
+        },
+        {
+            "move": "Ember",
+            "level": 1
+        },
+        {
+            "move": "Lick",
+            "level": 1
+        },
+        {
+            "move": "Roar",
+            "level": 9
+        },
+        {
+            "move": "Fury Swipes",
+            "level": 12
+        },
+        {
+            "move": "Bite",
+            "level": 15
+        },
+        {
+            "move": "Double Kick",
+            "level": 20
+        },
+        {
+            "move": "Fire Fang",
+            "level": 25
+        },
+        {
+            "move": "Scary Face",
+            "level": 30
+        },
+        {
+            "move": "Swagger",
+            "level": 35
+        },
+        {
+            "move": "Flamethrower",
+            "level": 40
+        },
+        {
+            "move": "Thrash",
+            "level": 45
+        },
+        {
+            "move": "Flare Blitz",
+            "level": 50
+        },
+        {
+            "move": "Pay Day",
+            "tm": true
+        },
+        {
+            "move": "Fire Spin",
+            "tm": true
+        },
+        {
+            "move": "Rest",
+            "tm": true
+        },
+        {
+            "move": "Snore",
+            "tm": true
+        },
+        {
+            "move": "Protect",
+            "tm": true
+        },
+        {
+            "move": "Scary Face",
+            "tm": true
+        },
+        {
+            "move": "Attract",
+            "tm": true
+        },
+        {
+            "move": "Sunny Day",
+            "tm": true
+        },
+        {
+            "move": "Will-O-Wisp",
+            "tm": true
+        },
+        {
+            "move": "Facade",
+            "tm": true
+        },
+        {
+            "move": "Revenge",
+            "tm": true
+        },
+        {
+            "move": "U-turn",
+            "tm": true
+        },
+        {
+            "move": "Shadow Claw",
+            "tm": true
+        },
+        {
+            "move": "Fire Fang",
+            "tm": true
+        },
+        {
+            "move": "Round",
+            "tm": true
+        },
+        {
+            "move": "Acrobatics",
+            "tm": true
+        },
+        {
+            "move": "Swords Dance",
+            "tm": true
+        },
+        {
+            "move": "Body Slam",
+            "tm": true
+        },
+        {
+            "move": "Flamethrower",
+            "tm": true
+        },
+        {
+            "move": "Fire Blast",
+            "tm": true
+        },
+        {
+            "move": "Leech Life",
+            "tm": true
+        },
+        {
+            "move": "Substitute",
+            "tm": true
+        },
+        {
+            "move": "Outrage",
+            "tm": true
+        },
+        {
+            "move": "Endure",
+            "tm": true
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": true
+        },
+        {
+            "move": "Crunch",
+            "tm": true
+        },
+        {
+            "move": "Heat Wave",
+            "tm": true
+        },
+        {
+            "move": "Taunt",
+            "tm": true
+        },
+        {
+            "move": "Overheat",
+            "tm": true
+        },
+        {
+            "move": "Bulk Up",
+            "tm": true
+        },
+        {
+            "move": "Flare Blitz",
+            "tm": true
+        },
+        {
+            "move": "Nasty Plot",
+            "tm": true
+        },
+        {
+            "move": "Work Up",
+            "tm": true
+        },
+        {
+            "move": "Fake Out",
+            "egg_move": true
+        },
+        {
+            "move": "Power Trip",
+            "egg_move": true
+        },
+        {
+            "move": "Parting Shot",
+            "egg_move": true
+        }
+    ]
+}

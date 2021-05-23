@@ -1,0 +1,392 @@
+{
+    "name": "Aggron",
+    "national_id": 306,
+    "types": [
+        "Steel",
+        "Rock"
+    ],
+    "items": [
+        {
+            "name": "Hard Stone",
+            "chance": 5
+        }
+    ],
+    "abilities": [
+        {
+            "name": "Sturdy"
+        },
+        {
+            "name": "Rock Head"
+        },
+        {
+            "name": "Heavy Metal",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 45,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Monster"
+    ],
+    "hatch_time": [
+        9180,
+        9434
+    ],
+    "height_us": "6'11\"",
+    "height_eu": "2.1 m",
+    "weight_us": "793.7 lbs.",
+    "weight_eu": "360.0 kg",
+    "base_exp_yield": 239,
+    "leveling_rate": "Slow",
+    "base_friendship": 35,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 3,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 70,
+        "atk": 110,
+        "def": 180,
+        "sp_atk": 60,
+        "sp_def": 60,
+        "speed": 50
+    },
+    "evolution_from": "Lairon",
+    "evolutions": [],
+    "species": "Iron Armor Pokémon",
+    "mega_evolves": true,
+    "pokedex_entry": "Aggron is protective of its environment. If its mountain is ravaged by a landslide or a fire, this Pokémon will haul topsoil to the area, plant trees, and beautifully restore its own territory.",
+    "move_learnset": [
+        {
+            "move": "Harden",
+            "level": 1
+        },
+        {
+            "move": "Headbutt",
+            "level": 1
+        },
+        {
+            "move": "Mud-Slap",
+            "level": 1
+        },
+        {
+            "move": "Tackle",
+            "level": 1
+        },
+        {
+            "move": "Mud-Slap",
+            "level": 4
+        },
+        {
+            "move": "Headbutt",
+            "level": 7
+        },
+        {
+            "move": "Metal Claw",
+            "level": 10
+        },
+        {
+            "move": "Rock Tomb",
+            "level": 13
+        },
+        {
+            "move": "Protect",
+            "level": 16
+        },
+        {
+            "move": "Roar",
+            "level": 19
+        },
+        {
+            "move": "Iron Head",
+            "level": 22
+        },
+        {
+            "move": "Rock Slide",
+            "level": 25
+        },
+        {
+            "move": "Take Down",
+            "level": 28
+        },
+        {
+            "move": "Metal Sound",
+            "level": 31
+        },
+        {
+            "move": "Iron Tail",
+            "level": 35
+        },
+        {
+            "move": "Iron Defense",
+            "level": 39
+        },
+        {
+            "move": "Double-Edge",
+            "level": 45
+        },
+        {
+            "move": "Autotomize",
+            "level": 51
+        },
+        {
+            "move": "Heavy Slam",
+            "level": 57
+        },
+        {
+            "move": "Metal Burst",
+            "level": 63
+        },
+        {
+            "move": "Body Slam",
+            "egg_move": true
+        },
+        {
+            "move": "Curse",
+            "egg_move": true
+        },
+        {
+            "move": "Dragon Rush",
+            "egg_move": true
+        },
+        {
+            "move": "Endeavor",
+            "egg_move": true
+        },
+        {
+            "move": "Head Smash",
+            "egg_move": true
+        },
+        {
+            "move": "Iron Head",
+            "egg_move": true
+        },
+        {
+            "move": "Reversal",
+            "egg_move": true
+        },
+        {
+            "move": "Screech",
+            "egg_move": true
+        },
+        {
+            "move": "Smelling Salts",
+            "egg_move": true
+        },
+        {
+            "move": "Stealth Rock",
+            "egg_move": true
+        },
+        {
+            "move": "Stomp",
+            "egg_move": true
+        },
+        {
+            "move": "Superpower",
+            "egg_move": true
+        },
+        {
+            "move": "Dragon Claw",
+            "tm": "TM2"
+        },
+        {
+            "move": "Roar",
+            "tm": "TM5"
+        },
+        {
+            "move": "Toxic",
+            "tm": "TM6"
+        },
+        {
+            "move": "Hidden Power",
+            "tm": "TM10"
+        },
+        {
+            "move": "Sunny Day",
+            "tm": "TM11"
+        },
+        {
+            "move": "Taunt",
+            "tm": "TM12"
+        },
+        {
+            "move": "Ice Beam",
+            "tm": "TM13"
+        },
+        {
+            "move": "Blizzard",
+            "tm": "TM14"
+        },
+        {
+            "move": "Hyper Beam",
+            "tm": "TM15"
+        },
+        {
+            "move": "Protect",
+            "tm": "TM17"
+        },
+        {
+            "move": "Rain Dance",
+            "tm": "TM18"
+        },
+        {
+            "move": "Frustration",
+            "tm": "TM21"
+        },
+        {
+            "move": "Solar Beam",
+            "tm": "TM22"
+        },
+        {
+            "move": "Smack Down",
+            "tm": "TM23"
+        },
+        {
+            "move": "Thunderbolt",
+            "tm": "TM24"
+        },
+        {
+            "move": "Thunder",
+            "tm": "TM25"
+        },
+        {
+            "move": "Earthquake",
+            "tm": "TM26"
+        },
+        {
+            "move": "Return",
+            "tm": "TM27"
+        },
+        {
+            "move": "Brick Break",
+            "tm": "TM31"
+        },
+        {
+            "move": "Double Team",
+            "tm": "TM32"
+        },
+        {
+            "move": "Flamethrower",
+            "tm": "TM35"
+        },
+        {
+            "move": "Sandstorm",
+            "tm": "TM37"
+        },
+        {
+            "move": "Fire Blast",
+            "tm": "TM38"
+        },
+        {
+            "move": "Rock Tomb",
+            "tm": "TM39"
+        },
+        {
+            "move": "Aerial Ace",
+            "tm": "TM40"
+        },
+        {
+            "move": "Facade",
+            "tm": "TM42"
+        },
+        {
+            "move": "Rest",
+            "tm": "TM44"
+        },
+        {
+            "move": "Attract",
+            "tm": "TM45"
+        },
+        {
+            "move": "Round",
+            "tm": "TM48"
+        },
+        {
+            "move": "Focus Blast",
+            "tm": "TM52"
+        },
+        {
+            "move": "Fling",
+            "tm": "TM56"
+        },
+        {
+            "move": "Brutal Swing",
+            "tm": "TM59"
+        },
+        {
+            "move": "Shadow Claw",
+            "tm": "TM65"
+        },
+        {
+            "move": "Payback",
+            "tm": "TM66"
+        },
+        {
+            "move": "Smart Strike",
+            "tm": "TM67"
+        },
+        {
+            "move": "Giga Impact",
+            "tm": "TM68"
+        },
+        {
+            "move": "Rock Polish",
+            "tm": "TM69"
+        },
+        {
+            "move": "Stone Edge",
+            "tm": "TM71"
+        },
+        {
+            "move": "Thunder Wave",
+            "tm": "TM73"
+        },
+        {
+            "move": "Bulldoze",
+            "tm": "TM78"
+        },
+        {
+            "move": "Rock Slide",
+            "tm": "TM80"
+        },
+        {
+            "move": "Dragon Tail",
+            "tm": "TM82"
+        },
+        {
+            "move": "Swagger",
+            "tm": "TM87"
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": "TM88"
+        },
+        {
+            "move": "Substitute",
+            "tm": "TM90"
+        },
+        {
+            "move": "Flash Cannon",
+            "tm": "TM91"
+        },
+        {
+            "move": "Surf",
+            "tm": "TM94"
+        },
+        {
+            "move": "Dark Pulse",
+            "tm": "TM97"
+        },
+        {
+            "move": "Confide",
+            "tm": "TM100"
+        }
+    ]
+}

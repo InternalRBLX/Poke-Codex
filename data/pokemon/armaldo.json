@@ -1,0 +1,291 @@
+{
+    "name": "Armaldo",
+    "national_id": 348,
+    "types": [
+        "Rock",
+        "Bug"
+    ],
+    "abilities": [
+        {
+            "name": "Battle Armor"
+        },
+        {
+            "name": "Swift Swim",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 45,
+    "gender_ratios": {
+        "male": 87.5,
+        "female": 12.5
+    },
+    "egg_groups": [
+        "Water 3"
+    ],
+    "hatch_time": [
+        7905,
+        8159
+    ],
+    "height_us": "4'11\"",
+    "height_eu": "1.5 m",
+    "weight_us": "150.4 lbs.",
+    "weight_eu": "68.2 kg",
+    "base_exp_yield": 173,
+    "leveling_rate": "Erratic",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 2,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 75,
+        "atk": 125,
+        "def": 100,
+        "sp_atk": 70,
+        "sp_def": 80,
+        "speed": 45
+    },
+    "evolution_from": "Anorith",
+    "evolutions": [],
+    "species": "Plate Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "Armaldo is a Pokémon species that became extinct in prehistoric times. This Pokémon is said to have walked on its hind legs, which would have been more convenient for life on land.",
+    "move_learnset": [
+        {
+            "move": "Harden",
+            "level": 1
+        },
+        {
+            "move": "Mud Sport",
+            "level": 1
+        },
+        {
+            "move": "Scratch",
+            "level": 1
+        },
+        {
+            "move": "Water Gun",
+            "level": 1
+        },
+        {
+            "move": "Mud Sport",
+            "level": 4
+        },
+        {
+            "move": "Water Gun",
+            "level": 7
+        },
+        {
+            "move": "Fury Cutter",
+            "level": 10
+        },
+        {
+            "move": "Smack Down",
+            "level": 13
+        },
+        {
+            "move": "Metal Claw",
+            "level": 17
+        },
+        {
+            "move": "Ancient Power",
+            "level": 21
+        },
+        {
+            "move": "Bug Bite",
+            "level": 25
+        },
+        {
+            "move": "Brine",
+            "level": 29
+        },
+        {
+            "move": "Slash",
+            "level": 34
+        },
+        {
+            "move": "Crush Claw",
+            "level": 39
+        },
+        {
+            "move": "X-Scissor",
+            "level": 46
+        },
+        {
+            "move": "Protect",
+            "level": 53
+        },
+        {
+            "move": "Rock Blast",
+            "level": 61
+        },
+        {
+            "move": "Aqua Jet",
+            "egg_move": true
+        },
+        {
+            "move": "Cross Poison",
+            "egg_move": true
+        },
+        {
+            "move": "Curse",
+            "egg_move": true
+        },
+        {
+            "move": "Iron Defense",
+            "egg_move": true
+        },
+        {
+            "move": "Knock Off",
+            "egg_move": true
+        },
+        {
+            "move": "Rapid Spin",
+            "egg_move": true
+        },
+        {
+            "move": "Sand Attack",
+            "egg_move": true
+        },
+        {
+            "move": "Screech",
+            "egg_move": true
+        },
+        {
+            "move": "Water Pulse",
+            "egg_move": true
+        },
+        {
+            "move": "Toxic",
+            "tm": "TM6"
+        },
+        {
+            "move": "Hidden Power",
+            "tm": "TM10"
+        },
+        {
+            "move": "Sunny Day",
+            "tm": "TM11"
+        },
+        {
+            "move": "Hyper Beam",
+            "tm": "TM15"
+        },
+        {
+            "move": "Protect",
+            "tm": "TM17"
+        },
+        {
+            "move": "Frustration",
+            "tm": "TM21"
+        },
+        {
+            "move": "Smack Down",
+            "tm": "TM23"
+        },
+        {
+            "move": "Earthquake",
+            "tm": "TM26"
+        },
+        {
+            "move": "Return",
+            "tm": "TM27"
+        },
+        {
+            "move": "Brick Break",
+            "tm": "TM31"
+        },
+        {
+            "move": "Double Team",
+            "tm": "TM32"
+        },
+        {
+            "move": "Sandstorm",
+            "tm": "TM37"
+        },
+        {
+            "move": "Rock Tomb",
+            "tm": "TM39"
+        },
+        {
+            "move": "Aerial Ace",
+            "tm": "TM40"
+        },
+        {
+            "move": "Facade",
+            "tm": "TM42"
+        },
+        {
+            "move": "Rest",
+            "tm": "TM44"
+        },
+        {
+            "move": "Attract",
+            "tm": "TM45"
+        },
+        {
+            "move": "Round",
+            "tm": "TM48"
+        },
+        {
+            "move": "False Swipe",
+            "tm": "TM54"
+        },
+        {
+            "move": "Brutal Swing",
+            "tm": "TM59"
+        },
+        {
+            "move": "Giga Impact",
+            "tm": "TM68"
+        },
+        {
+            "move": "Rock Polish",
+            "tm": "TM69"
+        },
+        {
+            "move": "Stone Edge",
+            "tm": "TM71"
+        },
+        {
+            "move": "Swords Dance",
+            "tm": "TM75"
+        },
+        {
+            "move": "Bulldoze",
+            "tm": "TM78"
+        },
+        {
+            "move": "Rock Slide",
+            "tm": "TM80"
+        },
+        {
+            "move": "X-Scissor",
+            "tm": "TM81"
+        },
+        {
+            "move": "Swagger",
+            "tm": "TM87"
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": "TM88"
+        },
+        {
+            "move": "Substitute",
+            "tm": "TM90"
+        },
+        {
+            "move": "Flash Cannon",
+            "tm": "TM91"
+        },
+        {
+            "move": "Confide",
+            "tm": "TM100"
+        }
+    ]
+}

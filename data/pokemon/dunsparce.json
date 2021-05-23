@@ -1,0 +1,353 @@
+{
+    "name": "Dunsparce",
+    "national_id": 206,
+    "types": [
+        "Normal"
+    ],
+    "abilities": [
+        {
+            "name": "Serene Grace"
+        },
+        {
+            "name": "Run Away"
+        },
+        {
+            "name": "Rattled",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 190,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Field"
+    ],
+    "hatch_time": [
+        5355,
+        5609
+    ],
+    "height_us": "4'11\"",
+    "height_eu": "1.5 m",
+    "weight_us": "30.9 lbs.",
+    "weight_eu": "14.0 kg",
+    "base_exp_yield": 145,
+    "leveling_rate": "Medium Fast",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 1,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 100,
+        "atk": 70,
+        "def": 70,
+        "sp_atk": 65,
+        "sp_def": 65,
+        "speed": 45
+    },
+    "evolution_from": null,
+    "evolutions": [],
+    "species": "Land Snake Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "Dunsparce has a drill for its tail. It uses this tail to burrow into the ground backward. This Pokémon is known to make its nest in complex shapes deep under the ground.",
+    "move_learnset": [
+        {
+            "move": "Defense Curl",
+            "level": 1
+        },
+        {
+            "move": "Rage",
+            "level": 1
+        },
+        {
+            "move": "Rollout",
+            "level": 3
+        },
+        {
+            "move": "Spite",
+            "level": 6
+        },
+        {
+            "move": "Pursuit",
+            "level": 8
+        },
+        {
+            "move": "Screech",
+            "level": 11
+        },
+        {
+            "move": "Mud-Slap",
+            "level": 13
+        },
+        {
+            "move": "Yawn",
+            "level": 16
+        },
+        {
+            "move": "Ancient Power",
+            "level": 18
+        },
+        {
+            "move": "Body Slam",
+            "level": 21
+        },
+        {
+            "move": "Drill Run",
+            "level": 23
+        },
+        {
+            "move": "Roost",
+            "level": 26
+        },
+        {
+            "move": "Take Down",
+            "level": 28
+        },
+        {
+            "move": "Coil",
+            "level": 31
+        },
+        {
+            "move": "Dig",
+            "level": 33
+        },
+        {
+            "move": "Glare",
+            "level": 36
+        },
+        {
+            "move": "Double-Edge",
+            "level": 38
+        },
+        {
+            "move": "Endeavor",
+            "level": 41
+        },
+        {
+            "move": "Air Slash",
+            "level": 43
+        },
+        {
+            "move": "Dragon Rush",
+            "level": 46
+        },
+        {
+            "move": "Endure",
+            "level": 48
+        },
+        {
+            "move": "Flail",
+            "level": 51
+        },
+        {
+            "move": "Agility",
+            "egg_move": true
+        },
+        {
+            "move": "Ancient Power",
+            "egg_move": true
+        },
+        {
+            "move": "Astonish",
+            "egg_move": true
+        },
+        {
+            "move": "Bide",
+            "egg_move": true
+        },
+        {
+            "move": "Bite",
+            "egg_move": true
+        },
+        {
+            "move": "Curse",
+            "egg_move": true
+        },
+        {
+            "move": "Headbutt",
+            "egg_move": true
+        },
+        {
+            "move": "Hex",
+            "egg_move": true
+        },
+        {
+            "move": "Magic Coat",
+            "egg_move": true
+        },
+        {
+            "move": "Secret Power",
+            "egg_move": true
+        },
+        {
+            "move": "Sleep Talk",
+            "egg_move": true
+        },
+        {
+            "move": "Snore",
+            "egg_move": true
+        },
+        {
+            "move": "Trump Card",
+            "egg_move": true
+        },
+        {
+            "move": "Calm Mind",
+            "tm": "TM4"
+        },
+        {
+            "move": "Toxic",
+            "tm": "TM6"
+        },
+        {
+            "move": "Hidden Power",
+            "tm": "TM10"
+        },
+        {
+            "move": "Sunny Day",
+            "tm": "TM11"
+        },
+        {
+            "move": "Ice Beam",
+            "tm": "TM13"
+        },
+        {
+            "move": "Blizzard",
+            "tm": "TM14"
+        },
+        {
+            "move": "Protect",
+            "tm": "TM17"
+        },
+        {
+            "move": "Rain Dance",
+            "tm": "TM18"
+        },
+        {
+            "move": "Roost",
+            "tm": "TM19"
+        },
+        {
+            "move": "Frustration",
+            "tm": "TM21"
+        },
+        {
+            "move": "Solar Beam",
+            "tm": "TM22"
+        },
+        {
+            "move": "Thunderbolt",
+            "tm": "TM24"
+        },
+        {
+            "move": "Thunder",
+            "tm": "TM25"
+        },
+        {
+            "move": "Earthquake",
+            "tm": "TM26"
+        },
+        {
+            "move": "Return",
+            "tm": "TM27"
+        },
+        {
+            "move": "Shadow Ball",
+            "tm": "TM30"
+        },
+        {
+            "move": "Double Team",
+            "tm": "TM32"
+        },
+        {
+            "move": "Flamethrower",
+            "tm": "TM35"
+        },
+        {
+            "move": "Fire Blast",
+            "tm": "TM38"
+        },
+        {
+            "move": "Rock Tomb",
+            "tm": "TM39"
+        },
+        {
+            "move": "Facade",
+            "tm": "TM42"
+        },
+        {
+            "move": "Rest",
+            "tm": "TM44"
+        },
+        {
+            "move": "Attract",
+            "tm": "TM45"
+        },
+        {
+            "move": "Thief",
+            "tm": "TM46"
+        },
+        {
+            "move": "Round",
+            "tm": "TM48"
+        },
+        {
+            "move": "Charge Beam",
+            "tm": "TM57"
+        },
+        {
+            "move": "Thunder Wave",
+            "tm": "TM73"
+        },
+        {
+            "move": "Gyro Ball",
+            "tm": "TM74"
+        },
+        {
+            "move": "Psych Up",
+            "tm": "TM77"
+        },
+        {
+            "move": "Bulldoze",
+            "tm": "TM78"
+        },
+        {
+            "move": "Rock Slide",
+            "tm": "TM80"
+        },
+        {
+            "move": "Poison Jab",
+            "tm": "TM84"
+        },
+        {
+            "move": "Dream Eater",
+            "tm": "TM85"
+        },
+        {
+            "move": "Swagger",
+            "tm": "TM87"
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": "TM88"
+        },
+        {
+            "move": "Substitute",
+            "tm": "TM90"
+        },
+        {
+            "move": "Wild Charge",
+            "tm": "TM93"
+        },
+        {
+            "move": "Confide",
+            "tm": "TM100"
+        }
+    ]
+}

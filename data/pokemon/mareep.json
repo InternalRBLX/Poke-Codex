@@ -1,0 +1,264 @@
+{
+    "name": "Mareep",
+    "national_id": 179,
+    "types": [
+        "Electric"
+    ],
+    "abilities": [
+        {
+            "name": "Static"
+        },
+        {
+            "name": "Plus",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 235,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Monster",
+        "Field"
+    ],
+    "hatch_time": [
+        5355,
+        5609
+    ],
+    "height_us": "2'00\"",
+    "height_eu": "0.6 m",
+    "weight_us": "17.2 lbs.",
+    "weight_eu": "7.8 kg",
+    "base_exp_yield": 56,
+    "leveling_rate": "Medium Slow",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 1,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 55,
+        "atk": 40,
+        "def": 40,
+        "sp_atk": 65,
+        "sp_def": 45,
+        "speed": 35
+    },
+    "evolution_from": null,
+    "evolutions": [
+        {
+            "to": "Flaaffy",
+            "level": 15
+        }
+    ],
+    "species": "Wool Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "Mareep's fluffy coat of wool rubs together and builds a static charge. The more static electricity is charged, the more brightly the lightbulb at the tip of its tail glows.",
+    "move_learnset": [
+        {
+            "move": "Growl",
+            "level": 1
+        },
+        {
+            "move": "Tackle",
+            "level": 1
+        },
+        {
+            "move": "Thunder Wave",
+            "level": 4
+        },
+        {
+            "move": "Thunder Shock",
+            "level": 8
+        },
+        {
+            "move": "Cotton Spore",
+            "level": 11
+        },
+        {
+            "move": "Charge",
+            "level": 15
+        },
+        {
+            "move": "Take Down",
+            "level": 18
+        },
+        {
+            "move": "Electro Ball",
+            "level": 22
+        },
+        {
+            "move": "Confuse Ray",
+            "level": 25
+        },
+        {
+            "move": "Power Gem",
+            "level": 29
+        },
+        {
+            "move": "Discharge",
+            "level": 32
+        },
+        {
+            "move": "Cotton Guard",
+            "level": 36
+        },
+        {
+            "move": "Signal Beam",
+            "level": 39
+        },
+        {
+            "move": "Light Screen",
+            "level": 43
+        },
+        {
+            "move": "Thunder",
+            "level": 46
+        },
+        {
+            "move": "After You",
+            "egg_move": true
+        },
+        {
+            "move": "Agility",
+            "egg_move": true
+        },
+        {
+            "move": "Body Slam",
+            "egg_move": true
+        },
+        {
+            "move": "Charge",
+            "egg_move": true
+        },
+        {
+            "move": "Eerie Impulse",
+            "egg_move": true
+        },
+        {
+            "move": "Electric Terrain",
+            "egg_move": true
+        },
+        {
+            "move": "Flatter",
+            "egg_move": true
+        },
+        {
+            "move": "Iron Tail",
+            "egg_move": true
+        },
+        {
+            "move": "Odor Sleuth",
+            "egg_move": true
+        },
+        {
+            "move": "Sand Attack",
+            "egg_move": true
+        },
+        {
+            "move": "Screech",
+            "egg_move": true
+        },
+        {
+            "move": "Take Down",
+            "egg_move": true
+        },
+        {
+            "move": "Toxic",
+            "tm": "TM6"
+        },
+        {
+            "move": "Hidden Power",
+            "tm": "TM10"
+        },
+        {
+            "move": "Light Screen",
+            "tm": "TM16"
+        },
+        {
+            "move": "Protect",
+            "tm": "TM17"
+        },
+        {
+            "move": "Rain Dance",
+            "tm": "TM18"
+        },
+        {
+            "move": "Safeguard",
+            "tm": "TM20"
+        },
+        {
+            "move": "Frustration",
+            "tm": "TM21"
+        },
+        {
+            "move": "Thunderbolt",
+            "tm": "TM24"
+        },
+        {
+            "move": "Thunder",
+            "tm": "TM25"
+        },
+        {
+            "move": "Return",
+            "tm": "TM27"
+        },
+        {
+            "move": "Double Team",
+            "tm": "TM32"
+        },
+        {
+            "move": "Facade",
+            "tm": "TM42"
+        },
+        {
+            "move": "Rest",
+            "tm": "TM44"
+        },
+        {
+            "move": "Attract",
+            "tm": "TM45"
+        },
+        {
+            "move": "Round",
+            "tm": "TM48"
+        },
+        {
+            "move": "Echoed Voice",
+            "tm": "TM49"
+        },
+        {
+            "move": "Charge Beam",
+            "tm": "TM57"
+        },
+        {
+            "move": "Thunder Wave",
+            "tm": "TM73"
+        },
+        {
+            "move": "Swagger",
+            "tm": "TM87"
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": "TM88"
+        },
+        {
+            "move": "Substitute",
+            "tm": "TM90"
+        },
+        {
+            "move": "Wild Charge",
+            "tm": "TM93"
+        },
+        {
+            "move": "Confide",
+            "tm": "TM100"
+        }
+    ]
+}

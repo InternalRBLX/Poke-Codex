@@ -1,0 +1,355 @@
+{
+    "name": "Leafeon",
+    "national_id": 470,
+    "types": [
+        "Grass"
+    ],
+    "abilities": [
+        {
+            "name": "Leaf Guard"
+        },
+        {
+            "name": "Chlorophyll",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 45,
+    "gender_ratios": {
+        "male": 87.5,
+        "female": 12.5
+    },
+    "egg_groups": [
+        "Field"
+    ],
+    "hatch_time": [
+        9180,
+        9434
+    ],
+    "height_us": "3'03\"",
+    "height_eu": "1.0 m",
+    "weight_us": "56.2 lbs.",
+    "weight_eu": "25.5 kg",
+    "base_exp_yield": 184,
+    "leveling_rate": "Medium Fast",
+    "base_friendship": 35,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 2,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 65,
+        "atk": 110,
+        "def": 130,
+        "sp_atk": 60,
+        "sp_def": 65,
+        "speed": 95
+    },
+    "evolution_from": "Eevee",
+    "evolutions": [],
+    "species": "Verdant Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "This Pokémon’s tail is blade sharp, with a fantastic cutting edge that can slice right though large trees.",
+    "move_learnset": [
+        {
+            "move": "Razor Leaf",
+            "evo": true
+        },
+        {
+            "move": "Razor Leaf",
+            "level": 1
+        },
+        {
+            "move": "Covet",
+            "level": 1
+        },
+        {
+            "move": "Swift",
+            "level": 1
+        },
+        {
+            "move": "Bite",
+            "level": 1
+        },
+        {
+            "move": "Copycat",
+            "level": 1
+        },
+        {
+            "move": "Baton Pass",
+            "level": 1
+        },
+        {
+            "move": "Take Down",
+            "level": 1
+        },
+        {
+            "move": "Charm",
+            "level": 1
+        },
+        {
+            "move": "Double-Edge",
+            "level": 1
+        },
+        {
+            "move": "Helping Hand",
+            "level": 1
+        },
+        {
+            "move": "Tackle",
+            "level": 1
+        },
+        {
+            "move": "Growl",
+            "level": 1
+        },
+        {
+            "move": "Tail Whip",
+            "level": 1
+        },
+        {
+            "move": "Sand Attack",
+            "level": 5
+        },
+        {
+            "move": "Quick Attack",
+            "level": 10
+        },
+        {
+            "move": "Baby-Doll Eyes",
+            "level": 15
+        },
+        {
+            "move": "Leech Seed",
+            "level": 20
+        },
+        {
+            "move": "Magical Leaf",
+            "level": 25
+        },
+        {
+            "move": "Synthesis",
+            "level": 30
+        },
+        {
+            "move": "Sunny Day",
+            "level": 35
+        },
+        {
+            "move": "Giga Drain",
+            "level": 40
+        },
+        {
+            "move": "Swords Dance",
+            "level": 45
+        },
+        {
+            "move": "Leaf Blade",
+            "level": 50
+        },
+        {
+            "move": "Last Resort",
+            "level": 55
+        },
+        {
+            "move": "Pay Day",
+            "tm": true
+        },
+        {
+            "move": "Hyper Beam",
+            "tm": true
+        },
+        {
+            "move": "Giga Impact",
+            "tm": true
+        },
+        {
+            "move": "Magical Leaf",
+            "tm": true
+        },
+        {
+            "move": "Solar Beam",
+            "tm": true
+        },
+        {
+            "move": "Solar Blade",
+            "tm": true
+        },
+        {
+            "move": "Dig",
+            "tm": true
+        },
+        {
+            "move": "Rest",
+            "tm": true
+        },
+        {
+            "move": "Snore",
+            "tm": true
+        },
+        {
+            "move": "Protect",
+            "tm": true
+        },
+        {
+            "move": "Giga Drain",
+            "tm": true
+        },
+        {
+            "move": "Charm",
+            "tm": true
+        },
+        {
+            "move": "Attract",
+            "tm": true
+        },
+        {
+            "move": "Rain Dance",
+            "tm": true
+        },
+        {
+            "move": "Sunny Day",
+            "tm": true
+        },
+        {
+            "move": "Facade",
+            "tm": true
+        },
+        {
+            "move": "Swift",
+            "tm": true
+        },
+        {
+            "move": "Helping Hand",
+            "tm": true
+        },
+        {
+            "move": "Weather Ball",
+            "tm": true
+        },
+        {
+            "move": "Fake Tears",
+            "tm": true
+        },
+        {
+            "move": "Bullet Seed",
+            "tm": true
+        },
+        {
+            "move": "Round",
+            "tm": true
+        },
+        {
+            "move": "Retaliate",
+            "tm": true
+        },
+        {
+            "move": "Swords Dance",
+            "tm": true
+        },
+        {
+            "move": "Body Slam",
+            "tm": true
+        },
+        {
+            "move": "Focus Energy",
+            "tm": true
+        },
+        {
+            "move": "Substitute",
+            "tm": true
+        },
+        {
+            "move": "Endure",
+            "tm": true
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": true
+        },
+        {
+            "move": "Baton Pass",
+            "tm": true
+        },
+        {
+            "move": "Iron Tail",
+            "tm": true
+        },
+        {
+            "move": "Shadow Ball",
+            "tm": true
+        },
+        {
+            "move": "Hyper Voice",
+            "tm": true
+        },
+        {
+            "move": "Leaf Blade",
+            "tm": true
+        },
+        {
+            "move": "Seed Bomb",
+            "tm": true
+        },
+        {
+            "move": "X-Scissor",
+            "tm": true
+        },
+        {
+            "move": "Energy Ball",
+            "tm": true
+        },
+        {
+            "move": "Leaf Storm",
+            "tm": true
+        },
+        {
+            "move": "Grass Knot",
+            "tm": true
+        },
+        {
+            "move": "Stored Power",
+            "tm": true
+        },
+        {
+            "move": "Work Up",
+            "tm": true
+        },
+        {
+            "move": "Flail",
+            "egg_move": true
+        },
+        {
+            "move": "Curse",
+            "egg_move": true
+        },
+        {
+            "move": "Tickle",
+            "egg_move": true
+        },
+        {
+            "move": "Yawn",
+            "egg_move": true
+        },
+        {
+            "move": "Detect",
+            "egg_move": true
+        },
+        {
+            "move": "Double Kick",
+            "egg_move": true
+        },
+        {
+            "move": "Mud-Slap",
+            "egg_move": true
+        },
+        {
+            "move": "Wish",
+            "egg_move": true
+        }
+    ]
+    ]
+}

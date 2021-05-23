@@ -1,0 +1,353 @@
+{
+    "name": "Drampa",
+    "national_id": 780,
+    "types": [
+        "Normal",
+        "Dragon"
+    ],
+    "items": [
+        {
+            "name": "Persim Berry",
+            "chance": 5
+        }
+    ],
+    "abilities": [
+        {
+            "name": "Berserk"
+        },
+        {
+            "name": "Sap Sipper"
+        },
+        {
+            "name": "Cloud Nine",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 70,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Monster",
+        "Dragon"
+    ],
+    "hatch_time": [
+        5140,
+        5396
+    ],
+    "height_us": "9'10\"",
+    "height_eu": "3.0 m",
+    "weight_us": "407.9 lbs.",
+    "weight_eu": "185.0 kg",
+    "base_exp_yield": 170,
+    "leveling_rate": "Medium Fast",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 2,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 78,
+        "atk": 60,
+        "def": 85,
+        "sp_atk": 135,
+        "sp_def": 91,
+        "speed": 36
+    },
+    "evolution_from": null,
+    "evolutions": [],
+    "species": "Placid Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "Drampa is a kind and friendly Pokémon—up until it’s angered. When that happens, it stirs up a gale and flattens everything around.",
+    "move_learnset": [
+        {
+            "move": "Play Nice",
+            "level": 1
+        },
+        {
+            "move": "Echoed Voice",
+            "level": 1
+        },
+        {
+            "move": "Twister",
+            "level": 5
+        },
+        {
+            "move": "Protect",
+            "level": 10
+        },
+        {
+            "move": "Glare",
+            "level": 15
+        },
+        {
+            "move": "Safeguard",
+            "level": 20
+        },
+        {
+            "move": "Dragon Breath",
+            "level": 25
+        },
+        {
+            "move": "Extrasensory",
+            "level": 30
+        },
+        {
+            "move": "Dragon Pulse",
+            "level": 35
+        },
+        {
+            "move": "Light Screen",
+            "level": 40
+        },
+        {
+            "move": "Fly",
+            "level": 45
+        },
+        {
+            "move": "Hyper Voice",
+            "level": 50
+        },
+        {
+            "move": "Outrage",
+            "level": 55
+        },
+        {
+            "move": "Fly",
+            "tm": true
+        },
+        {
+            "move": "Hyper Beam",
+            "tm": true
+        },
+        {
+            "move": "Giga Impact",
+            "tm": true
+        },
+        {
+            "move": "Solar Beam",
+            "tm": true
+        },
+        {
+            "move": "Thunder Wave",
+            "tm": true
+        },
+        {
+            "move": "Light Screen",
+            "tm": true
+        },
+        {
+            "move": "Safeguard",
+            "tm": true
+        },
+        {
+            "move": "Rest",
+            "tm": true
+        },
+        {
+            "move": "Rock Slide",
+            "tm": true
+        },
+        {
+            "move": "Snore",
+            "tm": true
+        },
+        {
+            "move": "Protect",
+            "tm": true
+        },
+        {
+            "move": "Icy Wind",
+            "tm": true
+        },
+        {
+            "move": "Steel Wing",
+            "tm": true
+        },
+        {
+            "move": "Attract",
+            "tm": true
+        },
+        {
+            "move": "Rain Dance",
+            "tm": true
+        },
+        {
+            "move": "Sunny Day",
+            "tm": true
+        },
+        {
+            "move": "Facade",
+            "tm": true
+        },
+        {
+            "move": "Swift",
+            "tm": true
+        },
+        {
+            "move": "Helping Hand",
+            "tm": true
+        },
+        {
+            "move": "Fling",
+            "tm": true
+        },
+        {
+            "move": "Shadow Claw",
+            "tm": true
+        },
+        {
+            "move": "Round",
+            "tm": true
+        },
+        {
+            "move": "Bulldoze",
+            "tm": true
+        },
+        {
+            "move": "Snarl",
+            "tm": true
+        },
+        {
+            "move": "Stomping Tantrum",
+            "tm": true
+        },
+        {
+            "move": "Breaking Swipe",
+            "tm": true
+        },
+        {
+            "move": "Flamethrower",
+            "tm": true
+        },
+        {
+            "move": "Hydro Pump",
+            "tm": true
+        },
+        {
+            "move": "Surf",
+            "tm": true
+        },
+        {
+            "move": "Ice Beam",
+            "tm": true
+        },
+        {
+            "move": "Blizzard",
+            "tm": true
+        },
+        {
+            "move": "Thunderbolt",
+            "tm": true
+        },
+        {
+            "move": "Thunder",
+            "tm": true
+        },
+        {
+            "move": "Earthquake",
+            "tm": true
+        },
+        {
+            "move": "Fire Blast",
+            "tm": true
+        },
+        {
+            "move": "Amnesia",
+            "tm": true
+        },
+        {
+            "move": "Substitute",
+            "tm": true
+        },
+        {
+            "move": "Outrage",
+            "tm": true
+        },
+        {
+            "move": "Endure",
+            "tm": true
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": true
+        },
+        {
+            "move": "Shadow Ball",
+            "tm": true
+        },
+        {
+            "move": "Uproar",
+            "tm": true
+        },
+        {
+            "move": "Heat Wave",
+            "tm": true
+        },
+        {
+            "move": "Superpower",
+            "tm": true
+        },
+        {
+            "move": "Hyper Voice",
+            "tm": true
+        },
+        {
+            "move": "Dragon Claw",
+            "tm": true
+        },
+        {
+            "move": "Calm Mind",
+            "tm": true
+        },
+        {
+            "move": "Dragon Dance",
+            "tm": true
+        },
+        {
+            "move": "Dragon Pulse",
+            "tm": true
+        },
+        {
+            "move": "Focus Blast",
+            "tm": true
+        },
+        {
+            "move": "Energy Ball",
+            "tm": true
+        },
+        {
+            "move": "Grass Knot",
+            "tm": true
+        },
+        {
+            "move": "Work Up",
+            "tm": true
+        },
+        {
+            "move": "Hurricane",
+            "tm": true
+        },
+        {
+            "move": "Play Rough",
+            "tm": true
+        },
+        {
+            "move": "Dragon Rush",
+            "egg_move": true
+        },
+        {
+            "move": "Mist",
+            "egg_move": true
+        },
+        {
+            "move": "Tickle",
+            "egg_move": true
+        }
+    ]
+}

@@ -1,0 +1,240 @@
+{
+    "name": "Rotom",
+    "national_id": 479,
+    "types": [
+        "Electric",
+        "Fire"
+    ],
+    "abilities": [
+        {
+            "name": "Levitate"
+        }
+    ],
+    "catch_rate": 45,
+    "gender_ratios": null,
+    "egg_groups": [
+        "Amorphous"
+    ],
+    "hatch_time": [
+        5355,
+        5609
+    ],
+    "height_us": "1'00\"",
+    "height_eu": "0.3 m",
+    "weight_us": "0.7 lbs.",
+    "weight_eu": "0.3 kg",
+    "base_exp_yield": 154,
+    "leveling_rate": "Medium Fast",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 1,
+        "sp_def": 0,
+        "speed": 1
+    },
+    "base_stats": {
+        "hp": 50,
+        "atk": 65,
+        "def": 107,
+        "sp_atk": 105,
+        "sp_def": 107,
+        "speed": 86
+    },
+    "evolution_from": null,
+    "evolutions": [],
+    "species": "Plasma Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "This Rotom has possessed a convection microwave oven that uses a special motor. It also has a flair for manipulating flames.",
+    "move_learnset": [
+        {
+            "move": "Astonish",
+            "level": 1
+        },
+        {
+            "move": "Double Team",
+            "level": 1
+        },
+        {
+            "move": "Thunder Shock",
+            "level": 5
+        },
+        {
+            "move": "Confuse Ray",
+            "level": 10
+        },
+        {
+            "move": "Charge",
+            "level": 15
+        },
+        {
+            "move": "Electro Ball",
+            "level": 20
+        },
+        {
+            "move": "Thunder Wave",
+            "level": 25
+        },
+        {
+            "move": "Shock Wave",
+            "level": 30
+        },
+        {
+            "move": "Hex",
+            "level": 35
+        },
+        {
+            "move": "Substitute",
+            "level": 40
+        },
+        {
+            "move": "Trick",
+            "level": 45
+        },
+        {
+            "move": "Discharge",
+            "level": 50
+        },
+        {
+            "move": "Uproar",
+            "level": 55
+        },
+        {
+            "move": "Thunder Wave",
+            "tm": true
+        },
+        {
+            "move": "Light Screen",
+            "tm": true
+        },
+        {
+            "move": "Reflect",
+            "tm": true
+        },
+        {
+            "move": "Rest",
+            "tm": true
+        },
+        {
+            "move": "Thief",
+            "tm": true
+        },
+        {
+            "move": "Snore",
+            "tm": true
+        },
+        {
+            "move": "Protect",
+            "tm": true
+        },
+        {
+            "move": "Rain Dance",
+            "tm": true
+        },
+        {
+            "move": "Sunny Day",
+            "tm": true
+        },
+        {
+            "move": "Will-O-Wisp",
+            "tm": true
+        },
+        {
+            "move": "Facade",
+            "tm": true
+        },
+        {
+            "move": "Swift",
+            "tm": true
+        },
+        {
+            "move": "Helping Hand",
+            "tm": true
+        },
+        {
+            "move": "Round",
+            "tm": true
+        },
+        {
+            "move": "Hex",
+            "tm": true
+        },
+        {
+            "move": "Volt Switch",
+            "tm": true
+        },
+        {
+            "move": "Electroweb",
+            "tm": true
+        },
+        {
+            "move": "Electric Terrain",
+            "tm": true
+        },
+        {
+            "move": "Eerie Impulse",
+            "tm": true
+        },
+        {
+            "move": "Thunderbolt",
+            "tm": true
+        },
+        {
+            "move": "Thunder",
+            "tm": true
+        },
+        {
+            "move": "Substitute",
+            "tm": true
+        },
+        {
+            "move": "Endure",
+            "tm": true
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": true
+        },
+        {
+            "move": "Shadow Ball",
+            "tm": true
+        },
+        {
+            "move": "Uproar",
+            "tm": true
+        },
+        {
+            "move": "Trick",
+            "tm": true
+        },
+        {
+            "move": "Hyper Voice",
+            "tm": true
+        },
+        {
+            "move": "Dark Pulse",
+            "tm": true
+        },
+        {
+            "move": "Nasty Plot",
+            "tm": true
+        },
+        {
+            "move": "Electro Ball",
+            "tm": true
+        },
+        {
+            "move": "Foul Play",
+            "tm": true
+        },
+        {
+            "move": "Stored Power",
+            "tm": true
+        },
+        {
+            "move": "Ally Switch",
+            "tm": true
+        }
+    ]
+}

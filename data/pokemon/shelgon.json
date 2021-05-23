@@ -1,0 +1,277 @@
+{
+    "name": "Shelgon",
+    "national_id": 372,
+    "types": [
+        "Dragon"
+    ],
+    "items": [
+        {
+            "name": "Dragon Fang",
+            "chance": 5
+        }
+    ],
+    "abilities": [
+        {
+            "name": "Rock Head"
+        },
+        {
+            "name": "Overcoat",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 45,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Dragon"
+    ],
+    "hatch_time": [
+        10455,
+        10709
+    ],
+    "height_us": "3'07\"",
+    "height_eu": "1.1 m",
+    "weight_us": "243.6 lbs.",
+    "weight_eu": "110.5 kg",
+    "base_exp_yield": 147,
+    "leveling_rate": "Slow",
+    "base_friendship": 35,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 2,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 65,
+        "atk": 95,
+        "def": 100,
+        "sp_atk": 60,
+        "sp_def": 50,
+        "speed": 50
+    },
+    "evolution_from": "Bagon",
+    "evolutions": [
+        {
+            "to": "Salamence",
+            "level": 50
+        }
+    ],
+    "species": "Endurance Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "Covering Shelgon’s body are outgrowths much like bones. The shell is very hard and bounces off enemy attacks. When awaiting evolution, this Pokémon hides away in a cavern.",
+    "move_learnset": [
+        {
+            "move": "Bite",
+            "level": 1
+        },
+        {
+            "move": "Ember",
+            "level": 1
+        },
+        {
+            "move": "Leer",
+            "level": 1
+        },
+        {
+            "move": "Protect",
+            "level": 1
+        },
+        {
+            "move": "Rage",
+            "level": 1
+        },
+        {
+            "move": "Ember",
+            "level": 4
+        },
+        {
+            "move": "Leer",
+            "level": 7
+        },
+        {
+            "move": "Bite",
+            "level": 10
+        },
+        {
+            "move": "Dragon Breath",
+            "level": 13
+        },
+        {
+            "move": "Headbutt",
+            "level": 17
+        },
+        {
+            "move": "Focus Energy",
+            "level": 21
+        },
+        {
+            "move": "Crunch",
+            "level": 25
+        },
+        {
+            "move": "Dragon Claw",
+            "level": 29
+        },
+        {
+            "move": "Zen Headbutt",
+            "level": 35
+        },
+        {
+            "move": "Scary Face",
+            "level": 42
+        },
+        {
+            "move": "Flamethrower",
+            "level": 49
+        },
+        {
+            "move": "Double-Edge",
+            "level": 56
+        },
+        {
+            "move": "Defense Curl",
+            "egg_move": true
+        },
+        {
+            "move": "Dragon Dance",
+            "egg_move": true
+        },
+        {
+            "move": "Dragon Pulse",
+            "egg_move": true
+        },
+        {
+            "move": "Dragon Rage",
+            "egg_move": true
+        },
+        {
+            "move": "Dragon Rush",
+            "egg_move": true
+        },
+        {
+            "move": "Endure",
+            "egg_move": true
+        },
+        {
+            "move": "Fire Fang",
+            "egg_move": true
+        },
+        {
+            "move": "Hydro Pump",
+            "egg_move": true
+        },
+        {
+            "move": "Thrash",
+            "egg_move": true
+        },
+        {
+            "move": "Twister",
+            "egg_move": true
+        },
+        {
+            "move": "Dragon Claw",
+            "tm": "TM2"
+        },
+        {
+            "move": "Roar",
+            "tm": "TM5"
+        },
+        {
+            "move": "Toxic",
+            "tm": "TM6"
+        },
+        {
+            "move": "Hidden Power",
+            "tm": "TM10"
+        },
+        {
+            "move": "Sunny Day",
+            "tm": "TM11"
+        },
+        {
+            "move": "Protect",
+            "tm": "TM17"
+        },
+        {
+            "move": "Rain Dance",
+            "tm": "TM18"
+        },
+        {
+            "move": "Frustration",
+            "tm": "TM21"
+        },
+        {
+            "move": "Return",
+            "tm": "TM27"
+        },
+        {
+            "move": "Brick Break",
+            "tm": "TM31"
+        },
+        {
+            "move": "Double Team",
+            "tm": "TM32"
+        },
+        {
+            "move": "Flamethrower",
+            "tm": "TM35"
+        },
+        {
+            "move": "Fire Blast",
+            "tm": "TM38"
+        },
+        {
+            "move": "Rock Tomb",
+            "tm": "TM39"
+        },
+        {
+            "move": "Aerial Ace",
+            "tm": "TM40"
+        },
+        {
+            "move": "Facade",
+            "tm": "TM42"
+        },
+        {
+            "move": "Rest",
+            "tm": "TM44"
+        },
+        {
+            "move": "Attract",
+            "tm": "TM45"
+        },
+        {
+            "move": "Round",
+            "tm": "TM48"
+        },
+        {
+            "move": "Shadow Claw",
+            "tm": "TM65"
+        },
+        {
+            "move": "Rock Slide",
+            "tm": "TM80"
+        },
+        {
+            "move": "Swagger",
+            "tm": "TM87"
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": "TM88"
+        },
+        {
+            "move": "Substitute",
+            "tm": "TM90"
+        },
+        {
+            "move": "Confide",
+            "tm": "TM100"
+        }
+    ]
+}

@@ -1,0 +1,327 @@
+{
+    "name": "Mightyena",
+    "national_id": 262,
+    "types": [
+        "Dark"
+    ],
+    "items": [
+        {
+            "name": "Pecha Berry",
+            "chance": 5
+        }
+    ],
+    "abilities": [
+        {
+            "name": "Intimidate"
+        },
+        {
+            "name": "Quick Feet"
+        },
+        {
+            "name": "Moxie",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 127,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Field"
+    ],
+    "hatch_time": [
+        4080,
+        4334
+    ],
+    "height_us": "3'03\"",
+    "height_eu": "1.0 m",
+    "weight_us": "81.6 lbs.",
+    "weight_eu": "37.0 kg",
+    "base_exp_yield": 147,
+    "leveling_rate": "Medium Fast",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 2,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 70,
+        "atk": 90,
+        "def": 70,
+        "sp_atk": 60,
+        "sp_def": 60,
+        "speed": 70
+    },
+    "evolution_from": "Poochyena",
+    "evolutions": [],
+    "species": "Bite Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "Mightyena travel and act as a pack in the wild. The memory of its life in the wild compels the Pokémon to obey only those Trainers that it recognizes to possess superior skill.",
+    "move_learnset": [
+        {
+            "move": "Bite",
+            "level": 1
+        },
+        {
+            "move": "Crunch",
+            "level": 1
+        },
+        {
+            "move": "Fire Fang",
+            "level": 1
+        },
+        {
+            "move": "Howl",
+            "level": 1
+        },
+        {
+            "move": "Ice Fang",
+            "level": 1
+        },
+        {
+            "move": "Sand Attack",
+            "level": 1
+        },
+        {
+            "move": "Snarl",
+            "level": 1
+        },
+        {
+            "move": "Tackle",
+            "level": 1
+        },
+        {
+            "move": "Thief",
+            "level": 1
+        },
+        {
+            "move": "Thunder Fang",
+            "level": 1
+        },
+        {
+            "move": "Howl",
+            "level": 4
+        },
+        {
+            "move": "Sand Attack",
+            "level": 7
+        },
+        {
+            "move": "Bite",
+            "level": 10
+        },
+        {
+            "move": "Odor Sleuth",
+            "level": 13
+        },
+        {
+            "move": "Roar",
+            "level": 16
+        },
+        {
+            "move": "Swagger",
+            "level": 20
+        },
+        {
+            "move": "Assurance",
+            "level": 24
+        },
+        {
+            "move": "Scary Face",
+            "level": 28
+        },
+        {
+            "move": "Embargo",
+            "level": 32
+        },
+        {
+            "move": "Taunt",
+            "level": 36
+        },
+        {
+            "move": "Crunch",
+            "level": 40
+        },
+        {
+            "move": "Yawn",
+            "level": 44
+        },
+        {
+            "move": "Take Down",
+            "level": 48
+        },
+        {
+            "move": "Sucker Punch",
+            "level": 52
+        },
+        {
+            "move": "Play Rough",
+            "level": 56
+        },
+        {
+            "move": "Astonish",
+            "egg_move": true
+        },
+        {
+            "move": "Covet",
+            "egg_move": true
+        },
+        {
+            "move": "Fire Fang",
+            "egg_move": true
+        },
+        {
+            "move": "Ice Fang",
+            "egg_move": true
+        },
+        {
+            "move": "Leer",
+            "egg_move": true
+        },
+        {
+            "move": "Me First",
+            "egg_move": true
+        },
+        {
+            "move": "Play Rough",
+            "egg_move": true
+        },
+        {
+            "move": "Poison Fang",
+            "egg_move": true
+        },
+        {
+            "move": "Sleep Talk",
+            "egg_move": true
+        },
+        {
+            "move": "Snatch",
+            "egg_move": true
+        },
+        {
+            "move": "Sucker Punch",
+            "egg_move": true
+        },
+        {
+            "move": "Thunder Fang",
+            "egg_move": true
+        },
+        {
+            "move": "Yawn",
+            "egg_move": true
+        },
+        {
+            "move": "Roar",
+            "tm": "TM5"
+        },
+        {
+            "move": "Toxic",
+            "tm": "TM6"
+        },
+        {
+            "move": "Hidden Power",
+            "tm": "TM10"
+        },
+        {
+            "move": "Sunny Day",
+            "tm": "TM11"
+        },
+        {
+            "move": "Taunt",
+            "tm": "TM12"
+        },
+        {
+            "move": "Hyper Beam",
+            "tm": "TM15"
+        },
+        {
+            "move": "Protect",
+            "tm": "TM17"
+        },
+        {
+            "move": "Rain Dance",
+            "tm": "TM18"
+        },
+        {
+            "move": "Frustration",
+            "tm": "TM21"
+        },
+        {
+            "move": "Return",
+            "tm": "TM27"
+        },
+        {
+            "move": "Shadow Ball",
+            "tm": "TM30"
+        },
+        {
+            "move": "Double Team",
+            "tm": "TM32"
+        },
+        {
+            "move": "Torment",
+            "tm": "TM41"
+        },
+        {
+            "move": "Facade",
+            "tm": "TM42"
+        },
+        {
+            "move": "Rest",
+            "tm": "TM44"
+        },
+        {
+            "move": "Attract",
+            "tm": "TM45"
+        },
+        {
+            "move": "Thief",
+            "tm": "TM46"
+        },
+        {
+            "move": "Round",
+            "tm": "TM48"
+        },
+        {
+            "move": "Embargo",
+            "tm": "TM63"
+        },
+        {
+            "move": "Payback",
+            "tm": "TM66"
+        },
+        {
+            "move": "Giga Impact",
+            "tm": "TM68"
+        },
+        {
+            "move": "Swagger",
+            "tm": "TM87"
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": "TM88"
+        },
+        {
+            "move": "Substitute",
+            "tm": "TM90"
+        },
+        {
+            "move": "Snarl",
+            "tm": "TM95"
+        },
+        {
+            "move": "Dark Pulse",
+            "tm": "TM97"
+        },
+        {
+            "move": "Confide",
+            "tm": "TM100"
+        }
+    ]
+}

@@ -1,0 +1,340 @@
+{
+    "name": "Ninetales",
+    "national_id": 38,
+    "types": [
+        "Fire"
+    ],
+    "items": [
+        {
+            "name": "Charcoal",
+            "chance": 5
+        }
+    ],
+    "abilities": [
+        {
+            "name": "Flash Fire"
+        },
+        {
+            "name": "Drought",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 75,
+    "gender_ratios": {
+        "male": 25,
+        "female": 75
+    },
+    "egg_groups": [
+        "Field"
+    ],
+    "hatch_time": [
+        5355,
+        5609
+    ],
+    "height_us": "3'07\"",
+    "height_eu": "1.1 m",
+    "weight_us": "43.9 lbs.",
+    "weight_eu": "19.9 kg",
+    "base_exp_yield": 177,
+    "leveling_rate": "Medium Fast",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 1,
+        "speed": 1
+    },
+    "base_stats": {
+        "hp": 73,
+        "atk": 76,
+        "def": 75,
+        "sp_atk": 81,
+        "sp_def": 100,
+        "speed": 100
+    },
+    "evolution_from": "Vulpix",
+    "evolutions": [],
+    "species": "Fox Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "Very smart and very vengeful. Grabbing one of its many tails could result in a 1,000-year curse.",
+    "move_learnset": [
+        {
+            "move": "Nasty Plot",
+            "level": 1
+        },
+        {
+            "move": "Incinerate",
+            "level": 1
+        },
+        {
+            "move": "Spite",
+            "level": 1
+        },
+        {
+            "move": "Incinerate",
+            "level": 1
+        },
+        {
+            "move": "Confuse Ray",
+            "level": 1
+        },
+        {
+            "move": "Will-O-Wisp",
+            "level": 1
+        },
+        {
+            "move": "Extrasensory",
+            "level": 1
+        },
+        {
+            "move": "Flamethrower",
+            "level": 1
+        },
+        {
+            "move": "Imprison",
+            "level": 1
+        },
+        {
+            "move": "Fire Spin",
+            "level": 1
+        },
+        {
+            "move": "Safeguard",
+            "level": 1
+        },
+        {
+            "move": "Inferno",
+            "level": 1
+        },
+        {
+            "move": "Grudge",
+            "level": 1
+        },
+        {
+            "move": "Fire Blast",
+            "level": 1
+        },
+        {
+            "move": "Ember",
+            "level": 1
+        },
+        {
+            "move": "Tail Whip",
+            "level": 1
+        },
+        {
+            "move": "Disable",
+            "level": 1
+        },
+        {
+            "move": "Quick Attack",
+            "level": 1
+        },
+        {
+            "move": "Hyper Beam",
+            "tm": true
+        },
+        {
+            "move": "Giga Impact",
+            "tm": true
+        },
+        {
+            "move": "Solar Beam",
+            "tm": true
+        },
+        {
+            "move": "Fire Spin",
+            "tm": true
+        },
+        {
+            "move": "Dig",
+            "tm": true
+        },
+        {
+            "move": "Safeguard",
+            "tm": true
+        },
+        {
+            "move": "Rest",
+            "tm": true
+        },
+        {
+            "move": "Snore",
+            "tm": true
+        },
+        {
+            "move": "Protect",
+            "tm": true
+        },
+        {
+            "move": "Attract",
+            "tm": true
+        },
+        {
+            "move": "Sunny Day",
+            "tm": true
+        },
+        {
+            "move": "Will-O-Wisp",
+            "tm": true
+        },
+        {
+            "move": "Facade",
+            "tm": true
+        },
+        {
+            "move": "Swift",
+            "tm": true
+        },
+        {
+            "move": "Imprison",
+            "tm": true
+        },
+        {
+            "move": "Weather Ball",
+            "tm": true
+        },
+        {
+            "move": "Fake Tears",
+            "tm": true
+        },
+        {
+            "move": "Payback",
+            "tm": true
+        },
+        {
+            "move": "Power Swap",
+            "tm": true
+        },
+        {
+            "move": "Round",
+            "tm": true
+        },
+        {
+            "move": "Hex",
+            "tm": true
+        },
+        {
+            "move": "Tail Slap",
+            "tm": true
+        },
+        {
+            "move": "Mystical Fire",
+            "tm": true
+        },
+        {
+            "move": "Body Slam",
+            "tm": true
+        },
+        {
+            "move": "Flamethrower",
+            "tm": true
+        },
+        {
+            "move": "Agility",
+            "tm": true
+        },
+        {
+            "move": "Fire Blast",
+            "tm": true
+        },
+        {
+            "move": "Substitute",
+            "tm": true
+        },
+        {
+            "move": "Psyshock",
+            "tm": true
+        },
+        {
+            "move": "Endure",
+            "tm": true
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": true
+        },
+        {
+            "move": "Encore",
+            "tm": true
+        },
+        {
+            "move": "Iron Tail",
+            "tm": true
+        },
+        {
+            "move": "Shadow Ball",
+            "tm": true
+        },
+        {
+            "move": "Heat Wave",
+            "tm": true
+        },
+        {
+            "move": "Overheat",
+            "tm": true
+        },
+        {
+            "move": "Calm Mind",
+            "tm": true
+        },
+        {
+            "move": "Flare Blitz",
+            "tm": true
+        },
+        {
+            "move": "Dark Pulse",
+            "tm": true
+        },
+        {
+            "move": "Energy Ball",
+            "tm": true
+        },
+        {
+            "move": "Nasty Plot",
+            "tm": true
+        },
+        {
+            "move": "Zen Headbutt",
+            "tm": true
+        },
+        {
+            "move": "Foul Play",
+            "tm": true
+        },
+        {
+            "move": "Stored Power",
+            "tm": true
+        },
+        {
+            "move": "Hypnosis",
+            "egg_move": true
+        },
+        {
+            "move": "Flail",
+            "egg_move": true
+        },
+        {
+            "move": "Howl",
+            "egg_move": true
+        },
+        {
+            "move": "Memento",
+            "egg_move": true
+        },
+        {
+            "move": "Baby-Doll Eyes",
+            "egg_move": true
+        },
+        {
+            "move": "Roar",
+            "egg_move": true
+        },
+        {
+            "move": "Flame Charge",
+            "egg_move": true
+        }
+    ]
+}

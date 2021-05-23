@@ -1,0 +1,268 @@
+{
+    "name": "Flapple",
+    "national_id": 841,
+    "types": [
+        "Grass",
+        "Dragon"
+    ],
+    "abilities": [
+        {
+            "name": "Ripen"
+        },
+        {
+            "name": "Gluttony"
+        },
+        {
+            "name": "Hustle",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 45,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Grass",
+        "Dragon"
+    ],
+    "hatch_time": [
+        5140,
+        5396
+    ],
+    "height_us": "1'00\"",
+    "height_eu": "0.3 m",
+    "weight_us": "2.2 lbs.",
+    "weight_eu": "1.0 kg",
+    "base_exp_yield": 170,
+    "leveling_rate": "Erratic",
+    "base_friendship": 50,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 2,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 70,
+        "atk": 110,
+        "def": 80,
+        "sp_atk": 95,
+        "sp_def": 60,
+        "speed": 70
+    },
+    "evolution_from": "Applin",
+    "evolution_from_item": "Tart Apple",
+    "evolutions": [],
+    "species": "Apple Wing Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "It flies on wings of apple skin and spits a powerful acid. It can also change its shape into that of an apple.",
+    "move_learnset": [
+        {
+            "move": "Wing Attack",
+            "evo": true
+        },
+        {
+            "move": "Wing Attack",
+            "level": 1
+        },
+        {
+            "move": "Recycle",
+            "level": 1
+        },
+        {
+            "move": "Withdraw",
+            "level": 1
+        },
+        {
+            "move": "Astonish",
+            "level": 1
+        },
+        {
+            "move": "Growth",
+            "level": 1
+        },
+        {
+            "move": "Twister",
+            "level": 1
+        },
+        {
+            "move": "Acid Spray",
+            "level": 4
+        },
+        {
+            "move": "Acrobatics",
+            "level": 8
+        },
+        {
+            "move": "Leech Seed",
+            "level": 12
+        },
+        {
+            "move": "Protect",
+            "level": 16
+        },
+        {
+            "move": "Dragon Breath",
+            "level": 20
+        },
+        {
+            "move": "Dragon Dance",
+            "level": 24
+        },
+        {
+            "move": "Dragon Pulse",
+            "level": 28
+        },
+        {
+            "move": "Grav Apple",
+            "level": 32
+        },
+        {
+            "move": "Iron Defense",
+            "level": 36
+        },
+        {
+            "move": "Fly",
+            "level": 40
+        },
+        {
+            "move": "Dragon Rush",
+            "level": 44
+        },
+        {
+            "move": "Fly",
+            "tm": true
+        },
+        {
+            "move": "Hyper Beam",
+            "tm": true
+        },
+        {
+            "move": "Giga Impact",
+            "tm": true
+        },
+        {
+            "move": "Solar Beam",
+            "tm": true
+        },
+        {
+            "move": "Rest",
+            "tm": true
+        },
+        {
+            "move": "Snore",
+            "tm": true
+        },
+        {
+            "move": "Protect",
+            "tm": true
+        },
+        {
+            "move": "Scary Face",
+            "tm": true
+        },
+        {
+            "move": "Giga Drain",
+            "tm": true
+        },
+        {
+            "move": "Attract",
+            "tm": true
+        },
+        {
+            "move": "Sunny Day",
+            "tm": true
+        },
+        {
+            "move": "Facade",
+            "tm": true
+        },
+        {
+            "move": "Bullet Seed",
+            "tm": true
+        },
+        {
+            "move": "U-turn",
+            "tm": true
+        },
+        {
+            "move": "Round",
+            "tm": true
+        },
+        {
+            "move": "Acrobatics",
+            "tm": true
+        },
+        {
+            "move": "Air Slash",
+            "tm": true
+        },
+        {
+            "move": "Focus Energy",
+            "tm": true
+        },
+        {
+            "move": "Substitute",
+            "tm": true
+        },
+        {
+            "move": "Outrage",
+            "tm": true
+        },
+        {
+            "move": "Endure",
+            "tm": true
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": true
+        },
+        {
+            "move": "Iron Defense",
+            "tm": true
+        },
+        {
+            "move": "Dragon Dance",
+            "tm": true
+        },
+        {
+            "move": "Seed Bomb",
+            "tm": true
+        },
+        {
+            "move": "Dragon Pulse",
+            "tm": true
+        },
+        {
+            "move": "Energy Ball",
+            "tm": true
+        },
+        {
+            "move": "Grass Knot",
+            "tm": true
+        },
+        {
+            "move": "Heavy Slam",
+            "tm": true
+        },
+        {
+            "move": "Sucker Punch",
+            "egg_move": true
+        },
+        {
+            "move": "Rollout",
+            "egg_move": true
+        },
+        {
+            "move": "Defense Curl",
+            "egg_move": true
+        },
+        {
+            "move": "Recycle",
+            "egg_move": true
+        }
+    ]
+}

@@ -1,0 +1,323 @@
+{
+    "name": "Greninja",
+    "national_id": 658,
+    "types": [
+        "Water",
+        "Dark"
+    ],
+    "abilities": [
+        {
+            "name": "Torrent"
+        },
+        {
+            "name": "Protean",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 45,
+    "gender_ratios": {
+        "male": 87.5,
+        "female": 12.5
+    },
+    "egg_groups": [
+        "Water 1"
+    ],
+    "hatch_time": [
+        5355,
+        5609
+    ],
+    "height_us": "4'11\"",
+    "height_eu": "1.5 m",
+    "weight_us": "88.2 lbs.",
+    "weight_eu": "40.0 kg",
+    "base_exp_yield": 239,
+    "leveling_rate": "Medium Slow",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 3
+    },
+    "base_stats": {
+        "hp": 72,
+        "atk": 95,
+        "def": 67,
+        "sp_atk": 103,
+        "sp_def": 71,
+        "speed": 122
+    },
+    "evolution_from": "Frogadier",
+    "evolutions": [],
+    "species": "Ninja Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "It appears and vanishes with a ninja’s grace. It toys with its enemies using swift movements, while slicing them with throwing stars of sharpest water.",
+    "move_learnset": [
+        {
+            "move": "Bubble",
+            "level": 1
+        },
+        {
+            "move": "Growl",
+            "level": 1
+        },
+        {
+            "move": "Haze",
+            "level": 1
+        },
+        {
+            "move": "Mat Block",
+            "level": 1
+        },
+        {
+            "move": "Night Slash",
+            "level": 1
+        },
+        {
+            "move": "Pound",
+            "level": 1
+        },
+        {
+            "move": "Quick Attack",
+            "level": 1
+        },
+        {
+            "move": "Role Play",
+            "level": 1
+        },
+        {
+            "move": "Water Shuriken",
+            "level": 1
+        },
+        {
+            "move": "Bubble",
+            "level": 5
+        },
+        {
+            "move": "Quick Attack",
+            "level": 8
+        },
+        {
+            "move": "Lick",
+            "level": 10
+        },
+        {
+            "move": "Water Pulse",
+            "level": 14
+        },
+        {
+            "move": "Smokescreen",
+            "level": 19
+        },
+        {
+            "move": "Shadow Sneak",
+            "level": 23
+        },
+        {
+            "move": "Spikes",
+            "level": 28
+        },
+        {
+            "move": "Feint Attack",
+            "level": 33
+        },
+        {
+            "move": "Substitute",
+            "level": 42
+        },
+        {
+            "move": "Extrasensory",
+            "level": 49
+        },
+        {
+            "move": "Double Team",
+            "level": 56
+        },
+        {
+            "move": "Hydro Pump",
+            "level": 68
+        },
+        {
+            "move": "Haze",
+            "level": 70
+        },
+        {
+            "move": "Night Slash",
+            "level": 77
+        },
+        {
+            "move": "Bestow",
+            "egg_move": true
+        },
+        {
+            "move": "Camouflage",
+            "egg_move": true
+        },
+        {
+            "move": "Mind Reader",
+            "egg_move": true
+        },
+        {
+            "move": "Mud Sport",
+            "egg_move": true
+        },
+        {
+            "move": "Power-Up Punch",
+            "egg_move": true
+        },
+        {
+            "move": "Toxic Spikes",
+            "egg_move": true
+        },
+        {
+            "move": "Water Sport",
+            "egg_move": true
+        },
+        {
+            "move": "Work Up",
+            "tm": "TM1"
+        },
+        {
+            "move": "Toxic",
+            "tm": "TM6"
+        },
+        {
+            "move": "Hidden Power",
+            "tm": "TM10"
+        },
+        {
+            "move": "Taunt",
+            "tm": "TM12"
+        },
+        {
+            "move": "Ice Beam",
+            "tm": "TM13"
+        },
+        {
+            "move": "Blizzard",
+            "tm": "TM14"
+        },
+        {
+            "move": "Hyper Beam",
+            "tm": "TM15"
+        },
+        {
+            "move": "Protect",
+            "tm": "TM17"
+        },
+        {
+            "move": "Rain Dance",
+            "tm": "TM18"
+        },
+        {
+            "move": "Frustration",
+            "tm": "TM21"
+        },
+        {
+            "move": "Smack Down",
+            "tm": "TM23"
+        },
+        {
+            "move": "Return",
+            "tm": "TM27"
+        },
+        {
+            "move": "Double Team",
+            "tm": "TM32"
+        },
+        {
+            "move": "Rock Tomb",
+            "tm": "TM39"
+        },
+        {
+            "move": "Aerial Ace",
+            "tm": "TM40"
+        },
+        {
+            "move": "Facade",
+            "tm": "TM42"
+        },
+        {
+            "move": "Rest",
+            "tm": "TM44"
+        },
+        {
+            "move": "Attract",
+            "tm": "TM45"
+        },
+        {
+            "move": "Thief",
+            "tm": "TM46"
+        },
+        {
+            "move": "Round",
+            "tm": "TM48"
+        },
+        {
+            "move": "Echoed Voice",
+            "tm": "TM49"
+        },
+        {
+            "move": "Scald",
+            "tm": "TM55"
+        },
+        {
+            "move": "Fling",
+            "tm": "TM56"
+        },
+        {
+            "move": "Brutal Swing",
+            "tm": "TM59"
+        },
+        {
+            "move": "Acrobatics",
+            "tm": "TM62"
+        },
+        {
+            "move": "Giga Impact",
+            "tm": "TM68"
+        },
+        {
+            "move": "Rock Slide",
+            "tm": "TM80"
+        },
+        {
+            "move": "Grass Knot",
+            "tm": "TM86"
+        },
+        {
+            "move": "Swagger",
+            "tm": "TM87"
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": "TM88"
+        },
+        {
+            "move": "U-turn",
+            "tm": "TM89"
+        },
+        {
+            "move": "Substitute",
+            "tm": "TM90"
+        },
+        {
+            "move": "Surf",
+            "tm": "TM94"
+        },
+        {
+            "move": "Dark Pulse",
+            "tm": "TM97"
+        },
+        {
+            "move": "Waterfall",
+            "tm": "TM98"
+        },
+        {
+            "move": "Confide",
+            "tm": "TM100"
+        }
+    ]
+}

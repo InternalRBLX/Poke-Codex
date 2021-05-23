@@ -1,0 +1,194 @@
+{
+    "name": "Pyukumuku",
+    "national_id": 771,
+    "types": [
+        "Water"
+    ],
+    "abilities": [
+        {
+            "name": "Innards Out"
+        },
+        {
+            "name": "Unaware",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 60,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Water 1"
+    ],
+    "hatch_time": [
+        3855,
+        4111
+    ],
+    "height_us": "1'00\"",
+    "height_eu": "0.3 m",
+    "weight_us": "2.6 lbs.",
+    "weight_eu": "1.2 kg",
+    "base_exp_yield": 144,
+    "leveling_rate": "Fast",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 2,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 55,
+        "atk": 60,
+        "def": 130,
+        "sp_atk": 30,
+        "sp_def": 130,
+        "speed": 5
+    },
+    "evolution_from": null,
+    "evolutions": [],
+    "species": "Sea Cucumber Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "It’s covered in a slime that keeps its skin moist, allowing it to stay on land for days without drying up.",
+    "move_learnset": [
+        {
+            "move": "Baton Pass",
+            "level": 1
+        },
+        {
+            "move": "Harden",
+            "level": 1
+        },
+        {
+            "move": "Helping Hand",
+            "level": 5
+        },
+        {
+            "move": "Taunt",
+            "level": 10
+        },
+        {
+            "move": "Safeguard",
+            "level": 15
+        },
+        {
+            "move": "Counter",
+            "level": 20
+        },
+        {
+            "move": "Purify",
+            "level": 25
+        },
+        {
+            "move": "Curse",
+            "level": 30
+        },
+        {
+            "move": "Gastro Acid",
+            "level": 35
+        },
+        {
+            "move": "Pain Split",
+            "level": 40
+        },
+        {
+            "move": "Recover",
+            "level": 45
+        },
+        {
+            "move": "Soak",
+            "level": 50
+        },
+        {
+            "move": "Toxic",
+            "level": 55
+        },
+        {
+            "move": "Memento",
+            "level": 60
+        },
+        {
+            "move": "Screech",
+            "tm": true
+        },
+        {
+            "move": "Light Screen",
+            "tm": true
+        },
+        {
+            "move": "Reflect",
+            "tm": true
+        },
+        {
+            "move": "Safeguard",
+            "tm": true
+        },
+        {
+            "move": "Rest",
+            "tm": true
+        },
+        {
+            "move": "Protect",
+            "tm": true
+        },
+        {
+            "move": "Attract",
+            "tm": true
+        },
+        {
+            "move": "Rain Dance",
+            "tm": true
+        },
+        {
+            "move": "Hail",
+            "tm": true
+        },
+        {
+            "move": "Helping Hand",
+            "tm": true
+        },
+        {
+            "move": "Substitute",
+            "tm": true
+        },
+        {
+            "move": "Endure",
+            "tm": true
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": true
+        },
+        {
+            "move": "Baton Pass",
+            "tm": true
+        },
+        {
+            "move": "Taunt",
+            "tm": true
+        },
+        {
+            "move": "Venom Drench",
+            "tm": true
+        },
+        {
+            "move": "Tickle",
+            "egg_move": true
+        },
+        {
+            "move": "Spite",
+            "egg_move": true
+        },
+        {
+            "move": "Mirror Coat",
+            "egg_move": true
+        },
+        {
+            "move": "Swagger",
+            "egg_move": true
+        }
+    ]
+}

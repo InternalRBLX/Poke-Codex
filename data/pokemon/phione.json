@@ -1,0 +1,200 @@
+{
+    "name": "Phione",
+    "national_id": 489,
+    "types": [
+        "Water"
+    ],
+    "abilities": [
+        {
+            "name": "Hydration"
+        }
+    ],
+    "catch_rate": 30,
+    "gender_ratios": null,
+    "egg_groups": [
+        "Water 1",
+        "Fairy"
+    ],
+    "hatch_time": [
+        10455,
+        10709
+    ],
+    "height_us": "1'04\"",
+    "height_eu": "0.4 m",
+    "weight_us": "6.8 lbs.",
+    "weight_eu": "3.1 kg",
+    "base_exp_yield": 216,
+    "leveling_rate": "Slow",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 1,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 80,
+        "atk": 80,
+        "def": 80,
+        "sp_atk": 80,
+        "sp_def": 80,
+        "speed": 80
+    },
+    "evolution_from": null,
+    "evolutions": [],
+    "species": "Sea Drifter Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "It drifts in warm seas. It always returns to where it was born, no matter how far it may have drifted.",
+    "move_learnset": [
+        {
+            "move": "Bubble",
+            "level": 1
+        },
+        {
+            "move": "Water Sport",
+            "level": 1
+        },
+        {
+            "move": "Charm",
+            "level": 9
+        },
+        {
+            "move": "Supersonic",
+            "level": 16
+        },
+        {
+            "move": "Bubble Beam",
+            "level": 24
+        },
+        {
+            "move": "Acid Armor",
+            "level": 31
+        },
+        {
+            "move": "Whirlpool",
+            "level": 39
+        },
+        {
+            "move": "Water Pulse",
+            "level": 46
+        },
+        {
+            "move": "Aqua Ring",
+            "level": 54
+        },
+        {
+            "move": "Dive",
+            "level": 61
+        },
+        {
+            "move": "Rain Dance",
+            "level": 69
+        },
+        {
+            "move": "Toxic",
+            "tm": "TM6"
+        },
+        {
+            "move": "Hail",
+            "tm": "TM7"
+        },
+        {
+            "move": "Hidden Power",
+            "tm": "TM10"
+        },
+        {
+            "move": "Ice Beam",
+            "tm": "TM13"
+        },
+        {
+            "move": "Blizzard",
+            "tm": "TM14"
+        },
+        {
+            "move": "Protect",
+            "tm": "TM17"
+        },
+        {
+            "move": "Rain Dance",
+            "tm": "TM18"
+        },
+        {
+            "move": "Safeguard",
+            "tm": "TM20"
+        },
+        {
+            "move": "Frustration",
+            "tm": "TM21"
+        },
+        {
+            "move": "Return",
+            "tm": "TM27"
+        },
+        {
+            "move": "Double Team",
+            "tm": "TM32"
+        },
+        {
+            "move": "Facade",
+            "tm": "TM42"
+        },
+        {
+            "move": "Rest",
+            "tm": "TM44"
+        },
+        {
+            "move": "Round",
+            "tm": "TM48"
+        },
+        {
+            "move": "Scald",
+            "tm": "TM55"
+        },
+        {
+            "move": "Fling",
+            "tm": "TM56"
+        },
+        {
+            "move": "Psych Up",
+            "tm": "TM77"
+        },
+        {
+            "move": "Grass Knot",
+            "tm": "TM86"
+        },
+        {
+            "move": "Swagger",
+            "tm": "TM87"
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": "TM88"
+        },
+        {
+            "move": "U-turn",
+            "tm": "TM89"
+        },
+        {
+            "move": "Substitute",
+            "tm": "TM90"
+        },
+        {
+            "move": "Surf",
+            "tm": "TM94"
+        },
+        {
+            "move": "Waterfall",
+            "tm": "TM98"
+        },
+        {
+            "move": "Dazzling Gleam",
+            "tm": "TM99"
+        },
+        {
+            "move": "Confide",
+            "tm": "TM100"
+        }
+    ]
+}

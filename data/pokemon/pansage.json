@@ -1,0 +1,301 @@
+{
+    "name": "Pansage",
+    "national_id": 511,
+    "types": [
+        "Grass"
+    ],
+    "items": [
+        {
+            "name": "Occa Berry",
+            "chance": 5
+        },
+        {
+            "name": "Oran Berry",
+            "chance": 50
+        }
+    ],
+    "abilities": [
+        {
+            "name": "Gluttony"
+        },
+        {
+            "name": "Overgrow",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 190,
+    "gender_ratios": {
+        "male": 87.5,
+        "female": 12.5
+    },
+    "egg_groups": [
+        "Field"
+    ],
+    "hatch_time": [
+        5355,
+        5609
+    ],
+    "height_us": "2'00\"",
+    "height_eu": "0.6 m",
+    "weight_us": "23.1 lbs.",
+    "weight_eu": "10.5 kg",
+    "base_exp_yield": 63,
+    "leveling_rate": "Medium Fast",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 1
+    },
+    "base_stats": {
+        "hp": 50,
+        "atk": 53,
+        "def": 48,
+        "sp_atk": 53,
+        "sp_def": 48,
+        "speed": 64
+    },
+    "evolution_from": null,
+    "evolutions": [
+        {
+            "to": "Simisage",
+            "item": "Leaf Stone"
+        }
+    ],
+    "species": "Grass Monkey Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "It's good at finding berries and gathers them from all over. It's kind enough to share them with friends.",
+    "move_learnset": [
+        {
+            "move": "Play Nice",
+            "level": 1
+        },
+        {
+            "move": "Scratch",
+            "level": 1
+        },
+        {
+            "move": "Leer",
+            "level": 4
+        },
+        {
+            "move": "Lick",
+            "level": 7
+        },
+        {
+            "move": "Vine Whip",
+            "level": 10
+        },
+        {
+            "move": "Fury Swipes",
+            "level": 13
+        },
+        {
+            "move": "Leech Seed",
+            "level": 16
+        },
+        {
+            "move": "Bite",
+            "level": 19
+        },
+        {
+            "move": "Seed Bomb",
+            "level": 22
+        },
+        {
+            "move": "Torment",
+            "level": 25
+        },
+        {
+            "move": "Fling",
+            "level": 28
+        },
+        {
+            "move": "Acrobatics",
+            "level": 31
+        },
+        {
+            "move": "Grass Knot",
+            "level": 34
+        },
+        {
+            "move": "Recycle",
+            "level": 37
+        },
+        {
+            "move": "Natural Gift",
+            "level": 40
+        },
+        {
+            "move": "Crunch",
+            "level": 43
+        },
+        {
+            "move": "Astonish",
+            "egg_move": true
+        },
+        {
+            "move": "Bullet Seed",
+            "egg_move": true
+        },
+        {
+            "move": "Covet",
+            "egg_move": true
+        },
+        {
+            "move": "Disarming Voice",
+            "egg_move": true
+        },
+        {
+            "move": "Grass Whistle",
+            "egg_move": true
+        },
+        {
+            "move": "Leaf Storm",
+            "egg_move": true
+        },
+        {
+            "move": "Low Kick",
+            "egg_move": true
+        },
+        {
+            "move": "Magical Leaf",
+            "egg_move": true
+        },
+        {
+            "move": "Nasty Plot",
+            "egg_move": true
+        },
+        {
+            "move": "Role Play",
+            "egg_move": true
+        },
+        {
+            "move": "Spiky Shield",
+            "egg_move": true
+        },
+        {
+            "move": "Tickle",
+            "egg_move": true
+        },
+        {
+            "move": "Work Up",
+            "tm": "TM1"
+        },
+        {
+            "move": "Toxic",
+            "tm": "TM6"
+        },
+        {
+            "move": "Hidden Power",
+            "tm": "TM10"
+        },
+        {
+            "move": "Sunny Day",
+            "tm": "TM11"
+        },
+        {
+            "move": "Taunt",
+            "tm": "TM12"
+        },
+        {
+            "move": "Protect",
+            "tm": "TM17"
+        },
+        {
+            "move": "Frustration",
+            "tm": "TM21"
+        },
+        {
+            "move": "Solar Beam",
+            "tm": "TM22"
+        },
+        {
+            "move": "Return",
+            "tm": "TM27"
+        },
+        {
+            "move": "Double Team",
+            "tm": "TM32"
+        },
+        {
+            "move": "Rock Tomb",
+            "tm": "TM39"
+        },
+        {
+            "move": "Torment",
+            "tm": "TM41"
+        },
+        {
+            "move": "Facade",
+            "tm": "TM42"
+        },
+        {
+            "move": "Rest",
+            "tm": "TM44"
+        },
+        {
+            "move": "Attract",
+            "tm": "TM45"
+        },
+        {
+            "move": "Thief",
+            "tm": "TM46"
+        },
+        {
+            "move": "Low Sweep",
+            "tm": "TM47"
+        },
+        {
+            "move": "Round",
+            "tm": "TM48"
+        },
+        {
+            "move": "Energy Ball",
+            "tm": "TM53"
+        },
+        {
+            "move": "Fling",
+            "tm": "TM56"
+        },
+        {
+            "move": "Acrobatics",
+            "tm": "TM62"
+        },
+        {
+            "move": "Shadow Claw",
+            "tm": "TM65"
+        },
+        {
+            "move": "Payback",
+            "tm": "TM66"
+        },
+        {
+            "move": "Grass Knot",
+            "tm": "TM86"
+        },
+        {
+            "move": "Swagger",
+            "tm": "TM87"
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": "TM88"
+        },
+        {
+            "move": "Substitute",
+            "tm": "TM90"
+        },
+        {
+            "move": "Nature Power",
+            "tm": "TM96"
+        },
+        {
+            "move": "Confide",
+            "tm": "TM100"
+        }
+    ]
+}

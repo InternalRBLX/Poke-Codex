@@ -1,0 +1,334 @@
+{
+    "name": "Mienshao",
+    "national_id": 620,
+    "types": [
+        "Fighting"
+    ],
+    "abilities": [
+        {
+            "name": "Inner Focus"
+        },
+        {
+            "name": "Regenerator"
+        },
+        {
+            "name": "Reckless",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 45,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Field",
+        "Human-Like"
+    ],
+    "hatch_time": [
+        6630,
+        6884
+    ],
+    "height_us": "4'07\"",
+    "height_eu": "1.4 m",
+    "weight_us": "78.3 lbs.",
+    "weight_eu": "35.5 kg",
+    "base_exp_yield": 179,
+    "leveling_rate": "Medium Slow",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 2,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 65,
+        "atk": 125,
+        "def": 60,
+        "sp_atk": 95,
+        "sp_def": 60,
+        "speed": 105
+    },
+    "evolution_from": "Mienfoo",
+    "evolutions": [],
+    "species": "Martial Arts Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "Using the long fur on its arms like whips, it launches into combo attacks that, once started, no one can stop.",
+    "move_learnset": [
+        {
+            "move": "Aura Sphere",
+            "level": 1
+        },
+        {
+            "move": "Detect",
+            "level": 1
+        },
+        {
+            "move": "Fake Out",
+            "level": 1
+        },
+        {
+            "move": "Meditate",
+            "level": 1
+        },
+        {
+            "move": "Pound",
+            "level": 1
+        },
+        {
+            "move": "Reversal",
+            "level": 1
+        },
+        {
+            "move": "Meditate",
+            "level": 5
+        },
+        {
+            "move": "Detect",
+            "level": 9
+        },
+        {
+            "move": "Fake Out",
+            "level": 13
+        },
+        {
+            "move": "Double Slap",
+            "level": 17
+        },
+        {
+            "move": "Swift",
+            "level": 21
+        },
+        {
+            "move": "Calm Mind",
+            "level": 25
+        },
+        {
+            "move": "Force Palm",
+            "level": 29
+        },
+        {
+            "move": "Drain Punch",
+            "level": 33
+        },
+        {
+            "move": "Jump Kick",
+            "level": 37
+        },
+        {
+            "move": "U-turn",
+            "level": 41
+        },
+        {
+            "move": "Wide Guard",
+            "level": 45
+        },
+        {
+            "move": "Bounce",
+            "level": 49
+        },
+        {
+            "move": "High Jump Kick",
+            "level": 56
+        },
+        {
+            "move": "Reversal",
+            "level": 63
+        },
+        {
+            "move": "Aura Sphere",
+            "level": 70
+        },
+        {
+            "move": "Ally Switch",
+            "egg_move": true
+        },
+        {
+            "move": "Baton Pass",
+            "egg_move": true
+        },
+        {
+            "move": "Endure",
+            "egg_move": true
+        },
+        {
+            "move": "Feint",
+            "egg_move": true
+        },
+        {
+            "move": "Knock Off",
+            "egg_move": true
+        },
+        {
+            "move": "Low Kick",
+            "egg_move": true
+        },
+        {
+            "move": "Me First",
+            "egg_move": true
+        },
+        {
+            "move": "Smelling Salts",
+            "egg_move": true
+        },
+        {
+            "move": "Vital Throw",
+            "egg_move": true
+        },
+        {
+            "move": "Work Up",
+            "tm": "TM1"
+        },
+        {
+            "move": "Calm Mind",
+            "tm": "TM4"
+        },
+        {
+            "move": "Toxic",
+            "tm": "TM6"
+        },
+        {
+            "move": "Bulk Up",
+            "tm": "TM8"
+        },
+        {
+            "move": "Hidden Power",
+            "tm": "TM10"
+        },
+        {
+            "move": "Sunny Day",
+            "tm": "TM11"
+        },
+        {
+            "move": "Taunt",
+            "tm": "TM12"
+        },
+        {
+            "move": "Hyper Beam",
+            "tm": "TM15"
+        },
+        {
+            "move": "Protect",
+            "tm": "TM17"
+        },
+        {
+            "move": "Rain Dance",
+            "tm": "TM18"
+        },
+        {
+            "move": "Frustration",
+            "tm": "TM21"
+        },
+        {
+            "move": "Return",
+            "tm": "TM27"
+        },
+        {
+            "move": "Brick Break",
+            "tm": "TM31"
+        },
+        {
+            "move": "Double Team",
+            "tm": "TM32"
+        },
+        {
+            "move": "Reflect",
+            "tm": "TM33"
+        },
+        {
+            "move": "Rock Tomb",
+            "tm": "TM39"
+        },
+        {
+            "move": "Aerial Ace",
+            "tm": "TM40"
+        },
+        {
+            "move": "Facade",
+            "tm": "TM42"
+        },
+        {
+            "move": "Rest",
+            "tm": "TM44"
+        },
+        {
+            "move": "Attract",
+            "tm": "TM45"
+        },
+        {
+            "move": "Low Sweep",
+            "tm": "TM47"
+        },
+        {
+            "move": "Round",
+            "tm": "TM48"
+        },
+        {
+            "move": "Focus Blast",
+            "tm": "TM52"
+        },
+        {
+            "move": "Fling",
+            "tm": "TM56"
+        },
+        {
+            "move": "Acrobatics",
+            "tm": "TM62"
+        },
+        {
+            "move": "Payback",
+            "tm": "TM66"
+        },
+        {
+            "move": "Giga Impact",
+            "tm": "TM68"
+        },
+        {
+            "move": "Stone Edge",
+            "tm": "TM71"
+        },
+        {
+            "move": "Swords Dance",
+            "tm": "TM75"
+        },
+        {
+            "move": "Psych Up",
+            "tm": "TM77"
+        },
+        {
+            "move": "Rock Slide",
+            "tm": "TM80"
+        },
+        {
+            "move": "Poison Jab",
+            "tm": "TM84"
+        },
+        {
+            "move": "Grass Knot",
+            "tm": "TM86"
+        },
+        {
+            "move": "Swagger",
+            "tm": "TM87"
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": "TM88"
+        },
+        {
+            "move": "U-turn",
+            "tm": "TM89"
+        },
+        {
+            "move": "Substitute",
+            "tm": "TM90"
+        },
+        {
+            "move": "Confide",
+            "tm": "TM100"
+        }
+    ]
+}

@@ -1,0 +1,332 @@
+{
+    "name": "Skuntank",
+    "national_id": 435,
+    "types": [
+        "Poison",
+        "Dark"
+    ],
+    "items": [
+        {
+            "name": "Pecha Berry",
+            "chance": 5
+        }
+    ],
+    "abilities": [
+        {
+            "name": "Stench"
+        },
+        {
+            "name": "Aftermath"
+        },
+        {
+            "name": "Keen Eye",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 60,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Field"
+    ],
+    "hatch_time": [
+        5355,
+        5609
+    ],
+    "height_us": "3'03\"",
+    "height_eu": "1.0 m",
+    "weight_us": "83.8 lbs.",
+    "weight_eu": "38.0 kg",
+    "base_exp_yield": 168,
+    "leveling_rate": "Medium Fast",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 2,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 103,
+        "atk": 93,
+        "def": 67,
+        "sp_atk": 71,
+        "sp_def": 61,
+        "speed": 84
+    },
+    "evolution_from": "Stunky",
+    "evolutions": [],
+    "species": "Skunk Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "It digs holes in the ground to make its nest. The stench of the fluid it lets fly from the tip of its tail is extremely potent.",
+    "move_learnset": [
+        {
+            "move": "Flamethrower",
+            "evo": true
+        },
+        {
+            "move": "Flamethrower",
+            "level": 1
+        },
+        {
+            "move": "Poison Gas",
+            "level": 1
+        },
+        {
+            "move": "Scratch",
+            "level": 1
+        },
+        {
+            "move": "Feint",
+            "level": 1
+        },
+        {
+            "move": "Smokescreen",
+            "level": 1
+        },
+        {
+            "move": "Acid Spray",
+            "level": 9
+        },
+        {
+            "move": "Fury Swipes",
+            "level": 12
+        },
+        {
+            "move": "Focus Energy",
+            "level": 15
+        },
+        {
+            "move": "Bite",
+            "level": 18
+        },
+        {
+            "move": "Venoshock",
+            "level": 21
+        },
+        {
+            "move": "Screech",
+            "level": 24
+        },
+        {
+            "move": "Toxic",
+            "level": 27
+        },
+        {
+            "move": "Sucker Punch",
+            "level": 30
+        },
+        {
+            "move": "Memento",
+            "level": 33
+        },
+        {
+            "move": "Night Slash",
+            "level": 38
+        },
+        {
+            "move": "Belch",
+            "level": 43
+        },
+        {
+            "move": "Venom Drench",
+            "level": 48
+        },
+        {
+            "move": "Explosion",
+            "level": 53
+        },
+        {
+            "move": "Hyper Beam",
+            "tm": true
+        },
+        {
+            "move": "Giga Impact",
+            "tm": true
+        },
+        {
+            "move": "Fire Spin",
+            "tm": true
+        },
+        {
+            "move": "Dig",
+            "tm": true
+        },
+        {
+            "move": "Screech",
+            "tm": true
+        },
+        {
+            "move": "Rest",
+            "tm": true
+        },
+        {
+            "move": "Thief",
+            "tm": true
+        },
+        {
+            "move": "Snore",
+            "tm": true
+        },
+        {
+            "move": "Protect",
+            "tm": true
+        },
+        {
+            "move": "Scary Face",
+            "tm": true
+        },
+        {
+            "move": "Attract",
+            "tm": true
+        },
+        {
+            "move": "Rain Dance",
+            "tm": true
+        },
+        {
+            "move": "Sunny Day",
+            "tm": true
+        },
+        {
+            "move": "Facade",
+            "tm": true
+        },
+        {
+            "move": "Swift",
+            "tm": true
+        },
+        {
+            "move": "Payback",
+            "tm": true
+        },
+        {
+            "move": "Assurance",
+            "tm": true
+        },
+        {
+            "move": "Shadow Claw",
+            "tm": true
+        },
+        {
+            "move": "Venoshock",
+            "tm": true
+        },
+        {
+            "move": "Round",
+            "tm": true
+        },
+        {
+            "move": "Hex",
+            "tm": true
+        },
+        {
+            "move": "Tail Slap",
+            "tm": true
+        },
+        {
+            "move": "Snarl",
+            "tm": true
+        },
+        {
+            "move": "Flamethrower",
+            "tm": true
+        },
+        {
+            "move": "Focus Energy",
+            "tm": true
+        },
+        {
+            "move": "Fire Blast",
+            "tm": true
+        },
+        {
+            "move": "Substitute",
+            "tm": true
+        },
+        {
+            "move": "Sludge Bomb",
+            "tm": true
+        },
+        {
+            "move": "Endure",
+            "tm": true
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": true
+        },
+        {
+            "move": "Iron Tail",
+            "tm": true
+        },
+        {
+            "move": "Crunch",
+            "tm": true
+        },
+        {
+            "move": "Shadow Ball",
+            "tm": true
+        },
+        {
+            "move": "Taunt",
+            "tm": true
+        },
+        {
+            "move": "Poison Jab",
+            "tm": true
+        },
+        {
+            "move": "Dark Pulse",
+            "tm": true
+        },
+        {
+            "move": "Nasty Plot",
+            "tm": true
+        },
+        {
+            "move": "Foul Play",
+            "tm": true
+        },
+        {
+            "move": "Play Rough",
+            "tm": true
+        },
+        {
+            "move": "Venom Drench",
+            "tm": true
+        },
+        {
+            "move": "Throat Chop",
+            "tm": true
+        },
+        {
+            "move": "Leer",
+            "egg_move": true
+        },
+        {
+            "move": "Smog",
+            "egg_move": true
+        },
+        {
+            "move": "Double-Edge",
+            "egg_move": true
+        },
+        {
+            "move": "Astonish",
+            "egg_move": true
+        },
+        {
+            "move": "Haze",
+            "egg_move": true
+        },
+        {
+            "move": "Slash",
+            "egg_move": true
+        }
+    ]
+}

@@ -1,0 +1,276 @@
+{
+    "name": "Cobalion",
+    "national_id": 638,
+    "types": [
+        "Steel",
+        "Fighting"
+    ],
+    "abilities": [
+        {
+            "name": "Justified"
+        }
+    ],
+    "catch_rate": 3,
+    "gender_ratios": null,
+    "egg_groups": [
+        "Undiscovered"
+    ],
+    "hatch_time": [
+        20655,
+        20909
+    ],
+    "height_us": "6'11\"",
+    "height_eu": "2.1 m",
+    "weight_us": "551.2 lbs.",
+    "weight_eu": "250.0 kg",
+    "base_exp_yield": 261,
+    "leveling_rate": "Slow",
+    "base_friendship": 35,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 3,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 91,
+        "atk": 90,
+        "def": 129,
+        "sp_atk": 90,
+        "sp_def": 72,
+        "speed": 108
+    },
+    "evolution_from": null,
+    "evolutions": [],
+    "species": "Iron Will Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "From the moment it’s born, this Pokémon radiates the air of a leader. Its presence will calm even vicious foes.",
+    "move_learnset": [
+        {
+            "move": "Quick Attack",
+            "level": 1
+        },
+        {
+            "move": "Leer",
+            "level": 1
+        },
+        {
+            "move": "Helping Hand",
+            "level": 1
+        },
+        {
+            "move": "Work Up",
+            "level": 1
+        },
+        {
+            "move": "Metal Claw",
+            "level": 7
+        },
+        {
+            "move": "Quick Guard",
+            "level": 14
+        },
+        {
+            "move": "Double Kick",
+            "level": 21
+        },
+        {
+            "move": "Retaliate",
+            "level": 28
+        },
+        {
+            "move": "Metal Burst",
+            "level": 35
+        },
+        {
+            "move": "Take Down",
+            "level": 42
+        },
+        {
+            "move": "Sacred Sword",
+            "level": 49
+        },
+        {
+            "move": "Swords Dance",
+            "level": 56
+        },
+        {
+            "move": "Iron Head",
+            "level": 63
+        },
+        {
+            "move": "Close Combat",
+            "level": 70
+        },
+        {
+            "move": "Hyper Beam",
+            "tm": true
+        },
+        {
+            "move": "Giga Impact",
+            "tm": true
+        },
+        {
+            "move": "Thunder Wave",
+            "tm": true
+        },
+        {
+            "move": "Reflect",
+            "tm": true
+        },
+        {
+            "move": "Safeguard",
+            "tm": true
+        },
+        {
+            "move": "Rest",
+            "tm": true
+        },
+        {
+            "move": "Snore",
+            "tm": true
+        },
+        {
+            "move": "Protect",
+            "tm": true
+        },
+        {
+            "move": "Scary Face",
+            "tm": true
+        },
+        {
+            "move": "Sandstorm",
+            "tm": true
+        },
+        {
+            "move": "Facade",
+            "tm": true
+        },
+        {
+            "move": "Swift",
+            "tm": true
+        },
+        {
+            "move": "Helping Hand",
+            "tm": true
+        },
+        {
+            "move": "Revenge",
+            "tm": true
+        },
+        {
+            "move": "Brick Break",
+            "tm": true
+        },
+        {
+            "move": "Bounce",
+            "tm": true
+        },
+        {
+            "move": "Round",
+            "tm": true
+        },
+        {
+            "move": "Retaliate",
+            "tm": true
+        },
+        {
+            "move": "Volt Switch",
+            "tm": true
+        },
+        {
+            "move": "False Swipe",
+            "tm": true
+        },
+        {
+            "move": "Air Slash",
+            "tm": true
+        },
+        {
+            "move": "Smart Strike",
+            "tm": true
+        },
+        {
+            "move": "Swords Dance",
+            "tm": true
+        },
+        {
+            "move": "Substitute",
+            "tm": true
+        },
+        {
+            "move": "Reversal",
+            "tm": true
+        },
+        {
+            "move": "Endure",
+            "tm": true
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": true
+        },
+        {
+            "move": "Megahorn",
+            "tm": true
+        },
+        {
+            "move": "Taunt",
+            "tm": true
+        },
+        {
+            "move": "Superpower",
+            "tm": true
+        },
+        {
+            "move": "Iron Defense",
+            "tm": true
+        },
+        {
+            "move": "Calm Mind",
+            "tm": true
+        },
+        {
+            "move": "Close Combat",
+            "tm": true
+        },
+        {
+            "move": "Poison Jab",
+            "tm": true
+        },
+        {
+            "move": "X-Scissor",
+            "tm": true
+        },
+        {
+            "move": "Focus Blast",
+            "tm": true
+        },
+        {
+            "move": "Zen Headbutt",
+            "tm": true
+        },
+        {
+            "move": "Flash Cannon",
+            "tm": true
+        },
+        {
+            "move": "Iron Head",
+            "tm": true
+        },
+        {
+            "move": "Stone Edge",
+            "tm": true
+        },
+        {
+            "move": "Stealth Rock",
+            "tm": true
+        },
+        {
+            "move": "Work Up",
+            "tm": true
+        }
+    ]
+}

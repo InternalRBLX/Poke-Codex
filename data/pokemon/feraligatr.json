@@ -1,0 +1,339 @@
+{
+    "name": "Feraligatr",
+    "national_id": 160,
+    "types": [
+        "Water"
+    ],
+    "abilities": [
+        {
+            "name": "Torrent"
+        },
+        {
+            "name": "Sheer Force",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 45,
+    "gender_ratios": {
+        "male": 87.5,
+        "female": 12.5
+    },
+    "egg_groups": [
+        "Monster",
+        "Water 1"
+    ],
+    "hatch_time": [
+        5355,
+        5609
+    ],
+    "height_us": "7'07\"",
+    "height_eu": "2.3 m",
+    "weight_us": "195.8 lbs.",
+    "weight_eu": "88.8 kg",
+    "base_exp_yield": 239,
+    "leveling_rate": "Medium Slow",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 2,
+        "def": 1,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 85,
+        "atk": 105,
+        "def": 100,
+        "sp_atk": 79,
+        "sp_def": 83,
+        "speed": 78
+    },
+    "evolution_from": "Croconaw",
+    "evolutions": [],
+    "species": "Big Jaw Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "Feraligatr intimidates its foes by opening its huge mouth. In battle, it will kick the ground hard with its thick and powerful hind legs to charge at the foe at an incredible speed.",
+    "move_learnset": [
+        {
+            "move": "Agility",
+            "level": 1
+        },
+        {
+            "move": "Leer",
+            "level": 1
+        },
+        {
+            "move": "Rage",
+            "level": 1
+        },
+        {
+            "move": "Scratch",
+            "level": 1
+        },
+        {
+            "move": "Water Gun",
+            "level": 1
+        },
+        {
+            "move": "Water Gun",
+            "level": 6
+        },
+        {
+            "move": "Rage",
+            "level": 8
+        },
+        {
+            "move": "Bite",
+            "level": 13
+        },
+        {
+            "move": "Scary Face",
+            "level": 15
+        },
+        {
+            "move": "Ice Fang",
+            "level": 21
+        },
+        {
+            "move": "Flail",
+            "level": 24
+        },
+        {
+            "move": "Crunch",
+            "level": 32
+        },
+        {
+            "move": "Chip Away",
+            "level": 37
+        },
+        {
+            "move": "Slash",
+            "level": 45
+        },
+        {
+            "move": "Screech",
+            "level": 50
+        },
+        {
+            "move": "Thrash",
+            "level": 58
+        },
+        {
+            "move": "Aqua Tail",
+            "level": 63
+        },
+        {
+            "move": "Superpower",
+            "level": 71
+        },
+        {
+            "move": "Hydro Pump",
+            "level": 76
+        },
+        {
+            "move": "Ancient Power",
+            "egg_move": true
+        },
+        {
+            "move": "Aqua Jet",
+            "egg_move": true
+        },
+        {
+            "move": "Block",
+            "egg_move": true
+        },
+        {
+            "move": "Crunch",
+            "egg_move": true
+        },
+        {
+            "move": "Dragon Dance",
+            "egg_move": true
+        },
+        {
+            "move": "Fake Tears",
+            "egg_move": true
+        },
+        {
+            "move": "Flatter",
+            "egg_move": true
+        },
+        {
+            "move": "Hydro Pump",
+            "egg_move": true
+        },
+        {
+            "move": "Ice Punch",
+            "egg_move": true
+        },
+        {
+            "move": "Metal Claw",
+            "egg_move": true
+        },
+        {
+            "move": "Mud Sport",
+            "egg_move": true
+        },
+        {
+            "move": "Thrash",
+            "egg_move": true
+        },
+        {
+            "move": "Water Pulse",
+            "egg_move": true
+        },
+        {
+            "move": "Water Sport",
+            "egg_move": true
+        },
+        {
+            "move": "Work Up",
+            "tm": "TM1"
+        },
+        {
+            "move": "Dragon Claw",
+            "tm": "TM2"
+        },
+        {
+            "move": "Roar",
+            "tm": "TM5"
+        },
+        {
+            "move": "Toxic",
+            "tm": "TM6"
+        },
+        {
+            "move": "Hail",
+            "tm": "TM7"
+        },
+        {
+            "move": "Hidden Power",
+            "tm": "TM10"
+        },
+        {
+            "move": "Ice Beam",
+            "tm": "TM13"
+        },
+        {
+            "move": "Blizzard",
+            "tm": "TM14"
+        },
+        {
+            "move": "Hyper Beam",
+            "tm": "TM15"
+        },
+        {
+            "move": "Protect",
+            "tm": "TM17"
+        },
+        {
+            "move": "Rain Dance",
+            "tm": "TM18"
+        },
+        {
+            "move": "Frustration",
+            "tm": "TM21"
+        },
+        {
+            "move": "Earthquake",
+            "tm": "TM26"
+        },
+        {
+            "move": "Return",
+            "tm": "TM27"
+        },
+        {
+            "move": "Brick Break",
+            "tm": "TM31"
+        },
+        {
+            "move": "Double Team",
+            "tm": "TM32"
+        },
+        {
+            "move": "Rock Tomb",
+            "tm": "TM39"
+        },
+        {
+            "move": "Aerial Ace",
+            "tm": "TM40"
+        },
+        {
+            "move": "Facade",
+            "tm": "TM42"
+        },
+        {
+            "move": "Rest",
+            "tm": "TM44"
+        },
+        {
+            "move": "Attract",
+            "tm": "TM45"
+        },
+        {
+            "move": "Round",
+            "tm": "TM48"
+        },
+        {
+            "move": "Focus Blast",
+            "tm": "TM52"
+        },
+        {
+            "move": "Scald",
+            "tm": "TM55"
+        },
+        {
+            "move": "Fling",
+            "tm": "TM56"
+        },
+        {
+            "move": "Shadow Claw",
+            "tm": "TM65"
+        },
+        {
+            "move": "Giga Impact",
+            "tm": "TM68"
+        },
+        {
+            "move": "Swords Dance",
+            "tm": "TM75"
+        },
+        {
+            "move": "Bulldoze",
+            "tm": "TM78"
+        },
+        {
+            "move": "Rock Slide",
+            "tm": "TM80"
+        },
+        {
+            "move": "Dragon Tail",
+            "tm": "TM82"
+        },
+        {
+            "move": "Swagger",
+            "tm": "TM87"
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": "TM88"
+        },
+        {
+            "move": "Substitute",
+            "tm": "TM90"
+        },
+        {
+            "move": "Surf",
+            "tm": "TM94"
+        },
+        {
+            "move": "Waterfall",
+            "tm": "TM98"
+        },
+        {
+            "move": "Confide",
+            "tm": "TM100"
+        }
+    ]
+}

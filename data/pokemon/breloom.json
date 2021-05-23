@@ -1,0 +1,303 @@
+{
+    "name": "Breloom",
+    "national_id": 286,
+    "types": [
+        "Grass",
+        "Fighting"
+    ],
+    "abilities": [
+        {
+            "name": "Effect Spore"
+        },
+        {
+            "name": "Poison Heal"
+        },
+        {
+            "name": "Technician",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 90,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Fairy",
+        "Grass"
+    ],
+    "hatch_time": [
+        4080,
+        4334
+    ],
+    "height_us": "3'11\"",
+    "height_eu": "1.2 m",
+    "weight_us": "86.4 lbs.",
+    "weight_eu": "39.2 kg",
+    "base_exp_yield": 161,
+    "leveling_rate": "Fluctuating",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 2,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 60,
+        "atk": 130,
+        "def": 80,
+        "sp_atk": 60,
+        "sp_def": 60,
+        "speed": 70
+    },
+    "evolution_from": "Shroomish",
+    "evolutions": [],
+    "species": "Mushroom Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "The seeds ringing Breloom’s tail are made of hardened toxic spores. It is horrible to eat the seeds. Just taking a bite of this Pokémon’s seed will cause your stomach to rumble.",
+    "move_learnset": [
+        {
+            "move": "Absorb",
+            "level": 1
+        },
+        {
+            "move": "Leech Seed",
+            "level": 1
+        },
+        {
+            "move": "Mach Punch",
+            "level": 1
+        },
+        {
+            "move": "Stun Spore",
+            "level": 1
+        },
+        {
+            "move": "Tackle",
+            "level": 1
+        },
+        {
+            "move": "Stun Spore",
+            "level": 5
+        },
+        {
+            "move": "Leech Seed",
+            "level": 8
+        },
+        {
+            "move": "Mega Drain",
+            "level": 12
+        },
+        {
+            "move": "Headbutt",
+            "level": 15
+        },
+        {
+            "move": "Feint",
+            "level": 19
+        },
+        {
+            "move": "Counter",
+            "level": 22
+        },
+        {
+            "move": "Force Palm",
+            "level": 28
+        },
+        {
+            "move": "Mind Reader",
+            "level": 33
+        },
+        {
+            "move": "Sky Uppercut",
+            "level": 39
+        },
+        {
+            "move": "Seed Bomb",
+            "level": 44
+        },
+        {
+            "move": "Dynamic Punch",
+            "level": 50
+        },
+        {
+            "move": "Bullet Seed",
+            "egg_move": true
+        },
+        {
+            "move": "Charm",
+            "egg_move": true
+        },
+        {
+            "move": "Drain Punch",
+            "egg_move": true
+        },
+        {
+            "move": "Fake Tears",
+            "egg_move": true
+        },
+        {
+            "move": "Focus Punch",
+            "egg_move": true
+        },
+        {
+            "move": "Helping Hand",
+            "egg_move": true
+        },
+        {
+            "move": "Natural Gift",
+            "egg_move": true
+        },
+        {
+            "move": "Seed Bomb",
+            "egg_move": true
+        },
+        {
+            "move": "Wake-Up Slap",
+            "egg_move": true
+        },
+        {
+            "move": "Worry Seed",
+            "egg_move": true
+        },
+        {
+            "move": "Work Up",
+            "tm": "TM1"
+        },
+        {
+            "move": "Toxic",
+            "tm": "TM6"
+        },
+        {
+            "move": "Bulk Up",
+            "tm": "TM8"
+        },
+        {
+            "move": "Venoshock",
+            "tm": "TM9"
+        },
+        {
+            "move": "Hidden Power",
+            "tm": "TM10"
+        },
+        {
+            "move": "Sunny Day",
+            "tm": "TM11"
+        },
+        {
+            "move": "Hyper Beam",
+            "tm": "TM15"
+        },
+        {
+            "move": "Protect",
+            "tm": "TM17"
+        },
+        {
+            "move": "Safeguard",
+            "tm": "TM20"
+        },
+        {
+            "move": "Frustration",
+            "tm": "TM21"
+        },
+        {
+            "move": "Solar Beam",
+            "tm": "TM22"
+        },
+        {
+            "move": "Return",
+            "tm": "TM27"
+        },
+        {
+            "move": "Brick Break",
+            "tm": "TM31"
+        },
+        {
+            "move": "Double Team",
+            "tm": "TM32"
+        },
+        {
+            "move": "Sludge Bomb",
+            "tm": "TM36"
+        },
+        {
+            "move": "Rock Tomb",
+            "tm": "TM39"
+        },
+        {
+            "move": "Facade",
+            "tm": "TM42"
+        },
+        {
+            "move": "Rest",
+            "tm": "TM44"
+        },
+        {
+            "move": "Attract",
+            "tm": "TM45"
+        },
+        {
+            "move": "Low Sweep",
+            "tm": "TM47"
+        },
+        {
+            "move": "Round",
+            "tm": "TM48"
+        },
+        {
+            "move": "Focus Blast",
+            "tm": "TM52"
+        },
+        {
+            "move": "Energy Ball",
+            "tm": "TM53"
+        },
+        {
+            "move": "False Swipe",
+            "tm": "TM54"
+        },
+        {
+            "move": "Fling",
+            "tm": "TM56"
+        },
+        {
+            "move": "Giga Impact",
+            "tm": "TM68"
+        },
+        {
+            "move": "Stone Edge",
+            "tm": "TM71"
+        },
+        {
+            "move": "Swords Dance",
+            "tm": "TM75"
+        },
+        {
+            "move": "Rock Slide",
+            "tm": "TM80"
+        },
+        {
+            "move": "Grass Knot",
+            "tm": "TM86"
+        },
+        {
+            "move": "Swagger",
+            "tm": "TM87"
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": "TM88"
+        },
+        {
+            "move": "Substitute",
+            "tm": "TM90"
+        },
+        {
+            "move": "Confide",
+            "tm": "TM100"
+        }
+    ]
+}

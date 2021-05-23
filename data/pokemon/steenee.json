@@ -1,0 +1,252 @@
+{
+    "name": "Steenee",
+    "national_id": 762,
+    "types": [
+        "Grass"
+    ],
+    "items": [
+        {
+            "name": "Grassy Seed",
+            "chance": 5
+        }
+    ],
+    "abilities": [
+        {
+            "name": "Leaf Guard"
+        },
+        {
+            "name": "Oblivious"
+        },
+        {
+            "name": "Sweet Veil",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 120,
+    "gender_ratios": {
+        "female": 100
+    },
+    "egg_groups": [
+        "Grass"
+    ],
+    "hatch_time": [
+        5140,
+        5396
+    ],
+    "height_us": "2'04\"",
+    "height_eu": "0.7 m",
+    "weight_us": "18.1 lbs.",
+    "weight_eu": "8.2 kg",
+    "base_exp_yield": 102,
+    "leveling_rate": "Medium Slow",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 2
+    },
+    "base_stats": {
+        "hp": 52,
+        "atk": 40,
+        "def": 48,
+        "sp_atk": 40,
+        "sp_def": 48,
+        "speed": 62
+    },
+    "evolution_from": "Bounsweet",
+    "evolutions": [
+        {
+            "to": "Tsareena",
+            "level_up": true,
+            "move_learned": "Stomp"
+        }
+    ],
+    "species": "Fruit Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "Any Corvisquire that pecks at this Pokémon will be greeted with a smack from its sepals followed by a sharp kick.",
+    "move_learnset": [
+        {
+            "move": "Flail",
+            "level": 1
+        },
+        {
+            "move": "Splash",
+            "level": 1
+        },
+        {
+            "move": "Play Nice",
+            "level": 1
+        },
+        {
+            "move": "Rapid Spin",
+            "level": 1
+        },
+        {
+            "move": "Razor Leaf",
+            "level": 1
+        },
+        {
+            "move": "Sweet Scent",
+            "level": 16
+        },
+        {
+            "move": "Magical Leaf",
+            "level": 22
+        },
+        {
+            "move": "Stomp",
+            "level": 28
+        },
+        {
+            "move": "Teeter Dance",
+            "level": 34
+        },
+        {
+            "move": "Aromatic Mist",
+            "level": 40
+        },
+        {
+            "move": "Aromatherapy",
+            "level": 46
+        },
+        {
+            "move": "Leaf Storm",
+            "level": 52
+        },
+        {
+            "move": "Magical Leaf",
+            "tm": true
+        },
+        {
+            "move": "Solar Beam",
+            "tm": true
+        },
+        {
+            "move": "Light Screen",
+            "tm": true
+        },
+        {
+            "move": "Reflect",
+            "tm": true
+        },
+        {
+            "move": "Safeguard",
+            "tm": true
+        },
+        {
+            "move": "Rest",
+            "tm": true
+        },
+        {
+            "move": "Snore",
+            "tm": true
+        },
+        {
+            "move": "Protect",
+            "tm": true
+        },
+        {
+            "move": "Giga Drain",
+            "tm": true
+        },
+        {
+            "move": "Charm",
+            "tm": true
+        },
+        {
+            "move": "Attract",
+            "tm": true
+        },
+        {
+            "move": "Sunny Day",
+            "tm": true
+        },
+        {
+            "move": "Facade",
+            "tm": true
+        },
+        {
+            "move": "Helping Hand",
+            "tm": true
+        },
+        {
+            "move": "Bounce",
+            "tm": true
+        },
+        {
+            "move": "Payback",
+            "tm": true
+        },
+        {
+            "move": "Fling",
+            "tm": true
+        },
+        {
+            "move": "Low Sweep",
+            "tm": true
+        },
+        {
+            "move": "Round",
+            "tm": true
+        },
+        {
+            "move": "Draining Kiss",
+            "tm": true
+        },
+        {
+            "move": "Substitute",
+            "tm": true
+        },
+        {
+            "move": "Endure",
+            "tm": true
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": true
+        },
+        {
+            "move": "Seed Bomb",
+            "tm": true
+        },
+        {
+            "move": "Energy Ball",
+            "tm": true
+        },
+        {
+            "move": "Zen Headbutt",
+            "tm": true
+        },
+        {
+            "move": "Leaf Storm",
+            "tm": true
+        },
+        {
+            "move": "Grass Knot",
+            "tm": true
+        },
+        {
+            "move": "Play Rough",
+            "tm": true
+        },
+        {
+            "move": "Dazzling Gleam",
+            "tm": true
+        },
+        {
+            "move": "Synthesis",
+            "egg_move": true
+        },
+        {
+            "move": "Acupressure",
+            "egg_move": true
+        },
+        {
+            "move": "Endeavor",
+            "egg_move": true
+        }
+    ]
+}

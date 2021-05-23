@@ -1,0 +1,233 @@
+{
+    "name": "Beautifly",
+    "national_id": 267,
+    "types": [
+        "Bug",
+        "Flying"
+    ],
+    "items": [
+        {
+            "name": "Shed Shell",
+            "chance": 5
+        }
+    ],
+    "abilities": [
+        {
+            "name": "Swarm"
+        },
+        {
+            "name": "Rivalry",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 45,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Bug"
+    ],
+    "hatch_time": [
+        4080,
+        4334
+    ],
+    "height_us": "3'03\"",
+    "height_eu": "1.0 m",
+    "weight_us": "62.6 lbs.",
+    "weight_eu": "28.4 kg",
+    "base_exp_yield": 173,
+    "leveling_rate": "Medium Fast",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 3,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 60,
+        "atk": 70,
+        "def": 50,
+        "sp_atk": 90,
+        "sp_def": 50,
+        "speed": 65
+    },
+    "evolution_from": "Silcoon",
+    "evolutions": [],
+    "species": "Butterfly Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "Beautifly has a long mouth like a coiled needle, which is very convenient for collecting pollen from flowers. This Pokémon rides the spring winds as it flits around gathering pollen.",
+    "move_learnset": [
+        {
+            "move": "Gust",
+            "level": 1
+        },
+        {
+            "move": "Absorb",
+            "level": 12
+        },
+        {
+            "move": "Stun Spore",
+            "level": 15
+        },
+        {
+            "move": "Morning Sun",
+            "level": 17
+        },
+        {
+            "move": "Air Cutter",
+            "level": 20
+        },
+        {
+            "move": "Mega Drain",
+            "level": 22
+        },
+        {
+            "move": "Silver Wind",
+            "level": 25
+        },
+        {
+            "move": "Attract",
+            "level": 27
+        },
+        {
+            "move": "Whirlwind",
+            "level": 30
+        },
+        {
+            "move": "Giga Drain",
+            "level": 32
+        },
+        {
+            "move": "Bug Buzz",
+            "level": 35
+        },
+        {
+            "move": "Rage",
+            "level": 37
+        },
+        {
+            "move": "Quiver Dance",
+            "level": 40
+        },
+        {
+            "move": "Toxic",
+            "tm": "TM6"
+        },
+        {
+            "move": "Venoshock",
+            "tm": "TM9"
+        },
+        {
+            "move": "Hidden Power",
+            "tm": "TM10"
+        },
+        {
+            "move": "Sunny Day",
+            "tm": "TM11"
+        },
+        {
+            "move": "Hyper Beam",
+            "tm": "TM15"
+        },
+        {
+            "move": "Protect",
+            "tm": "TM17"
+        },
+        {
+            "move": "Roost",
+            "tm": "TM19"
+        },
+        {
+            "move": "Safeguard",
+            "tm": "TM20"
+        },
+        {
+            "move": "Frustration",
+            "tm": "TM21"
+        },
+        {
+            "move": "Solar Beam",
+            "tm": "TM22"
+        },
+        {
+            "move": "Return",
+            "tm": "TM27"
+        },
+        {
+            "move": "Psychic",
+            "tm": "TM29"
+        },
+        {
+            "move": "Shadow Ball",
+            "tm": "TM30"
+        },
+        {
+            "move": "Double Team",
+            "tm": "TM32"
+        },
+        {
+            "move": "Aerial Ace",
+            "tm": "TM40"
+        },
+        {
+            "move": "Facade",
+            "tm": "TM42"
+        },
+        {
+            "move": "Rest",
+            "tm": "TM44"
+        },
+        {
+            "move": "Attract",
+            "tm": "TM45"
+        },
+        {
+            "move": "Thief",
+            "tm": "TM46"
+        },
+        {
+            "move": "Round",
+            "tm": "TM48"
+        },
+        {
+            "move": "Energy Ball",
+            "tm": "TM53"
+        },
+        {
+            "move": "Acrobatics",
+            "tm": "TM62"
+        },
+        {
+            "move": "Giga Impact",
+            "tm": "TM68"
+        },
+        {
+            "move": "Infestation",
+            "tm": "TM83"
+        },
+        {
+            "move": "Swagger",
+            "tm": "TM87"
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": "TM88"
+        },
+        {
+            "move": "U-turn",
+            "tm": "TM89"
+        },
+        {
+            "move": "Substitute",
+            "tm": "TM90"
+        },
+        {
+            "move": "Confide",
+            "tm": "TM100"
+        }
+    ]
+}

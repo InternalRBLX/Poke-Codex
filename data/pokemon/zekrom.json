@@ -1,0 +1,308 @@
+{
+    "name": "Zekrom",
+    "national_id": 644,
+    "types": [
+        "Dragon",
+        "Electric"
+    ],
+    "abilities": [
+        {
+            "name": "Teravolt"
+        }
+    ],
+    "catch_rate": 3,
+    "gender_ratios": null,
+    "egg_groups": [
+        "Undiscovered"
+    ],
+    "hatch_time": [
+        30855,
+        31109
+    ],
+    "height_us": "9'06\"",
+    "height_eu": "2.9 m",
+    "weight_us": "760.6 lbs.",
+    "weight_eu": "345.0 kg",
+    "base_exp_yield": 306,
+    "leveling_rate": "Slow",
+    "base_friendship": 0,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 3,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 100,
+        "atk": 150,
+        "def": 120,
+        "sp_atk": 120,
+        "sp_def": 100,
+        "speed": 90
+    },
+    "evolution_from": null,
+    "evolutions": [],
+    "species": "Deep Black Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "Mythology tells us that if people lose the righteousness in their hearts, their kingdoms will be razed by Zekrom’s lightning.",
+    "move_learnset": [
+        {
+            "move": "Dragon Breath",
+            "level": 1
+        },
+        {
+            "move": "Noble Roar",
+            "level": 1
+        },
+        {
+            "move": "Ancient Power",
+            "level": 1
+        },
+        {
+            "move": "Thunder Fang",
+            "level": 1
+        },
+        {
+            "move": "Slash",
+            "level": 8
+        },
+        {
+            "move": "Crunch",
+            "level": 16
+        },
+        {
+            "move": "Zen Headbutt",
+            "level": 24
+        },
+        {
+            "move": "Dragon Claw",
+            "level": 32
+        },
+        {
+            "move": "Thunderbolt",
+            "level": 40
+        },
+        {
+            "move": "Fusion Bolt",
+            "level": 48
+        },
+        {
+            "move": "Hyper Voice",
+            "level": 56
+        },
+        {
+            "move": "Thunder",
+            "level": 64
+        },
+        {
+            "move": "Imprison",
+            "level": 72
+        },
+        {
+            "move": "Outrage",
+            "level": 80
+        },
+        {
+            "move": "Bolt Strike",
+            "level": 88
+        },
+        {
+            "move": "Thunder Punch",
+            "tm": true
+        },
+        {
+            "move": "Fly",
+            "tm": true
+        },
+        {
+            "move": "Hyper Beam",
+            "tm": true
+        },
+        {
+            "move": "Giga Impact",
+            "tm": true
+        },
+        {
+            "move": "Thunder Wave",
+            "tm": true
+        },
+        {
+            "move": "Light Screen",
+            "tm": true
+        },
+        {
+            "move": "Reflect",
+            "tm": true
+        },
+        {
+            "move": "Safeguard",
+            "tm": true
+        },
+        {
+            "move": "Rest",
+            "tm": true
+        },
+        {
+            "move": "Rock Slide",
+            "tm": true
+        },
+        {
+            "move": "Snore",
+            "tm": true
+        },
+        {
+            "move": "Protect",
+            "tm": true
+        },
+        {
+            "move": "Steel Wing",
+            "tm": true
+        },
+        {
+            "move": "Rain Dance",
+            "tm": true
+        },
+        {
+            "move": "Facade",
+            "tm": true
+        },
+        {
+            "move": "Swift",
+            "tm": true
+        },
+        {
+            "move": "Helping Hand",
+            "tm": true
+        },
+        {
+            "move": "Imprison",
+            "tm": true
+        },
+        {
+            "move": "Weather Ball",
+            "tm": true
+        },
+        {
+            "move": "Rock Tomb",
+            "tm": true
+        },
+        {
+            "move": "Payback",
+            "tm": true
+        },
+        {
+            "move": "Fling",
+            "tm": true
+        },
+        {
+            "move": "Shadow Claw",
+            "tm": true
+        },
+        {
+            "move": "Thunder Fang",
+            "tm": true
+        },
+        {
+            "move": "Round",
+            "tm": true
+        },
+        {
+            "move": "Volt Switch",
+            "tm": true
+        },
+        {
+            "move": "Brutal Swing",
+            "tm": true
+        },
+        {
+            "move": "Breaking Swipe",
+            "tm": true
+        },
+        {
+            "move": "Thunderbolt",
+            "tm": true
+        },
+        {
+            "move": "Thunder",
+            "tm": true
+        },
+        {
+            "move": "Psychic",
+            "tm": true
+        },
+        {
+            "move": "Substitute",
+            "tm": true
+        },
+        {
+            "move": "Outrage",
+            "tm": true
+        },
+        {
+            "move": "Endure",
+            "tm": true
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": true
+        },
+        {
+            "move": "Crunch",
+            "tm": true
+        },
+        {
+            "move": "Shadow Ball",
+            "tm": true
+        },
+        {
+            "move": "Hyper Voice",
+            "tm": true
+        },
+        {
+            "move": "Dragon Claw",
+            "tm": true
+        },
+        {
+            "move": "Dragon Dance",
+            "tm": true
+        },
+        {
+            "move": "Dragon Pulse",
+            "tm": true
+        },
+        {
+            "move": "Focus Blast",
+            "tm": true
+        },
+        {
+            "move": "Earth Power",
+            "tm": true
+        },
+        {
+            "move": "Zen Headbutt",
+            "tm": true
+        },
+        {
+            "move": "Flash Cannon",
+            "tm": true
+        },
+        {
+            "move": "Stone Edge",
+            "tm": true
+        },
+        {
+            "move": "Electro Ball",
+            "tm": true
+        },
+        {
+            "move": "Wild Charge",
+            "tm": true
+        },
+        {
+            "move": "Body Press",
+            "tm": true
+        }
+    ]
+}

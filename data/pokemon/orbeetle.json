@@ -1,0 +1,324 @@
+{
+    "name": "Orbeetle",
+    "national_id": 826,
+    "types": [
+        "Bug",
+        "Psychic"
+    ],
+    "items": [
+        {
+            "name": "Psychic Seed",
+            "chance": 5
+        }
+    ],
+    "abilities": [
+        {
+            "name": "Swarm"
+        },
+        {
+            "name": "Frisk"
+        },
+        {
+            "name": "Telepathy",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 45,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Bug"
+    ],
+    "hatch_time": [
+        3855,
+        4111
+    ],
+    "height_us": "1'04\"",
+    "height_eu": "0.4 m",
+    "weight_us": "89.9 lbs.",
+    "weight_eu": "40.8 kg",
+    "base_exp_yield": 253,
+    "leveling_rate": "Medium Fast",
+    "base_friendship": 50,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 3,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 60,
+        "atk": 45,
+        "def": 110,
+        "sp_atk": 80,
+        "sp_def": 120,
+        "speed": 90
+    },
+    "evolution_from": "Dottler",
+    "evolutions": [],
+    "species": "Seven Spot Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "It emits psychic energy to observe and study what’s around it—and what’s around it can include things over six miles away.",
+    "move_learnset": [
+        {
+            "move": "Reflect",
+            "level": 1
+        },
+        {
+            "move": "Light Screen",
+            "level": 1
+        },
+        {
+            "move": "Confusion",
+            "level": 1
+        },
+        {
+            "move": "Struggle Bug",
+            "level": 1
+        },
+        {
+            "move": "Confuse Ray",
+            "level": 4
+        },
+        {
+            "move": "Magic Coat",
+            "level": 8
+        },
+        {
+            "move": "Agility",
+            "level": 12
+        },
+        {
+            "move": "Psybeam",
+            "level": 16
+        },
+        {
+            "move": "Hypnosis",
+            "level": 20
+        },
+        {
+            "move": "Ally Switch",
+            "level": 24
+        },
+        {
+            "move": "Bug Buzz",
+            "level": 28
+        },
+        {
+            "move": "Mirror Coat",
+            "level": 32
+        },
+        {
+            "move": "Psychic",
+            "level": 36
+        },
+        {
+            "move": "After You",
+            "level": 40
+        },
+        {
+            "move": "Calm Mind",
+            "level": 44
+        },
+        {
+            "move": "Psychic Terrain",
+            "level": 48
+        },
+        {
+            "move": "Hyper Beam",
+            "tm": true
+        },
+        {
+            "move": "Giga Impact",
+            "tm": true
+        },
+        {
+            "move": "Solar Beam",
+            "tm": true
+        },
+        {
+            "move": "Light Screen",
+            "tm": true
+        },
+        {
+            "move": "Reflect",
+            "tm": true
+        },
+        {
+            "move": "Safeguard",
+            "tm": true
+        },
+        {
+            "move": "Rest",
+            "tm": true
+        },
+        {
+            "move": "Snore",
+            "tm": true
+        },
+        {
+            "move": "Protect",
+            "tm": true
+        },
+        {
+            "move": "Giga Drain",
+            "tm": true
+        },
+        {
+            "move": "Attract",
+            "tm": true
+        },
+        {
+            "move": "Facade",
+            "tm": true
+        },
+        {
+            "move": "Helping Hand",
+            "tm": true
+        },
+        {
+            "move": "Imprison",
+            "tm": true
+        },
+        {
+            "move": "U-turn",
+            "tm": true
+        },
+        {
+            "move": "Payback",
+            "tm": true
+        },
+        {
+            "move": "Power Swap",
+            "tm": true
+        },
+        {
+            "move": "Guard Swap",
+            "tm": true
+        },
+        {
+            "move": "Psycho Cut",
+            "tm": true
+        },
+        {
+            "move": "Trick Room",
+            "tm": true
+        },
+        {
+            "move": "Wonder Room",
+            "tm": true
+        },
+        {
+            "move": "Magic Room",
+            "tm": true
+        },
+        {
+            "move": "Round",
+            "tm": true
+        },
+        {
+            "move": "Psychic Terrain",
+            "tm": true
+        },
+        {
+            "move": "Psychic",
+            "tm": true
+        },
+        {
+            "move": "Agility",
+            "tm": true
+        },
+        {
+            "move": "Leech Life",
+            "tm": true
+        },
+        {
+            "move": "Substitute",
+            "tm": true
+        },
+        {
+            "move": "Psyshock",
+            "tm": true
+        },
+        {
+            "move": "Endure",
+            "tm": true
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": true
+        },
+        {
+            "move": "Baton Pass",
+            "tm": true
+        },
+        {
+            "move": "Shadow Ball",
+            "tm": true
+        },
+        {
+            "move": "Future Sight",
+            "tm": true
+        },
+        {
+            "move": "Trick",
+            "tm": true
+        },
+        {
+            "move": "Skill Swap",
+            "tm": true
+        },
+        {
+            "move": "Iron Defense",
+            "tm": true
+        },
+        {
+            "move": "Calm Mind",
+            "tm": true
+        },
+        {
+            "move": "Bug Buzz",
+            "tm": true
+        },
+        {
+            "move": "Energy Ball",
+            "tm": true
+        },
+        {
+            "move": "Zen Headbutt",
+            "tm": true
+        },
+        {
+            "move": "Stored Power",
+            "tm": true
+        },
+        {
+            "move": "Ally Switch",
+            "tm": true
+        },
+        {
+            "move": "Body Press",
+            "tm": true
+        },
+        {
+            "move": "Infestation",
+            "egg_move": true
+        },
+        {
+            "move": "Supersonic",
+            "egg_move": true
+        },
+        {
+            "move": "Sticky Web",
+            "egg_move": true
+        },
+        {
+            "move": "Recover",
+            "egg_move": true
+        }
+    ]
+}

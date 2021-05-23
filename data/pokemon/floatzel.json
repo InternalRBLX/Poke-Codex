@@ -1,0 +1,329 @@
+{
+    "name": "Floatzel",
+    "national_id": 419,
+    "types": [
+        "Water"
+    ],
+    "items": [
+        {
+            "name": "Wacan Berry",
+            "chance": 5
+        }
+    ],
+    "abilities": [
+        {
+            "name": "Swift Swim"
+        },
+        {
+            "name": "Water Veil",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 75,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Water 1",
+        "Field"
+    ],
+    "hatch_time": [
+        5355,
+        5609
+    ],
+    "height_us": "3'07\"",
+    "height_eu": "1.1 m",
+    "weight_us": "73.9 lbs.",
+    "weight_eu": "33.5 kg",
+    "base_exp_yield": 173,
+    "leveling_rate": "Medium Fast",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 2
+    },
+    "base_stats": {
+        "hp": 85,
+        "atk": 105,
+        "def": 55,
+        "sp_atk": 85,
+        "sp_def": 50,
+        "speed": 115
+    },
+    "evolution_from": "Buizel",
+    "evolutions": [],
+    "species": "Sea Weasel Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "Its flotation sac developed as a result of pursuing aquatic prey. It can double as a rubber raft.",
+    "move_learnset": [
+        {
+            "move": "Crunch",
+            "level": 1
+        },
+        {
+            "move": "Growl",
+            "level": 1
+        },
+        {
+            "move": "Ice Fang",
+            "level": 1
+        },
+        {
+            "move": "Quick Attack",
+            "level": 1
+        },
+        {
+            "move": "Sonic Boom",
+            "level": 1
+        },
+        {
+            "move": "Water Sport",
+            "level": 1
+        },
+        {
+            "move": "Growl",
+            "level": 4
+        },
+        {
+            "move": "Water Sport",
+            "level": 7
+        },
+        {
+            "move": "Quick Attack",
+            "level": 11
+        },
+        {
+            "move": "Water Gun",
+            "level": 15
+        },
+        {
+            "move": "Pursuit",
+            "level": 18
+        },
+        {
+            "move": "Swift",
+            "level": 21
+        },
+        {
+            "move": "Aqua Jet",
+            "level": 24
+        },
+        {
+            "move": "Double Hit",
+            "level": 29
+        },
+        {
+            "move": "Whirlpool",
+            "level": 35
+        },
+        {
+            "move": "Razor Wind",
+            "level": 41
+        },
+        {
+            "move": "Aqua Tail",
+            "level": 46
+        },
+        {
+            "move": "Agility",
+            "level": 51
+        },
+        {
+            "move": "Hydro Pump",
+            "level": 57
+        },
+        {
+            "move": "Aqua Ring",
+            "egg_move": true
+        },
+        {
+            "move": "Aqua Tail",
+            "egg_move": true
+        },
+        {
+            "move": "Baton Pass",
+            "egg_move": true
+        },
+        {
+            "move": "Double Slap",
+            "egg_move": true
+        },
+        {
+            "move": "Fury Cutter",
+            "egg_move": true
+        },
+        {
+            "move": "Fury Swipes",
+            "egg_move": true
+        },
+        {
+            "move": "Headbutt",
+            "egg_move": true
+        },
+        {
+            "move": "Helping Hand",
+            "egg_move": true
+        },
+        {
+            "move": "Me First",
+            "egg_move": true
+        },
+        {
+            "move": "Mud-Slap",
+            "egg_move": true
+        },
+        {
+            "move": "Odor Sleuth",
+            "egg_move": true
+        },
+        {
+            "move": "Slash",
+            "egg_move": true
+        },
+        {
+            "move": "Soak",
+            "egg_move": true
+        },
+        {
+            "move": "Switcheroo",
+            "egg_move": true
+        },
+        {
+            "move": "Tail Slap",
+            "egg_move": true
+        },
+        {
+            "move": "Roar",
+            "tm": "TM5"
+        },
+        {
+            "move": "Toxic",
+            "tm": "TM6"
+        },
+        {
+            "move": "Hail",
+            "tm": "TM7"
+        },
+        {
+            "move": "Bulk Up",
+            "tm": "TM8"
+        },
+        {
+            "move": "Hidden Power",
+            "tm": "TM10"
+        },
+        {
+            "move": "Taunt",
+            "tm": "TM12"
+        },
+        {
+            "move": "Ice Beam",
+            "tm": "TM13"
+        },
+        {
+            "move": "Blizzard",
+            "tm": "TM14"
+        },
+        {
+            "move": "Hyper Beam",
+            "tm": "TM15"
+        },
+        {
+            "move": "Protect",
+            "tm": "TM17"
+        },
+        {
+            "move": "Rain Dance",
+            "tm": "TM18"
+        },
+        {
+            "move": "Frustration",
+            "tm": "TM21"
+        },
+        {
+            "move": "Return",
+            "tm": "TM27"
+        },
+        {
+            "move": "Brick Break",
+            "tm": "TM31"
+        },
+        {
+            "move": "Double Team",
+            "tm": "TM32"
+        },
+        {
+            "move": "Rock Tomb",
+            "tm": "TM39"
+        },
+        {
+            "move": "Torment",
+            "tm": "TM41"
+        },
+        {
+            "move": "Facade",
+            "tm": "TM42"
+        },
+        {
+            "move": "Rest",
+            "tm": "TM44"
+        },
+        {
+            "move": "Attract",
+            "tm": "TM45"
+        },
+        {
+            "move": "Round",
+            "tm": "TM48"
+        },
+        {
+            "move": "Echoed Voice",
+            "tm": "TM49"
+        },
+        {
+            "move": "Focus Blast",
+            "tm": "TM52"
+        },
+        {
+            "move": "Scald",
+            "tm": "TM55"
+        },
+        {
+            "move": "Payback",
+            "tm": "TM66"
+        },
+        {
+            "move": "Giga Impact",
+            "tm": "TM68"
+        },
+        {
+            "move": "Swagger",
+            "tm": "TM87"
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": "TM88"
+        },
+        {
+            "move": "Substitute",
+            "tm": "TM90"
+        },
+        {
+            "move": "Surf",
+            "tm": "TM94"
+        },
+        {
+            "move": "Waterfall",
+            "tm": "TM98"
+        },
+        {
+            "move": "Confide",
+            "tm": "TM100"
+        }
+    ]
+}

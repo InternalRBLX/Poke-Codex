@@ -1,0 +1,335 @@
+{
+    "name": "Slowpoke",
+    "national_id": 79,
+    "types": [
+        "Water",
+        "Psychic"
+    ],
+    "items": [
+        {
+            "name": "Lagging Tail",
+            "chance": 5
+        }
+    ],
+    "abilities": [
+        {
+            "name": "Oblivious"
+        },
+        {
+            "name": "Own Tempo"
+        },
+        {
+            "name": "Regenerator",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 190,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Monster",
+        "Water 1"
+    ],
+    "hatch_time": [
+        5355,
+        5609
+    ],
+    "height_us": "3'11\"",
+    "height_eu": "1.2 m",
+    "weight_us": "79.4 lbs.",
+    "weight_eu": "36.0 kg",
+    "base_exp_yield": 63,
+    "leveling_rate": "Medium Fast",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 1,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 90,
+        "atk": 65,
+        "def": 65,
+        "sp_atk": 40,
+        "sp_def": 40,
+        "speed": 15
+    },
+    "evolution_from": null,
+    "evolutions": [
+        {
+            "to": "Slowbro",
+            "level": 37
+        },
+        {
+            "to": "Slowking",
+            "trade": true,
+            "hold_item": "King's Rock"
+        }
+    ],
+    "species": "Dopey Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "Slowpoke uses its tail to catch prey by dipping it in water at the side of a river. However, this Pokémon often forgets what it's doing and often spends entire days just loafing at water's edge.",
+    "move_learnset": [
+        {
+            "move": "Curse",
+            "level": 1
+        },
+        {
+            "move": "Tackle",
+            "level": 1
+        },
+        {
+            "move": "Yawn",
+            "level": 1
+        },
+        {
+            "move": "Growl",
+            "level": 5
+        },
+        {
+            "move": "Water Gun",
+            "level": 9
+        },
+        {
+            "move": "Confusion",
+            "level": 14
+        },
+        {
+            "move": "Disable",
+            "level": 19
+        },
+        {
+            "move": "Headbutt",
+            "level": 23
+        },
+        {
+            "move": "Water Pulse",
+            "level": 28
+        },
+        {
+            "move": "Zen Headbutt",
+            "level": 32
+        },
+        {
+            "move": "Slack Off",
+            "level": 36
+        },
+        {
+            "move": "Amnesia",
+            "level": 41
+        },
+        {
+            "move": "Psychic",
+            "level": 45
+        },
+        {
+            "move": "Rain Dance",
+            "level": 49
+        },
+        {
+            "move": "Psych Up",
+            "level": 54
+        },
+        {
+            "move": "Heal Pulse",
+            "level": 58
+        },
+        {
+            "move": "Belch",
+            "egg_move": true
+        },
+        {
+            "move": "Belly Drum",
+            "egg_move": true
+        },
+        {
+            "move": "Block",
+            "egg_move": true
+        },
+        {
+            "move": "Future Sight",
+            "egg_move": true
+        },
+        {
+            "move": "Me First",
+            "egg_move": true
+        },
+        {
+            "move": "Mud Sport",
+            "egg_move": true
+        },
+        {
+            "move": "Sleep Talk",
+            "egg_move": true
+        },
+        {
+            "move": "Snore",
+            "egg_move": true
+        },
+        {
+            "move": "Stomp",
+            "egg_move": true
+        },
+        {
+            "move": "Wonder Room",
+            "egg_move": true
+        },
+        {
+            "move": "Zen Headbutt",
+            "egg_move": true
+        },
+        {
+            "move": "Psyshock",
+            "tm": "TM3"
+        },
+        {
+            "move": "Calm Mind",
+            "tm": "TM4"
+        },
+        {
+            "move": "Toxic",
+            "tm": "TM6"
+        },
+        {
+            "move": "Hail",
+            "tm": "TM7"
+        },
+        {
+            "move": "Hidden Power",
+            "tm": "TM10"
+        },
+        {
+            "move": "Sunny Day",
+            "tm": "TM11"
+        },
+        {
+            "move": "Ice Beam",
+            "tm": "TM13"
+        },
+        {
+            "move": "Blizzard",
+            "tm": "TM14"
+        },
+        {
+            "move": "Light Screen",
+            "tm": "TM16"
+        },
+        {
+            "move": "Protect",
+            "tm": "TM17"
+        },
+        {
+            "move": "Rain Dance",
+            "tm": "TM18"
+        },
+        {
+            "move": "Safeguard",
+            "tm": "TM20"
+        },
+        {
+            "move": "Frustration",
+            "tm": "TM21"
+        },
+        {
+            "move": "Earthquake",
+            "tm": "TM26"
+        },
+        {
+            "move": "Return",
+            "tm": "TM27"
+        },
+        {
+            "move": "Psychic",
+            "tm": "TM29"
+        },
+        {
+            "move": "Shadow Ball",
+            "tm": "TM30"
+        },
+        {
+            "move": "Double Team",
+            "tm": "TM32"
+        },
+        {
+            "move": "Flamethrower",
+            "tm": "TM35"
+        },
+        {
+            "move": "Fire Blast",
+            "tm": "TM38"
+        },
+        {
+            "move": "Facade",
+            "tm": "TM42"
+        },
+        {
+            "move": "Rest",
+            "tm": "TM44"
+        },
+        {
+            "move": "Attract",
+            "tm": "TM45"
+        },
+        {
+            "move": "Round",
+            "tm": "TM48"
+        },
+        {
+            "move": "Echoed Voice",
+            "tm": "TM49"
+        },
+        {
+            "move": "Scald",
+            "tm": "TM55"
+        },
+        {
+            "move": "Thunder Wave",
+            "tm": "TM73"
+        },
+        {
+            "move": "Psych Up",
+            "tm": "TM77"
+        },
+        {
+            "move": "Bulldoze",
+            "tm": "TM78"
+        },
+        {
+            "move": "Dream Eater",
+            "tm": "TM85"
+        },
+        {
+            "move": "Grass Knot",
+            "tm": "TM86"
+        },
+        {
+            "move": "Swagger",
+            "tm": "TM87"
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": "TM88"
+        },
+        {
+            "move": "Substitute",
+            "tm": "TM90"
+        },
+        {
+            "move": "Trick Room",
+            "tm": "TM92"
+        },
+        {
+            "move": "Surf",
+            "tm": "TM94"
+        },
+        {
+            "move": "Confide",
+            "tm": "TM100"
+        }
+    ]
+}

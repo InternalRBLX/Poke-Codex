@@ -1,0 +1,101 @@
+{
+    "name": "Smeargle",
+    "national_id": 235,
+    "types": [
+        "Normal"
+    ],
+    "abilities": [
+        {
+            "name": "Own Tempo"
+        },
+        {
+            "name": "Technician"
+        },
+        {
+            "name": "Moody",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 45,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Field"
+    ],
+    "hatch_time": [
+        5355,
+        5609
+    ],
+    "height_us": "3'11\"",
+    "height_eu": "1.2 m",
+    "weight_us": "127.9 lbs.",
+    "weight_eu": "58.0 kg",
+    "base_exp_yield": 88,
+    "leveling_rate": "Fast",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 1
+    },
+    "base_stats": {
+        "hp": 55,
+        "atk": 20,
+        "def": 35,
+        "sp_atk": 20,
+        "sp_def": 45,
+        "speed": 75
+    },
+    "evolution_from": null,
+    "evolutions": [],
+    "species": "Painter Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "Smeargle marks the boundaries of its territory using a body fluid that leaks out from the tip of its tail. Over 5,000 different marks left by this Pokémon have been found.",
+    "move_learnset": [
+        {
+            "move": "Sketch",
+            "level": 1
+        },
+        {
+            "move": "Sketch",
+            "level": 11
+        },
+        {
+            "move": "Sketch",
+            "level": 21
+        },
+        {
+            "move": "Sketch",
+            "level": 31
+        },
+        {
+            "move": "Sketch",
+            "level": 41
+        },
+        {
+            "move": "Sketch",
+            "level": 51
+        },
+        {
+            "move": "Sketch",
+            "level": 61
+        },
+        {
+            "move": "Sketch",
+            "level": 71
+        },
+        {
+            "move": "Sketch",
+            "level": 81
+        },
+        {
+            "move": "Sketch",
+            "level": 91
+        }
+    ]
+}

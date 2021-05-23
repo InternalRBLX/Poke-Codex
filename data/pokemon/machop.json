@@ -1,0 +1,336 @@
+{
+    "name": "Machop",
+    "national_id": 66,
+    "types": [
+        "Fighting"
+    ],
+    "items": [
+        {
+            "name": "Focus Band",
+            "chance": 5
+        }
+    ],
+    "abilities": [
+        {
+            "name": "Guts"
+        },
+        {
+            "name": "No Guard"
+        },
+        {
+            "name": "Steadfast",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 180,
+    "gender_ratios": {
+        "male": 75,
+        "female": 25
+    },
+    "egg_groups": [
+        "Human-Like"
+    ],
+    "hatch_time": [
+        5355,
+        5609
+    ],
+    "height_us": "2'07\"",
+    "height_eu": "0.8 m",
+    "weight_us": "43.0 lbs.",
+    "weight_eu": "19.5 kg",
+    "base_exp_yield": 61,
+    "leveling_rate": "Medium Slow",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 1,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 70,
+        "atk": 80,
+        "def": 50,
+        "sp_atk": 35,
+        "sp_def": 35,
+        "speed": 35
+    },
+    "evolution_from": null,
+    "evolutions": [
+        {
+            "to": "Machoke",
+            "level": 28
+        }
+    ],
+    "species": "Superpower Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "Always brimming with power, it passes time by lifting boulders. Doing so makes it even stronger.",
+    "move_learnset": [
+        {
+            "move": "Low Kick",
+            "level": 1
+        },
+        {
+            "move": "Leer",
+            "level": 1
+        },
+        {
+            "move": "Focus Energy",
+            "level": 4
+        },
+        {
+            "move": "Revenge",
+            "level": 8
+        },
+        {
+            "move": "Low Sweep",
+            "level": 12
+        },
+        {
+            "move": "Knock Off",
+            "level": 16
+        },
+        {
+            "move": "Scary Face",
+            "level": 20
+        },
+        {
+            "move": "Vital Throw",
+            "level": 24
+        },
+        {
+            "move": "Strength",
+            "level": 29
+        },
+        {
+            "move": "Dual Chop",
+            "level": 32
+        },
+        {
+            "move": "Bulk Up",
+            "level": 36
+        },
+        {
+            "move": "Seismic Toss",
+            "level": 40
+        },
+        {
+            "move": "Dynamic Punch",
+            "level": 44
+        },
+        {
+            "move": "Cross Chop",
+            "level": 48
+        },
+        {
+            "move": "Double-Edge",
+            "level": 52
+        },
+        {
+            "move": "Mega Punch",
+            "tm": true
+        },
+        {
+            "move": "Mega Kick",
+            "tm": true
+        },
+        {
+            "move": "Fire Punch",
+            "tm": true
+        },
+        {
+            "move": "Ice Punch",
+            "tm": true
+        },
+        {
+            "move": "Thunder Punch",
+            "tm": true
+        },
+        {
+            "move": "Dig",
+            "tm": true
+        },
+        {
+            "move": "Light Screen",
+            "tm": true
+        },
+        {
+            "move": "Rest",
+            "tm": true
+        },
+        {
+            "move": "Rock Slide",
+            "tm": true
+        },
+        {
+            "move": "Thief",
+            "tm": true
+        },
+        {
+            "move": "Snore",
+            "tm": true
+        },
+        {
+            "move": "Protect",
+            "tm": true
+        },
+        {
+            "move": "Scary Face",
+            "tm": true
+        },
+        {
+            "move": "Attract",
+            "tm": true
+        },
+        {
+            "move": "Rain Dance",
+            "tm": true
+        },
+        {
+            "move": "Sunny Day",
+            "tm": true
+        },
+        {
+            "move": "Facade",
+            "tm": true
+        },
+        {
+            "move": "Helping Hand",
+            "tm": true
+        },
+        {
+            "move": "Revenge",
+            "tm": true
+        },
+        {
+            "move": "Brick Break",
+            "tm": true
+        },
+        {
+            "move": "Rock Tomb",
+            "tm": true
+        },
+        {
+            "move": "Payback",
+            "tm": true
+        },
+        {
+            "move": "Fling",
+            "tm": true
+        },
+        {
+            "move": "Low Sweep",
+            "tm": true
+        },
+        {
+            "move": "Round",
+            "tm": true
+        },
+        {
+            "move": "Retaliate",
+            "tm": true
+        },
+        {
+            "move": "Bulldoze",
+            "tm": true
+        },
+        {
+            "move": "Body Slam",
+            "tm": true
+        },
+        {
+            "move": "Flamethrower",
+            "tm": true
+        },
+        {
+            "move": "Low Kick",
+            "tm": true
+        },
+        {
+            "move": "Earthquake",
+            "tm": true
+        },
+        {
+            "move": "Focus Energy",
+            "tm": true
+        },
+        {
+            "move": "Metronome",
+            "tm": true
+        },
+        {
+            "move": "Fire Blast",
+            "tm": true
+        },
+        {
+            "move": "Substitute",
+            "tm": true
+        },
+        {
+            "move": "Reversal",
+            "tm": true
+        },
+        {
+            "move": "Endure",
+            "tm": true
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": true
+        },
+        {
+            "move": "Encore",
+            "tm": true
+        },
+        {
+            "move": "Superpower",
+            "tm": true
+        },
+        {
+            "move": "Bulk Up",
+            "tm": true
+        },
+        {
+            "move": "Close Combat",
+            "tm": true
+        },
+        {
+            "move": "Poison Jab",
+            "tm": true
+        },
+        {
+            "move": "Focus Blast",
+            "tm": true
+        },
+        {
+            "move": "Heavy Slam",
+            "tm": true
+        },
+        {
+            "move": "Work Up",
+            "tm": true
+        },
+        {
+            "move": "Counter",
+            "egg_move": true
+        },
+        {
+            "move": "Bullet Punch",
+            "egg_move": true
+        },
+        {
+            "move": "Tickle",
+            "egg_move": true
+        },
+        {
+            "move": "Quick Guard",
+            "egg_move": true
+        },
+        {
+            "move": "Submission",
+            "egg_move": true
+        }
+    ]
+}

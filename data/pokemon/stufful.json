@@ -1,0 +1,267 @@
+{
+    "name": "Stufful",
+    "national_id": 759,
+    "types": [
+        "Normal",
+        "Fighting"
+    ],
+    "abilities": [
+        {
+            "name": "Fluffy"
+        },
+        {
+            "name": "Klutz"
+        },
+        {
+            "name": "Cute Charm",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 140,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Field"
+    ],
+    "hatch_time": [
+        3855,
+        4111
+    ],
+    "height_us": "1'08\"",
+    "height_eu": "0.5 m",
+    "weight_us": "15.0 lbs.",
+    "weight_eu": "6.8 kg",
+    "base_exp_yield": 68,
+    "leveling_rate": "Medium Fast",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 1,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 70,
+        "atk": 75,
+        "def": 50,
+        "sp_atk": 45,
+        "sp_def": 50,
+        "speed": 50
+    },
+    "evolution_from": null,
+    "evolutions": [
+        {
+            "to": "Bewear",
+            "level": 27
+        }
+    ],
+    "species": "Flailing Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "The way it protects itself by flailing its arms may be an adorable sight, but stay well away. This is flailing that can snap thick tree trunks.",
+    "move_learnset": [
+        {
+            "move": "Tackle",
+            "level": 1
+        },
+        {
+            "move": "Leer",
+            "level": 1
+        },
+        {
+            "move": "Baby-Doll Eyes",
+            "level": 4
+        },
+        {
+            "move": "Payback",
+            "level": 8
+        },
+        {
+            "move": "Brutal Swing",
+            "level": 12
+        },
+        {
+            "move": "Endure",
+            "level": 16
+        },
+        {
+            "move": "Strength",
+            "level": 20
+        },
+        {
+            "move": "Take Down",
+            "level": 24
+        },
+        {
+            "move": "Flail",
+            "level": 28
+        },
+        {
+            "move": "Hammer Arm",
+            "level": 32
+        },
+        {
+            "move": "Thrash",
+            "level": 36
+        },
+        {
+            "move": "Pain Split",
+            "level": 40
+        },
+        {
+            "move": "Double-Edge",
+            "level": 44
+        },
+        {
+            "move": "Superpower",
+            "level": 48
+        },
+        {
+            "move": "Mega Punch",
+            "tm": true
+        },
+        {
+            "move": "Mega Kick",
+            "tm": true
+        },
+        {
+            "move": "Ice Punch",
+            "tm": true
+        },
+        {
+            "move": "Thunder Punch",
+            "tm": true
+        },
+        {
+            "move": "Rest",
+            "tm": true
+        },
+        {
+            "move": "Rock Slide",
+            "tm": true
+        },
+        {
+            "move": "Snore",
+            "tm": true
+        },
+        {
+            "move": "Protect",
+            "tm": true
+        },
+        {
+            "move": "Charm",
+            "tm": true
+        },
+        {
+            "move": "Attract",
+            "tm": true
+        },
+        {
+            "move": "Facade",
+            "tm": true
+        },
+        {
+            "move": "Brick Break",
+            "tm": true
+        },
+        {
+            "move": "Rock Tomb",
+            "tm": true
+        },
+        {
+            "move": "Payback",
+            "tm": true
+        },
+        {
+            "move": "Fling",
+            "tm": true
+        },
+        {
+            "move": "Low Sweep",
+            "tm": true
+        },
+        {
+            "move": "Round",
+            "tm": true
+        },
+        {
+            "move": "Bulldoze",
+            "tm": true
+        },
+        {
+            "move": "Brutal Swing",
+            "tm": true
+        },
+        {
+            "move": "Stomping Tantrum",
+            "tm": true
+        },
+        {
+            "move": "Swords Dance",
+            "tm": true
+        },
+        {
+            "move": "Earthquake",
+            "tm": true
+        },
+        {
+            "move": "Substitute",
+            "tm": true
+        },
+        {
+            "move": "Endure",
+            "tm": true
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": true
+        },
+        {
+            "move": "Taunt",
+            "tm": true
+        },
+        {
+            "move": "Superpower",
+            "tm": true
+        },
+        {
+            "move": "Bulk Up",
+            "tm": true
+        },
+        {
+            "move": "Focus Blast",
+            "tm": true
+        },
+        {
+            "move": "Zen Headbutt",
+            "tm": true
+        },
+        {
+            "move": "Iron Head",
+            "tm": true
+        },
+        {
+            "move": "Work Up",
+            "tm": true
+        },
+        {
+            "move": "Force Palm",
+            "egg_move": true
+        },
+        {
+            "move": "Rollout",
+            "egg_move": true
+        },
+        {
+            "move": "Defense Curl",
+            "egg_move": true
+        },
+        {
+            "move": "Stomp",
+            "egg_move": true
+        }
+    ]
+}

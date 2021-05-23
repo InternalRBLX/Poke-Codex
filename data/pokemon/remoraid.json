@@ -1,0 +1,295 @@
+{
+    "name": "Remoraid",
+    "national_id": 223,
+    "types": [
+        "Water"
+    ],
+    "abilities": [
+        {
+            "name": "Hustle"
+        },
+        {
+            "name": "Sniper"
+        },
+        {
+            "name": "Moody",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 190,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Water 1",
+        "Water 2"
+    ],
+    "hatch_time": [
+        5355,
+        5609
+    ],
+    "height_us": "2'00\"",
+    "height_eu": "0.6 m",
+    "weight_us": "26.5 lbs.",
+    "weight_eu": "12.0 kg",
+    "base_exp_yield": 60,
+    "leveling_rate": "Medium Fast",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 1,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 35,
+        "atk": 65,
+        "def": 35,
+        "sp_atk": 65,
+        "sp_def": 35,
+        "speed": 65
+    },
+    "evolution_from": null,
+    "evolutions": [
+        {
+            "to": "Octillery",
+            "level": 25
+        }
+    ],
+    "species": "Jet Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "Using its dorsal fin as a suction pad, it clings to a Mantine’s underside to scavenge for leftovers.",
+    "move_learnset": [
+        {
+            "move": "Water Gun",
+            "level": 1
+        },
+        {
+            "move": "Helping Hand",
+            "level": 1
+        },
+        {
+            "move": "Water Pulse",
+            "level": 4
+        },
+        {
+            "move": "Focus Energy",
+            "level": 8
+        },
+        {
+            "move": "Psybeam",
+            "level": 12
+        },
+        {
+            "move": "Aurora Beam",
+            "level": 16
+        },
+        {
+            "move": "Bubble Beam",
+            "level": 20
+        },
+        {
+            "move": "Lock-On",
+            "level": 24
+        },
+        {
+            "move": "Bullet Seed",
+            "level": 28
+        },
+        {
+            "move": "Ice Beam",
+            "level": 32
+        },
+        {
+            "move": "Hydro Pump",
+            "level": 36
+        },
+        {
+            "move": "Soak",
+            "level": 40
+        },
+        {
+            "move": "Hyper Beam",
+            "level": 44
+        },
+        {
+            "move": "Hyper Beam",
+            "tm": true
+        },
+        {
+            "move": "Thunder Wave",
+            "tm": true
+        },
+        {
+            "move": "Screech",
+            "tm": true
+        },
+        {
+            "move": "Rest",
+            "tm": true
+        },
+        {
+            "move": "Thief",
+            "tm": true
+        },
+        {
+            "move": "Snore",
+            "tm": true
+        },
+        {
+            "move": "Protect",
+            "tm": true
+        },
+        {
+            "move": "Icy Wind",
+            "tm": true
+        },
+        {
+            "move": "Attract",
+            "tm": true
+        },
+        {
+            "move": "Rain Dance",
+            "tm": true
+        },
+        {
+            "move": "Sunny Day",
+            "tm": true
+        },
+        {
+            "move": "Whirlpool",
+            "tm": true
+        },
+        {
+            "move": "Facade",
+            "tm": true
+        },
+        {
+            "move": "Swift",
+            "tm": true
+        },
+        {
+            "move": "Helping Hand",
+            "tm": true
+        },
+        {
+            "move": "Dive",
+            "tm": true
+        },
+        {
+            "move": "Bullet Seed",
+            "tm": true
+        },
+        {
+            "move": "Bounce",
+            "tm": true
+        },
+        {
+            "move": "Mud Shot",
+            "tm": true
+        },
+        {
+            "move": "Rock Blast",
+            "tm": true
+        },
+        {
+            "move": "Brine",
+            "tm": true
+        },
+        {
+            "move": "Assurance",
+            "tm": true
+        },
+        {
+            "move": "Round",
+            "tm": true
+        },
+        {
+            "move": "Flamethrower",
+            "tm": true
+        },
+        {
+            "move": "Hydro Pump",
+            "tm": true
+        },
+        {
+            "move": "Surf",
+            "tm": true
+        },
+        {
+            "move": "Ice Beam",
+            "tm": true
+        },
+        {
+            "move": "Blizzard",
+            "tm": true
+        },
+        {
+            "move": "Psychic",
+            "tm": true
+        },
+        {
+            "move": "Focus Energy",
+            "tm": true
+        },
+        {
+            "move": "Fire Blast",
+            "tm": true
+        },
+        {
+            "move": "Waterfall",
+            "tm": true
+        },
+        {
+            "move": "Substitute",
+            "tm": true
+        },
+        {
+            "move": "Endure",
+            "tm": true
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": true
+        },
+        {
+            "move": "Seed Bomb",
+            "tm": true
+        },
+        {
+            "move": "Gunk Shot",
+            "tm": true
+        },
+        {
+            "move": "Scald",
+            "tm": true
+        },
+        {
+            "move": "Octazooka",
+            "egg_move": true
+        },
+        {
+            "move": "Supersonic",
+            "egg_move": true
+        },
+        {
+            "move": "Haze",
+            "egg_move": true
+        },
+        {
+            "move": "Flail",
+            "egg_move": true
+        },
+        {
+            "move": "Water Spout",
+            "egg_move": true
+        },
+        {
+            "move": "Acid Spray",
+            "egg_move": true
+        }
+    ]
+}

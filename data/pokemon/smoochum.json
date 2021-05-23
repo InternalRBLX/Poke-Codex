@@ -1,0 +1,300 @@
+{
+    "name": "Smoochum",
+    "national_id": 238,
+    "types": [
+        "Ice",
+        "Psychic"
+    ],
+    "items": [
+        {
+            "name": "Aspear Berry",
+            "chance": 100
+        }
+    ],
+    "abilities": [
+        {
+            "name": "Oblivious"
+        },
+        {
+            "name": "Forewarn"
+        },
+        {
+            "name": "Hydration",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 45,
+    "gender_ratios": {
+        "female": 100
+    },
+    "egg_groups": [
+        "Undiscovered"
+    ],
+    "hatch_time": [
+        6630,
+        6884
+    ],
+    "height_us": "1'04\"",
+    "height_eu": "0.4 m",
+    "weight_us": "13.2 lbs.",
+    "weight_eu": "6.0 kg",
+    "base_exp_yield": 61,
+    "leveling_rate": "Medium Fast",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 1,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 45,
+        "atk": 30,
+        "def": 15,
+        "sp_atk": 85,
+        "sp_def": 65,
+        "speed": 65
+    },
+    "evolution_from": null,
+    "evolutions": [
+        {
+            "to": "Jynx",
+            "level": 30
+        }
+    ],
+    "species": "Kiss Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "Smoochum actively runs about, but also falls quite often. Whenever the chance arrives, it will look for its reflection to make sure its face hasn't become dirty.",
+    "move_learnset": [
+        {
+            "move": "Pound",
+            "level": 1
+        },
+        {
+            "move": "Lick",
+            "level": 5
+        },
+        {
+            "move": "Sweet Kiss",
+            "level": 8
+        },
+        {
+            "move": "Powder Snow",
+            "level": 11
+        },
+        {
+            "move": "Confusion",
+            "level": 15
+        },
+        {
+            "move": "Sing",
+            "level": 18
+        },
+        {
+            "move": "Heart Stamp",
+            "level": 21
+        },
+        {
+            "move": "Mean Look",
+            "level": 25
+        },
+        {
+            "move": "Fake Tears",
+            "level": 28
+        },
+        {
+            "move": "Lucky Chant",
+            "level": 31
+        },
+        {
+            "move": "Avalanche",
+            "level": 35
+        },
+        {
+            "move": "Psychic",
+            "level": 38
+        },
+        {
+            "move": "Copycat",
+            "level": 41
+        },
+        {
+            "move": "Perish Song",
+            "level": 45
+        },
+        {
+            "move": "Blizzard",
+            "level": 48
+        },
+        {
+            "move": "Captivate",
+            "egg_move": true
+        },
+        {
+            "move": "Fake Out",
+            "egg_move": true
+        },
+        {
+            "move": "Ice Punch",
+            "egg_move": true
+        },
+        {
+            "move": "Meditate",
+            "egg_move": true
+        },
+        {
+            "move": "Miracle Eye",
+            "egg_move": true
+        },
+        {
+            "move": "Nasty Plot",
+            "egg_move": true
+        },
+        {
+            "move": "Wake-Up Slap",
+            "egg_move": true
+        },
+        {
+            "move": "Wish",
+            "egg_move": true
+        },
+        {
+            "move": "Psyshock",
+            "tm": "TM3"
+        },
+        {
+            "move": "Calm Mind",
+            "tm": "TM4"
+        },
+        {
+            "move": "Toxic",
+            "tm": "TM6"
+        },
+        {
+            "move": "Hail",
+            "tm": "TM7"
+        },
+        {
+            "move": "Hidden Power",
+            "tm": "TM10"
+        },
+        {
+            "move": "Ice Beam",
+            "tm": "TM13"
+        },
+        {
+            "move": "Blizzard",
+            "tm": "TM14"
+        },
+        {
+            "move": "Light Screen",
+            "tm": "TM16"
+        },
+        {
+            "move": "Protect",
+            "tm": "TM17"
+        },
+        {
+            "move": "Rain Dance",
+            "tm": "TM18"
+        },
+        {
+            "move": "Frustration",
+            "tm": "TM21"
+        },
+        {
+            "move": "Return",
+            "tm": "TM27"
+        },
+        {
+            "move": "Psychic",
+            "tm": "TM29"
+        },
+        {
+            "move": "Shadow Ball",
+            "tm": "TM30"
+        },
+        {
+            "move": "Double Team",
+            "tm": "TM32"
+        },
+        {
+            "move": "Reflect",
+            "tm": "TM33"
+        },
+        {
+            "move": "Facade",
+            "tm": "TM42"
+        },
+        {
+            "move": "Rest",
+            "tm": "TM44"
+        },
+        {
+            "move": "Attract",
+            "tm": "TM45"
+        },
+        {
+            "move": "Thief",
+            "tm": "TM46"
+        },
+        {
+            "move": "Round",
+            "tm": "TM48"
+        },
+        {
+            "move": "Echoed Voice",
+            "tm": "TM49"
+        },
+        {
+            "move": "Fling",
+            "tm": "TM56"
+        },
+        {
+            "move": "Payback",
+            "tm": "TM66"
+        },
+        {
+            "move": "Aurora Veil",
+            "tm": "TM70"
+        },
+        {
+            "move": "Psych Up",
+            "tm": "TM77"
+        },
+        {
+            "move": "Frost Breath",
+            "tm": "TM79"
+        },
+        {
+            "move": "Dream Eater",
+            "tm": "TM85"
+        },
+        {
+            "move": "Grass Knot",
+            "tm": "TM86"
+        },
+        {
+            "move": "Swagger",
+            "tm": "TM87"
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": "TM88"
+        },
+        {
+            "move": "Substitute",
+            "tm": "TM90"
+        },
+        {
+            "move": "Trick Room",
+            "tm": "TM92"
+        },
+        {
+            "move": "Confide",
+            "tm": "TM100"
+        }
+    ]
+}

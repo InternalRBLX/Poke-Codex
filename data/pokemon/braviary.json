@@ -1,0 +1,265 @@
+{
+    "name": "Braviary",
+    "national_id": 628,
+    "types": [
+        "Normal",
+        "Flying"
+    ],
+    "abilities": [
+        {
+            "name": "Keen Eye"
+        },
+        {
+            "name": "Sheer Force"
+        },
+        {
+            "name": "Defiant",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 60,
+    "gender_ratios": {
+        "male": 100
+    },
+    "egg_groups": [
+        "Flying"
+    ],
+    "hatch_time": [
+        5355,
+        5609
+    ],
+    "height_us": "4'11\"",
+    "height_eu": "1.5 m",
+    "weight_us": "90.4 lbs.",
+    "weight_eu": "41.0 kg",
+    "base_exp_yield": 179,
+    "leveling_rate": "Slow",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 2,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 100,
+        "atk": 123,
+        "def": 75,
+        "sp_atk": 57,
+        "sp_def": 75,
+        "speed": 80
+    },
+    "evolution_from": "Rufflet",
+    "evolutions": [],
+    "species": "Valiant Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "They fight for their friends without any thought about danger to themselves. One can carry a car while flying.",
+    "move_learnset": [
+        {
+            "move": "Superpower",
+            "evo": true
+        },
+        {
+            "move": "Superpower",
+            "level": 1
+        },
+        {
+            "move": "Sky Attack",
+            "level": 1
+        },
+        {
+            "move": "Peck",
+            "level": 1
+        },
+        {
+            "move": "Leer",
+            "level": 1
+        },
+        {
+            "move": "Hone Claws",
+            "level": 1
+        },
+        {
+            "move": "Wing Attack",
+            "level": 1
+        },
+        {
+            "move": "Tailwind",
+            "level": 18
+        },
+        {
+            "move": "Scary Face",
+            "level": 24
+        },
+        {
+            "move": "Aerial Ace",
+            "level": 30
+        },
+        {
+            "move": "Slash",
+            "level": 36
+        },
+        {
+            "move": "Whirlwind",
+            "level": 42
+        },
+        {
+            "move": "Crush Claw",
+            "level": 48
+        },
+        {
+            "move": "Air Slash",
+            "level": 57
+        },
+        {
+            "move": "Defog",
+            "level": 64
+        },
+        {
+            "move": "Thrash",
+            "level": 72
+        },
+        {
+            "move": "Brave Bird",
+            "level": 80
+        },
+        {
+            "move": "Fly",
+            "tm": true
+        },
+        {
+            "move": "Hyper Beam",
+            "tm": true
+        },
+        {
+            "move": "Giga Impact",
+            "tm": true
+        },
+        {
+            "move": "Rest",
+            "tm": true
+        },
+        {
+            "move": "Rock Slide",
+            "tm": true
+        },
+        {
+            "move": "Snore",
+            "tm": true
+        },
+        {
+            "move": "Protect",
+            "tm": true
+        },
+        {
+            "move": "Scary Face",
+            "tm": true
+        },
+        {
+            "move": "Steel Wing",
+            "tm": true
+        },
+        {
+            "move": "Attract",
+            "tm": true
+        },
+        {
+            "move": "Rain Dance",
+            "tm": true
+        },
+        {
+            "move": "Sunny Day",
+            "tm": true
+        },
+        {
+            "move": "Facade",
+            "tm": true
+        },
+        {
+            "move": "Swift",
+            "tm": true
+        },
+        {
+            "move": "Rock Tomb",
+            "tm": true
+        },
+        {
+            "move": "U-turn",
+            "tm": true
+        },
+        {
+            "move": "Assurance",
+            "tm": true
+        },
+        {
+            "move": "Shadow Claw",
+            "tm": true
+        },
+        {
+            "move": "Round",
+            "tm": true
+        },
+        {
+            "move": "Retaliate",
+            "tm": true
+        },
+        {
+            "move": "Air Slash",
+            "tm": true
+        },
+        {
+            "move": "Agility",
+            "tm": true
+        },
+        {
+            "move": "Substitute",
+            "tm": true
+        },
+        {
+            "move": "Endure",
+            "tm": true
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": true
+        },
+        {
+            "move": "Heat Wave",
+            "tm": true
+        },
+        {
+            "move": "Superpower",
+            "tm": true
+        },
+        {
+            "move": "Bulk Up",
+            "tm": true
+        },
+        {
+            "move": "Close Combat",
+            "tm": true
+        },
+        {
+            "move": "Brave Bird",
+            "tm": true
+        },
+        {
+            "move": "Zen Headbutt",
+            "tm": true
+        },
+        {
+            "move": "Iron Head",
+            "tm": true
+        },
+        {
+            "move": "Work Up",
+            "tm": true
+        },
+        {
+            "move": "Hurricane",
+            "tm": true
+        }
+    ]
+}

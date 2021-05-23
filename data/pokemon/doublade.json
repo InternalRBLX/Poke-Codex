@@ -1,0 +1,236 @@
+{
+    "name": "Doublade",
+    "national_id": 680,
+    "types": [
+        "Steel",
+        "Ghost"
+    ],
+    "abilities": [
+        {
+            "name": "No Guard"
+        }
+    ],
+    "catch_rate": 90,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Mineral"
+    ],
+    "hatch_time": [
+        5355,
+        5609
+    ],
+    "height_us": "2'07\"",
+    "height_eu": "0.8 m",
+    "weight_us": "9.9 lbs.",
+    "weight_eu": "4.5 kg",
+    "base_exp_yield": 157,
+    "leveling_rate": "Medium Fast",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 2,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 59,
+        "atk": 110,
+        "def": 150,
+        "sp_atk": 45,
+        "sp_def": 49,
+        "speed": 35
+    },
+    "evolution_from": "Honedge",
+    "evolutions": [
+        {
+            "to": "Aegislash",
+            "item": "Dusk Stone"
+        }
+    ],
+    "species": "Sword Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "The two swords employ a strategy of rapidly alternating between offense and defense to bring down their prey.",
+    "move_learnset": [
+        {
+            "move": "Tackle",
+            "level": 1
+        },
+        {
+            "move": "Fury Cutter",
+            "level": 1
+        },
+        {
+            "move": "Shadow Sneak",
+            "level": 1
+        },
+        {
+            "move": "Autotomize",
+            "level": 1
+        },
+        {
+            "move": "Aerial Ace",
+            "level": 12
+        },
+        {
+            "move": "Metal Sound",
+            "level": 16
+        },
+        {
+            "move": "Slash",
+            "level": 20
+        },
+        {
+            "move": "Night Slash",
+            "level": 24
+        },
+        {
+            "move": "Retaliate",
+            "level": 28
+        },
+        {
+            "move": "Iron Defense",
+            "level": 32
+        },
+        {
+            "move": "Iron Head",
+            "level": 38
+        },
+        {
+            "move": "Power Trick",
+            "level": 44
+        },
+        {
+            "move": "Swords Dance",
+            "level": 50
+        },
+        {
+            "move": "Sacred Sword",
+            "level": 56
+        },
+        {
+            "move": "Solar Blade",
+            "tm": true
+        },
+        {
+            "move": "Screech",
+            "tm": true
+        },
+        {
+            "move": "Reflect",
+            "tm": true
+        },
+        {
+            "move": "Rest",
+            "tm": true
+        },
+        {
+            "move": "Rock Slide",
+            "tm": true
+        },
+        {
+            "move": "Snore",
+            "tm": true
+        },
+        {
+            "move": "Protect",
+            "tm": true
+        },
+        {
+            "move": "Attract",
+            "tm": true
+        },
+        {
+            "move": "Rain Dance",
+            "tm": true
+        },
+        {
+            "move": "Facade",
+            "tm": true
+        },
+        {
+            "move": "Brick Break",
+            "tm": true
+        },
+        {
+            "move": "Shadow Claw",
+            "tm": true
+        },
+        {
+            "move": "Psycho Cut",
+            "tm": true
+        },
+        {
+            "move": "Round",
+            "tm": true
+        },
+        {
+            "move": "Retaliate",
+            "tm": true
+        },
+        {
+            "move": "False Swipe",
+            "tm": true
+        },
+        {
+            "move": "Brutal Swing",
+            "tm": true
+        },
+        {
+            "move": "Swords Dance",
+            "tm": true
+        },
+        {
+            "move": "Substitute",
+            "tm": true
+        },
+        {
+            "move": "Reversal",
+            "tm": true
+        },
+        {
+            "move": "Endure",
+            "tm": true
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": true
+        },
+        {
+            "move": "Iron Defense",
+            "tm": true
+        },
+        {
+            "move": "Gyro Ball",
+            "tm": true
+        },
+        {
+            "move": "Close Combat",
+            "tm": true
+        },
+        {
+            "move": "Flash Cannon",
+            "tm": true
+        },
+        {
+            "move": "Iron Head",
+            "tm": true
+        },
+        {
+            "move": "Destiny Bond",
+            "egg_move": true
+        },
+        {
+            "move": "Wide Guard",
+            "egg_move": true
+        },
+        {
+            "move": "Block",
+            "egg_move": true
+        }
+    ]
+}

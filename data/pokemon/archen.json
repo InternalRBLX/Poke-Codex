@@ -1,0 +1,297 @@
+{
+    "name": "Archen",
+    "national_id": 566,
+    "types": [
+        "Rock",
+        "Flying"
+    ],
+    "abilities": [
+        {
+            "name": "Defeatist"
+        }
+    ],
+    "catch_rate": 45,
+    "gender_ratios": {
+        "male": 87.5,
+        "female": 12.5
+    },
+    "egg_groups": [
+        "Flying",
+        "Water 3"
+    ],
+    "hatch_time": [
+        7905,
+        8159
+    ],
+    "height_us": "1'08\"",
+    "height_eu": "0.6 m",
+    "weight_us": "20.9 lbs.",
+    "weight_eu": "9.5 kg",
+    "base_exp_yield": 71,
+    "leveling_rate": "Medium Fast",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 1,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 55,
+        "atk": 112,
+        "def": 45,
+        "sp_atk": 74,
+        "sp_def": 45,
+        "speed": 70
+    },
+    "evolution_from": null,
+    "evolutions": [
+        {
+            "to": "Archeops",
+            "level": 37
+        }
+    ],
+    "species": "First Bird Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "Said to be an ancestor of bird Pokémon, they were unable to fly and moved about by hopping from one branch to another.",
+    "move_learnset": [
+        {
+            "move": "Leer",
+            "level": 1
+        },
+        {
+            "move": "Quick Attack",
+            "level": 1
+        },
+        {
+            "move": "Wing Attack",
+            "level": 1
+        },
+        {
+            "move": "Rock Throw",
+            "level": 5
+        },
+        {
+            "move": "Double Team",
+            "level": 8
+        },
+        {
+            "move": "Scary Face",
+            "level": 11
+        },
+        {
+            "move": "Pluck",
+            "level": 15
+        },
+        {
+            "move": "Ancient Power",
+            "level": 18
+        },
+        {
+            "move": "Agility",
+            "level": 21
+        },
+        {
+            "move": "Quick Guard",
+            "level": 25
+        },
+        {
+            "move": "Acrobatics",
+            "level": 28
+        },
+        {
+            "move": "Dragon Breath",
+            "level": 31
+        },
+        {
+            "move": "Crunch",
+            "level": 35
+        },
+        {
+            "move": "Endeavor",
+            "level": 38
+        },
+        {
+            "move": "U-turn",
+            "level": 41
+        },
+        {
+            "move": "Rock Slide",
+            "level": 45
+        },
+        {
+            "move": "Dragon Claw",
+            "level": 48
+        },
+        {
+            "move": "Thrash",
+            "level": 50
+        },
+        {
+            "move": "Ally Switch",
+            "egg_move": true
+        },
+        {
+            "move": "Bite",
+            "egg_move": true
+        },
+        {
+            "move": "Defog",
+            "egg_move": true
+        },
+        {
+            "move": "Dragon Pulse",
+            "egg_move": true
+        },
+        {
+            "move": "Earth Power",
+            "egg_move": true
+        },
+        {
+            "move": "Head Smash",
+            "egg_move": true
+        },
+        {
+            "move": "Knock Off",
+            "egg_move": true
+        },
+        {
+            "move": "Steel Wing",
+            "egg_move": true
+        },
+        {
+            "move": "Switcheroo",
+            "egg_move": true
+        },
+        {
+            "move": "Dragon Claw",
+            "tm": "TM2"
+        },
+        {
+            "move": "Roar",
+            "tm": "TM5"
+        },
+        {
+            "move": "Toxic",
+            "tm": "TM6"
+        },
+        {
+            "move": "Hidden Power",
+            "tm": "TM10"
+        },
+        {
+            "move": "Taunt",
+            "tm": "TM12"
+        },
+        {
+            "move": "Protect",
+            "tm": "TM17"
+        },
+        {
+            "move": "Roost",
+            "tm": "TM19"
+        },
+        {
+            "move": "Frustration",
+            "tm": "TM21"
+        },
+        {
+            "move": "Smack Down",
+            "tm": "TM23"
+        },
+        {
+            "move": "Earthquake",
+            "tm": "TM26"
+        },
+        {
+            "move": "Return",
+            "tm": "TM27"
+        },
+        {
+            "move": "Double Team",
+            "tm": "TM32"
+        },
+        {
+            "move": "Sandstorm",
+            "tm": "TM37"
+        },
+        {
+            "move": "Rock Tomb",
+            "tm": "TM39"
+        },
+        {
+            "move": "Aerial Ace",
+            "tm": "TM40"
+        },
+        {
+            "move": "Torment",
+            "tm": "TM41"
+        },
+        {
+            "move": "Facade",
+            "tm": "TM42"
+        },
+        {
+            "move": "Rest",
+            "tm": "TM44"
+        },
+        {
+            "move": "Attract",
+            "tm": "TM45"
+        },
+        {
+            "move": "Round",
+            "tm": "TM48"
+        },
+        {
+            "move": "Steel Wing",
+            "tm": "TM51"
+        },
+        {
+            "move": "Acrobatics",
+            "tm": "TM62"
+        },
+        {
+            "move": "Shadow Claw",
+            "tm": "TM65"
+        },
+        {
+            "move": "Rock Polish",
+            "tm": "TM69"
+        },
+        {
+            "move": "Stone Edge",
+            "tm": "TM71"
+        },
+        {
+            "move": "Bulldoze",
+            "tm": "TM78"
+        },
+        {
+            "move": "Rock Slide",
+            "tm": "TM80"
+        },
+        {
+            "move": "Swagger",
+            "tm": "TM87"
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": "TM88"
+        },
+        {
+            "move": "U-turn",
+            "tm": "TM89"
+        },
+        {
+            "move": "Substitute",
+            "tm": "TM90"
+        },
+        {
+            "move": "Confide",
+            "tm": "TM100"
+        }
+    ]
+}

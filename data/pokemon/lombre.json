@@ -1,0 +1,350 @@
+{
+    "name": "Lombre",
+    "national_id": 271,
+    "types": [
+        "Water",
+        "Grass"
+    ],
+    "items": [
+        {
+            "name": "Mental Herb",
+            "chance": 5
+        }
+    ],
+    "abilities": [
+        {
+            "name": "Swift Swim"
+        },
+        {
+            "name": "Rain Dish"
+        },
+        {
+            "name": "Own Tempo",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 120,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Water 1",
+        "Grass"
+    ],
+    "hatch_time": [
+        4080,
+        4334
+    ],
+    "height_us": "3'11\"",
+    "height_eu": "1.2 m",
+    "weight_us": "71.6 lbs.",
+    "weight_eu": "32.5 kg",
+    "base_exp_yield": 119,
+    "leveling_rate": "Medium Slow",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 2,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 60,
+        "atk": 50,
+        "def": 50,
+        "sp_atk": 60,
+        "sp_def": 70,
+        "speed": 50
+    },
+    "evolution_from": "Lotad",
+    "evolutions": [
+        {
+            "to": "Ludicolo",
+            "item": "Water Stone"
+        }
+    ],
+    "species": "Jolly Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "It lives at the water’s edge where it is sunny. It sleeps on a bed of water grass by day and becomes active at night.",
+    "move_learnset": [
+        {
+            "move": "Teeter Dance",
+            "level": 1
+        },
+        {
+            "move": "Fake Out",
+            "level": 1
+        },
+        {
+            "move": "Knock Off",
+            "level": 1
+        },
+        {
+            "move": "Flail",
+            "level": 1
+        },
+        {
+            "move": "Astonish",
+            "level": 1
+        },
+        {
+            "move": "Growl",
+            "level": 1
+        },
+        {
+            "move": "Absorb",
+            "level": 1
+        },
+        {
+            "move": "Water Gun",
+            "level": 1
+        },
+        {
+            "move": "Mist",
+            "level": 9
+        },
+        {
+            "move": "Mega Drain",
+            "level": 12
+        },
+        {
+            "move": "Fury Swipes",
+            "level": 18
+        },
+        {
+            "move": "Bubble Beam",
+            "level": 24
+        },
+        {
+            "move": "Nature Power",
+            "level": 30
+        },
+        {
+            "move": "Giga Drain",
+            "level": 36
+        },
+        {
+            "move": "Rain Dance",
+            "level": 43
+        },
+        {
+            "move": "Zen Headbutt",
+            "level": 50
+        },
+        {
+            "move": "Energy Ball",
+            "level": 57
+        },
+        {
+            "move": "Hydro Pump",
+            "level": 64
+        },
+        {
+            "move": "Mega Punch",
+            "tm": true
+        },
+        {
+            "move": "Mega Kick",
+            "tm": true
+        },
+        {
+            "move": "Fire Punch",
+            "tm": true
+        },
+        {
+            "move": "Ice Punch",
+            "tm": true
+        },
+        {
+            "move": "Thunder Punch",
+            "tm": true
+        },
+        {
+            "move": "Solar Beam",
+            "tm": true
+        },
+        {
+            "move": "Rest",
+            "tm": true
+        },
+        {
+            "move": "Thief",
+            "tm": true
+        },
+        {
+            "move": "Snore",
+            "tm": true
+        },
+        {
+            "move": "Protect",
+            "tm": true
+        },
+        {
+            "move": "Icy Wind",
+            "tm": true
+        },
+        {
+            "move": "Giga Drain",
+            "tm": true
+        },
+        {
+            "move": "Attract",
+            "tm": true
+        },
+        {
+            "move": "Rain Dance",
+            "tm": true
+        },
+        {
+            "move": "Sunny Day",
+            "tm": true
+        },
+        {
+            "move": "Hail",
+            "tm": true
+        },
+        {
+            "move": "Whirlpool",
+            "tm": true
+        },
+        {
+            "move": "Facade",
+            "tm": true
+        },
+        {
+            "move": "Brick Break",
+            "tm": true
+        },
+        {
+            "move": "Dive",
+            "tm": true
+        },
+        {
+            "move": "Bullet Seed",
+            "tm": true
+        },
+        {
+            "move": "Mud Shot",
+            "tm": true
+        },
+        {
+            "move": "Fling",
+            "tm": true
+        },
+        {
+            "move": "Drain Punch",
+            "tm": true
+        },
+        {
+            "move": "Round",
+            "tm": true
+        },
+        {
+            "move": "Swords Dance",
+            "tm": true
+        },
+        {
+            "move": "Body Slam",
+            "tm": true
+        },
+        {
+            "move": "Hydro Pump",
+            "tm": true
+        },
+        {
+            "move": "Surf",
+            "tm": true
+        },
+        {
+            "move": "Ice Beam",
+            "tm": true
+        },
+        {
+            "move": "Blizzard",
+            "tm": true
+        },
+        {
+            "move": "Waterfall",
+            "tm": true
+        },
+        {
+            "move": "Substitute",
+            "tm": true
+        },
+        {
+            "move": "Endure",
+            "tm": true
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": true
+        },
+        {
+            "move": "Encore",
+            "tm": true
+        },
+        {
+            "move": "Uproar",
+            "tm": true
+        },
+        {
+            "move": "Hyper Voice",
+            "tm": true
+        },
+        {
+            "move": "Muddy Water",
+            "tm": true
+        },
+        {
+            "move": "Seed Bomb",
+            "tm": true
+        },
+        {
+            "move": "Energy Ball",
+            "tm": true
+        },
+        {
+            "move": "Zen Headbutt",
+            "tm": true
+        },
+        {
+            "move": "Grass Knot",
+            "tm": true
+        },
+        {
+            "move": "Scald",
+            "tm": true
+        },
+        {
+            "move": "Synthesis",
+            "egg_move": true
+        },
+        {
+            "move": "Razor Leaf",
+            "egg_move": true
+        },
+        {
+            "move": "Sweet Scent",
+            "egg_move": true
+        },
+        {
+            "move": "Leech Seed",
+            "egg_move": true
+        },
+        {
+            "move": "Tickle",
+            "egg_move": true
+        },
+        {
+            "move": "Counter",
+            "egg_move": true
+        },
+        {
+            "move": "Teeter Dance",
+            "egg_move": true
+        }
+    ]
+}

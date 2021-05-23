@@ -1,0 +1,316 @@
+{
+    "name": "Hitmonchan",
+    "national_id": 107,
+    "types": [
+        "Fighting"
+    ],
+    "abilities": [
+        {
+            "name": "Keen Eye"
+        },
+        {
+            "name": "Iron Fist"
+        },
+        {
+            "name": "Inner Focus",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 45,
+    "gender_ratios": {
+        "male": 100
+    },
+    "egg_groups": [
+        "Human-Like"
+    ],
+    "hatch_time": [
+        6630,
+        6884
+    ],
+    "height_us": "4'07\"",
+    "height_eu": "1.4 m",
+    "weight_us": "110.7 lbs.",
+    "weight_eu": "50.2 kg",
+    "base_exp_yield": 159,
+    "leveling_rate": "Medium Fast",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 2,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 50,
+        "atk": 105,
+        "def": 79,
+        "sp_atk": 35,
+        "sp_def": 110,
+        "speed": 76
+    },
+    "evolution_from": "Tyrogue",
+    "evolutions": [],
+    "species": "Punching Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "Its punches slice the air. However, it seems to need a short break after fighting for three minutes.",
+    "move_learnset": [
+        {
+            "move": "Drain Punch",
+            "evo": true
+        },
+        {
+            "move": "Drain Punch",
+            "level": 1
+        },
+        {
+            "move": "Feint",
+            "level": 1
+        },
+        {
+            "move": "Vacuum Wave",
+            "level": 1
+        },
+        {
+            "move": "Bullet Punch",
+            "level": 1
+        },
+        {
+            "move": "Tackle",
+            "level": 1
+        },
+        {
+            "move": "Helping Hand",
+            "level": 1
+        },
+        {
+            "move": "Fake Out",
+            "level": 1
+        },
+        {
+            "move": "Focus Energy",
+            "level": 1
+        },
+        {
+            "move": "Mach Punch",
+            "level": 4
+        },
+        {
+            "move": "Power-Up Punch",
+            "level": 8
+        },
+        {
+            "move": "Detect",
+            "level": 12
+        },
+        {
+            "move": "Revenge",
+            "level": 16
+        },
+        {
+            "move": "Quick Guard",
+            "level": 21
+        },
+        {
+            "move": "Thunder Punch",
+            "level": 24
+        },
+        {
+            "move": "Ice Punch",
+            "level": 24
+        },
+        {
+            "move": "Fire Punch",
+            "level": 24
+        },
+        {
+            "move": "Agility",
+            "level": 28
+        },
+        {
+            "move": "Mega Punch",
+            "level": 32
+        },
+        {
+            "move": "Close Combat",
+            "level": 36
+        },
+        {
+            "move": "Counter",
+            "level": 40
+        },
+        {
+            "move": "Focus Punch",
+            "level": 44
+        },
+        {
+            "move": "Mega Punch",
+            "tm": true
+        },
+        {
+            "move": "Mega Kick",
+            "tm": true
+        },
+        {
+            "move": "Fire Punch",
+            "tm": true
+        },
+        {
+            "move": "Ice Punch",
+            "tm": true
+        },
+        {
+            "move": "Thunder Punch",
+            "tm": true
+        },
+        {
+            "move": "Rest",
+            "tm": true
+        },
+        {
+            "move": "Rock Slide",
+            "tm": true
+        },
+        {
+            "move": "Thief",
+            "tm": true
+        },
+        {
+            "move": "Snore",
+            "tm": true
+        },
+        {
+            "move": "Protect",
+            "tm": true
+        },
+        {
+            "move": "Attract",
+            "tm": true
+        },
+        {
+            "move": "Rain Dance",
+            "tm": true
+        },
+        {
+            "move": "Sunny Day",
+            "tm": true
+        },
+        {
+            "move": "Facade",
+            "tm": true
+        },
+        {
+            "move": "Swift",
+            "tm": true
+        },
+        {
+            "move": "Helping Hand",
+            "tm": true
+        },
+        {
+            "move": "Revenge",
+            "tm": true
+        },
+        {
+            "move": "Brick Break",
+            "tm": true
+        },
+        {
+            "move": "Rock Tomb",
+            "tm": true
+        },
+        {
+            "move": "Fling",
+            "tm": true
+        },
+        {
+            "move": "Drain Punch",
+            "tm": true
+        },
+        {
+            "move": "Low Sweep",
+            "tm": true
+        },
+        {
+            "move": "Round",
+            "tm": true
+        },
+        {
+            "move": "Retaliate",
+            "tm": true
+        },
+        {
+            "move": "Bulldoze",
+            "tm": true
+        },
+        {
+            "move": "Body Slam",
+            "tm": true
+        },
+        {
+            "move": "Low Kick",
+            "tm": true
+        },
+        {
+            "move": "Earthquake",
+            "tm": true
+        },
+        {
+            "move": "Agility",
+            "tm": true
+        },
+        {
+            "move": "Focus Energy",
+            "tm": true
+        },
+        {
+            "move": "Metronome",
+            "tm": true
+        },
+        {
+            "move": "Substitute",
+            "tm": true
+        },
+        {
+            "move": "Endure",
+            "tm": true
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": true
+        },
+        {
+            "move": "Uproar",
+            "tm": true
+        },
+        {
+            "move": "Bulk Up",
+            "tm": true
+        },
+        {
+            "move": "Close Combat",
+            "tm": true
+        },
+        {
+            "move": "Aura Sphere",
+            "tm": true
+        },
+        {
+            "move": "Focus Blast",
+            "tm": true
+        },
+        {
+            "move": "Stone Edge",
+            "tm": true
+        },
+        {
+            "move": "Work Up",
+            "tm": true
+        },
+        {
+            "move": "Throat Chop",
+            "tm": true
+        }
+    ]
+}

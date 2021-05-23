@@ -1,0 +1,8 @@
+{
+    "name": "Exp. Candy M",
+    "sell_price": 500,
+    "holdable": true,
+    "battle": false,
+    "category": "Medicine",
+    "subcategory": "Candy"
+}

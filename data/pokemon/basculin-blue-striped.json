@@ -1,0 +1,287 @@
+{
+    "name": "Basculin",
+    "national_id": 550,
+    "types": [
+        "Water"
+    ],
+    "items": [
+        {
+            "name": "Deep Sea Scale",
+            "chance": 5
+        }
+    ],
+    "abilities": [
+        {
+            "name": "Adaptability"
+        },
+        {
+            "name": "Rock Head"
+        },
+        {
+            "name": "Mold Breaker",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 25,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Water 2"
+    ],
+    "hatch_time": [
+        10455,
+        10709
+    ],
+    "height_us": "3'03\"",
+    "height_eu": "1.0 m",
+    "weight_us": "39.7 lbs.",
+    "weight_eu": "18.0 kg",
+    "base_exp_yield": 161,
+    "leveling_rate": "Medium Fast",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 2
+    },
+    "base_stats": {
+        "hp": 70,
+        "atk": 92,
+        "def": 65,
+        "sp_atk": 80,
+        "sp_def": 55,
+        "speed": 98
+    },
+    "evolution_from": null,
+    "evolutions": [],
+    "species": "Hostile Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "Blue-striped Basculin used to be a common food source. They apparently have an inoffensive, light flavor.",
+    "move_learnset": [
+        {
+            "move": "Water Gun",
+            "level": 1
+        },
+        {
+            "move": "Tail Whip",
+            "level": 1
+        },
+        {
+            "move": "Tackle",
+            "level": 4
+        },
+        {
+            "move": "Flail",
+            "level": 8
+        },
+        {
+            "move": "Aqua Jet",
+            "level": 12
+        },
+        {
+            "move": "Bite",
+            "level": 16
+        },
+        {
+            "move": "Scary Face",
+            "level": 20
+        },
+        {
+            "move": "Headbutt",
+            "level": 24
+        },
+        {
+            "move": "Soak",
+            "level": 28
+        },
+        {
+            "move": "Crunch",
+            "level": 32
+        },
+        {
+            "move": "Take Down",
+            "level": 36
+        },
+        {
+            "move": "Final Gambit",
+            "level": 40
+        },
+        {
+            "move": "Aqua Tail",
+            "level": 44
+        },
+        {
+            "move": "Thrash",
+            "level": 48
+        },
+        {
+            "move": "Double-Edge",
+            "level": 52
+        },
+        {
+            "move": "Head Smash",
+            "level": 56
+        },
+        {
+            "move": "Rest",
+            "tm": true
+        },
+        {
+            "move": "Snore",
+            "tm": true
+        },
+        {
+            "move": "Protect",
+            "tm": true
+        },
+        {
+            "move": "Scary Face",
+            "tm": true
+        },
+        {
+            "move": "Icy Wind",
+            "tm": true
+        },
+        {
+            "move": "Attract",
+            "tm": true
+        },
+        {
+            "move": "Rain Dance",
+            "tm": true
+        },
+        {
+            "move": "Hail",
+            "tm": true
+        },
+        {
+            "move": "Whirlpool",
+            "tm": true
+        },
+        {
+            "move": "Facade",
+            "tm": true
+        },
+        {
+            "move": "Swift",
+            "tm": true
+        },
+        {
+            "move": "Revenge",
+            "tm": true
+        },
+        {
+            "move": "Dive",
+            "tm": true
+        },
+        {
+            "move": "Bounce",
+            "tm": true
+        },
+        {
+            "move": "Mud Shot",
+            "tm": true
+        },
+        {
+            "move": "Brine",
+            "tm": true
+        },
+        {
+            "move": "Assurance",
+            "tm": true
+        },
+        {
+            "move": "Ice Fang",
+            "tm": true
+        },
+        {
+            "move": "Round",
+            "tm": true
+        },
+        {
+            "move": "Hydro Pump",
+            "tm": true
+        },
+        {
+            "move": "Surf",
+            "tm": true
+        },
+        {
+            "move": "Ice Beam",
+            "tm": true
+        },
+        {
+            "move": "Agility",
+            "tm": true
+        },
+        {
+            "move": "Waterfall",
+            "tm": true
+        },
+        {
+            "move": "Substitute",
+            "tm": true
+        },
+        {
+            "move": "Reversal",
+            "tm": true
+        },
+        {
+            "move": "Endure",
+            "tm": true
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": true
+        },
+        {
+            "move": "Crunch",
+            "tm": true
+        },
+        {
+            "move": "Uproar",
+            "tm": true
+        },
+        {
+            "move": "Taunt",
+            "tm": true
+        },
+        {
+            "move": "Superpower",
+            "tm": true
+        },
+        {
+            "move": "Muddy Water",
+            "tm": true
+        },
+        {
+            "move": "Zen Headbutt",
+            "tm": true
+        },
+        {
+            "move": "Scald",
+            "tm": true
+        },
+        {
+            "move": "Psychic Fangs",
+            "tm": true
+        },
+        {
+            "move": "Liquidation",
+            "tm": true
+        },
+        {
+            "move": "Bubble Beam",
+            "egg_move": true
+        },
+        {
+            "move": "Endeavor",
+            "egg_move": true
+        }
+    ]
+}

@@ -1,0 +1,247 @@
+{
+    "name": "Regigigas",
+    "national_id": 486,
+    "types": [
+        "Normal"
+    ],
+    "abilities": [
+        {
+            "name": "Slow Start"
+        }
+    ],
+    "catch_rate": 3,
+    "gender_ratios": null,
+    "egg_groups": [
+        "Undiscovered"
+    ],
+    "hatch_time": [
+        30855,
+        31109
+    ],
+    "height_us": "12'02\"",
+    "height_eu": "3.7 m",
+    "weight_us": "925.9 lbs.",
+    "weight_eu": "420.0 kg",
+    "base_exp_yield": 302,
+    "leveling_rate": "Slow",
+    "base_friendship": 0,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 3,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 110,
+        "atk": 160,
+        "def": 110,
+        "sp_atk": 80,
+        "sp_def": 110,
+        "speed": 100
+    },
+    "evolution_from": null,
+    "evolutions": [],
+    "species": "Colossal Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "There is an enduring legend that states this Pokémon towed continents with ropes.",
+    "move_learnset": [
+        {
+            "move": "Confuse Ray",
+            "level": 1
+        },
+        {
+            "move": "Crush Grip",
+            "level": 1
+        },
+        {
+            "move": "Dizzy Punch",
+            "level": 1
+        },
+        {
+            "move": "Fire Punch",
+            "level": 1
+        },
+        {
+            "move": "Foresight",
+            "level": 1
+        },
+        {
+            "move": "Heavy Slam",
+            "level": 1
+        },
+        {
+            "move": "Ice Punch",
+            "level": 1
+        },
+        {
+            "move": "Knock Off",
+            "level": 1
+        },
+        {
+            "move": "Thunder Punch",
+            "level": 1
+        },
+        {
+            "move": "Revenge",
+            "level": 25
+        },
+        {
+            "move": "Wide Guard",
+            "level": 40
+        },
+        {
+            "move": "Zen Headbutt",
+            "level": 50
+        },
+        {
+            "move": "Payback",
+            "level": 65
+        },
+        {
+            "move": "Crush Grip",
+            "level": 75
+        },
+        {
+            "move": "Heavy Slam",
+            "level": 90
+        },
+        {
+            "move": "Giga Impact",
+            "level": 100
+        },
+        {
+            "move": "Toxic",
+            "tm": "TM6"
+        },
+        {
+            "move": "Hidden Power",
+            "tm": "TM10"
+        },
+        {
+            "move": "Sunny Day",
+            "tm": "TM11"
+        },
+        {
+            "move": "Hyper Beam",
+            "tm": "TM15"
+        },
+        {
+            "move": "Rain Dance",
+            "tm": "TM18"
+        },
+        {
+            "move": "Safeguard",
+            "tm": "TM20"
+        },
+        {
+            "move": "Frustration",
+            "tm": "TM21"
+        },
+        {
+            "move": "Smack Down",
+            "tm": "TM23"
+        },
+        {
+            "move": "Thunderbolt",
+            "tm": "TM24"
+        },
+        {
+            "move": "Thunder",
+            "tm": "TM25"
+        },
+        {
+            "move": "Earthquake",
+            "tm": "TM26"
+        },
+        {
+            "move": "Return",
+            "tm": "TM27"
+        },
+        {
+            "move": "Brick Break",
+            "tm": "TM31"
+        },
+        {
+            "move": "Double Team",
+            "tm": "TM32"
+        },
+        {
+            "move": "Rock Tomb",
+            "tm": "TM39"
+        },
+        {
+            "move": "Aerial Ace",
+            "tm": "TM40"
+        },
+        {
+            "move": "Facade",
+            "tm": "TM42"
+        },
+        {
+            "move": "Round",
+            "tm": "TM48"
+        },
+        {
+            "move": "Focus Blast",
+            "tm": "TM52"
+        },
+        {
+            "move": "Fling",
+            "tm": "TM56"
+        },
+        {
+            "move": "Payback",
+            "tm": "TM66"
+        },
+        {
+            "move": "Giga Impact",
+            "tm": "TM68"
+        },
+        {
+            "move": "Rock Polish",
+            "tm": "TM69"
+        },
+        {
+            "move": "Stone Edge",
+            "tm": "TM71"
+        },
+        {
+            "move": "Thunder Wave",
+            "tm": "TM73"
+        },
+        {
+            "move": "Psych Up",
+            "tm": "TM77"
+        },
+        {
+            "move": "Bulldoze",
+            "tm": "TM78"
+        },
+        {
+            "move": "Rock Slide",
+            "tm": "TM80"
+        },
+        {
+            "move": "Swagger",
+            "tm": "TM87"
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": "TM88"
+        },
+        {
+            "move": "Substitute",
+            "tm": "TM90"
+        },
+        {
+            "move": "Nature Power",
+            "tm": "TM96"
+        },
+        {
+            "move": "Confide",
+            "tm": "TM100"
+        }
+    ]
+}

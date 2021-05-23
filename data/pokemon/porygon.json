@@ -1,0 +1,252 @@
+{
+    "name": "Porygon",
+    "national_id": 137,
+    "types": [
+        "Normal"
+    ],
+    "abilities": [
+        {
+            "name": "Trace"
+        },
+        {
+            "name": "Download"
+        },
+        {
+            "name": "Analytic",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 45,
+    "gender_ratios": null,
+    "egg_groups": [
+        "Mineral"
+    ],
+    "hatch_time": [
+        5355,
+        5609
+    ],
+    "height_us": "2'07\"",
+    "height_eu": "0.8 m",
+    "weight_us": "80.5 lbs.",
+    "weight_eu": "36.5 kg",
+    "base_exp_yield": 79,
+    "leveling_rate": "Medium Fast",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 1,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 65,
+        "atk": 60,
+        "def": 70,
+        "sp_atk": 85,
+        "sp_def": 75,
+        "speed": 40
+    },
+    "evolution_from": null,
+    "evolutions": [
+        {
+            "to": "Porygon2",
+            "trade": true,
+            "hold_item": "Up-Grade"
+        }
+    ],
+    "species": "Virtual Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "Porygon is capable of reverting itself entirely back to program data and entering cyberspace. This Pokémon is copy-protected so it cannot be duplicated by copying.",
+    "move_learnset": [
+        {
+            "move": "Conversion",
+            "level": 1
+        },
+        {
+            "move": "Conversion 2",
+            "level": 1
+        },
+        {
+            "move": "Sharpen",
+            "level": 1
+        },
+        {
+            "move": "Tackle",
+            "level": 1
+        },
+        {
+            "move": "Psybeam",
+            "level": 7
+        },
+        {
+            "move": "Agility",
+            "level": 12
+        },
+        {
+            "move": "Recover",
+            "level": 18
+        },
+        {
+            "move": "Magnet Rise",
+            "level": 23
+        },
+        {
+            "move": "Signal Beam",
+            "level": 29
+        },
+        {
+            "move": "Recycle",
+            "level": 34
+        },
+        {
+            "move": "Discharge",
+            "level": 40
+        },
+        {
+            "move": "Lock-On",
+            "level": 45
+        },
+        {
+            "move": "Tri Attack",
+            "level": 50
+        },
+        {
+            "move": "Magic Coat",
+            "level": 56
+        },
+        {
+            "move": "Zap Cannon",
+            "level": 62
+        },
+        {
+            "move": "Psyshock",
+            "tm": "TM3"
+        },
+        {
+            "move": "Toxic",
+            "tm": "TM6"
+        },
+        {
+            "move": "Hidden Power",
+            "tm": "TM10"
+        },
+        {
+            "move": "Sunny Day",
+            "tm": "TM11"
+        },
+        {
+            "move": "Ice Beam",
+            "tm": "TM13"
+        },
+        {
+            "move": "Blizzard",
+            "tm": "TM14"
+        },
+        {
+            "move": "Hyper Beam",
+            "tm": "TM15"
+        },
+        {
+            "move": "Protect",
+            "tm": "TM17"
+        },
+        {
+            "move": "Rain Dance",
+            "tm": "TM18"
+        },
+        {
+            "move": "Frustration",
+            "tm": "TM21"
+        },
+        {
+            "move": "Solar Beam",
+            "tm": "TM22"
+        },
+        {
+            "move": "Thunderbolt",
+            "tm": "TM24"
+        },
+        {
+            "move": "Thunder",
+            "tm": "TM25"
+        },
+        {
+            "move": "Return",
+            "tm": "TM27"
+        },
+        {
+            "move": "Psychic",
+            "tm": "TM29"
+        },
+        {
+            "move": "Shadow Ball",
+            "tm": "TM30"
+        },
+        {
+            "move": "Double Team",
+            "tm": "TM32"
+        },
+        {
+            "move": "Aerial Ace",
+            "tm": "TM40"
+        },
+        {
+            "move": "Facade",
+            "tm": "TM42"
+        },
+        {
+            "move": "Rest",
+            "tm": "TM44"
+        },
+        {
+            "move": "Thief",
+            "tm": "TM46"
+        },
+        {
+            "move": "Round",
+            "tm": "TM48"
+        },
+        {
+            "move": "Charge Beam",
+            "tm": "TM57"
+        },
+        {
+            "move": "Giga Impact",
+            "tm": "TM68"
+        },
+        {
+            "move": "Thunder Wave",
+            "tm": "TM73"
+        },
+        {
+            "move": "Psych Up",
+            "tm": "TM77"
+        },
+        {
+            "move": "Dream Eater",
+            "tm": "TM85"
+        },
+        {
+            "move": "Swagger",
+            "tm": "TM87"
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": "TM88"
+        },
+        {
+            "move": "Substitute",
+            "tm": "TM90"
+        },
+        {
+            "move": "Trick Room",
+            "tm": "TM92"
+        },
+        {
+            "move": "Confide",
+            "tm": "TM100"
+        }
+    ]
+}

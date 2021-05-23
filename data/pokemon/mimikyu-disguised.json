@@ -1,0 +1,305 @@
+{
+    "name": "Mimikyu",
+    "national_id": 778,
+    "types": [
+        "Ghost",
+        "Fairy"
+    ],
+    "items": [
+        {
+            "name": "Chesto Berry",
+            "chance": 5
+        }
+    ],
+    "abilities": [
+        {
+            "name": "Disguise"
+        }
+    ],
+    "catch_rate": 45,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Amorphous"
+    ],
+    "hatch_time": [
+        5140,
+        5396
+    ],
+    "height_us": "0'08\"",
+    "height_eu": "0.2 m",
+    "weight_us": "1.5 lbs.",
+    "weight_eu": "0.7 kg",
+    "base_exp_yield": 167,
+    "leveling_rate": "Medium Fast",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 2,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 55,
+        "atk": 90,
+        "def": 80,
+        "sp_atk": 50,
+        "sp_def": 105,
+        "speed": 96
+    },
+    "evolution_from": null,
+    "evolutions": [],
+    "species": "Disguise Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "There was a scientist who peeked under Mimikyu’s old rag in the name of research. The scientist died of a mysterious disease.",
+    "move_learnset": [
+        {
+            "move": "Wood Hammer",
+            "level": 1
+        },
+        {
+            "move": "Splash",
+            "level": 1
+        },
+        {
+            "move": "Astonish",
+            "level": 1
+        },
+        {
+            "move": "Scratch",
+            "level": 1
+        },
+        {
+            "move": "Copycat",
+            "level": 1
+        },
+        {
+            "move": "Shadow Sneak",
+            "level": 6
+        },
+        {
+            "move": "Double Team",
+            "level": 12
+        },
+        {
+            "move": "Baby-Doll Eyes",
+            "level": 18
+        },
+        {
+            "move": "Mimic",
+            "level": 24
+        },
+        {
+            "move": "Hone Claws",
+            "level": 30
+        },
+        {
+            "move": "Slash",
+            "level": 36
+        },
+        {
+            "move": "Shadow Claw",
+            "level": 42
+        },
+        {
+            "move": "Charm",
+            "level": 48
+        },
+        {
+            "move": "Play Rough",
+            "level": 54
+        },
+        {
+            "move": "Pain Split",
+            "level": 60
+        },
+        {
+            "move": "Hyper Beam",
+            "tm": true
+        },
+        {
+            "move": "Giga Impact",
+            "tm": true
+        },
+        {
+            "move": "Thunder Wave",
+            "tm": true
+        },
+        {
+            "move": "Screech",
+            "tm": true
+        },
+        {
+            "move": "Light Screen",
+            "tm": true
+        },
+        {
+            "move": "Safeguard",
+            "tm": true
+        },
+        {
+            "move": "Rest",
+            "tm": true
+        },
+        {
+            "move": "Thief",
+            "tm": true
+        },
+        {
+            "move": "Snore",
+            "tm": true
+        },
+        {
+            "move": "Protect",
+            "tm": true
+        },
+        {
+            "move": "Giga Drain",
+            "tm": true
+        },
+        {
+            "move": "Charm",
+            "tm": true
+        },
+        {
+            "move": "Attract",
+            "tm": true
+        },
+        {
+            "move": "Beat Up",
+            "tm": true
+        },
+        {
+            "move": "Will-O-Wisp",
+            "tm": true
+        },
+        {
+            "move": "Facade",
+            "tm": true
+        },
+        {
+            "move": "Payback",
+            "tm": true
+        },
+        {
+            "move": "Fling",
+            "tm": true
+        },
+        {
+            "move": "Drain Punch",
+            "tm": true
+        },
+        {
+            "move": "Shadow Claw",
+            "tm": true
+        },
+        {
+            "move": "Trick Room",
+            "tm": true
+        },
+        {
+            "move": "Magic Room",
+            "tm": true
+        },
+        {
+            "move": "Round",
+            "tm": true
+        },
+        {
+            "move": "Hex",
+            "tm": true
+        },
+        {
+            "move": "Phantom Force",
+            "tm": true
+        },
+        {
+            "move": "Draining Kiss",
+            "tm": true
+        },
+        {
+            "move": "Swords Dance",
+            "tm": true
+        },
+        {
+            "move": "Thunderbolt",
+            "tm": true
+        },
+        {
+            "move": "Thunder",
+            "tm": true
+        },
+        {
+            "move": "Psychic",
+            "tm": true
+        },
+        {
+            "move": "Leech Life",
+            "tm": true
+        },
+        {
+            "move": "Substitute",
+            "tm": true
+        },
+        {
+            "move": "Endure",
+            "tm": true
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": true
+        },
+        {
+            "move": "Shadow Ball",
+            "tm": true
+        },
+        {
+            "move": "Taunt",
+            "tm": true
+        },
+        {
+            "move": "Trick",
+            "tm": true
+        },
+        {
+            "move": "Bulk Up",
+            "tm": true
+        },
+        {
+            "move": "Dark Pulse",
+            "tm": true
+        },
+        {
+            "move": "X-Scissor",
+            "tm": true
+        },
+        {
+            "move": "Work Up",
+            "tm": true
+        },
+        {
+            "move": "Play Rough",
+            "tm": true
+        },
+        {
+            "move": "Dazzling Gleam",
+            "tm": true
+        },
+        {
+            "move": "Grudge",
+            "egg_move": true
+        },
+        {
+            "move": "Destiny Bond",
+            "egg_move": true
+        },
+        {
+            "move": "Curse",
+            "egg_move": true
+        }
+    ]
+}

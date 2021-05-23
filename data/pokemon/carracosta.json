@@ -1,0 +1,307 @@
+{
+    "name": "Carracosta",
+    "national_id": 565,
+    "types": [
+        "Water",
+        "Rock"
+    ],
+    "abilities": [
+        {
+            "name": "Solid Rock"
+        },
+        {
+            "name": "Sturdy"
+        },
+        {
+            "name": "Swift Swim",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 45,
+    "gender_ratios": {
+        "male": 87.5,
+        "female": 12.5
+    },
+    "egg_groups": [
+        "Water 1",
+        "Water 3"
+    ],
+    "hatch_time": [
+        7905,
+        8159
+    ],
+    "height_us": "3'11\"",
+    "height_eu": "1.2 m",
+    "weight_us": "178.6 lbs.",
+    "weight_eu": "81.0 kg",
+    "base_exp_yield": 173,
+    "leveling_rate": "Medium Fast",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 2,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 74,
+        "atk": 108,
+        "def": 133,
+        "sp_atk": 83,
+        "sp_def": 65,
+        "speed": 32
+    },
+    "evolution_from": "Tirtouga",
+    "evolutions": [],
+    "species": "Prototurtle Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "It could knock out a foe with a slap from one of its developed front appendages and chew it up, shell or bones and all.",
+    "move_learnset": [
+        {
+            "move": "Bide",
+            "level": 1
+        },
+        {
+            "move": "Rollout",
+            "level": 1
+        },
+        {
+            "move": "Water Gun",
+            "level": 1
+        },
+        {
+            "move": "Withdraw",
+            "level": 1
+        },
+        {
+            "move": "Rollout",
+            "level": 5
+        },
+        {
+            "move": "Bite",
+            "level": 8
+        },
+        {
+            "move": "Protect",
+            "level": 11
+        },
+        {
+            "move": "Aqua Jet",
+            "level": 15
+        },
+        {
+            "move": "Ancient Power",
+            "level": 18
+        },
+        {
+            "move": "Crunch",
+            "level": 21
+        },
+        {
+            "move": "Wide Guard",
+            "level": 25
+        },
+        {
+            "move": "Brine",
+            "level": 28
+        },
+        {
+            "move": "Smack Down",
+            "level": 31
+        },
+        {
+            "move": "Curse",
+            "level": 35
+        },
+        {
+            "move": "Shell Smash",
+            "level": 40
+        },
+        {
+            "move": "Aqua Tail",
+            "level": 45
+        },
+        {
+            "move": "Rock Slide",
+            "level": 51
+        },
+        {
+            "move": "Rain Dance",
+            "level": 56
+        },
+        {
+            "move": "Hydro Pump",
+            "level": 61
+        },
+        {
+            "move": "Bide",
+            "egg_move": true
+        },
+        {
+            "move": "Body Slam",
+            "egg_move": true
+        },
+        {
+            "move": "Flail",
+            "egg_move": true
+        },
+        {
+            "move": "Guard Swap",
+            "egg_move": true
+        },
+        {
+            "move": "Iron Defense",
+            "egg_move": true
+        },
+        {
+            "move": "Knock Off",
+            "egg_move": true
+        },
+        {
+            "move": "Liquidation",
+            "egg_move": true
+        },
+        {
+            "move": "Rock Throw",
+            "egg_move": true
+        },
+        {
+            "move": "Slam",
+            "egg_move": true
+        },
+        {
+            "move": "Water Pulse",
+            "egg_move": true
+        },
+        {
+            "move": "Whirlpool",
+            "egg_move": true
+        },
+        {
+            "move": "Toxic",
+            "tm": "TM6"
+        },
+        {
+            "move": "Hidden Power",
+            "tm": "TM10"
+        },
+        {
+            "move": "Ice Beam",
+            "tm": "TM13"
+        },
+        {
+            "move": "Blizzard",
+            "tm": "TM14"
+        },
+        {
+            "move": "Hyper Beam",
+            "tm": "TM15"
+        },
+        {
+            "move": "Protect",
+            "tm": "TM17"
+        },
+        {
+            "move": "Rain Dance",
+            "tm": "TM18"
+        },
+        {
+            "move": "Frustration",
+            "tm": "TM21"
+        },
+        {
+            "move": "Smack Down",
+            "tm": "TM23"
+        },
+        {
+            "move": "Earthquake",
+            "tm": "TM26"
+        },
+        {
+            "move": "Return",
+            "tm": "TM27"
+        },
+        {
+            "move": "Double Team",
+            "tm": "TM32"
+        },
+        {
+            "move": "Sandstorm",
+            "tm": "TM37"
+        },
+        {
+            "move": "Rock Tomb",
+            "tm": "TM39"
+        },
+        {
+            "move": "Facade",
+            "tm": "TM42"
+        },
+        {
+            "move": "Rest",
+            "tm": "TM44"
+        },
+        {
+            "move": "Attract",
+            "tm": "TM45"
+        },
+        {
+            "move": "Round",
+            "tm": "TM48"
+        },
+        {
+            "move": "Focus Blast",
+            "tm": "TM52"
+        },
+        {
+            "move": "Scald",
+            "tm": "TM55"
+        },
+        {
+            "move": "Giga Impact",
+            "tm": "TM68"
+        },
+        {
+            "move": "Rock Polish",
+            "tm": "TM69"
+        },
+        {
+            "move": "Stone Edge",
+            "tm": "TM71"
+        },
+        {
+            "move": "Bulldoze",
+            "tm": "TM78"
+        },
+        {
+            "move": "Rock Slide",
+            "tm": "TM80"
+        },
+        {
+            "move": "Swagger",
+            "tm": "TM87"
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": "TM88"
+        },
+        {
+            "move": "Substitute",
+            "tm": "TM90"
+        },
+        {
+            "move": "Surf",
+            "tm": "TM94"
+        },
+        {
+            "move": "Waterfall",
+            "tm": "TM98"
+        },
+        {
+            "move": "Confide",
+            "tm": "TM100"
+        }
+    ]
+}

@@ -1,0 +1,516 @@
+{
+    "name": "Golem",
+    "national_id": 76,
+    "types": [
+        "Rock",
+        "Ground"
+    ],
+    "items": [
+        {
+            "name": "Everstone",
+            "chance": 5
+        }
+    ],
+    "abilities": [
+        {
+            "name": "Rock Head"
+        },
+        {
+            "name": "Sturdy"
+        },
+        {
+            "name": "Sand Veil",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 45,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Mineral"
+    ],
+    "hatch_time": [
+        4080,
+        4334
+    ],
+    "height_us": "4'07\"",
+    "height_eu": "1.4 m",
+    "weight_us": "661.4 lbs.",
+    "weight_eu": "300.0 kg",
+    "base_exp_yield": 218,
+    "leveling_rate": "Medium Slow",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 3,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 80,
+        "atk": 120,
+        "def": 130,
+        "sp_atk": 55,
+        "sp_def": 65,
+        "speed": 45
+    },
+    "evolution_from": "Graveler",
+    "evolutions": [],
+    "species": "Megaton Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "Golem is known for rolling down from mountains. To prevent them from rolling into the homes of people downhill, grooves have been dug into the sides of mountains to serve as guideways for diverting this Pokémon's course.",
+    "move_learnset": [
+        {
+            "move": "Defense Curl",
+            "level": 1,
+            "variations": [
+                "Golem"
+            ]
+        },
+        {
+            "move": "Heavy Slam",
+            "level": 1,
+            "variations": [
+                "Golem"
+            ]
+        },
+        {
+            "move": "Mud Sport",
+            "level": 1,
+            "variations": [
+                "Golem"
+            ]
+        },
+        {
+            "move": "Rock Polish",
+            "level": 1,
+            "variations": [
+                "Golem"
+            ]
+        },
+        {
+            "move": "Tackle",
+            "level": 1,
+            "variations": [
+                "Golem"
+            ]
+        },
+        {
+            "move": "Mud Sport",
+            "level": 4,
+            "variations": [
+                "Golem"
+            ]
+        },
+        {
+            "move": "Rock Polish",
+            "level": 6,
+            "variations": [
+                "Golem"
+            ]
+        },
+        {
+            "move": "Steamroller",
+            "level": 10,
+            "variations": [
+                "Golem"
+            ]
+        },
+        {
+            "move": "Magnitude",
+            "level": 12,
+            "variations": [
+                "Golem"
+            ]
+        },
+        {
+            "move": "Rock Throw",
+            "level": 16,
+            "variations": [
+                "Golem"
+            ]
+        },
+        {
+            "move": "Smack Down",
+            "level": 18,
+            "variations": [
+                "Golem"
+            ]
+        },
+        {
+            "move": "Bulldoze",
+            "level": 22,
+            "variations": [
+                "Golem"
+            ]
+        },
+        {
+            "move": "Self-Destruct",
+            "level": 24,
+            "variations": [
+                "Golem"
+            ]
+        },
+        {
+            "move": "Stealth Rock",
+            "level": 30,
+            "variations": [
+                "Golem"
+            ]
+        },
+        {
+            "move": "Rock Blast",
+            "level": 34,
+            "variations": [
+                "Golem"
+            ]
+        },
+        {
+            "move": "Earthquake",
+            "level": 40,
+            "variations": [
+                "Golem"
+            ]
+        },
+        {
+            "move": "Explosion",
+            "level": 44,
+            "variations": [
+                "Golem"
+            ]
+        },
+        {
+            "move": "Double-Edge",
+            "level": 50,
+            "variations": [
+                "Golem"
+            ]
+        },
+        {
+            "move": "Stone Edge",
+            "level": 54,
+            "variations": [
+                "Golem"
+            ]
+        },
+        {
+            "move": "Heavy Slam",
+            "level": 60,
+            "variations": [
+                "Golem"
+            ]
+        },
+        {
+            "move": "Autotomize",
+            "egg_move": true,
+            "variations": [
+                "Golem"
+            ]
+        },
+        {
+            "move": "Block",
+            "egg_move": true,
+            "variations": [
+                "Golem"
+            ]
+        },
+        {
+            "move": "Curse",
+            "egg_move": true,
+            "variations": [
+                "Golem"
+            ]
+        },
+        {
+            "move": "Endure",
+            "egg_move": true,
+            "variations": [
+                "Golem"
+            ]
+        },
+        {
+            "move": "Flail",
+            "egg_move": true,
+            "variations": [
+                "Golem"
+            ]
+        },
+        {
+            "move": "Focus Punch",
+            "egg_move": true,
+            "variations": [
+                "Golem"
+            ]
+        },
+        {
+            "move": "Hammer Arm",
+            "egg_move": true,
+            "variations": [
+                "Golem"
+            ]
+        },
+        {
+            "move": "Mega Punch",
+            "egg_move": true,
+            "variations": [
+                "Golem"
+            ]
+        },
+        {
+            "move": "Rock Climb",
+            "egg_move": true,
+            "variations": [
+                "Golem"
+            ]
+        },
+        {
+            "move": "Wide Guard",
+            "egg_move": true,
+            "variations": [
+                "Golem"
+            ]
+        },
+        {
+            "move": "Roar",
+            "tm": "TM5",
+            "variations": [
+                "Golem"
+            ]
+        },
+        {
+            "move": "Toxic",
+            "tm": "TM6",
+            "variations": [
+                "Golem"
+            ]
+        },
+        {
+            "move": "Hidden Power",
+            "tm": "TM10",
+            "variations": [
+                "Golem"
+            ]
+        },
+        {
+            "move": "Sunny Day",
+            "tm": "TM11",
+            "variations": [
+                "Golem"
+            ]
+        },
+        {
+            "move": "Hyper Beam",
+            "tm": "TM15",
+            "variations": [
+                "Golem"
+            ]
+        },
+        {
+            "move": "Protect",
+            "tm": "TM17",
+            "variations": [
+                "Golem"
+            ]
+        },
+        {
+            "move": "Frustration",
+            "tm": "TM21",
+            "variations": [
+                "Golem"
+            ]
+        },
+        {
+            "move": "Smack Down",
+            "tm": "TM23",
+            "variations": [
+                "Golem"
+            ]
+        },
+        {
+            "move": "Earthquake",
+            "tm": "TM26",
+            "variations": [
+                "Golem"
+            ]
+        },
+        {
+            "move": "Return",
+            "tm": "TM27",
+            "variations": [
+                "Golem"
+            ]
+        },
+        {
+            "move": "Brick Break",
+            "tm": "TM31",
+            "variations": [
+                "Golem"
+            ]
+        },
+        {
+            "move": "Double Team",
+            "tm": "TM32",
+            "variations": [
+                "Golem"
+            ]
+        },
+        {
+            "move": "Flamethrower",
+            "tm": "TM35",
+            "variations": [
+                "Golem"
+            ]
+        },
+        {
+            "move": "Sandstorm",
+            "tm": "TM37",
+            "variations": [
+                "Golem"
+            ]
+        },
+        {
+            "move": "Fire Blast",
+            "tm": "TM38",
+            "variations": [
+                "Golem"
+            ]
+        },
+        {
+            "move": "Rock Tomb",
+            "tm": "TM39",
+            "variations": [
+                "Golem"
+            ]
+        },
+        {
+            "move": "Facade",
+            "tm": "TM42",
+            "variations": [
+                "Golem"
+            ]
+        },
+        {
+            "move": "Rest",
+            "tm": "TM44",
+            "variations": [
+                "Golem"
+            ]
+        },
+        {
+            "move": "Attract",
+            "tm": "TM45",
+            "variations": [
+                "Golem"
+            ]
+        },
+        {
+            "move": "Round",
+            "tm": "TM48",
+            "variations": [
+                "Golem"
+            ]
+        },
+        {
+            "move": "Focus Blast",
+            "tm": "TM52",
+            "variations": [
+                "Golem"
+            ]
+        },
+        {
+            "move": "Fling",
+            "tm": "TM56",
+            "variations": [
+                "Golem"
+            ]
+        },
+        {
+            "move": "Explosion",
+            "tm": "TM64",
+            "variations": [
+                "Golem"
+            ]
+        },
+        {
+            "move": "Giga Impact",
+            "tm": "TM68",
+            "variations": [
+                "Golem"
+            ]
+        },
+        {
+            "move": "Rock Polish",
+            "tm": "TM69",
+            "variations": [
+                "Golem"
+            ]
+        },
+        {
+            "move": "Stone Edge",
+            "tm": "TM71",
+            "variations": [
+                "Golem"
+            ]
+        },
+        {
+            "move": "Gyro Ball",
+            "tm": "TM74",
+            "variations": [
+                "Golem"
+            ]
+        },
+        {
+            "move": "Bulldoze",
+            "tm": "TM78",
+            "variations": [
+                "Golem"
+            ]
+        },
+        {
+            "move": "Rock Slide",
+            "tm": "TM80",
+            "variations": [
+                "Golem"
+            ]
+        },
+        {
+            "move": "Swagger",
+            "tm": "TM87",
+            "variations": [
+                "Golem"
+            ]
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": "TM88",
+            "variations": [
+                "Golem"
+            ]
+        },
+        {
+            "move": "Substitute",
+            "tm": "TM90",
+            "variations": [
+                "Golem"
+            ]
+        },
+        {
+            "move": "Nature Power",
+            "tm": "TM96",
+            "variations": [
+                "Golem"
+            ]
+        },
+        {
+            "move": "Confide",
+            "tm": "TM100",
+            "variations": [
+                "Golem"
+            ]
+        }
+    ]
+}

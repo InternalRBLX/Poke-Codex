@@ -1,0 +1,288 @@
+{
+    "name": "Zweilous",
+    "national_id": 634,
+    "types": [
+        "Dark",
+        "Dragon"
+    ],
+    "abilities": [
+        {
+            "name": "Hustle"
+        }
+    ],
+    "catch_rate": 45,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Dragon"
+    ],
+    "hatch_time": [
+        10455,
+        10709
+    ],
+    "height_us": "4'07\"",
+    "height_eu": "1.4 m",
+    "weight_us": "110.2 lbs.",
+    "weight_eu": "50.0 kg",
+    "base_exp_yield": 147,
+    "leveling_rate": "Slow",
+    "base_friendship": 35,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 2,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 72,
+        "atk": 85,
+        "def": 70,
+        "sp_atk": 65,
+        "sp_def": 70,
+        "speed": 58
+    },
+    "evolution_from": "Deino",
+    "evolutions": [
+        {
+            "to": "Hydreigon",
+            "level": 64
+        }
+    ],
+    "species": "Hostile Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "Their two heads will fight each other over a single piece of food. Zweilous are covered in scars even without battling others.",
+    "move_learnset": [
+        {
+            "move": "Tackle",
+            "level": 1
+        },
+        {
+            "move": "Double Hit",
+            "level": 1
+        },
+        {
+            "move": "Focus Energy",
+            "level": 1
+        },
+        {
+            "move": "Dragon Breath",
+            "level": 1
+        },
+        {
+            "move": "Bite",
+            "level": 1
+        },
+        {
+            "move": "Roar",
+            "level": 12
+        },
+        {
+            "move": "Assurance",
+            "level": 16
+        },
+        {
+            "move": "Headbutt",
+            "level": 20
+        },
+        {
+            "move": "Work Up",
+            "level": 24
+        },
+        {
+            "move": "Slam",
+            "level": 28
+        },
+        {
+            "move": "Crunch",
+            "level": 32
+        },
+        {
+            "move": "Scary Face",
+            "level": 36
+        },
+        {
+            "move": "Dragon Pulse",
+            "level": 40
+        },
+        {
+            "move": "Body Slam",
+            "level": 44
+        },
+        {
+            "move": "Hyper Voice",
+            "level": 48
+        },
+        {
+            "move": "Dragon Rush",
+            "level": 54
+        },
+        {
+            "move": "Nasty Plot",
+            "level": 60
+        },
+        {
+            "move": "Outrage",
+            "level": 66
+        },
+        {
+            "move": "Thunder Wave",
+            "tm": true
+        },
+        {
+            "move": "Screech",
+            "tm": true
+        },
+        {
+            "move": "Rest",
+            "tm": true
+        },
+        {
+            "move": "Thief",
+            "tm": true
+        },
+        {
+            "move": "Snore",
+            "tm": true
+        },
+        {
+            "move": "Protect",
+            "tm": true
+        },
+        {
+            "move": "Scary Face",
+            "tm": true
+        },
+        {
+            "move": "Attract",
+            "tm": true
+        },
+        {
+            "move": "Rain Dance",
+            "tm": true
+        },
+        {
+            "move": "Sunny Day",
+            "tm": true
+        },
+        {
+            "move": "Beat Up",
+            "tm": true
+        },
+        {
+            "move": "Facade",
+            "tm": true
+        },
+        {
+            "move": "Helping Hand",
+            "tm": true
+        },
+        {
+            "move": "Assurance",
+            "tm": true
+        },
+        {
+            "move": "Thunder Fang",
+            "tm": true
+        },
+        {
+            "move": "Ice Fang",
+            "tm": true
+        },
+        {
+            "move": "Fire Fang",
+            "tm": true
+        },
+        {
+            "move": "Round",
+            "tm": true
+        },
+        {
+            "move": "Body Slam",
+            "tm": true
+        },
+        {
+            "move": "Focus Energy",
+            "tm": true
+        },
+        {
+            "move": "Substitute",
+            "tm": true
+        },
+        {
+            "move": "Outrage",
+            "tm": true
+        },
+        {
+            "move": "Endure",
+            "tm": true
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": true
+        },
+        {
+            "move": "Crunch",
+            "tm": true
+        },
+        {
+            "move": "Uproar",
+            "tm": true
+        },
+        {
+            "move": "Taunt",
+            "tm": true
+        },
+        {
+            "move": "Superpower",
+            "tm": true
+        },
+        {
+            "move": "Hyper Voice",
+            "tm": true
+        },
+        {
+            "move": "Dark Pulse",
+            "tm": true
+        },
+        {
+            "move": "Dragon Pulse",
+            "tm": true
+        },
+        {
+            "move": "Earth Power",
+            "tm": true
+        },
+        {
+            "move": "Nasty Plot",
+            "tm": true
+        },
+        {
+            "move": "Zen Headbutt",
+            "tm": true
+        },
+        {
+            "move": "Work Up",
+            "tm": true
+        },
+        {
+            "move": "Double Hit",
+            "egg_move": true
+        },
+        {
+            "move": "Astonish",
+            "egg_move": true
+        },
+        {
+            "move": "Head Smash",
+            "egg_move": true
+        },
+        {
+            "move": "Belch",
+            "egg_move": true
+        }
+    ]
+}

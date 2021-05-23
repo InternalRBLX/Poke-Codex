@@ -1,0 +1,304 @@
+{
+    "name": "Solosis",
+    "national_id": 577,
+    "types": [
+        "Psychic"
+    ],
+    "items": [
+        {
+            "name": "Persim Berry",
+            "chance": 50
+        }
+    ],
+    "abilities": [
+        {
+            "name": "Overcoat"
+        },
+        {
+            "name": "Magic Guard"
+        },
+        {
+            "name": "Regenerator",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 200,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Amorphous"
+    ],
+    "hatch_time": [
+        5355,
+        5609
+    ],
+    "height_us": "1'00\"",
+    "height_eu": "0.3 m",
+    "weight_us": "2.2 lbs.",
+    "weight_eu": "1.0 kg",
+    "base_exp_yield": 58,
+    "leveling_rate": "Medium Slow",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 1,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 45,
+        "atk": 30,
+        "def": 40,
+        "sp_atk": 105,
+        "sp_def": 50,
+        "speed": 20
+    },
+    "evolution_from": null,
+    "evolutions": [
+        {
+            "to": "Duosion",
+            "level": 32
+        }
+    ],
+    "species": "Cell Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "Many say that the special liquid covering this Pokémon’s body would allow it to survive in the vacuum of space.",
+    "move_learnset": [
+        {
+            "move": "Protect",
+            "level": 1
+        },
+        {
+            "move": "Confusion",
+            "level": 1
+        },
+        {
+            "move": "Recover",
+            "level": 4
+        },
+        {
+            "move": "Endeavor",
+            "level": 8
+        },
+        {
+            "move": "Psybeam",
+            "level": 12
+        },
+        {
+            "move": "Charm",
+            "level": 16
+        },
+        {
+            "move": "Psyshock",
+            "level": 20
+        },
+        {
+            "move": "Light Screen",
+            "level": 24
+        },
+        {
+            "move": "Reflect",
+            "level": 24
+        },
+        {
+            "move": "Ally Switch",
+            "level": 28
+        },
+        {
+            "move": "Pain Split",
+            "level": 33
+        },
+        {
+            "move": "Psychic",
+            "level": 36
+        },
+        {
+            "move": "Skill Swap",
+            "level": 40
+        },
+        {
+            "move": "Future Sight",
+            "level": 44
+        },
+        {
+            "move": "Wonder Room",
+            "level": 48
+        },
+        {
+            "move": "Thunder Wave",
+            "tm": true
+        },
+        {
+            "move": "Light Screen",
+            "tm": true
+        },
+        {
+            "move": "Reflect",
+            "tm": true
+        },
+        {
+            "move": "Safeguard",
+            "tm": true
+        },
+        {
+            "move": "Rest",
+            "tm": true
+        },
+        {
+            "move": "Rock Slide",
+            "tm": true
+        },
+        {
+            "move": "Snore",
+            "tm": true
+        },
+        {
+            "move": "Protect",
+            "tm": true
+        },
+        {
+            "move": "Charm",
+            "tm": true
+        },
+        {
+            "move": "Attract",
+            "tm": true
+        },
+        {
+            "move": "Rain Dance",
+            "tm": true
+        },
+        {
+            "move": "Facade",
+            "tm": true
+        },
+        {
+            "move": "Helping Hand",
+            "tm": true
+        },
+        {
+            "move": "Imprison",
+            "tm": true
+        },
+        {
+            "move": "Rock Tomb",
+            "tm": true
+        },
+        {
+            "move": "Power Swap",
+            "tm": true
+        },
+        {
+            "move": "Guard Swap",
+            "tm": true
+        },
+        {
+            "move": "Trick Room",
+            "tm": true
+        },
+        {
+            "move": "Wonder Room",
+            "tm": true
+        },
+        {
+            "move": "Round",
+            "tm": true
+        },
+        {
+            "move": "Psychic Terrain",
+            "tm": true
+        },
+        {
+            "move": "Thunder",
+            "tm": true
+        },
+        {
+            "move": "Psychic",
+            "tm": true
+        },
+        {
+            "move": "Substitute",
+            "tm": true
+        },
+        {
+            "move": "Psyshock",
+            "tm": true
+        },
+        {
+            "move": "Endure",
+            "tm": true
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": true
+        },
+        {
+            "move": "Encore",
+            "tm": true
+        },
+        {
+            "move": "Shadow Ball",
+            "tm": true
+        },
+        {
+            "move": "Future Sight",
+            "tm": true
+        },
+        {
+            "move": "Trick",
+            "tm": true
+        },
+        {
+            "move": "Skill Swap",
+            "tm": true
+        },
+        {
+            "move": "Iron Defense",
+            "tm": true
+        },
+        {
+            "move": "Calm Mind",
+            "tm": true
+        },
+        {
+            "move": "Gyro Ball",
+            "tm": true
+        },
+        {
+            "move": "Energy Ball",
+            "tm": true
+        },
+        {
+            "move": "Zen Headbutt",
+            "tm": true
+        },
+        {
+            "move": "Flash Cannon",
+            "tm": true
+        },
+        {
+            "move": "Stored Power",
+            "tm": true
+        },
+        {
+            "move": "Ally Switch",
+            "tm": true
+        },
+        {
+            "move": "Astonish",
+            "egg_move": true
+        },
+        {
+            "move": "Confuse Ray",
+            "egg_move": true
+        },
+        {
+            "move": "Acid Armor",
+            "egg_move": true
+        }
+    ]
+}

@@ -1,0 +1,266 @@
+{
+    "name": "Boltund",
+    "national_id": 836,
+    "types": [
+        "Electric"
+    ],
+    "abilities": [
+        {
+            "name": "Strong Jaw"
+        },
+        {
+            "name": "Competitive",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 45,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Field"
+    ],
+    "hatch_time": [
+        5140,
+        5396
+    ],
+    "height_us": "3'03\"",
+    "height_eu": "1.0 m",
+    "weight_us": "75.0 lbs.",
+    "weight_eu": "34.0 kg",
+    "base_exp_yield": 172,
+    "leveling_rate": "Fast",
+    "base_friendship": 50,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 2
+    },
+    "base_stats": {
+        "hp": 69,
+        "atk": 90,
+        "def": 60,
+        "sp_atk": 90,
+        "sp_def": 60,
+        "speed": 121
+    },
+    "evolution_from": "Yamper",
+    "evolutions": [],
+    "species": "Dog Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "It sends electricity through its legs to boost their strength. Running at top speed, it easily breaks 50 mph.",
+    "move_learnset": [
+        {
+            "move": "Electrify",
+            "level": 1
+        },
+        {
+            "move": "Tackle",
+            "level": 1
+        },
+        {
+            "move": "Tail Whip",
+            "level": 1
+        },
+        {
+            "move": "Nuzzle",
+            "level": 1
+        },
+        {
+            "move": "Bite",
+            "level": 1
+        },
+        {
+            "move": "Roar",
+            "level": 15
+        },
+        {
+            "move": "Spark",
+            "level": 20
+        },
+        {
+            "move": "Charm",
+            "level": 28
+        },
+        {
+            "move": "Crunch",
+            "level": 34
+        },
+        {
+            "move": "Charge",
+            "level": 41
+        },
+        {
+            "move": "Wild Charge",
+            "level": 48
+        },
+        {
+            "move": "Play Rough",
+            "level": 55
+        },
+        {
+            "move": "Electric Terrain",
+            "level": 62
+        },
+        {
+            "move": "Hyper Beam",
+            "tm": true
+        },
+        {
+            "move": "Giga Impact",
+            "tm": true
+        },
+        {
+            "move": "Thunder Wave",
+            "tm": true
+        },
+        {
+            "move": "Dig",
+            "tm": true
+        },
+        {
+            "move": "Rest",
+            "tm": true
+        },
+        {
+            "move": "Snore",
+            "tm": true
+        },
+        {
+            "move": "Protect",
+            "tm": true
+        },
+        {
+            "move": "Charm",
+            "tm": true
+        },
+        {
+            "move": "Attract",
+            "tm": true
+        },
+        {
+            "move": "Facade",
+            "tm": true
+        },
+        {
+            "move": "Swift",
+            "tm": true
+        },
+        {
+            "move": "Helping Hand",
+            "tm": true
+        },
+        {
+            "move": "Thunder Fang",
+            "tm": true
+        },
+        {
+            "move": "Fire Fang",
+            "tm": true
+        },
+        {
+            "move": "Round",
+            "tm": true
+        },
+        {
+            "move": "Volt Switch",
+            "tm": true
+        },
+        {
+            "move": "Snarl",
+            "tm": true
+        },
+        {
+            "move": "Electric Terrain",
+            "tm": true
+        },
+        {
+            "move": "Eerie Impulse",
+            "tm": true
+        },
+        {
+            "move": "Thunderbolt",
+            "tm": true
+        },
+        {
+            "move": "Thunder",
+            "tm": true
+        },
+        {
+            "move": "Agility",
+            "tm": true
+        },
+        {
+            "move": "Focus Energy",
+            "tm": true
+        },
+        {
+            "move": "Substitute",
+            "tm": true
+        },
+        {
+            "move": "Endure",
+            "tm": true
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": true
+        },
+        {
+            "move": "Crunch",
+            "tm": true
+        },
+        {
+            "move": "Uproar",
+            "tm": true
+        },
+        {
+            "move": "Hyper Voice",
+            "tm": true
+        },
+        {
+            "move": "Bulk Up",
+            "tm": true
+        },
+        {
+            "move": "Electro Ball",
+            "tm": true
+        },
+        {
+            "move": "Wild Charge",
+            "tm": true
+        },
+        {
+            "move": "Play Rough",
+            "tm": true
+        },
+        {
+            "move": "Psychic Fangs",
+            "tm": true
+        },
+        {
+            "move": "Double-Edge",
+            "egg_move": true
+        },
+        {
+            "move": "Sand Attack",
+            "egg_move": true
+        },
+        {
+            "move": "Flame Charge",
+            "egg_move": true
+        },
+        {
+            "move": "Discharge",
+            "egg_move": true
+        },
+        {
+            "move": "Howl",
+            "egg_move": true
+        }
+    ]
+}

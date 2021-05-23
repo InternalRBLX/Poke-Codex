@@ -1,0 +1,311 @@
+{
+    "name": "Omastar",
+    "national_id": 139,
+    "types": [
+        "Rock",
+        "Water"
+    ],
+    "abilities": [
+        {
+            "name": "Swift Swim"
+        },
+        {
+            "name": "Shell Armor"
+        },
+        {
+            "name": "Weak Armor",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 45,
+    "gender_ratios": {
+        "male": 87.5,
+        "female": 12.5
+    },
+    "egg_groups": [
+        "Water 1",
+        "Water 3"
+    ],
+    "hatch_time": [
+        7905,
+        8159
+    ],
+    "height_us": "3'03\"",
+    "height_eu": "1.0 m",
+    "weight_us": "77.2 lbs.",
+    "weight_eu": "35.0 kg",
+    "base_exp_yield": 173,
+    "leveling_rate": "Medium Fast",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 2,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 70,
+        "atk": 60,
+        "def": 125,
+        "sp_atk": 115,
+        "sp_def": 70,
+        "speed": 55
+    },
+    "evolution_from": "Omanyte",
+    "evolutions": [],
+    "species": "Spiral Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "Omastar uses its tentacles to capture its prey. It is believed to have become extinct because its shell grew too large and heavy, causing its movements to become too slow and ponderous.",
+    "move_learnset": [
+        {
+            "move": "Bite",
+            "level": 1
+        },
+        {
+            "move": "Constrict",
+            "level": 1
+        },
+        {
+            "move": "Hydro Pump",
+            "level": 1
+        },
+        {
+            "move": "Spike Cannon",
+            "level": 1
+        },
+        {
+            "move": "Withdraw",
+            "level": 1
+        },
+        {
+            "move": "Bite",
+            "level": 7
+        },
+        {
+            "move": "Water Gun",
+            "level": 10
+        },
+        {
+            "move": "Rollout",
+            "level": 16
+        },
+        {
+            "move": "Leer",
+            "level": 19
+        },
+        {
+            "move": "Mud Shot",
+            "level": 25
+        },
+        {
+            "move": "Brine",
+            "level": 28
+        },
+        {
+            "move": "Protect",
+            "level": 34
+        },
+        {
+            "move": "Ancient Power",
+            "level": 37
+        },
+        {
+            "move": "Tickle",
+            "level": 48
+        },
+        {
+            "move": "Rock Blast",
+            "level": 56
+        },
+        {
+            "move": "Shell Smash",
+            "level": 67
+        },
+        {
+            "move": "Hydro Pump",
+            "level": 75
+        },
+        {
+            "move": "Aurora Beam",
+            "egg_move": true
+        },
+        {
+            "move": "Bide",
+            "egg_move": true
+        },
+        {
+            "move": "Bubble Beam",
+            "egg_move": true
+        },
+        {
+            "move": "Haze",
+            "egg_move": true
+        },
+        {
+            "move": "Knock Off",
+            "egg_move": true
+        },
+        {
+            "move": "Muddy Water",
+            "egg_move": true
+        },
+        {
+            "move": "Reflect Type",
+            "egg_move": true
+        },
+        {
+            "move": "Slam",
+            "egg_move": true
+        },
+        {
+            "move": "Spikes",
+            "egg_move": true
+        },
+        {
+            "move": "Supersonic",
+            "egg_move": true
+        },
+        {
+            "move": "Toxic Spikes",
+            "egg_move": true
+        },
+        {
+            "move": "Water Pulse",
+            "egg_move": true
+        },
+        {
+            "move": "Whirlpool",
+            "egg_move": true
+        },
+        {
+            "move": "Wring Out",
+            "egg_move": true
+        },
+        {
+            "move": "Toxic",
+            "tm": "TM6"
+        },
+        {
+            "move": "Hail",
+            "tm": "TM7"
+        },
+        {
+            "move": "Hidden Power",
+            "tm": "TM10"
+        },
+        {
+            "move": "Ice Beam",
+            "tm": "TM13"
+        },
+        {
+            "move": "Blizzard",
+            "tm": "TM14"
+        },
+        {
+            "move": "Hyper Beam",
+            "tm": "TM15"
+        },
+        {
+            "move": "Protect",
+            "tm": "TM17"
+        },
+        {
+            "move": "Rain Dance",
+            "tm": "TM18"
+        },
+        {
+            "move": "Frustration",
+            "tm": "TM21"
+        },
+        {
+            "move": "Smack Down",
+            "tm": "TM23"
+        },
+        {
+            "move": "Return",
+            "tm": "TM27"
+        },
+        {
+            "move": "Double Team",
+            "tm": "TM32"
+        },
+        {
+            "move": "Sandstorm",
+            "tm": "TM37"
+        },
+        {
+            "move": "Rock Tomb",
+            "tm": "TM39"
+        },
+        {
+            "move": "Facade",
+            "tm": "TM42"
+        },
+        {
+            "move": "Rest",
+            "tm": "TM44"
+        },
+        {
+            "move": "Attract",
+            "tm": "TM45"
+        },
+        {
+            "move": "Thief",
+            "tm": "TM46"
+        },
+        {
+            "move": "Round",
+            "tm": "TM48"
+        },
+        {
+            "move": "Scald",
+            "tm": "TM55"
+        },
+        {
+            "move": "Giga Impact",
+            "tm": "TM68"
+        },
+        {
+            "move": "Rock Polish",
+            "tm": "TM69"
+        },
+        {
+            "move": "Stone Edge",
+            "tm": "TM71"
+        },
+        {
+            "move": "Gyro Ball",
+            "tm": "TM74"
+        },
+        {
+            "move": "Rock Slide",
+            "tm": "TM80"
+        },
+        {
+            "move": "Swagger",
+            "tm": "TM87"
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": "TM88"
+        },
+        {
+            "move": "Substitute",
+            "tm": "TM90"
+        },
+        {
+            "move": "Surf",
+            "tm": "TM94"
+        },
+        {
+            "move": "Waterfall",
+            "tm": "TM98"
+        },
+        {
+            "move": "Confide",
+            "tm": "TM100"
+        }
+    ]
+}

@@ -1,0 +1,363 @@
+{
+    "name": "Sceptile",
+    "national_id": 254,
+    "types": [
+        "Grass"
+    ],
+    "abilities": [
+        {
+            "name": "Overgrow"
+        },
+        {
+            "name": "Unburden",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 45,
+    "gender_ratios": {
+        "male": 87.5,
+        "female": 12.5
+    },
+    "egg_groups": [
+        "Monster",
+        "Dragon"
+    ],
+    "hatch_time": [
+        5355,
+        5609
+    ],
+    "height_us": "5'07\"",
+    "height_eu": "1.7 m",
+    "weight_us": "115.1 lbs.",
+    "weight_eu": "52.2 kg",
+    "base_exp_yield": 239,
+    "leveling_rate": "Medium Slow",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 3
+    },
+    "base_stats": {
+        "hp": 70,
+        "atk": 85,
+        "def": 65,
+        "sp_atk": 105,
+        "sp_def": 85,
+        "speed": 120
+    },
+    "evolution_from": "Grovyle",
+    "evolutions": [],
+    "species": "Forest Pokémon",
+    "mega_evolves": true,
+    "pokedex_entry": "Sceptile has seeds growing on its back. They are said to be bursting with nutrients that revitalize trees. This Pokémon raises the trees in a forest with loving care.",
+    "move_learnset": [
+        {
+            "move": "Absorb",
+            "level": 1
+        },
+        {
+            "move": "Dual Chop",
+            "level": 1
+        },
+        {
+            "move": "Fury Cutter",
+            "level": 1
+        },
+        {
+            "move": "Leaf Storm",
+            "level": 1
+        },
+        {
+            "move": "Leer",
+            "level": 1
+        },
+        {
+            "move": "Night Slash",
+            "level": 1
+        },
+        {
+            "move": "Pound",
+            "level": 1
+        },
+        {
+            "move": "Quick Attack",
+            "level": 1
+        },
+        {
+            "move": "Absorb",
+            "level": 5
+        },
+        {
+            "move": "Quick Attack",
+            "level": 9
+        },
+        {
+            "move": "Mega Drain",
+            "level": 13
+        },
+        {
+            "move": "Pursuit",
+            "level": 18
+        },
+        {
+            "move": "Leaf Blade",
+            "level": 23
+        },
+        {
+            "move": "Agility",
+            "level": 28
+        },
+        {
+            "move": "Slam",
+            "level": 33
+        },
+        {
+            "move": "Detect",
+            "level": 39
+        },
+        {
+            "move": "X-Scissor",
+            "level": 45
+        },
+        {
+            "move": "False Swipe",
+            "level": 51
+        },
+        {
+            "move": "Quick Guard",
+            "level": 57
+        },
+        {
+            "move": "Leaf Storm",
+            "level": 63
+        },
+        {
+            "move": "Screech",
+            "level": 69
+        },
+        {
+            "move": "Bullet Seed",
+            "egg_move": true
+        },
+        {
+            "move": "Crunch",
+            "egg_move": true
+        },
+        {
+            "move": "Crush Claw",
+            "egg_move": true
+        },
+        {
+            "move": "Double Kick",
+            "egg_move": true
+        },
+        {
+            "move": "Dragon Breath",
+            "egg_move": true
+        },
+        {
+            "move": "Endeavor",
+            "egg_move": true
+        },
+        {
+            "move": "Grass Whistle",
+            "egg_move": true
+        },
+        {
+            "move": "Grassy Terrain",
+            "egg_move": true
+        },
+        {
+            "move": "Leaf Storm",
+            "egg_move": true
+        },
+        {
+            "move": "Leech Seed",
+            "egg_move": true
+        },
+        {
+            "move": "Magical Leaf",
+            "egg_move": true
+        },
+        {
+            "move": "Mud Sport",
+            "egg_move": true
+        },
+        {
+            "move": "Natural Gift",
+            "egg_move": true
+        },
+        {
+            "move": "Razor Wind",
+            "egg_move": true
+        },
+        {
+            "move": "Synthesis",
+            "egg_move": true
+        },
+        {
+            "move": "Worry Seed",
+            "egg_move": true
+        },
+        {
+            "move": "Work Up",
+            "tm": "TM1"
+        },
+        {
+            "move": "Dragon Claw",
+            "tm": "TM2"
+        },
+        {
+            "move": "Roar",
+            "tm": "TM5"
+        },
+        {
+            "move": "Toxic",
+            "tm": "TM6"
+        },
+        {
+            "move": "Hidden Power",
+            "tm": "TM10"
+        },
+        {
+            "move": "Sunny Day",
+            "tm": "TM11"
+        },
+        {
+            "move": "Hyper Beam",
+            "tm": "TM15"
+        },
+        {
+            "move": "Protect",
+            "tm": "TM17"
+        },
+        {
+            "move": "Safeguard",
+            "tm": "TM20"
+        },
+        {
+            "move": "Frustration",
+            "tm": "TM21"
+        },
+        {
+            "move": "Solar Beam",
+            "tm": "TM22"
+        },
+        {
+            "move": "Earthquake",
+            "tm": "TM26"
+        },
+        {
+            "move": "Return",
+            "tm": "TM27"
+        },
+        {
+            "move": "Brick Break",
+            "tm": "TM31"
+        },
+        {
+            "move": "Double Team",
+            "tm": "TM32"
+        },
+        {
+            "move": "Rock Tomb",
+            "tm": "TM39"
+        },
+        {
+            "move": "Aerial Ace",
+            "tm": "TM40"
+        },
+        {
+            "move": "Facade",
+            "tm": "TM42"
+        },
+        {
+            "move": "Rest",
+            "tm": "TM44"
+        },
+        {
+            "move": "Attract",
+            "tm": "TM45"
+        },
+        {
+            "move": "Low Sweep",
+            "tm": "TM47"
+        },
+        {
+            "move": "Round",
+            "tm": "TM48"
+        },
+        {
+            "move": "Focus Blast",
+            "tm": "TM52"
+        },
+        {
+            "move": "Energy Ball",
+            "tm": "TM53"
+        },
+        {
+            "move": "False Swipe",
+            "tm": "TM54"
+        },
+        {
+            "move": "Fling",
+            "tm": "TM56"
+        },
+        {
+            "move": "Brutal Swing",
+            "tm": "TM59"
+        },
+        {
+            "move": "Acrobatics",
+            "tm": "TM62"
+        },
+        {
+            "move": "Giga Impact",
+            "tm": "TM68"
+        },
+        {
+            "move": "Swords Dance",
+            "tm": "TM75"
+        },
+        {
+            "move": "Bulldoze",
+            "tm": "TM78"
+        },
+        {
+            "move": "Rock Slide",
+            "tm": "TM80"
+        },
+        {
+            "move": "X-Scissor",
+            "tm": "TM81"
+        },
+        {
+            "move": "Grass Knot",
+            "tm": "TM86"
+        },
+        {
+            "move": "Swagger",
+            "tm": "TM87"
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": "TM88"
+        },
+        {
+            "move": "Substitute",
+            "tm": "TM90"
+        },
+        {
+            "move": "Nature Power",
+            "tm": "TM96"
+        },
+        {
+            "move": "Confide",
+            "tm": "TM100"
+        }
+    ]
+}

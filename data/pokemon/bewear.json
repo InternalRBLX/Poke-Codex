@@ -1,0 +1,322 @@
+{
+    "name": "Bewear",
+    "national_id": 760,
+    "types": [
+        "Normal",
+        "Fighting"
+    ],
+    "abilities": [
+        {
+            "name": "Fluffy"
+        },
+        {
+            "name": "Klutz"
+        },
+        {
+            "name": "Unnerve",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 70,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Field"
+    ],
+    "hatch_time": [
+        3855,
+        4111
+    ],
+    "height_us": "6'11\"",
+    "height_eu": "2.1 m",
+    "weight_us": "297.6 lbs.",
+    "weight_eu": "135.0 kg",
+    "base_exp_yield": 175,
+    "leveling_rate": "Medium Fast",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 2,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 120,
+        "atk": 125,
+        "def": 80,
+        "sp_atk": 55,
+        "sp_def": 60,
+        "speed": 60
+    },
+    "evolution_from": "Stufful",
+    "evolutions": [],
+    "species": "Strong Arm Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "It waves its hands wildly in intimidation and warning. Life is over for anyone who doesn’t run away as fast as possible.",
+    "move_learnset": [
+        {
+            "move": "Bind",
+            "evo": true
+        },
+        {
+            "move": "Bind",
+            "level": 1
+        },
+        {
+            "move": "Tackle",
+            "level": 1
+        },
+        {
+            "move": "Leer",
+            "level": 1
+        },
+        {
+            "move": "Baby-Doll Eyes",
+            "level": 1
+        },
+        {
+            "move": "Payback",
+            "level": 1
+        },
+        {
+            "move": "Brutal Swing",
+            "level": 12
+        },
+        {
+            "move": "Endure",
+            "level": 16
+        },
+        {
+            "move": "Strength",
+            "level": 20
+        },
+        {
+            "move": "Take Down",
+            "level": 24
+        },
+        {
+            "move": "Flail",
+            "level": 30
+        },
+        {
+            "move": "Hammer Arm",
+            "level": 36
+        },
+        {
+            "move": "Thrash",
+            "level": 42
+        },
+        {
+            "move": "Pain Split",
+            "level": 48
+        },
+        {
+            "move": "Double-Edge",
+            "level": 54
+        },
+        {
+            "move": "Superpower",
+            "level": 60
+        },
+        {
+            "move": "Mega Punch",
+            "tm": true
+        },
+        {
+            "move": "Mega Kick",
+            "tm": true
+        },
+        {
+            "move": "Ice Punch",
+            "tm": true
+        },
+        {
+            "move": "Thunder Punch",
+            "tm": true
+        },
+        {
+            "move": "Hyper Beam",
+            "tm": true
+        },
+        {
+            "move": "Giga Impact",
+            "tm": true
+        },
+        {
+            "move": "Rest",
+            "tm": true
+        },
+        {
+            "move": "Rock Slide",
+            "tm": true
+        },
+        {
+            "move": "Snore",
+            "tm": true
+        },
+        {
+            "move": "Protect",
+            "tm": true
+        },
+        {
+            "move": "Charm",
+            "tm": true
+        },
+        {
+            "move": "Attract",
+            "tm": true
+        },
+        {
+            "move": "Facade",
+            "tm": true
+        },
+        {
+            "move": "Revenge",
+            "tm": true
+        },
+        {
+            "move": "Brick Break",
+            "tm": true
+        },
+        {
+            "move": "Rock Tomb",
+            "tm": true
+        },
+        {
+            "move": "Payback",
+            "tm": true
+        },
+        {
+            "move": "Fling",
+            "tm": true
+        },
+        {
+            "move": "Drain Punch",
+            "tm": true
+        },
+        {
+            "move": "Shadow Claw",
+            "tm": true
+        },
+        {
+            "move": "Low Sweep",
+            "tm": true
+        },
+        {
+            "move": "Round",
+            "tm": true
+        },
+        {
+            "move": "Bulldoze",
+            "tm": true
+        },
+        {
+            "move": "Brutal Swing",
+            "tm": true
+        },
+        {
+            "move": "Stomping Tantrum",
+            "tm": true
+        },
+        {
+            "move": "Swords Dance",
+            "tm": true
+        },
+        {
+            "move": "Body Slam",
+            "tm": true
+        },
+        {
+            "move": "Low Kick",
+            "tm": true
+        },
+        {
+            "move": "Earthquake",
+            "tm": true
+        },
+        {
+            "move": "Substitute",
+            "tm": true
+        },
+        {
+            "move": "Reversal",
+            "tm": true
+        },
+        {
+            "move": "Endure",
+            "tm": true
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": true
+        },
+        {
+            "move": "Taunt",
+            "tm": true
+        },
+        {
+            "move": "Superpower",
+            "tm": true
+        },
+        {
+            "move": "Dragon Claw",
+            "tm": true
+        },
+        {
+            "move": "Bulk Up",
+            "tm": true
+        },
+        {
+            "move": "Close Combat",
+            "tm": true
+        },
+        {
+            "move": "Focus Blast",
+            "tm": true
+        },
+        {
+            "move": "Zen Headbutt",
+            "tm": true
+        },
+        {
+            "move": "Iron Head",
+            "tm": true
+        },
+        {
+            "move": "Work Up",
+            "tm": true
+        },
+        {
+            "move": "Darkest Lariat",
+            "tm": true
+        },
+        {
+            "move": "High Horsepower",
+            "tm": true
+        },
+        {
+            "move": "Body Press",
+            "tm": true
+        },
+        {
+            "move": "Force Palm",
+            "egg_move": true
+        },
+        {
+            "move": "Rollout",
+            "egg_move": true
+        },
+        {
+            "move": "Defense Curl",
+            "egg_move": true
+        },
+        {
+            "move": "Stomp",
+            "egg_move": true
+        }
+    ]
+}

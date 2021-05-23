@@ -1,0 +1,284 @@
+{
+    "name": "Toxapex",
+    "national_id": 748,
+    "types": [
+        "Poison",
+        "Water"
+    ],
+    "items": [
+        {
+            "name": "Poison Barb",
+            "chance": 5
+        }
+    ],
+    "abilities": [
+        {
+            "name": "Merciless"
+        },
+        {
+            "name": "Limber"
+        },
+        {
+            "name": "Regenerator",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 75,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Water 1"
+    ],
+    "hatch_time": [
+        5140,
+        5396
+    ],
+    "height_us": "2'04\"",
+    "height_eu": "0.7 m",
+    "weight_us": "32.0 lbs.",
+    "weight_eu": "14.5 kg",
+    "base_exp_yield": 173,
+    "leveling_rate": "Medium Fast",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 2,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 50,
+        "atk": 63,
+        "def": 152,
+        "sp_atk": 53,
+        "sp_def": 142,
+        "speed": 35
+    },
+    "evolution_from": "Mareanie",
+    "evolutions": [],
+    "species": "Brutal Star Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "Within the poison sac in its body is a poison so toxic that Pokémon as large as Wailord will still be suffering three days after it first takes effect.",
+    "move_learnset": [
+        {
+            "move": "Baneful Bunker",
+            "evo": true
+        },
+        {
+            "move": "Baneful Bunker",
+            "level": 1
+        },
+        {
+            "move": "Poison Sting",
+            "level": 1
+        },
+        {
+            "move": "Peck",
+            "level": 1
+        },
+        {
+            "move": "Wide Guard",
+            "level": 1
+        },
+        {
+            "move": "Bite",
+            "level": 1
+        },
+        {
+            "move": "Venoshock",
+            "level": 15
+        },
+        {
+            "move": "Recover",
+            "level": 20
+        },
+        {
+            "move": "Pin Missile",
+            "level": 25
+        },
+        {
+            "move": "Toxic Spikes",
+            "level": 30
+        },
+        {
+            "move": "Liquidation",
+            "level": 35
+        },
+        {
+            "move": "Venom Drench",
+            "level": 42
+        },
+        {
+            "move": "Poison Jab",
+            "level": 49
+        },
+        {
+            "move": "Toxic",
+            "level": 56
+        },
+        {
+            "move": "Pin Missile",
+            "tm": true
+        },
+        {
+            "move": "Light Screen",
+            "tm": true
+        },
+        {
+            "move": "Safeguard",
+            "tm": true
+        },
+        {
+            "move": "Rest",
+            "tm": true
+        },
+        {
+            "move": "Snore",
+            "tm": true
+        },
+        {
+            "move": "Protect",
+            "tm": true
+        },
+        {
+            "move": "Icy Wind",
+            "tm": true
+        },
+        {
+            "move": "Attract",
+            "tm": true
+        },
+        {
+            "move": "Rain Dance",
+            "tm": true
+        },
+        {
+            "move": "Hail",
+            "tm": true
+        },
+        {
+            "move": "Facade",
+            "tm": true
+        },
+        {
+            "move": "Mud Shot",
+            "tm": true
+        },
+        {
+            "move": "Brine",
+            "tm": true
+        },
+        {
+            "move": "Payback",
+            "tm": true
+        },
+        {
+            "move": "Cross Poison",
+            "tm": true
+        },
+        {
+            "move": "Venoshock",
+            "tm": true
+        },
+        {
+            "move": "Round",
+            "tm": true
+        },
+        {
+            "move": "Hex",
+            "tm": true
+        },
+        {
+            "move": "Hydro Pump",
+            "tm": true
+        },
+        {
+            "move": "Surf",
+            "tm": true
+        },
+        {
+            "move": "Ice Beam",
+            "tm": true
+        },
+        {
+            "move": "Blizzard",
+            "tm": true
+        },
+        {
+            "move": "Substitute",
+            "tm": true
+        },
+        {
+            "move": "Sludge Bomb",
+            "tm": true
+        },
+        {
+            "move": "Endure",
+            "tm": true
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": true
+        },
+        {
+            "move": "Muddy Water",
+            "tm": true
+        },
+        {
+            "move": "Iron Defense",
+            "tm": true
+        },
+        {
+            "move": "Toxic Spikes",
+            "tm": true
+        },
+        {
+            "move": "Poison Jab",
+            "tm": true
+        },
+        {
+            "move": "Gunk Shot",
+            "tm": true
+        },
+        {
+            "move": "Sludge Wave",
+            "tm": true
+        },
+        {
+            "move": "Scald",
+            "tm": true
+        },
+        {
+            "move": "Venom Drench",
+            "tm": true
+        },
+        {
+            "move": "Liquidation",
+            "tm": true
+        },
+        {
+            "move": "Stockpile",
+            "egg_move": true
+        },
+        {
+            "move": "Swallow",
+            "egg_move": true
+        },
+        {
+            "move": "Spit Up",
+            "egg_move": true
+        },
+        {
+            "move": "Haze",
+            "egg_move": true
+        },
+        {
+            "move": "Infestation",
+            "egg_move": true
+        }
+    ]
+}

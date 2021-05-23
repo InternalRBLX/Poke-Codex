@@ -1,0 +1,312 @@
+{
+    "name": "Cubone",
+    "national_id": 104,
+    "types": [
+        "Ground"
+    ],
+    "items": [
+        {
+            "name": "Thick Club",
+            "chance": 5
+        }
+    ],
+    "abilities": [
+        {
+            "name": "Rock Head"
+        },
+        {
+            "name": "Lightning Rod"
+        },
+        {
+            "name": "Battle Armor",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 190,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Monster"
+    ],
+    "hatch_time": [
+        5355,
+        5609
+    ],
+    "height_us": "1'04\"",
+    "height_eu": "0.4 m",
+    "weight_us": "14.3 lbs.",
+    "weight_eu": "6.5 kg",
+    "base_exp_yield": 64,
+    "leveling_rate": "Medium Fast",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 1,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 50,
+        "atk": 50,
+        "def": 95,
+        "sp_atk": 40,
+        "sp_def": 50,
+        "speed": 35
+    },
+    "evolution_from": null,
+    "evolutions": [
+        {
+            "to": "Marowak",
+            "level": 28
+        }
+    ],
+    "species": "Lonely Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "Cubone pines for the mother it will never see again. Seeing a likeness of its mother in the full moon, it cries. The stains on the skull the Pokémon wears are made by the tears it sheds.",
+    "move_learnset": [
+        {
+            "move": "Growl",
+            "level": 1
+        },
+        {
+            "move": "Tail Whip",
+            "level": 3
+        },
+        {
+            "move": "Bone Club",
+            "level": 7
+        },
+        {
+            "move": "Headbutt",
+            "level": 11
+        },
+        {
+            "move": "Leer",
+            "level": 13
+        },
+        {
+            "move": "Focus Energy",
+            "level": 17
+        },
+        {
+            "move": "Bonemerang",
+            "level": 21
+        },
+        {
+            "move": "Rage",
+            "level": 23
+        },
+        {
+            "move": "False Swipe",
+            "level": 27
+        },
+        {
+            "move": "Thrash",
+            "level": 31
+        },
+        {
+            "move": "Fling",
+            "level": 33
+        },
+        {
+            "move": "Stomping Tantrum",
+            "level": 37
+        },
+        {
+            "move": "Endeavor",
+            "level": 41
+        },
+        {
+            "move": "Double-Edge",
+            "level": 43
+        },
+        {
+            "move": "Retaliate",
+            "level": 47
+        },
+        {
+            "move": "Bone Rush",
+            "level": 51
+        },
+        {
+            "move": "Ancient Power",
+            "egg_move": true
+        },
+        {
+            "move": "Belly Drum",
+            "egg_move": true
+        },
+        {
+            "move": "Chip Away",
+            "egg_move": true
+        },
+        {
+            "move": "Curse",
+            "egg_move": true
+        },
+        {
+            "move": "Detect",
+            "egg_move": true
+        },
+        {
+            "move": "Double Kick",
+            "egg_move": true
+        },
+        {
+            "move": "Endure",
+            "egg_move": true
+        },
+        {
+            "move": "Iron Head",
+            "egg_move": true
+        },
+        {
+            "move": "Perish Song",
+            "egg_move": true
+        },
+        {
+            "move": "Screech",
+            "egg_move": true
+        },
+        {
+            "move": "Skull Bash",
+            "egg_move": true
+        },
+        {
+            "move": "Toxic",
+            "tm": "TM6"
+        },
+        {
+            "move": "Hidden Power",
+            "tm": "TM10"
+        },
+        {
+            "move": "Sunny Day",
+            "tm": "TM11"
+        },
+        {
+            "move": "Ice Beam",
+            "tm": "TM13"
+        },
+        {
+            "move": "Blizzard",
+            "tm": "TM14"
+        },
+        {
+            "move": "Protect",
+            "tm": "TM17"
+        },
+        {
+            "move": "Frustration",
+            "tm": "TM21"
+        },
+        {
+            "move": "Smack Down",
+            "tm": "TM23"
+        },
+        {
+            "move": "Earthquake",
+            "tm": "TM26"
+        },
+        {
+            "move": "Return",
+            "tm": "TM27"
+        },
+        {
+            "move": "Brick Break",
+            "tm": "TM31"
+        },
+        {
+            "move": "Double Team",
+            "tm": "TM32"
+        },
+        {
+            "move": "Flamethrower",
+            "tm": "TM35"
+        },
+        {
+            "move": "Sandstorm",
+            "tm": "TM37"
+        },
+        {
+            "move": "Fire Blast",
+            "tm": "TM38"
+        },
+        {
+            "move": "Rock Tomb",
+            "tm": "TM39"
+        },
+        {
+            "move": "Aerial Ace",
+            "tm": "TM40"
+        },
+        {
+            "move": "Facade",
+            "tm": "TM42"
+        },
+        {
+            "move": "Rest",
+            "tm": "TM44"
+        },
+        {
+            "move": "Attract",
+            "tm": "TM45"
+        },
+        {
+            "move": "Thief",
+            "tm": "TM46"
+        },
+        {
+            "move": "Round",
+            "tm": "TM48"
+        },
+        {
+            "move": "Echoed Voice",
+            "tm": "TM49"
+        },
+        {
+            "move": "False Swipe",
+            "tm": "TM54"
+        },
+        {
+            "move": "Fling",
+            "tm": "TM56"
+        },
+        {
+            "move": "Brutal Swing",
+            "tm": "TM59"
+        },
+        {
+            "move": "Swords Dance",
+            "tm": "TM75"
+        },
+        {
+            "move": "Bulldoze",
+            "tm": "TM78"
+        },
+        {
+            "move": "Rock Slide",
+            "tm": "TM80"
+        },
+        {
+            "move": "Swagger",
+            "tm": "TM87"
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": "TM88"
+        },
+        {
+            "move": "Substitute",
+            "tm": "TM90"
+        },
+        {
+            "move": "Confide",
+            "tm": "TM100"
+        }
+    ]
+}

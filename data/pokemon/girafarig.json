@@ -1,0 +1,344 @@
+{
+    "name": "Girafarig",
+    "national_id": 203,
+    "types": [
+        "Normal",
+        "Psychic"
+    ],
+    "items": [
+        {
+            "name": "Persim Berry",
+            "chance": 5
+        }
+    ],
+    "abilities": [
+        {
+            "name": "Inner Focus"
+        },
+        {
+            "name": "Early Bird"
+        },
+        {
+            "name": "Sap Sipper",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 60,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Field"
+    ],
+    "hatch_time": [
+        5355,
+        5609
+    ],
+    "height_us": "4'11\"",
+    "height_eu": "1.5 m",
+    "weight_us": "91.5 lbs.",
+    "weight_eu": "41.5 kg",
+    "base_exp_yield": 159,
+    "leveling_rate": "Medium Fast",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 2,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 70,
+        "atk": 80,
+        "def": 65,
+        "sp_atk": 90,
+        "sp_def": 65,
+        "speed": 85
+    },
+    "evolution_from": null,
+    "evolutions": [],
+    "species": "Long Neck Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "Girafarig's rear head contains a tiny brain that is too small for thinking. However, the rear head doesn't need to sleep, so it can keep watch over its surroundings 24 hours a day.",
+    "move_learnset": [
+        {
+            "move": "Astonish",
+            "level": 1
+        },
+        {
+            "move": "Confusion",
+            "level": 1
+        },
+        {
+            "move": "Growl",
+            "level": 1
+        },
+        {
+            "move": "Guard Swap",
+            "level": 1
+        },
+        {
+            "move": "Power Swap",
+            "level": 1
+        },
+        {
+            "move": "Tackle",
+            "level": 1
+        },
+        {
+            "move": "Odor Sleuth",
+            "level": 5
+        },
+        {
+            "move": "Assurance",
+            "level": 10
+        },
+        {
+            "move": "Stomp",
+            "level": 14
+        },
+        {
+            "move": "Psybeam",
+            "level": 19
+        },
+        {
+            "move": "Agility",
+            "level": 23
+        },
+        {
+            "move": "Double Hit",
+            "level": 28
+        },
+        {
+            "move": "Zen Headbutt",
+            "level": 32
+        },
+        {
+            "move": "Crunch",
+            "level": 37
+        },
+        {
+            "move": "Baton Pass",
+            "level": 41
+        },
+        {
+            "move": "Nasty Plot",
+            "level": 46
+        },
+        {
+            "move": "Psychic",
+            "level": 50
+        },
+        {
+            "move": "Amnesia",
+            "egg_move": true
+        },
+        {
+            "move": "Beat Up",
+            "egg_move": true
+        },
+        {
+            "move": "Double Kick",
+            "egg_move": true
+        },
+        {
+            "move": "Foresight",
+            "egg_move": true
+        },
+        {
+            "move": "Future Sight",
+            "egg_move": true
+        },
+        {
+            "move": "Magic Coat",
+            "egg_move": true
+        },
+        {
+            "move": "Mean Look",
+            "egg_move": true
+        },
+        {
+            "move": "Mirror Coat",
+            "egg_move": true
+        },
+        {
+            "move": "Psychic Fangs",
+            "egg_move": true
+        },
+        {
+            "move": "Psychic Terrain",
+            "egg_move": true
+        },
+        {
+            "move": "Razor Wind",
+            "egg_move": true
+        },
+        {
+            "move": "Secret Power",
+            "egg_move": true
+        },
+        {
+            "move": "Skill Swap",
+            "egg_move": true
+        },
+        {
+            "move": "Take Down",
+            "egg_move": true
+        },
+        {
+            "move": "Wish",
+            "egg_move": true
+        },
+        {
+            "move": "Work Up",
+            "tm": "TM1"
+        },
+        {
+            "move": "Psyshock",
+            "tm": "TM3"
+        },
+        {
+            "move": "Calm Mind",
+            "tm": "TM4"
+        },
+        {
+            "move": "Toxic",
+            "tm": "TM6"
+        },
+        {
+            "move": "Hidden Power",
+            "tm": "TM10"
+        },
+        {
+            "move": "Sunny Day",
+            "tm": "TM11"
+        },
+        {
+            "move": "Light Screen",
+            "tm": "TM16"
+        },
+        {
+            "move": "Protect",
+            "tm": "TM17"
+        },
+        {
+            "move": "Rain Dance",
+            "tm": "TM18"
+        },
+        {
+            "move": "Frustration",
+            "tm": "TM21"
+        },
+        {
+            "move": "Thunderbolt",
+            "tm": "TM24"
+        },
+        {
+            "move": "Thunder",
+            "tm": "TM25"
+        },
+        {
+            "move": "Earthquake",
+            "tm": "TM26"
+        },
+        {
+            "move": "Return",
+            "tm": "TM27"
+        },
+        {
+            "move": "Psychic",
+            "tm": "TM29"
+        },
+        {
+            "move": "Shadow Ball",
+            "tm": "TM30"
+        },
+        {
+            "move": "Double Team",
+            "tm": "TM32"
+        },
+        {
+            "move": "Reflect",
+            "tm": "TM33"
+        },
+        {
+            "move": "Facade",
+            "tm": "TM42"
+        },
+        {
+            "move": "Rest",
+            "tm": "TM44"
+        },
+        {
+            "move": "Attract",
+            "tm": "TM45"
+        },
+        {
+            "move": "Thief",
+            "tm": "TM46"
+        },
+        {
+            "move": "Round",
+            "tm": "TM48"
+        },
+        {
+            "move": "Echoed Voice",
+            "tm": "TM49"
+        },
+        {
+            "move": "Energy Ball",
+            "tm": "TM53"
+        },
+        {
+            "move": "Charge Beam",
+            "tm": "TM57"
+        },
+        {
+            "move": "Thunder Wave",
+            "tm": "TM73"
+        },
+        {
+            "move": "Psych Up",
+            "tm": "TM77"
+        },
+        {
+            "move": "Bulldoze",
+            "tm": "TM78"
+        },
+        {
+            "move": "Dream Eater",
+            "tm": "TM85"
+        },
+        {
+            "move": "Grass Knot",
+            "tm": "TM86"
+        },
+        {
+            "move": "Swagger",
+            "tm": "TM87"
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": "TM88"
+        },
+        {
+            "move": "Substitute",
+            "tm": "TM90"
+        },
+        {
+            "move": "Trick Room",
+            "tm": "TM92"
+        },
+        {
+            "move": "Dazzling Gleam",
+            "tm": "TM99"
+        },
+        {
+            "move": "Confide",
+            "tm": "TM100"
+        }
+    ]
+}

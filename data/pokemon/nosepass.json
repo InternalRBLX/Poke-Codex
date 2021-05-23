@@ -1,0 +1,291 @@
+{
+    "name": "Nosepass",
+    "national_id": 299,
+    "types": [
+        "Rock"
+    ],
+    "items": [
+        {
+            "name": "Magnet",
+            "chance": 5
+        }
+    ],
+    "abilities": [
+        {
+            "name": "Sturdy"
+        },
+        {
+            "name": "Magnet Pull"
+        },
+        {
+            "name": "Sand Force",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 255,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Mineral"
+    ],
+    "hatch_time": [
+        5355,
+        5609
+    ],
+    "height_us": "3'03\"",
+    "height_eu": "1.0 m",
+    "weight_us": "213.8 lbs.",
+    "weight_eu": "97.0 kg",
+    "base_exp_yield": 75,
+    "leveling_rate": "Medium Fast",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 1,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 30,
+        "atk": 45,
+        "def": 135,
+        "sp_atk": 45,
+        "sp_def": 90,
+        "speed": 30
+    },
+    "evolution_from": null,
+    "evolutions": [
+        {
+            "to": "Probopass",
+            "level_up": true,
+            "conditions": [
+                "In a Magnetic Field area"
+            ]
+        }
+    ],
+    "species": "Compass Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "Nosepass had been said to be completely unmoving, with its magnetic nose pointed due north. However, close observation has revealed that the Pokémon actually moves by a little over 3/8 of an inch every year.",
+    "move_learnset": [
+        {
+            "move": "Tackle",
+            "level": 1
+        },
+        {
+            "move": "Harden",
+            "level": 4
+        },
+        {
+            "move": "Block",
+            "level": 7
+        },
+        {
+            "move": "Rock Throw",
+            "level": 10
+        },
+        {
+            "move": "Thunder Wave",
+            "level": 13
+        },
+        {
+            "move": "Rest",
+            "level": 16
+        },
+        {
+            "move": "Spark",
+            "level": 19
+        },
+        {
+            "move": "Rock Slide",
+            "level": 22
+        },
+        {
+            "move": "Power Gem",
+            "level": 25
+        },
+        {
+            "move": "Rock Blast",
+            "level": 28
+        },
+        {
+            "move": "Discharge",
+            "level": 31
+        },
+        {
+            "move": "Sandstorm",
+            "level": 34
+        },
+        {
+            "move": "Earth Power",
+            "level": 37
+        },
+        {
+            "move": "Stone Edge",
+            "level": 40
+        },
+        {
+            "move": "Lock-On",
+            "level": 43
+        },
+        {
+            "move": "Zap Cannon",
+            "level": 43
+        },
+        {
+            "move": "Block",
+            "egg_move": true
+        },
+        {
+            "move": "Double-Edge",
+            "egg_move": true
+        },
+        {
+            "move": "Endure",
+            "egg_move": true
+        },
+        {
+            "move": "Magnitude",
+            "egg_move": true
+        },
+        {
+            "move": "Rollout",
+            "egg_move": true
+        },
+        {
+            "move": "Stealth Rock",
+            "egg_move": true
+        },
+        {
+            "move": "Wide Guard",
+            "egg_move": true
+        },
+        {
+            "move": "Toxic",
+            "tm": "TM6"
+        },
+        {
+            "move": "Hidden Power",
+            "tm": "TM10"
+        },
+        {
+            "move": "Sunny Day",
+            "tm": "TM11"
+        },
+        {
+            "move": "Taunt",
+            "tm": "TM12"
+        },
+        {
+            "move": "Protect",
+            "tm": "TM17"
+        },
+        {
+            "move": "Frustration",
+            "tm": "TM21"
+        },
+        {
+            "move": "Smack Down",
+            "tm": "TM23"
+        },
+        {
+            "move": "Thunderbolt",
+            "tm": "TM24"
+        },
+        {
+            "move": "Thunder",
+            "tm": "TM25"
+        },
+        {
+            "move": "Earthquake",
+            "tm": "TM26"
+        },
+        {
+            "move": "Return",
+            "tm": "TM27"
+        },
+        {
+            "move": "Double Team",
+            "tm": "TM32"
+        },
+        {
+            "move": "Sandstorm",
+            "tm": "TM37"
+        },
+        {
+            "move": "Rock Tomb",
+            "tm": "TM39"
+        },
+        {
+            "move": "Torment",
+            "tm": "TM41"
+        },
+        {
+            "move": "Facade",
+            "tm": "TM42"
+        },
+        {
+            "move": "Rest",
+            "tm": "TM44"
+        },
+        {
+            "move": "Attract",
+            "tm": "TM45"
+        },
+        {
+            "move": "Round",
+            "tm": "TM48"
+        },
+        {
+            "move": "Explosion",
+            "tm": "TM64"
+        },
+        {
+            "move": "Rock Polish",
+            "tm": "TM69"
+        },
+        {
+            "move": "Stone Edge",
+            "tm": "TM71"
+        },
+        {
+            "move": "Volt Switch",
+            "tm": "TM72"
+        },
+        {
+            "move": "Thunder Wave",
+            "tm": "TM73"
+        },
+        {
+            "move": "Bulldoze",
+            "tm": "TM78"
+        },
+        {
+            "move": "Rock Slide",
+            "tm": "TM80"
+        },
+        {
+            "move": "Swagger",
+            "tm": "TM87"
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": "TM88"
+        },
+        {
+            "move": "Substitute",
+            "tm": "TM90"
+        },
+        {
+            "move": "Dazzling Gleam",
+            "tm": "TM99"
+        },
+        {
+            "move": "Confide",
+            "tm": "TM100"
+        }
+    ]
+}

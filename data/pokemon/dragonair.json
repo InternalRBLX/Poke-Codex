@@ -1,0 +1,302 @@
+{
+    "name": "Dragonair",
+    "national_id": 148,
+    "types": [
+        "Dragon"
+    ],
+    "items": [
+        {
+            "name": "Dragon Scale",
+            "chance": 5
+        }
+    ],
+    "abilities": [
+        {
+            "name": "Shed Skin"
+        },
+        {
+            "name": "Marvel Scale",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 45,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Water 1",
+        "Dragon"
+    ],
+    "hatch_time": [
+        10455,
+        10709
+    ],
+    "height_us": "13'01\"",
+    "height_eu": "4.0 m",
+    "weight_us": "36.4 lbs.",
+    "weight_eu": "16.5 kg",
+    "base_exp_yield": 147,
+    "leveling_rate": "Slow",
+    "base_friendship": 35,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 2,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 61,
+        "atk": 84,
+        "def": 65,
+        "sp_atk": 70,
+        "sp_def": 70,
+        "speed": 70
+    },
+    "evolution_from": "Dratini",
+    "evolutions": [
+        {
+            "to": "Dragonite",
+            "level": 55
+        }
+    ],
+    "species": "Dragon Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "Dragonair stores an enormous amount of energy inside its body. It is said to alter weather conditions in its vicinity by discharging energy from its crystals on its neck and tail.",
+    "move_learnset": [
+        {
+            "move": "Leer",
+            "level": 1
+        },
+        {
+            "move": "Thunder Wave",
+            "level": 1
+        },
+        {
+            "move": "Twister",
+            "level": 1
+        },
+        {
+            "move": "Wrap",
+            "level": 1
+        },
+        {
+            "move": "Thunder Wave",
+            "level": 5
+        },
+        {
+            "move": "Twister",
+            "level": 11
+        },
+        {
+            "move": "Dragon Rage",
+            "level": 15
+        },
+        {
+            "move": "Slam",
+            "level": 21
+        },
+        {
+            "move": "Agility",
+            "level": 25
+        },
+        {
+            "move": "Dragon Tail",
+            "level": 33
+        },
+        {
+            "move": "Aqua Tail",
+            "level": 39
+        },
+        {
+            "move": "Dragon Rush",
+            "level": 47
+        },
+        {
+            "move": "Safeguard",
+            "level": 53
+        },
+        {
+            "move": "Dragon Dance",
+            "level": 61
+        },
+        {
+            "move": "Outrage",
+            "level": 67
+        },
+        {
+            "move": "Hyper Beam",
+            "level": 75
+        },
+        {
+            "move": "Aqua Jet",
+            "egg_move": true
+        },
+        {
+            "move": "Dragon Breath",
+            "egg_move": true
+        },
+        {
+            "move": "Dragon Dance",
+            "egg_move": true
+        },
+        {
+            "move": "Dragon Pulse",
+            "egg_move": true
+        },
+        {
+            "move": "Dragon Rush",
+            "egg_move": true
+        },
+        {
+            "move": "Extreme Speed",
+            "egg_move": true
+        },
+        {
+            "move": "Haze",
+            "egg_move": true
+        },
+        {
+            "move": "Iron Tail",
+            "egg_move": true
+        },
+        {
+            "move": "Mist",
+            "egg_move": true
+        },
+        {
+            "move": "Supersonic",
+            "egg_move": true
+        },
+        {
+            "move": "Water Pulse",
+            "egg_move": true
+        },
+        {
+            "move": "Toxic",
+            "tm": "TM6"
+        },
+        {
+            "move": "Hail",
+            "tm": "TM7"
+        },
+        {
+            "move": "Hidden Power",
+            "tm": "TM10"
+        },
+        {
+            "move": "Sunny Day",
+            "tm": "TM11"
+        },
+        {
+            "move": "Ice Beam",
+            "tm": "TM13"
+        },
+        {
+            "move": "Blizzard",
+            "tm": "TM14"
+        },
+        {
+            "move": "Hyper Beam",
+            "tm": "TM15"
+        },
+        {
+            "move": "Light Screen",
+            "tm": "TM16"
+        },
+        {
+            "move": "Protect",
+            "tm": "TM17"
+        },
+        {
+            "move": "Rain Dance",
+            "tm": "TM18"
+        },
+        {
+            "move": "Safeguard",
+            "tm": "TM20"
+        },
+        {
+            "move": "Frustration",
+            "tm": "TM21"
+        },
+        {
+            "move": "Thunderbolt",
+            "tm": "TM24"
+        },
+        {
+            "move": "Thunder",
+            "tm": "TM25"
+        },
+        {
+            "move": "Return",
+            "tm": "TM27"
+        },
+        {
+            "move": "Double Team",
+            "tm": "TM32"
+        },
+        {
+            "move": "Flamethrower",
+            "tm": "TM35"
+        },
+        {
+            "move": "Fire Blast",
+            "tm": "TM38"
+        },
+        {
+            "move": "Facade",
+            "tm": "TM42"
+        },
+        {
+            "move": "Rest",
+            "tm": "TM44"
+        },
+        {
+            "move": "Attract",
+            "tm": "TM45"
+        },
+        {
+            "move": "Round",
+            "tm": "TM48"
+        },
+        {
+            "move": "Brutal Swing",
+            "tm": "TM59"
+        },
+        {
+            "move": "Thunder Wave",
+            "tm": "TM73"
+        },
+        {
+            "move": "Dragon Tail",
+            "tm": "TM82"
+        },
+        {
+            "move": "Swagger",
+            "tm": "TM87"
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": "TM88"
+        },
+        {
+            "move": "Substitute",
+            "tm": "TM90"
+        },
+        {
+            "move": "Surf",
+            "tm": "TM94"
+        },
+        {
+            "move": "Waterfall",
+            "tm": "TM98"
+        },
+        {
+            "move": "Confide",
+            "tm": "TM100"
+        }
+    ]
+}

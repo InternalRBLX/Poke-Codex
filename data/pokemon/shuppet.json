@@ -1,0 +1,316 @@
+{
+    "name": "Shuppet",
+    "national_id": 353,
+    "types": [
+        "Ghost"
+    ],
+    "items": [
+        {
+            "name": "Spell Tag",
+            "chance": 5
+        }
+    ],
+    "abilities": [
+        {
+            "name": "Insomnia"
+        },
+        {
+            "name": "Frisk"
+        },
+        {
+            "name": "Cursed Body",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 225,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Amorphous"
+    ],
+    "hatch_time": [
+        6630,
+        6884
+    ],
+    "height_us": "2'00\"",
+    "height_eu": "0.6 m",
+    "weight_us": "5.1 lbs.",
+    "weight_eu": "2.3 kg",
+    "base_exp_yield": 59,
+    "leveling_rate": "Fast",
+    "base_friendship": 35,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 1,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 44,
+        "atk": 75,
+        "def": 35,
+        "sp_atk": 63,
+        "sp_def": 33,
+        "speed": 45
+    },
+    "evolution_from": null,
+    "evolutions": [
+        {
+            "to": "Banette",
+            "level": 37
+        }
+    ],
+    "species": "Puppet Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "Shuppet grows by feeding on dark emotions, such as vengefulness and envy, in the hearts of people. It roams through cities in search of grudges that taint people.",
+    "move_learnset": [
+        {
+            "move": "Knock Off",
+            "level": 1
+        },
+        {
+            "move": "Screech",
+            "level": 4
+        },
+        {
+            "move": "Night Shade",
+            "level": 7
+        },
+        {
+            "move": "Spite",
+            "level": 10
+        },
+        {
+            "move": "Shadow Sneak",
+            "level": 13
+        },
+        {
+            "move": "Will-O-Wisp",
+            "level": 16
+        },
+        {
+            "move": "Feint Attack",
+            "level": 19
+        },
+        {
+            "move": "Hex",
+            "level": 22
+        },
+        {
+            "move": "Curse",
+            "level": 26
+        },
+        {
+            "move": "Shadow Ball",
+            "level": 30
+        },
+        {
+            "move": "Embargo",
+            "level": 34
+        },
+        {
+            "move": "Sucker Punch",
+            "level": 38
+        },
+        {
+            "move": "Snatch",
+            "level": 42
+        },
+        {
+            "move": "Grudge",
+            "level": 46
+        },
+        {
+            "move": "Trick",
+            "level": 50
+        },
+        {
+            "move": "Phantom Force",
+            "level": 54
+        },
+        {
+            "move": "Astonish",
+            "egg_move": true
+        },
+        {
+            "move": "Confuse Ray",
+            "egg_move": true
+        },
+        {
+            "move": "Destiny Bond",
+            "egg_move": true
+        },
+        {
+            "move": "Disable",
+            "egg_move": true
+        },
+        {
+            "move": "Foresight",
+            "egg_move": true
+        },
+        {
+            "move": "Gunk Shot",
+            "egg_move": true
+        },
+        {
+            "move": "Imprison",
+            "egg_move": true
+        },
+        {
+            "move": "Ominous Wind",
+            "egg_move": true
+        },
+        {
+            "move": "Phantom Force",
+            "egg_move": true
+        },
+        {
+            "move": "Pursuit",
+            "egg_move": true
+        },
+        {
+            "move": "Shadow Sneak",
+            "egg_move": true
+        },
+        {
+            "move": "Calm Mind",
+            "tm": "TM4"
+        },
+        {
+            "move": "Toxic",
+            "tm": "TM6"
+        },
+        {
+            "move": "Hidden Power",
+            "tm": "TM10"
+        },
+        {
+            "move": "Sunny Day",
+            "tm": "TM11"
+        },
+        {
+            "move": "Taunt",
+            "tm": "TM12"
+        },
+        {
+            "move": "Protect",
+            "tm": "TM17"
+        },
+        {
+            "move": "Rain Dance",
+            "tm": "TM18"
+        },
+        {
+            "move": "Frustration",
+            "tm": "TM21"
+        },
+        {
+            "move": "Thunderbolt",
+            "tm": "TM24"
+        },
+        {
+            "move": "Thunder",
+            "tm": "TM25"
+        },
+        {
+            "move": "Return",
+            "tm": "TM27"
+        },
+        {
+            "move": "Psychic",
+            "tm": "TM29"
+        },
+        {
+            "move": "Shadow Ball",
+            "tm": "TM30"
+        },
+        {
+            "move": "Double Team",
+            "tm": "TM32"
+        },
+        {
+            "move": "Torment",
+            "tm": "TM41"
+        },
+        {
+            "move": "Facade",
+            "tm": "TM42"
+        },
+        {
+            "move": "Rest",
+            "tm": "TM44"
+        },
+        {
+            "move": "Attract",
+            "tm": "TM45"
+        },
+        {
+            "move": "Thief",
+            "tm": "TM46"
+        },
+        {
+            "move": "Round",
+            "tm": "TM48"
+        },
+        {
+            "move": "Charge Beam",
+            "tm": "TM57"
+        },
+        {
+            "move": "Will-O-Wisp",
+            "tm": "TM61"
+        },
+        {
+            "move": "Embargo",
+            "tm": "TM63"
+        },
+        {
+            "move": "Payback",
+            "tm": "TM66"
+        },
+        {
+            "move": "Thunder Wave",
+            "tm": "TM73"
+        },
+        {
+            "move": "Psych Up",
+            "tm": "TM77"
+        },
+        {
+            "move": "Dream Eater",
+            "tm": "TM85"
+        },
+        {
+            "move": "Swagger",
+            "tm": "TM87"
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": "TM88"
+        },
+        {
+            "move": "Substitute",
+            "tm": "TM90"
+        },
+        {
+            "move": "Trick Room",
+            "tm": "TM92"
+        },
+        {
+            "move": "Dark Pulse",
+            "tm": "TM97"
+        },
+        {
+            "move": "Dazzling Gleam",
+            "tm": "TM99"
+        },
+        {
+            "move": "Confide",
+            "tm": "TM100"
+        }
+    ]
+}

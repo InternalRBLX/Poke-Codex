@@ -1,0 +1,311 @@
+{
+    "name": "Piloswine",
+    "national_id": 221,
+    "types": [
+        "Ice",
+        "Ground"
+    ],
+    "abilities": [
+        {
+            "name": "Oblivious"
+        },
+        {
+            "name": "Snow Cloak"
+        },
+        {
+            "name": "Thick Fat",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 75,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Field"
+    ],
+    "hatch_time": [
+        5355,
+        5609
+    ],
+    "height_us": "3'07\"",
+    "height_eu": "1.1 m",
+    "weight_us": "123.0 lbs.",
+    "weight_eu": "55.8 kg",
+    "base_exp_yield": 158,
+    "leveling_rate": "Slow",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 1,
+        "atk": 1,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 100,
+        "atk": 100,
+        "def": 80,
+        "sp_atk": 60,
+        "sp_def": 60,
+        "speed": 50
+    },
+    "evolution_from": "Swinub",
+    "evolutions": [
+        {
+            "to": "Mamoswine",
+            "move_learned": "Ancient Power"
+        }
+    ],
+    "species": "Swine Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "Although its legs are short, its rugged hooves prevent it from slipping, even on icy ground.",
+    "move_learnset": [
+        {
+            "move": "Ice Fang",
+            "evo": true
+        },
+        {
+            "move": "Ice Fang",
+            "level": 1
+        },
+        {
+            "move": "Ancient Power",
+            "level": 1
+        },
+        {
+            "move": "Tackle",
+            "level": 1
+        },
+        {
+            "move": "Mud-Slap",
+            "level": 1
+        },
+        {
+            "move": "Powder Snow",
+            "level": 1
+        },
+        {
+            "move": "Flail",
+            "level": 1
+        },
+        {
+            "move": "Ice Shard",
+            "level": 15
+        },
+        {
+            "move": "Mist",
+            "level": 20
+        },
+        {
+            "move": "Endure",
+            "level": 25
+        },
+        {
+            "move": "Icy Wind",
+            "level": 30
+        },
+        {
+            "move": "Amnesia",
+            "level": 37
+        },
+        {
+            "move": "Take Down",
+            "level": 44
+        },
+        {
+            "move": "Earthquake",
+            "level": 51
+        },
+        {
+            "move": "Blizzard",
+            "level": 58
+        },
+        {
+            "move": "Thrash",
+            "level": 65
+        },
+        {
+            "move": "Hyper Beam",
+            "tm": true
+        },
+        {
+            "move": "Giga Impact",
+            "tm": true
+        },
+        {
+            "move": "Dig",
+            "tm": true
+        },
+        {
+            "move": "Light Screen",
+            "tm": true
+        },
+        {
+            "move": "Reflect",
+            "tm": true
+        },
+        {
+            "move": "Rest",
+            "tm": true
+        },
+        {
+            "move": "Rock Slide",
+            "tm": true
+        },
+        {
+            "move": "Snore",
+            "tm": true
+        },
+        {
+            "move": "Protect",
+            "tm": true
+        },
+        {
+            "move": "Scary Face",
+            "tm": true
+        },
+        {
+            "move": "Icy Wind",
+            "tm": true
+        },
+        {
+            "move": "Attract",
+            "tm": true
+        },
+        {
+            "move": "Sandstorm",
+            "tm": true
+        },
+        {
+            "move": "Rain Dance",
+            "tm": true
+        },
+        {
+            "move": "Hail",
+            "tm": true
+        },
+        {
+            "move": "Facade",
+            "tm": true
+        },
+        {
+            "move": "Rock Tomb",
+            "tm": true
+        },
+        {
+            "move": "Sand Tomb",
+            "tm": true
+        },
+        {
+            "move": "Icicle Spear",
+            "tm": true
+        },
+        {
+            "move": "Mud Shot",
+            "tm": true
+        },
+        {
+            "move": "Avalanche",
+            "tm": true
+        },
+        {
+            "move": "Ice Fang",
+            "tm": true
+        },
+        {
+            "move": "Round",
+            "tm": true
+        },
+        {
+            "move": "Bulldoze",
+            "tm": true
+        },
+        {
+            "move": "Stomping Tantrum",
+            "tm": true
+        },
+        {
+            "move": "Body Slam",
+            "tm": true
+        },
+        {
+            "move": "Ice Beam",
+            "tm": true
+        },
+        {
+            "move": "Blizzard",
+            "tm": true
+        },
+        {
+            "move": "Earthquake",
+            "tm": true
+        },
+        {
+            "move": "Amnesia",
+            "tm": true
+        },
+        {
+            "move": "Substitute",
+            "tm": true
+        },
+        {
+            "move": "Endure",
+            "tm": true
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": true
+        },
+        {
+            "move": "Superpower",
+            "tm": true
+        },
+        {
+            "move": "Earth Power",
+            "tm": true
+        },
+        {
+            "move": "Stone Edge",
+            "tm": true
+        },
+        {
+            "move": "Stealth Rock",
+            "tm": true
+        },
+        {
+            "move": "High Horsepower",
+            "tm": true
+        },
+        {
+            "move": "Bite",
+            "egg_move": true
+        },
+        {
+            "move": "Ancient Power",
+            "egg_move": true
+        },
+        {
+            "move": "Double-Edge",
+            "egg_move": true
+        },
+        {
+            "move": "Fissure",
+            "egg_move": true
+        },
+        {
+            "move": "Curse",
+            "egg_move": true
+        },
+        {
+            "move": "Icicle Crash",
+            "egg_move": true
+        },
+        {
+            "move": "Freeze-Dry",
+            "egg_move": true
+        }
+    ]
+}

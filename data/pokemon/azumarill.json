@@ -1,0 +1,303 @@
+{
+    "name": "Azumarill",
+    "national_id": 184,
+    "types": [
+        "Water",
+        "Fairy"
+    ],
+    "abilities": [
+        {
+            "name": "Thick Fat"
+        },
+        {
+            "name": "Huge Power"
+        },
+        {
+            "name": "Sap Sipper",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 75,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Water 1",
+        "Fairy"
+    ],
+    "hatch_time": [
+        2805,
+        3059
+    ],
+    "height_us": "2'07\"",
+    "height_eu": "0.8 m",
+    "weight_us": "62.8 lbs.",
+    "weight_eu": "28.5 kg",
+    "base_exp_yield": 185,
+    "leveling_rate": "Fast",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 3,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 100,
+        "atk": 50,
+        "def": 80,
+        "sp_atk": 50,
+        "sp_def": 80,
+        "speed": 50
+    },
+    "evolution_from": "Marill",
+    "evolutions": [],
+    "species": "Aqua Rabbit Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "Azumarill can make balloons out of air. It makes these air balloons if it spots a drowning Pokémon. The air balloons enable the Pokémon in trouble to breathe.",
+    "move_learnset": [
+        {
+            "move": "Tackle",
+            "level": 1
+        },
+        {
+            "move": "Tail Whip",
+            "level": 1
+        },
+        {
+            "move": "Water Gun",
+            "level": 1
+        },
+        {
+            "move": "Water Sport",
+            "level": 1
+        },
+        {
+            "move": "Tail Whip",
+            "level": 2
+        },
+        {
+            "move": "Water Sport",
+            "level": 5
+        },
+        {
+            "move": "Bubble",
+            "level": 7
+        },
+        {
+            "move": "Defense Curl",
+            "level": 10
+        },
+        {
+            "move": "Rollout",
+            "level": 10
+        },
+        {
+            "move": "Bubble Beam",
+            "level": 13
+        },
+        {
+            "move": "Helping Hand",
+            "level": 16
+        },
+        {
+            "move": "Aqua Tail",
+            "level": 21
+        },
+        {
+            "move": "Play Rough",
+            "level": 25
+        },
+        {
+            "move": "Aqua Ring",
+            "level": 31
+        },
+        {
+            "move": "Rain Dance",
+            "level": 35
+        },
+        {
+            "move": "Double-Edge",
+            "level": 42
+        },
+        {
+            "move": "Superpower",
+            "level": 46
+        },
+        {
+            "move": "Hydro Pump",
+            "level": 55
+        },
+        {
+            "move": "Body Slam",
+            "egg_move": true
+        },
+        {
+            "move": "Camouflage",
+            "egg_move": true
+        },
+        {
+            "move": "Copycat",
+            "egg_move": true
+        },
+        {
+            "move": "Encore",
+            "egg_move": true
+        },
+        {
+            "move": "Fake Tears",
+            "egg_move": true
+        },
+        {
+            "move": "Muddy Water",
+            "egg_move": true
+        },
+        {
+            "move": "Refresh",
+            "egg_move": true
+        },
+        {
+            "move": "Sing",
+            "egg_move": true
+        },
+        {
+            "move": "Slam",
+            "egg_move": true
+        },
+        {
+            "move": "Soak",
+            "egg_move": true
+        },
+        {
+            "move": "Tickle",
+            "egg_move": true
+        },
+        {
+            "move": "Water Sport",
+            "egg_move": true
+        },
+        {
+            "move": "Work Up",
+            "tm": "TM1"
+        },
+        {
+            "move": "Toxic",
+            "tm": "TM6"
+        },
+        {
+            "move": "Hail",
+            "tm": "TM7"
+        },
+        {
+            "move": "Hidden Power",
+            "tm": "TM10"
+        },
+        {
+            "move": "Ice Beam",
+            "tm": "TM13"
+        },
+        {
+            "move": "Blizzard",
+            "tm": "TM14"
+        },
+        {
+            "move": "Hyper Beam",
+            "tm": "TM15"
+        },
+        {
+            "move": "Light Screen",
+            "tm": "TM16"
+        },
+        {
+            "move": "Protect",
+            "tm": "TM17"
+        },
+        {
+            "move": "Rain Dance",
+            "tm": "TM18"
+        },
+        {
+            "move": "Frustration",
+            "tm": "TM21"
+        },
+        {
+            "move": "Return",
+            "tm": "TM27"
+        },
+        {
+            "move": "Brick Break",
+            "tm": "TM31"
+        },
+        {
+            "move": "Double Team",
+            "tm": "TM32"
+        },
+        {
+            "move": "Facade",
+            "tm": "TM42"
+        },
+        {
+            "move": "Rest",
+            "tm": "TM44"
+        },
+        {
+            "move": "Attract",
+            "tm": "TM45"
+        },
+        {
+            "move": "Round",
+            "tm": "TM48"
+        },
+        {
+            "move": "Focus Blast",
+            "tm": "TM52"
+        },
+        {
+            "move": "Scald",
+            "tm": "TM55"
+        },
+        {
+            "move": "Fling",
+            "tm": "TM56"
+        },
+        {
+            "move": "Giga Impact",
+            "tm": "TM68"
+        },
+        {
+            "move": "Bulldoze",
+            "tm": "TM78"
+        },
+        {
+            "move": "Grass Knot",
+            "tm": "TM86"
+        },
+        {
+            "move": "Swagger",
+            "tm": "TM87"
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": "TM88"
+        },
+        {
+            "move": "Substitute",
+            "tm": "TM90"
+        },
+        {
+            "move": "Surf",
+            "tm": "TM94"
+        },
+        {
+            "move": "Waterfall",
+            "tm": "TM98"
+        },
+        {
+            "move": "Confide",
+            "tm": "TM100"
+        }
+    ]
+}

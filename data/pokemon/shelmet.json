@@ -1,0 +1,231 @@
+{
+    "name": "Shelmet",
+    "national_id": 616,
+    "types": [
+        "Bug"
+    ],
+    "abilities": [
+        {
+            "name": "Hydration"
+        },
+        {
+            "name": "Shell Armor"
+        },
+        {
+            "name": "Overcoat",
+            "hidden": true
+        }
+    ],
+    "catch_rate": 200,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Bug"
+    ],
+    "hatch_time": [
+        4080,
+        4334
+    ],
+    "height_us": "1'04\"",
+    "height_eu": "0.4 m",
+    "weight_us": "17.0 lbs.",
+    "weight_eu": "7.7 kg",
+    "base_exp_yield": 61,
+    "leveling_rate": "Medium Fast",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 1,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+    },
+    "base_stats": {
+        "hp": 50,
+        "atk": 40,
+        "def": 85,
+        "sp_atk": 40,
+        "sp_def": 65,
+        "speed": 25
+    },
+    "evolution_from": null,
+    "evolutions": [
+        {
+            "to": "Accelgor",
+            "trade": true,
+            "hold_item": "Karrablast"
+        }
+    ],
+    "species": "Snail Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "It has a strange physiology that responds to electricity. When together with Karrablast, Shelmet evolves for some reason.",
+    "move_learnset": [
+        {
+            "move": "Absorb",
+            "level": 1
+        },
+        {
+            "move": "Protect",
+            "level": 1
+        },
+        {
+            "move": "Acid",
+            "level": 4
+        },
+        {
+            "move": "Curse",
+            "level": 8
+        },
+        {
+            "move": "Mega Drain",
+            "level": 12
+        },
+        {
+            "move": "Struggle Bug",
+            "level": 16
+        },
+        {
+            "move": "Yawn",
+            "level": 20
+        },
+        {
+            "move": "Acid Armor",
+            "level": 24
+        },
+        {
+            "move": "Giga Drain",
+            "level": 28
+        },
+        {
+            "move": "Guard Swap",
+            "level": 32
+        },
+        {
+            "move": "Body Slam",
+            "level": 36
+        },
+        {
+            "move": "Recover",
+            "level": 40
+        },
+        {
+            "move": "Bug Buzz",
+            "level": 44
+        },
+        {
+            "move": "Final Gambit",
+            "level": 48
+        },
+        {
+            "move": "Rest",
+            "tm": true
+        },
+        {
+            "move": "Snore",
+            "tm": true
+        },
+        {
+            "move": "Protect",
+            "tm": true
+        },
+        {
+            "move": "Giga Drain",
+            "tm": true
+        },
+        {
+            "move": "Attract",
+            "tm": true
+        },
+        {
+            "move": "Rain Dance",
+            "tm": true
+        },
+        {
+            "move": "Facade",
+            "tm": true
+        },
+        {
+            "move": "Mud Shot",
+            "tm": true
+        },
+        {
+            "move": "Guard Swap",
+            "tm": true
+        },
+        {
+            "move": "Venoshock",
+            "tm": true
+        },
+        {
+            "move": "Round",
+            "tm": true
+        },
+        {
+            "move": "Body Slam",
+            "tm": true
+        },
+        {
+            "move": "Leech Life",
+            "tm": true
+        },
+        {
+            "move": "Substitute",
+            "tm": true
+        },
+        {
+            "move": "Sludge Bomb",
+            "tm": true
+        },
+        {
+            "move": "Spikes",
+            "tm": true
+        },
+        {
+            "move": "Endure",
+            "tm": true
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": true
+        },
+        {
+            "move": "Baton Pass",
+            "tm": true
+        },
+        {
+            "move": "Encore",
+            "tm": true
+        },
+        {
+            "move": "Toxic Spikes",
+            "tm": true
+        },
+        {
+            "move": "Bug Buzz",
+            "tm": true
+        },
+        {
+            "move": "Energy Ball",
+            "tm": true
+        },
+        {
+            "move": "Double-Edge",
+            "egg_move": true
+        },
+        {
+            "move": "Guard Split",
+            "egg_move": true
+        },
+        {
+            "move": "Mind Reader",
+            "egg_move": true
+        },
+        {
+            "move": "Feint",
+            "egg_move": true
+        }
+    ]
+}

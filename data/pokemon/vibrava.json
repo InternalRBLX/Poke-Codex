@@ -1,0 +1,332 @@
+{
+    "name": "Vibrava",
+    "national_id": 329,
+    "types": [
+        "Ground",
+        "Dragon"
+    ],
+    "abilities": [
+        {
+            "name": "Levitate"
+        }
+    ],
+    "catch_rate": 120,
+    "gender_ratios": {
+        "male": 50,
+        "female": 50
+    },
+    "egg_groups": [
+        "Bug"
+    ],
+    "hatch_time": [
+        5355,
+        5609
+    ],
+    "height_us": "3'07\"",
+    "height_eu": "1.1 m",
+    "weight_us": "33.7 lbs.",
+    "weight_eu": "15.3 kg",
+    "base_exp_yield": 119,
+    "leveling_rate": "Medium Slow",
+    "base_friendship": 70,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 1,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 1
+    },
+    "base_stats": {
+        "hp": 50,
+        "atk": 70,
+        "def": 50,
+        "sp_atk": 50,
+        "sp_def": 50,
+        "speed": 70
+    },
+    "evolution_from": "Trapinch",
+    "evolutions": [
+        {
+            "to": "Flygon",
+            "level": 45
+        }
+    ],
+    "species": "Vibration Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "To help make its wings grow, it dissolves quantities of prey in its digestive juices and guzzles them down every day.",
+    "move_learnset": [
+        {
+            "move": "Dragon Breath",
+            "evo": true
+        },
+        {
+            "move": "Dragon Breath",
+            "level": 1
+        },
+        {
+            "move": "Laser Focus",
+            "level": 1
+        },
+        {
+            "move": "Bulldoze",
+            "level": 1
+        },
+        {
+            "move": "Dig",
+            "level": 1
+        },
+        {
+            "move": "Crunch",
+            "level": 1
+        },
+        {
+            "move": "Superpower",
+            "level": 1
+        },
+        {
+            "move": "Fissure",
+            "level": 1
+        },
+        {
+            "move": "Sand Attack",
+            "level": 1
+        },
+        {
+            "move": "Astonish",
+            "level": 1
+        },
+        {
+            "move": "Supersonic",
+            "level": 1
+        },
+        {
+            "move": "Bite",
+            "level": 1
+        },
+        {
+            "move": "Mud-Slap",
+            "level": 12
+        },
+        {
+            "move": "Sand Tomb",
+            "level": 16
+        },
+        {
+            "move": "Dragon Tail",
+            "level": 20
+        },
+        {
+            "move": "Screech",
+            "level": 24
+        },
+        {
+            "move": "Bug Buzz",
+            "level": 28
+        },
+        {
+            "move": "Sandstorm",
+            "level": 32
+        },
+        {
+            "move": "Earth Power",
+            "level": 38
+        },
+        {
+            "move": "Earthquake",
+            "level": 44
+        },
+        {
+            "move": "Uproar",
+            "level": 50
+        },
+        {
+            "move": "Dragon Rush",
+            "level": 56
+        },
+        {
+            "move": "Boomburst",
+            "level": 62
+        },
+        {
+            "move": "Fly",
+            "tm": true
+        },
+        {
+            "move": "Hyper Beam",
+            "tm": true
+        },
+        {
+            "move": "Solar Beam",
+            "tm": true
+        },
+        {
+            "move": "Dig",
+            "tm": true
+        },
+        {
+            "move": "Screech",
+            "tm": true
+        },
+        {
+            "move": "Rest",
+            "tm": true
+        },
+        {
+            "move": "Rock Slide",
+            "tm": true
+        },
+        {
+            "move": "Snore",
+            "tm": true
+        },
+        {
+            "move": "Protect",
+            "tm": true
+        },
+        {
+            "move": "Giga Drain",
+            "tm": true
+        },
+        {
+            "move": "Steel Wing",
+            "tm": true
+        },
+        {
+            "move": "Attract",
+            "tm": true
+        },
+        {
+            "move": "Sandstorm",
+            "tm": true
+        },
+        {
+            "move": "Sunny Day",
+            "tm": true
+        },
+        {
+            "move": "Facade",
+            "tm": true
+        },
+        {
+            "move": "Swift",
+            "tm": true
+        },
+        {
+            "move": "Rock Tomb",
+            "tm": true
+        },
+        {
+            "move": "Sand Tomb",
+            "tm": true
+        },
+        {
+            "move": "Mud Shot",
+            "tm": true
+        },
+        {
+            "move": "U-turn",
+            "tm": true
+        },
+        {
+            "move": "Round",
+            "tm": true
+        },
+        {
+            "move": "Bulldoze",
+            "tm": true
+        },
+        {
+            "move": "Air Slash",
+            "tm": true
+        },
+        {
+            "move": "Body Slam",
+            "tm": true
+        },
+        {
+            "move": "Earthquake",
+            "tm": true
+        },
+        {
+            "move": "Focus Energy",
+            "tm": true
+        },
+        {
+            "move": "Substitute",
+            "tm": true
+        },
+        {
+            "move": "Outrage",
+            "tm": true
+        },
+        {
+            "move": "Endure",
+            "tm": true
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": true
+        },
+        {
+            "move": "Crunch",
+            "tm": true
+        },
+        {
+            "move": "Uproar",
+            "tm": true
+        },
+        {
+            "move": "Heat Wave",
+            "tm": true
+        },
+        {
+            "move": "Superpower",
+            "tm": true
+        },
+        {
+            "move": "Bug Buzz",
+            "tm": true
+        },
+        {
+            "move": "Dragon Pulse",
+            "tm": true
+        },
+        {
+            "move": "Earth Power",
+            "tm": true
+        },
+        {
+            "move": "Throat Chop",
+            "tm": true
+        },
+        {
+            "move": "Quick Attack",
+            "egg_move": true
+        },
+        {
+            "move": "Gust",
+            "egg_move": true
+        },
+        {
+            "move": "Flail",
+            "egg_move": true
+        },
+        {
+            "move": "Fury Cutter",
+            "egg_move": true
+        },
+        {
+            "move": "Bug Bite",
+            "egg_move": true
+        },
+        {
+            "move": "Feint",
+            "egg_move": true
+        },
+        {
+            "move": "First Impression",
+            "egg_move": true
+        }
+    ]
+}

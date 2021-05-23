@@ -1,0 +1,291 @@
+{
+    "name": "Zamazenta",
+    "national_id": 889,
+    "types": [
+        "Fighting",
+        "Steel"
+    ],
+    "abilities": [
+        {
+            "name": "Dauntless Shield"
+        }
+    ],
+    "catch_rate": 10,
+    "gender_ratios": {
+        "male": 0,
+        "female": 0
+    },
+    "egg_groups": [
+        "Undiscovered"
+    ],
+    "hatch_time": [
+        30840,
+        31096
+    ],
+    "height_us": "9'06\"",
+    "height_eu": "2.9 m",
+    "weight_us": "1730.6 lbs.",
+    "weight_eu": "785.0 kg",
+    "base_exp_yield": 335,
+    "leveling_rate": "Slow",
+    "base_friendship": 0,
+    "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 3
+    },
+    "base_stats": {
+        "hp": 92,
+        "atk": 130,
+        "def": 145,
+        "sp_atk": 80,
+        "sp_def": 145,
+        "speed": 128
+    },
+    "evolution_from": null,
+    "evolutions": [],
+    "species": "Warrior Pokémon",
+    "mega_evolves": false,
+    "pokedex_entry": "Now that it's equipped with its shield, it can shrug off impressive blows, including the attacks of Dynamax Pokémon.",
+    "move_learnset": [
+        {
+            "move": "Metal Burst",
+            "level": 1
+        },
+        {
+            "move": "Wide Guard",
+            "level": 1
+        },
+        {
+            "move": "Metal Claw",
+            "level": 1
+        },
+        {
+            "move": "Howl",
+            "level": 1
+        },
+        {
+            "move": "Quick Attack",
+            "level": 1
+        },
+        {
+            "move": "Bite",
+            "level": 1
+        },
+        {
+            "move": "Slash",
+            "level": 11
+        },
+        {
+            "move": "Iron Defense",
+            "level": 22
+        },
+        {
+            "move": "Iron Head",
+            "level": 33
+        },
+        {
+            "move": "Laser Focus",
+            "level": 44
+        },
+        {
+            "move": "Crunch",
+            "level": 55
+        },
+        {
+            "move": "Moonblast",
+            "level": 66
+        },
+        {
+            "move": "Close Combat",
+            "level": 77
+        },
+        {
+            "move": "Giga Impact",
+            "level": 88
+        },
+        {
+            "move": "Hyper Beam",
+            "tm": true
+        },
+        {
+            "move": "Giga Impact",
+            "tm": true
+        },
+        {
+            "move": "Solar Beam",
+            "tm": true
+        },
+        {
+            "move": "Dig",
+            "tm": true
+        },
+        {
+            "move": "Light Screen",
+            "tm": true
+        },
+        {
+            "move": "Reflect",
+            "tm": true
+        },
+        {
+            "move": "Safeguard",
+            "tm": true
+        },
+        {
+            "move": "Rest",
+            "tm": true
+        },
+        {
+            "move": "Snore",
+            "tm": true
+        },
+        {
+            "move": "Protect",
+            "tm": true
+        },
+        {
+            "move": "Scary Face",
+            "tm": true
+        },
+        {
+            "move": "Facade",
+            "tm": true
+        },
+        {
+            "move": "Swift",
+            "tm": true
+        },
+        {
+            "move": "Helping Hand",
+            "tm": true
+        },
+        {
+            "move": "Revenge",
+            "tm": true
+        },
+        {
+            "move": "Imprison",
+            "tm": true
+        },
+        {
+            "move": "Payback",
+            "tm": true
+        },
+        {
+            "move": "Power Swap",
+            "tm": true
+        },
+        {
+            "move": "Guard Swap",
+            "tm": true
+        },
+        {
+            "move": "Thunder Fang",
+            "tm": true
+        },
+        {
+            "move": "Ice Fang",
+            "tm": true
+        },
+        {
+            "move": "Fire Fang",
+            "tm": true
+        },
+        {
+            "move": "Round",
+            "tm": true
+        },
+        {
+            "move": "Retaliate",
+            "tm": true
+        },
+        {
+            "move": "Tail Slap",
+            "tm": true
+        },
+        {
+            "move": "Snarl",
+            "tm": true
+        },
+        {
+            "move": "Agility",
+            "tm": true
+        },
+        {
+            "move": "Focus Energy",
+            "tm": true
+        },
+        {
+            "move": "Substitute",
+            "tm": true
+        },
+        {
+            "move": "Reversal",
+            "tm": true
+        },
+        {
+            "move": "Endure",
+            "tm": true
+        },
+        {
+            "move": "Sleep Talk",
+            "tm": true
+        },
+        {
+            "move": "Iron Tail",
+            "tm": true
+        },
+        {
+            "move": "Crunch",
+            "tm": true
+        },
+        {
+            "move": "Hyper Voice",
+            "tm": true
+        },
+        {
+            "move": "Iron Defense",
+            "tm": true
+        },
+        {
+            "move": "Close Combat",
+            "tm": true
+        },
+        {
+            "move": "Focus Blast",
+            "tm": true
+        },
+        {
+            "move": "Flash Cannon",
+            "tm": true
+        },
+        {
+            "move": "Iron Head",
+            "tm": true
+        },
+        {
+            "move": "Work Up",
+            "tm": true
+        },
+        {
+            "move": "Wild Charge",
+            "tm": true
+        },
+        {
+            "move": "Play Rough",
+            "tm": true
+        },
+        {
+            "move": "Dazzling Gleam",
+            "tm": true
+        },
+        {
+            "move": "Psychic Fangs",
+            "tm": true
+        }
+    ]
+}
