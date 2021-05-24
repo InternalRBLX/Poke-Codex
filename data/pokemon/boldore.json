@@ -1,256 +1,249 @@
 {
-    "name": "Boldore",
-    "national_id": 525,
-    "types": [
-        "Rock"
-    ],
-    "items": [
-        {
-            "name": "Hard Stone",
-            "chance": 5
-        },
-        {
-            "name": "Everstone",
-            "chance": 50
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Sturdy"
-        },
-        {
-            "name": "Weak Armor"
-        },
-        {
-            "name": "Sand Force",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 120,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Mineral"
-    ],
-    "hatch_time": [
-        4080,
-        4334
-    ],
-    "height_us": "2'11\"",
-    "height_eu": "0.9 m",
-    "weight_us": "224.9 lbs.",
-    "weight_eu": "102.0 kg",
-    "base_exp_yield": 137,
-    "leveling_rate": "Medium Slow",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 1,
-        "def": 1,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 70,
-        "atk": 105,
-        "def": 105,
-        "sp_atk": 50,
-        "sp_def": 40,
-        "speed": 20
-    },
-    "evolution_from": "Roggenrola",
-    "evolutions": [
-        {
-            "to": "Gigalith",
-            "trade": true
-        }
-    ],
-    "species": "Ore Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "When it is healthy, its core sticks out. Always facing the same way, it swiftly moves front to back and left to right.",
-    "move_learnset": [
-        {
-            "move": "Power Gem",
-            "evo": true
-        },
-        {
-            "move": "Power Gem",
-            "level": 1
-        },
-        {
-            "move": "Sand Attack",
-            "level": 1
-        },
-        {
-            "move": "Tackle",
-            "level": 1
-        },
-        {
-            "move": "Harden",
-            "level": 1
-        },
-        {
-            "move": "Stealth Rock",
-            "level": 1
-        },
-        {
-            "move": "Mud-Slap",
-            "level": 12
-        },
-        {
-            "move": "Smack Down",
-            "level": 16
-        },
-        {
-            "move": "Iron Defense",
-            "level": 20
-        },
-        {
-            "move": "Headbutt",
-            "level": 24
-        },
-        {
-            "move": "Rock Slide",
-            "level": 30
-        },
-        {
-            "move": "Rock Blast",
-            "level": 36
-        },
-        {
-            "move": "Sandstorm",
-            "level": 42
-        },
-        {
-            "move": "Stone Edge",
-            "level": 48
-        },
-        {
-            "move": "Explosion",
-            "level": 54
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Rock Slide",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Sandstorm",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Rock Tomb",
-            "tm": true
-        },
-        {
-            "move": "Sand Tomb",
-            "tm": true
-        },
-        {
-            "move": "Rock Blast",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Bulldoze",
-            "tm": true
-        },
-        {
-            "move": "Stomping Tantrum",
-            "tm": true
-        },
-        {
-            "move": "Earthquake",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Iron Defense",
-            "tm": true
-        },
-        {
-            "move": "Power Gem",
-            "tm": true
-        },
-        {
-            "move": "Earth Power",
-            "tm": true
-        },
-        {
-            "move": "Flash Cannon",
-            "tm": true
-        },
-        {
-            "move": "Stone Edge",
-            "tm": true
-        },
-        {
-            "move": "Stealth Rock",
-            "tm": true
-        },
-        {
-            "move": "Heavy Slam",
-            "tm": true
-        },
-        {
-            "move": "Body Press",
-            "tm": true
-        },
-        {
-            "move": "Curse",
-            "egg_move": true
-        },
-        {
-            "move": "Autotomize",
-            "egg_move": true
-        },
-        {
-            "move": "Take Down",
-            "egg_move": true
-        },
-        {
-            "move": "Gravity",
-            "egg_move": true
-        },
-        {
-            "move": "Wide Guard",
-            "egg_move": true
-        }
-    ]
+	"name": "Boldore",
+	"national_id": 525,
+	"types": ["Rock"],
+	"items": [
+		{
+			"name": "Hard Stone",
+			"chance": 5
+		},
+		{
+			"name": "Everstone",
+			"chance": 50
+		}
+	],
+	"abilities": [
+		{
+			"name": "Sturdy"
+		},
+		{
+			"name": "Weak Armor"
+		},
+		{
+			"name": "Sand Force",
+			"hidden": true
+		}
+	],
+	"catch_rate": 120,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Mineral"],
+	"hatch_time": [4080, 4334],
+	"height_us": "2'11\"",
+	"height_eu": "0.9 m",
+	"weight_us": "224.9 lbs.",
+	"weight_eu": "102.0 kg",
+	"base_exp_yield": 137,
+	"leveling_rate": "Medium Slow",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 1,
+		"def": 1,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 70,
+		"atk": 105,
+		"def": 105,
+		"sp_atk": 50,
+		"sp_def": 40,
+		"speed": 20
+	},
+	"evolution_from": "Roggenrola",
+	"evolutions": [
+		{
+			"to": "Gigalith",
+			"trade": true
+		}
+	],
+	"species": "Ore Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "When it is healthy, its core sticks out. Always facing the same way, it swiftly moves front to back and left to right.",
+	"move_learnset": [
+		{
+			"move": "Power Gem",
+			"evo": true
+		},
+		{
+			"move": "Power Gem",
+			"level": 1
+		},
+		{
+			"move": "Sand Attack",
+			"level": 1
+		},
+		{
+			"move": "Tackle",
+			"level": 1
+		},
+		{
+			"move": "Harden",
+			"level": 1
+		},
+		{
+			"move": "Stealth Rock",
+			"level": 1
+		},
+		{
+			"move": "Mud-Slap",
+			"level": 12
+		},
+		{
+			"move": "Smack Down",
+			"level": 16
+		},
+		{
+			"move": "Iron Defense",
+			"level": 20
+		},
+		{
+			"move": "Headbutt",
+			"level": 24
+		},
+		{
+			"move": "Rock Slide",
+			"level": 30
+		},
+		{
+			"move": "Rock Blast",
+			"level": 36
+		},
+		{
+			"move": "Sandstorm",
+			"level": 42
+		},
+		{
+			"move": "Stone Edge",
+			"level": 48
+		},
+		{
+			"move": "Explosion",
+			"level": 54
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Rock Slide",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Sandstorm",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Rock Tomb",
+			"tm": true
+		},
+		{
+			"move": "Sand Tomb",
+			"tm": true
+		},
+		{
+			"move": "Rock Blast",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Bulldoze",
+			"tm": true
+		},
+		{
+			"move": "Stomping Tantrum",
+			"tm": true
+		},
+		{
+			"move": "Earthquake",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Iron Defense",
+			"tm": true
+		},
+		{
+			"move": "Power Gem",
+			"tm": true
+		},
+		{
+			"move": "Earth Power",
+			"tm": true
+		},
+		{
+			"move": "Flash Cannon",
+			"tm": true
+		},
+		{
+			"move": "Stone Edge",
+			"tm": true
+		},
+		{
+			"move": "Stealth Rock",
+			"tm": true
+		},
+		{
+			"move": "Heavy Slam",
+			"tm": true
+		},
+		{
+			"move": "Body Press",
+			"tm": true
+		},
+		{
+			"move": "Curse",
+			"egg_move": true
+		},
+		{
+			"move": "Autotomize",
+			"egg_move": true
+		},
+		{
+			"move": "Take Down",
+			"egg_move": true
+		},
+		{
+			"move": "Gravity",
+			"egg_move": true
+		},
+		{
+			"move": "Wide Guard",
+			"egg_move": true
+		}
+	]
 }

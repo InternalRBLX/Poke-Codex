@@ -1,8 +1,8 @@
 {
-    "name": "Love Ball",
-    "sell_price": 150,
-    "holdable": true,
-    "battle": true,
-    "category": "Ball",
-    "subcategory": "Ball"
+	"name": "Love Ball",
+	"sell_price": 150,
+	"holdable": true,
+	"battle": true,
+	"category": "Ball",
+	"subcategory": "Ball"
 }

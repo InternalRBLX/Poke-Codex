@@ -1,69 +1,62 @@
 {
-    "name": "Ditto",
-    "national_id": 132,
-    "types": [
-        "Normal"
-    ],
-    "items": [
-        {
-            "name": "Metal Powder",
-            "chance": 5
-        },
-        {
-            "name": "Quick Powder",
-            "chance": 50
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Limber"
-        },
-        {
-            "name": "Imposter",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 35,
-    "gender_ratios": null,
-    "egg_groups": [
-        "Ditto"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "1'00\"",
-    "height_eu": "0.3 m",
-    "weight_us": "8.8 lbs.",
-    "weight_eu": "4.0 kg",
-    "base_exp_yield": 101,
-    "leveling_rate": "Medium Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 1,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 48,
-        "atk": 48,
-        "def": 48,
-        "sp_atk": 48,
-        "sp_def": 48,
-        "speed": 48
-    },
-    "evolution_from": null,
-    "evolutions": [],
-    "species": "Transform Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "When it encounters another Ditto, it will move faster than normal to duplicate that opponent exactly.",
-    "move_learnset": [
-        {
-            "move": "Transform",
-            "level": 1
-        }
-    ]
+	"name": "Ditto",
+	"national_id": 132,
+	"types": ["Normal"],
+	"items": [
+		{
+			"name": "Metal Powder",
+			"chance": 5
+		},
+		{
+			"name": "Quick Powder",
+			"chance": 50
+		}
+	],
+	"abilities": [
+		{
+			"name": "Limber"
+		},
+		{
+			"name": "Imposter",
+			"hidden": true
+		}
+	],
+	"catch_rate": 35,
+	"gender_ratios": null,
+	"egg_groups": ["Ditto"],
+	"hatch_time": [5355, 5609],
+	"height_us": "1'00\"",
+	"height_eu": "0.3 m",
+	"weight_us": "8.8 lbs.",
+	"weight_eu": "4.0 kg",
+	"base_exp_yield": 101,
+	"leveling_rate": "Medium Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 1,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 48,
+		"atk": 48,
+		"def": 48,
+		"sp_atk": 48,
+		"sp_def": 48,
+		"speed": 48
+	},
+	"evolution_from": null,
+	"evolutions": [],
+	"species": "Transform Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "When it encounters another Ditto, it will move faster than normal to duplicate that opponent exactly.",
+	"move_learnset": [
+		{
+			"move": "Transform",
+			"level": 1
+		}
+	]
 }

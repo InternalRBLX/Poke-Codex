@@ -1,320 +1,313 @@
 {
-    "name": "Chimecho",
-    "national_id": 358,
-    "types": [
-        "Psychic"
-    ],
-    "items": [
-        {
-            "name": "Spell Tag",
-            "chance": 5
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Levitate"
-        }
-    ],
-    "catch_rate": 45,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Amorphous"
-    ],
-    "hatch_time": [
-        6630,
-        6884
-    ],
-    "height_us": "2'00\"",
-    "height_eu": "0.6 m",
-    "weight_us": "2.2 lbs.",
-    "weight_eu": "1.0 kg",
-    "base_exp_yield": 149,
-    "leveling_rate": "Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 1,
-        "sp_def": 1,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 65,
-        "atk": 50,
-        "def": 70,
-        "sp_atk": 95,
-        "sp_def": 80,
-        "speed": 65
-    },
-    "evolution_from": "Chingling",
-    "evolutions": [],
-    "species": "Wind Chime Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "In high winds, Chimecho cries as it hangs from a tree branch or the eaves of a building using a suction cup on its head. This Pokémon plucks berries with its long tail and eats them.",
-    "move_learnset": [
-        {
-            "move": "Astonish",
-            "level": 1
-        },
-        {
-            "move": "Confusion",
-            "level": 1
-        },
-        {
-            "move": "Growl",
-            "level": 1
-        },
-        {
-            "move": "Healing Wish",
-            "level": 1
-        },
-        {
-            "move": "Synchronoise",
-            "level": 1
-        },
-        {
-            "move": "Wrap",
-            "level": 1
-        },
-        {
-            "move": "Growl",
-            "level": 4
-        },
-        {
-            "move": "Astonish",
-            "level": 7
-        },
-        {
-            "move": "Confusion",
-            "level": 10
-        },
-        {
-            "move": "Yawn",
-            "level": 13
-        },
-        {
-            "move": "Psywave",
-            "level": 16
-        },
-        {
-            "move": "Take Down",
-            "level": 19
-        },
-        {
-            "move": "Extrasensory",
-            "level": 22
-        },
-        {
-            "move": "Heal Bell",
-            "level": 27
-        },
-        {
-            "move": "Uproar",
-            "level": 32
-        },
-        {
-            "move": "Safeguard",
-            "level": 37
-        },
-        {
-            "move": "Double-Edge",
-            "level": 42
-        },
-        {
-            "move": "Heal Pulse",
-            "level": 47
-        },
-        {
-            "move": "Synchronoise",
-            "level": 52
-        },
-        {
-            "move": "Healing Wish",
-            "level": 57
-        },
-        {
-            "move": "Cosmic Power",
-            "egg_move": true
-        },
-        {
-            "move": "Crafty Shield",
-            "egg_move": true
-        },
-        {
-            "move": "Curse",
-            "egg_move": true
-        },
-        {
-            "move": "Disable",
-            "egg_move": true
-        },
-        {
-            "move": "Future Sight",
-            "egg_move": true
-        },
-        {
-            "move": "Hypnosis",
-            "egg_move": true
-        },
-        {
-            "move": "Perish Song",
-            "egg_move": true
-        },
-        {
-            "move": "Recover",
-            "egg_move": true
-        },
-        {
-            "move": "Skill Swap",
-            "egg_move": true
-        },
-        {
-            "move": "Stored Power",
-            "egg_move": true
-        },
-        {
-            "move": "Wish",
-            "egg_move": true
-        },
-        {
-            "move": "Psyshock",
-            "tm": "TM3"
-        },
-        {
-            "move": "Calm Mind",
-            "tm": "TM4"
-        },
-        {
-            "move": "Toxic",
-            "tm": "TM6"
-        },
-        {
-            "move": "Hidden Power",
-            "tm": "TM10"
-        },
-        {
-            "move": "Sunny Day",
-            "tm": "TM11"
-        },
-        {
-            "move": "Taunt",
-            "tm": "TM12"
-        },
-        {
-            "move": "Light Screen",
-            "tm": "TM16"
-        },
-        {
-            "move": "Protect",
-            "tm": "TM17"
-        },
-        {
-            "move": "Rain Dance",
-            "tm": "TM18"
-        },
-        {
-            "move": "Safeguard",
-            "tm": "TM20"
-        },
-        {
-            "move": "Frustration",
-            "tm": "TM21"
-        },
-        {
-            "move": "Return",
-            "tm": "TM27"
-        },
-        {
-            "move": "Psychic",
-            "tm": "TM29"
-        },
-        {
-            "move": "Shadow Ball",
-            "tm": "TM30"
-        },
-        {
-            "move": "Double Team",
-            "tm": "TM32"
-        },
-        {
-            "move": "Reflect",
-            "tm": "TM33"
-        },
-        {
-            "move": "Torment",
-            "tm": "TM41"
-        },
-        {
-            "move": "Facade",
-            "tm": "TM42"
-        },
-        {
-            "move": "Rest",
-            "tm": "TM44"
-        },
-        {
-            "move": "Attract",
-            "tm": "TM45"
-        },
-        {
-            "move": "Round",
-            "tm": "TM48"
-        },
-        {
-            "move": "Echoed Voice",
-            "tm": "TM49"
-        },
-        {
-            "move": "Energy Ball",
-            "tm": "TM53"
-        },
-        {
-            "move": "Charge Beam",
-            "tm": "TM57"
-        },
-        {
-            "move": "Thunder Wave",
-            "tm": "TM73"
-        },
-        {
-            "move": "Psych Up",
-            "tm": "TM77"
-        },
-        {
-            "move": "Dream Eater",
-            "tm": "TM85"
-        },
-        {
-            "move": "Grass Knot",
-            "tm": "TM86"
-        },
-        {
-            "move": "Swagger",
-            "tm": "TM87"
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": "TM88"
-        },
-        {
-            "move": "Substitute",
-            "tm": "TM90"
-        },
-        {
-            "move": "Trick Room",
-            "tm": "TM92"
-        },
-        {
-            "move": "Dazzling Gleam",
-            "tm": "TM99"
-        },
-        {
-            "move": "Confide",
-            "tm": "TM100"
-        }
-    ]
+	"name": "Chimecho",
+	"national_id": 358,
+	"types": ["Psychic"],
+	"items": [
+		{
+			"name": "Spell Tag",
+			"chance": 5
+		}
+	],
+	"abilities": [
+		{
+			"name": "Levitate"
+		}
+	],
+	"catch_rate": 45,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Amorphous"],
+	"hatch_time": [6630, 6884],
+	"height_us": "2'00\"",
+	"height_eu": "0.6 m",
+	"weight_us": "2.2 lbs.",
+	"weight_eu": "1.0 kg",
+	"base_exp_yield": 149,
+	"leveling_rate": "Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 1,
+		"sp_def": 1,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 65,
+		"atk": 50,
+		"def": 70,
+		"sp_atk": 95,
+		"sp_def": 80,
+		"speed": 65
+	},
+	"evolution_from": "Chingling",
+	"evolutions": [],
+	"species": "Wind Chime Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "In high winds, Chimecho cries as it hangs from a tree branch or the eaves of a building using a suction cup on its head. This Pokémon plucks berries with its long tail and eats them.",
+	"move_learnset": [
+		{
+			"move": "Astonish",
+			"level": 1
+		},
+		{
+			"move": "Confusion",
+			"level": 1
+		},
+		{
+			"move": "Growl",
+			"level": 1
+		},
+		{
+			"move": "Healing Wish",
+			"level": 1
+		},
+		{
+			"move": "Synchronoise",
+			"level": 1
+		},
+		{
+			"move": "Wrap",
+			"level": 1
+		},
+		{
+			"move": "Growl",
+			"level": 4
+		},
+		{
+			"move": "Astonish",
+			"level": 7
+		},
+		{
+			"move": "Confusion",
+			"level": 10
+		},
+		{
+			"move": "Yawn",
+			"level": 13
+		},
+		{
+			"move": "Psywave",
+			"level": 16
+		},
+		{
+			"move": "Take Down",
+			"level": 19
+		},
+		{
+			"move": "Extrasensory",
+			"level": 22
+		},
+		{
+			"move": "Heal Bell",
+			"level": 27
+		},
+		{
+			"move": "Uproar",
+			"level": 32
+		},
+		{
+			"move": "Safeguard",
+			"level": 37
+		},
+		{
+			"move": "Double-Edge",
+			"level": 42
+		},
+		{
+			"move": "Heal Pulse",
+			"level": 47
+		},
+		{
+			"move": "Synchronoise",
+			"level": 52
+		},
+		{
+			"move": "Healing Wish",
+			"level": 57
+		},
+		{
+			"move": "Cosmic Power",
+			"egg_move": true
+		},
+		{
+			"move": "Crafty Shield",
+			"egg_move": true
+		},
+		{
+			"move": "Curse",
+			"egg_move": true
+		},
+		{
+			"move": "Disable",
+			"egg_move": true
+		},
+		{
+			"move": "Future Sight",
+			"egg_move": true
+		},
+		{
+			"move": "Hypnosis",
+			"egg_move": true
+		},
+		{
+			"move": "Perish Song",
+			"egg_move": true
+		},
+		{
+			"move": "Recover",
+			"egg_move": true
+		},
+		{
+			"move": "Skill Swap",
+			"egg_move": true
+		},
+		{
+			"move": "Stored Power",
+			"egg_move": true
+		},
+		{
+			"move": "Wish",
+			"egg_move": true
+		},
+		{
+			"move": "Psyshock",
+			"tm": "TM3"
+		},
+		{
+			"move": "Calm Mind",
+			"tm": "TM4"
+		},
+		{
+			"move": "Toxic",
+			"tm": "TM6"
+		},
+		{
+			"move": "Hidden Power",
+			"tm": "TM10"
+		},
+		{
+			"move": "Sunny Day",
+			"tm": "TM11"
+		},
+		{
+			"move": "Taunt",
+			"tm": "TM12"
+		},
+		{
+			"move": "Light Screen",
+			"tm": "TM16"
+		},
+		{
+			"move": "Protect",
+			"tm": "TM17"
+		},
+		{
+			"move": "Rain Dance",
+			"tm": "TM18"
+		},
+		{
+			"move": "Safeguard",
+			"tm": "TM20"
+		},
+		{
+			"move": "Frustration",
+			"tm": "TM21"
+		},
+		{
+			"move": "Return",
+			"tm": "TM27"
+		},
+		{
+			"move": "Psychic",
+			"tm": "TM29"
+		},
+		{
+			"move": "Shadow Ball",
+			"tm": "TM30"
+		},
+		{
+			"move": "Double Team",
+			"tm": "TM32"
+		},
+		{
+			"move": "Reflect",
+			"tm": "TM33"
+		},
+		{
+			"move": "Torment",
+			"tm": "TM41"
+		},
+		{
+			"move": "Facade",
+			"tm": "TM42"
+		},
+		{
+			"move": "Rest",
+			"tm": "TM44"
+		},
+		{
+			"move": "Attract",
+			"tm": "TM45"
+		},
+		{
+			"move": "Round",
+			"tm": "TM48"
+		},
+		{
+			"move": "Echoed Voice",
+			"tm": "TM49"
+		},
+		{
+			"move": "Energy Ball",
+			"tm": "TM53"
+		},
+		{
+			"move": "Charge Beam",
+			"tm": "TM57"
+		},
+		{
+			"move": "Thunder Wave",
+			"tm": "TM73"
+		},
+		{
+			"move": "Psych Up",
+			"tm": "TM77"
+		},
+		{
+			"move": "Dream Eater",
+			"tm": "TM85"
+		},
+		{
+			"move": "Grass Knot",
+			"tm": "TM86"
+		},
+		{
+			"move": "Swagger",
+			"tm": "TM87"
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": "TM88"
+		},
+		{
+			"move": "Substitute",
+			"tm": "TM90"
+		},
+		{
+			"move": "Trick Room",
+			"tm": "TM92"
+		},
+		{
+			"move": "Dazzling Gleam",
+			"tm": "TM99"
+		},
+		{
+			"move": "Confide",
+			"tm": "TM100"
+		}
+	]
 }

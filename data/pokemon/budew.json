@@ -1,228 +1,218 @@
 {
-    "name": "Budew",
-    "national_id": 406,
-    "types": [
-        "Grass",
-        "Poison"
-    ],
-    "items": [
-        {
-            "name": "Poison Barb",
-            "chance": 5
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Natural Cure"
-        },
-        {
-            "name": "Poison Point"
-        },
-        {
-            "name": "Leaf Guard",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 255,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Undiscovered"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "0'08\"",
-    "height_eu": "0.2 m",
-    "weight_us": "2.6 lbs.",
-    "weight_eu": "1.2 kg",
-    "base_exp_yield": 56,
-    "leveling_rate": "Medium Slow",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 1,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 40,
-        "atk": 30,
-        "def": 35,
-        "sp_atk": 50,
-        "sp_def": 70,
-        "speed": 55
-    },
-    "evolution_from": null,
-    "evolutions": [
-        {
-            "to": "Roselia",
-            "happiness": true,
-            "conditions": [
-                "Daytime"
-            ]
-        }
-    ],
-    "species": "Bud Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "Over the winter, it closes its bud and endures the cold. In spring, the bud opens and releases pollen.",
-    "move_learnset": [
-        {
-            "move": "Absorb",
-            "level": 1
-        },
-        {
-            "move": "Growth",
-            "level": 1
-        },
-        {
-            "move": "Stun Spore",
-            "level": 1
-        },
-        {
-            "move": "Worry Seed",
-            "level": 1
-        },
-        {
-            "move": "Pin Missile",
-            "tm": true
-        },
-        {
-            "move": "Solar Beam",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Giga Drain",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Rain Dance",
-            "tm": true
-        },
-        {
-            "move": "Sunny Day",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Swift",
-            "tm": true
-        },
-        {
-            "move": "Weather Ball",
-            "tm": true
-        },
-        {
-            "move": "Bullet Seed",
-            "tm": true
-        },
-        {
-            "move": "Venoshock",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Swords Dance",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Sludge Bomb",
-            "tm": true
-        },
-        {
-            "move": "Spikes",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Shadow Ball",
-            "tm": true
-        },
-        {
-            "move": "Uproar",
-            "tm": true
-        },
-        {
-            "move": "Seed Bomb",
-            "tm": true
-        },
-        {
-            "move": "Energy Ball",
-            "tm": true
-        },
-        {
-            "move": "Leaf Storm",
-            "tm": true
-        },
-        {
-            "move": "Grass Knot",
-            "tm": true
-        },
-        {
-            "move": "Dazzling Gleam",
-            "tm": true
-        },
-        {
-            "move": "Synthesis",
-            "egg_move": true
-        },
-        {
-            "move": "Cotton Spore",
-            "egg_move": true
-        },
-        {
-            "move": "Sleep Powder",
-            "egg_move": true
-        },
-        {
-            "move": "Razor Leaf",
-            "egg_move": true
-        },
-        {
-            "move": "Extrasensory",
-            "egg_move": true
-        },
-        {
-            "move": "Life Dew",
-            "egg_move": true
-        }
-    ]
+	"name": "Budew",
+	"national_id": 406,
+	"types": ["Grass", "Poison"],
+	"items": [
+		{
+			"name": "Poison Barb",
+			"chance": 5
+		}
+	],
+	"abilities": [
+		{
+			"name": "Natural Cure"
+		},
+		{
+			"name": "Poison Point"
+		},
+		{
+			"name": "Leaf Guard",
+			"hidden": true
+		}
+	],
+	"catch_rate": 255,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Undiscovered"],
+	"hatch_time": [5355, 5609],
+	"height_us": "0'08\"",
+	"height_eu": "0.2 m",
+	"weight_us": "2.6 lbs.",
+	"weight_eu": "1.2 kg",
+	"base_exp_yield": 56,
+	"leveling_rate": "Medium Slow",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 1,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 40,
+		"atk": 30,
+		"def": 35,
+		"sp_atk": 50,
+		"sp_def": 70,
+		"speed": 55
+	},
+	"evolution_from": null,
+	"evolutions": [
+		{
+			"to": "Roselia",
+			"happiness": true,
+			"conditions": ["Daytime"]
+		}
+	],
+	"species": "Bud Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "Over the winter, it closes its bud and endures the cold. In spring, the bud opens and releases pollen.",
+	"move_learnset": [
+		{
+			"move": "Absorb",
+			"level": 1
+		},
+		{
+			"move": "Growth",
+			"level": 1
+		},
+		{
+			"move": "Stun Spore",
+			"level": 1
+		},
+		{
+			"move": "Worry Seed",
+			"level": 1
+		},
+		{
+			"move": "Pin Missile",
+			"tm": true
+		},
+		{
+			"move": "Solar Beam",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Giga Drain",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Rain Dance",
+			"tm": true
+		},
+		{
+			"move": "Sunny Day",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Swift",
+			"tm": true
+		},
+		{
+			"move": "Weather Ball",
+			"tm": true
+		},
+		{
+			"move": "Bullet Seed",
+			"tm": true
+		},
+		{
+			"move": "Venoshock",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Swords Dance",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Sludge Bomb",
+			"tm": true
+		},
+		{
+			"move": "Spikes",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Shadow Ball",
+			"tm": true
+		},
+		{
+			"move": "Uproar",
+			"tm": true
+		},
+		{
+			"move": "Seed Bomb",
+			"tm": true
+		},
+		{
+			"move": "Energy Ball",
+			"tm": true
+		},
+		{
+			"move": "Leaf Storm",
+			"tm": true
+		},
+		{
+			"move": "Grass Knot",
+			"tm": true
+		},
+		{
+			"move": "Dazzling Gleam",
+			"tm": true
+		},
+		{
+			"move": "Synthesis",
+			"egg_move": true
+		},
+		{
+			"move": "Cotton Spore",
+			"egg_move": true
+		},
+		{
+			"move": "Sleep Powder",
+			"egg_move": true
+		},
+		{
+			"move": "Razor Leaf",
+			"egg_move": true
+		},
+		{
+			"move": "Extrasensory",
+			"egg_move": true
+		},
+		{
+			"move": "Life Dew",
+			"egg_move": true
+		}
+	]
 }

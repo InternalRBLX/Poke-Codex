@@ -1,377 +1,369 @@
 {
-    "name": "Raichu",
-    "national_id": 26,
-    "types": [
-        "Electric"
-    ],
-    "items": [
-        {
-            "name": "Oran Berry",
-            "chance": 50
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Static"
-        },
-        {
-            "name": "Lightning Rod",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 75,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Field",
-        "Fairy"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "2'07\"",
-    "height_eu": "0.8 m",
-    "weight_us": "66.1 lbs.",
-    "weight_eu": "30.0 kg",
-    "base_exp_yield": 214,
-    "leveling_rate": "Medium Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 3
-    },
-    "base_stats": {
-        "hp": 60,
-        "atk": 90,
-        "def": 55,
-        "sp_atk": 90,
-        "sp_def": 80,
-        "speed": 110
-    },
-    "evolution_from": "Pikachu",
-    "evolutions": [],
-    "species": "Mouse Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "If its electric pouches run empty, it raises its tail to gather electricity from the atmosphere.",
-    "move_learnset": [
-        {
-            "move": "Thunder Punch",
-            "evo": true
-        },
-        {
-            "move": "Thunder Punch",
-            "level": 1
-        },
-        {
-            "move": "Play Nice",
-            "level": 1
-        },
-        {
-            "move": "Sweet Kiss",
-            "level": 1
-        },
-        {
-            "move": "Nuzzle",
-            "level": 1
-        },
-        {
-            "move": "Nasty Plot",
-            "level": 1
-        },
-        {
-            "move": "Charm",
-            "level": 1
-        },
-        {
-            "move": "Thunder Wave",
-            "level": 1
-        },
-        {
-            "move": "Double Team",
-            "level": 1
-        },
-        {
-            "move": "Electro Ball",
-            "level": 1
-        },
-        {
-            "move": "Feint",
-            "level": 1
-        },
-        {
-            "move": "Spark",
-            "level": 1
-        },
-        {
-            "move": "Agility",
-            "level": 1
-        },
-        {
-            "move": "Slam",
-            "level": 1
-        },
-        {
-            "move": "Discharge",
-            "level": 1
-        },
-        {
-            "move": "Thunderbolt",
-            "level": 1
-        },
-        {
-            "move": "Light Screen",
-            "level": 1
-        },
-        {
-            "move": "Thunder",
-            "level": 1
-        },
-        {
-            "move": "Thunder Shock",
-            "level": 1
-        },
-        {
-            "move": "Tail Whip",
-            "level": 1
-        },
-        {
-            "move": "Growl",
-            "level": 1
-        },
-        {
-            "move": "Quick Attack",
-            "level": 1
-        },
-        {
-            "move": "Mega Punch",
-            "tm": true
-        },
-        {
-            "move": "Mega Kick",
-            "tm": true
-        },
-        {
-            "move": "Pay Day",
-            "tm": true
-        },
-        {
-            "move": "Thunder Punch",
-            "tm": true
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": true
-        },
-        {
-            "move": "Giga Impact",
-            "tm": true
-        },
-        {
-            "move": "Thunder Wave",
-            "tm": true
-        },
-        {
-            "move": "Dig",
-            "tm": true
-        },
-        {
-            "move": "Light Screen",
-            "tm": true
-        },
-        {
-            "move": "Reflect",
-            "tm": true
-        },
-        {
-            "move": "Safeguard",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Thief",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Charm",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Rain Dance",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Swift",
-            "tm": true
-        },
-        {
-            "move": "Helping Hand",
-            "tm": true
-        },
-        {
-            "move": "Brick Break",
-            "tm": true
-        },
-        {
-            "move": "Fling",
-            "tm": true
-        },
-        {
-            "move": "Speed Swap",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Volt Switch",
-            "tm": true
-        },
-        {
-            "move": "Electroweb",
-            "tm": true
-        },
-        {
-            "move": "Draining Kiss",
-            "tm": true
-        },
-        {
-            "move": "Electric Terrain",
-            "tm": true
-        },
-        {
-            "move": "Eerie Impulse",
-            "tm": true
-        },
-        {
-            "move": "Brutal Swing",
-            "tm": true
-        },
-        {
-            "move": "Body Slam",
-            "tm": true
-        },
-        {
-            "move": "Surf",
-            "tm": true
-        },
-        {
-            "move": "Thunderbolt",
-            "tm": true
-        },
-        {
-            "move": "Thunder",
-            "tm": true
-        },
-        {
-            "move": "Agility",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Reversal",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Encore",
-            "tm": true
-        },
-        {
-            "move": "Iron Tail",
-            "tm": true
-        },
-        {
-            "move": "Uproar",
-            "tm": true
-        },
-        {
-            "move": "Focus Blast",
-            "tm": true
-        },
-        {
-            "move": "Nasty Plot",
-            "tm": true
-        },
-        {
-            "move": "Grass Knot",
-            "tm": true
-        },
-        {
-            "move": "Electro Ball",
-            "tm": true
-        },
-        {
-            "move": "Wild Charge",
-            "tm": true
-        },
-        {
-            "move": "Play Rough",
-            "tm": true
-        },
-        {
-            "move": "Present",
-            "egg_move": true
-        },
-        {
-            "move": "Wish",
-            "egg_move": true
-        },
-        {
-            "move": "Charge",
-            "egg_move": true
-        },
-        {
-            "move": "Fake Out",
-            "egg_move": true
-        },
-        {
-            "move": "Tickle",
-            "egg_move": true
-        },
-        {
-            "move": "Flail",
-            "egg_move": true
-        },
-        {
-            "move": "Disarming Voice",
-            "egg_move": true
-        }
-    ]
+	"name": "Raichu",
+	"national_id": 26,
+	"types": ["Electric"],
+	"items": [
+		{
+			"name": "Oran Berry",
+			"chance": 50
+		}
+	],
+	"abilities": [
+		{
+			"name": "Static"
+		},
+		{
+			"name": "Lightning Rod",
+			"hidden": true
+		}
+	],
+	"catch_rate": 75,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Field", "Fairy"],
+	"hatch_time": [5355, 5609],
+	"height_us": "2'07\"",
+	"height_eu": "0.8 m",
+	"weight_us": "66.1 lbs.",
+	"weight_eu": "30.0 kg",
+	"base_exp_yield": 214,
+	"leveling_rate": "Medium Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 3
+	},
+	"base_stats": {
+		"hp": 60,
+		"atk": 90,
+		"def": 55,
+		"sp_atk": 90,
+		"sp_def": 80,
+		"speed": 110
+	},
+	"evolution_from": "Pikachu",
+	"evolutions": [],
+	"species": "Mouse Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "If its electric pouches run empty, it raises its tail to gather electricity from the atmosphere.",
+	"move_learnset": [
+		{
+			"move": "Thunder Punch",
+			"evo": true
+		},
+		{
+			"move": "Thunder Punch",
+			"level": 1
+		},
+		{
+			"move": "Play Nice",
+			"level": 1
+		},
+		{
+			"move": "Sweet Kiss",
+			"level": 1
+		},
+		{
+			"move": "Nuzzle",
+			"level": 1
+		},
+		{
+			"move": "Nasty Plot",
+			"level": 1
+		},
+		{
+			"move": "Charm",
+			"level": 1
+		},
+		{
+			"move": "Thunder Wave",
+			"level": 1
+		},
+		{
+			"move": "Double Team",
+			"level": 1
+		},
+		{
+			"move": "Electro Ball",
+			"level": 1
+		},
+		{
+			"move": "Feint",
+			"level": 1
+		},
+		{
+			"move": "Spark",
+			"level": 1
+		},
+		{
+			"move": "Agility",
+			"level": 1
+		},
+		{
+			"move": "Slam",
+			"level": 1
+		},
+		{
+			"move": "Discharge",
+			"level": 1
+		},
+		{
+			"move": "Thunderbolt",
+			"level": 1
+		},
+		{
+			"move": "Light Screen",
+			"level": 1
+		},
+		{
+			"move": "Thunder",
+			"level": 1
+		},
+		{
+			"move": "Thunder Shock",
+			"level": 1
+		},
+		{
+			"move": "Tail Whip",
+			"level": 1
+		},
+		{
+			"move": "Growl",
+			"level": 1
+		},
+		{
+			"move": "Quick Attack",
+			"level": 1
+		},
+		{
+			"move": "Mega Punch",
+			"tm": true
+		},
+		{
+			"move": "Mega Kick",
+			"tm": true
+		},
+		{
+			"move": "Pay Day",
+			"tm": true
+		},
+		{
+			"move": "Thunder Punch",
+			"tm": true
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": true
+		},
+		{
+			"move": "Giga Impact",
+			"tm": true
+		},
+		{
+			"move": "Thunder Wave",
+			"tm": true
+		},
+		{
+			"move": "Dig",
+			"tm": true
+		},
+		{
+			"move": "Light Screen",
+			"tm": true
+		},
+		{
+			"move": "Reflect",
+			"tm": true
+		},
+		{
+			"move": "Safeguard",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Thief",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Charm",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Rain Dance",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Swift",
+			"tm": true
+		},
+		{
+			"move": "Helping Hand",
+			"tm": true
+		},
+		{
+			"move": "Brick Break",
+			"tm": true
+		},
+		{
+			"move": "Fling",
+			"tm": true
+		},
+		{
+			"move": "Speed Swap",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Volt Switch",
+			"tm": true
+		},
+		{
+			"move": "Electroweb",
+			"tm": true
+		},
+		{
+			"move": "Draining Kiss",
+			"tm": true
+		},
+		{
+			"move": "Electric Terrain",
+			"tm": true
+		},
+		{
+			"move": "Eerie Impulse",
+			"tm": true
+		},
+		{
+			"move": "Brutal Swing",
+			"tm": true
+		},
+		{
+			"move": "Body Slam",
+			"tm": true
+		},
+		{
+			"move": "Surf",
+			"tm": true
+		},
+		{
+			"move": "Thunderbolt",
+			"tm": true
+		},
+		{
+			"move": "Thunder",
+			"tm": true
+		},
+		{
+			"move": "Agility",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Reversal",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Encore",
+			"tm": true
+		},
+		{
+			"move": "Iron Tail",
+			"tm": true
+		},
+		{
+			"move": "Uproar",
+			"tm": true
+		},
+		{
+			"move": "Focus Blast",
+			"tm": true
+		},
+		{
+			"move": "Nasty Plot",
+			"tm": true
+		},
+		{
+			"move": "Grass Knot",
+			"tm": true
+		},
+		{
+			"move": "Electro Ball",
+			"tm": true
+		},
+		{
+			"move": "Wild Charge",
+			"tm": true
+		},
+		{
+			"move": "Play Rough",
+			"tm": true
+		},
+		{
+			"move": "Present",
+			"egg_move": true
+		},
+		{
+			"move": "Wish",
+			"egg_move": true
+		},
+		{
+			"move": "Charge",
+			"egg_move": true
+		},
+		{
+			"move": "Fake Out",
+			"egg_move": true
+		},
+		{
+			"move": "Tickle",
+			"egg_move": true
+		},
+		{
+			"move": "Flail",
+			"egg_move": true
+		},
+		{
+			"move": "Disarming Voice",
+			"egg_move": true
+		}
+	]
 }

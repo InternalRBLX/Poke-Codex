@@ -1,97 +1,87 @@
 {
-    "name": "Combee",
-    "national_id": 415,
-    "types": [
-        "Bug",
-        "Flying"
-    ],
-    "items": [
-        {
-            "name": "Honey",
-            "chance": 5
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Honey Gather"
-        },
-        {
-            "name": "Hustle",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 120,
-    "gender_ratios": {
-        "male": 87.5,
-        "female": 12.5
-    },
-    "egg_groups": [
-        "Bug"
-    ],
-    "hatch_time": [
-        4080,
-        4334
-    ],
-    "height_us": "1'00\"",
-    "height_eu": "0.3 m",
-    "weight_us": "12.1 lbs.",
-    "weight_eu": "5.5 kg",
-    "base_exp_yield": 49,
-    "leveling_rate": "Medium Slow",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 1
-    },
-    "base_stats": {
-        "hp": 30,
-        "atk": 30,
-        "def": 42,
-        "sp_atk": 30,
-        "sp_def": 42,
-        "speed": 70
-    },
-    "evolution_from": null,
-    "evolutions": [
-        {
-            "to": "Vespiquen",
-            "level": 21,
-            "conditions": [
-                "Female"
-            ]
-        }
-    ],
-    "species": "Tiny Bee Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "It ceaselessly gathers nectar from sunrise to sundown, all for the sake of Vespiquen and the swarm.",
-    "move_learnset": [
-        {
-            "move": "Sweet Scent",
-            "level": 1
-        },
-        {
-            "move": "Gust",
-            "level": 1
-        },
-        {
-            "move": "Struggle Bug",
-            "level": 1
-        },
-        {
-            "move": "Bug Bite",
-            "level": 1
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Bug Buzz",
-            "tm": true
-        }
-    ]
+	"name": "Combee",
+	"national_id": 415,
+	"types": ["Bug", "Flying"],
+	"items": [
+		{
+			"name": "Honey",
+			"chance": 5
+		}
+	],
+	"abilities": [
+		{
+			"name": "Honey Gather"
+		},
+		{
+			"name": "Hustle",
+			"hidden": true
+		}
+	],
+	"catch_rate": 120,
+	"gender_ratios": {
+		"male": 87.5,
+		"female": 12.5
+	},
+	"egg_groups": ["Bug"],
+	"hatch_time": [4080, 4334],
+	"height_us": "1'00\"",
+	"height_eu": "0.3 m",
+	"weight_us": "12.1 lbs.",
+	"weight_eu": "5.5 kg",
+	"base_exp_yield": 49,
+	"leveling_rate": "Medium Slow",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 1
+	},
+	"base_stats": {
+		"hp": 30,
+		"atk": 30,
+		"def": 42,
+		"sp_atk": 30,
+		"sp_def": 42,
+		"speed": 70
+	},
+	"evolution_from": null,
+	"evolutions": [
+		{
+			"to": "Vespiquen",
+			"level": 21,
+			"conditions": ["Female"]
+		}
+	],
+	"species": "Tiny Bee Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "It ceaselessly gathers nectar from sunrise to sundown, all for the sake of Vespiquen and the swarm.",
+	"move_learnset": [
+		{
+			"move": "Sweet Scent",
+			"level": 1
+		},
+		{
+			"move": "Gust",
+			"level": 1
+		},
+		{
+			"move": "Struggle Bug",
+			"level": 1
+		},
+		{
+			"move": "Bug Bite",
+			"level": 1
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Bug Buzz",
+			"tm": true
+		}
+	]
 }

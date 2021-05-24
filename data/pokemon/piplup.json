@@ -1,288 +1,280 @@
 {
-    "name": "Piplup",
-    "national_id": 393,
-    "types": [
-        "Water"
-    ],
-    "abilities": [
-        {
-            "name": "Torrent"
-        },
-        {
-            "name": "Defiant",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 45,
-    "gender_ratios": {
-        "male": 87.5,
-        "female": 12.5
-    },
-    "egg_groups": [
-        "Water 1",
-        "Field"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "1'04\"",
-    "height_eu": "0.4 m",
-    "weight_us": "11.5 lbs.",
-    "weight_eu": "5.2 kg",
-    "base_exp_yield": 63,
-    "leveling_rate": "Medium Slow",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 1,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 53,
-        "atk": 51,
-        "def": 53,
-        "sp_atk": 61,
-        "sp_def": 56,
-        "speed": 40
-    },
-    "evolution_from": null,
-    "evolutions": [
-        {
-            "to": "Prinplup",
-            "level": 16
-        }
-    ],
-    "species": "Penguin Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "Because it is very proud, it hates accepting food from people. Its thick down guards it from the cold.",
-    "move_learnset": [
-        {
-            "move": "Pound",
-            "level": 1
-        },
-        {
-            "move": "Growl",
-            "level": 4
-        },
-        {
-            "move": "Bubble",
-            "level": 8
-        },
-        {
-            "move": "Water Sport",
-            "level": 11
-        },
-        {
-            "move": "Peck",
-            "level": 15
-        },
-        {
-            "move": "Bubble Beam",
-            "level": 18
-        },
-        {
-            "move": "Bide",
-            "level": 22
-        },
-        {
-            "move": "Fury Attack",
-            "level": 25
-        },
-        {
-            "move": "Brine",
-            "level": 29
-        },
-        {
-            "move": "Whirlpool",
-            "level": 32
-        },
-        {
-            "move": "Mist",
-            "level": 36
-        },
-        {
-            "move": "Drill Peck",
-            "level": 39
-        },
-        {
-            "move": "Hydro Pump",
-            "level": 43
-        },
-        {
-            "move": "Agility",
-            "egg_move": true
-        },
-        {
-            "move": "Aqua Ring",
-            "egg_move": true
-        },
-        {
-            "move": "Bide",
-            "egg_move": true
-        },
-        {
-            "move": "Double Hit",
-            "egg_move": true
-        },
-        {
-            "move": "Feather Dance",
-            "egg_move": true
-        },
-        {
-            "move": "Flail",
-            "egg_move": true
-        },
-        {
-            "move": "Hydro Pump",
-            "egg_move": true
-        },
-        {
-            "move": "Icy Wind",
-            "egg_move": true
-        },
-        {
-            "move": "Mud-Slap",
-            "egg_move": true
-        },
-        {
-            "move": "Mud Sport",
-            "egg_move": true
-        },
-        {
-            "move": "Power Trip",
-            "egg_move": true
-        },
-        {
-            "move": "Snore",
-            "egg_move": true
-        },
-        {
-            "move": "Supersonic",
-            "egg_move": true
-        },
-        {
-            "move": "Yawn",
-            "egg_move": true
-        },
-        {
-            "move": "Work Up",
-            "tm": "TM1"
-        },
-        {
-            "move": "Toxic",
-            "tm": "TM6"
-        },
-        {
-            "move": "Hail",
-            "tm": "TM7"
-        },
-        {
-            "move": "Hidden Power",
-            "tm": "TM10"
-        },
-        {
-            "move": "Ice Beam",
-            "tm": "TM13"
-        },
-        {
-            "move": "Blizzard",
-            "tm": "TM14"
-        },
-        {
-            "move": "Protect",
-            "tm": "TM17"
-        },
-        {
-            "move": "Rain Dance",
-            "tm": "TM18"
-        },
-        {
-            "move": "Frustration",
-            "tm": "TM21"
-        },
-        {
-            "move": "Return",
-            "tm": "TM27"
-        },
-        {
-            "move": "Brick Break",
-            "tm": "TM31"
-        },
-        {
-            "move": "Double Team",
-            "tm": "TM32"
-        },
-        {
-            "move": "Rock Tomb",
-            "tm": "TM39"
-        },
-        {
-            "move": "Aerial Ace",
-            "tm": "TM40"
-        },
-        {
-            "move": "Facade",
-            "tm": "TM42"
-        },
-        {
-            "move": "Rest",
-            "tm": "TM44"
-        },
-        {
-            "move": "Attract",
-            "tm": "TM45"
-        },
-        {
-            "move": "Round",
-            "tm": "TM48"
-        },
-        {
-            "move": "Echoed Voice",
-            "tm": "TM49"
-        },
-        {
-            "move": "Scald",
-            "tm": "TM55"
-        },
-        {
-            "move": "Fling",
-            "tm": "TM56"
-        },
-        {
-            "move": "Quash",
-            "tm": "TM60"
-        },
-        {
-            "move": "Grass Knot",
-            "tm": "TM86"
-        },
-        {
-            "move": "Swagger",
-            "tm": "TM87"
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": "TM88"
-        },
-        {
-            "move": "Substitute",
-            "tm": "TM90"
-        },
-        {
-            "move": "Surf",
-            "tm": "TM94"
-        },
-        {
-            "move": "Waterfall",
-            "tm": "TM98"
-        },
-        {
-            "move": "Confide",
-            "tm": "TM100"
-        }
-    ]
+	"name": "Piplup",
+	"national_id": 393,
+	"types": ["Water"],
+	"abilities": [
+		{
+			"name": "Torrent"
+		},
+		{
+			"name": "Defiant",
+			"hidden": true
+		}
+	],
+	"catch_rate": 45,
+	"gender_ratios": {
+		"male": 87.5,
+		"female": 12.5
+	},
+	"egg_groups": ["Water 1", "Field"],
+	"hatch_time": [5355, 5609],
+	"height_us": "1'04\"",
+	"height_eu": "0.4 m",
+	"weight_us": "11.5 lbs.",
+	"weight_eu": "5.2 kg",
+	"base_exp_yield": 63,
+	"leveling_rate": "Medium Slow",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 1,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 53,
+		"atk": 51,
+		"def": 53,
+		"sp_atk": 61,
+		"sp_def": 56,
+		"speed": 40
+	},
+	"evolution_from": null,
+	"evolutions": [
+		{
+			"to": "Prinplup",
+			"level": 16
+		}
+	],
+	"species": "Penguin Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "Because it is very proud, it hates accepting food from people. Its thick down guards it from the cold.",
+	"move_learnset": [
+		{
+			"move": "Pound",
+			"level": 1
+		},
+		{
+			"move": "Growl",
+			"level": 4
+		},
+		{
+			"move": "Bubble",
+			"level": 8
+		},
+		{
+			"move": "Water Sport",
+			"level": 11
+		},
+		{
+			"move": "Peck",
+			"level": 15
+		},
+		{
+			"move": "Bubble Beam",
+			"level": 18
+		},
+		{
+			"move": "Bide",
+			"level": 22
+		},
+		{
+			"move": "Fury Attack",
+			"level": 25
+		},
+		{
+			"move": "Brine",
+			"level": 29
+		},
+		{
+			"move": "Whirlpool",
+			"level": 32
+		},
+		{
+			"move": "Mist",
+			"level": 36
+		},
+		{
+			"move": "Drill Peck",
+			"level": 39
+		},
+		{
+			"move": "Hydro Pump",
+			"level": 43
+		},
+		{
+			"move": "Agility",
+			"egg_move": true
+		},
+		{
+			"move": "Aqua Ring",
+			"egg_move": true
+		},
+		{
+			"move": "Bide",
+			"egg_move": true
+		},
+		{
+			"move": "Double Hit",
+			"egg_move": true
+		},
+		{
+			"move": "Feather Dance",
+			"egg_move": true
+		},
+		{
+			"move": "Flail",
+			"egg_move": true
+		},
+		{
+			"move": "Hydro Pump",
+			"egg_move": true
+		},
+		{
+			"move": "Icy Wind",
+			"egg_move": true
+		},
+		{
+			"move": "Mud-Slap",
+			"egg_move": true
+		},
+		{
+			"move": "Mud Sport",
+			"egg_move": true
+		},
+		{
+			"move": "Power Trip",
+			"egg_move": true
+		},
+		{
+			"move": "Snore",
+			"egg_move": true
+		},
+		{
+			"move": "Supersonic",
+			"egg_move": true
+		},
+		{
+			"move": "Yawn",
+			"egg_move": true
+		},
+		{
+			"move": "Work Up",
+			"tm": "TM1"
+		},
+		{
+			"move": "Toxic",
+			"tm": "TM6"
+		},
+		{
+			"move": "Hail",
+			"tm": "TM7"
+		},
+		{
+			"move": "Hidden Power",
+			"tm": "TM10"
+		},
+		{
+			"move": "Ice Beam",
+			"tm": "TM13"
+		},
+		{
+			"move": "Blizzard",
+			"tm": "TM14"
+		},
+		{
+			"move": "Protect",
+			"tm": "TM17"
+		},
+		{
+			"move": "Rain Dance",
+			"tm": "TM18"
+		},
+		{
+			"move": "Frustration",
+			"tm": "TM21"
+		},
+		{
+			"move": "Return",
+			"tm": "TM27"
+		},
+		{
+			"move": "Brick Break",
+			"tm": "TM31"
+		},
+		{
+			"move": "Double Team",
+			"tm": "TM32"
+		},
+		{
+			"move": "Rock Tomb",
+			"tm": "TM39"
+		},
+		{
+			"move": "Aerial Ace",
+			"tm": "TM40"
+		},
+		{
+			"move": "Facade",
+			"tm": "TM42"
+		},
+		{
+			"move": "Rest",
+			"tm": "TM44"
+		},
+		{
+			"move": "Attract",
+			"tm": "TM45"
+		},
+		{
+			"move": "Round",
+			"tm": "TM48"
+		},
+		{
+			"move": "Echoed Voice",
+			"tm": "TM49"
+		},
+		{
+			"move": "Scald",
+			"tm": "TM55"
+		},
+		{
+			"move": "Fling",
+			"tm": "TM56"
+		},
+		{
+			"move": "Quash",
+			"tm": "TM60"
+		},
+		{
+			"move": "Grass Knot",
+			"tm": "TM86"
+		},
+		{
+			"move": "Swagger",
+			"tm": "TM87"
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": "TM88"
+		},
+		{
+			"move": "Substitute",
+			"tm": "TM90"
+		},
+		{
+			"move": "Surf",
+			"tm": "TM94"
+		},
+		{
+			"move": "Waterfall",
+			"tm": "TM98"
+		},
+		{
+			"move": "Confide",
+			"tm": "TM100"
+		}
+	]
 }

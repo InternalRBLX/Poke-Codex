@@ -1,281 +1,273 @@
 {
-    "name": "Mandibuzz",
-    "national_id": 630,
-    "types": [
-        "Dark",
-        "Flying"
-    ],
-    "abilities": [
-        {
-            "name": "Big Pecks"
-        },
-        {
-            "name": "Overcoat"
-        },
-        {
-            "name": "Weak Armor",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 60,
-    "gender_ratios": {
-        "female": 100
-    },
-    "egg_groups": [
-        "Flying"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "3'11\"",
-    "height_eu": "1.2 m",
-    "weight_us": "87.1 lbs.",
-    "weight_eu": "39.5 kg",
-    "base_exp_yield": 179,
-    "leveling_rate": "Slow",
-    "base_friendship": 35,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 2,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 110,
-        "atk": 65,
-        "def": 105,
-        "sp_atk": 55,
-        "sp_def": 95,
-        "speed": 80
-    },
-    "evolution_from": "Vullaby",
-    "evolutions": [],
-    "species": "Bone Vulture Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "They adorn themselves with bones. There seem to be fashion trends among them, as different bones come into and fall out of popularity.",
-    "move_learnset": [
-        {
-            "move": "Bone Rush",
-            "evo": true
-        },
-        {
-            "move": "Bone Rush",
-            "level": 1
-        },
-        {
-            "move": "Sky Attack",
-            "level": 1
-        },
-        {
-            "move": "Toxic",
-            "level": 1
-        },
-        {
-            "move": "Gust",
-            "level": 1
-        },
-        {
-            "move": "Leer",
-            "level": 1
-        },
-        {
-            "move": "Flatter",
-            "level": 1
-        },
-        {
-            "move": "Pluck",
-            "level": 1
-        },
-        {
-            "move": "Tailwind",
-            "level": 18
-        },
-        {
-            "move": "Knock Off",
-            "level": 24
-        },
-        {
-            "move": "Iron Defense",
-            "level": 30
-        },
-        {
-            "move": "Whirlwind",
-            "level": 36
-        },
-        {
-            "move": "Air Slash",
-            "level": 42
-        },
-        {
-            "move": "Dark Pulse",
-            "level": 48
-        },
-        {
-            "move": "Nasty Plot",
-            "level": 57
-        },
-        {
-            "move": "Defog",
-            "level": 64
-        },
-        {
-            "move": "Attract",
-            "level": 72
-        },
-        {
-            "move": "Brave Bird",
-            "level": 80
-        },
-        {
-            "move": "Fly",
-            "tm": true
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": true
-        },
-        {
-            "move": "Giga Impact",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Thief",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Scary Face",
-            "tm": true
-        },
-        {
-            "move": "Steel Wing",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Rain Dance",
-            "tm": true
-        },
-        {
-            "move": "Sunny Day",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Swift",
-            "tm": true
-        },
-        {
-            "move": "Fake Tears",
-            "tm": true
-        },
-        {
-            "move": "Rock Tomb",
-            "tm": true
-        },
-        {
-            "move": "U-turn",
-            "tm": true
-        },
-        {
-            "move": "Payback",
-            "tm": true
-        },
-        {
-            "move": "Assurance",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Retaliate",
-            "tm": true
-        },
-        {
-            "move": "Snarl",
-            "tm": true
-        },
-        {
-            "move": "Air Slash",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Shadow Ball",
-            "tm": true
-        },
-        {
-            "move": "Heat Wave",
-            "tm": true
-        },
-        {
-            "move": "Taunt",
-            "tm": true
-        },
-        {
-            "move": "Iron Defense",
-            "tm": true
-        },
-        {
-            "move": "Dark Pulse",
-            "tm": true
-        },
-        {
-            "move": "Brave Bird",
-            "tm": true
-        },
-        {
-            "move": "Nasty Plot",
-            "tm": true
-        },
-        {
-            "move": "Foul Play",
-            "tm": true
-        },
-        {
-            "move": "Mean Look",
-            "egg_move": true
-        },
-        {
-            "move": "Roost",
-            "egg_move": true
-        },
-        {
-            "move": "Toxic",
-            "egg_move": true
-        }
-    ]
+	"name": "Mandibuzz",
+	"national_id": 630,
+	"types": ["Dark", "Flying"],
+	"abilities": [
+		{
+			"name": "Big Pecks"
+		},
+		{
+			"name": "Overcoat"
+		},
+		{
+			"name": "Weak Armor",
+			"hidden": true
+		}
+	],
+	"catch_rate": 60,
+	"gender_ratios": {
+		"female": 100
+	},
+	"egg_groups": ["Flying"],
+	"hatch_time": [5355, 5609],
+	"height_us": "3'11\"",
+	"height_eu": "1.2 m",
+	"weight_us": "87.1 lbs.",
+	"weight_eu": "39.5 kg",
+	"base_exp_yield": 179,
+	"leveling_rate": "Slow",
+	"base_friendship": 35,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 2,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 110,
+		"atk": 65,
+		"def": 105,
+		"sp_atk": 55,
+		"sp_def": 95,
+		"speed": 80
+	},
+	"evolution_from": "Vullaby",
+	"evolutions": [],
+	"species": "Bone Vulture Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "They adorn themselves with bones. There seem to be fashion trends among them, as different bones come into and fall out of popularity.",
+	"move_learnset": [
+		{
+			"move": "Bone Rush",
+			"evo": true
+		},
+		{
+			"move": "Bone Rush",
+			"level": 1
+		},
+		{
+			"move": "Sky Attack",
+			"level": 1
+		},
+		{
+			"move": "Toxic",
+			"level": 1
+		},
+		{
+			"move": "Gust",
+			"level": 1
+		},
+		{
+			"move": "Leer",
+			"level": 1
+		},
+		{
+			"move": "Flatter",
+			"level": 1
+		},
+		{
+			"move": "Pluck",
+			"level": 1
+		},
+		{
+			"move": "Tailwind",
+			"level": 18
+		},
+		{
+			"move": "Knock Off",
+			"level": 24
+		},
+		{
+			"move": "Iron Defense",
+			"level": 30
+		},
+		{
+			"move": "Whirlwind",
+			"level": 36
+		},
+		{
+			"move": "Air Slash",
+			"level": 42
+		},
+		{
+			"move": "Dark Pulse",
+			"level": 48
+		},
+		{
+			"move": "Nasty Plot",
+			"level": 57
+		},
+		{
+			"move": "Defog",
+			"level": 64
+		},
+		{
+			"move": "Attract",
+			"level": 72
+		},
+		{
+			"move": "Brave Bird",
+			"level": 80
+		},
+		{
+			"move": "Fly",
+			"tm": true
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": true
+		},
+		{
+			"move": "Giga Impact",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Thief",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Scary Face",
+			"tm": true
+		},
+		{
+			"move": "Steel Wing",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Rain Dance",
+			"tm": true
+		},
+		{
+			"move": "Sunny Day",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Swift",
+			"tm": true
+		},
+		{
+			"move": "Fake Tears",
+			"tm": true
+		},
+		{
+			"move": "Rock Tomb",
+			"tm": true
+		},
+		{
+			"move": "U-turn",
+			"tm": true
+		},
+		{
+			"move": "Payback",
+			"tm": true
+		},
+		{
+			"move": "Assurance",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Retaliate",
+			"tm": true
+		},
+		{
+			"move": "Snarl",
+			"tm": true
+		},
+		{
+			"move": "Air Slash",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Shadow Ball",
+			"tm": true
+		},
+		{
+			"move": "Heat Wave",
+			"tm": true
+		},
+		{
+			"move": "Taunt",
+			"tm": true
+		},
+		{
+			"move": "Iron Defense",
+			"tm": true
+		},
+		{
+			"move": "Dark Pulse",
+			"tm": true
+		},
+		{
+			"move": "Brave Bird",
+			"tm": true
+		},
+		{
+			"move": "Nasty Plot",
+			"tm": true
+		},
+		{
+			"move": "Foul Play",
+			"tm": true
+		},
+		{
+			"move": "Mean Look",
+			"egg_move": true
+		},
+		{
+			"move": "Roost",
+			"egg_move": true
+		},
+		{
+			"move": "Toxic",
+			"egg_move": true
+		}
+	]
 }

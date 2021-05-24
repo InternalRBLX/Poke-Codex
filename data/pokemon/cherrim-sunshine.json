@@ -1,277 +1,269 @@
 {
-    "name": "Cherrim",
-    "national_id": 421,
-    "types": [
-        "Grass"
-    ],
-    "items": [
-        {
-            "name": "Miracle Seed",
-            "chance": 5
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Flower Gift"
-        }
-    ],
-    "catch_rate": 75,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Fairy",
-        "Grass"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "1'08\"",
-    "height_eu": "0.5 m",
-    "weight_us": "20.5 lbs.",
-    "weight_eu": "9.3 kg",
-    "base_exp_yield": 158,
-    "leveling_rate": "Medium Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 2,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 70,
-        "atk": 60,
-        "def": 70,
-        "sp_atk": 87,
-        "sp_def": 78,
-        "speed": 85
-    },
-    "evolution_from": "Cherubi",
-    "evolutions": [],
-    "species": "Blossom Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "After absorbing plenty of sunlight, Cherrim takes this form. It's full of energy while it's like this, and its liveliness will go on until sundown.",
-    "move_learnset": [
-        {
-            "move": "Sunny Day",
-            "evo": true
-        },
-        {
-            "move": "Sunny Day",
-            "level": 1
-        },
-        {
-            "move": "Flower Shield",
-            "level": 1
-        },
-        {
-            "move": "Morning Sun",
-            "level": 1
-        },
-        {
-            "move": "Tackle",
-            "level": 1
-        },
-        {
-            "move": "Leafage",
-            "level": 1
-        },
-        {
-            "move": "Growth",
-            "level": 1
-        },
-        {
-            "move": "Helping Hand",
-            "level": 15
-        },
-        {
-            "move": "Magical Leaf",
-            "level": 20
-        },
-        {
-            "move": "Leech Seed",
-            "level": 28
-        },
-        {
-            "move": "Take Down",
-            "level": 34
-        },
-        {
-            "move": "Petal Blizzard",
-            "level": 41
-        },
-        {
-            "move": "Worry Seed",
-            "level": 48
-        },
-        {
-            "move": "Solar Beam",
-            "level": 55
-        },
-        {
-            "move": "Petal Dance",
-            "level": 62
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": true
-        },
-        {
-            "move": "Giga Impact",
-            "tm": true
-        },
-        {
-            "move": "Magical Leaf",
-            "tm": true
-        },
-        {
-            "move": "Solar Beam",
-            "tm": true
-        },
-        {
-            "move": "Solar Blade",
-            "tm": true
-        },
-        {
-            "move": "Safeguard",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Giga Drain",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Sunny Day",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Helping Hand",
-            "tm": true
-        },
-        {
-            "move": "Weather Ball",
-            "tm": true
-        },
-        {
-            "move": "Bullet Seed",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Draining Kiss",
-            "tm": true
-        },
-        {
-            "move": "Grassy Terrain",
-            "tm": true
-        },
-        {
-            "move": "Swords Dance",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Seed Bomb",
-            "tm": true
-        },
-        {
-            "move": "Energy Ball",
-            "tm": true
-        },
-        {
-            "move": "Grass Knot",
-            "tm": true
-        },
-        {
-            "move": "Play Rough",
-            "tm": true
-        },
-        {
-            "move": "Dazzling Gleam",
-            "tm": true
-        },
-        {
-            "move": "Pollen Puff",
-            "tm": true
-        },
-        {
-            "move": "Razor Leaf",
-            "egg_move": true
-        },
-        {
-            "move": "Sweet Scent",
-            "egg_move": true
-        },
-        {
-            "move": "Tickle",
-            "egg_move": true
-        },
-        {
-            "move": "Nature Power",
-            "egg_move": true
-        },
-        {
-            "move": "Aromatherapy",
-            "egg_move": true
-        },
-        {
-            "move": "Heal Pulse",
-            "egg_move": true
-        },
-        {
-            "move": "Healing Wish",
-            "egg_move": true
-        },
-        {
-            "move": "Defense Curl",
-            "egg_move": true
-        },
-        {
-            "move": "Flower Shield",
-            "egg_move": true
-        },
-        {
-            "move": "Rollout",
-            "egg_move": true
-        }
-    ]
+	"name": "Cherrim",
+	"national_id": 421,
+	"types": ["Grass"],
+	"items": [
+		{
+			"name": "Miracle Seed",
+			"chance": 5
+		}
+	],
+	"abilities": [
+		{
+			"name": "Flower Gift"
+		}
+	],
+	"catch_rate": 75,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Fairy", "Grass"],
+	"hatch_time": [5355, 5609],
+	"height_us": "1'08\"",
+	"height_eu": "0.5 m",
+	"weight_us": "20.5 lbs.",
+	"weight_eu": "9.3 kg",
+	"base_exp_yield": 158,
+	"leveling_rate": "Medium Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 2,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 70,
+		"atk": 60,
+		"def": 70,
+		"sp_atk": 87,
+		"sp_def": 78,
+		"speed": 85
+	},
+	"evolution_from": "Cherubi",
+	"evolutions": [],
+	"species": "Blossom Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "After absorbing plenty of sunlight, Cherrim takes this form. It's full of energy while it's like this, and its liveliness will go on until sundown.",
+	"move_learnset": [
+		{
+			"move": "Sunny Day",
+			"evo": true
+		},
+		{
+			"move": "Sunny Day",
+			"level": 1
+		},
+		{
+			"move": "Flower Shield",
+			"level": 1
+		},
+		{
+			"move": "Morning Sun",
+			"level": 1
+		},
+		{
+			"move": "Tackle",
+			"level": 1
+		},
+		{
+			"move": "Leafage",
+			"level": 1
+		},
+		{
+			"move": "Growth",
+			"level": 1
+		},
+		{
+			"move": "Helping Hand",
+			"level": 15
+		},
+		{
+			"move": "Magical Leaf",
+			"level": 20
+		},
+		{
+			"move": "Leech Seed",
+			"level": 28
+		},
+		{
+			"move": "Take Down",
+			"level": 34
+		},
+		{
+			"move": "Petal Blizzard",
+			"level": 41
+		},
+		{
+			"move": "Worry Seed",
+			"level": 48
+		},
+		{
+			"move": "Solar Beam",
+			"level": 55
+		},
+		{
+			"move": "Petal Dance",
+			"level": 62
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": true
+		},
+		{
+			"move": "Giga Impact",
+			"tm": true
+		},
+		{
+			"move": "Magical Leaf",
+			"tm": true
+		},
+		{
+			"move": "Solar Beam",
+			"tm": true
+		},
+		{
+			"move": "Solar Blade",
+			"tm": true
+		},
+		{
+			"move": "Safeguard",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Giga Drain",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Sunny Day",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Helping Hand",
+			"tm": true
+		},
+		{
+			"move": "Weather Ball",
+			"tm": true
+		},
+		{
+			"move": "Bullet Seed",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Draining Kiss",
+			"tm": true
+		},
+		{
+			"move": "Grassy Terrain",
+			"tm": true
+		},
+		{
+			"move": "Swords Dance",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Seed Bomb",
+			"tm": true
+		},
+		{
+			"move": "Energy Ball",
+			"tm": true
+		},
+		{
+			"move": "Grass Knot",
+			"tm": true
+		},
+		{
+			"move": "Play Rough",
+			"tm": true
+		},
+		{
+			"move": "Dazzling Gleam",
+			"tm": true
+		},
+		{
+			"move": "Pollen Puff",
+			"tm": true
+		},
+		{
+			"move": "Razor Leaf",
+			"egg_move": true
+		},
+		{
+			"move": "Sweet Scent",
+			"egg_move": true
+		},
+		{
+			"move": "Tickle",
+			"egg_move": true
+		},
+		{
+			"move": "Nature Power",
+			"egg_move": true
+		},
+		{
+			"move": "Aromatherapy",
+			"egg_move": true
+		},
+		{
+			"move": "Heal Pulse",
+			"egg_move": true
+		},
+		{
+			"move": "Healing Wish",
+			"egg_move": true
+		},
+		{
+			"move": "Defense Curl",
+			"egg_move": true
+		},
+		{
+			"move": "Flower Shield",
+			"egg_move": true
+		},
+		{
+			"move": "Rollout",
+			"egg_move": true
+		}
+	]
 }

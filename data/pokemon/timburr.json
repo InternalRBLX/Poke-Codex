@@ -1,306 +1,299 @@
 {
-    "name": "Timburr",
-    "national_id": 532,
-    "types": [
-        "Fighting"
-    ],
-    "abilities": [
-        {
-            "name": "Guts"
-        },
-        {
-            "name": "Sheer Force"
-        },
-        {
-            "name": "Iron Fist",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 180,
-    "gender_ratios": {
-        "male": 75,
-        "female": 25
-    },
-    "egg_groups": [
-        "Human-Like"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "2'00\"",
-    "height_eu": "0.6 m",
-    "weight_us": "27.6 lbs.",
-    "weight_eu": "12.5 kg",
-    "base_exp_yield": 61,
-    "leveling_rate": "Medium Slow",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 1,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 75,
-        "atk": 80,
-        "def": 55,
-        "sp_atk": 25,
-        "sp_def": 35,
-        "speed": 35
-    },
-    "evolution_from": null,
-    "evolutions": [
-        {
-            "to": "Gurdurr",
-            "level": 25
-        }
-    ],
-    "species": "Muscular Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "Timburr that have started carrying logs that are about three times their size are nearly ready to evolve.",
-    "move_learnset": [
-        {
-            "move": "Pound",
-            "level": 1
-        },
-        {
-            "move": "Leer",
-            "level": 1
-        },
-        {
-            "move": "Low Kick",
-            "level": 4
-        },
-        {
-            "move": "Rock Throw",
-            "level": 8
-        },
-        {
-            "move": "Focus Energy",
-            "level": 12
-        },
-        {
-            "move": "Bulk Up",
-            "level": 16
-        },
-        {
-            "move": "Rock Slide",
-            "level": 20
-        },
-        {
-            "move": "Slam",
-            "level": 24
-        },
-        {
-            "move": "Scary Face",
-            "level": 28
-        },
-        {
-            "move": "Dynamic Punch",
-            "level": 32
-        },
-        {
-            "move": "Hammer Arm",
-            "level": 36
-        },
-        {
-            "move": "Stone Edge",
-            "level": 40
-        },
-        {
-            "move": "Superpower",
-            "level": 44
-        },
-        {
-            "move": "Focus Punch",
-            "level": 48
-        },
-        {
-            "move": "Mega Punch",
-            "tm": true
-        },
-        {
-            "move": "Mega Kick",
-            "tm": true
-        },
-        {
-            "move": "Fire Punch",
-            "tm": true
-        },
-        {
-            "move": "Ice Punch",
-            "tm": true
-        },
-        {
-            "move": "Thunder Punch",
-            "tm": true
-        },
-        {
-            "move": "Dig",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Rock Slide",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Scary Face",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Rain Dance",
-            "tm": true
-        },
-        {
-            "move": "Sunny Day",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Helping Hand",
-            "tm": true
-        },
-        {
-            "move": "Revenge",
-            "tm": true
-        },
-        {
-            "move": "Brick Break",
-            "tm": true
-        },
-        {
-            "move": "Rock Tomb",
-            "tm": true
-        },
-        {
-            "move": "Payback",
-            "tm": true
-        },
-        {
-            "move": "Fling",
-            "tm": true
-        },
-        {
-            "move": "Drain Punch",
-            "tm": true
-        },
-        {
-            "move": "Low Sweep",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Retaliate",
-            "tm": true
-        },
-        {
-            "move": "Brutal Swing",
-            "tm": true
-        },
-        {
-            "move": "Low Kick",
-            "tm": true
-        },
-        {
-            "move": "Focus Energy",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Reversal",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Taunt",
-            "tm": true
-        },
-        {
-            "move": "Superpower",
-            "tm": true
-        },
-        {
-            "move": "Bulk Up",
-            "tm": true
-        },
-        {
-            "move": "Poison Jab",
-            "tm": true
-        },
-        {
-            "move": "Focus Blast",
-            "tm": true
-        },
-        {
-            "move": "Stone Edge",
-            "tm": true
-        },
-        {
-            "move": "Grass Knot",
-            "tm": true
-        },
-        {
-            "move": "Work Up",
-            "tm": true
-        },
-        {
-            "move": "Counter",
-            "egg_move": true
-        },
-        {
-            "move": "Detect",
-            "egg_move": true
-        },
-        {
-            "move": "Wide Guard",
-            "egg_move": true
-        },
-        {
-            "move": "Mach Punch",
-            "egg_move": true
-        },
-        {
-            "move": "Power-Up Punch",
-            "egg_move": true
-        },
-        {
-            "move": "Defog",
-            "egg_move": true
-        }
-    ]
+	"name": "Timburr",
+	"national_id": 532,
+	"types": ["Fighting"],
+	"abilities": [
+		{
+			"name": "Guts"
+		},
+		{
+			"name": "Sheer Force"
+		},
+		{
+			"name": "Iron Fist",
+			"hidden": true
+		}
+	],
+	"catch_rate": 180,
+	"gender_ratios": {
+		"male": 75,
+		"female": 25
+	},
+	"egg_groups": ["Human-Like"],
+	"hatch_time": [5355, 5609],
+	"height_us": "2'00\"",
+	"height_eu": "0.6 m",
+	"weight_us": "27.6 lbs.",
+	"weight_eu": "12.5 kg",
+	"base_exp_yield": 61,
+	"leveling_rate": "Medium Slow",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 1,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 75,
+		"atk": 80,
+		"def": 55,
+		"sp_atk": 25,
+		"sp_def": 35,
+		"speed": 35
+	},
+	"evolution_from": null,
+	"evolutions": [
+		{
+			"to": "Gurdurr",
+			"level": 25
+		}
+	],
+	"species": "Muscular Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "Timburr that have started carrying logs that are about three times their size are nearly ready to evolve.",
+	"move_learnset": [
+		{
+			"move": "Pound",
+			"level": 1
+		},
+		{
+			"move": "Leer",
+			"level": 1
+		},
+		{
+			"move": "Low Kick",
+			"level": 4
+		},
+		{
+			"move": "Rock Throw",
+			"level": 8
+		},
+		{
+			"move": "Focus Energy",
+			"level": 12
+		},
+		{
+			"move": "Bulk Up",
+			"level": 16
+		},
+		{
+			"move": "Rock Slide",
+			"level": 20
+		},
+		{
+			"move": "Slam",
+			"level": 24
+		},
+		{
+			"move": "Scary Face",
+			"level": 28
+		},
+		{
+			"move": "Dynamic Punch",
+			"level": 32
+		},
+		{
+			"move": "Hammer Arm",
+			"level": 36
+		},
+		{
+			"move": "Stone Edge",
+			"level": 40
+		},
+		{
+			"move": "Superpower",
+			"level": 44
+		},
+		{
+			"move": "Focus Punch",
+			"level": 48
+		},
+		{
+			"move": "Mega Punch",
+			"tm": true
+		},
+		{
+			"move": "Mega Kick",
+			"tm": true
+		},
+		{
+			"move": "Fire Punch",
+			"tm": true
+		},
+		{
+			"move": "Ice Punch",
+			"tm": true
+		},
+		{
+			"move": "Thunder Punch",
+			"tm": true
+		},
+		{
+			"move": "Dig",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Rock Slide",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Scary Face",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Rain Dance",
+			"tm": true
+		},
+		{
+			"move": "Sunny Day",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Helping Hand",
+			"tm": true
+		},
+		{
+			"move": "Revenge",
+			"tm": true
+		},
+		{
+			"move": "Brick Break",
+			"tm": true
+		},
+		{
+			"move": "Rock Tomb",
+			"tm": true
+		},
+		{
+			"move": "Payback",
+			"tm": true
+		},
+		{
+			"move": "Fling",
+			"tm": true
+		},
+		{
+			"move": "Drain Punch",
+			"tm": true
+		},
+		{
+			"move": "Low Sweep",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Retaliate",
+			"tm": true
+		},
+		{
+			"move": "Brutal Swing",
+			"tm": true
+		},
+		{
+			"move": "Low Kick",
+			"tm": true
+		},
+		{
+			"move": "Focus Energy",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Reversal",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Taunt",
+			"tm": true
+		},
+		{
+			"move": "Superpower",
+			"tm": true
+		},
+		{
+			"move": "Bulk Up",
+			"tm": true
+		},
+		{
+			"move": "Poison Jab",
+			"tm": true
+		},
+		{
+			"move": "Focus Blast",
+			"tm": true
+		},
+		{
+			"move": "Stone Edge",
+			"tm": true
+		},
+		{
+			"move": "Grass Knot",
+			"tm": true
+		},
+		{
+			"move": "Work Up",
+			"tm": true
+		},
+		{
+			"move": "Counter",
+			"egg_move": true
+		},
+		{
+			"move": "Detect",
+			"egg_move": true
+		},
+		{
+			"move": "Wide Guard",
+			"egg_move": true
+		},
+		{
+			"move": "Mach Punch",
+			"egg_move": true
+		},
+		{
+			"move": "Power-Up Punch",
+			"egg_move": true
+		},
+		{
+			"move": "Defog",
+			"egg_move": true
+		}
+	]
 }

@@ -1,290 +1,283 @@
 {
-    "name": "Vulpix",
-    "national_id": 37,
-    "types": [
-        "Ice"
-    ],
-    "items": [
-        {
-            "name": "Snowball",
-            "chance": 5
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Snow Cloak"
-        },
-        {
-            "name": "Snow Warning",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 190,
-    "gender_ratios": {
-        "male": 25,
-        "female": 75
-    },
-    "egg_groups": [
-        "Field"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "2'00\"",
-    "height_eu": "0.6 m",
-    "weight_us": "21.8 lbs.",
-    "weight_eu": "9.9 kg",
-    "base_exp_yield": 60,
-    "leveling_rate": "Medium Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 1
-    },
-    "base_stats": {
-        "hp": 38,
-        "atk": 41,
-        "def": 40,
-        "sp_atk": 50,
-        "sp_def": 65,
-        "speed": 65
-    },
-    "evolution_from": null,
-    "evolutions": [
-        {
-            "to": "Darmanitan",
-            "variant": "Galarian",
-            "item": "Ice Stone"
-        }
-    ],
-    "species": "Fox Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "After long years in the ever-snowcapped mountains of Alola, this Vulpix has gained power over ice.",
-    "move_learnset": [
-        {
-            "move": "Powder Snow",
-            "level": 1
-        },
-        {
-            "move": "Tail Whip",
-            "level": 1
-        },
-        {
-            "move": "Disable",
-            "level": 4
-        },
-        {
-            "move": "Ice Shard",
-            "level": 8
-        },
-        {
-            "move": "Spite",
-            "level": 12
-        },
-        {
-            "move": "Icy Wind",
-            "level": 16
-        },
-        {
-            "move": "Confuse Ray",
-            "level": 20
-        },
-        {
-            "move": "Aurora Beam",
-            "level": 24
-        },
-        {
-            "move": "Extrasensory",
-            "level": 28
-        },
-        {
-            "move": "Ice Beam",
-            "level": 32
-        },
-        {
-            "move": "Imprison",
-            "level": 36
-        },
-        {
-            "move": "Mist",
-            "level": 40
-        },
-        {
-            "move": "Aurora Veil",
-            "level": 44
-        },
-        {
-            "move": "Sheer Cold",
-            "level": 48
-        },
-        {
-            "move": "Grudge",
-            "level": 52
-        },
-        {
-            "move": "Blizzard",
-            "level": 56
-        },
-        {
-            "move": "Dig",
-            "tm": true
-        },
-        {
-            "move": "Safeguard",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Icy Wind",
-            "tm": true
-        },
-        {
-            "move": "Charm",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Rain Dance",
-            "tm": true
-        },
-        {
-            "move": "Hail",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Swift",
-            "tm": true
-        },
-        {
-            "move": "Imprison",
-            "tm": true
-        },
-        {
-            "move": "Weather Ball",
-            "tm": true
-        },
-        {
-            "move": "Payback",
-            "tm": true
-        },
-        {
-            "move": "Power Swap",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Hex",
-            "tm": true
-        },
-        {
-            "move": "Tail Slap",
-            "tm": true
-        },
-        {
-            "move": "Draining Kiss",
-            "tm": true
-        },
-        {
-            "move": "Body Slam",
-            "tm": true
-        },
-        {
-            "move": "Ice Beam",
-            "tm": true
-        },
-        {
-            "move": "Blizzard",
-            "tm": true
-        },
-        {
-            "move": "Agility",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Encore",
-            "tm": true
-        },
-        {
-            "move": "Iron Tail",
-            "tm": true
-        },
-        {
-            "move": "Dark Pulse",
-            "tm": true
-        },
-        {
-            "move": "Zen Headbutt",
-            "tm": true
-        },
-        {
-            "move": "Foul Play",
-            "tm": true
-        },
-        {
-            "move": "Freeze-Dry",
-            "egg_move": true
-        },
-        {
-            "move": "Hypnosis",
-            "egg_move": true
-        },
-        {
-            "move": "Flail",
-            "egg_move": true
-        },
-        {
-            "move": "Howl",
-            "egg_move": true
-        },
-        {
-            "move": "Moonblast",
-            "egg_move": true
-        },
-        {
-            "move": "Baby-Doll Eyes",
-            "egg_move": true
-        },
-        {
-            "move": "Roar",
-            "egg_move": true
-        }
-    ]
+	"name": "Vulpix",
+	"national_id": 37,
+	"types": ["Ice"],
+	"items": [
+		{
+			"name": "Snowball",
+			"chance": 5
+		}
+	],
+	"abilities": [
+		{
+			"name": "Snow Cloak"
+		},
+		{
+			"name": "Snow Warning",
+			"hidden": true
+		}
+	],
+	"catch_rate": 190,
+	"gender_ratios": {
+		"male": 25,
+		"female": 75
+	},
+	"egg_groups": ["Field"],
+	"hatch_time": [5355, 5609],
+	"height_us": "2'00\"",
+	"height_eu": "0.6 m",
+	"weight_us": "21.8 lbs.",
+	"weight_eu": "9.9 kg",
+	"base_exp_yield": 60,
+	"leveling_rate": "Medium Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 1
+	},
+	"base_stats": {
+		"hp": 38,
+		"atk": 41,
+		"def": 40,
+		"sp_atk": 50,
+		"sp_def": 65,
+		"speed": 65
+	},
+	"evolution_from": null,
+	"evolutions": [
+		{
+			"to": "Darmanitan",
+			"variant": "Galarian",
+			"item": "Ice Stone"
+		}
+	],
+	"species": "Fox Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "After long years in the ever-snowcapped mountains of Alola, this Vulpix has gained power over ice.",
+	"move_learnset": [
+		{
+			"move": "Powder Snow",
+			"level": 1
+		},
+		{
+			"move": "Tail Whip",
+			"level": 1
+		},
+		{
+			"move": "Disable",
+			"level": 4
+		},
+		{
+			"move": "Ice Shard",
+			"level": 8
+		},
+		{
+			"move": "Spite",
+			"level": 12
+		},
+		{
+			"move": "Icy Wind",
+			"level": 16
+		},
+		{
+			"move": "Confuse Ray",
+			"level": 20
+		},
+		{
+			"move": "Aurora Beam",
+			"level": 24
+		},
+		{
+			"move": "Extrasensory",
+			"level": 28
+		},
+		{
+			"move": "Ice Beam",
+			"level": 32
+		},
+		{
+			"move": "Imprison",
+			"level": 36
+		},
+		{
+			"move": "Mist",
+			"level": 40
+		},
+		{
+			"move": "Aurora Veil",
+			"level": 44
+		},
+		{
+			"move": "Sheer Cold",
+			"level": 48
+		},
+		{
+			"move": "Grudge",
+			"level": 52
+		},
+		{
+			"move": "Blizzard",
+			"level": 56
+		},
+		{
+			"move": "Dig",
+			"tm": true
+		},
+		{
+			"move": "Safeguard",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Icy Wind",
+			"tm": true
+		},
+		{
+			"move": "Charm",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Rain Dance",
+			"tm": true
+		},
+		{
+			"move": "Hail",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Swift",
+			"tm": true
+		},
+		{
+			"move": "Imprison",
+			"tm": true
+		},
+		{
+			"move": "Weather Ball",
+			"tm": true
+		},
+		{
+			"move": "Payback",
+			"tm": true
+		},
+		{
+			"move": "Power Swap",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Hex",
+			"tm": true
+		},
+		{
+			"move": "Tail Slap",
+			"tm": true
+		},
+		{
+			"move": "Draining Kiss",
+			"tm": true
+		},
+		{
+			"move": "Body Slam",
+			"tm": true
+		},
+		{
+			"move": "Ice Beam",
+			"tm": true
+		},
+		{
+			"move": "Blizzard",
+			"tm": true
+		},
+		{
+			"move": "Agility",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Encore",
+			"tm": true
+		},
+		{
+			"move": "Iron Tail",
+			"tm": true
+		},
+		{
+			"move": "Dark Pulse",
+			"tm": true
+		},
+		{
+			"move": "Zen Headbutt",
+			"tm": true
+		},
+		{
+			"move": "Foul Play",
+			"tm": true
+		},
+		{
+			"move": "Freeze-Dry",
+			"egg_move": true
+		},
+		{
+			"move": "Hypnosis",
+			"egg_move": true
+		},
+		{
+			"move": "Flail",
+			"egg_move": true
+		},
+		{
+			"move": "Howl",
+			"egg_move": true
+		},
+		{
+			"move": "Moonblast",
+			"egg_move": true
+		},
+		{
+			"move": "Baby-Doll Eyes",
+			"egg_move": true
+		},
+		{
+			"move": "Roar",
+			"egg_move": true
+		}
+	]
 }

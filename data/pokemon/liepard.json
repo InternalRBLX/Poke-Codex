@@ -1,297 +1,290 @@
 {
-    "name": "Liepard",
-    "national_id": 510,
-    "types": [
-        "Dark"
-    ],
-    "abilities": [
-        {
-            "name": "Limber"
-        },
-        {
-            "name": "Unburden"
-        },
-        {
-            "name": "Prankster",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 90,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Field"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "3'07\"",
-    "height_eu": "1.1 m",
-    "weight_us": "82.7 lbs.",
-    "weight_eu": "37.5 kg",
-    "base_exp_yield": 156,
-    "leveling_rate": "Medium Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 2
-    },
-    "base_stats": {
-        "hp": 64,
-        "atk": 88,
-        "def": 50,
-        "sp_atk": 88,
-        "sp_def": 50,
-        "speed": 106
-    },
-    "evolution_from": "Purrloin",
-    "evolutions": [],
-    "species": "Cruel Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "This stealthy Pokémon sneaks up behind prey without making any sound at all. It competes with Thievul for territory.",
-    "move_learnset": [
-        {
-            "move": "Scratch",
-            "level": 1
-        },
-        {
-            "move": "Growl",
-            "level": 1
-        },
-        {
-            "move": "Sand Attack",
-            "level": 1
-        },
-        {
-            "move": "Fake Out",
-            "level": 1
-        },
-        {
-            "move": "Fury Swipes",
-            "level": 12
-        },
-        {
-            "move": "Torment",
-            "level": 16
-        },
-        {
-            "move": "Assurance",
-            "level": 23
-        },
-        {
-            "move": "Hone Claws",
-            "level": 28
-        },
-        {
-            "move": "Sucker Punch",
-            "level": 34
-        },
-        {
-            "move": "Nasty Plot",
-            "level": 40
-        },
-        {
-            "move": "Night Slash",
-            "level": 46
-        },
-        {
-            "move": "Play Rough",
-            "level": 52
-        },
-        {
-            "move": "Pay Day",
-            "tm": true
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": true
-        },
-        {
-            "move": "Giga Impact",
-            "tm": true
-        },
-        {
-            "move": "Thunder Wave",
-            "tm": true
-        },
-        {
-            "move": "Screech",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Thief",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Charm",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Rain Dance",
-            "tm": true
-        },
-        {
-            "move": "Sunny Day",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Swift",
-            "tm": true
-        },
-        {
-            "move": "Fake Tears",
-            "tm": true
-        },
-        {
-            "move": "U-turn",
-            "tm": true
-        },
-        {
-            "move": "Payback",
-            "tm": true
-        },
-        {
-            "move": "Assurance",
-            "tm": true
-        },
-        {
-            "move": "Shadow Claw",
-            "tm": true
-        },
-        {
-            "move": "Psycho Cut",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Snarl",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Baton Pass",
-            "tm": true
-        },
-        {
-            "move": "Encore",
-            "tm": true
-        },
-        {
-            "move": "Iron Tail",
-            "tm": true
-        },
-        {
-            "move": "Shadow Ball",
-            "tm": true
-        },
-        {
-            "move": "Taunt",
-            "tm": true
-        },
-        {
-            "move": "Trick",
-            "tm": true
-        },
-        {
-            "move": "Hyper Voice",
-            "tm": true
-        },
-        {
-            "move": "Dark Pulse",
-            "tm": true
-        },
-        {
-            "move": "Seed Bomb",
-            "tm": true
-        },
-        {
-            "move": "Nasty Plot",
-            "tm": true
-        },
-        {
-            "move": "Gunk Shot",
-            "tm": true
-        },
-        {
-            "move": "Grass Knot",
-            "tm": true
-        },
-        {
-            "move": "Foul Play",
-            "tm": true
-        },
-        {
-            "move": "Play Rough",
-            "tm": true
-        },
-        {
-            "move": "Throat Chop",
-            "tm": true
-        },
-        {
-            "move": "Yawn",
-            "egg_move": true
-        },
-        {
-            "move": "Covet",
-            "egg_move": true
-        },
-        {
-            "move": "Copycat",
-            "egg_move": true
-        },
-        {
-            "move": "Slash",
-            "egg_move": true
-        },
-        {
-            "move": "Double Team",
-            "egg_move": true
-        },
-        {
-            "move": "Quick Attack",
-            "egg_move": true
-        }
-    ]
+	"name": "Liepard",
+	"national_id": 510,
+	"types": ["Dark"],
+	"abilities": [
+		{
+			"name": "Limber"
+		},
+		{
+			"name": "Unburden"
+		},
+		{
+			"name": "Prankster",
+			"hidden": true
+		}
+	],
+	"catch_rate": 90,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Field"],
+	"hatch_time": [5355, 5609],
+	"height_us": "3'07\"",
+	"height_eu": "1.1 m",
+	"weight_us": "82.7 lbs.",
+	"weight_eu": "37.5 kg",
+	"base_exp_yield": 156,
+	"leveling_rate": "Medium Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 2
+	},
+	"base_stats": {
+		"hp": 64,
+		"atk": 88,
+		"def": 50,
+		"sp_atk": 88,
+		"sp_def": 50,
+		"speed": 106
+	},
+	"evolution_from": "Purrloin",
+	"evolutions": [],
+	"species": "Cruel Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "This stealthy Pokémon sneaks up behind prey without making any sound at all. It competes with Thievul for territory.",
+	"move_learnset": [
+		{
+			"move": "Scratch",
+			"level": 1
+		},
+		{
+			"move": "Growl",
+			"level": 1
+		},
+		{
+			"move": "Sand Attack",
+			"level": 1
+		},
+		{
+			"move": "Fake Out",
+			"level": 1
+		},
+		{
+			"move": "Fury Swipes",
+			"level": 12
+		},
+		{
+			"move": "Torment",
+			"level": 16
+		},
+		{
+			"move": "Assurance",
+			"level": 23
+		},
+		{
+			"move": "Hone Claws",
+			"level": 28
+		},
+		{
+			"move": "Sucker Punch",
+			"level": 34
+		},
+		{
+			"move": "Nasty Plot",
+			"level": 40
+		},
+		{
+			"move": "Night Slash",
+			"level": 46
+		},
+		{
+			"move": "Play Rough",
+			"level": 52
+		},
+		{
+			"move": "Pay Day",
+			"tm": true
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": true
+		},
+		{
+			"move": "Giga Impact",
+			"tm": true
+		},
+		{
+			"move": "Thunder Wave",
+			"tm": true
+		},
+		{
+			"move": "Screech",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Thief",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Charm",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Rain Dance",
+			"tm": true
+		},
+		{
+			"move": "Sunny Day",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Swift",
+			"tm": true
+		},
+		{
+			"move": "Fake Tears",
+			"tm": true
+		},
+		{
+			"move": "U-turn",
+			"tm": true
+		},
+		{
+			"move": "Payback",
+			"tm": true
+		},
+		{
+			"move": "Assurance",
+			"tm": true
+		},
+		{
+			"move": "Shadow Claw",
+			"tm": true
+		},
+		{
+			"move": "Psycho Cut",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Snarl",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Baton Pass",
+			"tm": true
+		},
+		{
+			"move": "Encore",
+			"tm": true
+		},
+		{
+			"move": "Iron Tail",
+			"tm": true
+		},
+		{
+			"move": "Shadow Ball",
+			"tm": true
+		},
+		{
+			"move": "Taunt",
+			"tm": true
+		},
+		{
+			"move": "Trick",
+			"tm": true
+		},
+		{
+			"move": "Hyper Voice",
+			"tm": true
+		},
+		{
+			"move": "Dark Pulse",
+			"tm": true
+		},
+		{
+			"move": "Seed Bomb",
+			"tm": true
+		},
+		{
+			"move": "Nasty Plot",
+			"tm": true
+		},
+		{
+			"move": "Gunk Shot",
+			"tm": true
+		},
+		{
+			"move": "Grass Knot",
+			"tm": true
+		},
+		{
+			"move": "Foul Play",
+			"tm": true
+		},
+		{
+			"move": "Play Rough",
+			"tm": true
+		},
+		{
+			"move": "Throat Chop",
+			"tm": true
+		},
+		{
+			"move": "Yawn",
+			"egg_move": true
+		},
+		{
+			"move": "Covet",
+			"egg_move": true
+		},
+		{
+			"move": "Copycat",
+			"egg_move": true
+		},
+		{
+			"move": "Slash",
+			"egg_move": true
+		},
+		{
+			"move": "Double Team",
+			"egg_move": true
+		},
+		{
+			"move": "Quick Attack",
+			"egg_move": true
+		}
+	]
 }

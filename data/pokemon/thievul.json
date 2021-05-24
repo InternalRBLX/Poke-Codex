@@ -1,285 +1,278 @@
 {
-    "name": "Thievul",
-    "national_id": 828,
-    "types": [
-        "Dark"
-    ],
-    "abilities": [
-        {
-            "name": "Run Away"
-        },
-        {
-            "name": "Unburden"
-        },
-        {
-            "name": "Stakeout",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 127,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Field"
-    ],
-    "hatch_time": [
-        3855,
-        4111
-    ],
-    "height_us": "3'11\"",
-    "height_eu": "1.2 m",
-    "weight_us": "43.9 lbs.",
-    "weight_eu": "19.9 kg",
-    "base_exp_yield": 159,
-    "leveling_rate": "Fast",
-    "base_friendship": 50,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 2,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 70,
-        "atk": 58,
-        "def": 58,
-        "sp_atk": 87,
-        "sp_def": 92,
-        "speed": 90
-    },
-    "evolution_from": "Nickit",
-    "evolutions": [],
-    "species": "Fox Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "With a lithe body and sharp claws, it goes around stealing food and eggs. Boltund is its natural enemy.",
-    "move_learnset": [
-        {
-            "move": "Thief",
-            "evo": true
-        },
-        {
-            "move": "Thief",
-            "level": 1
-        },
-        {
-            "move": "Quick Attack",
-            "level": 1
-        },
-        {
-            "move": "Tail Whip",
-            "level": 1
-        },
-        {
-            "move": "Beat Up",
-            "level": 1
-        },
-        {
-            "move": "Hone Claws",
-            "level": 1
-        },
-        {
-            "move": "Snarl",
-            "level": 12
-        },
-        {
-            "move": "Assurance",
-            "level": 16
-        },
-        {
-            "move": "Nasty Plot",
-            "level": 22
-        },
-        {
-            "move": "Sucker Punch",
-            "level": 28
-        },
-        {
-            "move": "Night Slash",
-            "level": 34
-        },
-        {
-            "move": "Tail Slap",
-            "level": 40
-        },
-        {
-            "move": "Foul Play",
-            "level": 46
-        },
-        {
-            "move": "Parting Shot",
-            "level": 52
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": true
-        },
-        {
-            "move": "Giga Impact",
-            "tm": true
-        },
-        {
-            "move": "Dig",
-            "tm": true
-        },
-        {
-            "move": "Screech",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Thief",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Beat Up",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Swift",
-            "tm": true
-        },
-        {
-            "move": "Fake Tears",
-            "tm": true
-        },
-        {
-            "move": "Mud Shot",
-            "tm": true
-        },
-        {
-            "move": "U-turn",
-            "tm": true
-        },
-        {
-            "move": "Assurance",
-            "tm": true
-        },
-        {
-            "move": "Shadow Claw",
-            "tm": true
-        },
-        {
-            "move": "Thunder Fang",
-            "tm": true
-        },
-        {
-            "move": "Ice Fang",
-            "tm": true
-        },
-        {
-            "move": "Fire Fang",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Acrobatics",
-            "tm": true
-        },
-        {
-            "move": "Tail Slap",
-            "tm": true
-        },
-        {
-            "move": "Snarl",
-            "tm": true
-        },
-        {
-            "move": "Psychic",
-            "tm": true
-        },
-        {
-            "move": "Agility",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Baton Pass",
-            "tm": true
-        },
-        {
-            "move": "Crunch",
-            "tm": true
-        },
-        {
-            "move": "Shadow Ball",
-            "tm": true
-        },
-        {
-            "move": "Taunt",
-            "tm": true
-        },
-        {
-            "move": "Dark Pulse",
-            "tm": true
-        },
-        {
-            "move": "Nasty Plot",
-            "tm": true
-        },
-        {
-            "move": "Grass Knot",
-            "tm": true
-        },
-        {
-            "move": "Foul Play",
-            "tm": true
-        },
-        {
-            "move": "Play Rough",
-            "tm": true
-        },
-        {
-            "move": "Quick Guard",
-            "egg_move": true
-        },
-        {
-            "move": "Knock Off",
-            "egg_move": true
-        },
-        {
-            "move": "Howl",
-            "egg_move": true
-        },
-        {
-            "move": "Torment",
-            "egg_move": true
-        }
-    ]
+	"name": "Thievul",
+	"national_id": 828,
+	"types": ["Dark"],
+	"abilities": [
+		{
+			"name": "Run Away"
+		},
+		{
+			"name": "Unburden"
+		},
+		{
+			"name": "Stakeout",
+			"hidden": true
+		}
+	],
+	"catch_rate": 127,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Field"],
+	"hatch_time": [3855, 4111],
+	"height_us": "3'11\"",
+	"height_eu": "1.2 m",
+	"weight_us": "43.9 lbs.",
+	"weight_eu": "19.9 kg",
+	"base_exp_yield": 159,
+	"leveling_rate": "Fast",
+	"base_friendship": 50,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 2,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 70,
+		"atk": 58,
+		"def": 58,
+		"sp_atk": 87,
+		"sp_def": 92,
+		"speed": 90
+	},
+	"evolution_from": "Nickit",
+	"evolutions": [],
+	"species": "Fox Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "With a lithe body and sharp claws, it goes around stealing food and eggs. Boltund is its natural enemy.",
+	"move_learnset": [
+		{
+			"move": "Thief",
+			"evo": true
+		},
+		{
+			"move": "Thief",
+			"level": 1
+		},
+		{
+			"move": "Quick Attack",
+			"level": 1
+		},
+		{
+			"move": "Tail Whip",
+			"level": 1
+		},
+		{
+			"move": "Beat Up",
+			"level": 1
+		},
+		{
+			"move": "Hone Claws",
+			"level": 1
+		},
+		{
+			"move": "Snarl",
+			"level": 12
+		},
+		{
+			"move": "Assurance",
+			"level": 16
+		},
+		{
+			"move": "Nasty Plot",
+			"level": 22
+		},
+		{
+			"move": "Sucker Punch",
+			"level": 28
+		},
+		{
+			"move": "Night Slash",
+			"level": 34
+		},
+		{
+			"move": "Tail Slap",
+			"level": 40
+		},
+		{
+			"move": "Foul Play",
+			"level": 46
+		},
+		{
+			"move": "Parting Shot",
+			"level": 52
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": true
+		},
+		{
+			"move": "Giga Impact",
+			"tm": true
+		},
+		{
+			"move": "Dig",
+			"tm": true
+		},
+		{
+			"move": "Screech",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Thief",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Beat Up",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Swift",
+			"tm": true
+		},
+		{
+			"move": "Fake Tears",
+			"tm": true
+		},
+		{
+			"move": "Mud Shot",
+			"tm": true
+		},
+		{
+			"move": "U-turn",
+			"tm": true
+		},
+		{
+			"move": "Assurance",
+			"tm": true
+		},
+		{
+			"move": "Shadow Claw",
+			"tm": true
+		},
+		{
+			"move": "Thunder Fang",
+			"tm": true
+		},
+		{
+			"move": "Ice Fang",
+			"tm": true
+		},
+		{
+			"move": "Fire Fang",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Acrobatics",
+			"tm": true
+		},
+		{
+			"move": "Tail Slap",
+			"tm": true
+		},
+		{
+			"move": "Snarl",
+			"tm": true
+		},
+		{
+			"move": "Psychic",
+			"tm": true
+		},
+		{
+			"move": "Agility",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Baton Pass",
+			"tm": true
+		},
+		{
+			"move": "Crunch",
+			"tm": true
+		},
+		{
+			"move": "Shadow Ball",
+			"tm": true
+		},
+		{
+			"move": "Taunt",
+			"tm": true
+		},
+		{
+			"move": "Dark Pulse",
+			"tm": true
+		},
+		{
+			"move": "Nasty Plot",
+			"tm": true
+		},
+		{
+			"move": "Grass Knot",
+			"tm": true
+		},
+		{
+			"move": "Foul Play",
+			"tm": true
+		},
+		{
+			"move": "Play Rough",
+			"tm": true
+		},
+		{
+			"move": "Quick Guard",
+			"egg_move": true
+		},
+		{
+			"move": "Knock Off",
+			"egg_move": true
+		},
+		{
+			"move": "Howl",
+			"egg_move": true
+		},
+		{
+			"move": "Torment",
+			"egg_move": true
+		}
+	]
 }

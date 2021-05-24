@@ -1,381 +1,372 @@
 {
-    "name": "Scrafty",
-    "national_id": 560,
-    "types": [
-        "Dark",
-        "Fighting"
-    ],
-    "items": [
-        {
-            "name": "Shed Shell",
-            "chance": 5
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Shed Skin"
-        },
-        {
-            "name": "Moxie"
-        },
-        {
-            "name": "Intimidate",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 90,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Field",
-        "Dragon"
-    ],
-    "hatch_time": [
-        4080,
-        4334
-    ],
-    "height_us": "3'07\"",
-    "height_eu": "1.1 m",
-    "weight_us": "66.1 lbs.",
-    "weight_eu": "30.0 kg",
-    "base_exp_yield": 171,
-    "leveling_rate": "Medium Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 1,
-        "sp_atk": 0,
-        "sp_def": 1,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 65,
-        "atk": 90,
-        "def": 115,
-        "sp_atk": 45,
-        "sp_def": 115,
-        "speed": 58
-    },
-    "evolution_from": "Scraggy",
-    "evolutions": [],
-    "species": "Hoodlum Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "While mostly known for having the temperament of an aggressive ruffian, this Pokémon takes very good care of its family, friends, and territory.",
-    "move_learnset": [
-        {
-            "move": "Low Kick",
-            "level": 1
-        },
-        {
-            "move": "Leer",
-            "level": 1
-        },
-        {
-            "move": "Payback",
-            "level": 1
-        },
-        {
-            "move": "Headbutt",
-            "level": 1
-        },
-        {
-            "move": "Sand Attack",
-            "level": 12
-        },
-        {
-            "move": "Facade",
-            "level": 16
-        },
-        {
-            "move": "Protect",
-            "level": 20
-        },
-        {
-            "move": "Beat Up",
-            "level": 24
-        },
-        {
-            "move": "Scary Face",
-            "level": 28
-        },
-        {
-            "move": "Brick Break",
-            "level": 32
-        },
-        {
-            "move": "Swagger",
-            "level": 36
-        },
-        {
-            "move": "Crunch",
-            "level": 42
-        },
-        {
-            "move": "High Jump Kick",
-            "level": 48
-        },
-        {
-            "move": "Focus Punch",
-            "level": 54
-        },
-        {
-            "move": "Head Smash",
-            "level": 60
-        },
-        {
-            "move": "Mega Punch",
-            "tm": true
-        },
-        {
-            "move": "Mega Kick",
-            "tm": true
-        },
-        {
-            "move": "Fire Punch",
-            "tm": true
-        },
-        {
-            "move": "Ice Punch",
-            "tm": true
-        },
-        {
-            "move": "Thunder Punch",
-            "tm": true
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": true
-        },
-        {
-            "move": "Giga Impact",
-            "tm": true
-        },
-        {
-            "move": "Dig",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Rock Slide",
-            "tm": true
-        },
-        {
-            "move": "Thief",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Scary Face",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Rain Dance",
-            "tm": true
-        },
-        {
-            "move": "Sunny Day",
-            "tm": true
-        },
-        {
-            "move": "Beat Up",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Revenge",
-            "tm": true
-        },
-        {
-            "move": "Brick Break",
-            "tm": true
-        },
-        {
-            "move": "Fake Tears",
-            "tm": true
-        },
-        {
-            "move": "Rock Tomb",
-            "tm": true
-        },
-        {
-            "move": "Payback",
-            "tm": true
-        },
-        {
-            "move": "Assurance",
-            "tm": true
-        },
-        {
-            "move": "Fling",
-            "tm": true
-        },
-        {
-            "move": "Drain Punch",
-            "tm": true
-        },
-        {
-            "move": "Low Sweep",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Retaliate",
-            "tm": true
-        },
-        {
-            "move": "Snarl",
-            "tm": true
-        },
-        {
-            "move": "Low Kick",
-            "tm": true
-        },
-        {
-            "move": "Amnesia",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Sludge Bomb",
-            "tm": true
-        },
-        {
-            "move": "Outrage",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Iron Tail",
-            "tm": true
-        },
-        {
-            "move": "Crunch",
-            "tm": true
-        },
-        {
-            "move": "Taunt",
-            "tm": true
-        },
-        {
-            "move": "Iron Defense",
-            "tm": true
-        },
-        {
-            "move": "Dragon Claw",
-            "tm": true
-        },
-        {
-            "move": "Bulk Up",
-            "tm": true
-        },
-        {
-            "move": "Dragon Dance",
-            "tm": true
-        },
-        {
-            "move": "Close Combat",
-            "tm": true
-        },
-        {
-            "move": "Poison Jab",
-            "tm": true
-        },
-        {
-            "move": "Dark Pulse",
-            "tm": true
-        },
-        {
-            "move": "Dragon Pulse",
-            "tm": true
-        },
-        {
-            "move": "Focus Blast",
-            "tm": true
-        },
-        {
-            "move": "Zen Headbutt",
-            "tm": true
-        },
-        {
-            "move": "Iron Head",
-            "tm": true
-        },
-        {
-            "move": "Stone Edge",
-            "tm": true
-        },
-        {
-            "move": "Grass Knot",
-            "tm": true
-        },
-        {
-            "move": "Foul Play",
-            "tm": true
-        },
-        {
-            "move": "Work Up",
-            "tm": true
-        },
-        {
-            "move": "Throat Chop",
-            "tm": true
-        },
-        {
-            "move": "Counter",
-            "egg_move": true
-        },
-        {
-            "move": "Detect",
-            "egg_move": true
-        },
-        {
-            "move": "Fake Out",
-            "egg_move": true
-        },
-        {
-            "move": "Quick Guard",
-            "egg_move": true
-        },
-        {
-            "move": "Power-Up Punch",
-            "egg_move": true
-        },
-        {
-            "move": "Acid Spray",
-            "egg_move": true
-        }
-    ]
+	"name": "Scrafty",
+	"national_id": 560,
+	"types": ["Dark", "Fighting"],
+	"items": [
+		{
+			"name": "Shed Shell",
+			"chance": 5
+		}
+	],
+	"abilities": [
+		{
+			"name": "Shed Skin"
+		},
+		{
+			"name": "Moxie"
+		},
+		{
+			"name": "Intimidate",
+			"hidden": true
+		}
+	],
+	"catch_rate": 90,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Field", "Dragon"],
+	"hatch_time": [4080, 4334],
+	"height_us": "3'07\"",
+	"height_eu": "1.1 m",
+	"weight_us": "66.1 lbs.",
+	"weight_eu": "30.0 kg",
+	"base_exp_yield": 171,
+	"leveling_rate": "Medium Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 1,
+		"sp_atk": 0,
+		"sp_def": 1,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 65,
+		"atk": 90,
+		"def": 115,
+		"sp_atk": 45,
+		"sp_def": 115,
+		"speed": 58
+	},
+	"evolution_from": "Scraggy",
+	"evolutions": [],
+	"species": "Hoodlum Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "While mostly known for having the temperament of an aggressive ruffian, this Pokémon takes very good care of its family, friends, and territory.",
+	"move_learnset": [
+		{
+			"move": "Low Kick",
+			"level": 1
+		},
+		{
+			"move": "Leer",
+			"level": 1
+		},
+		{
+			"move": "Payback",
+			"level": 1
+		},
+		{
+			"move": "Headbutt",
+			"level": 1
+		},
+		{
+			"move": "Sand Attack",
+			"level": 12
+		},
+		{
+			"move": "Facade",
+			"level": 16
+		},
+		{
+			"move": "Protect",
+			"level": 20
+		},
+		{
+			"move": "Beat Up",
+			"level": 24
+		},
+		{
+			"move": "Scary Face",
+			"level": 28
+		},
+		{
+			"move": "Brick Break",
+			"level": 32
+		},
+		{
+			"move": "Swagger",
+			"level": 36
+		},
+		{
+			"move": "Crunch",
+			"level": 42
+		},
+		{
+			"move": "High Jump Kick",
+			"level": 48
+		},
+		{
+			"move": "Focus Punch",
+			"level": 54
+		},
+		{
+			"move": "Head Smash",
+			"level": 60
+		},
+		{
+			"move": "Mega Punch",
+			"tm": true
+		},
+		{
+			"move": "Mega Kick",
+			"tm": true
+		},
+		{
+			"move": "Fire Punch",
+			"tm": true
+		},
+		{
+			"move": "Ice Punch",
+			"tm": true
+		},
+		{
+			"move": "Thunder Punch",
+			"tm": true
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": true
+		},
+		{
+			"move": "Giga Impact",
+			"tm": true
+		},
+		{
+			"move": "Dig",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Rock Slide",
+			"tm": true
+		},
+		{
+			"move": "Thief",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Scary Face",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Rain Dance",
+			"tm": true
+		},
+		{
+			"move": "Sunny Day",
+			"tm": true
+		},
+		{
+			"move": "Beat Up",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Revenge",
+			"tm": true
+		},
+		{
+			"move": "Brick Break",
+			"tm": true
+		},
+		{
+			"move": "Fake Tears",
+			"tm": true
+		},
+		{
+			"move": "Rock Tomb",
+			"tm": true
+		},
+		{
+			"move": "Payback",
+			"tm": true
+		},
+		{
+			"move": "Assurance",
+			"tm": true
+		},
+		{
+			"move": "Fling",
+			"tm": true
+		},
+		{
+			"move": "Drain Punch",
+			"tm": true
+		},
+		{
+			"move": "Low Sweep",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Retaliate",
+			"tm": true
+		},
+		{
+			"move": "Snarl",
+			"tm": true
+		},
+		{
+			"move": "Low Kick",
+			"tm": true
+		},
+		{
+			"move": "Amnesia",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Sludge Bomb",
+			"tm": true
+		},
+		{
+			"move": "Outrage",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Iron Tail",
+			"tm": true
+		},
+		{
+			"move": "Crunch",
+			"tm": true
+		},
+		{
+			"move": "Taunt",
+			"tm": true
+		},
+		{
+			"move": "Iron Defense",
+			"tm": true
+		},
+		{
+			"move": "Dragon Claw",
+			"tm": true
+		},
+		{
+			"move": "Bulk Up",
+			"tm": true
+		},
+		{
+			"move": "Dragon Dance",
+			"tm": true
+		},
+		{
+			"move": "Close Combat",
+			"tm": true
+		},
+		{
+			"move": "Poison Jab",
+			"tm": true
+		},
+		{
+			"move": "Dark Pulse",
+			"tm": true
+		},
+		{
+			"move": "Dragon Pulse",
+			"tm": true
+		},
+		{
+			"move": "Focus Blast",
+			"tm": true
+		},
+		{
+			"move": "Zen Headbutt",
+			"tm": true
+		},
+		{
+			"move": "Iron Head",
+			"tm": true
+		},
+		{
+			"move": "Stone Edge",
+			"tm": true
+		},
+		{
+			"move": "Grass Knot",
+			"tm": true
+		},
+		{
+			"move": "Foul Play",
+			"tm": true
+		},
+		{
+			"move": "Work Up",
+			"tm": true
+		},
+		{
+			"move": "Throat Chop",
+			"tm": true
+		},
+		{
+			"move": "Counter",
+			"egg_move": true
+		},
+		{
+			"move": "Detect",
+			"egg_move": true
+		},
+		{
+			"move": "Fake Out",
+			"egg_move": true
+		},
+		{
+			"move": "Quick Guard",
+			"egg_move": true
+		},
+		{
+			"move": "Power-Up Punch",
+			"egg_move": true
+		},
+		{
+			"move": "Acid Spray",
+			"egg_move": true
+		}
+	]
 }

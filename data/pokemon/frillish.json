@@ -1,291 +1,283 @@
 {
-    "name": "Frillish",
-    "national_id": 592,
-    "types": [
-        "Water",
-        "Ghost"
-    ],
-    "abilities": [
-        {
-            "name": "Water Absorb"
-        },
-        {
-            "name": "Cursed Body"
-        },
-        {
-            "name": "Damp",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 190,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Amorphous"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "3'11\"",
-    "height_eu": "1.2 m",
-    "weight_us": "72.8 lbs.",
-    "weight_eu": "33.0 kg",
-    "base_exp_yield": 67,
-    "leveling_rate": "Medium Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 1,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 55,
-        "atk": 40,
-        "def": 50,
-        "sp_atk": 65,
-        "sp_def": 85,
-        "speed": 40
-    },
-    "evolution_from": null,
-    "evolutions": [
-        {
-            "to": "Jellicent",
-            "level": 40
-        }
-    ],
-    "species": "Floating Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "Legend has it that the residents of a sunken ancient city changed into these Pokémon.",
-    "move_learnset": [
-        {
-            "move": "Absorb",
-            "level": 1
-        },
-        {
-            "move": "Water Gun",
-            "level": 1
-        },
-        {
-            "move": "Poison Sting",
-            "level": 4
-        },
-        {
-            "move": "Night Shade",
-            "level": 8
-        },
-        {
-            "move": "Water Pulse",
-            "level": 12
-        },
-        {
-            "move": "Rain Dance",
-            "level": 16
-        },
-        {
-            "move": "Hex",
-            "level": 20
-        },
-        {
-            "move": "Brine",
-            "level": 24
-        },
-        {
-            "move": "Recover",
-            "level": 28
-        },
-        {
-            "move": "Shadow Ball",
-            "level": 32
-        },
-        {
-            "move": "Whirlpool",
-            "level": 36
-        },
-        {
-            "move": "Hydro Pump",
-            "level": 41
-        },
-        {
-            "move": "Destiny Bond",
-            "level": 44
-        },
-        {
-            "move": "Water Spout",
-            "level": 48
-        },
-        {
-            "move": "Safeguard",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Icy Wind",
-            "tm": true
-        },
-        {
-            "move": "Giga Drain",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Rain Dance",
-            "tm": true
-        },
-        {
-            "move": "Hail",
-            "tm": true
-        },
-        {
-            "move": "Whirlpool",
-            "tm": true
-        },
-        {
-            "move": "Will-O-Wisp",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Imprison",
-            "tm": true
-        },
-        {
-            "move": "Dive",
-            "tm": true
-        },
-        {
-            "move": "Brine",
-            "tm": true
-        },
-        {
-            "move": "Trick Room",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Hex",
-            "tm": true
-        },
-        {
-            "move": "Hydro Pump",
-            "tm": true
-        },
-        {
-            "move": "Surf",
-            "tm": true
-        },
-        {
-            "move": "Ice Beam",
-            "tm": true
-        },
-        {
-            "move": "Blizzard",
-            "tm": true
-        },
-        {
-            "move": "Psychic",
-            "tm": true
-        },
-        {
-            "move": "Waterfall",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Sludge Bomb",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Shadow Ball",
-            "tm": true
-        },
-        {
-            "move": "Taunt",
-            "tm": true
-        },
-        {
-            "move": "Trick",
-            "tm": true
-        },
-        {
-            "move": "Dark Pulse",
-            "tm": true
-        },
-        {
-            "move": "Energy Ball",
-            "tm": true
-        },
-        {
-            "move": "Sludge Wave",
-            "tm": true
-        },
-        {
-            "move": "Scald",
-            "tm": true
-        },
-        {
-            "move": "Dazzling Gleam",
-            "tm": true
-        },
-        {
-            "move": "Acid Armor",
-            "egg_move": true
-        },
-        {
-            "move": "Confuse Ray",
-            "egg_move": true
-        },
-        {
-            "move": "Pain Split",
-            "egg_move": true
-        },
-        {
-            "move": "Mist",
-            "egg_move": true
-        },
-        {
-            "move": "Bubble Beam",
-            "egg_move": true
-        },
-        {
-            "move": "Strength Sap",
-            "egg_move": true
-        }
-    ]
+	"name": "Frillish",
+	"national_id": 592,
+	"types": ["Water", "Ghost"],
+	"abilities": [
+		{
+			"name": "Water Absorb"
+		},
+		{
+			"name": "Cursed Body"
+		},
+		{
+			"name": "Damp",
+			"hidden": true
+		}
+	],
+	"catch_rate": 190,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Amorphous"],
+	"hatch_time": [5355, 5609],
+	"height_us": "3'11\"",
+	"height_eu": "1.2 m",
+	"weight_us": "72.8 lbs.",
+	"weight_eu": "33.0 kg",
+	"base_exp_yield": 67,
+	"leveling_rate": "Medium Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 1,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 55,
+		"atk": 40,
+		"def": 50,
+		"sp_atk": 65,
+		"sp_def": 85,
+		"speed": 40
+	},
+	"evolution_from": null,
+	"evolutions": [
+		{
+			"to": "Jellicent",
+			"level": 40
+		}
+	],
+	"species": "Floating Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "Legend has it that the residents of a sunken ancient city changed into these Pokémon.",
+	"move_learnset": [
+		{
+			"move": "Absorb",
+			"level": 1
+		},
+		{
+			"move": "Water Gun",
+			"level": 1
+		},
+		{
+			"move": "Poison Sting",
+			"level": 4
+		},
+		{
+			"move": "Night Shade",
+			"level": 8
+		},
+		{
+			"move": "Water Pulse",
+			"level": 12
+		},
+		{
+			"move": "Rain Dance",
+			"level": 16
+		},
+		{
+			"move": "Hex",
+			"level": 20
+		},
+		{
+			"move": "Brine",
+			"level": 24
+		},
+		{
+			"move": "Recover",
+			"level": 28
+		},
+		{
+			"move": "Shadow Ball",
+			"level": 32
+		},
+		{
+			"move": "Whirlpool",
+			"level": 36
+		},
+		{
+			"move": "Hydro Pump",
+			"level": 41
+		},
+		{
+			"move": "Destiny Bond",
+			"level": 44
+		},
+		{
+			"move": "Water Spout",
+			"level": 48
+		},
+		{
+			"move": "Safeguard",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Icy Wind",
+			"tm": true
+		},
+		{
+			"move": "Giga Drain",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Rain Dance",
+			"tm": true
+		},
+		{
+			"move": "Hail",
+			"tm": true
+		},
+		{
+			"move": "Whirlpool",
+			"tm": true
+		},
+		{
+			"move": "Will-O-Wisp",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Imprison",
+			"tm": true
+		},
+		{
+			"move": "Dive",
+			"tm": true
+		},
+		{
+			"move": "Brine",
+			"tm": true
+		},
+		{
+			"move": "Trick Room",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Hex",
+			"tm": true
+		},
+		{
+			"move": "Hydro Pump",
+			"tm": true
+		},
+		{
+			"move": "Surf",
+			"tm": true
+		},
+		{
+			"move": "Ice Beam",
+			"tm": true
+		},
+		{
+			"move": "Blizzard",
+			"tm": true
+		},
+		{
+			"move": "Psychic",
+			"tm": true
+		},
+		{
+			"move": "Waterfall",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Sludge Bomb",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Shadow Ball",
+			"tm": true
+		},
+		{
+			"move": "Taunt",
+			"tm": true
+		},
+		{
+			"move": "Trick",
+			"tm": true
+		},
+		{
+			"move": "Dark Pulse",
+			"tm": true
+		},
+		{
+			"move": "Energy Ball",
+			"tm": true
+		},
+		{
+			"move": "Sludge Wave",
+			"tm": true
+		},
+		{
+			"move": "Scald",
+			"tm": true
+		},
+		{
+			"move": "Dazzling Gleam",
+			"tm": true
+		},
+		{
+			"move": "Acid Armor",
+			"egg_move": true
+		},
+		{
+			"move": "Confuse Ray",
+			"egg_move": true
+		},
+		{
+			"move": "Pain Split",
+			"egg_move": true
+		},
+		{
+			"move": "Mist",
+			"egg_move": true
+		},
+		{
+			"move": "Bubble Beam",
+			"egg_move": true
+		},
+		{
+			"move": "Strength Sap",
+			"egg_move": true
+		}
+	]
 }

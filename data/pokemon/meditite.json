@@ -1,324 +1,316 @@
 {
-    "name": "Meditite",
-    "national_id": 307,
-    "types": [
-        "Fighting",
-        "Psychic"
-    ],
-    "abilities": [
-        {
-            "name": "Pure Power"
-        },
-        {
-            "name": "Telepathy",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 180,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Human-Like"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "2'00\"",
-    "height_eu": "0.6 m",
-    "weight_us": "24.7 lbs.",
-    "weight_eu": "11.2 kg",
-    "base_exp_yield": 56,
-    "leveling_rate": "Medium Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 1
-    },
-    "base_stats": {
-        "hp": 30,
-        "atk": 40,
-        "def": 55,
-        "sp_atk": 40,
-        "sp_def": 55,
-        "speed": 60
-    },
-    "evolution_from": null,
-    "evolutions": [
-        {
-            "to": "Medicham",
-            "level": 37
-        }
-    ],
-    "species": "Meditate Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "Meditite heightens its inner energy through meditation. It survives on just one berry a day. Minimal eating is another aspect of this Pokémon’s training.",
-    "move_learnset": [
-        {
-            "move": "Bide",
-            "level": 1
-        },
-        {
-            "move": "Meditate",
-            "level": 4
-        },
-        {
-            "move": "Confusion",
-            "level": 7
-        },
-        {
-            "move": "Detect",
-            "level": 9
-        },
-        {
-            "move": "Endure",
-            "level": 12
-        },
-        {
-            "move": "Feint",
-            "level": 15
-        },
-        {
-            "move": "Force Palm",
-            "level": 17
-        },
-        {
-            "move": "Hidden Power",
-            "level": 20
-        },
-        {
-            "move": "Calm Mind",
-            "level": 23
-        },
-        {
-            "move": "Mind Reader",
-            "level": 25
-        },
-        {
-            "move": "High Jump Kick",
-            "level": 28
-        },
-        {
-            "move": "Psych Up",
-            "level": 31
-        },
-        {
-            "move": "Acupressure",
-            "level": 33
-        },
-        {
-            "move": "Power Trick",
-            "level": 36
-        },
-        {
-            "move": "Reversal",
-            "level": 39
-        },
-        {
-            "move": "Recover",
-            "level": 41
-        },
-        {
-            "move": "Counter",
-            "level": 44
-        },
-        {
-            "move": "Baton Pass",
-            "egg_move": true
-        },
-        {
-            "move": "Bullet Punch",
-            "egg_move": true
-        },
-        {
-            "move": "Drain Punch",
-            "egg_move": true
-        },
-        {
-            "move": "Dynamic Punch",
-            "egg_move": true
-        },
-        {
-            "move": "Fake Out",
-            "egg_move": true
-        },
-        {
-            "move": "Fire Punch",
-            "egg_move": true
-        },
-        {
-            "move": "Foresight",
-            "egg_move": true
-        },
-        {
-            "move": "Guard Swap",
-            "egg_move": true
-        },
-        {
-            "move": "Ice Punch",
-            "egg_move": true
-        },
-        {
-            "move": "Power Swap",
-            "egg_move": true
-        },
-        {
-            "move": "Psycho Cut",
-            "egg_move": true
-        },
-        {
-            "move": "Quick Guard",
-            "egg_move": true
-        },
-        {
-            "move": "Secret Power",
-            "egg_move": true
-        },
-        {
-            "move": "Thunder Punch",
-            "egg_move": true
-        },
-        {
-            "move": "Work Up",
-            "tm": "TM1"
-        },
-        {
-            "move": "Psyshock",
-            "tm": "TM3"
-        },
-        {
-            "move": "Calm Mind",
-            "tm": "TM4"
-        },
-        {
-            "move": "Toxic",
-            "tm": "TM6"
-        },
-        {
-            "move": "Bulk Up",
-            "tm": "TM8"
-        },
-        {
-            "move": "Hidden Power",
-            "tm": "TM10"
-        },
-        {
-            "move": "Sunny Day",
-            "tm": "TM11"
-        },
-        {
-            "move": "Light Screen",
-            "tm": "TM16"
-        },
-        {
-            "move": "Protect",
-            "tm": "TM17"
-        },
-        {
-            "move": "Rain Dance",
-            "tm": "TM18"
-        },
-        {
-            "move": "Frustration",
-            "tm": "TM21"
-        },
-        {
-            "move": "Return",
-            "tm": "TM27"
-        },
-        {
-            "move": "Psychic",
-            "tm": "TM29"
-        },
-        {
-            "move": "Shadow Ball",
-            "tm": "TM30"
-        },
-        {
-            "move": "Brick Break",
-            "tm": "TM31"
-        },
-        {
-            "move": "Double Team",
-            "tm": "TM32"
-        },
-        {
-            "move": "Reflect",
-            "tm": "TM33"
-        },
-        {
-            "move": "Rock Tomb",
-            "tm": "TM39"
-        },
-        {
-            "move": "Facade",
-            "tm": "TM42"
-        },
-        {
-            "move": "Rest",
-            "tm": "TM44"
-        },
-        {
-            "move": "Attract",
-            "tm": "TM45"
-        },
-        {
-            "move": "Low Sweep",
-            "tm": "TM47"
-        },
-        {
-            "move": "Round",
-            "tm": "TM48"
-        },
-        {
-            "move": "Focus Blast",
-            "tm": "TM52"
-        },
-        {
-            "move": "Fling",
-            "tm": "TM56"
-        },
-        {
-            "move": "Psych Up",
-            "tm": "TM77"
-        },
-        {
-            "move": "Rock Slide",
-            "tm": "TM80"
-        },
-        {
-            "move": "Poison Jab",
-            "tm": "TM84"
-        },
-        {
-            "move": "Dream Eater",
-            "tm": "TM85"
-        },
-        {
-            "move": "Grass Knot",
-            "tm": "TM86"
-        },
-        {
-            "move": "Swagger",
-            "tm": "TM87"
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": "TM88"
-        },
-        {
-            "move": "Substitute",
-            "tm": "TM90"
-        },
-        {
-            "move": "Confide",
-            "tm": "TM100"
-        }
-    ]
+	"name": "Meditite",
+	"national_id": 307,
+	"types": ["Fighting", "Psychic"],
+	"abilities": [
+		{
+			"name": "Pure Power"
+		},
+		{
+			"name": "Telepathy",
+			"hidden": true
+		}
+	],
+	"catch_rate": 180,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Human-Like"],
+	"hatch_time": [5355, 5609],
+	"height_us": "2'00\"",
+	"height_eu": "0.6 m",
+	"weight_us": "24.7 lbs.",
+	"weight_eu": "11.2 kg",
+	"base_exp_yield": 56,
+	"leveling_rate": "Medium Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 1
+	},
+	"base_stats": {
+		"hp": 30,
+		"atk": 40,
+		"def": 55,
+		"sp_atk": 40,
+		"sp_def": 55,
+		"speed": 60
+	},
+	"evolution_from": null,
+	"evolutions": [
+		{
+			"to": "Medicham",
+			"level": 37
+		}
+	],
+	"species": "Meditate Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "Meditite heightens its inner energy through meditation. It survives on just one berry a day. Minimal eating is another aspect of this Pokémon’s training.",
+	"move_learnset": [
+		{
+			"move": "Bide",
+			"level": 1
+		},
+		{
+			"move": "Meditate",
+			"level": 4
+		},
+		{
+			"move": "Confusion",
+			"level": 7
+		},
+		{
+			"move": "Detect",
+			"level": 9
+		},
+		{
+			"move": "Endure",
+			"level": 12
+		},
+		{
+			"move": "Feint",
+			"level": 15
+		},
+		{
+			"move": "Force Palm",
+			"level": 17
+		},
+		{
+			"move": "Hidden Power",
+			"level": 20
+		},
+		{
+			"move": "Calm Mind",
+			"level": 23
+		},
+		{
+			"move": "Mind Reader",
+			"level": 25
+		},
+		{
+			"move": "High Jump Kick",
+			"level": 28
+		},
+		{
+			"move": "Psych Up",
+			"level": 31
+		},
+		{
+			"move": "Acupressure",
+			"level": 33
+		},
+		{
+			"move": "Power Trick",
+			"level": 36
+		},
+		{
+			"move": "Reversal",
+			"level": 39
+		},
+		{
+			"move": "Recover",
+			"level": 41
+		},
+		{
+			"move": "Counter",
+			"level": 44
+		},
+		{
+			"move": "Baton Pass",
+			"egg_move": true
+		},
+		{
+			"move": "Bullet Punch",
+			"egg_move": true
+		},
+		{
+			"move": "Drain Punch",
+			"egg_move": true
+		},
+		{
+			"move": "Dynamic Punch",
+			"egg_move": true
+		},
+		{
+			"move": "Fake Out",
+			"egg_move": true
+		},
+		{
+			"move": "Fire Punch",
+			"egg_move": true
+		},
+		{
+			"move": "Foresight",
+			"egg_move": true
+		},
+		{
+			"move": "Guard Swap",
+			"egg_move": true
+		},
+		{
+			"move": "Ice Punch",
+			"egg_move": true
+		},
+		{
+			"move": "Power Swap",
+			"egg_move": true
+		},
+		{
+			"move": "Psycho Cut",
+			"egg_move": true
+		},
+		{
+			"move": "Quick Guard",
+			"egg_move": true
+		},
+		{
+			"move": "Secret Power",
+			"egg_move": true
+		},
+		{
+			"move": "Thunder Punch",
+			"egg_move": true
+		},
+		{
+			"move": "Work Up",
+			"tm": "TM1"
+		},
+		{
+			"move": "Psyshock",
+			"tm": "TM3"
+		},
+		{
+			"move": "Calm Mind",
+			"tm": "TM4"
+		},
+		{
+			"move": "Toxic",
+			"tm": "TM6"
+		},
+		{
+			"move": "Bulk Up",
+			"tm": "TM8"
+		},
+		{
+			"move": "Hidden Power",
+			"tm": "TM10"
+		},
+		{
+			"move": "Sunny Day",
+			"tm": "TM11"
+		},
+		{
+			"move": "Light Screen",
+			"tm": "TM16"
+		},
+		{
+			"move": "Protect",
+			"tm": "TM17"
+		},
+		{
+			"move": "Rain Dance",
+			"tm": "TM18"
+		},
+		{
+			"move": "Frustration",
+			"tm": "TM21"
+		},
+		{
+			"move": "Return",
+			"tm": "TM27"
+		},
+		{
+			"move": "Psychic",
+			"tm": "TM29"
+		},
+		{
+			"move": "Shadow Ball",
+			"tm": "TM30"
+		},
+		{
+			"move": "Brick Break",
+			"tm": "TM31"
+		},
+		{
+			"move": "Double Team",
+			"tm": "TM32"
+		},
+		{
+			"move": "Reflect",
+			"tm": "TM33"
+		},
+		{
+			"move": "Rock Tomb",
+			"tm": "TM39"
+		},
+		{
+			"move": "Facade",
+			"tm": "TM42"
+		},
+		{
+			"move": "Rest",
+			"tm": "TM44"
+		},
+		{
+			"move": "Attract",
+			"tm": "TM45"
+		},
+		{
+			"move": "Low Sweep",
+			"tm": "TM47"
+		},
+		{
+			"move": "Round",
+			"tm": "TM48"
+		},
+		{
+			"move": "Focus Blast",
+			"tm": "TM52"
+		},
+		{
+			"move": "Fling",
+			"tm": "TM56"
+		},
+		{
+			"move": "Psych Up",
+			"tm": "TM77"
+		},
+		{
+			"move": "Rock Slide",
+			"tm": "TM80"
+		},
+		{
+			"move": "Poison Jab",
+			"tm": "TM84"
+		},
+		{
+			"move": "Dream Eater",
+			"tm": "TM85"
+		},
+		{
+			"move": "Grass Knot",
+			"tm": "TM86"
+		},
+		{
+			"move": "Swagger",
+			"tm": "TM87"
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": "TM88"
+		},
+		{
+			"move": "Substitute",
+			"tm": "TM90"
+		},
+		{
+			"move": "Confide",
+			"tm": "TM100"
+		}
+	]
 }

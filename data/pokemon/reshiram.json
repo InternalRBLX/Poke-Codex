@@ -1,316 +1,308 @@
 {
-    "name": "Reshiram",
-    "national_id": 643,
-    "types": [
-        "Dragon",
-        "Fire"
-    ],
-    "abilities": [
-        {
-            "name": "Turboblaze"
-        }
-    ],
-    "catch_rate": 3,
-    "gender_ratios": null,
-    "egg_groups": [
-        "Undiscovered"
-    ],
-    "hatch_time": [
-        30600,
-        30854
-    ],
-    "height_us": "10'06\"",
-    "height_eu": "3.2 m",
-    "weight_us": "727.5 lbs.",
-    "weight_eu": "330.0 kg",
-    "base_exp_yield": 306,
-    "leveling_rate": "Slow",
-    "base_friendship": 0,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 3,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 100,
-        "atk": 120,
-        "def": 100,
-        "sp_atk": 150,
-        "sp_def": 120,
-        "speed": 90
-    },
-    "evolution_from": null,
-    "evolutions": [],
-    "species": "Vast White Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "According to myth, if people ignore truth and let themselves become consumed by greed, Reshiram will arrive to burn their kingdoms down.",
-    "move_learnset": [
-        {
-            "move": "Dragon Breath",
-            "level": 1
-        },
-        {
-            "move": "Noble Roar",
-            "level": 1
-        },
-        {
-            "move": "Ancient Power",
-            "level": 1
-        },
-        {
-            "move": "Fire Fang",
-            "level": 1
-        },
-        {
-            "move": "Slash",
-            "level": 8
-        },
-        {
-            "move": "Crunch",
-            "level": 16
-        },
-        {
-            "move": "Extrasensory",
-            "level": 24
-        },
-        {
-            "move": "Dragon Pulse",
-            "level": 32
-        },
-        {
-            "move": "Flamethrower",
-            "level": 40
-        },
-        {
-            "move": "Fusion Flare",
-            "level": 48
-        },
-        {
-            "move": "Hyper Voice",
-            "level": 56
-        },
-        {
-            "move": "Fire Blast",
-            "level": 64
-        },
-        {
-            "move": "Imprison",
-            "level": 72
-        },
-        {
-            "move": "Outrage",
-            "level": 80
-        },
-        {
-            "move": "Blue Flare",
-            "level": 88
-        },
-        {
-            "move": "Fly",
-            "tm": true
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": true
-        },
-        {
-            "move": "Giga Impact",
-            "tm": true
-        },
-        {
-            "move": "Solar Beam",
-            "tm": true
-        },
-        {
-            "move": "Light Screen",
-            "tm": true
-        },
-        {
-            "move": "Reflect",
-            "tm": true
-        },
-        {
-            "move": "Safeguard",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Rock Slide",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Steel Wing",
-            "tm": true
-        },
-        {
-            "move": "Rain Dance",
-            "tm": true
-        },
-        {
-            "move": "Sunny Day",
-            "tm": true
-        },
-        {
-            "move": "Will-O-Wisp",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Swift",
-            "tm": true
-        },
-        {
-            "move": "Helping Hand",
-            "tm": true
-        },
-        {
-            "move": "Imprison",
-            "tm": true
-        },
-        {
-            "move": "Weather Ball",
-            "tm": true
-        },
-        {
-            "move": "Rock Tomb",
-            "tm": true
-        },
-        {
-            "move": "Payback",
-            "tm": true
-        },
-        {
-            "move": "Fling",
-            "tm": true
-        },
-        {
-            "move": "Shadow Claw",
-            "tm": true
-        },
-        {
-            "move": "Fire Fang",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Mystical Fire",
-            "tm": true
-        },
-        {
-            "move": "Brutal Swing",
-            "tm": true
-        },
-        {
-            "move": "Breaking Swipe",
-            "tm": true
-        },
-        {
-            "move": "Flamethrower",
-            "tm": true
-        },
-        {
-            "move": "Psychic",
-            "tm": true
-        },
-        {
-            "move": "Fire Blast",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Outrage",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Crunch",
-            "tm": true
-        },
-        {
-            "move": "Shadow Ball",
-            "tm": true
-        },
-        {
-            "move": "Heat Wave",
-            "tm": true
-        },
-        {
-            "move": "Hyper Voice",
-            "tm": true
-        },
-        {
-            "move": "Overheat",
-            "tm": true
-        },
-        {
-            "move": "Dragon Claw",
-            "tm": true
-        },
-        {
-            "move": "Dragon Dance",
-            "tm": true
-        },
-        {
-            "move": "Flare Blitz",
-            "tm": true
-        },
-        {
-            "move": "Dragon Pulse",
-            "tm": true
-        },
-        {
-            "move": "Focus Blast",
-            "tm": true
-        },
-        {
-            "move": "Earth Power",
-            "tm": true
-        },
-        {
-            "move": "Zen Headbutt",
-            "tm": true
-        },
-        {
-            "move": "Stone Edge",
-            "tm": true
-        },
-        {
-            "move": "Heat Crash",
-            "tm": true
-        },
-        {
-            "move": "Body Press",
-            "tm": true
-        }
-    ]
+	"name": "Reshiram",
+	"national_id": 643,
+	"types": ["Dragon", "Fire"],
+	"abilities": [
+		{
+			"name": "Turboblaze"
+		}
+	],
+	"catch_rate": 3,
+	"gender_ratios": null,
+	"egg_groups": ["Undiscovered"],
+	"hatch_time": [30600, 30854],
+	"height_us": "10'06\"",
+	"height_eu": "3.2 m",
+	"weight_us": "727.5 lbs.",
+	"weight_eu": "330.0 kg",
+	"base_exp_yield": 306,
+	"leveling_rate": "Slow",
+	"base_friendship": 0,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 3,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 100,
+		"atk": 120,
+		"def": 100,
+		"sp_atk": 150,
+		"sp_def": 120,
+		"speed": 90
+	},
+	"evolution_from": null,
+	"evolutions": [],
+	"species": "Vast White Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "According to myth, if people ignore truth and let themselves become consumed by greed, Reshiram will arrive to burn their kingdoms down.",
+	"move_learnset": [
+		{
+			"move": "Dragon Breath",
+			"level": 1
+		},
+		{
+			"move": "Noble Roar",
+			"level": 1
+		},
+		{
+			"move": "Ancient Power",
+			"level": 1
+		},
+		{
+			"move": "Fire Fang",
+			"level": 1
+		},
+		{
+			"move": "Slash",
+			"level": 8
+		},
+		{
+			"move": "Crunch",
+			"level": 16
+		},
+		{
+			"move": "Extrasensory",
+			"level": 24
+		},
+		{
+			"move": "Dragon Pulse",
+			"level": 32
+		},
+		{
+			"move": "Flamethrower",
+			"level": 40
+		},
+		{
+			"move": "Fusion Flare",
+			"level": 48
+		},
+		{
+			"move": "Hyper Voice",
+			"level": 56
+		},
+		{
+			"move": "Fire Blast",
+			"level": 64
+		},
+		{
+			"move": "Imprison",
+			"level": 72
+		},
+		{
+			"move": "Outrage",
+			"level": 80
+		},
+		{
+			"move": "Blue Flare",
+			"level": 88
+		},
+		{
+			"move": "Fly",
+			"tm": true
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": true
+		},
+		{
+			"move": "Giga Impact",
+			"tm": true
+		},
+		{
+			"move": "Solar Beam",
+			"tm": true
+		},
+		{
+			"move": "Light Screen",
+			"tm": true
+		},
+		{
+			"move": "Reflect",
+			"tm": true
+		},
+		{
+			"move": "Safeguard",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Rock Slide",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Steel Wing",
+			"tm": true
+		},
+		{
+			"move": "Rain Dance",
+			"tm": true
+		},
+		{
+			"move": "Sunny Day",
+			"tm": true
+		},
+		{
+			"move": "Will-O-Wisp",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Swift",
+			"tm": true
+		},
+		{
+			"move": "Helping Hand",
+			"tm": true
+		},
+		{
+			"move": "Imprison",
+			"tm": true
+		},
+		{
+			"move": "Weather Ball",
+			"tm": true
+		},
+		{
+			"move": "Rock Tomb",
+			"tm": true
+		},
+		{
+			"move": "Payback",
+			"tm": true
+		},
+		{
+			"move": "Fling",
+			"tm": true
+		},
+		{
+			"move": "Shadow Claw",
+			"tm": true
+		},
+		{
+			"move": "Fire Fang",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Mystical Fire",
+			"tm": true
+		},
+		{
+			"move": "Brutal Swing",
+			"tm": true
+		},
+		{
+			"move": "Breaking Swipe",
+			"tm": true
+		},
+		{
+			"move": "Flamethrower",
+			"tm": true
+		},
+		{
+			"move": "Psychic",
+			"tm": true
+		},
+		{
+			"move": "Fire Blast",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Outrage",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Crunch",
+			"tm": true
+		},
+		{
+			"move": "Shadow Ball",
+			"tm": true
+		},
+		{
+			"move": "Heat Wave",
+			"tm": true
+		},
+		{
+			"move": "Hyper Voice",
+			"tm": true
+		},
+		{
+			"move": "Overheat",
+			"tm": true
+		},
+		{
+			"move": "Dragon Claw",
+			"tm": true
+		},
+		{
+			"move": "Dragon Dance",
+			"tm": true
+		},
+		{
+			"move": "Flare Blitz",
+			"tm": true
+		},
+		{
+			"move": "Dragon Pulse",
+			"tm": true
+		},
+		{
+			"move": "Focus Blast",
+			"tm": true
+		},
+		{
+			"move": "Earth Power",
+			"tm": true
+		},
+		{
+			"move": "Zen Headbutt",
+			"tm": true
+		},
+		{
+			"move": "Stone Edge",
+			"tm": true
+		},
+		{
+			"move": "Heat Crash",
+			"tm": true
+		},
+		{
+			"move": "Body Press",
+			"tm": true
+		}
+	]
 }

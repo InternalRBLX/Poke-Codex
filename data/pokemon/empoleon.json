@@ -1,340 +1,331 @@
 {
-    "name": "Empoleon",
-    "national_id": 395,
-    "types": [
-        "Water",
-        "Steel"
-    ],
-    "abilities": [
-        {
-            "name": "Torrent"
-        },
-        {
-            "name": "Defiant",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 45,
-    "gender_ratios": {
-        "male": 87.5,
-        "female": 12.5
-    },
-    "egg_groups": [
-        "Water 1",
-        "Field"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "5'07\"",
-    "height_eu": "1.7 m",
-    "weight_us": "186.3 lbs.",
-    "weight_eu": "84.5 kg",
-    "base_exp_yield": 239,
-    "leveling_rate": "Medium Slow",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 3,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 84,
-        "atk": 86,
-        "def": 88,
-        "sp_atk": 111,
-        "sp_def": 101,
-        "speed": 60
-    },
-    "evolution_from": "Prinplup",
-    "evolutions": [],
-    "species": "Emperor Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "The three horns that extend from its beak attest to its power. The leader has the biggest horns.",
-    "move_learnset": [
-        {
-            "move": "Aqua Jet",
-            "level": 1
-        },
-        {
-            "move": "Bubble",
-            "level": 1
-        },
-        {
-            "move": "Growl",
-            "level": 1
-        },
-        {
-            "move": "Metal Claw",
-            "level": 1
-        },
-        {
-            "move": "Tackle",
-            "level": 1
-        },
-        {
-            "move": "Growl",
-            "level": 4
-        },
-        {
-            "move": "Bubble",
-            "level": 8
-        },
-        {
-            "move": "Swords Dance",
-            "level": 11
-        },
-        {
-            "move": "Peck",
-            "level": 15
-        },
-        {
-            "move": "Bubble Beam",
-            "level": 19
-        },
-        {
-            "move": "Swagger",
-            "level": 24
-        },
-        {
-            "move": "Fury Attack",
-            "level": 28
-        },
-        {
-            "move": "Brine",
-            "level": 33
-        },
-        {
-            "move": "Whirlpool",
-            "level": 39
-        },
-        {
-            "move": "Mist",
-            "level": 46
-        },
-        {
-            "move": "Drill Peck",
-            "level": 52
-        },
-        {
-            "move": "Hydro Pump",
-            "level": 59
-        },
-        {
-            "move": "Agility",
-            "egg_move": true
-        },
-        {
-            "move": "Aqua Ring",
-            "egg_move": true
-        },
-        {
-            "move": "Bide",
-            "egg_move": true
-        },
-        {
-            "move": "Double Hit",
-            "egg_move": true
-        },
-        {
-            "move": "Feather Dance",
-            "egg_move": true
-        },
-        {
-            "move": "Flail",
-            "egg_move": true
-        },
-        {
-            "move": "Hydro Pump",
-            "egg_move": true
-        },
-        {
-            "move": "Icy Wind",
-            "egg_move": true
-        },
-        {
-            "move": "Mud-Slap",
-            "egg_move": true
-        },
-        {
-            "move": "Mud Sport",
-            "egg_move": true
-        },
-        {
-            "move": "Power Trip",
-            "egg_move": true
-        },
-        {
-            "move": "Snore",
-            "egg_move": true
-        },
-        {
-            "move": "Supersonic",
-            "egg_move": true
-        },
-        {
-            "move": "Yawn",
-            "egg_move": true
-        },
-        {
-            "move": "Work Up",
-            "tm": "TM1"
-        },
-        {
-            "move": "Roar",
-            "tm": "TM5"
-        },
-        {
-            "move": "Toxic",
-            "tm": "TM6"
-        },
-        {
-            "move": "Hail",
-            "tm": "TM7"
-        },
-        {
-            "move": "Hidden Power",
-            "tm": "TM10"
-        },
-        {
-            "move": "Ice Beam",
-            "tm": "TM13"
-        },
-        {
-            "move": "Blizzard",
-            "tm": "TM14"
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": "TM15"
-        },
-        {
-            "move": "Protect",
-            "tm": "TM17"
-        },
-        {
-            "move": "Rain Dance",
-            "tm": "TM18"
-        },
-        {
-            "move": "Frustration",
-            "tm": "TM21"
-        },
-        {
-            "move": "Earthquake",
-            "tm": "TM26"
-        },
-        {
-            "move": "Return",
-            "tm": "TM27"
-        },
-        {
-            "move": "Brick Break",
-            "tm": "TM31"
-        },
-        {
-            "move": "Double Team",
-            "tm": "TM32"
-        },
-        {
-            "move": "Rock Tomb",
-            "tm": "TM39"
-        },
-        {
-            "move": "Aerial Ace",
-            "tm": "TM40"
-        },
-        {
-            "move": "Facade",
-            "tm": "TM42"
-        },
-        {
-            "move": "Rest",
-            "tm": "TM44"
-        },
-        {
-            "move": "Attract",
-            "tm": "TM45"
-        },
-        {
-            "move": "Round",
-            "tm": "TM48"
-        },
-        {
-            "move": "Echoed Voice",
-            "tm": "TM49"
-        },
-        {
-            "move": "Steel Wing",
-            "tm": "TM51"
-        },
-        {
-            "move": "Scald",
-            "tm": "TM55"
-        },
-        {
-            "move": "Fling",
-            "tm": "TM56"
-        },
-        {
-            "move": "Quash",
-            "tm": "TM60"
-        },
-        {
-            "move": "Shadow Claw",
-            "tm": "TM65"
-        },
-        {
-            "move": "Giga Impact",
-            "tm": "TM68"
-        },
-        {
-            "move": "Swords Dance",
-            "tm": "TM75"
-        },
-        {
-            "move": "Bulldoze",
-            "tm": "TM78"
-        },
-        {
-            "move": "Rock Slide",
-            "tm": "TM80"
-        },
-        {
-            "move": "Grass Knot",
-            "tm": "TM86"
-        },
-        {
-            "move": "Swagger",
-            "tm": "TM87"
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": "TM88"
-        },
-        {
-            "move": "Substitute",
-            "tm": "TM90"
-        },
-        {
-            "move": "Flash Cannon",
-            "tm": "TM91"
-        },
-        {
-            "move": "Surf",
-            "tm": "TM94"
-        },
-        {
-            "move": "Waterfall",
-            "tm": "TM98"
-        },
-        {
-            "move": "Confide",
-            "tm": "TM100"
-        }
-    ]
+	"name": "Empoleon",
+	"national_id": 395,
+	"types": ["Water", "Steel"],
+	"abilities": [
+		{
+			"name": "Torrent"
+		},
+		{
+			"name": "Defiant",
+			"hidden": true
+		}
+	],
+	"catch_rate": 45,
+	"gender_ratios": {
+		"male": 87.5,
+		"female": 12.5
+	},
+	"egg_groups": ["Water 1", "Field"],
+	"hatch_time": [5355, 5609],
+	"height_us": "5'07\"",
+	"height_eu": "1.7 m",
+	"weight_us": "186.3 lbs.",
+	"weight_eu": "84.5 kg",
+	"base_exp_yield": 239,
+	"leveling_rate": "Medium Slow",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 3,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 84,
+		"atk": 86,
+		"def": 88,
+		"sp_atk": 111,
+		"sp_def": 101,
+		"speed": 60
+	},
+	"evolution_from": "Prinplup",
+	"evolutions": [],
+	"species": "Emperor Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "The three horns that extend from its beak attest to its power. The leader has the biggest horns.",
+	"move_learnset": [
+		{
+			"move": "Aqua Jet",
+			"level": 1
+		},
+		{
+			"move": "Bubble",
+			"level": 1
+		},
+		{
+			"move": "Growl",
+			"level": 1
+		},
+		{
+			"move": "Metal Claw",
+			"level": 1
+		},
+		{
+			"move": "Tackle",
+			"level": 1
+		},
+		{
+			"move": "Growl",
+			"level": 4
+		},
+		{
+			"move": "Bubble",
+			"level": 8
+		},
+		{
+			"move": "Swords Dance",
+			"level": 11
+		},
+		{
+			"move": "Peck",
+			"level": 15
+		},
+		{
+			"move": "Bubble Beam",
+			"level": 19
+		},
+		{
+			"move": "Swagger",
+			"level": 24
+		},
+		{
+			"move": "Fury Attack",
+			"level": 28
+		},
+		{
+			"move": "Brine",
+			"level": 33
+		},
+		{
+			"move": "Whirlpool",
+			"level": 39
+		},
+		{
+			"move": "Mist",
+			"level": 46
+		},
+		{
+			"move": "Drill Peck",
+			"level": 52
+		},
+		{
+			"move": "Hydro Pump",
+			"level": 59
+		},
+		{
+			"move": "Agility",
+			"egg_move": true
+		},
+		{
+			"move": "Aqua Ring",
+			"egg_move": true
+		},
+		{
+			"move": "Bide",
+			"egg_move": true
+		},
+		{
+			"move": "Double Hit",
+			"egg_move": true
+		},
+		{
+			"move": "Feather Dance",
+			"egg_move": true
+		},
+		{
+			"move": "Flail",
+			"egg_move": true
+		},
+		{
+			"move": "Hydro Pump",
+			"egg_move": true
+		},
+		{
+			"move": "Icy Wind",
+			"egg_move": true
+		},
+		{
+			"move": "Mud-Slap",
+			"egg_move": true
+		},
+		{
+			"move": "Mud Sport",
+			"egg_move": true
+		},
+		{
+			"move": "Power Trip",
+			"egg_move": true
+		},
+		{
+			"move": "Snore",
+			"egg_move": true
+		},
+		{
+			"move": "Supersonic",
+			"egg_move": true
+		},
+		{
+			"move": "Yawn",
+			"egg_move": true
+		},
+		{
+			"move": "Work Up",
+			"tm": "TM1"
+		},
+		{
+			"move": "Roar",
+			"tm": "TM5"
+		},
+		{
+			"move": "Toxic",
+			"tm": "TM6"
+		},
+		{
+			"move": "Hail",
+			"tm": "TM7"
+		},
+		{
+			"move": "Hidden Power",
+			"tm": "TM10"
+		},
+		{
+			"move": "Ice Beam",
+			"tm": "TM13"
+		},
+		{
+			"move": "Blizzard",
+			"tm": "TM14"
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": "TM15"
+		},
+		{
+			"move": "Protect",
+			"tm": "TM17"
+		},
+		{
+			"move": "Rain Dance",
+			"tm": "TM18"
+		},
+		{
+			"move": "Frustration",
+			"tm": "TM21"
+		},
+		{
+			"move": "Earthquake",
+			"tm": "TM26"
+		},
+		{
+			"move": "Return",
+			"tm": "TM27"
+		},
+		{
+			"move": "Brick Break",
+			"tm": "TM31"
+		},
+		{
+			"move": "Double Team",
+			"tm": "TM32"
+		},
+		{
+			"move": "Rock Tomb",
+			"tm": "TM39"
+		},
+		{
+			"move": "Aerial Ace",
+			"tm": "TM40"
+		},
+		{
+			"move": "Facade",
+			"tm": "TM42"
+		},
+		{
+			"move": "Rest",
+			"tm": "TM44"
+		},
+		{
+			"move": "Attract",
+			"tm": "TM45"
+		},
+		{
+			"move": "Round",
+			"tm": "TM48"
+		},
+		{
+			"move": "Echoed Voice",
+			"tm": "TM49"
+		},
+		{
+			"move": "Steel Wing",
+			"tm": "TM51"
+		},
+		{
+			"move": "Scald",
+			"tm": "TM55"
+		},
+		{
+			"move": "Fling",
+			"tm": "TM56"
+		},
+		{
+			"move": "Quash",
+			"tm": "TM60"
+		},
+		{
+			"move": "Shadow Claw",
+			"tm": "TM65"
+		},
+		{
+			"move": "Giga Impact",
+			"tm": "TM68"
+		},
+		{
+			"move": "Swords Dance",
+			"tm": "TM75"
+		},
+		{
+			"move": "Bulldoze",
+			"tm": "TM78"
+		},
+		{
+			"move": "Rock Slide",
+			"tm": "TM80"
+		},
+		{
+			"move": "Grass Knot",
+			"tm": "TM86"
+		},
+		{
+			"move": "Swagger",
+			"tm": "TM87"
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": "TM88"
+		},
+		{
+			"move": "Substitute",
+			"tm": "TM90"
+		},
+		{
+			"move": "Flash Cannon",
+			"tm": "TM91"
+		},
+		{
+			"move": "Surf",
+			"tm": "TM94"
+		},
+		{
+			"move": "Waterfall",
+			"tm": "TM98"
+		},
+		{
+			"move": "Confide",
+			"tm": "TM100"
+		}
+	]
 }

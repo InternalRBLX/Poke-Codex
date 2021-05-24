@@ -1,251 +1,243 @@
 {
-    "name": "Barboach",
-    "national_id": 339,
-    "types": [
-        "Water",
-        "Ground"
-    ],
-    "abilities": [
-        {
-            "name": "Oblivious"
-        },
-        {
-            "name": "Anticipation"
-        },
-        {
-            "name": "Hydration",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 190,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Water 2"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "1'04\"",
-    "height_eu": "0.4 m",
-    "weight_us": "4.2 lbs.",
-    "weight_eu": "1.9 kg",
-    "base_exp_yield": 58,
-    "leveling_rate": "Medium Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 1,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 50,
-        "atk": 48,
-        "def": 43,
-        "sp_atk": 46,
-        "sp_def": 41,
-        "speed": 60
-    },
-    "evolution_from": null,
-    "evolutions": [
-        {
-            "to": "Whiscash",
-            "level": 30
-        }
-    ],
-    "species": "Whiskers Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "It probes muddy riverbeds with its two long whiskers. A slimy film protects its body.",
-    "move_learnset": [
-        {
-            "move": "Mud-Slap",
-            "level": 1
-        },
-        {
-            "move": "Water Gun",
-            "level": 1
-        },
-        {
-            "move": "Rest",
-            "level": 6
-        },
-        {
-            "move": "Snore",
-            "level": 6
-        },
-        {
-            "move": "Water Pulse",
-            "level": 12
-        },
-        {
-            "move": "Amnesia",
-            "level": 18
-        },
-        {
-            "move": "Aqua Tail",
-            "level": 24
-        },
-        {
-            "move": "Muddy Water",
-            "level": 31
-        },
-        {
-            "move": "Earthquake",
-            "level": 36
-        },
-        {
-            "move": "Future Sight",
-            "level": 42
-        },
-        {
-            "move": "Fissure",
-            "level": 48
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Icy Wind",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Sandstorm",
-            "tm": true
-        },
-        {
-            "move": "Rain Dance",
-            "tm": true
-        },
-        {
-            "move": "Hail",
-            "tm": true
-        },
-        {
-            "move": "Whirlpool",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Dive",
-            "tm": true
-        },
-        {
-            "move": "Rock Tomb",
-            "tm": true
-        },
-        {
-            "move": "Bounce",
-            "tm": true
-        },
-        {
-            "move": "Mud Shot",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Bulldoze",
-            "tm": true
-        },
-        {
-            "move": "Hydro Pump",
-            "tm": true
-        },
-        {
-            "move": "Surf",
-            "tm": true
-        },
-        {
-            "move": "Ice Beam",
-            "tm": true
-        },
-        {
-            "move": "Blizzard",
-            "tm": true
-        },
-        {
-            "move": "Earthquake",
-            "tm": true
-        },
-        {
-            "move": "Waterfall",
-            "tm": true
-        },
-        {
-            "move": "Amnesia",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Future Sight",
-            "tm": true
-        },
-        {
-            "move": "Muddy Water",
-            "tm": true
-        },
-        {
-            "move": "Dragon Dance",
-            "tm": true
-        },
-        {
-            "move": "Earth Power",
-            "tm": true
-        },
-        {
-            "move": "Scald",
-            "tm": true
-        },
-        {
-            "move": "Thrash",
-            "egg_move": true
-        },
-        {
-            "move": "Spark",
-            "egg_move": true
-        },
-        {
-            "move": "Flail",
-            "egg_move": true
-        },
-        {
-            "move": "Take Down",
-            "egg_move": true
-        }
-    ]
+	"name": "Barboach",
+	"national_id": 339,
+	"types": ["Water", "Ground"],
+	"abilities": [
+		{
+			"name": "Oblivious"
+		},
+		{
+			"name": "Anticipation"
+		},
+		{
+			"name": "Hydration",
+			"hidden": true
+		}
+	],
+	"catch_rate": 190,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Water 2"],
+	"hatch_time": [5355, 5609],
+	"height_us": "1'04\"",
+	"height_eu": "0.4 m",
+	"weight_us": "4.2 lbs.",
+	"weight_eu": "1.9 kg",
+	"base_exp_yield": 58,
+	"leveling_rate": "Medium Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 1,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 50,
+		"atk": 48,
+		"def": 43,
+		"sp_atk": 46,
+		"sp_def": 41,
+		"speed": 60
+	},
+	"evolution_from": null,
+	"evolutions": [
+		{
+			"to": "Whiscash",
+			"level": 30
+		}
+	],
+	"species": "Whiskers Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "It probes muddy riverbeds with its two long whiskers. A slimy film protects its body.",
+	"move_learnset": [
+		{
+			"move": "Mud-Slap",
+			"level": 1
+		},
+		{
+			"move": "Water Gun",
+			"level": 1
+		},
+		{
+			"move": "Rest",
+			"level": 6
+		},
+		{
+			"move": "Snore",
+			"level": 6
+		},
+		{
+			"move": "Water Pulse",
+			"level": 12
+		},
+		{
+			"move": "Amnesia",
+			"level": 18
+		},
+		{
+			"move": "Aqua Tail",
+			"level": 24
+		},
+		{
+			"move": "Muddy Water",
+			"level": 31
+		},
+		{
+			"move": "Earthquake",
+			"level": 36
+		},
+		{
+			"move": "Future Sight",
+			"level": 42
+		},
+		{
+			"move": "Fissure",
+			"level": 48
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Icy Wind",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Sandstorm",
+			"tm": true
+		},
+		{
+			"move": "Rain Dance",
+			"tm": true
+		},
+		{
+			"move": "Hail",
+			"tm": true
+		},
+		{
+			"move": "Whirlpool",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Dive",
+			"tm": true
+		},
+		{
+			"move": "Rock Tomb",
+			"tm": true
+		},
+		{
+			"move": "Bounce",
+			"tm": true
+		},
+		{
+			"move": "Mud Shot",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Bulldoze",
+			"tm": true
+		},
+		{
+			"move": "Hydro Pump",
+			"tm": true
+		},
+		{
+			"move": "Surf",
+			"tm": true
+		},
+		{
+			"move": "Ice Beam",
+			"tm": true
+		},
+		{
+			"move": "Blizzard",
+			"tm": true
+		},
+		{
+			"move": "Earthquake",
+			"tm": true
+		},
+		{
+			"move": "Waterfall",
+			"tm": true
+		},
+		{
+			"move": "Amnesia",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Future Sight",
+			"tm": true
+		},
+		{
+			"move": "Muddy Water",
+			"tm": true
+		},
+		{
+			"move": "Dragon Dance",
+			"tm": true
+		},
+		{
+			"move": "Earth Power",
+			"tm": true
+		},
+		{
+			"move": "Scald",
+			"tm": true
+		},
+		{
+			"move": "Thrash",
+			"egg_move": true
+		},
+		{
+			"move": "Spark",
+			"egg_move": true
+		},
+		{
+			"move": "Flail",
+			"egg_move": true
+		},
+		{
+			"move": "Take Down",
+			"egg_move": true
+		}
+	]
 }

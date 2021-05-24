@@ -1,346 +1,338 @@
 {
-    "name": "Ninetales",
-    "national_id": 38,
-    "types": [
-        "Ice",
-        "Fairy"
-    ],
-    "items": [
-        {
-            "name": "Snowball",
-            "chance": 5
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Snow Cloak"
-        },
-        {
-            "name": "Snow Warning",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 75,
-    "gender_ratios": {
-        "male": 25,
-        "female": 75
-    },
-    "egg_groups": [
-        "Field"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "3'07\"",
-    "height_eu": "1.1 m",
-    "weight_us": "43.9 lbs.",
-    "weight_eu": "19.9 kg",
-    "base_exp_yield": 177,
-    "leveling_rate": "Medium Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 2
-    },
-    "base_stats": {
-        "hp": 73,
-        "atk": 67,
-        "def": 75,
-        "sp_atk": 81,
-        "sp_def": 100,
-        "speed": 109
-    },
-    "evolution_from": "Vulpix",
-    "evolution_from_regional": "Alolan",
-    "evolutions": [],
-    "species": "Fox Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "A deity resides in the snowy mountains where this Pokémon lives. In ancient times, it was worshiped as that deity's incarnation.",
-    "move_learnset": [
-        {
-            "move": "Dazzling Gleam",
-            "evo": true
-        },
-        {
-            "move": "Dazzling Gleam",
-            "level": 1
-        },
-        {
-            "move": "Nasty Plot",
-            "level": 1
-        },
-        {
-            "move": "Spite",
-            "level": 1
-        },
-        {
-            "move": "Icy Wind",
-            "level": 1
-        },
-        {
-            "move": "Confuse Ray",
-            "level": 1
-        },
-        {
-            "move": "Aurora Beam",
-            "level": 1
-        },
-        {
-            "move": "Extrasensory",
-            "level": 1
-        },
-        {
-            "move": "Ice Beam",
-            "level": 1
-        },
-        {
-            "move": "Imprison",
-            "level": 1
-        },
-        {
-            "move": "Mist",
-            "level": 1
-        },
-        {
-            "move": "Aurora Veil",
-            "level": 1
-        },
-        {
-            "move": "Sheer Cold",
-            "level": 1
-        },
-        {
-            "move": "Grudge",
-            "level": 1
-        },
-        {
-            "move": "Blizzard",
-            "level": 1
-        },
-        {
-            "move": "Powder Snow",
-            "level": 1
-        },
-        {
-            "move": "Tail Whip",
-            "level": 1
-        },
-        {
-            "move": "Disable",
-            "level": 1
-        },
-        {
-            "move": "Ice Shard",
-            "level": 1
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": true
-        },
-        {
-            "move": "Giga Impact",
-            "tm": true
-        },
-        {
-            "move": "Solar Beam",
-            "tm": true
-        },
-        {
-            "move": "Dig",
-            "tm": true
-        },
-        {
-            "move": "Safeguard",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Icy Wind",
-            "tm": true
-        },
-        {
-            "move": "Charm",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Rain Dance",
-            "tm": true
-        },
-        {
-            "move": "Hail",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Swift",
-            "tm": true
-        },
-        {
-            "move": "Imprison",
-            "tm": true
-        },
-        {
-            "move": "Weather Ball",
-            "tm": true
-        },
-        {
-            "move": "Fake Tears",
-            "tm": true
-        },
-        {
-            "move": "Payback",
-            "tm": true
-        },
-        {
-            "move": "Power Swap",
-            "tm": true
-        },
-        {
-            "move": "Avalanche",
-            "tm": true
-        },
-        {
-            "move": "Wonder Room",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Hex",
-            "tm": true
-        },
-        {
-            "move": "Tail Slap",
-            "tm": true
-        },
-        {
-            "move": "Draining Kiss",
-            "tm": true
-        },
-        {
-            "move": "Misty Terrain",
-            "tm": true
-        },
-        {
-            "move": "Body Slam",
-            "tm": true
-        },
-        {
-            "move": "Ice Beam",
-            "tm": true
-        },
-        {
-            "move": "Blizzard",
-            "tm": true
-        },
-        {
-            "move": "Agility",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Psyshock",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Encore",
-            "tm": true
-        },
-        {
-            "move": "Iron Tail",
-            "tm": true
-        },
-        {
-            "move": "Calm Mind",
-            "tm": true
-        },
-        {
-            "move": "Dark Pulse",
-            "tm": true
-        },
-        {
-            "move": "Nasty Plot",
-            "tm": true
-        },
-        {
-            "move": "Zen Headbutt",
-            "tm": true
-        },
-        {
-            "move": "Foul Play",
-            "tm": true
-        },
-        {
-            "move": "Stored Power",
-            "tm": true
-        },
-        {
-            "move": "Dazzling Gleam",
-            "tm": true
-        },
-        {
-            "move": "Freeze-Dry",
-            "egg_move": true
-        },
-        {
-            "move": "Hypnosis",
-            "egg_move": true
-        },
-        {
-            "move": "Flail",
-            "egg_move": true
-        },
-        {
-            "move": "Howl",
-            "egg_move": true
-        },
-        {
-            "move": "Moonblast",
-            "egg_move": true
-        },
-        {
-            "move": "Baby-Doll Eyes",
-            "egg_move": true
-        },
-        {
-            "move": "Roar",
-            "egg_move": true
-        }
-    ]
+	"name": "Ninetales",
+	"national_id": 38,
+	"types": ["Ice", "Fairy"],
+	"items": [
+		{
+			"name": "Snowball",
+			"chance": 5
+		}
+	],
+	"abilities": [
+		{
+			"name": "Snow Cloak"
+		},
+		{
+			"name": "Snow Warning",
+			"hidden": true
+		}
+	],
+	"catch_rate": 75,
+	"gender_ratios": {
+		"male": 25,
+		"female": 75
+	},
+	"egg_groups": ["Field"],
+	"hatch_time": [5355, 5609],
+	"height_us": "3'07\"",
+	"height_eu": "1.1 m",
+	"weight_us": "43.9 lbs.",
+	"weight_eu": "19.9 kg",
+	"base_exp_yield": 177,
+	"leveling_rate": "Medium Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 2
+	},
+	"base_stats": {
+		"hp": 73,
+		"atk": 67,
+		"def": 75,
+		"sp_atk": 81,
+		"sp_def": 100,
+		"speed": 109
+	},
+	"evolution_from": "Vulpix",
+	"evolution_from_regional": "Alolan",
+	"evolutions": [],
+	"species": "Fox Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "A deity resides in the snowy mountains where this Pokémon lives. In ancient times, it was worshiped as that deity's incarnation.",
+	"move_learnset": [
+		{
+			"move": "Dazzling Gleam",
+			"evo": true
+		},
+		{
+			"move": "Dazzling Gleam",
+			"level": 1
+		},
+		{
+			"move": "Nasty Plot",
+			"level": 1
+		},
+		{
+			"move": "Spite",
+			"level": 1
+		},
+		{
+			"move": "Icy Wind",
+			"level": 1
+		},
+		{
+			"move": "Confuse Ray",
+			"level": 1
+		},
+		{
+			"move": "Aurora Beam",
+			"level": 1
+		},
+		{
+			"move": "Extrasensory",
+			"level": 1
+		},
+		{
+			"move": "Ice Beam",
+			"level": 1
+		},
+		{
+			"move": "Imprison",
+			"level": 1
+		},
+		{
+			"move": "Mist",
+			"level": 1
+		},
+		{
+			"move": "Aurora Veil",
+			"level": 1
+		},
+		{
+			"move": "Sheer Cold",
+			"level": 1
+		},
+		{
+			"move": "Grudge",
+			"level": 1
+		},
+		{
+			"move": "Blizzard",
+			"level": 1
+		},
+		{
+			"move": "Powder Snow",
+			"level": 1
+		},
+		{
+			"move": "Tail Whip",
+			"level": 1
+		},
+		{
+			"move": "Disable",
+			"level": 1
+		},
+		{
+			"move": "Ice Shard",
+			"level": 1
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": true
+		},
+		{
+			"move": "Giga Impact",
+			"tm": true
+		},
+		{
+			"move": "Solar Beam",
+			"tm": true
+		},
+		{
+			"move": "Dig",
+			"tm": true
+		},
+		{
+			"move": "Safeguard",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Icy Wind",
+			"tm": true
+		},
+		{
+			"move": "Charm",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Rain Dance",
+			"tm": true
+		},
+		{
+			"move": "Hail",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Swift",
+			"tm": true
+		},
+		{
+			"move": "Imprison",
+			"tm": true
+		},
+		{
+			"move": "Weather Ball",
+			"tm": true
+		},
+		{
+			"move": "Fake Tears",
+			"tm": true
+		},
+		{
+			"move": "Payback",
+			"tm": true
+		},
+		{
+			"move": "Power Swap",
+			"tm": true
+		},
+		{
+			"move": "Avalanche",
+			"tm": true
+		},
+		{
+			"move": "Wonder Room",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Hex",
+			"tm": true
+		},
+		{
+			"move": "Tail Slap",
+			"tm": true
+		},
+		{
+			"move": "Draining Kiss",
+			"tm": true
+		},
+		{
+			"move": "Misty Terrain",
+			"tm": true
+		},
+		{
+			"move": "Body Slam",
+			"tm": true
+		},
+		{
+			"move": "Ice Beam",
+			"tm": true
+		},
+		{
+			"move": "Blizzard",
+			"tm": true
+		},
+		{
+			"move": "Agility",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Psyshock",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Encore",
+			"tm": true
+		},
+		{
+			"move": "Iron Tail",
+			"tm": true
+		},
+		{
+			"move": "Calm Mind",
+			"tm": true
+		},
+		{
+			"move": "Dark Pulse",
+			"tm": true
+		},
+		{
+			"move": "Nasty Plot",
+			"tm": true
+		},
+		{
+			"move": "Zen Headbutt",
+			"tm": true
+		},
+		{
+			"move": "Foul Play",
+			"tm": true
+		},
+		{
+			"move": "Stored Power",
+			"tm": true
+		},
+		{
+			"move": "Dazzling Gleam",
+			"tm": true
+		},
+		{
+			"move": "Freeze-Dry",
+			"egg_move": true
+		},
+		{
+			"move": "Hypnosis",
+			"egg_move": true
+		},
+		{
+			"move": "Flail",
+			"egg_move": true
+		},
+		{
+			"move": "Howl",
+			"egg_move": true
+		},
+		{
+			"move": "Moonblast",
+			"egg_move": true
+		},
+		{
+			"move": "Baby-Doll Eyes",
+			"egg_move": true
+		},
+		{
+			"move": "Roar",
+			"egg_move": true
+		}
+	]
 }

@@ -1,279 +1,272 @@
 {
-    "name": "Mudsdale",
-    "national_id": 750,
-    "types": [
-        "Ground"
-    ],
-    "items": [
-        {
-            "name": "Light Clay",
-            "chance": 5
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Own Tempo"
-        },
-        {
-            "name": "Stamina"
-        },
-        {
-            "name": "Inner Focus",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 60,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Field"
-    ],
-    "hatch_time": [
-        5140,
-        5396
-    ],
-    "height_us": "8'02\"",
-    "height_eu": "2.5 m",
-    "weight_us": "2028.3 lbs.",
-    "weight_eu": "920.0 kg",
-    "base_exp_yield": 175,
-    "leveling_rate": "Medium Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 2,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 100,
-        "atk": 125,
-        "def": 100,
-        "sp_atk": 55,
-        "sp_def": 85,
-        "speed": 35
-    },
-    "evolution_from": "Mudbray",
-    "evolutions": [],
-    "species": "Draft Horse Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "Mudsdale has so much stamina that it could carry over 10 tons across the Galar region without rest or sleep.",
-    "move_learnset": [
-        {
-            "move": "Mud-Slap",
-            "level": 1
-        },
-        {
-            "move": "Rock Smash",
-            "level": 1
-        },
-        {
-            "move": "Iron Defense",
-            "level": 1
-        },
-        {
-            "move": "Double Kick",
-            "level": 1
-        },
-        {
-            "move": "Bulldoze",
-            "level": 12
-        },
-        {
-            "move": "Stomp",
-            "level": 16
-        },
-        {
-            "move": "Strength",
-            "level": 20
-        },
-        {
-            "move": "Counter",
-            "level": 24
-        },
-        {
-            "move": "High Horsepower",
-            "level": 28
-        },
-        {
-            "move": "Heavy Slam",
-            "level": 34
-        },
-        {
-            "move": "Earthquake",
-            "level": 40
-        },
-        {
-            "move": "Mega Kick",
-            "level": 46
-        },
-        {
-            "move": "Superpower",
-            "level": 52
-        },
-        {
-            "move": "Mega Kick",
-            "tm": true
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": true
-        },
-        {
-            "move": "Giga Impact",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Rock Slide",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Scary Face",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Sandstorm",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Revenge",
-            "tm": true
-        },
-        {
-            "move": "Rock Tomb",
-            "tm": true
-        },
-        {
-            "move": "Sand Tomb",
-            "tm": true
-        },
-        {
-            "move": "Mud Shot",
-            "tm": true
-        },
-        {
-            "move": "Payback",
-            "tm": true
-        },
-        {
-            "move": "Low Sweep",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Bulldoze",
-            "tm": true
-        },
-        {
-            "move": "Stomping Tantrum",
-            "tm": true
-        },
-        {
-            "move": "Body Slam",
-            "tm": true
-        },
-        {
-            "move": "Low Kick",
-            "tm": true
-        },
-        {
-            "move": "Earthquake",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Superpower",
-            "tm": true
-        },
-        {
-            "move": "Iron Defense",
-            "tm": true
-        },
-        {
-            "move": "Close Combat",
-            "tm": true
-        },
-        {
-            "move": "Focus Blast",
-            "tm": true
-        },
-        {
-            "move": "Earth Power",
-            "tm": true
-        },
-        {
-            "move": "Iron Head",
-            "tm": true
-        },
-        {
-            "move": "Stealth Rock",
-            "tm": true
-        },
-        {
-            "move": "Heavy Slam",
-            "tm": true
-        },
-        {
-            "move": "High Horsepower",
-            "tm": true
-        },
-        {
-            "move": "Body Press",
-            "tm": true
-        },
-        {
-            "move": "Double-Edge",
-            "egg_move": true
-        },
-        {
-            "move": "Fissure",
-            "egg_move": true
-        },
-        {
-            "move": "Smack Down",
-            "egg_move": true
-        },
-        {
-            "move": "Roar",
-            "egg_move": true
-        }
-    ]
+	"name": "Mudsdale",
+	"national_id": 750,
+	"types": ["Ground"],
+	"items": [
+		{
+			"name": "Light Clay",
+			"chance": 5
+		}
+	],
+	"abilities": [
+		{
+			"name": "Own Tempo"
+		},
+		{
+			"name": "Stamina"
+		},
+		{
+			"name": "Inner Focus",
+			"hidden": true
+		}
+	],
+	"catch_rate": 60,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Field"],
+	"hatch_time": [5140, 5396],
+	"height_us": "8'02\"",
+	"height_eu": "2.5 m",
+	"weight_us": "2028.3 lbs.",
+	"weight_eu": "920.0 kg",
+	"base_exp_yield": 175,
+	"leveling_rate": "Medium Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 2,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 100,
+		"atk": 125,
+		"def": 100,
+		"sp_atk": 55,
+		"sp_def": 85,
+		"speed": 35
+	},
+	"evolution_from": "Mudbray",
+	"evolutions": [],
+	"species": "Draft Horse Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "Mudsdale has so much stamina that it could carry over 10 tons across the Galar region without rest or sleep.",
+	"move_learnset": [
+		{
+			"move": "Mud-Slap",
+			"level": 1
+		},
+		{
+			"move": "Rock Smash",
+			"level": 1
+		},
+		{
+			"move": "Iron Defense",
+			"level": 1
+		},
+		{
+			"move": "Double Kick",
+			"level": 1
+		},
+		{
+			"move": "Bulldoze",
+			"level": 12
+		},
+		{
+			"move": "Stomp",
+			"level": 16
+		},
+		{
+			"move": "Strength",
+			"level": 20
+		},
+		{
+			"move": "Counter",
+			"level": 24
+		},
+		{
+			"move": "High Horsepower",
+			"level": 28
+		},
+		{
+			"move": "Heavy Slam",
+			"level": 34
+		},
+		{
+			"move": "Earthquake",
+			"level": 40
+		},
+		{
+			"move": "Mega Kick",
+			"level": 46
+		},
+		{
+			"move": "Superpower",
+			"level": 52
+		},
+		{
+			"move": "Mega Kick",
+			"tm": true
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": true
+		},
+		{
+			"move": "Giga Impact",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Rock Slide",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Scary Face",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Sandstorm",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Revenge",
+			"tm": true
+		},
+		{
+			"move": "Rock Tomb",
+			"tm": true
+		},
+		{
+			"move": "Sand Tomb",
+			"tm": true
+		},
+		{
+			"move": "Mud Shot",
+			"tm": true
+		},
+		{
+			"move": "Payback",
+			"tm": true
+		},
+		{
+			"move": "Low Sweep",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Bulldoze",
+			"tm": true
+		},
+		{
+			"move": "Stomping Tantrum",
+			"tm": true
+		},
+		{
+			"move": "Body Slam",
+			"tm": true
+		},
+		{
+			"move": "Low Kick",
+			"tm": true
+		},
+		{
+			"move": "Earthquake",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Superpower",
+			"tm": true
+		},
+		{
+			"move": "Iron Defense",
+			"tm": true
+		},
+		{
+			"move": "Close Combat",
+			"tm": true
+		},
+		{
+			"move": "Focus Blast",
+			"tm": true
+		},
+		{
+			"move": "Earth Power",
+			"tm": true
+		},
+		{
+			"move": "Iron Head",
+			"tm": true
+		},
+		{
+			"move": "Stealth Rock",
+			"tm": true
+		},
+		{
+			"move": "Heavy Slam",
+			"tm": true
+		},
+		{
+			"move": "High Horsepower",
+			"tm": true
+		},
+		{
+			"move": "Body Press",
+			"tm": true
+		},
+		{
+			"move": "Double-Edge",
+			"egg_move": true
+		},
+		{
+			"move": "Fissure",
+			"egg_move": true
+		},
+		{
+			"move": "Smack Down",
+			"egg_move": true
+		},
+		{
+			"move": "Roar",
+			"egg_move": true
+		}
+	]
 }

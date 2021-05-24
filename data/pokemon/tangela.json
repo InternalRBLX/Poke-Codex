@@ -1,302 +1,295 @@
 {
-    "name": "Tangela",
-    "national_id": 114,
-    "types": [
-        "Grass"
-    ],
-    "abilities": [
-        {
-            "name": "Chlorophyll"
-        },
-        {
-            "name": "Leaf Guard"
-        },
-        {
-            "name": "Regenerator",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 45,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Grass"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "3'03\"",
-    "height_eu": "1.0 m",
-    "weight_us": "77.2 lbs.",
-    "weight_eu": "35.0 kg",
-    "base_exp_yield": 87,
-    "leveling_rate": "Medium Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 1,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 65,
-        "atk": 55,
-        "def": 115,
-        "sp_atk": 100,
-        "sp_def": 40,
-        "speed": 60
-    },
-    "evolution_from": null,
-    "evolutions": [
-        {
-            "to": "Tangrowth",
-            "move_learned": "Ancient Power"
-        }
-    ],
-    "species": "Vine Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "Tangela's vines snap off easily if they are grabbed. This happens without pain, allowing it to make a quick getaway. The lost vines are replaced by newly grown vines the very next day.",
-    "move_learnset": [
-        {
-            "move": "Constrict",
-            "level": 1
-        },
-        {
-            "move": "Ingrain",
-            "level": 1
-        },
-        {
-            "move": "Sleep Powder",
-            "level": 4
-        },
-        {
-            "move": "Vine Whip",
-            "level": 7
-        },
-        {
-            "move": "Absorb",
-            "level": 10
-        },
-        {
-            "move": "Poison Powder",
-            "level": 14
-        },
-        {
-            "move": "Bind",
-            "level": 17
-        },
-        {
-            "move": "Growth",
-            "level": 20
-        },
-        {
-            "move": "Mega Drain",
-            "level": 23
-        },
-        {
-            "move": "Knock Off",
-            "level": 27
-        },
-        {
-            "move": "Stun Spore",
-            "level": 30
-        },
-        {
-            "move": "Natural Gift",
-            "level": 33
-        },
-        {
-            "move": "Giga Drain",
-            "level": 36
-        },
-        {
-            "move": "Ancient Power",
-            "level": 38
-        },
-        {
-            "move": "Slam",
-            "level": 41
-        },
-        {
-            "move": "Tickle",
-            "level": 44
-        },
-        {
-            "move": "Wring Out",
-            "level": 46
-        },
-        {
-            "move": "Grassy Terrain",
-            "level": 48
-        },
-        {
-            "move": "Power Whip",
-            "level": 50
-        },
-        {
-            "move": "Amnesia",
-            "egg_move": true
-        },
-        {
-            "move": "Confusion",
-            "egg_move": true
-        },
-        {
-            "move": "Endeavor",
-            "egg_move": true
-        },
-        {
-            "move": "Flail",
-            "egg_move": true
-        },
-        {
-            "move": "Giga Drain",
-            "egg_move": true
-        },
-        {
-            "move": "Leaf Storm",
-            "egg_move": true
-        },
-        {
-            "move": "Leech Seed",
-            "egg_move": true
-        },
-        {
-            "move": "Mega Drain",
-            "egg_move": true
-        },
-        {
-            "move": "Natural Gift",
-            "egg_move": true
-        },
-        {
-            "move": "Nature Power",
-            "egg_move": true
-        },
-        {
-            "move": "Power Swap",
-            "egg_move": true
-        },
-        {
-            "move": "Rage Powder",
-            "egg_move": true
-        },
-        {
-            "move": "Wake-Up Slap",
-            "egg_move": true
-        },
-        {
-            "move": "Toxic",
-            "tm": "TM6"
-        },
-        {
-            "move": "Hidden Power",
-            "tm": "TM10"
-        },
-        {
-            "move": "Sunny Day",
-            "tm": "TM11"
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": "TM15"
-        },
-        {
-            "move": "Protect",
-            "tm": "TM17"
-        },
-        {
-            "move": "Frustration",
-            "tm": "TM21"
-        },
-        {
-            "move": "Solar Beam",
-            "tm": "TM22"
-        },
-        {
-            "move": "Return",
-            "tm": "TM27"
-        },
-        {
-            "move": "Double Team",
-            "tm": "TM32"
-        },
-        {
-            "move": "Reflect",
-            "tm": "TM33"
-        },
-        {
-            "move": "Sludge Bomb",
-            "tm": "TM36"
-        },
-        {
-            "move": "Facade",
-            "tm": "TM42"
-        },
-        {
-            "move": "Rest",
-            "tm": "TM44"
-        },
-        {
-            "move": "Attract",
-            "tm": "TM45"
-        },
-        {
-            "move": "Thief",
-            "tm": "TM46"
-        },
-        {
-            "move": "Round",
-            "tm": "TM48"
-        },
-        {
-            "move": "Energy Ball",
-            "tm": "TM53"
-        },
-        {
-            "move": "Giga Impact",
-            "tm": "TM68"
-        },
-        {
-            "move": "Swords Dance",
-            "tm": "TM75"
-        },
-        {
-            "move": "Psych Up",
-            "tm": "TM77"
-        },
-        {
-            "move": "Infestation",
-            "tm": "TM83"
-        },
-        {
-            "move": "Grass Knot",
-            "tm": "TM86"
-        },
-        {
-            "move": "Swagger",
-            "tm": "TM87"
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": "TM88"
-        },
-        {
-            "move": "Substitute",
-            "tm": "TM90"
-        },
-        {
-            "move": "Nature Power",
-            "tm": "TM96"
-        },
-        {
-            "move": "Confide",
-            "tm": "TM100"
-        }
-    ]
+	"name": "Tangela",
+	"national_id": 114,
+	"types": ["Grass"],
+	"abilities": [
+		{
+			"name": "Chlorophyll"
+		},
+		{
+			"name": "Leaf Guard"
+		},
+		{
+			"name": "Regenerator",
+			"hidden": true
+		}
+	],
+	"catch_rate": 45,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Grass"],
+	"hatch_time": [5355, 5609],
+	"height_us": "3'03\"",
+	"height_eu": "1.0 m",
+	"weight_us": "77.2 lbs.",
+	"weight_eu": "35.0 kg",
+	"base_exp_yield": 87,
+	"leveling_rate": "Medium Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 1,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 65,
+		"atk": 55,
+		"def": 115,
+		"sp_atk": 100,
+		"sp_def": 40,
+		"speed": 60
+	},
+	"evolution_from": null,
+	"evolutions": [
+		{
+			"to": "Tangrowth",
+			"move_learned": "Ancient Power"
+		}
+	],
+	"species": "Vine Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "Tangela's vines snap off easily if they are grabbed. This happens without pain, allowing it to make a quick getaway. The lost vines are replaced by newly grown vines the very next day.",
+	"move_learnset": [
+		{
+			"move": "Constrict",
+			"level": 1
+		},
+		{
+			"move": "Ingrain",
+			"level": 1
+		},
+		{
+			"move": "Sleep Powder",
+			"level": 4
+		},
+		{
+			"move": "Vine Whip",
+			"level": 7
+		},
+		{
+			"move": "Absorb",
+			"level": 10
+		},
+		{
+			"move": "Poison Powder",
+			"level": 14
+		},
+		{
+			"move": "Bind",
+			"level": 17
+		},
+		{
+			"move": "Growth",
+			"level": 20
+		},
+		{
+			"move": "Mega Drain",
+			"level": 23
+		},
+		{
+			"move": "Knock Off",
+			"level": 27
+		},
+		{
+			"move": "Stun Spore",
+			"level": 30
+		},
+		{
+			"move": "Natural Gift",
+			"level": 33
+		},
+		{
+			"move": "Giga Drain",
+			"level": 36
+		},
+		{
+			"move": "Ancient Power",
+			"level": 38
+		},
+		{
+			"move": "Slam",
+			"level": 41
+		},
+		{
+			"move": "Tickle",
+			"level": 44
+		},
+		{
+			"move": "Wring Out",
+			"level": 46
+		},
+		{
+			"move": "Grassy Terrain",
+			"level": 48
+		},
+		{
+			"move": "Power Whip",
+			"level": 50
+		},
+		{
+			"move": "Amnesia",
+			"egg_move": true
+		},
+		{
+			"move": "Confusion",
+			"egg_move": true
+		},
+		{
+			"move": "Endeavor",
+			"egg_move": true
+		},
+		{
+			"move": "Flail",
+			"egg_move": true
+		},
+		{
+			"move": "Giga Drain",
+			"egg_move": true
+		},
+		{
+			"move": "Leaf Storm",
+			"egg_move": true
+		},
+		{
+			"move": "Leech Seed",
+			"egg_move": true
+		},
+		{
+			"move": "Mega Drain",
+			"egg_move": true
+		},
+		{
+			"move": "Natural Gift",
+			"egg_move": true
+		},
+		{
+			"move": "Nature Power",
+			"egg_move": true
+		},
+		{
+			"move": "Power Swap",
+			"egg_move": true
+		},
+		{
+			"move": "Rage Powder",
+			"egg_move": true
+		},
+		{
+			"move": "Wake-Up Slap",
+			"egg_move": true
+		},
+		{
+			"move": "Toxic",
+			"tm": "TM6"
+		},
+		{
+			"move": "Hidden Power",
+			"tm": "TM10"
+		},
+		{
+			"move": "Sunny Day",
+			"tm": "TM11"
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": "TM15"
+		},
+		{
+			"move": "Protect",
+			"tm": "TM17"
+		},
+		{
+			"move": "Frustration",
+			"tm": "TM21"
+		},
+		{
+			"move": "Solar Beam",
+			"tm": "TM22"
+		},
+		{
+			"move": "Return",
+			"tm": "TM27"
+		},
+		{
+			"move": "Double Team",
+			"tm": "TM32"
+		},
+		{
+			"move": "Reflect",
+			"tm": "TM33"
+		},
+		{
+			"move": "Sludge Bomb",
+			"tm": "TM36"
+		},
+		{
+			"move": "Facade",
+			"tm": "TM42"
+		},
+		{
+			"move": "Rest",
+			"tm": "TM44"
+		},
+		{
+			"move": "Attract",
+			"tm": "TM45"
+		},
+		{
+			"move": "Thief",
+			"tm": "TM46"
+		},
+		{
+			"move": "Round",
+			"tm": "TM48"
+		},
+		{
+			"move": "Energy Ball",
+			"tm": "TM53"
+		},
+		{
+			"move": "Giga Impact",
+			"tm": "TM68"
+		},
+		{
+			"move": "Swords Dance",
+			"tm": "TM75"
+		},
+		{
+			"move": "Psych Up",
+			"tm": "TM77"
+		},
+		{
+			"move": "Infestation",
+			"tm": "TM83"
+		},
+		{
+			"move": "Grass Knot",
+			"tm": "TM86"
+		},
+		{
+			"move": "Swagger",
+			"tm": "TM87"
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": "TM88"
+		},
+		{
+			"move": "Substitute",
+			"tm": "TM90"
+		},
+		{
+			"move": "Nature Power",
+			"tm": "TM96"
+		},
+		{
+			"move": "Confide",
+			"tm": "TM100"
+		}
+	]
 }

@@ -1,312 +1,304 @@
 {
-    "name": "Venomoth",
-    "national_id": 49,
-    "types": [
-        "Bug",
-        "Poison"
-    ],
-    "items": [
-        {
-            "name": "Shed Shell",
-            "chance": 5
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Shield Dust"
-        },
-        {
-            "name": "Tinted Lens"
-        },
-        {
-            "name": "Wonder Skin",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 75,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Bug"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "4'11\"",
-    "height_eu": "1.5 m",
-    "weight_us": "27.6 lbs.",
-    "weight_eu": "12.5 kg",
-    "base_exp_yield": 158,
-    "leveling_rate": "Medium Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 1,
-        "sp_def": 0,
-        "speed": 1
-    },
-    "base_stats": {
-        "hp": 70,
-        "atk": 65,
-        "def": 60,
-        "sp_atk": 90,
-        "sp_def": 75,
-        "speed": 90
-    },
-    "evolution_from": "Venonat",
-    "evolutions": [],
-    "species": "Poison Moth Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "Venomoth is nocturnal—it is a Pokémon that only becomes active at night. Its favorite prey are small insects that gather around streetlights, attracted by the light in the darkness.",
-    "move_learnset": [
-        {
-            "move": "Bug Buzz",
-            "level": 1
-        },
-        {
-            "move": "Disable",
-            "level": 1
-        },
-        {
-            "move": "Foresight",
-            "level": 1
-        },
-        {
-            "move": "Gust",
-            "level": 1
-        },
-        {
-            "move": "Quiver Dance",
-            "level": 1
-        },
-        {
-            "move": "Silver Wind",
-            "level": 1
-        },
-        {
-            "move": "Supersonic",
-            "level": 1
-        },
-        {
-            "move": "Tackle",
-            "level": 1
-        },
-        {
-            "move": "Supersonic",
-            "level": 5
-        },
-        {
-            "move": "Confusion",
-            "level": 11
-        },
-        {
-            "move": "Poison Powder",
-            "level": 13
-        },
-        {
-            "move": "Psybeam",
-            "level": 17
-        },
-        {
-            "move": "Stun Spore",
-            "level": 23
-        },
-        {
-            "move": "Signal Beam",
-            "level": 25
-        },
-        {
-            "move": "Sleep Powder",
-            "level": 29
-        },
-        {
-            "move": "Leech Life",
-            "level": 37
-        },
-        {
-            "move": "Zen Headbutt",
-            "level": 41
-        },
-        {
-            "move": "Poison Fang",
-            "level": 47
-        },
-        {
-            "move": "Psychic",
-            "level": 55
-        },
-        {
-            "move": "Bug Buzz",
-            "level": 59
-        },
-        {
-            "move": "Quiver Dance",
-            "level": 63
-        },
-        {
-            "move": "Agility",
-            "egg_move": true
-        },
-        {
-            "move": "Baton Pass",
-            "egg_move": true
-        },
-        {
-            "move": "Bug Bite",
-            "egg_move": true
-        },
-        {
-            "move": "Giga Drain",
-            "egg_move": true
-        },
-        {
-            "move": "Morning Sun",
-            "egg_move": true
-        },
-        {
-            "move": "Rage Powder",
-            "egg_move": true
-        },
-        {
-            "move": "Screech",
-            "egg_move": true
-        },
-        {
-            "move": "Secret Power",
-            "egg_move": true
-        },
-        {
-            "move": "Signal Beam",
-            "egg_move": true
-        },
-        {
-            "move": "Skill Swap",
-            "egg_move": true
-        },
-        {
-            "move": "Toxic Spikes",
-            "egg_move": true
-        },
-        {
-            "move": "Toxic",
-            "tm": "TM6"
-        },
-        {
-            "move": "Venoshock",
-            "tm": "TM9"
-        },
-        {
-            "move": "Hidden Power",
-            "tm": "TM10"
-        },
-        {
-            "move": "Sunny Day",
-            "tm": "TM11"
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": "TM15"
-        },
-        {
-            "move": "Protect",
-            "tm": "TM17"
-        },
-        {
-            "move": "Roost",
-            "tm": "TM19"
-        },
-        {
-            "move": "Frustration",
-            "tm": "TM21"
-        },
-        {
-            "move": "Solar Beam",
-            "tm": "TM22"
-        },
-        {
-            "move": "Return",
-            "tm": "TM27"
-        },
-        {
-            "move": "Leech Life",
-            "tm": "TM28"
-        },
-        {
-            "move": "Psychic",
-            "tm": "TM29"
-        },
-        {
-            "move": "Double Team",
-            "tm": "TM32"
-        },
-        {
-            "move": "Sludge Bomb",
-            "tm": "TM36"
-        },
-        {
-            "move": "Aerial Ace",
-            "tm": "TM40"
-        },
-        {
-            "move": "Facade",
-            "tm": "TM42"
-        },
-        {
-            "move": "Rest",
-            "tm": "TM44"
-        },
-        {
-            "move": "Attract",
-            "tm": "TM45"
-        },
-        {
-            "move": "Thief",
-            "tm": "TM46"
-        },
-        {
-            "move": "Round",
-            "tm": "TM48"
-        },
-        {
-            "move": "Energy Ball",
-            "tm": "TM53"
-        },
-        {
-            "move": "Acrobatics",
-            "tm": "TM62"
-        },
-        {
-            "move": "Giga Impact",
-            "tm": "TM68"
-        },
-        {
-            "move": "Infestation",
-            "tm": "TM83"
-        },
-        {
-            "move": "Swagger",
-            "tm": "TM87"
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": "TM88"
-        },
-        {
-            "move": "U-turn",
-            "tm": "TM89"
-        },
-        {
-            "move": "Substitute",
-            "tm": "TM90"
-        },
-        {
-            "move": "Confide",
-            "tm": "TM100"
-        }
-    ]
+	"name": "Venomoth",
+	"national_id": 49,
+	"types": ["Bug", "Poison"],
+	"items": [
+		{
+			"name": "Shed Shell",
+			"chance": 5
+		}
+	],
+	"abilities": [
+		{
+			"name": "Shield Dust"
+		},
+		{
+			"name": "Tinted Lens"
+		},
+		{
+			"name": "Wonder Skin",
+			"hidden": true
+		}
+	],
+	"catch_rate": 75,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Bug"],
+	"hatch_time": [5355, 5609],
+	"height_us": "4'11\"",
+	"height_eu": "1.5 m",
+	"weight_us": "27.6 lbs.",
+	"weight_eu": "12.5 kg",
+	"base_exp_yield": 158,
+	"leveling_rate": "Medium Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 1,
+		"sp_def": 0,
+		"speed": 1
+	},
+	"base_stats": {
+		"hp": 70,
+		"atk": 65,
+		"def": 60,
+		"sp_atk": 90,
+		"sp_def": 75,
+		"speed": 90
+	},
+	"evolution_from": "Venonat",
+	"evolutions": [],
+	"species": "Poison Moth Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "Venomoth is nocturnal—it is a Pokémon that only becomes active at night. Its favorite prey are small insects that gather around streetlights, attracted by the light in the darkness.",
+	"move_learnset": [
+		{
+			"move": "Bug Buzz",
+			"level": 1
+		},
+		{
+			"move": "Disable",
+			"level": 1
+		},
+		{
+			"move": "Foresight",
+			"level": 1
+		},
+		{
+			"move": "Gust",
+			"level": 1
+		},
+		{
+			"move": "Quiver Dance",
+			"level": 1
+		},
+		{
+			"move": "Silver Wind",
+			"level": 1
+		},
+		{
+			"move": "Supersonic",
+			"level": 1
+		},
+		{
+			"move": "Tackle",
+			"level": 1
+		},
+		{
+			"move": "Supersonic",
+			"level": 5
+		},
+		{
+			"move": "Confusion",
+			"level": 11
+		},
+		{
+			"move": "Poison Powder",
+			"level": 13
+		},
+		{
+			"move": "Psybeam",
+			"level": 17
+		},
+		{
+			"move": "Stun Spore",
+			"level": 23
+		},
+		{
+			"move": "Signal Beam",
+			"level": 25
+		},
+		{
+			"move": "Sleep Powder",
+			"level": 29
+		},
+		{
+			"move": "Leech Life",
+			"level": 37
+		},
+		{
+			"move": "Zen Headbutt",
+			"level": 41
+		},
+		{
+			"move": "Poison Fang",
+			"level": 47
+		},
+		{
+			"move": "Psychic",
+			"level": 55
+		},
+		{
+			"move": "Bug Buzz",
+			"level": 59
+		},
+		{
+			"move": "Quiver Dance",
+			"level": 63
+		},
+		{
+			"move": "Agility",
+			"egg_move": true
+		},
+		{
+			"move": "Baton Pass",
+			"egg_move": true
+		},
+		{
+			"move": "Bug Bite",
+			"egg_move": true
+		},
+		{
+			"move": "Giga Drain",
+			"egg_move": true
+		},
+		{
+			"move": "Morning Sun",
+			"egg_move": true
+		},
+		{
+			"move": "Rage Powder",
+			"egg_move": true
+		},
+		{
+			"move": "Screech",
+			"egg_move": true
+		},
+		{
+			"move": "Secret Power",
+			"egg_move": true
+		},
+		{
+			"move": "Signal Beam",
+			"egg_move": true
+		},
+		{
+			"move": "Skill Swap",
+			"egg_move": true
+		},
+		{
+			"move": "Toxic Spikes",
+			"egg_move": true
+		},
+		{
+			"move": "Toxic",
+			"tm": "TM6"
+		},
+		{
+			"move": "Venoshock",
+			"tm": "TM9"
+		},
+		{
+			"move": "Hidden Power",
+			"tm": "TM10"
+		},
+		{
+			"move": "Sunny Day",
+			"tm": "TM11"
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": "TM15"
+		},
+		{
+			"move": "Protect",
+			"tm": "TM17"
+		},
+		{
+			"move": "Roost",
+			"tm": "TM19"
+		},
+		{
+			"move": "Frustration",
+			"tm": "TM21"
+		},
+		{
+			"move": "Solar Beam",
+			"tm": "TM22"
+		},
+		{
+			"move": "Return",
+			"tm": "TM27"
+		},
+		{
+			"move": "Leech Life",
+			"tm": "TM28"
+		},
+		{
+			"move": "Psychic",
+			"tm": "TM29"
+		},
+		{
+			"move": "Double Team",
+			"tm": "TM32"
+		},
+		{
+			"move": "Sludge Bomb",
+			"tm": "TM36"
+		},
+		{
+			"move": "Aerial Ace",
+			"tm": "TM40"
+		},
+		{
+			"move": "Facade",
+			"tm": "TM42"
+		},
+		{
+			"move": "Rest",
+			"tm": "TM44"
+		},
+		{
+			"move": "Attract",
+			"tm": "TM45"
+		},
+		{
+			"move": "Thief",
+			"tm": "TM46"
+		},
+		{
+			"move": "Round",
+			"tm": "TM48"
+		},
+		{
+			"move": "Energy Ball",
+			"tm": "TM53"
+		},
+		{
+			"move": "Acrobatics",
+			"tm": "TM62"
+		},
+		{
+			"move": "Giga Impact",
+			"tm": "TM68"
+		},
+		{
+			"move": "Infestation",
+			"tm": "TM83"
+		},
+		{
+			"move": "Swagger",
+			"tm": "TM87"
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": "TM88"
+		},
+		{
+			"move": "U-turn",
+			"tm": "TM89"
+		},
+		{
+			"move": "Substitute",
+			"tm": "TM90"
+		},
+		{
+			"move": "Confide",
+			"tm": "TM100"
+		}
+	]
 }

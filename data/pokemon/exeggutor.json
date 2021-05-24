@@ -1,409 +1,317 @@
 {
-    "name": "Exeggutor",
-    "national_id": 103,
-    "types": [
-        "Grass",
-        "Psychic"
-    ],
-    "abilities": [
-        {
-            "name": "Chlorophyll"
-        },
-        {
-            "name": "Harvest",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 45,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Grass"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "6'07\"",
-    "height_eu": "2.0 m",
-    "weight_us": "264.6 lbs.",
-    "weight_eu": "120.0 kg",
-    "base_exp_yield": 182,
-    "leveling_rate": "Slow",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 2,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 95,
-        "atk": 95,
-        "def": 85,
-        "sp_atk": 125,
-        "sp_def": 75,
-        "speed": 55
-    },
-    "evolution_from": "Exeggcute",
-    "evolutions": [],
-    "species": "Coconut Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "Exeggutor originally came from the tropics. Its heads steadily grow larger from exposure to strong sunlight. It is said that when the heads fall off, they group together to form Exeggcute.",
-    "move_learnset": [
-        {
-            "move": "Barrage",
-            "level": 1,
-            "variations": [
-                "Exeggutor"
-            ]
-        },
-        {
-            "move": "Confusion",
-            "level": 1,
-            "variations": [
-                "Exeggutor"
-            ]
-        },
-        {
-            "move": "Hypnosis",
-            "level": 1,
-            "variations": [
-                "Exeggutor"
-            ]
-        },
-        {
-            "move": "Seed Bomb",
-            "level": 1,
-            "variations": [
-                "Exeggutor"
-            ]
-        },
-        {
-            "move": "Stomp",
-            "level": 1,
-            "variations": [
-                "Exeggutor"
-            ]
-        },
-        {
-            "move": "Psyshock",
-            "level": 17,
-            "variations": [
-                "Exeggutor"
-            ]
-        },
-        {
-            "move": "Egg Bomb",
-            "level": 27,
-            "variations": [
-                "Exeggutor"
-            ]
-        },
-        {
-            "move": "Wood Hammer",
-            "level": 37,
-            "variations": [
-                "Exeggutor"
-            ]
-        },
-        {
-            "move": "Leaf Storm",
-            "level": 47,
-            "variations": [
-                "Exeggutor"
-            ]
-        },
-        {
-            "move": "Ancient Power",
-            "egg_move": true
-        },
-        {
-            "move": "Block",
-            "egg_move": true
-        },
-        {
-            "move": "Curse",
-            "egg_move": true
-        },
-        {
-            "move": "Giga Drain",
-            "egg_move": true
-        },
-        {
-            "move": "Grassy Terrain",
-            "egg_move": true
-        },
-        {
-            "move": "Ingrain",
-            "egg_move": true
-        },
-        {
-            "move": "Leaf Storm",
-            "egg_move": true
-        },
-        {
-            "move": "Lucky Chant",
-            "egg_move": true
-        },
-        {
-            "move": "Moonlight",
-            "egg_move": true
-        },
-        {
-            "move": "Natural Gift",
-            "egg_move": true
-        },
-        {
-            "move": "Nature Power",
-            "egg_move": true
-        },
-        {
-            "move": "Power Swap",
-            "egg_move": true
-        },
-        {
-            "move": "Skill Swap",
-            "egg_move": true
-        },
-        {
-            "move": "Synthesis",
-            "egg_move": true
-        },
-        {
-            "move": "Psyshock",
-            "tm": "TM3",
-            "variations": [
-                "Exeggutor"
-            ]
-        },
-        {
-            "move": "Toxic",
-            "tm": "TM6",
-            "variations": [
-                "Exeggutor"
-            ]
-        },
-        {
-            "move": "Hidden Power",
-            "tm": "TM10",
-            "variations": [
-                "Exeggutor"
-            ]
-        },
-        {
-            "move": "Sunny Day",
-            "tm": "TM11",
-            "variations": [
-                "Exeggutor"
-            ]
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": "TM15",
-            "variations": [
-                "Exeggutor"
-            ]
-        },
-        {
-            "move": "Light Screen",
-            "tm": "TM16",
-            "variations": [
-                "Exeggutor"
-            ]
-        },
-        {
-            "move": "Protect",
-            "tm": "TM17",
-            "variations": [
-                "Exeggutor"
-            ]
-        },
-        {
-            "move": "Frustration",
-            "tm": "TM21",
-            "variations": [
-                "Exeggutor"
-            ]
-        },
-        {
-            "move": "Solar Beam",
-            "tm": "TM22",
-            "variations": [
-                "Exeggutor"
-            ]
-        },
-        {
-            "move": "Return",
-            "tm": "TM27",
-            "variations": [
-                "Exeggutor"
-            ]
-        },
-        {
-            "move": "Psychic",
-            "tm": "TM29",
-            "variations": [
-                "Exeggutor"
-            ]
-        },
-        {
-            "move": "Double Team",
-            "tm": "TM32",
-            "variations": [
-                "Exeggutor"
-            ]
-        },
-        {
-            "move": "Reflect",
-            "tm": "TM33",
-            "variations": [
-                "Exeggutor"
-            ]
-        },
-        {
-            "move": "Sludge Bomb",
-            "tm": "TM36",
-            "variations": [
-                "Exeggutor"
-            ]
-        },
-        {
-            "move": "Facade",
-            "tm": "TM42",
-            "variations": [
-                "Exeggutor"
-            ]
-        },
-        {
-            "move": "Rest",
-            "tm": "TM44",
-            "variations": [
-                "Exeggutor"
-            ]
-        },
-        {
-            "move": "Attract",
-            "tm": "TM45",
-            "variations": [
-                "Exeggutor"
-            ]
-        },
-        {
-            "move": "Thief",
-            "tm": "TM46",
-            "variations": [
-                "Exeggutor"
-            ]
-        },
-        {
-            "move": "Round",
-            "tm": "TM48",
-            "variations": [
-                "Exeggutor"
-            ]
-        },
-        {
-            "move": "Energy Ball",
-            "tm": "TM53",
-            "variations": [
-                "Exeggutor"
-            ]
-        },
-        {
-            "move": "Explosion",
-            "tm": "TM64",
-            "variations": [
-                "Exeggutor"
-            ]
-        },
-        {
-            "move": "Giga Impact",
-            "tm": "TM68",
-            "variations": [
-                "Exeggutor"
-            ]
-        },
-        {
-            "move": "Swords Dance",
-            "tm": "TM75",
-            "variations": [
-                "Exeggutor"
-            ]
-        },
-        {
-            "move": "Psych Up",
-            "tm": "TM77",
-            "variations": [
-                "Exeggutor"
-            ]
-        },
-        {
-            "move": "Infestation",
-            "tm": "TM83",
-            "variations": [
-                "Exeggutor"
-            ]
-        },
-        {
-            "move": "Dream Eater",
-            "tm": "TM85",
-            "variations": [
-                "Exeggutor"
-            ]
-        },
-        {
-            "move": "Grass Knot",
-            "tm": "TM86",
-            "variations": [
-                "Exeggutor"
-            ]
-        },
-        {
-            "move": "Swagger",
-            "tm": "TM87",
-            "variations": [
-                "Exeggutor"
-            ]
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": "TM88",
-            "variations": [
-                "Exeggutor"
-            ]
-        },
-        {
-            "move": "Substitute",
-            "tm": "TM90",
-            "variations": [
-                "Exeggutor"
-            ]
-        },
-        {
-            "move": "Trick Room",
-            "tm": "TM92",
-            "variations": [
-                "Exeggutor"
-            ]
-        },
-        {
-            "move": "Nature Power",
-            "tm": "TM96",
-            "variations": [
-                "Exeggutor"
-            ]
-        },
-        {
-            "move": "Confide",
-            "tm": "TM100",
-            "variations": [
-                "Exeggutor"
-            ]
-        }
-    ]
+	"name": "Exeggutor",
+	"national_id": 103,
+	"types": ["Grass", "Psychic"],
+	"abilities": [
+		{
+			"name": "Chlorophyll"
+		},
+		{
+			"name": "Harvest",
+			"hidden": true
+		}
+	],
+	"catch_rate": 45,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Grass"],
+	"hatch_time": [5355, 5609],
+	"height_us": "6'07\"",
+	"height_eu": "2.0 m",
+	"weight_us": "264.6 lbs.",
+	"weight_eu": "120.0 kg",
+	"base_exp_yield": 182,
+	"leveling_rate": "Slow",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 2,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 95,
+		"atk": 95,
+		"def": 85,
+		"sp_atk": 125,
+		"sp_def": 75,
+		"speed": 55
+	},
+	"evolution_from": "Exeggcute",
+	"evolutions": [],
+	"species": "Coconut Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "Exeggutor originally came from the tropics. Its heads steadily grow larger from exposure to strong sunlight. It is said that when the heads fall off, they group together to form Exeggcute.",
+	"move_learnset": [
+		{
+			"move": "Barrage",
+			"level": 1,
+			"variations": ["Exeggutor"]
+		},
+		{
+			"move": "Confusion",
+			"level": 1,
+			"variations": ["Exeggutor"]
+		},
+		{
+			"move": "Hypnosis",
+			"level": 1,
+			"variations": ["Exeggutor"]
+		},
+		{
+			"move": "Seed Bomb",
+			"level": 1,
+			"variations": ["Exeggutor"]
+		},
+		{
+			"move": "Stomp",
+			"level": 1,
+			"variations": ["Exeggutor"]
+		},
+		{
+			"move": "Psyshock",
+			"level": 17,
+			"variations": ["Exeggutor"]
+		},
+		{
+			"move": "Egg Bomb",
+			"level": 27,
+			"variations": ["Exeggutor"]
+		},
+		{
+			"move": "Wood Hammer",
+			"level": 37,
+			"variations": ["Exeggutor"]
+		},
+		{
+			"move": "Leaf Storm",
+			"level": 47,
+			"variations": ["Exeggutor"]
+		},
+		{
+			"move": "Ancient Power",
+			"egg_move": true
+		},
+		{
+			"move": "Block",
+			"egg_move": true
+		},
+		{
+			"move": "Curse",
+			"egg_move": true
+		},
+		{
+			"move": "Giga Drain",
+			"egg_move": true
+		},
+		{
+			"move": "Grassy Terrain",
+			"egg_move": true
+		},
+		{
+			"move": "Ingrain",
+			"egg_move": true
+		},
+		{
+			"move": "Leaf Storm",
+			"egg_move": true
+		},
+		{
+			"move": "Lucky Chant",
+			"egg_move": true
+		},
+		{
+			"move": "Moonlight",
+			"egg_move": true
+		},
+		{
+			"move": "Natural Gift",
+			"egg_move": true
+		},
+		{
+			"move": "Nature Power",
+			"egg_move": true
+		},
+		{
+			"move": "Power Swap",
+			"egg_move": true
+		},
+		{
+			"move": "Skill Swap",
+			"egg_move": true
+		},
+		{
+			"move": "Synthesis",
+			"egg_move": true
+		},
+		{
+			"move": "Psyshock",
+			"tm": "TM3",
+			"variations": ["Exeggutor"]
+		},
+		{
+			"move": "Toxic",
+			"tm": "TM6",
+			"variations": ["Exeggutor"]
+		},
+		{
+			"move": "Hidden Power",
+			"tm": "TM10",
+			"variations": ["Exeggutor"]
+		},
+		{
+			"move": "Sunny Day",
+			"tm": "TM11",
+			"variations": ["Exeggutor"]
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": "TM15",
+			"variations": ["Exeggutor"]
+		},
+		{
+			"move": "Light Screen",
+			"tm": "TM16",
+			"variations": ["Exeggutor"]
+		},
+		{
+			"move": "Protect",
+			"tm": "TM17",
+			"variations": ["Exeggutor"]
+		},
+		{
+			"move": "Frustration",
+			"tm": "TM21",
+			"variations": ["Exeggutor"]
+		},
+		{
+			"move": "Solar Beam",
+			"tm": "TM22",
+			"variations": ["Exeggutor"]
+		},
+		{
+			"move": "Return",
+			"tm": "TM27",
+			"variations": ["Exeggutor"]
+		},
+		{
+			"move": "Psychic",
+			"tm": "TM29",
+			"variations": ["Exeggutor"]
+		},
+		{
+			"move": "Double Team",
+			"tm": "TM32",
+			"variations": ["Exeggutor"]
+		},
+		{
+			"move": "Reflect",
+			"tm": "TM33",
+			"variations": ["Exeggutor"]
+		},
+		{
+			"move": "Sludge Bomb",
+			"tm": "TM36",
+			"variations": ["Exeggutor"]
+		},
+		{
+			"move": "Facade",
+			"tm": "TM42",
+			"variations": ["Exeggutor"]
+		},
+		{
+			"move": "Rest",
+			"tm": "TM44",
+			"variations": ["Exeggutor"]
+		},
+		{
+			"move": "Attract",
+			"tm": "TM45",
+			"variations": ["Exeggutor"]
+		},
+		{
+			"move": "Thief",
+			"tm": "TM46",
+			"variations": ["Exeggutor"]
+		},
+		{
+			"move": "Round",
+			"tm": "TM48",
+			"variations": ["Exeggutor"]
+		},
+		{
+			"move": "Energy Ball",
+			"tm": "TM53",
+			"variations": ["Exeggutor"]
+		},
+		{
+			"move": "Explosion",
+			"tm": "TM64",
+			"variations": ["Exeggutor"]
+		},
+		{
+			"move": "Giga Impact",
+			"tm": "TM68",
+			"variations": ["Exeggutor"]
+		},
+		{
+			"move": "Swords Dance",
+			"tm": "TM75",
+			"variations": ["Exeggutor"]
+		},
+		{
+			"move": "Psych Up",
+			"tm": "TM77",
+			"variations": ["Exeggutor"]
+		},
+		{
+			"move": "Infestation",
+			"tm": "TM83",
+			"variations": ["Exeggutor"]
+		},
+		{
+			"move": "Dream Eater",
+			"tm": "TM85",
+			"variations": ["Exeggutor"]
+		},
+		{
+			"move": "Grass Knot",
+			"tm": "TM86",
+			"variations": ["Exeggutor"]
+		},
+		{
+			"move": "Swagger",
+			"tm": "TM87",
+			"variations": ["Exeggutor"]
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": "TM88",
+			"variations": ["Exeggutor"]
+		},
+		{
+			"move": "Substitute",
+			"tm": "TM90",
+			"variations": ["Exeggutor"]
+		},
+		{
+			"move": "Trick Room",
+			"tm": "TM92",
+			"variations": ["Exeggutor"]
+		},
+		{
+			"move": "Nature Power",
+			"tm": "TM96",
+			"variations": ["Exeggutor"]
+		},
+		{
+			"move": "Confide",
+			"tm": "TM100",
+			"variations": ["Exeggutor"]
+		}
+	]
 }

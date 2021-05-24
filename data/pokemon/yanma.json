@@ -1,273 +1,265 @@
 {
-    "name": "Yanma",
-    "national_id": 193,
-    "types": [
-        "Bug",
-        "Flying"
-    ],
-    "items": [
-        {
-            "name": "Wide Lens",
-            "chance": 5
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Speed Boost"
-        },
-        {
-            "name": "Compound Eyes"
-        },
-        {
-            "name": "Frisk",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 75,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Bug"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "3'11\"",
-    "height_eu": "1.2 m",
-    "weight_us": "83.8 lbs.",
-    "weight_eu": "38.0 kg",
-    "base_exp_yield": 78,
-    "leveling_rate": "Medium Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 1
-    },
-    "base_stats": {
-        "hp": 65,
-        "atk": 65,
-        "def": 45,
-        "sp_atk": 75,
-        "sp_def": 45,
-        "speed": 95
-    },
-    "evolution_from": null,
-    "evolutions": [
-        {
-            "to": "Yanmega",
-            "move_learned": "Ancient Power"
-        }
-    ],
-    "species": "Clear Wing Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "Yanma is capable of seeing 360 degrees without having to move its eyes. It is a great flier that is adept at making sudden stops and turning midair. This Pokémon uses its flying ability to quickly chase down targeted prey.",
-    "move_learnset": [
-        {
-            "move": "Foresight",
-            "level": 1
-        },
-        {
-            "move": "Tackle",
-            "level": 1
-        },
-        {
-            "move": "Quick Attack",
-            "level": 6
-        },
-        {
-            "move": "Double Team",
-            "level": 11
-        },
-        {
-            "move": "Sonic Boom",
-            "level": 14
-        },
-        {
-            "move": "Detect",
-            "level": 17
-        },
-        {
-            "move": "Supersonic",
-            "level": 22
-        },
-        {
-            "move": "Uproar",
-            "level": 27
-        },
-        {
-            "move": "Pursuit",
-            "level": 30
-        },
-        {
-            "move": "Ancient Power",
-            "level": 33
-        },
-        {
-            "move": "Hypnosis",
-            "level": 38
-        },
-        {
-            "move": "Wing Attack",
-            "level": 43
-        },
-        {
-            "move": "Screech",
-            "level": 46
-        },
-        {
-            "move": "U-turn",
-            "level": 49
-        },
-        {
-            "move": "Air Slash",
-            "level": 54
-        },
-        {
-            "move": "Bug Buzz",
-            "level": 57
-        },
-        {
-            "move": "Double-Edge",
-            "egg_move": true
-        },
-        {
-            "move": "Feint",
-            "egg_move": true
-        },
-        {
-            "move": "Feint Attack",
-            "egg_move": true
-        },
-        {
-            "move": "Leech Life",
-            "egg_move": true
-        },
-        {
-            "move": "Pursuit",
-            "egg_move": true
-        },
-        {
-            "move": "Reversal",
-            "egg_move": true
-        },
-        {
-            "move": "Secret Power",
-            "egg_move": true
-        },
-        {
-            "move": "Signal Beam",
-            "egg_move": true
-        },
-        {
-            "move": "Silver Wind",
-            "egg_move": true
-        },
-        {
-            "move": "Whirlwind",
-            "egg_move": true
-        },
-        {
-            "move": "Toxic",
-            "tm": "TM6"
-        },
-        {
-            "move": "Hidden Power",
-            "tm": "TM10"
-        },
-        {
-            "move": "Sunny Day",
-            "tm": "TM11"
-        },
-        {
-            "move": "Protect",
-            "tm": "TM17"
-        },
-        {
-            "move": "Roost",
-            "tm": "TM19"
-        },
-        {
-            "move": "Frustration",
-            "tm": "TM21"
-        },
-        {
-            "move": "Solar Beam",
-            "tm": "TM22"
-        },
-        {
-            "move": "Return",
-            "tm": "TM27"
-        },
-        {
-            "move": "Psychic",
-            "tm": "TM29"
-        },
-        {
-            "move": "Shadow Ball",
-            "tm": "TM30"
-        },
-        {
-            "move": "Double Team",
-            "tm": "TM32"
-        },
-        {
-            "move": "Aerial Ace",
-            "tm": "TM40"
-        },
-        {
-            "move": "Facade",
-            "tm": "TM42"
-        },
-        {
-            "move": "Rest",
-            "tm": "TM44"
-        },
-        {
-            "move": "Attract",
-            "tm": "TM45"
-        },
-        {
-            "move": "Thief",
-            "tm": "TM46"
-        },
-        {
-            "move": "Round",
-            "tm": "TM48"
-        },
-        {
-            "move": "Steel Wing",
-            "tm": "TM51"
-        },
-        {
-            "move": "Dream Eater",
-            "tm": "TM85"
-        },
-        {
-            "move": "Swagger",
-            "tm": "TM87"
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": "TM88"
-        },
-        {
-            "move": "U-turn",
-            "tm": "TM89"
-        },
-        {
-            "move": "Substitute",
-            "tm": "TM90"
-        },
-        {
-            "move": "Confide",
-            "tm": "TM100"
-        }
-    ]
+	"name": "Yanma",
+	"national_id": 193,
+	"types": ["Bug", "Flying"],
+	"items": [
+		{
+			"name": "Wide Lens",
+			"chance": 5
+		}
+	],
+	"abilities": [
+		{
+			"name": "Speed Boost"
+		},
+		{
+			"name": "Compound Eyes"
+		},
+		{
+			"name": "Frisk",
+			"hidden": true
+		}
+	],
+	"catch_rate": 75,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Bug"],
+	"hatch_time": [5355, 5609],
+	"height_us": "3'11\"",
+	"height_eu": "1.2 m",
+	"weight_us": "83.8 lbs.",
+	"weight_eu": "38.0 kg",
+	"base_exp_yield": 78,
+	"leveling_rate": "Medium Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 1
+	},
+	"base_stats": {
+		"hp": 65,
+		"atk": 65,
+		"def": 45,
+		"sp_atk": 75,
+		"sp_def": 45,
+		"speed": 95
+	},
+	"evolution_from": null,
+	"evolutions": [
+		{
+			"to": "Yanmega",
+			"move_learned": "Ancient Power"
+		}
+	],
+	"species": "Clear Wing Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "Yanma is capable of seeing 360 degrees without having to move its eyes. It is a great flier that is adept at making sudden stops and turning midair. This Pokémon uses its flying ability to quickly chase down targeted prey.",
+	"move_learnset": [
+		{
+			"move": "Foresight",
+			"level": 1
+		},
+		{
+			"move": "Tackle",
+			"level": 1
+		},
+		{
+			"move": "Quick Attack",
+			"level": 6
+		},
+		{
+			"move": "Double Team",
+			"level": 11
+		},
+		{
+			"move": "Sonic Boom",
+			"level": 14
+		},
+		{
+			"move": "Detect",
+			"level": 17
+		},
+		{
+			"move": "Supersonic",
+			"level": 22
+		},
+		{
+			"move": "Uproar",
+			"level": 27
+		},
+		{
+			"move": "Pursuit",
+			"level": 30
+		},
+		{
+			"move": "Ancient Power",
+			"level": 33
+		},
+		{
+			"move": "Hypnosis",
+			"level": 38
+		},
+		{
+			"move": "Wing Attack",
+			"level": 43
+		},
+		{
+			"move": "Screech",
+			"level": 46
+		},
+		{
+			"move": "U-turn",
+			"level": 49
+		},
+		{
+			"move": "Air Slash",
+			"level": 54
+		},
+		{
+			"move": "Bug Buzz",
+			"level": 57
+		},
+		{
+			"move": "Double-Edge",
+			"egg_move": true
+		},
+		{
+			"move": "Feint",
+			"egg_move": true
+		},
+		{
+			"move": "Feint Attack",
+			"egg_move": true
+		},
+		{
+			"move": "Leech Life",
+			"egg_move": true
+		},
+		{
+			"move": "Pursuit",
+			"egg_move": true
+		},
+		{
+			"move": "Reversal",
+			"egg_move": true
+		},
+		{
+			"move": "Secret Power",
+			"egg_move": true
+		},
+		{
+			"move": "Signal Beam",
+			"egg_move": true
+		},
+		{
+			"move": "Silver Wind",
+			"egg_move": true
+		},
+		{
+			"move": "Whirlwind",
+			"egg_move": true
+		},
+		{
+			"move": "Toxic",
+			"tm": "TM6"
+		},
+		{
+			"move": "Hidden Power",
+			"tm": "TM10"
+		},
+		{
+			"move": "Sunny Day",
+			"tm": "TM11"
+		},
+		{
+			"move": "Protect",
+			"tm": "TM17"
+		},
+		{
+			"move": "Roost",
+			"tm": "TM19"
+		},
+		{
+			"move": "Frustration",
+			"tm": "TM21"
+		},
+		{
+			"move": "Solar Beam",
+			"tm": "TM22"
+		},
+		{
+			"move": "Return",
+			"tm": "TM27"
+		},
+		{
+			"move": "Psychic",
+			"tm": "TM29"
+		},
+		{
+			"move": "Shadow Ball",
+			"tm": "TM30"
+		},
+		{
+			"move": "Double Team",
+			"tm": "TM32"
+		},
+		{
+			"move": "Aerial Ace",
+			"tm": "TM40"
+		},
+		{
+			"move": "Facade",
+			"tm": "TM42"
+		},
+		{
+			"move": "Rest",
+			"tm": "TM44"
+		},
+		{
+			"move": "Attract",
+			"tm": "TM45"
+		},
+		{
+			"move": "Thief",
+			"tm": "TM46"
+		},
+		{
+			"move": "Round",
+			"tm": "TM48"
+		},
+		{
+			"move": "Steel Wing",
+			"tm": "TM51"
+		},
+		{
+			"move": "Dream Eater",
+			"tm": "TM85"
+		},
+		{
+			"move": "Swagger",
+			"tm": "TM87"
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": "TM88"
+		},
+		{
+			"move": "U-turn",
+			"tm": "TM89"
+		},
+		{
+			"move": "Substitute",
+			"tm": "TM90"
+		},
+		{
+			"move": "Confide",
+			"tm": "TM100"
+		}
+	]
 }

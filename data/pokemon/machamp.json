@@ -1,375 +1,368 @@
 {
-    "name": "Machamp",
-    "national_id": 68,
-    "types": [
-        "Fighting"
-    ],
-    "items": [
-        {
-            "name": "Focus Band",
-            "chance": 5
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Guts"
-        },
-        {
-            "name": "No Guard"
-        },
-        {
-            "name": "Steadfast",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 45,
-    "gender_ratios": {
-        "male": 75,
-        "female": 25
-    },
-    "egg_groups": [
-        "Human-Like"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "5'03\"",
-    "height_eu": "1.6 m",
-    "weight_us": "286.6 lbs.",
-    "weight_eu": "130.0 kg",
-    "base_exp_yield": 227,
-    "leveling_rate": "Medium Slow",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 3,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 90,
-        "atk": 130,
-        "def": 80,
-        "sp_atk": 65,
-        "sp_def": 85,
-        "speed": 55
-    },
-    "evolution_from": "Machoke",
-    "evolutions": [],
-    "species": "Superpower Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "With four arms that react more quickly than it can think, it can execute many punches at once.",
-    "move_learnset": [
-        {
-            "move": "Wide Guard",
-            "level": 1
-        },
-        {
-            "move": "Low Kick",
-            "level": 1
-        },
-        {
-            "move": "Leer",
-            "level": 1
-        },
-        {
-            "move": "Focus Energy",
-            "level": 1
-        },
-        {
-            "move": "Revenge",
-            "level": 1
-        },
-        {
-            "move": "Low Sweep",
-            "level": 12
-        },
-        {
-            "move": "Knock Off",
-            "level": 16
-        },
-        {
-            "move": "Scary Face",
-            "level": 20
-        },
-        {
-            "move": "Vital Throw",
-            "level": 24
-        },
-        {
-            "move": "Strength",
-            "level": 31
-        },
-        {
-            "move": "Dual Chop",
-            "level": 36
-        },
-        {
-            "move": "Bulk Up",
-            "level": 42
-        },
-        {
-            "move": "Seismic Toss",
-            "level": 48
-        },
-        {
-            "move": "Dynamic Punch",
-            "level": 54
-        },
-        {
-            "move": "Cross Chop",
-            "level": 60
-        },
-        {
-            "move": "Double-Edge",
-            "level": 66
-        },
-        {
-            "move": "Mega Punch",
-            "tm": true
-        },
-        {
-            "move": "Mega Kick",
-            "tm": true
-        },
-        {
-            "move": "Fire Punch",
-            "tm": true
-        },
-        {
-            "move": "Ice Punch",
-            "tm": true
-        },
-        {
-            "move": "Thunder Punch",
-            "tm": true
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": true
-        },
-        {
-            "move": "Giga Impact",
-            "tm": true
-        },
-        {
-            "move": "Dig",
-            "tm": true
-        },
-        {
-            "move": "Light Screen",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Rock Slide",
-            "tm": true
-        },
-        {
-            "move": "Thief",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Scary Face",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Rain Dance",
-            "tm": true
-        },
-        {
-            "move": "Sunny Day",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Helping Hand",
-            "tm": true
-        },
-        {
-            "move": "Revenge",
-            "tm": true
-        },
-        {
-            "move": "Brick Break",
-            "tm": true
-        },
-        {
-            "move": "Rock Tomb",
-            "tm": true
-        },
-        {
-            "move": "Rock Blast",
-            "tm": true
-        },
-        {
-            "move": "Payback",
-            "tm": true
-        },
-        {
-            "move": "Assurance",
-            "tm": true
-        },
-        {
-            "move": "Fling",
-            "tm": true
-        },
-        {
-            "move": "Cross Poison",
-            "tm": true
-        },
-        {
-            "move": "Low Sweep",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Retaliate",
-            "tm": true
-        },
-        {
-            "move": "Bulldoze",
-            "tm": true
-        },
-        {
-            "move": "Stomping Tantrum",
-            "tm": true
-        },
-        {
-            "move": "Body Slam",
-            "tm": true
-        },
-        {
-            "move": "Flamethrower",
-            "tm": true
-        },
-        {
-            "move": "Low Kick",
-            "tm": true
-        },
-        {
-            "move": "Earthquake",
-            "tm": true
-        },
-        {
-            "move": "Focus Energy",
-            "tm": true
-        },
-        {
-            "move": "Metronome",
-            "tm": true
-        },
-        {
-            "move": "Fire Blast",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Reversal",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Encore",
-            "tm": true
-        },
-        {
-            "move": "Superpower",
-            "tm": true
-        },
-        {
-            "move": "Bulk Up",
-            "tm": true
-        },
-        {
-            "move": "Close Combat",
-            "tm": true
-        },
-        {
-            "move": "Poison Jab",
-            "tm": true
-        },
-        {
-            "move": "Focus Blast",
-            "tm": true
-        },
-        {
-            "move": "Stone Edge",
-            "tm": true
-        },
-        {
-            "move": "Heavy Slam",
-            "tm": true
-        },
-        {
-            "move": "Work Up",
-            "tm": true
-        },
-        {
-            "move": "Darkest Lariat",
-            "tm": true
-        },
-        {
-            "move": "High Horsepower",
-            "tm": true
-        },
-        {
-            "move": "Throat Chop",
-            "tm": true
-        },
-        {
-            "move": "Counter",
-            "egg_move": true
-        },
-        {
-            "move": "Bullet Punch",
-            "egg_move": true
-        },
-        {
-            "move": "Tickle",
-            "egg_move": true
-        },
-        {
-            "move": "Quick Guard",
-            "egg_move": true
-        },
-        {
-            "move": "Submission",
-            "egg_move": true
-        }
-    ]
+	"name": "Machamp",
+	"national_id": 68,
+	"types": ["Fighting"],
+	"items": [
+		{
+			"name": "Focus Band",
+			"chance": 5
+		}
+	],
+	"abilities": [
+		{
+			"name": "Guts"
+		},
+		{
+			"name": "No Guard"
+		},
+		{
+			"name": "Steadfast",
+			"hidden": true
+		}
+	],
+	"catch_rate": 45,
+	"gender_ratios": {
+		"male": 75,
+		"female": 25
+	},
+	"egg_groups": ["Human-Like"],
+	"hatch_time": [5355, 5609],
+	"height_us": "5'03\"",
+	"height_eu": "1.6 m",
+	"weight_us": "286.6 lbs.",
+	"weight_eu": "130.0 kg",
+	"base_exp_yield": 227,
+	"leveling_rate": "Medium Slow",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 3,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 90,
+		"atk": 130,
+		"def": 80,
+		"sp_atk": 65,
+		"sp_def": 85,
+		"speed": 55
+	},
+	"evolution_from": "Machoke",
+	"evolutions": [],
+	"species": "Superpower Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "With four arms that react more quickly than it can think, it can execute many punches at once.",
+	"move_learnset": [
+		{
+			"move": "Wide Guard",
+			"level": 1
+		},
+		{
+			"move": "Low Kick",
+			"level": 1
+		},
+		{
+			"move": "Leer",
+			"level": 1
+		},
+		{
+			"move": "Focus Energy",
+			"level": 1
+		},
+		{
+			"move": "Revenge",
+			"level": 1
+		},
+		{
+			"move": "Low Sweep",
+			"level": 12
+		},
+		{
+			"move": "Knock Off",
+			"level": 16
+		},
+		{
+			"move": "Scary Face",
+			"level": 20
+		},
+		{
+			"move": "Vital Throw",
+			"level": 24
+		},
+		{
+			"move": "Strength",
+			"level": 31
+		},
+		{
+			"move": "Dual Chop",
+			"level": 36
+		},
+		{
+			"move": "Bulk Up",
+			"level": 42
+		},
+		{
+			"move": "Seismic Toss",
+			"level": 48
+		},
+		{
+			"move": "Dynamic Punch",
+			"level": 54
+		},
+		{
+			"move": "Cross Chop",
+			"level": 60
+		},
+		{
+			"move": "Double-Edge",
+			"level": 66
+		},
+		{
+			"move": "Mega Punch",
+			"tm": true
+		},
+		{
+			"move": "Mega Kick",
+			"tm": true
+		},
+		{
+			"move": "Fire Punch",
+			"tm": true
+		},
+		{
+			"move": "Ice Punch",
+			"tm": true
+		},
+		{
+			"move": "Thunder Punch",
+			"tm": true
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": true
+		},
+		{
+			"move": "Giga Impact",
+			"tm": true
+		},
+		{
+			"move": "Dig",
+			"tm": true
+		},
+		{
+			"move": "Light Screen",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Rock Slide",
+			"tm": true
+		},
+		{
+			"move": "Thief",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Scary Face",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Rain Dance",
+			"tm": true
+		},
+		{
+			"move": "Sunny Day",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Helping Hand",
+			"tm": true
+		},
+		{
+			"move": "Revenge",
+			"tm": true
+		},
+		{
+			"move": "Brick Break",
+			"tm": true
+		},
+		{
+			"move": "Rock Tomb",
+			"tm": true
+		},
+		{
+			"move": "Rock Blast",
+			"tm": true
+		},
+		{
+			"move": "Payback",
+			"tm": true
+		},
+		{
+			"move": "Assurance",
+			"tm": true
+		},
+		{
+			"move": "Fling",
+			"tm": true
+		},
+		{
+			"move": "Cross Poison",
+			"tm": true
+		},
+		{
+			"move": "Low Sweep",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Retaliate",
+			"tm": true
+		},
+		{
+			"move": "Bulldoze",
+			"tm": true
+		},
+		{
+			"move": "Stomping Tantrum",
+			"tm": true
+		},
+		{
+			"move": "Body Slam",
+			"tm": true
+		},
+		{
+			"move": "Flamethrower",
+			"tm": true
+		},
+		{
+			"move": "Low Kick",
+			"tm": true
+		},
+		{
+			"move": "Earthquake",
+			"tm": true
+		},
+		{
+			"move": "Focus Energy",
+			"tm": true
+		},
+		{
+			"move": "Metronome",
+			"tm": true
+		},
+		{
+			"move": "Fire Blast",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Reversal",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Encore",
+			"tm": true
+		},
+		{
+			"move": "Superpower",
+			"tm": true
+		},
+		{
+			"move": "Bulk Up",
+			"tm": true
+		},
+		{
+			"move": "Close Combat",
+			"tm": true
+		},
+		{
+			"move": "Poison Jab",
+			"tm": true
+		},
+		{
+			"move": "Focus Blast",
+			"tm": true
+		},
+		{
+			"move": "Stone Edge",
+			"tm": true
+		},
+		{
+			"move": "Heavy Slam",
+			"tm": true
+		},
+		{
+			"move": "Work Up",
+			"tm": true
+		},
+		{
+			"move": "Darkest Lariat",
+			"tm": true
+		},
+		{
+			"move": "High Horsepower",
+			"tm": true
+		},
+		{
+			"move": "Throat Chop",
+			"tm": true
+		},
+		{
+			"move": "Counter",
+			"egg_move": true
+		},
+		{
+			"move": "Bullet Punch",
+			"egg_move": true
+		},
+		{
+			"move": "Tickle",
+			"egg_move": true
+		},
+		{
+			"move": "Quick Guard",
+			"egg_move": true
+		},
+		{
+			"move": "Submission",
+			"egg_move": true
+		}
+	]
 }

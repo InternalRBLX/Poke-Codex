@@ -1,8 +1,8 @@
 {
-    "name": "Poké Tail",
-    "sell_price": 50,
-    "holdable": false,
-    "battle": true,
-    "category": "Item",
-    "subcategory": "Use"
+	"name": "Poké Tail",
+	"sell_price": 50,
+	"holdable": false,
+	"battle": true,
+	"category": "Item",
+	"subcategory": "Use"
 }

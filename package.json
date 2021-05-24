@@ -72,10 +72,13 @@
 		}
 	},
 	"dependencies": {
+		"@types/ms": "^0.7.31",
+		"alpha-sort": "^5.0.0",
 		"consola": "^2.15.3",
 		"discord.js": "^12.5.3",
 		"glob": "^7.1.7",
 		"moment": "^2.29.1",
+		"ms": "^2.1.3",
 		"mysql": "^2.18.1"
 	}
 }

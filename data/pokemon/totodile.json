@@ -1,304 +1,296 @@
 {
-    "name": "Totodile",
-    "national_id": 158,
-    "types": [
-        "Water"
-    ],
-    "abilities": [
-        {
-            "name": "Torrent"
-        },
-        {
-            "name": "Sheer Force",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 45,
-    "gender_ratios": {
-        "male": 87.5,
-        "female": 12.5
-    },
-    "egg_groups": [
-        "Monster",
-        "Water 1"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "2'00\"",
-    "height_eu": "0.6 m",
-    "weight_us": "20.9 lbs.",
-    "weight_eu": "9.5 kg",
-    "base_exp_yield": 63,
-    "leveling_rate": "Medium Slow",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 1,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 50,
-        "atk": 65,
-        "def": 64,
-        "sp_atk": 44,
-        "sp_def": 48,
-        "speed": 43
-    },
-    "evolution_from": null,
-    "evolutions": [
-        {
-            "to": "Croconaw",
-            "level": 18
-        }
-    ],
-    "species": "Big Jaw Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "Despite the smallness of its body, Totodile's jaws are very powerful. While the Pokémon may think it is just playfully nipping, its bite has enough power to cause serious injury.",
-    "move_learnset": [
-        {
-            "move": "Leer",
-            "level": 1
-        },
-        {
-            "move": "Scratch",
-            "level": 1
-        },
-        {
-            "move": "Water Gun",
-            "level": 6
-        },
-        {
-            "move": "Rage",
-            "level": 8
-        },
-        {
-            "move": "Bite",
-            "level": 13
-        },
-        {
-            "move": "Scary Face",
-            "level": 15
-        },
-        {
-            "move": "Ice Fang",
-            "level": 20
-        },
-        {
-            "move": "Flail",
-            "level": 22
-        },
-        {
-            "move": "Crunch",
-            "level": 27
-        },
-        {
-            "move": "Chip Away",
-            "level": 29
-        },
-        {
-            "move": "Slash",
-            "level": 34
-        },
-        {
-            "move": "Screech",
-            "level": 36
-        },
-        {
-            "move": "Thrash",
-            "level": 41
-        },
-        {
-            "move": "Aqua Tail",
-            "level": 43
-        },
-        {
-            "move": "Superpower",
-            "level": 48
-        },
-        {
-            "move": "Hydro Pump",
-            "level": 50
-        },
-        {
-            "move": "Ancient Power",
-            "egg_move": true
-        },
-        {
-            "move": "Aqua Jet",
-            "egg_move": true
-        },
-        {
-            "move": "Block",
-            "egg_move": true
-        },
-        {
-            "move": "Crunch",
-            "egg_move": true
-        },
-        {
-            "move": "Dragon Dance",
-            "egg_move": true
-        },
-        {
-            "move": "Fake Tears",
-            "egg_move": true
-        },
-        {
-            "move": "Flatter",
-            "egg_move": true
-        },
-        {
-            "move": "Hydro Pump",
-            "egg_move": true
-        },
-        {
-            "move": "Ice Punch",
-            "egg_move": true
-        },
-        {
-            "move": "Metal Claw",
-            "egg_move": true
-        },
-        {
-            "move": "Mud Sport",
-            "egg_move": true
-        },
-        {
-            "move": "Thrash",
-            "egg_move": true
-        },
-        {
-            "move": "Water Pulse",
-            "egg_move": true
-        },
-        {
-            "move": "Water Sport",
-            "egg_move": true
-        },
-        {
-            "move": "Work Up",
-            "tm": "TM1"
-        },
-        {
-            "move": "Dragon Claw",
-            "tm": "TM2"
-        },
-        {
-            "move": "Toxic",
-            "tm": "TM6"
-        },
-        {
-            "move": "Hail",
-            "tm": "TM7"
-        },
-        {
-            "move": "Hidden Power",
-            "tm": "TM10"
-        },
-        {
-            "move": "Ice Beam",
-            "tm": "TM13"
-        },
-        {
-            "move": "Blizzard",
-            "tm": "TM14"
-        },
-        {
-            "move": "Protect",
-            "tm": "TM17"
-        },
-        {
-            "move": "Rain Dance",
-            "tm": "TM18"
-        },
-        {
-            "move": "Frustration",
-            "tm": "TM21"
-        },
-        {
-            "move": "Return",
-            "tm": "TM27"
-        },
-        {
-            "move": "Brick Break",
-            "tm": "TM31"
-        },
-        {
-            "move": "Double Team",
-            "tm": "TM32"
-        },
-        {
-            "move": "Rock Tomb",
-            "tm": "TM39"
-        },
-        {
-            "move": "Aerial Ace",
-            "tm": "TM40"
-        },
-        {
-            "move": "Facade",
-            "tm": "TM42"
-        },
-        {
-            "move": "Rest",
-            "tm": "TM44"
-        },
-        {
-            "move": "Attract",
-            "tm": "TM45"
-        },
-        {
-            "move": "Round",
-            "tm": "TM48"
-        },
-        {
-            "move": "Scald",
-            "tm": "TM55"
-        },
-        {
-            "move": "Fling",
-            "tm": "TM56"
-        },
-        {
-            "move": "Shadow Claw",
-            "tm": "TM65"
-        },
-        {
-            "move": "Swords Dance",
-            "tm": "TM75"
-        },
-        {
-            "move": "Rock Slide",
-            "tm": "TM80"
-        },
-        {
-            "move": "Swagger",
-            "tm": "TM87"
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": "TM88"
-        },
-        {
-            "move": "Substitute",
-            "tm": "TM90"
-        },
-        {
-            "move": "Surf",
-            "tm": "TM94"
-        },
-        {
-            "move": "Waterfall",
-            "tm": "TM98"
-        },
-        {
-            "move": "Confide",
-            "tm": "TM100"
-        }
-    ]
+	"name": "Totodile",
+	"national_id": 158,
+	"types": ["Water"],
+	"abilities": [
+		{
+			"name": "Torrent"
+		},
+		{
+			"name": "Sheer Force",
+			"hidden": true
+		}
+	],
+	"catch_rate": 45,
+	"gender_ratios": {
+		"male": 87.5,
+		"female": 12.5
+	},
+	"egg_groups": ["Monster", "Water 1"],
+	"hatch_time": [5355, 5609],
+	"height_us": "2'00\"",
+	"height_eu": "0.6 m",
+	"weight_us": "20.9 lbs.",
+	"weight_eu": "9.5 kg",
+	"base_exp_yield": 63,
+	"leveling_rate": "Medium Slow",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 1,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 50,
+		"atk": 65,
+		"def": 64,
+		"sp_atk": 44,
+		"sp_def": 48,
+		"speed": 43
+	},
+	"evolution_from": null,
+	"evolutions": [
+		{
+			"to": "Croconaw",
+			"level": 18
+		}
+	],
+	"species": "Big Jaw Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "Despite the smallness of its body, Totodile's jaws are very powerful. While the Pokémon may think it is just playfully nipping, its bite has enough power to cause serious injury.",
+	"move_learnset": [
+		{
+			"move": "Leer",
+			"level": 1
+		},
+		{
+			"move": "Scratch",
+			"level": 1
+		},
+		{
+			"move": "Water Gun",
+			"level": 6
+		},
+		{
+			"move": "Rage",
+			"level": 8
+		},
+		{
+			"move": "Bite",
+			"level": 13
+		},
+		{
+			"move": "Scary Face",
+			"level": 15
+		},
+		{
+			"move": "Ice Fang",
+			"level": 20
+		},
+		{
+			"move": "Flail",
+			"level": 22
+		},
+		{
+			"move": "Crunch",
+			"level": 27
+		},
+		{
+			"move": "Chip Away",
+			"level": 29
+		},
+		{
+			"move": "Slash",
+			"level": 34
+		},
+		{
+			"move": "Screech",
+			"level": 36
+		},
+		{
+			"move": "Thrash",
+			"level": 41
+		},
+		{
+			"move": "Aqua Tail",
+			"level": 43
+		},
+		{
+			"move": "Superpower",
+			"level": 48
+		},
+		{
+			"move": "Hydro Pump",
+			"level": 50
+		},
+		{
+			"move": "Ancient Power",
+			"egg_move": true
+		},
+		{
+			"move": "Aqua Jet",
+			"egg_move": true
+		},
+		{
+			"move": "Block",
+			"egg_move": true
+		},
+		{
+			"move": "Crunch",
+			"egg_move": true
+		},
+		{
+			"move": "Dragon Dance",
+			"egg_move": true
+		},
+		{
+			"move": "Fake Tears",
+			"egg_move": true
+		},
+		{
+			"move": "Flatter",
+			"egg_move": true
+		},
+		{
+			"move": "Hydro Pump",
+			"egg_move": true
+		},
+		{
+			"move": "Ice Punch",
+			"egg_move": true
+		},
+		{
+			"move": "Metal Claw",
+			"egg_move": true
+		},
+		{
+			"move": "Mud Sport",
+			"egg_move": true
+		},
+		{
+			"move": "Thrash",
+			"egg_move": true
+		},
+		{
+			"move": "Water Pulse",
+			"egg_move": true
+		},
+		{
+			"move": "Water Sport",
+			"egg_move": true
+		},
+		{
+			"move": "Work Up",
+			"tm": "TM1"
+		},
+		{
+			"move": "Dragon Claw",
+			"tm": "TM2"
+		},
+		{
+			"move": "Toxic",
+			"tm": "TM6"
+		},
+		{
+			"move": "Hail",
+			"tm": "TM7"
+		},
+		{
+			"move": "Hidden Power",
+			"tm": "TM10"
+		},
+		{
+			"move": "Ice Beam",
+			"tm": "TM13"
+		},
+		{
+			"move": "Blizzard",
+			"tm": "TM14"
+		},
+		{
+			"move": "Protect",
+			"tm": "TM17"
+		},
+		{
+			"move": "Rain Dance",
+			"tm": "TM18"
+		},
+		{
+			"move": "Frustration",
+			"tm": "TM21"
+		},
+		{
+			"move": "Return",
+			"tm": "TM27"
+		},
+		{
+			"move": "Brick Break",
+			"tm": "TM31"
+		},
+		{
+			"move": "Double Team",
+			"tm": "TM32"
+		},
+		{
+			"move": "Rock Tomb",
+			"tm": "TM39"
+		},
+		{
+			"move": "Aerial Ace",
+			"tm": "TM40"
+		},
+		{
+			"move": "Facade",
+			"tm": "TM42"
+		},
+		{
+			"move": "Rest",
+			"tm": "TM44"
+		},
+		{
+			"move": "Attract",
+			"tm": "TM45"
+		},
+		{
+			"move": "Round",
+			"tm": "TM48"
+		},
+		{
+			"move": "Scald",
+			"tm": "TM55"
+		},
+		{
+			"move": "Fling",
+			"tm": "TM56"
+		},
+		{
+			"move": "Shadow Claw",
+			"tm": "TM65"
+		},
+		{
+			"move": "Swords Dance",
+			"tm": "TM75"
+		},
+		{
+			"move": "Rock Slide",
+			"tm": "TM80"
+		},
+		{
+			"move": "Swagger",
+			"tm": "TM87"
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": "TM88"
+		},
+		{
+			"move": "Substitute",
+			"tm": "TM90"
+		},
+		{
+			"move": "Surf",
+			"tm": "TM94"
+		},
+		{
+			"move": "Waterfall",
+			"tm": "TM98"
+		},
+		{
+			"move": "Confide",
+			"tm": "TM100"
+		}
+	]
 }

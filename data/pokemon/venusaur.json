@@ -1,312 +1,303 @@
 {
-    "name": "Venusaur",
-    "national_id": 3,
-    "types": [
-        "Grass",
-        "Poison"
-    ],
-    "abilities": [
-        {
-            "name": "Overgrow"
-        },
-        {
-            "name": "Chlorophyll",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 45,
-    "gender_ratios": {
-        "male": 87.5,
-        "female": 12.5
-    },
-    "egg_groups": [
-        "Monster",
-        "Grass"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "6'07\"",
-    "height_eu": "2.0 m",
-    "weight_us": "220.5 lbs.",
-    "weight_eu": "100.0 kg",
-    "base_exp_yield": 236,
-    "leveling_rate": "Medium Slow",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 2,
-        "sp_def": 1,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 80,
-        "atk": 82,
-        "def": 83,
-        "sp_atk": 100,
-        "sp_def": 100,
-        "speed": 80
-    },
-    "evolution_from": "Ivysaur",
-    "evolutions": [],
-    "species": "Seed Pokémon",
-    "mega_evolves": true,
-    "pokedex_entry": "A bewitching aroma wafts from its flower. The fragrance becalms those engaged in a battle.",
-    "move_learnset": [
-        {
-            "move": "Petal Blizzard",
-            "evo": true
-        },
-        {
-            "move": "Petal Blizzard",
-            "level": 1
-        },
-        {
-            "move": "Petal Dance",
-            "level": 1
-        },
-        {
-            "move": "Tackle",
-            "level": 1
-        },
-        {
-            "move": "Growl",
-            "level": 1
-        },
-        {
-            "move": "Vine Whip",
-            "level": 1
-        },
-        {
-            "move": "Growth",
-            "level": 1
-        },
-        {
-            "move": "Leech Seed",
-            "level": 9
-        },
-        {
-            "move": "Razor Leaf",
-            "level": 12
-        },
-        {
-            "move": "Poison Powder",
-            "level": 15
-        },
-        {
-            "move": "Sleep Powder",
-            "level": 15
-        },
-        {
-            "move": "Seed Bomb",
-            "level": 20
-        },
-        {
-            "move": "Take Down",
-            "level": 25
-        },
-        {
-            "move": "Sweet Scent",
-            "level": 30
-        },
-        {
-            "move": "Synthesis",
-            "level": 37
-        },
-        {
-            "move": "Worry Seed",
-            "level": 44
-        },
-        {
-            "move": "Double-Edge",
-            "level": 51
-        },
-        {
-            "move": "Solar Beam",
-            "level": 58
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": true
-        },
-        {
-            "move": "Giga Impact",
-            "tm": true
-        },
-        {
-            "move": "Magical Leaf",
-            "tm": true
-        },
-        {
-            "move": "Solar Beam",
-            "tm": true
-        },
-        {
-            "move": "Light Screen",
-            "tm": true
-        },
-        {
-            "move": "Safeguard",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Giga Drain",
-            "tm": true
-        },
-        {
-            "move": "Charm",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Sunny Day",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Helping Hand",
-            "tm": true
-        },
-        {
-            "move": "Weather Ball",
-            "tm": true
-        },
-        {
-            "move": "Bullet Seed",
-            "tm": true
-        },
-        {
-            "move": "Venoshock",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Bulldoze",
-            "tm": true
-        },
-        {
-            "move": "Grassy Terrain",
-            "tm": true
-        },
-        {
-            "move": "False Swipe",
-            "tm": true
-        },
-        {
-            "move": "Stomping Tantrum",
-            "tm": true
-        },
-        {
-            "move": "Swords Dance",
-            "tm": true
-        },
-        {
-            "move": "Body Slam",
-            "tm": true
-        },
-        {
-            "move": "Earthquake",
-            "tm": true
-        },
-        {
-            "move": "Amnesia",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Sludge Bomb",
-            "tm": true
-        },
-        {
-            "move": "Outrage",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Seed Bomb",
-            "tm": true
-        },
-        {
-            "move": "Energy Ball",
-            "tm": true
-        },
-        {
-            "move": "Earth Power",
-            "tm": true
-        },
-        {
-            "move": "Leaf Storm",
-            "tm": true
-        },
-        {
-            "move": "Power Whip",
-            "tm": true
-        },
-        {
-            "move": "Grass Knot",
-            "tm": true
-        },
-        {
-            "move": "Work Up",
-            "tm": true
-        },
-        {
-            "move": "Skull Bash",
-            "egg_move": true
-        },
-        {
-            "move": "Petal Dance",
-            "egg_move": true
-        },
-        {
-            "move": "Curse",
-            "egg_move": true
-        },
-        {
-            "move": "Ingrain",
-            "egg_move": true
-        },
-        {
-            "move": "Nature Power",
-            "egg_move": true
-        },
-        {
-            "move": "Toxic",
-            "egg_move": true
-        }
-    ]
+	"name": "Venusaur",
+	"national_id": 3,
+	"types": ["Grass", "Poison"],
+	"abilities": [
+		{
+			"name": "Overgrow"
+		},
+		{
+			"name": "Chlorophyll",
+			"hidden": true
+		}
+	],
+	"catch_rate": 45,
+	"gender_ratios": {
+		"male": 87.5,
+		"female": 12.5
+	},
+	"egg_groups": ["Monster", "Grass"],
+	"hatch_time": [5355, 5609],
+	"height_us": "6'07\"",
+	"height_eu": "2.0 m",
+	"weight_us": "220.5 lbs.",
+	"weight_eu": "100.0 kg",
+	"base_exp_yield": 236,
+	"leveling_rate": "Medium Slow",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 2,
+		"sp_def": 1,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 80,
+		"atk": 82,
+		"def": 83,
+		"sp_atk": 100,
+		"sp_def": 100,
+		"speed": 80
+	},
+	"evolution_from": "Ivysaur",
+	"evolutions": [],
+	"species": "Seed Pokémon",
+	"mega_evolves": true,
+	"pokedex_entry": "A bewitching aroma wafts from its flower. The fragrance becalms those engaged in a battle.",
+	"move_learnset": [
+		{
+			"move": "Petal Blizzard",
+			"evo": true
+		},
+		{
+			"move": "Petal Blizzard",
+			"level": 1
+		},
+		{
+			"move": "Petal Dance",
+			"level": 1
+		},
+		{
+			"move": "Tackle",
+			"level": 1
+		},
+		{
+			"move": "Growl",
+			"level": 1
+		},
+		{
+			"move": "Vine Whip",
+			"level": 1
+		},
+		{
+			"move": "Growth",
+			"level": 1
+		},
+		{
+			"move": "Leech Seed",
+			"level": 9
+		},
+		{
+			"move": "Razor Leaf",
+			"level": 12
+		},
+		{
+			"move": "Poison Powder",
+			"level": 15
+		},
+		{
+			"move": "Sleep Powder",
+			"level": 15
+		},
+		{
+			"move": "Seed Bomb",
+			"level": 20
+		},
+		{
+			"move": "Take Down",
+			"level": 25
+		},
+		{
+			"move": "Sweet Scent",
+			"level": 30
+		},
+		{
+			"move": "Synthesis",
+			"level": 37
+		},
+		{
+			"move": "Worry Seed",
+			"level": 44
+		},
+		{
+			"move": "Double-Edge",
+			"level": 51
+		},
+		{
+			"move": "Solar Beam",
+			"level": 58
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": true
+		},
+		{
+			"move": "Giga Impact",
+			"tm": true
+		},
+		{
+			"move": "Magical Leaf",
+			"tm": true
+		},
+		{
+			"move": "Solar Beam",
+			"tm": true
+		},
+		{
+			"move": "Light Screen",
+			"tm": true
+		},
+		{
+			"move": "Safeguard",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Giga Drain",
+			"tm": true
+		},
+		{
+			"move": "Charm",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Sunny Day",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Helping Hand",
+			"tm": true
+		},
+		{
+			"move": "Weather Ball",
+			"tm": true
+		},
+		{
+			"move": "Bullet Seed",
+			"tm": true
+		},
+		{
+			"move": "Venoshock",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Bulldoze",
+			"tm": true
+		},
+		{
+			"move": "Grassy Terrain",
+			"tm": true
+		},
+		{
+			"move": "False Swipe",
+			"tm": true
+		},
+		{
+			"move": "Stomping Tantrum",
+			"tm": true
+		},
+		{
+			"move": "Swords Dance",
+			"tm": true
+		},
+		{
+			"move": "Body Slam",
+			"tm": true
+		},
+		{
+			"move": "Earthquake",
+			"tm": true
+		},
+		{
+			"move": "Amnesia",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Sludge Bomb",
+			"tm": true
+		},
+		{
+			"move": "Outrage",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Seed Bomb",
+			"tm": true
+		},
+		{
+			"move": "Energy Ball",
+			"tm": true
+		},
+		{
+			"move": "Earth Power",
+			"tm": true
+		},
+		{
+			"move": "Leaf Storm",
+			"tm": true
+		},
+		{
+			"move": "Power Whip",
+			"tm": true
+		},
+		{
+			"move": "Grass Knot",
+			"tm": true
+		},
+		{
+			"move": "Work Up",
+			"tm": true
+		},
+		{
+			"move": "Skull Bash",
+			"egg_move": true
+		},
+		{
+			"move": "Petal Dance",
+			"egg_move": true
+		},
+		{
+			"move": "Curse",
+			"egg_move": true
+		},
+		{
+			"move": "Ingrain",
+			"egg_move": true
+		},
+		{
+			"move": "Nature Power",
+			"egg_move": true
+		},
+		{
+			"move": "Toxic",
+			"egg_move": true
+		}
+	]
 }

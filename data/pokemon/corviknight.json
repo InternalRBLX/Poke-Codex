@@ -1,314 +1,306 @@
 {
-    "name": "Corviknight",
-    "national_id": 823,
-    "types": [
-        "Flying",
-        "Steel"
-    ],
-    "abilities": [
-        {
-            "name": "Pressure"
-        },
-        {
-            "name": "Unnerve"
-        },
-        {
-            "name": "Mirror Armor",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 45,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Flying"
-    ],
-    "hatch_time": [
-        3855,
-        4111
-    ],
-    "height_us": "7'03\"",
-    "height_eu": "2.2 m",
-    "weight_us": "165.3 lbs.",
-    "weight_eu": "75.0 kg",
-    "base_exp_yield": 248,
-    "leveling_rate": "Medium Slow",
-    "base_friendship": 50,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 3,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 98,
-        "atk": 87,
-        "def": 105,
-        "sp_atk": 53,
-        "sp_def": 85,
-        "speed": 67
-    },
-    "evolution_from": "Corvisquire",
-    "evolutions": [],
-    "species": "Raven Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "With their great intellect and flying skills, these Pokémon very successfully act as the Galar region’s airborne taxi service.",
-    "move_learnset": [
-        {
-            "move": "Steel Wing",
-            "evo": true
-        },
-        {
-            "move": "Steel Wing",
-            "level": 1
-        },
-        {
-            "move": "Iron Defense",
-            "level": 1
-        },
-        {
-            "move": "Metal Sound",
-            "level": 1
-        },
-        {
-            "move": "Peck",
-            "level": 1
-        },
-        {
-            "move": "Leer",
-            "level": 1
-        },
-        {
-            "move": "Power Trip",
-            "level": 1
-        },
-        {
-            "move": "Hone Claws",
-            "level": 1
-        },
-        {
-            "move": "Fury Attack",
-            "level": 12
-        },
-        {
-            "move": "Pluck",
-            "level": 16
-        },
-        {
-            "move": "Taunt",
-            "level": 22
-        },
-        {
-            "move": "Scary Face",
-            "level": 28
-        },
-        {
-            "move": "Drill Peck",
-            "level": 34
-        },
-        {
-            "move": "Swagger",
-            "level": 42
-        },
-        {
-            "move": "Brave Bird",
-            "level": 50
-        },
-        {
-            "move": "Fly",
-            "tm": true
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": true
-        },
-        {
-            "move": "Giga Impact",
-            "tm": true
-        },
-        {
-            "move": "Screech",
-            "tm": true
-        },
-        {
-            "move": "Light Screen",
-            "tm": true
-        },
-        {
-            "move": "Reflect",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Thief",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Scary Face",
-            "tm": true
-        },
-        {
-            "move": "Steel Wing",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Swift",
-            "tm": true
-        },
-        {
-            "move": "Revenge",
-            "tm": true
-        },
-        {
-            "move": "Fake Tears",
-            "tm": true
-        },
-        {
-            "move": "U-turn",
-            "tm": true
-        },
-        {
-            "move": "Payback",
-            "tm": true
-        },
-        {
-            "move": "Assurance",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Retaliate",
-            "tm": true
-        },
-        {
-            "move": "Air Slash",
-            "tm": true
-        },
-        {
-            "move": "Body Slam",
-            "tm": true
-        },
-        {
-            "move": "Agility",
-            "tm": true
-        },
-        {
-            "move": "Focus Energy",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Reversal",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Taunt",
-            "tm": true
-        },
-        {
-            "move": "Iron Defense",
-            "tm": true
-        },
-        {
-            "move": "Bulk Up",
-            "tm": true
-        },
-        {
-            "move": "Brave Bird",
-            "tm": true
-        },
-        {
-            "move": "Nasty Plot",
-            "tm": true
-        },
-        {
-            "move": "Flash Cannon",
-            "tm": true
-        },
-        {
-            "move": "Iron Head",
-            "tm": true
-        },
-        {
-            "move": "Heavy Slam",
-            "tm": true
-        },
-        {
-            "move": "Work Up",
-            "tm": true
-        },
-        {
-            "move": "Hurricane",
-            "tm": true
-        },
-        {
-            "move": "Body Press",
-            "tm": true
-        },
-        {
-            "move": "Sky Attack",
-            "egg_move": true
-        },
-        {
-            "move": "Sand Attack",
-            "egg_move": true
-        },
-        {
-            "move": "Tailwind",
-            "egg_move": true
-        },
-        {
-            "move": "Defog",
-            "egg_move": true
-        },
-        {
-            "move": "Rock Smash",
-            "egg_move": true
-        },
-        {
-            "move": "Spite",
-            "egg_move": true
-        },
-        {
-            "move": "Roost",
-            "egg_move": true
-        }
-    ]
+	"name": "Corviknight",
+	"national_id": 823,
+	"types": ["Flying", "Steel"],
+	"abilities": [
+		{
+			"name": "Pressure"
+		},
+		{
+			"name": "Unnerve"
+		},
+		{
+			"name": "Mirror Armor",
+			"hidden": true
+		}
+	],
+	"catch_rate": 45,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Flying"],
+	"hatch_time": [3855, 4111],
+	"height_us": "7'03\"",
+	"height_eu": "2.2 m",
+	"weight_us": "165.3 lbs.",
+	"weight_eu": "75.0 kg",
+	"base_exp_yield": 248,
+	"leveling_rate": "Medium Slow",
+	"base_friendship": 50,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 3,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 98,
+		"atk": 87,
+		"def": 105,
+		"sp_atk": 53,
+		"sp_def": 85,
+		"speed": 67
+	},
+	"evolution_from": "Corvisquire",
+	"evolutions": [],
+	"species": "Raven Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "With their great intellect and flying skills, these Pokémon very successfully act as the Galar region’s airborne taxi service.",
+	"move_learnset": [
+		{
+			"move": "Steel Wing",
+			"evo": true
+		},
+		{
+			"move": "Steel Wing",
+			"level": 1
+		},
+		{
+			"move": "Iron Defense",
+			"level": 1
+		},
+		{
+			"move": "Metal Sound",
+			"level": 1
+		},
+		{
+			"move": "Peck",
+			"level": 1
+		},
+		{
+			"move": "Leer",
+			"level": 1
+		},
+		{
+			"move": "Power Trip",
+			"level": 1
+		},
+		{
+			"move": "Hone Claws",
+			"level": 1
+		},
+		{
+			"move": "Fury Attack",
+			"level": 12
+		},
+		{
+			"move": "Pluck",
+			"level": 16
+		},
+		{
+			"move": "Taunt",
+			"level": 22
+		},
+		{
+			"move": "Scary Face",
+			"level": 28
+		},
+		{
+			"move": "Drill Peck",
+			"level": 34
+		},
+		{
+			"move": "Swagger",
+			"level": 42
+		},
+		{
+			"move": "Brave Bird",
+			"level": 50
+		},
+		{
+			"move": "Fly",
+			"tm": true
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": true
+		},
+		{
+			"move": "Giga Impact",
+			"tm": true
+		},
+		{
+			"move": "Screech",
+			"tm": true
+		},
+		{
+			"move": "Light Screen",
+			"tm": true
+		},
+		{
+			"move": "Reflect",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Thief",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Scary Face",
+			"tm": true
+		},
+		{
+			"move": "Steel Wing",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Swift",
+			"tm": true
+		},
+		{
+			"move": "Revenge",
+			"tm": true
+		},
+		{
+			"move": "Fake Tears",
+			"tm": true
+		},
+		{
+			"move": "U-turn",
+			"tm": true
+		},
+		{
+			"move": "Payback",
+			"tm": true
+		},
+		{
+			"move": "Assurance",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Retaliate",
+			"tm": true
+		},
+		{
+			"move": "Air Slash",
+			"tm": true
+		},
+		{
+			"move": "Body Slam",
+			"tm": true
+		},
+		{
+			"move": "Agility",
+			"tm": true
+		},
+		{
+			"move": "Focus Energy",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Reversal",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Taunt",
+			"tm": true
+		},
+		{
+			"move": "Iron Defense",
+			"tm": true
+		},
+		{
+			"move": "Bulk Up",
+			"tm": true
+		},
+		{
+			"move": "Brave Bird",
+			"tm": true
+		},
+		{
+			"move": "Nasty Plot",
+			"tm": true
+		},
+		{
+			"move": "Flash Cannon",
+			"tm": true
+		},
+		{
+			"move": "Iron Head",
+			"tm": true
+		},
+		{
+			"move": "Heavy Slam",
+			"tm": true
+		},
+		{
+			"move": "Work Up",
+			"tm": true
+		},
+		{
+			"move": "Hurricane",
+			"tm": true
+		},
+		{
+			"move": "Body Press",
+			"tm": true
+		},
+		{
+			"move": "Sky Attack",
+			"egg_move": true
+		},
+		{
+			"move": "Sand Attack",
+			"egg_move": true
+		},
+		{
+			"move": "Tailwind",
+			"egg_move": true
+		},
+		{
+			"move": "Defog",
+			"egg_move": true
+		},
+		{
+			"move": "Rock Smash",
+			"egg_move": true
+		},
+		{
+			"move": "Spite",
+			"egg_move": true
+		},
+		{
+			"move": "Roost",
+			"egg_move": true
+		}
+	]
 }

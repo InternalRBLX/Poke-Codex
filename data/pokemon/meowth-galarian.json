@@ -1,311 +1,304 @@
 {
-    "name": "Meowth",
-    "national_id": 52,
-    "types": [
-        "Steel"
-    ],
-    "items": [],
-    "abilities": [
-        {
-            "name": "Pickup"
-        },
-        {
-            "name": "Tough Claws"
-        },
-        {
-            "name": "Unnerve",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 255,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Field"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "1'04\"",
-    "height_eu": "0.4 m",
-    "weight_us": "16.5 lbs.",
-    "weight_eu": "7.5 kg",
-    "base_exp_yield": 58,
-    "leveling_rate": "Medium Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 1
-    },
-    "base_stats": {
-        "hp": 50,
-        "atk": 65,
-        "def": 55,
-        "sp_atk": 40,
-        "sp_def": 40,
-        "speed": 40
-    },
-    "evolution_from": null,
-    "evolutions": [
-        {
-            "to": "Perrserker",
-            "level": 28
-        }
-    ],
-    "species": "Scratch Cat Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "Living with a savage, seafaring people has toughened this Pokémon's body so much that parts of it have turned to iron.",
-    "move_learnset": [
-        {
-            "move": "Fake Out",
-            "level": 1
-        },
-        {
-            "move": "Growl",
-            "level": 1
-        },
-        {
-            "move": "Hone Claws",
-            "level": 4
-        },
-        {
-            "move": "Scratch",
-            "level": 8
-        },
-        {
-            "move": "Pay Day",
-            "level": 12
-        },
-        {
-            "move": "Metal Claw",
-            "level": 16
-        },
-        {
-            "move": "Taunt",
-            "level": 20
-        },
-        {
-            "move": "Swagger",
-            "level": 24
-        },
-        {
-            "move": "Fury Swipes",
-            "level": 29
-        },
-        {
-            "move": "Screech",
-            "level": 32
-        },
-        {
-            "move": "Slash",
-            "level": 36
-        },
-        {
-            "move": "Metal Sound",
-            "level": 40
-        },
-        {
-            "move": "Thrash",
-            "level": 44
-        },
-        {
-            "move": "Pay Day",
-            "tm": true
-        },
-        {
-            "move": "Dig",
-            "tm": true
-        },
-        {
-            "move": "Screech",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Thief",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Rain Dance",
-            "tm": true
-        },
-        {
-            "move": "Sunny Day",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "U-turn",
-            "tm": true
-        },
-        {
-            "move": "Payback",
-            "tm": true
-        },
-        {
-            "move": "Assurance",
-            "tm": true
-        },
-        {
-            "move": "Shadow Claw",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Retaliate",
-            "tm": true
-        },
-        {
-            "move": "Swords Dance",
-            "tm": true
-        },
-        {
-            "move": "Body Slam",
-            "tm": true
-        },
-        {
-            "move": "Thunderbolt",
-            "tm": true
-        },
-        {
-            "move": "Thunder",
-            "tm": true
-        },
-        {
-            "move": "Amnesia",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Iron Tail",
-            "tm": true
-        },
-        {
-            "move": "Crunch",
-            "tm": true
-        },
-        {
-            "move": "Shadow Ball",
-            "tm": true
-        },
-        {
-            "move": "Uproar",
-            "tm": true
-        },
-        {
-            "move": "Taunt",
-            "tm": true
-        },
-        {
-            "move": "Hyper Voice",
-            "tm": true
-        },
-        {
-            "move": "Iron Defense",
-            "tm": true
-        },
-        {
-            "move": "Gyro Ball",
-            "tm": true
-        },
-        {
-            "move": "Dark Pulse",
-            "tm": true
-        },
-        {
-            "move": "Seed Bomb",
-            "tm": true
-        },
-        {
-            "move": "Nasty Plot",
-            "tm": true
-        },
-        {
-            "move": "Gunk Shot",
-            "tm": true
-        },
-        {
-            "move": "Iron Head",
-            "tm": true
-        },
-        {
-            "move": "Foul Play",
-            "tm": true
-        },
-        {
-            "move": "Work Up",
-            "tm": true
-        },
-        {
-            "move": "Play Rough",
-            "tm": true
-        },
-        {
-            "move": "Throat Chop",
-            "tm": true
-        },
-        {
-            "move": "Spite",
-            "egg_move": true
-        },
-        {
-            "move": "Double-Edge",
-            "egg_move": true
-        },
-        {
-            "move": "Curse",
-            "egg_move": true
-        },
-        {
-            "move": "Flail",
-            "egg_move": true
-        },
-        {
-            "move": "Night Slash",
-            "egg_move": true
-        },
-        {
-            "move": "Covet",
-            "egg_move": true
-        }
-    ]
+	"name": "Meowth",
+	"national_id": 52,
+	"types": ["Steel"],
+	"items": [],
+	"abilities": [
+		{
+			"name": "Pickup"
+		},
+		{
+			"name": "Tough Claws"
+		},
+		{
+			"name": "Unnerve",
+			"hidden": true
+		}
+	],
+	"catch_rate": 255,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Field"],
+	"hatch_time": [5355, 5609],
+	"height_us": "1'04\"",
+	"height_eu": "0.4 m",
+	"weight_us": "16.5 lbs.",
+	"weight_eu": "7.5 kg",
+	"base_exp_yield": 58,
+	"leveling_rate": "Medium Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 1
+	},
+	"base_stats": {
+		"hp": 50,
+		"atk": 65,
+		"def": 55,
+		"sp_atk": 40,
+		"sp_def": 40,
+		"speed": 40
+	},
+	"evolution_from": null,
+	"evolutions": [
+		{
+			"to": "Perrserker",
+			"level": 28
+		}
+	],
+	"species": "Scratch Cat Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "Living with a savage, seafaring people has toughened this Pokémon's body so much that parts of it have turned to iron.",
+	"move_learnset": [
+		{
+			"move": "Fake Out",
+			"level": 1
+		},
+		{
+			"move": "Growl",
+			"level": 1
+		},
+		{
+			"move": "Hone Claws",
+			"level": 4
+		},
+		{
+			"move": "Scratch",
+			"level": 8
+		},
+		{
+			"move": "Pay Day",
+			"level": 12
+		},
+		{
+			"move": "Metal Claw",
+			"level": 16
+		},
+		{
+			"move": "Taunt",
+			"level": 20
+		},
+		{
+			"move": "Swagger",
+			"level": 24
+		},
+		{
+			"move": "Fury Swipes",
+			"level": 29
+		},
+		{
+			"move": "Screech",
+			"level": 32
+		},
+		{
+			"move": "Slash",
+			"level": 36
+		},
+		{
+			"move": "Metal Sound",
+			"level": 40
+		},
+		{
+			"move": "Thrash",
+			"level": 44
+		},
+		{
+			"move": "Pay Day",
+			"tm": true
+		},
+		{
+			"move": "Dig",
+			"tm": true
+		},
+		{
+			"move": "Screech",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Thief",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Rain Dance",
+			"tm": true
+		},
+		{
+			"move": "Sunny Day",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "U-turn",
+			"tm": true
+		},
+		{
+			"move": "Payback",
+			"tm": true
+		},
+		{
+			"move": "Assurance",
+			"tm": true
+		},
+		{
+			"move": "Shadow Claw",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Retaliate",
+			"tm": true
+		},
+		{
+			"move": "Swords Dance",
+			"tm": true
+		},
+		{
+			"move": "Body Slam",
+			"tm": true
+		},
+		{
+			"move": "Thunderbolt",
+			"tm": true
+		},
+		{
+			"move": "Thunder",
+			"tm": true
+		},
+		{
+			"move": "Amnesia",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Iron Tail",
+			"tm": true
+		},
+		{
+			"move": "Crunch",
+			"tm": true
+		},
+		{
+			"move": "Shadow Ball",
+			"tm": true
+		},
+		{
+			"move": "Uproar",
+			"tm": true
+		},
+		{
+			"move": "Taunt",
+			"tm": true
+		},
+		{
+			"move": "Hyper Voice",
+			"tm": true
+		},
+		{
+			"move": "Iron Defense",
+			"tm": true
+		},
+		{
+			"move": "Gyro Ball",
+			"tm": true
+		},
+		{
+			"move": "Dark Pulse",
+			"tm": true
+		},
+		{
+			"move": "Seed Bomb",
+			"tm": true
+		},
+		{
+			"move": "Nasty Plot",
+			"tm": true
+		},
+		{
+			"move": "Gunk Shot",
+			"tm": true
+		},
+		{
+			"move": "Iron Head",
+			"tm": true
+		},
+		{
+			"move": "Foul Play",
+			"tm": true
+		},
+		{
+			"move": "Work Up",
+			"tm": true
+		},
+		{
+			"move": "Play Rough",
+			"tm": true
+		},
+		{
+			"move": "Throat Chop",
+			"tm": true
+		},
+		{
+			"move": "Spite",
+			"egg_move": true
+		},
+		{
+			"move": "Double-Edge",
+			"egg_move": true
+		},
+		{
+			"move": "Curse",
+			"egg_move": true
+		},
+		{
+			"move": "Flail",
+			"egg_move": true
+		},
+		{
+			"move": "Night Slash",
+			"egg_move": true
+		},
+		{
+			"move": "Covet",
+			"egg_move": true
+		}
+	]
 }

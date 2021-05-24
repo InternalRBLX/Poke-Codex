@@ -1,8 +1,8 @@
 {
-    "name": "Clear Bell",
-    "sell_price": null,
-    "holdable": false,
-    "battle": false,
-    "category": "Key Item",
-    "subcategory": "Event"
+	"name": "Clear Bell",
+	"sell_price": null,
+	"holdable": false,
+	"battle": false,
+	"category": "Key Item",
+	"subcategory": "Event"
 }

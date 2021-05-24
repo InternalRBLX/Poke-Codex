@@ -1,8 +1,8 @@
 {
-    "name": "Rock Memory",
-    "sell_price": 500,
-    "holdable": true,
-    "battle": false,
-    "category": "Item",
-    "subcategory": "Memory"
+	"name": "Rock Memory",
+	"sell_price": 500,
+	"holdable": true,
+	"battle": false,
+	"category": "Item",
+	"subcategory": "Memory"
 }

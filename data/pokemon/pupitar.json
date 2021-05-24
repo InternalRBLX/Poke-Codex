@@ -1,316 +1,308 @@
 {
-    "name": "Pupitar",
-    "national_id": 247,
-    "types": [
-        "Rock",
-        "Ground"
-    ],
-    "abilities": [
-        {
-            "name": "Shed Skin"
-        }
-    ],
-    "catch_rate": 45,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Monster"
-    ],
-    "hatch_time": [
-        10455,
-        10709
-    ],
-    "height_us": "3'11\"",
-    "height_eu": "1.2 m",
-    "weight_us": "335.1 lbs.",
-    "weight_eu": "152.0 kg",
-    "base_exp_yield": 144,
-    "leveling_rate": "Slow",
-    "base_friendship": 35,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 2,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 70,
-        "atk": 84,
-        "def": 70,
-        "sp_atk": 65,
-        "sp_def": 70,
-        "speed": 51
-    },
-    "evolution_from": "Larvitar",
-    "evolutions": [
-        {
-            "to": "Tyranitar",
-            "level": 55
-        }
-    ],
-    "species": "Hard Shell Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "It will not stay still, even while it’s a pupa. It already has arms and legs under its solid shell.",
-    "move_learnset": [
-        {
-            "move": "Iron Defense",
-            "evo": true
-        },
-        {
-            "move": "Iron Defense",
-            "level": 1
-        },
-        {
-            "move": "Tackle",
-            "level": 1
-        },
-        {
-            "move": "Leer",
-            "level": 1
-        },
-        {
-            "move": "Rock Throw",
-            "level": 1
-        },
-        {
-            "move": "Payback",
-            "level": 1
-        },
-        {
-            "move": "Bite",
-            "level": 9
-        },
-        {
-            "move": "Scary Face",
-            "level": 12
-        },
-        {
-            "move": "Rock Slide",
-            "level": 15
-        },
-        {
-            "move": "Stomping Tantrum",
-            "level": 18
-        },
-        {
-            "move": "Screech",
-            "level": 21
-        },
-        {
-            "move": "Dark Pulse",
-            "level": 24
-        },
-        {
-            "move": "Crunch",
-            "level": 27
-        },
-        {
-            "move": "Earthquake",
-            "level": 33
-        },
-        {
-            "move": "Stone Edge",
-            "level": 37
-        },
-        {
-            "move": "Thrash",
-            "level": 42
-        },
-        {
-            "move": "Sandstorm",
-            "level": 47
-        },
-        {
-            "move": "Hyper Beam",
-            "level": 52
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": true
-        },
-        {
-            "move": "Dig",
-            "tm": true
-        },
-        {
-            "move": "Screech",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Rock Slide",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Scary Face",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Sandstorm",
-            "tm": true
-        },
-        {
-            "move": "Rain Dance",
-            "tm": true
-        },
-        {
-            "move": "Sunny Day",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Brick Break",
-            "tm": true
-        },
-        {
-            "move": "Rock Tomb",
-            "tm": true
-        },
-        {
-            "move": "Sand Tomb",
-            "tm": true
-        },
-        {
-            "move": "Payback",
-            "tm": true
-        },
-        {
-            "move": "Assurance",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Retaliate",
-            "tm": true
-        },
-        {
-            "move": "Bulldoze",
-            "tm": true
-        },
-        {
-            "move": "Snarl",
-            "tm": true
-        },
-        {
-            "move": "Stomping Tantrum",
-            "tm": true
-        },
-        {
-            "move": "Body Slam",
-            "tm": true
-        },
-        {
-            "move": "Earthquake",
-            "tm": true
-        },
-        {
-            "move": "Focus Energy",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Outrage",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Iron Tail",
-            "tm": true
-        },
-        {
-            "move": "Crunch",
-            "tm": true
-        },
-        {
-            "move": "Uproar",
-            "tm": true
-        },
-        {
-            "move": "Taunt",
-            "tm": true
-        },
-        {
-            "move": "Superpower",
-            "tm": true
-        },
-        {
-            "move": "Muddy Water",
-            "tm": true
-        },
-        {
-            "move": "Iron Defense",
-            "tm": true
-        },
-        {
-            "move": "Dragon Dance",
-            "tm": true
-        },
-        {
-            "move": "Dark Pulse",
-            "tm": true
-        },
-        {
-            "move": "Earth Power",
-            "tm": true
-        },
-        {
-            "move": "Iron Head",
-            "tm": true
-        },
-        {
-            "move": "Stone Edge",
-            "tm": true
-        },
-        {
-            "move": "Stealth Rock",
-            "tm": true
-        },
-        {
-            "move": "Stomp",
-            "egg_move": true
-        },
-        {
-            "move": "Ancient Power",
-            "egg_move": true
-        },
-        {
-            "move": "Curse",
-            "egg_move": true
-        }
-    ]
+	"name": "Pupitar",
+	"national_id": 247,
+	"types": ["Rock", "Ground"],
+	"abilities": [
+		{
+			"name": "Shed Skin"
+		}
+	],
+	"catch_rate": 45,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Monster"],
+	"hatch_time": [10455, 10709],
+	"height_us": "3'11\"",
+	"height_eu": "1.2 m",
+	"weight_us": "335.1 lbs.",
+	"weight_eu": "152.0 kg",
+	"base_exp_yield": 144,
+	"leveling_rate": "Slow",
+	"base_friendship": 35,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 2,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 70,
+		"atk": 84,
+		"def": 70,
+		"sp_atk": 65,
+		"sp_def": 70,
+		"speed": 51
+	},
+	"evolution_from": "Larvitar",
+	"evolutions": [
+		{
+			"to": "Tyranitar",
+			"level": 55
+		}
+	],
+	"species": "Hard Shell Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "It will not stay still, even while it’s a pupa. It already has arms and legs under its solid shell.",
+	"move_learnset": [
+		{
+			"move": "Iron Defense",
+			"evo": true
+		},
+		{
+			"move": "Iron Defense",
+			"level": 1
+		},
+		{
+			"move": "Tackle",
+			"level": 1
+		},
+		{
+			"move": "Leer",
+			"level": 1
+		},
+		{
+			"move": "Rock Throw",
+			"level": 1
+		},
+		{
+			"move": "Payback",
+			"level": 1
+		},
+		{
+			"move": "Bite",
+			"level": 9
+		},
+		{
+			"move": "Scary Face",
+			"level": 12
+		},
+		{
+			"move": "Rock Slide",
+			"level": 15
+		},
+		{
+			"move": "Stomping Tantrum",
+			"level": 18
+		},
+		{
+			"move": "Screech",
+			"level": 21
+		},
+		{
+			"move": "Dark Pulse",
+			"level": 24
+		},
+		{
+			"move": "Crunch",
+			"level": 27
+		},
+		{
+			"move": "Earthquake",
+			"level": 33
+		},
+		{
+			"move": "Stone Edge",
+			"level": 37
+		},
+		{
+			"move": "Thrash",
+			"level": 42
+		},
+		{
+			"move": "Sandstorm",
+			"level": 47
+		},
+		{
+			"move": "Hyper Beam",
+			"level": 52
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": true
+		},
+		{
+			"move": "Dig",
+			"tm": true
+		},
+		{
+			"move": "Screech",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Rock Slide",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Scary Face",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Sandstorm",
+			"tm": true
+		},
+		{
+			"move": "Rain Dance",
+			"tm": true
+		},
+		{
+			"move": "Sunny Day",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Brick Break",
+			"tm": true
+		},
+		{
+			"move": "Rock Tomb",
+			"tm": true
+		},
+		{
+			"move": "Sand Tomb",
+			"tm": true
+		},
+		{
+			"move": "Payback",
+			"tm": true
+		},
+		{
+			"move": "Assurance",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Retaliate",
+			"tm": true
+		},
+		{
+			"move": "Bulldoze",
+			"tm": true
+		},
+		{
+			"move": "Snarl",
+			"tm": true
+		},
+		{
+			"move": "Stomping Tantrum",
+			"tm": true
+		},
+		{
+			"move": "Body Slam",
+			"tm": true
+		},
+		{
+			"move": "Earthquake",
+			"tm": true
+		},
+		{
+			"move": "Focus Energy",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Outrage",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Iron Tail",
+			"tm": true
+		},
+		{
+			"move": "Crunch",
+			"tm": true
+		},
+		{
+			"move": "Uproar",
+			"tm": true
+		},
+		{
+			"move": "Taunt",
+			"tm": true
+		},
+		{
+			"move": "Superpower",
+			"tm": true
+		},
+		{
+			"move": "Muddy Water",
+			"tm": true
+		},
+		{
+			"move": "Iron Defense",
+			"tm": true
+		},
+		{
+			"move": "Dragon Dance",
+			"tm": true
+		},
+		{
+			"move": "Dark Pulse",
+			"tm": true
+		},
+		{
+			"move": "Earth Power",
+			"tm": true
+		},
+		{
+			"move": "Iron Head",
+			"tm": true
+		},
+		{
+			"move": "Stone Edge",
+			"tm": true
+		},
+		{
+			"move": "Stealth Rock",
+			"tm": true
+		},
+		{
+			"move": "Stomp",
+			"egg_move": true
+		},
+		{
+			"move": "Ancient Power",
+			"egg_move": true
+		},
+		{
+			"move": "Curse",
+			"egg_move": true
+		}
+	]
 }

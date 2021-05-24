@@ -1,381 +1,372 @@
 {
-    "name": "Mawile",
-    "national_id": 303,
-    "types": [
-        "Steel",
-        "Fairy"
-    ],
-    "items": [
-        {
-            "name": "Iron Ball",
-            "chance": 5
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Hyper Cutter"
-        },
-        {
-            "name": "Intimidate"
-        },
-        {
-            "name": "Sheer Force",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 45,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Field",
-        "Fairy"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "2'00\"",
-    "height_eu": "0.6 m",
-    "weight_us": "25.4 lbs.",
-    "weight_eu": "11.5 kg",
-    "base_exp_yield": 133,
-    "leveling_rate": "Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 1,
-        "def": 1,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 50,
-        "atk": 85,
-        "def": 85,
-        "sp_atk": 55,
-        "sp_def": 55,
-        "speed": 50
-    },
-    "evolution_from": null,
-    "evolutions": [],
-    "species": "Deceiver Pokémon",
-    "mega_evolves": true,
-    "pokedex_entry": "It chomps with its gaping mouth. Its huge jaws are actually steel horns that have been transformed.",
-    "move_learnset": [
-        {
-            "move": "Astonish",
-            "level": 1
-        },
-        {
-            "move": "Growl",
-            "level": 1
-        },
-        {
-            "move": "Fairy Wind",
-            "level": 4
-        },
-        {
-            "move": "Baton Pass",
-            "level": 8
-        },
-        {
-            "move": "Bite",
-            "level": 12
-        },
-        {
-            "move": "Stockpile",
-            "level": 16
-        },
-        {
-            "move": "Swallow",
-            "level": 16
-        },
-        {
-            "move": "Spit Up",
-            "level": 16
-        },
-        {
-            "move": "Sucker Punch",
-            "level": 20
-        },
-        {
-            "move": "Iron Defense",
-            "level": 24
-        },
-        {
-            "move": "Crunch",
-            "level": 28
-        },
-        {
-            "move": "Sweet Scent",
-            "level": 32
-        },
-        {
-            "move": "Iron Head",
-            "level": 36
-        },
-        {
-            "move": "Taunt",
-            "level": 40
-        },
-        {
-            "move": "Fake Tears",
-            "level": 44
-        },
-        {
-            "move": "Play Rough",
-            "level": 48
-        },
-        {
-            "move": "Mega Punch",
-            "tm": true
-        },
-        {
-            "move": "Mega Kick",
-            "tm": true
-        },
-        {
-            "move": "Ice Punch",
-            "tm": true
-        },
-        {
-            "move": "Thunder Punch",
-            "tm": true
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": true
-        },
-        {
-            "move": "Giga Impact",
-            "tm": true
-        },
-        {
-            "move": "Solar Beam",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Rock Slide",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Icy Wind",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Sandstorm",
-            "tm": true
-        },
-        {
-            "move": "Rain Dance",
-            "tm": true
-        },
-        {
-            "move": "Sunny Day",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Helping Hand",
-            "tm": true
-        },
-        {
-            "move": "Brick Break",
-            "tm": true
-        },
-        {
-            "move": "Fake Tears",
-            "tm": true
-        },
-        {
-            "move": "Rock Tomb",
-            "tm": true
-        },
-        {
-            "move": "Payback",
-            "tm": true
-        },
-        {
-            "move": "Assurance",
-            "tm": true
-        },
-        {
-            "move": "Fling",
-            "tm": true
-        },
-        {
-            "move": "Guard Swap",
-            "tm": true
-        },
-        {
-            "move": "Thunder Fang",
-            "tm": true
-        },
-        {
-            "move": "Ice Fang",
-            "tm": true
-        },
-        {
-            "move": "Fire Fang",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Draining Kiss",
-            "tm": true
-        },
-        {
-            "move": "Misty Terrain",
-            "tm": true
-        },
-        {
-            "move": "False Swipe",
-            "tm": true
-        },
-        {
-            "move": "Brutal Swing",
-            "tm": true
-        },
-        {
-            "move": "Swords Dance",
-            "tm": true
-        },
-        {
-            "move": "Body Slam",
-            "tm": true
-        },
-        {
-            "move": "Flamethrower",
-            "tm": true
-        },
-        {
-            "move": "Ice Beam",
-            "tm": true
-        },
-        {
-            "move": "Fire Blast",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Sludge Bomb",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Baton Pass",
-            "tm": true
-        },
-        {
-            "move": "Crunch",
-            "tm": true
-        },
-        {
-            "move": "Shadow Ball",
-            "tm": true
-        },
-        {
-            "move": "Taunt",
-            "tm": true
-        },
-        {
-            "move": "Iron Defense",
-            "tm": true
-        },
-        {
-            "move": "Dark Pulse",
-            "tm": true
-        },
-        {
-            "move": "Focus Blast",
-            "tm": true
-        },
-        {
-            "move": "Flash Cannon",
-            "tm": true
-        },
-        {
-            "move": "Iron Head",
-            "tm": true
-        },
-        {
-            "move": "Stone Edge",
-            "tm": true
-        },
-        {
-            "move": "Stealth Rock",
-            "tm": true
-        },
-        {
-            "move": "Grass Knot",
-            "tm": true
-        },
-        {
-            "move": "Foul Play",
-            "tm": true
-        },
-        {
-            "move": "Play Rough",
-            "tm": true
-        },
-        {
-            "move": "Psychic Fangs",
-            "tm": true
-        },
-        {
-            "move": "Ancient Power",
-            "egg_move": true
-        },
-        {
-            "move": "Tickle",
-            "egg_move": true
-        },
-        {
-            "move": "Slam",
-            "egg_move": true
-        },
-        {
-            "move": "Seismic Toss",
-            "egg_move": true
-        },
-        {
-            "move": "Power-Up Punch",
-            "egg_move": true
-        }
-    ]
+	"name": "Mawile",
+	"national_id": 303,
+	"types": ["Steel", "Fairy"],
+	"items": [
+		{
+			"name": "Iron Ball",
+			"chance": 5
+		}
+	],
+	"abilities": [
+		{
+			"name": "Hyper Cutter"
+		},
+		{
+			"name": "Intimidate"
+		},
+		{
+			"name": "Sheer Force",
+			"hidden": true
+		}
+	],
+	"catch_rate": 45,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Field", "Fairy"],
+	"hatch_time": [5355, 5609],
+	"height_us": "2'00\"",
+	"height_eu": "0.6 m",
+	"weight_us": "25.4 lbs.",
+	"weight_eu": "11.5 kg",
+	"base_exp_yield": 133,
+	"leveling_rate": "Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 1,
+		"def": 1,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 50,
+		"atk": 85,
+		"def": 85,
+		"sp_atk": 55,
+		"sp_def": 55,
+		"speed": 50
+	},
+	"evolution_from": null,
+	"evolutions": [],
+	"species": "Deceiver Pokémon",
+	"mega_evolves": true,
+	"pokedex_entry": "It chomps with its gaping mouth. Its huge jaws are actually steel horns that have been transformed.",
+	"move_learnset": [
+		{
+			"move": "Astonish",
+			"level": 1
+		},
+		{
+			"move": "Growl",
+			"level": 1
+		},
+		{
+			"move": "Fairy Wind",
+			"level": 4
+		},
+		{
+			"move": "Baton Pass",
+			"level": 8
+		},
+		{
+			"move": "Bite",
+			"level": 12
+		},
+		{
+			"move": "Stockpile",
+			"level": 16
+		},
+		{
+			"move": "Swallow",
+			"level": 16
+		},
+		{
+			"move": "Spit Up",
+			"level": 16
+		},
+		{
+			"move": "Sucker Punch",
+			"level": 20
+		},
+		{
+			"move": "Iron Defense",
+			"level": 24
+		},
+		{
+			"move": "Crunch",
+			"level": 28
+		},
+		{
+			"move": "Sweet Scent",
+			"level": 32
+		},
+		{
+			"move": "Iron Head",
+			"level": 36
+		},
+		{
+			"move": "Taunt",
+			"level": 40
+		},
+		{
+			"move": "Fake Tears",
+			"level": 44
+		},
+		{
+			"move": "Play Rough",
+			"level": 48
+		},
+		{
+			"move": "Mega Punch",
+			"tm": true
+		},
+		{
+			"move": "Mega Kick",
+			"tm": true
+		},
+		{
+			"move": "Ice Punch",
+			"tm": true
+		},
+		{
+			"move": "Thunder Punch",
+			"tm": true
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": true
+		},
+		{
+			"move": "Giga Impact",
+			"tm": true
+		},
+		{
+			"move": "Solar Beam",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Rock Slide",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Icy Wind",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Sandstorm",
+			"tm": true
+		},
+		{
+			"move": "Rain Dance",
+			"tm": true
+		},
+		{
+			"move": "Sunny Day",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Helping Hand",
+			"tm": true
+		},
+		{
+			"move": "Brick Break",
+			"tm": true
+		},
+		{
+			"move": "Fake Tears",
+			"tm": true
+		},
+		{
+			"move": "Rock Tomb",
+			"tm": true
+		},
+		{
+			"move": "Payback",
+			"tm": true
+		},
+		{
+			"move": "Assurance",
+			"tm": true
+		},
+		{
+			"move": "Fling",
+			"tm": true
+		},
+		{
+			"move": "Guard Swap",
+			"tm": true
+		},
+		{
+			"move": "Thunder Fang",
+			"tm": true
+		},
+		{
+			"move": "Ice Fang",
+			"tm": true
+		},
+		{
+			"move": "Fire Fang",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Draining Kiss",
+			"tm": true
+		},
+		{
+			"move": "Misty Terrain",
+			"tm": true
+		},
+		{
+			"move": "False Swipe",
+			"tm": true
+		},
+		{
+			"move": "Brutal Swing",
+			"tm": true
+		},
+		{
+			"move": "Swords Dance",
+			"tm": true
+		},
+		{
+			"move": "Body Slam",
+			"tm": true
+		},
+		{
+			"move": "Flamethrower",
+			"tm": true
+		},
+		{
+			"move": "Ice Beam",
+			"tm": true
+		},
+		{
+			"move": "Fire Blast",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Sludge Bomb",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Baton Pass",
+			"tm": true
+		},
+		{
+			"move": "Crunch",
+			"tm": true
+		},
+		{
+			"move": "Shadow Ball",
+			"tm": true
+		},
+		{
+			"move": "Taunt",
+			"tm": true
+		},
+		{
+			"move": "Iron Defense",
+			"tm": true
+		},
+		{
+			"move": "Dark Pulse",
+			"tm": true
+		},
+		{
+			"move": "Focus Blast",
+			"tm": true
+		},
+		{
+			"move": "Flash Cannon",
+			"tm": true
+		},
+		{
+			"move": "Iron Head",
+			"tm": true
+		},
+		{
+			"move": "Stone Edge",
+			"tm": true
+		},
+		{
+			"move": "Stealth Rock",
+			"tm": true
+		},
+		{
+			"move": "Grass Knot",
+			"tm": true
+		},
+		{
+			"move": "Foul Play",
+			"tm": true
+		},
+		{
+			"move": "Play Rough",
+			"tm": true
+		},
+		{
+			"move": "Psychic Fangs",
+			"tm": true
+		},
+		{
+			"move": "Ancient Power",
+			"egg_move": true
+		},
+		{
+			"move": "Tickle",
+			"egg_move": true
+		},
+		{
+			"move": "Slam",
+			"egg_move": true
+		},
+		{
+			"move": "Seismic Toss",
+			"egg_move": true
+		},
+		{
+			"move": "Power-Up Punch",
+			"egg_move": true
+		}
+	]
 }

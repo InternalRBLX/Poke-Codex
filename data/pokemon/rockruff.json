@@ -1,234 +1,227 @@
 {
-    "name": "Rockruff",
-    "national_id": 744,
-    "types": [
-        "Rock"
-    ],
-    "abilities": [
-        {
-            "name": "Keen Eye"
-        },
-        {
-            "name": "Vital Spirit"
-        },
-        {
-            "name": "Steadfast",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 190,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Field"
-    ],
-    "hatch_time": [
-        3855,
-        4111
-    ],
-    "height_us": "1'08\"",
-    "height_eu": "0.5 m",
-    "weight_us": "20.3 lbs.",
-    "weight_eu": "9.2 kg",
-    "base_exp_yield": 56,
-    "leveling_rate": "Medium Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 1,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 45,
-        "atk": 65,
-        "def": 40,
-        "sp_atk": 30,
-        "sp_def": 40,
-        "speed": 60
-    },
-    "evolution_from": null,
-    "evolutions": [
-        {
-            "to": "Lycanroc",
-            "level": 25
-        }
-    ],
-    "species": "Puppy Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "As they develop, their disposition grows more violent and aggressive. Many Trainers find them too much to handle and abandon them.",
-    "move_learnset": [
-        {
-            "move": "Leer",
-            "level": 1
-        },
-        {
-            "move": "Tackle",
-            "level": 1
-        },
-        {
-            "move": "Sand Attack",
-            "level": 4
-        },
-        {
-            "move": "Bite",
-            "level": 7
-        },
-        {
-            "move": "Howl",
-            "level": 12
-        },
-        {
-            "move": "Rock Throw",
-            "level": 15
-        },
-        {
-            "move": "Odor Sleuth",
-            "level": 18
-        },
-        {
-            "move": "Rock Tomb",
-            "level": 23
-        },
-        {
-            "move": "Roar",
-            "level": 26
-        },
-        {
-            "move": "Stealth Rock",
-            "level": 29
-        },
-        {
-            "move": "Rock Slide",
-            "level": 34
-        },
-        {
-            "move": "Scary Face",
-            "level": 37
-        },
-        {
-            "move": "Crunch",
-            "level": 40
-        },
-        {
-            "move": "Rock Climb",
-            "level": 45
-        },
-        {
-            "move": "Stone Edge",
-            "level": 48
-        },
-        {
-            "move": "Crush Claw",
-            "egg_move": true
-        },
-        {
-            "move": "Fire Fang",
-            "egg_move": true
-        },
-        {
-            "move": "Sucker Punch",
-            "egg_move": true
-        },
-        {
-            "move": "Thrash",
-            "egg_move": true
-        },
-        {
-            "move": "Thunder Fang",
-            "egg_move": true
-        },
-        {
-            "move": "Roar",
-            "tm": "TM5"
-        },
-        {
-            "move": "Toxic",
-            "tm": "TM6"
-        },
-        {
-            "move": "Hidden Power",
-            "tm": "TM10"
-        },
-        {
-            "move": "Taunt",
-            "tm": "TM12"
-        },
-        {
-            "move": "Protect",
-            "tm": "TM17"
-        },
-        {
-            "move": "Frustration",
-            "tm": "TM21"
-        },
-        {
-            "move": "Return",
-            "tm": "TM27"
-        },
-        {
-            "move": "Double Team",
-            "tm": "TM32"
-        },
-        {
-            "move": "Rock Tomb",
-            "tm": "TM39"
-        },
-        {
-            "move": "Facade",
-            "tm": "TM42"
-        },
-        {
-            "move": "Rest",
-            "tm": "TM44"
-        },
-        {
-            "move": "Attract",
-            "tm": "TM45"
-        },
-        {
-            "move": "Round",
-            "tm": "TM48"
-        },
-        {
-            "move": "Echoed Voice",
-            "tm": "TM49"
-        },
-        {
-            "move": "Rock Polish",
-            "tm": "TM69"
-        },
-        {
-            "move": "Stone Edge",
-            "tm": "TM71"
-        },
-        {
-            "move": "Rock Slide",
-            "tm": "TM80"
-        },
-        {
-            "move": "Swagger",
-            "tm": "TM87"
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": "TM88"
-        },
-        {
-            "move": "Substitute",
-            "tm": "TM90"
-        },
-        {
-            "move": "Snarl",
-            "tm": "TM95"
-        },
-        {
-            "move": "Confide",
-            "tm": "TM100"
-        }
-    ]
+	"name": "Rockruff",
+	"national_id": 744,
+	"types": ["Rock"],
+	"abilities": [
+		{
+			"name": "Keen Eye"
+		},
+		{
+			"name": "Vital Spirit"
+		},
+		{
+			"name": "Steadfast",
+			"hidden": true
+		}
+	],
+	"catch_rate": 190,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Field"],
+	"hatch_time": [3855, 4111],
+	"height_us": "1'08\"",
+	"height_eu": "0.5 m",
+	"weight_us": "20.3 lbs.",
+	"weight_eu": "9.2 kg",
+	"base_exp_yield": 56,
+	"leveling_rate": "Medium Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 1,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 45,
+		"atk": 65,
+		"def": 40,
+		"sp_atk": 30,
+		"sp_def": 40,
+		"speed": 60
+	},
+	"evolution_from": null,
+	"evolutions": [
+		{
+			"to": "Lycanroc",
+			"level": 25
+		}
+	],
+	"species": "Puppy Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "As they develop, their disposition grows more violent and aggressive. Many Trainers find them too much to handle and abandon them.",
+	"move_learnset": [
+		{
+			"move": "Leer",
+			"level": 1
+		},
+		{
+			"move": "Tackle",
+			"level": 1
+		},
+		{
+			"move": "Sand Attack",
+			"level": 4
+		},
+		{
+			"move": "Bite",
+			"level": 7
+		},
+		{
+			"move": "Howl",
+			"level": 12
+		},
+		{
+			"move": "Rock Throw",
+			"level": 15
+		},
+		{
+			"move": "Odor Sleuth",
+			"level": 18
+		},
+		{
+			"move": "Rock Tomb",
+			"level": 23
+		},
+		{
+			"move": "Roar",
+			"level": 26
+		},
+		{
+			"move": "Stealth Rock",
+			"level": 29
+		},
+		{
+			"move": "Rock Slide",
+			"level": 34
+		},
+		{
+			"move": "Scary Face",
+			"level": 37
+		},
+		{
+			"move": "Crunch",
+			"level": 40
+		},
+		{
+			"move": "Rock Climb",
+			"level": 45
+		},
+		{
+			"move": "Stone Edge",
+			"level": 48
+		},
+		{
+			"move": "Crush Claw",
+			"egg_move": true
+		},
+		{
+			"move": "Fire Fang",
+			"egg_move": true
+		},
+		{
+			"move": "Sucker Punch",
+			"egg_move": true
+		},
+		{
+			"move": "Thrash",
+			"egg_move": true
+		},
+		{
+			"move": "Thunder Fang",
+			"egg_move": true
+		},
+		{
+			"move": "Roar",
+			"tm": "TM5"
+		},
+		{
+			"move": "Toxic",
+			"tm": "TM6"
+		},
+		{
+			"move": "Hidden Power",
+			"tm": "TM10"
+		},
+		{
+			"move": "Taunt",
+			"tm": "TM12"
+		},
+		{
+			"move": "Protect",
+			"tm": "TM17"
+		},
+		{
+			"move": "Frustration",
+			"tm": "TM21"
+		},
+		{
+			"move": "Return",
+			"tm": "TM27"
+		},
+		{
+			"move": "Double Team",
+			"tm": "TM32"
+		},
+		{
+			"move": "Rock Tomb",
+			"tm": "TM39"
+		},
+		{
+			"move": "Facade",
+			"tm": "TM42"
+		},
+		{
+			"move": "Rest",
+			"tm": "TM44"
+		},
+		{
+			"move": "Attract",
+			"tm": "TM45"
+		},
+		{
+			"move": "Round",
+			"tm": "TM48"
+		},
+		{
+			"move": "Echoed Voice",
+			"tm": "TM49"
+		},
+		{
+			"move": "Rock Polish",
+			"tm": "TM69"
+		},
+		{
+			"move": "Stone Edge",
+			"tm": "TM71"
+		},
+		{
+			"move": "Rock Slide",
+			"tm": "TM80"
+		},
+		{
+			"move": "Swagger",
+			"tm": "TM87"
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": "TM88"
+		},
+		{
+			"move": "Substitute",
+			"tm": "TM90"
+		},
+		{
+			"move": "Snarl",
+			"tm": "TM95"
+		},
+		{
+			"move": "Confide",
+			"tm": "TM100"
+		}
+	]
 }

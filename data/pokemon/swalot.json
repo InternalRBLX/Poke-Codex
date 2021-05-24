@@ -1,311 +1,304 @@
 {
-    "name": "Swalot",
-    "national_id": 317,
-    "types": [
-        "Poison"
-    ],
-    "items": [
-        {
-            "name": "Sitrus Berry",
-            "chance": 5
-        },
-        {
-            "name": "Oran Berry",
-            "chance": 50
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Liquid Ooze"
-        },
-        {
-            "name": "Sticky Hold"
-        },
-        {
-            "name": "Gluttony",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 75,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Amorphous"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "5'07\"",
-    "height_eu": "1.7 m",
-    "weight_us": "176.4 lbs.",
-    "weight_eu": "80.0 kg",
-    "base_exp_yield": 163,
-    "leveling_rate": "Fluctuating",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 2,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 100,
-        "atk": 73,
-        "def": 83,
-        "sp_atk": 73,
-        "sp_def": 83,
-        "speed": 55
-    },
-    "evolution_from": "Gulpin",
-    "evolutions": [],
-    "species": "Poison Bag Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "Swalot has no teeth, so what it eats, it swallows whole, no matter what. Its cavernous mouth yawns widely. An automobile tire could easily fit inside this Pokémon’s mouth.",
-    "move_learnset": [
-        {
-            "move": "Body Slam",
-            "level": 1
-        },
-        {
-            "move": "Gunk Shot",
-            "level": 1
-        },
-        {
-            "move": "Poison Gas",
-            "level": 1
-        },
-        {
-            "move": "Pound",
-            "level": 1
-        },
-        {
-            "move": "Sludge",
-            "level": 1
-        },
-        {
-            "move": "Venom Drench",
-            "level": 1
-        },
-        {
-            "move": "Wring Out",
-            "level": 1
-        },
-        {
-            "move": "Yawn",
-            "level": 1
-        },
-        {
-            "move": "Yawn",
-            "level": 5
-        },
-        {
-            "move": "Poison Gas",
-            "level": 8
-        },
-        {
-            "move": "Sludge",
-            "level": 10
-        },
-        {
-            "move": "Amnesia",
-            "level": 12
-        },
-        {
-            "move": "Acid Spray",
-            "level": 17
-        },
-        {
-            "move": "Encore",
-            "level": 20
-        },
-        {
-            "move": "Toxic",
-            "level": 25
-        },
-        {
-            "move": "Spit Up",
-            "level": 30
-        },
-        {
-            "move": "Stockpile",
-            "level": 30
-        },
-        {
-            "move": "Swallow",
-            "level": 30
-        },
-        {
-            "move": "Sludge Bomb",
-            "level": 37
-        },
-        {
-            "move": "Gastro Acid",
-            "level": 42
-        },
-        {
-            "move": "Belch",
-            "level": 49
-        },
-        {
-            "move": "Wring Out",
-            "level": 54
-        },
-        {
-            "move": "Gunk Shot",
-            "level": 61
-        },
-        {
-            "move": "Acid Armor",
-            "egg_move": true
-        },
-        {
-            "move": "Curse",
-            "egg_move": true
-        },
-        {
-            "move": "Destiny Bond",
-            "egg_move": true
-        },
-        {
-            "move": "Gunk Shot",
-            "egg_move": true
-        },
-        {
-            "move": "Mud-Slap",
-            "egg_move": true
-        },
-        {
-            "move": "Pain Split",
-            "egg_move": true
-        },
-        {
-            "move": "Smog",
-            "egg_move": true
-        },
-        {
-            "move": "Venom Drench",
-            "egg_move": true
-        },
-        {
-            "move": "Toxic",
-            "tm": "TM6"
-        },
-        {
-            "move": "Venoshock",
-            "tm": "TM9"
-        },
-        {
-            "move": "Hidden Power",
-            "tm": "TM10"
-        },
-        {
-            "move": "Sunny Day",
-            "tm": "TM11"
-        },
-        {
-            "move": "Ice Beam",
-            "tm": "TM13"
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": "TM15"
-        },
-        {
-            "move": "Protect",
-            "tm": "TM17"
-        },
-        {
-            "move": "Rain Dance",
-            "tm": "TM18"
-        },
-        {
-            "move": "Frustration",
-            "tm": "TM21"
-        },
-        {
-            "move": "Solar Beam",
-            "tm": "TM22"
-        },
-        {
-            "move": "Earthquake",
-            "tm": "TM26"
-        },
-        {
-            "move": "Return",
-            "tm": "TM27"
-        },
-        {
-            "move": "Shadow Ball",
-            "tm": "TM30"
-        },
-        {
-            "move": "Double Team",
-            "tm": "TM32"
-        },
-        {
-            "move": "Sludge Wave",
-            "tm": "TM34"
-        },
-        {
-            "move": "Sludge Bomb",
-            "tm": "TM36"
-        },
-        {
-            "move": "Facade",
-            "tm": "TM42"
-        },
-        {
-            "move": "Rest",
-            "tm": "TM44"
-        },
-        {
-            "move": "Attract",
-            "tm": "TM45"
-        },
-        {
-            "move": "Round",
-            "tm": "TM48"
-        },
-        {
-            "move": "Explosion",
-            "tm": "TM64"
-        },
-        {
-            "move": "Giga Impact",
-            "tm": "TM68"
-        },
-        {
-            "move": "Bulldoze",
-            "tm": "TM78"
-        },
-        {
-            "move": "Infestation",
-            "tm": "TM83"
-        },
-        {
-            "move": "Dream Eater",
-            "tm": "TM85"
-        },
-        {
-            "move": "Swagger",
-            "tm": "TM87"
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": "TM88"
-        },
-        {
-            "move": "Substitute",
-            "tm": "TM90"
-        },
-        {
-            "move": "Confide",
-            "tm": "TM100"
-        }
-    ]
+	"name": "Swalot",
+	"national_id": 317,
+	"types": ["Poison"],
+	"items": [
+		{
+			"name": "Sitrus Berry",
+			"chance": 5
+		},
+		{
+			"name": "Oran Berry",
+			"chance": 50
+		}
+	],
+	"abilities": [
+		{
+			"name": "Liquid Ooze"
+		},
+		{
+			"name": "Sticky Hold"
+		},
+		{
+			"name": "Gluttony",
+			"hidden": true
+		}
+	],
+	"catch_rate": 75,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Amorphous"],
+	"hatch_time": [5355, 5609],
+	"height_us": "5'07\"",
+	"height_eu": "1.7 m",
+	"weight_us": "176.4 lbs.",
+	"weight_eu": "80.0 kg",
+	"base_exp_yield": 163,
+	"leveling_rate": "Fluctuating",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 2,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 100,
+		"atk": 73,
+		"def": 83,
+		"sp_atk": 73,
+		"sp_def": 83,
+		"speed": 55
+	},
+	"evolution_from": "Gulpin",
+	"evolutions": [],
+	"species": "Poison Bag Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "Swalot has no teeth, so what it eats, it swallows whole, no matter what. Its cavernous mouth yawns widely. An automobile tire could easily fit inside this Pokémon’s mouth.",
+	"move_learnset": [
+		{
+			"move": "Body Slam",
+			"level": 1
+		},
+		{
+			"move": "Gunk Shot",
+			"level": 1
+		},
+		{
+			"move": "Poison Gas",
+			"level": 1
+		},
+		{
+			"move": "Pound",
+			"level": 1
+		},
+		{
+			"move": "Sludge",
+			"level": 1
+		},
+		{
+			"move": "Venom Drench",
+			"level": 1
+		},
+		{
+			"move": "Wring Out",
+			"level": 1
+		},
+		{
+			"move": "Yawn",
+			"level": 1
+		},
+		{
+			"move": "Yawn",
+			"level": 5
+		},
+		{
+			"move": "Poison Gas",
+			"level": 8
+		},
+		{
+			"move": "Sludge",
+			"level": 10
+		},
+		{
+			"move": "Amnesia",
+			"level": 12
+		},
+		{
+			"move": "Acid Spray",
+			"level": 17
+		},
+		{
+			"move": "Encore",
+			"level": 20
+		},
+		{
+			"move": "Toxic",
+			"level": 25
+		},
+		{
+			"move": "Spit Up",
+			"level": 30
+		},
+		{
+			"move": "Stockpile",
+			"level": 30
+		},
+		{
+			"move": "Swallow",
+			"level": 30
+		},
+		{
+			"move": "Sludge Bomb",
+			"level": 37
+		},
+		{
+			"move": "Gastro Acid",
+			"level": 42
+		},
+		{
+			"move": "Belch",
+			"level": 49
+		},
+		{
+			"move": "Wring Out",
+			"level": 54
+		},
+		{
+			"move": "Gunk Shot",
+			"level": 61
+		},
+		{
+			"move": "Acid Armor",
+			"egg_move": true
+		},
+		{
+			"move": "Curse",
+			"egg_move": true
+		},
+		{
+			"move": "Destiny Bond",
+			"egg_move": true
+		},
+		{
+			"move": "Gunk Shot",
+			"egg_move": true
+		},
+		{
+			"move": "Mud-Slap",
+			"egg_move": true
+		},
+		{
+			"move": "Pain Split",
+			"egg_move": true
+		},
+		{
+			"move": "Smog",
+			"egg_move": true
+		},
+		{
+			"move": "Venom Drench",
+			"egg_move": true
+		},
+		{
+			"move": "Toxic",
+			"tm": "TM6"
+		},
+		{
+			"move": "Venoshock",
+			"tm": "TM9"
+		},
+		{
+			"move": "Hidden Power",
+			"tm": "TM10"
+		},
+		{
+			"move": "Sunny Day",
+			"tm": "TM11"
+		},
+		{
+			"move": "Ice Beam",
+			"tm": "TM13"
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": "TM15"
+		},
+		{
+			"move": "Protect",
+			"tm": "TM17"
+		},
+		{
+			"move": "Rain Dance",
+			"tm": "TM18"
+		},
+		{
+			"move": "Frustration",
+			"tm": "TM21"
+		},
+		{
+			"move": "Solar Beam",
+			"tm": "TM22"
+		},
+		{
+			"move": "Earthquake",
+			"tm": "TM26"
+		},
+		{
+			"move": "Return",
+			"tm": "TM27"
+		},
+		{
+			"move": "Shadow Ball",
+			"tm": "TM30"
+		},
+		{
+			"move": "Double Team",
+			"tm": "TM32"
+		},
+		{
+			"move": "Sludge Wave",
+			"tm": "TM34"
+		},
+		{
+			"move": "Sludge Bomb",
+			"tm": "TM36"
+		},
+		{
+			"move": "Facade",
+			"tm": "TM42"
+		},
+		{
+			"move": "Rest",
+			"tm": "TM44"
+		},
+		{
+			"move": "Attract",
+			"tm": "TM45"
+		},
+		{
+			"move": "Round",
+			"tm": "TM48"
+		},
+		{
+			"move": "Explosion",
+			"tm": "TM64"
+		},
+		{
+			"move": "Giga Impact",
+			"tm": "TM68"
+		},
+		{
+			"move": "Bulldoze",
+			"tm": "TM78"
+		},
+		{
+			"move": "Infestation",
+			"tm": "TM83"
+		},
+		{
+			"move": "Dream Eater",
+			"tm": "TM85"
+		},
+		{
+			"move": "Swagger",
+			"tm": "TM87"
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": "TM88"
+		},
+		{
+			"move": "Substitute",
+			"tm": "TM90"
+		},
+		{
+			"move": "Confide",
+			"tm": "TM100"
+		}
+	]
 }

@@ -1,8 +1,8 @@
 {
-    "name": "Fossilized Dino",
-    "sell_price": 2500,
-    "holdable": false,
-    "battle": false,
-    "category": "Item",
-    "subcategory": "Fossil"
+	"name": "Fossilized Dino",
+	"sell_price": 2500,
+	"holdable": false,
+	"battle": false,
+	"category": "Item",
+	"subcategory": "Fossil"
 }

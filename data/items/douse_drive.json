@@ -1,8 +1,8 @@
 {
-    "name": "Douse Drive",
-    "sell_price": 500,
-    "holdable": true,
-    "battle": false,
-    "category": "Item",
-    "subcategory": "Drive"
+	"name": "Douse Drive",
+	"sell_price": 500,
+	"holdable": true,
+	"battle": false,
+	"category": "Item",
+	"subcategory": "Drive"
 }

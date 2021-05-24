@@ -1,303 +1,295 @@
 {
-    "name": "Ekans",
-    "national_id": 23,
-    "types": [
-        "Poison"
-    ],
-    "abilities": [
-        {
-            "name": "Intimidate"
-        },
-        {
-            "name": "Shed Skin"
-        },
-        {
-            "name": "Unnerve",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 255,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Field",
-        "Dragon"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "6'07\"",
-    "height_eu": "2.0 m",
-    "weight_us": "15.2 lbs.",
-    "weight_eu": "6.9 kg",
-    "base_exp_yield": 58,
-    "leveling_rate": "Medium Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 1,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 35,
-        "atk": 60,
-        "def": 44,
-        "sp_atk": 40,
-        "sp_def": 54,
-        "speed": 55
-    },
-    "evolution_from": null,
-    "evolutions": [
-        {
-            "to": "Arbok",
-            "level": 22
-        }
-    ],
-    "species": "Snake Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "Ekans curls itself up in a spiral while it rests. Assuming this position allows it to quickly respond to a threat from any direction with a glare from its upraised head.",
-    "move_learnset": [
-        {
-            "move": "Leer",
-            "level": 1
-        },
-        {
-            "move": "Wrap",
-            "level": 1
-        },
-        {
-            "move": "Poison Sting",
-            "level": 4
-        },
-        {
-            "move": "Bite",
-            "level": 9
-        },
-        {
-            "move": "Glare",
-            "level": 12
-        },
-        {
-            "move": "Screech",
-            "level": 17
-        },
-        {
-            "move": "Acid",
-            "level": 20
-        },
-        {
-            "move": "Spit Up",
-            "level": 25
-        },
-        {
-            "move": "Stockpile",
-            "level": 25
-        },
-        {
-            "move": "Swallow",
-            "level": 25
-        },
-        {
-            "move": "Acid Spray",
-            "level": 28
-        },
-        {
-            "move": "Mud Bomb",
-            "level": 33
-        },
-        {
-            "move": "Gastro Acid",
-            "level": 36
-        },
-        {
-            "move": "Belch",
-            "level": 38
-        },
-        {
-            "move": "Haze",
-            "level": 41
-        },
-        {
-            "move": "Coil",
-            "level": 44
-        },
-        {
-            "move": "Gunk Shot",
-            "level": 49
-        },
-        {
-            "move": "Beat Up",
-            "egg_move": true
-        },
-        {
-            "move": "Disable",
-            "egg_move": true
-        },
-        {
-            "move": "Iron Tail",
-            "egg_move": true
-        },
-        {
-            "move": "Poison Fang",
-            "egg_move": true
-        },
-        {
-            "move": "Poison Tail",
-            "egg_move": true
-        },
-        {
-            "move": "Pursuit",
-            "egg_move": true
-        },
-        {
-            "move": "Scary Face",
-            "egg_move": true
-        },
-        {
-            "move": "Slam",
-            "egg_move": true
-        },
-        {
-            "move": "Snatch",
-            "egg_move": true
-        },
-        {
-            "move": "Spite",
-            "egg_move": true
-        },
-        {
-            "move": "Sucker Punch",
-            "egg_move": true
-        },
-        {
-            "move": "Switcheroo",
-            "egg_move": true
-        },
-        {
-            "move": "Toxic",
-            "tm": "TM6"
-        },
-        {
-            "move": "Venoshock",
-            "tm": "TM9"
-        },
-        {
-            "move": "Hidden Power",
-            "tm": "TM10"
-        },
-        {
-            "move": "Sunny Day",
-            "tm": "TM11"
-        },
-        {
-            "move": "Protect",
-            "tm": "TM17"
-        },
-        {
-            "move": "Rain Dance",
-            "tm": "TM18"
-        },
-        {
-            "move": "Frustration",
-            "tm": "TM21"
-        },
-        {
-            "move": "Earthquake",
-            "tm": "TM26"
-        },
-        {
-            "move": "Return",
-            "tm": "TM27"
-        },
-        {
-            "move": "Double Team",
-            "tm": "TM32"
-        },
-        {
-            "move": "Sludge Wave",
-            "tm": "TM34"
-        },
-        {
-            "move": "Sludge Bomb",
-            "tm": "TM36"
-        },
-        {
-            "move": "Rock Tomb",
-            "tm": "TM39"
-        },
-        {
-            "move": "Torment",
-            "tm": "TM41"
-        },
-        {
-            "move": "Facade",
-            "tm": "TM42"
-        },
-        {
-            "move": "Rest",
-            "tm": "TM44"
-        },
-        {
-            "move": "Attract",
-            "tm": "TM45"
-        },
-        {
-            "move": "Thief",
-            "tm": "TM46"
-        },
-        {
-            "move": "Round",
-            "tm": "TM48"
-        },
-        {
-            "move": "Brutal Swing",
-            "tm": "TM59"
-        },
-        {
-            "move": "Payback",
-            "tm": "TM66"
-        },
-        {
-            "move": "Bulldoze",
-            "tm": "TM78"
-        },
-        {
-            "move": "Rock Slide",
-            "tm": "TM80"
-        },
-        {
-            "move": "Infestation",
-            "tm": "TM83"
-        },
-        {
-            "move": "Poison Jab",
-            "tm": "TM84"
-        },
-        {
-            "move": "Swagger",
-            "tm": "TM87"
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": "TM88"
-        },
-        {
-            "move": "Substitute",
-            "tm": "TM90"
-        },
-        {
-            "move": "Dark Pulse",
-            "tm": "TM97"
-        },
-        {
-            "move": "Confide",
-            "tm": "TM100"
-        }
-    ]
+	"name": "Ekans",
+	"national_id": 23,
+	"types": ["Poison"],
+	"abilities": [
+		{
+			"name": "Intimidate"
+		},
+		{
+			"name": "Shed Skin"
+		},
+		{
+			"name": "Unnerve",
+			"hidden": true
+		}
+	],
+	"catch_rate": 255,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Field", "Dragon"],
+	"hatch_time": [5355, 5609],
+	"height_us": "6'07\"",
+	"height_eu": "2.0 m",
+	"weight_us": "15.2 lbs.",
+	"weight_eu": "6.9 kg",
+	"base_exp_yield": 58,
+	"leveling_rate": "Medium Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 1,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 35,
+		"atk": 60,
+		"def": 44,
+		"sp_atk": 40,
+		"sp_def": 54,
+		"speed": 55
+	},
+	"evolution_from": null,
+	"evolutions": [
+		{
+			"to": "Arbok",
+			"level": 22
+		}
+	],
+	"species": "Snake Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "Ekans curls itself up in a spiral while it rests. Assuming this position allows it to quickly respond to a threat from any direction with a glare from its upraised head.",
+	"move_learnset": [
+		{
+			"move": "Leer",
+			"level": 1
+		},
+		{
+			"move": "Wrap",
+			"level": 1
+		},
+		{
+			"move": "Poison Sting",
+			"level": 4
+		},
+		{
+			"move": "Bite",
+			"level": 9
+		},
+		{
+			"move": "Glare",
+			"level": 12
+		},
+		{
+			"move": "Screech",
+			"level": 17
+		},
+		{
+			"move": "Acid",
+			"level": 20
+		},
+		{
+			"move": "Spit Up",
+			"level": 25
+		},
+		{
+			"move": "Stockpile",
+			"level": 25
+		},
+		{
+			"move": "Swallow",
+			"level": 25
+		},
+		{
+			"move": "Acid Spray",
+			"level": 28
+		},
+		{
+			"move": "Mud Bomb",
+			"level": 33
+		},
+		{
+			"move": "Gastro Acid",
+			"level": 36
+		},
+		{
+			"move": "Belch",
+			"level": 38
+		},
+		{
+			"move": "Haze",
+			"level": 41
+		},
+		{
+			"move": "Coil",
+			"level": 44
+		},
+		{
+			"move": "Gunk Shot",
+			"level": 49
+		},
+		{
+			"move": "Beat Up",
+			"egg_move": true
+		},
+		{
+			"move": "Disable",
+			"egg_move": true
+		},
+		{
+			"move": "Iron Tail",
+			"egg_move": true
+		},
+		{
+			"move": "Poison Fang",
+			"egg_move": true
+		},
+		{
+			"move": "Poison Tail",
+			"egg_move": true
+		},
+		{
+			"move": "Pursuit",
+			"egg_move": true
+		},
+		{
+			"move": "Scary Face",
+			"egg_move": true
+		},
+		{
+			"move": "Slam",
+			"egg_move": true
+		},
+		{
+			"move": "Snatch",
+			"egg_move": true
+		},
+		{
+			"move": "Spite",
+			"egg_move": true
+		},
+		{
+			"move": "Sucker Punch",
+			"egg_move": true
+		},
+		{
+			"move": "Switcheroo",
+			"egg_move": true
+		},
+		{
+			"move": "Toxic",
+			"tm": "TM6"
+		},
+		{
+			"move": "Venoshock",
+			"tm": "TM9"
+		},
+		{
+			"move": "Hidden Power",
+			"tm": "TM10"
+		},
+		{
+			"move": "Sunny Day",
+			"tm": "TM11"
+		},
+		{
+			"move": "Protect",
+			"tm": "TM17"
+		},
+		{
+			"move": "Rain Dance",
+			"tm": "TM18"
+		},
+		{
+			"move": "Frustration",
+			"tm": "TM21"
+		},
+		{
+			"move": "Earthquake",
+			"tm": "TM26"
+		},
+		{
+			"move": "Return",
+			"tm": "TM27"
+		},
+		{
+			"move": "Double Team",
+			"tm": "TM32"
+		},
+		{
+			"move": "Sludge Wave",
+			"tm": "TM34"
+		},
+		{
+			"move": "Sludge Bomb",
+			"tm": "TM36"
+		},
+		{
+			"move": "Rock Tomb",
+			"tm": "TM39"
+		},
+		{
+			"move": "Torment",
+			"tm": "TM41"
+		},
+		{
+			"move": "Facade",
+			"tm": "TM42"
+		},
+		{
+			"move": "Rest",
+			"tm": "TM44"
+		},
+		{
+			"move": "Attract",
+			"tm": "TM45"
+		},
+		{
+			"move": "Thief",
+			"tm": "TM46"
+		},
+		{
+			"move": "Round",
+			"tm": "TM48"
+		},
+		{
+			"move": "Brutal Swing",
+			"tm": "TM59"
+		},
+		{
+			"move": "Payback",
+			"tm": "TM66"
+		},
+		{
+			"move": "Bulldoze",
+			"tm": "TM78"
+		},
+		{
+			"move": "Rock Slide",
+			"tm": "TM80"
+		},
+		{
+			"move": "Infestation",
+			"tm": "TM83"
+		},
+		{
+			"move": "Poison Jab",
+			"tm": "TM84"
+		},
+		{
+			"move": "Swagger",
+			"tm": "TM87"
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": "TM88"
+		},
+		{
+			"move": "Substitute",
+			"tm": "TM90"
+		},
+		{
+			"move": "Dark Pulse",
+			"tm": "TM97"
+		},
+		{
+			"move": "Confide",
+			"tm": "TM100"
+		}
+	]
 }

@@ -1,8 +1,8 @@
 {
-    "name": "Meadow Plate",
-    "sell_price": 500,
-    "holdable": true,
-    "battle": false,
-    "category": "Item",
-    "subcategory": "Plate"
+	"name": "Meadow Plate",
+	"sell_price": 500,
+	"holdable": true,
+	"battle": false,
+	"category": "Item",
+	"subcategory": "Plate"
 }

@@ -1,8 +1,8 @@
 {
-    "name": "Pomeg Berry",
-    "sell_price": 100,
-    "holdable": true,
-    "battle": false,
-    "category": "Berry",
-    "subcategory": "Berry"
+	"name": "Pomeg Berry",
+	"sell_price": 100,
+	"holdable": true,
+	"battle": false,
+	"category": "Berry",
+	"subcategory": "Berry"
 }

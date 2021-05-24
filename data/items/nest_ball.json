@@ -1,8 +1,8 @@
 {
-    "name": "Nest Ball",
-    "sell_price": 500,
-    "holdable": true,
-    "battle": true,
-    "category": "Ball",
-    "subcategory": "Ball"
+	"name": "Nest Ball",
+	"sell_price": 500,
+	"holdable": true,
+	"battle": true,
+	"category": "Ball",
+	"subcategory": "Ball"
 }

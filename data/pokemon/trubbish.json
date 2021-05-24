@@ -1,268 +1,261 @@
 {
-    "name": "Trubbish",
-    "national_id": 568,
-    "types": [
-        "Poison"
-    ],
-    "items": [
-        {
-            "name": "Silk Scarf",
-            "chance": 5
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Stench"
-        },
-        {
-            "name": "Sticky Hold"
-        },
-        {
-            "name": "Aftermath",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 190,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Mineral"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "2'00\"",
-    "height_eu": "0.6 m",
-    "weight_us": "68.3 lbs.",
-    "weight_eu": "31.0 kg",
-    "base_exp_yield": 66,
-    "leveling_rate": "Medium Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 1
-    },
-    "base_stats": {
-        "hp": 50,
-        "atk": 50,
-        "def": 62,
-        "sp_atk": 40,
-        "sp_def": 62,
-        "speed": 65
-    },
-    "evolution_from": null,
-    "evolutions": [
-        {
-            "to": "Garbodor",
-            "level": 36
-        }
-    ],
-    "species": "Trash Bag Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "This Pokémon was born from a bag stuffed with trash. Galarian Weezing relish the fumes belched by Trubbish.",
-    "move_learnset": [
-        {
-            "move": "Pound",
-            "level": 1
-        },
-        {
-            "move": "Poison Gas",
-            "level": 1
-        },
-        {
-            "move": "Recycle",
-            "level": 3
-        },
-        {
-            "move": "Acid Spray",
-            "level": 6
-        },
-        {
-            "move": "Amnesia",
-            "level": 9
-        },
-        {
-            "move": "Clear Smog",
-            "level": 12
-        },
-        {
-            "move": "Toxic Spikes",
-            "level": 15
-        },
-        {
-            "move": "Sludge",
-            "level": 18
-        },
-        {
-            "move": "Stockpile",
-            "level": 21
-        },
-        {
-            "move": "Swallow",
-            "level": 21
-        },
-        {
-            "move": "Take Down",
-            "level": 24
-        },
-        {
-            "move": "Sludge Bomb",
-            "level": 27
-        },
-        {
-            "move": "Toxic",
-            "level": 30
-        },
-        {
-            "move": "Belch",
-            "level": 33
-        },
-        {
-            "move": "Pain Split",
-            "level": 37
-        },
-        {
-            "move": "Gunk Shot",
-            "level": 39
-        },
-        {
-            "move": "Explosion",
-            "level": 42
-        },
-        {
-            "move": "Self-Destruct",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Thief",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Giga Drain",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Rain Dance",
-            "tm": true
-        },
-        {
-            "move": "Sunny Day",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Rock Blast",
-            "tm": true
-        },
-        {
-            "move": "Payback",
-            "tm": true
-        },
-        {
-            "move": "Drain Punch",
-            "tm": true
-        },
-        {
-            "move": "Venoshock",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Amnesia",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Sludge Bomb",
-            "tm": true
-        },
-        {
-            "move": "Spikes",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Toxic Spikes",
-            "tm": true
-        },
-        {
-            "move": "Dark Pulse",
-            "tm": true
-        },
-        {
-            "move": "Seed Bomb",
-            "tm": true
-        },
-        {
-            "move": "Gunk Shot",
-            "tm": true
-        },
-        {
-            "move": "Sludge Wave",
-            "tm": true
-        },
-        {
-            "move": "Venom Drench",
-            "tm": true
-        },
-        {
-            "move": "Haze",
-            "egg_move": true
-        },
-        {
-            "move": "Curse",
-            "egg_move": true
-        },
-        {
-            "move": "Sand Attack",
-            "egg_move": true
-        },
-        {
-            "move": "Autotomize",
-            "egg_move": true
-        },
-        {
-            "move": "Rollout",
-            "egg_move": true
-        }
-    ]
+	"name": "Trubbish",
+	"national_id": 568,
+	"types": ["Poison"],
+	"items": [
+		{
+			"name": "Silk Scarf",
+			"chance": 5
+		}
+	],
+	"abilities": [
+		{
+			"name": "Stench"
+		},
+		{
+			"name": "Sticky Hold"
+		},
+		{
+			"name": "Aftermath",
+			"hidden": true
+		}
+	],
+	"catch_rate": 190,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Mineral"],
+	"hatch_time": [5355, 5609],
+	"height_us": "2'00\"",
+	"height_eu": "0.6 m",
+	"weight_us": "68.3 lbs.",
+	"weight_eu": "31.0 kg",
+	"base_exp_yield": 66,
+	"leveling_rate": "Medium Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 1
+	},
+	"base_stats": {
+		"hp": 50,
+		"atk": 50,
+		"def": 62,
+		"sp_atk": 40,
+		"sp_def": 62,
+		"speed": 65
+	},
+	"evolution_from": null,
+	"evolutions": [
+		{
+			"to": "Garbodor",
+			"level": 36
+		}
+	],
+	"species": "Trash Bag Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "This Pokémon was born from a bag stuffed with trash. Galarian Weezing relish the fumes belched by Trubbish.",
+	"move_learnset": [
+		{
+			"move": "Pound",
+			"level": 1
+		},
+		{
+			"move": "Poison Gas",
+			"level": 1
+		},
+		{
+			"move": "Recycle",
+			"level": 3
+		},
+		{
+			"move": "Acid Spray",
+			"level": 6
+		},
+		{
+			"move": "Amnesia",
+			"level": 9
+		},
+		{
+			"move": "Clear Smog",
+			"level": 12
+		},
+		{
+			"move": "Toxic Spikes",
+			"level": 15
+		},
+		{
+			"move": "Sludge",
+			"level": 18
+		},
+		{
+			"move": "Stockpile",
+			"level": 21
+		},
+		{
+			"move": "Swallow",
+			"level": 21
+		},
+		{
+			"move": "Take Down",
+			"level": 24
+		},
+		{
+			"move": "Sludge Bomb",
+			"level": 27
+		},
+		{
+			"move": "Toxic",
+			"level": 30
+		},
+		{
+			"move": "Belch",
+			"level": 33
+		},
+		{
+			"move": "Pain Split",
+			"level": 37
+		},
+		{
+			"move": "Gunk Shot",
+			"level": 39
+		},
+		{
+			"move": "Explosion",
+			"level": 42
+		},
+		{
+			"move": "Self-Destruct",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Thief",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Giga Drain",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Rain Dance",
+			"tm": true
+		},
+		{
+			"move": "Sunny Day",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Rock Blast",
+			"tm": true
+		},
+		{
+			"move": "Payback",
+			"tm": true
+		},
+		{
+			"move": "Drain Punch",
+			"tm": true
+		},
+		{
+			"move": "Venoshock",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Amnesia",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Sludge Bomb",
+			"tm": true
+		},
+		{
+			"move": "Spikes",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Toxic Spikes",
+			"tm": true
+		},
+		{
+			"move": "Dark Pulse",
+			"tm": true
+		},
+		{
+			"move": "Seed Bomb",
+			"tm": true
+		},
+		{
+			"move": "Gunk Shot",
+			"tm": true
+		},
+		{
+			"move": "Sludge Wave",
+			"tm": true
+		},
+		{
+			"move": "Venom Drench",
+			"tm": true
+		},
+		{
+			"move": "Haze",
+			"egg_move": true
+		},
+		{
+			"move": "Curse",
+			"egg_move": true
+		},
+		{
+			"move": "Sand Attack",
+			"egg_move": true
+		},
+		{
+			"move": "Autotomize",
+			"egg_move": true
+		},
+		{
+			"move": "Rollout",
+			"egg_move": true
+		}
+	]
 }

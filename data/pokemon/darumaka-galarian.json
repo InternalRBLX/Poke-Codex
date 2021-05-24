@@ -1,324 +1,317 @@
 {
-    "name": "Darumaka",
-    "national_id": 554,
-    "types": [
-        "Ice"
-    ],
-    "abilities": [
-        {
-            "name": "Hustle"
-        },
-        {
-            "name": "Inner Focus",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 120,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Field"
-    ],
-    "hatch_time": [
-        5140,
-        5396
-    ],
-    "height_us": "2'04\"",
-    "height_eu": "0.7 m",
-    "weight_us": "88.2 lbs.",
-    "weight_eu": "40.0 kg",
-    "base_exp_yield": 63,
-    "leveling_rate": "Medium Slow",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 1,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 70,
-        "atk": 90,
-        "def": 45,
-        "sp_atk": 15,
-        "sp_def": 45,
-        "speed": 50
-    },
-    "evolution_from": null,
-    "evolutions": [
-        {
-            "to": "Darmanitan",
-            "variant": "Galarian",
-            "item": "Ice Stone"
-        }
-    ],
-    "species": "Zen Charm Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "It lived in snowy areas for so long that its fire sac cooled off and atrophied. It now has an organ that generates cold instead.",
-    "move_learnset": [
-        {
-            "move": "Powder Snow",
-            "level": 1
-        },
-        {
-            "move": "Tackle",
-            "level": 1
-        },
-        {
-            "move": "Taunt",
-            "level": 4
-        },
-        {
-            "move": "Bite",
-            "level": 8
-        },
-        {
-            "move": "Avalanche",
-            "level": 12
-        },
-        {
-            "move": "Work Up",
-            "level": 16
-        },
-        {
-            "move": "Ice Fang",
-            "level": 20
-        },
-        {
-            "move": "Headbutt",
-            "level": 24
-        },
-        {
-            "move": "Ice Punch",
-            "level": 28
-        },
-        {
-            "move": "Uproar",
-            "level": 32
-        },
-        {
-            "move": "Belly Drum",
-            "level": 36
-        },
-        {
-            "move": "Blizzard",
-            "level": 40
-        },
-        {
-            "move": "Thrash",
-            "level": 44
-        },
-        {
-            "move": "Superpower",
-            "level": 48
-        },
-        {
-            "move": "Mega Punch",
-            "tm": true
-        },
-        {
-            "move": "Mega Kick",
-            "tm": true
-        },
-        {
-            "move": "Fire Punch",
-            "tm": true
-        },
-        {
-            "move": "Ice Punch",
-            "tm": true
-        },
-        {
-            "move": "Solar Beam",
-            "tm": true
-        },
-        {
-            "move": "Fire Spin",
-            "tm": true
-        },
-        {
-            "move": "Dig",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Rock Slide",
-            "tm": true
-        },
-        {
-            "move": "Thief",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Sunny Day",
-            "tm": true
-        },
-        {
-            "move": "Will-O-Wisp",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Brick Break",
-            "tm": true
-        },
-        {
-            "move": "Rock Tomb",
-            "tm": true
-        },
-        {
-            "move": "U-turn",
-            "tm": true
-        },
-        {
-            "move": "Fling",
-            "tm": true
-        },
-        {
-            "move": "Avalanche",
-            "tm": true
-        },
-        {
-            "move": "Ice Fang",
-            "tm": true
-        },
-        {
-            "move": "Fire Fang",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Flamethrower",
-            "tm": true
-        },
-        {
-            "move": "Ice Beam",
-            "tm": true
-        },
-        {
-            "move": "Blizzard",
-            "tm": true
-        },
-        {
-            "move": "Focus Energy",
-            "tm": true
-        },
-        {
-            "move": "Fire Blast",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Encore",
-            "tm": true
-        },
-        {
-            "move": "Uproar",
-            "tm": true
-        },
-        {
-            "move": "Heat Wave",
-            "tm": true
-        },
-        {
-            "move": "Taunt",
-            "tm": true
-        },
-        {
-            "move": "Superpower",
-            "tm": true
-        },
-        {
-            "move": "Overheat",
-            "tm": true
-        },
-        {
-            "move": "Gyro Ball",
-            "tm": true
-        },
-        {
-            "move": "Flare Blitz",
-            "tm": true
-        },
-        {
-            "move": "Zen Headbutt",
-            "tm": true
-        },
-        {
-            "move": "Grass Knot",
-            "tm": true
-        },
-        {
-            "move": "Work Up",
-            "tm": true
-        },
-        {
-            "move": "Focus Punch",
-            "egg_move": true
-        },
-        {
-            "move": "Hammer Arm",
-            "egg_move": true
-        },
-        {
-            "move": "Take Down",
-            "egg_move": true
-        },
-        {
-            "move": "Flame Wheel",
-            "egg_move": true
-        },
-        {
-            "move": "Yawn",
-            "egg_move": true
-        },
-        {
-            "move": "Freeze-Dry",
-            "egg_move": true
-        },
-        {
-            "move": "Incinerate",
-            "egg_move": true
-        },
-        {
-            "move": "Power-Up Punch",
-            "egg_move": true
-        }
-    ]
+	"name": "Darumaka",
+	"national_id": 554,
+	"types": ["Ice"],
+	"abilities": [
+		{
+			"name": "Hustle"
+		},
+		{
+			"name": "Inner Focus",
+			"hidden": true
+		}
+	],
+	"catch_rate": 120,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Field"],
+	"hatch_time": [5140, 5396],
+	"height_us": "2'04\"",
+	"height_eu": "0.7 m",
+	"weight_us": "88.2 lbs.",
+	"weight_eu": "40.0 kg",
+	"base_exp_yield": 63,
+	"leveling_rate": "Medium Slow",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 1,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 70,
+		"atk": 90,
+		"def": 45,
+		"sp_atk": 15,
+		"sp_def": 45,
+		"speed": 50
+	},
+	"evolution_from": null,
+	"evolutions": [
+		{
+			"to": "Darmanitan",
+			"variant": "Galarian",
+			"item": "Ice Stone"
+		}
+	],
+	"species": "Zen Charm Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "It lived in snowy areas for so long that its fire sac cooled off and atrophied. It now has an organ that generates cold instead.",
+	"move_learnset": [
+		{
+			"move": "Powder Snow",
+			"level": 1
+		},
+		{
+			"move": "Tackle",
+			"level": 1
+		},
+		{
+			"move": "Taunt",
+			"level": 4
+		},
+		{
+			"move": "Bite",
+			"level": 8
+		},
+		{
+			"move": "Avalanche",
+			"level": 12
+		},
+		{
+			"move": "Work Up",
+			"level": 16
+		},
+		{
+			"move": "Ice Fang",
+			"level": 20
+		},
+		{
+			"move": "Headbutt",
+			"level": 24
+		},
+		{
+			"move": "Ice Punch",
+			"level": 28
+		},
+		{
+			"move": "Uproar",
+			"level": 32
+		},
+		{
+			"move": "Belly Drum",
+			"level": 36
+		},
+		{
+			"move": "Blizzard",
+			"level": 40
+		},
+		{
+			"move": "Thrash",
+			"level": 44
+		},
+		{
+			"move": "Superpower",
+			"level": 48
+		},
+		{
+			"move": "Mega Punch",
+			"tm": true
+		},
+		{
+			"move": "Mega Kick",
+			"tm": true
+		},
+		{
+			"move": "Fire Punch",
+			"tm": true
+		},
+		{
+			"move": "Ice Punch",
+			"tm": true
+		},
+		{
+			"move": "Solar Beam",
+			"tm": true
+		},
+		{
+			"move": "Fire Spin",
+			"tm": true
+		},
+		{
+			"move": "Dig",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Rock Slide",
+			"tm": true
+		},
+		{
+			"move": "Thief",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Sunny Day",
+			"tm": true
+		},
+		{
+			"move": "Will-O-Wisp",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Brick Break",
+			"tm": true
+		},
+		{
+			"move": "Rock Tomb",
+			"tm": true
+		},
+		{
+			"move": "U-turn",
+			"tm": true
+		},
+		{
+			"move": "Fling",
+			"tm": true
+		},
+		{
+			"move": "Avalanche",
+			"tm": true
+		},
+		{
+			"move": "Ice Fang",
+			"tm": true
+		},
+		{
+			"move": "Fire Fang",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Flamethrower",
+			"tm": true
+		},
+		{
+			"move": "Ice Beam",
+			"tm": true
+		},
+		{
+			"move": "Blizzard",
+			"tm": true
+		},
+		{
+			"move": "Focus Energy",
+			"tm": true
+		},
+		{
+			"move": "Fire Blast",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Encore",
+			"tm": true
+		},
+		{
+			"move": "Uproar",
+			"tm": true
+		},
+		{
+			"move": "Heat Wave",
+			"tm": true
+		},
+		{
+			"move": "Taunt",
+			"tm": true
+		},
+		{
+			"move": "Superpower",
+			"tm": true
+		},
+		{
+			"move": "Overheat",
+			"tm": true
+		},
+		{
+			"move": "Gyro Ball",
+			"tm": true
+		},
+		{
+			"move": "Flare Blitz",
+			"tm": true
+		},
+		{
+			"move": "Zen Headbutt",
+			"tm": true
+		},
+		{
+			"move": "Grass Knot",
+			"tm": true
+		},
+		{
+			"move": "Work Up",
+			"tm": true
+		},
+		{
+			"move": "Focus Punch",
+			"egg_move": true
+		},
+		{
+			"move": "Hammer Arm",
+			"egg_move": true
+		},
+		{
+			"move": "Take Down",
+			"egg_move": true
+		},
+		{
+			"move": "Flame Wheel",
+			"egg_move": true
+		},
+		{
+			"move": "Yawn",
+			"egg_move": true
+		},
+		{
+			"move": "Freeze-Dry",
+			"egg_move": true
+		},
+		{
+			"move": "Incinerate",
+			"egg_move": true
+		},
+		{
+			"move": "Power-Up Punch",
+			"egg_move": true
+		}
+	]
 }

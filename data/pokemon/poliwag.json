@@ -1,262 +1,255 @@
 {
-    "name": "Poliwag",
-    "national_id": 60,
-    "types": [
-        "Water"
-    ],
-    "abilities": [
-        {
-            "name": "Water Absorb"
-        },
-        {
-            "name": "Damp"
-        },
-        {
-            "name": "Swift Swim",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 255,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Water 1"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "2'00\"",
-    "height_eu": "0.6 m",
-    "weight_us": "27.3 lbs.",
-    "weight_eu": "12.4 kg",
-    "base_exp_yield": 60,
-    "leveling_rate": "Medium Slow",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 1
-    },
-    "base_stats": {
-        "hp": 40,
-        "atk": 50,
-        "def": 40,
-        "sp_atk": 40,
-        "sp_def": 40,
-        "speed": 90
-    },
-    "evolution_from": null,
-    "evolutions": [
-        {
-            "to": "Poliwhirl",
-            "level": 25
-        }
-    ],
-    "species": "Tadpole Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "Poliwag has a very thin skin. It is possible to see the Pokémon's spiral innards right through the skin. Despite its thinness, however, the skin is also very flexible. Even sharp fangs bounce right off it.",
-    "move_learnset": [
-        {
-            "move": "Water Sport",
-            "level": 1
-        },
-        {
-            "move": "Water Gun",
-            "level": 5
-        },
-        {
-            "move": "Hypnosis",
-            "level": 8
-        },
-        {
-            "move": "Bubble",
-            "level": 11
-        },
-        {
-            "move": "Double Slap",
-            "level": 15
-        },
-        {
-            "move": "Rain Dance",
-            "level": 18
-        },
-        {
-            "move": "Body Slam",
-            "level": 21
-        },
-        {
-            "move": "Bubble Beam",
-            "level": 25
-        },
-        {
-            "move": "Mud Shot",
-            "level": 28
-        },
-        {
-            "move": "Belly Drum",
-            "level": 31
-        },
-        {
-            "move": "Wake-Up Slap",
-            "level": 35
-        },
-        {
-            "move": "Hydro Pump",
-            "level": 38
-        },
-        {
-            "move": "Mud Bomb",
-            "level": 41
-        },
-        {
-            "move": "Bubble Beam",
-            "egg_move": true
-        },
-        {
-            "move": "Encore",
-            "egg_move": true
-        },
-        {
-            "move": "Endeavor",
-            "egg_move": true
-        },
-        {
-            "move": "Endure",
-            "egg_move": true
-        },
-        {
-            "move": "Haze",
-            "egg_move": true
-        },
-        {
-            "move": "Ice Ball",
-            "egg_move": true
-        },
-        {
-            "move": "Mind Reader",
-            "egg_move": true
-        },
-        {
-            "move": "Mist",
-            "egg_move": true
-        },
-        {
-            "move": "Mud Shot",
-            "egg_move": true
-        },
-        {
-            "move": "Refresh",
-            "egg_move": true
-        },
-        {
-            "move": "Splash",
-            "egg_move": true
-        },
-        {
-            "move": "Water Pulse",
-            "egg_move": true
-        },
-        {
-            "move": "Water Sport",
-            "egg_move": true
-        },
-        {
-            "move": "Toxic",
-            "tm": "TM6"
-        },
-        {
-            "move": "Hail",
-            "tm": "TM7"
-        },
-        {
-            "move": "Hidden Power",
-            "tm": "TM10"
-        },
-        {
-            "move": "Ice Beam",
-            "tm": "TM13"
-        },
-        {
-            "move": "Blizzard",
-            "tm": "TM14"
-        },
-        {
-            "move": "Protect",
-            "tm": "TM17"
-        },
-        {
-            "move": "Rain Dance",
-            "tm": "TM18"
-        },
-        {
-            "move": "Frustration",
-            "tm": "TM21"
-        },
-        {
-            "move": "Return",
-            "tm": "TM27"
-        },
-        {
-            "move": "Psychic",
-            "tm": "TM29"
-        },
-        {
-            "move": "Double Team",
-            "tm": "TM32"
-        },
-        {
-            "move": "Facade",
-            "tm": "TM42"
-        },
-        {
-            "move": "Rest",
-            "tm": "TM44"
-        },
-        {
-            "move": "Attract",
-            "tm": "TM45"
-        },
-        {
-            "move": "Thief",
-            "tm": "TM46"
-        },
-        {
-            "move": "Round",
-            "tm": "TM48"
-        },
-        {
-            "move": "Scald",
-            "tm": "TM55"
-        },
-        {
-            "move": "Swagger",
-            "tm": "TM87"
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": "TM88"
-        },
-        {
-            "move": "Substitute",
-            "tm": "TM90"
-        },
-        {
-            "move": "Surf",
-            "tm": "TM94"
-        },
-        {
-            "move": "Waterfall",
-            "tm": "TM98"
-        },
-        {
-            "move": "Confide",
-            "tm": "TM100"
-        }
-    ]
+	"name": "Poliwag",
+	"national_id": 60,
+	"types": ["Water"],
+	"abilities": [
+		{
+			"name": "Water Absorb"
+		},
+		{
+			"name": "Damp"
+		},
+		{
+			"name": "Swift Swim",
+			"hidden": true
+		}
+	],
+	"catch_rate": 255,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Water 1"],
+	"hatch_time": [5355, 5609],
+	"height_us": "2'00\"",
+	"height_eu": "0.6 m",
+	"weight_us": "27.3 lbs.",
+	"weight_eu": "12.4 kg",
+	"base_exp_yield": 60,
+	"leveling_rate": "Medium Slow",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 1
+	},
+	"base_stats": {
+		"hp": 40,
+		"atk": 50,
+		"def": 40,
+		"sp_atk": 40,
+		"sp_def": 40,
+		"speed": 90
+	},
+	"evolution_from": null,
+	"evolutions": [
+		{
+			"to": "Poliwhirl",
+			"level": 25
+		}
+	],
+	"species": "Tadpole Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "Poliwag has a very thin skin. It is possible to see the Pokémon's spiral innards right through the skin. Despite its thinness, however, the skin is also very flexible. Even sharp fangs bounce right off it.",
+	"move_learnset": [
+		{
+			"move": "Water Sport",
+			"level": 1
+		},
+		{
+			"move": "Water Gun",
+			"level": 5
+		},
+		{
+			"move": "Hypnosis",
+			"level": 8
+		},
+		{
+			"move": "Bubble",
+			"level": 11
+		},
+		{
+			"move": "Double Slap",
+			"level": 15
+		},
+		{
+			"move": "Rain Dance",
+			"level": 18
+		},
+		{
+			"move": "Body Slam",
+			"level": 21
+		},
+		{
+			"move": "Bubble Beam",
+			"level": 25
+		},
+		{
+			"move": "Mud Shot",
+			"level": 28
+		},
+		{
+			"move": "Belly Drum",
+			"level": 31
+		},
+		{
+			"move": "Wake-Up Slap",
+			"level": 35
+		},
+		{
+			"move": "Hydro Pump",
+			"level": 38
+		},
+		{
+			"move": "Mud Bomb",
+			"level": 41
+		},
+		{
+			"move": "Bubble Beam",
+			"egg_move": true
+		},
+		{
+			"move": "Encore",
+			"egg_move": true
+		},
+		{
+			"move": "Endeavor",
+			"egg_move": true
+		},
+		{
+			"move": "Endure",
+			"egg_move": true
+		},
+		{
+			"move": "Haze",
+			"egg_move": true
+		},
+		{
+			"move": "Ice Ball",
+			"egg_move": true
+		},
+		{
+			"move": "Mind Reader",
+			"egg_move": true
+		},
+		{
+			"move": "Mist",
+			"egg_move": true
+		},
+		{
+			"move": "Mud Shot",
+			"egg_move": true
+		},
+		{
+			"move": "Refresh",
+			"egg_move": true
+		},
+		{
+			"move": "Splash",
+			"egg_move": true
+		},
+		{
+			"move": "Water Pulse",
+			"egg_move": true
+		},
+		{
+			"move": "Water Sport",
+			"egg_move": true
+		},
+		{
+			"move": "Toxic",
+			"tm": "TM6"
+		},
+		{
+			"move": "Hail",
+			"tm": "TM7"
+		},
+		{
+			"move": "Hidden Power",
+			"tm": "TM10"
+		},
+		{
+			"move": "Ice Beam",
+			"tm": "TM13"
+		},
+		{
+			"move": "Blizzard",
+			"tm": "TM14"
+		},
+		{
+			"move": "Protect",
+			"tm": "TM17"
+		},
+		{
+			"move": "Rain Dance",
+			"tm": "TM18"
+		},
+		{
+			"move": "Frustration",
+			"tm": "TM21"
+		},
+		{
+			"move": "Return",
+			"tm": "TM27"
+		},
+		{
+			"move": "Psychic",
+			"tm": "TM29"
+		},
+		{
+			"move": "Double Team",
+			"tm": "TM32"
+		},
+		{
+			"move": "Facade",
+			"tm": "TM42"
+		},
+		{
+			"move": "Rest",
+			"tm": "TM44"
+		},
+		{
+			"move": "Attract",
+			"tm": "TM45"
+		},
+		{
+			"move": "Thief",
+			"tm": "TM46"
+		},
+		{
+			"move": "Round",
+			"tm": "TM48"
+		},
+		{
+			"move": "Scald",
+			"tm": "TM55"
+		},
+		{
+			"move": "Swagger",
+			"tm": "TM87"
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": "TM88"
+		},
+		{
+			"move": "Substitute",
+			"tm": "TM90"
+		},
+		{
+			"move": "Surf",
+			"tm": "TM94"
+		},
+		{
+			"move": "Waterfall",
+			"tm": "TM98"
+		},
+		{
+			"move": "Confide",
+			"tm": "TM100"
+		}
+	]
 }

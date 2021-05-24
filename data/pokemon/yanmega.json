@@ -1,308 +1,300 @@
 {
-    "name": "Yanmega",
-    "national_id": 469,
-    "types": [
-        "Bug",
-        "Flying"
-    ],
-    "items": [
-        {
-            "name": "Wide Lens",
-            "chance": 5
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Speed Boost"
-        },
-        {
-            "name": "Tinted Lens"
-        },
-        {
-            "name": "Frisk",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 30,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Bug"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "6'03\"",
-    "height_eu": "1.9 m",
-    "weight_us": "113.5 lbs.",
-    "weight_eu": "51.5 kg",
-    "base_exp_yield": 180,
-    "leveling_rate": "Medium Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 2,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 86,
-        "atk": 76,
-        "def": 86,
-        "sp_atk": 116,
-        "sp_def": 56,
-        "speed": 95
-    },
-    "evolution_from": "Yanma",
-    "evolutions": [],
-    "species": "Ogre Darner Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "This six-legged Pokémon is easily capable of transporting an adult in flight. The wings on its tail help it stay balanced.",
-    "move_learnset": [
-        {
-            "move": "Air Slash",
-            "level": 1
-        },
-        {
-            "move": "Bug Bite",
-            "level": 1
-        },
-        {
-            "move": "Bug Buzz",
-            "level": 1
-        },
-        {
-            "move": "Double Team",
-            "level": 1
-        },
-        {
-            "move": "Foresight",
-            "level": 1
-        },
-        {
-            "move": "Night Slash",
-            "level": 1
-        },
-        {
-            "move": "Quick Attack",
-            "level": 1
-        },
-        {
-            "move": "Tackle",
-            "level": 1
-        },
-        {
-            "move": "Quick Attack",
-            "level": 6
-        },
-        {
-            "move": "Double Team",
-            "level": 11
-        },
-        {
-            "move": "Sonic Boom",
-            "level": 14
-        },
-        {
-            "move": "Detect",
-            "level": 17
-        },
-        {
-            "move": "Supersonic",
-            "level": 22
-        },
-        {
-            "move": "Uproar",
-            "level": 27
-        },
-        {
-            "move": "Pursuit",
-            "level": 30
-        },
-        {
-            "move": "Ancient Power",
-            "level": 33
-        },
-        {
-            "move": "Feint",
-            "level": 38
-        },
-        {
-            "move": "Slash",
-            "level": 43
-        },
-        {
-            "move": "Screech",
-            "level": 46
-        },
-        {
-            "move": "U-turn",
-            "level": 49
-        },
-        {
-            "move": "Air Slash",
-            "level": 54
-        },
-        {
-            "move": "Bug Buzz",
-            "level": 57
-        },
-        {
-            "move": "Double-Edge",
-            "egg_move": true
-        },
-        {
-            "move": "Feint",
-            "egg_move": true
-        },
-        {
-            "move": "Feint Attack",
-            "egg_move": true
-        },
-        {
-            "move": "Leech Life",
-            "egg_move": true
-        },
-        {
-            "move": "Pursuit",
-            "egg_move": true
-        },
-        {
-            "move": "Reversal",
-            "egg_move": true
-        },
-        {
-            "move": "Secret Power",
-            "egg_move": true
-        },
-        {
-            "move": "Signal Beam",
-            "egg_move": true
-        },
-        {
-            "move": "Silver Wind",
-            "egg_move": true
-        },
-        {
-            "move": "Whirlwind",
-            "egg_move": true
-        },
-        {
-            "move": "Toxic",
-            "tm": "TM6"
-        },
-        {
-            "move": "Hidden Power",
-            "tm": "TM10"
-        },
-        {
-            "move": "Sunny Day",
-            "tm": "TM11"
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": "TM15"
-        },
-        {
-            "move": "Protect",
-            "tm": "TM17"
-        },
-        {
-            "move": "Roost",
-            "tm": "TM19"
-        },
-        {
-            "move": "Frustration",
-            "tm": "TM21"
-        },
-        {
-            "move": "Solar Beam",
-            "tm": "TM22"
-        },
-        {
-            "move": "Return",
-            "tm": "TM27"
-        },
-        {
-            "move": "Leech Life",
-            "tm": "TM28"
-        },
-        {
-            "move": "Psychic",
-            "tm": "TM29"
-        },
-        {
-            "move": "Shadow Ball",
-            "tm": "TM30"
-        },
-        {
-            "move": "Double Team",
-            "tm": "TM32"
-        },
-        {
-            "move": "Aerial Ace",
-            "tm": "TM40"
-        },
-        {
-            "move": "Facade",
-            "tm": "TM42"
-        },
-        {
-            "move": "Rest",
-            "tm": "TM44"
-        },
-        {
-            "move": "Attract",
-            "tm": "TM45"
-        },
-        {
-            "move": "Thief",
-            "tm": "TM46"
-        },
-        {
-            "move": "Round",
-            "tm": "TM48"
-        },
-        {
-            "move": "Steel Wing",
-            "tm": "TM51"
-        },
-        {
-            "move": "Giga Impact",
-            "tm": "TM68"
-        },
-        {
-            "move": "Psych Up",
-            "tm": "TM77"
-        },
-        {
-            "move": "Dream Eater",
-            "tm": "TM85"
-        },
-        {
-            "move": "Swagger",
-            "tm": "TM87"
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": "TM88"
-        },
-        {
-            "move": "U-turn",
-            "tm": "TM89"
-        },
-        {
-            "move": "Substitute",
-            "tm": "TM90"
-        },
-        {
-            "move": "Confide",
-            "tm": "TM100"
-        }
-    ]
+	"name": "Yanmega",
+	"national_id": 469,
+	"types": ["Bug", "Flying"],
+	"items": [
+		{
+			"name": "Wide Lens",
+			"chance": 5
+		}
+	],
+	"abilities": [
+		{
+			"name": "Speed Boost"
+		},
+		{
+			"name": "Tinted Lens"
+		},
+		{
+			"name": "Frisk",
+			"hidden": true
+		}
+	],
+	"catch_rate": 30,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Bug"],
+	"hatch_time": [5355, 5609],
+	"height_us": "6'03\"",
+	"height_eu": "1.9 m",
+	"weight_us": "113.5 lbs.",
+	"weight_eu": "51.5 kg",
+	"base_exp_yield": 180,
+	"leveling_rate": "Medium Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 2,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 86,
+		"atk": 76,
+		"def": 86,
+		"sp_atk": 116,
+		"sp_def": 56,
+		"speed": 95
+	},
+	"evolution_from": "Yanma",
+	"evolutions": [],
+	"species": "Ogre Darner Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "This six-legged Pokémon is easily capable of transporting an adult in flight. The wings on its tail help it stay balanced.",
+	"move_learnset": [
+		{
+			"move": "Air Slash",
+			"level": 1
+		},
+		{
+			"move": "Bug Bite",
+			"level": 1
+		},
+		{
+			"move": "Bug Buzz",
+			"level": 1
+		},
+		{
+			"move": "Double Team",
+			"level": 1
+		},
+		{
+			"move": "Foresight",
+			"level": 1
+		},
+		{
+			"move": "Night Slash",
+			"level": 1
+		},
+		{
+			"move": "Quick Attack",
+			"level": 1
+		},
+		{
+			"move": "Tackle",
+			"level": 1
+		},
+		{
+			"move": "Quick Attack",
+			"level": 6
+		},
+		{
+			"move": "Double Team",
+			"level": 11
+		},
+		{
+			"move": "Sonic Boom",
+			"level": 14
+		},
+		{
+			"move": "Detect",
+			"level": 17
+		},
+		{
+			"move": "Supersonic",
+			"level": 22
+		},
+		{
+			"move": "Uproar",
+			"level": 27
+		},
+		{
+			"move": "Pursuit",
+			"level": 30
+		},
+		{
+			"move": "Ancient Power",
+			"level": 33
+		},
+		{
+			"move": "Feint",
+			"level": 38
+		},
+		{
+			"move": "Slash",
+			"level": 43
+		},
+		{
+			"move": "Screech",
+			"level": 46
+		},
+		{
+			"move": "U-turn",
+			"level": 49
+		},
+		{
+			"move": "Air Slash",
+			"level": 54
+		},
+		{
+			"move": "Bug Buzz",
+			"level": 57
+		},
+		{
+			"move": "Double-Edge",
+			"egg_move": true
+		},
+		{
+			"move": "Feint",
+			"egg_move": true
+		},
+		{
+			"move": "Feint Attack",
+			"egg_move": true
+		},
+		{
+			"move": "Leech Life",
+			"egg_move": true
+		},
+		{
+			"move": "Pursuit",
+			"egg_move": true
+		},
+		{
+			"move": "Reversal",
+			"egg_move": true
+		},
+		{
+			"move": "Secret Power",
+			"egg_move": true
+		},
+		{
+			"move": "Signal Beam",
+			"egg_move": true
+		},
+		{
+			"move": "Silver Wind",
+			"egg_move": true
+		},
+		{
+			"move": "Whirlwind",
+			"egg_move": true
+		},
+		{
+			"move": "Toxic",
+			"tm": "TM6"
+		},
+		{
+			"move": "Hidden Power",
+			"tm": "TM10"
+		},
+		{
+			"move": "Sunny Day",
+			"tm": "TM11"
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": "TM15"
+		},
+		{
+			"move": "Protect",
+			"tm": "TM17"
+		},
+		{
+			"move": "Roost",
+			"tm": "TM19"
+		},
+		{
+			"move": "Frustration",
+			"tm": "TM21"
+		},
+		{
+			"move": "Solar Beam",
+			"tm": "TM22"
+		},
+		{
+			"move": "Return",
+			"tm": "TM27"
+		},
+		{
+			"move": "Leech Life",
+			"tm": "TM28"
+		},
+		{
+			"move": "Psychic",
+			"tm": "TM29"
+		},
+		{
+			"move": "Shadow Ball",
+			"tm": "TM30"
+		},
+		{
+			"move": "Double Team",
+			"tm": "TM32"
+		},
+		{
+			"move": "Aerial Ace",
+			"tm": "TM40"
+		},
+		{
+			"move": "Facade",
+			"tm": "TM42"
+		},
+		{
+			"move": "Rest",
+			"tm": "TM44"
+		},
+		{
+			"move": "Attract",
+			"tm": "TM45"
+		},
+		{
+			"move": "Thief",
+			"tm": "TM46"
+		},
+		{
+			"move": "Round",
+			"tm": "TM48"
+		},
+		{
+			"move": "Steel Wing",
+			"tm": "TM51"
+		},
+		{
+			"move": "Giga Impact",
+			"tm": "TM68"
+		},
+		{
+			"move": "Psych Up",
+			"tm": "TM77"
+		},
+		{
+			"move": "Dream Eater",
+			"tm": "TM85"
+		},
+		{
+			"move": "Swagger",
+			"tm": "TM87"
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": "TM88"
+		},
+		{
+			"move": "U-turn",
+			"tm": "TM89"
+		},
+		{
+			"move": "Substitute",
+			"tm": "TM90"
+		},
+		{
+			"move": "Confide",
+			"tm": "TM100"
+		}
+	]
 }

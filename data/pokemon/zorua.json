@@ -1,287 +1,280 @@
 {
-    "name": "Zorua",
-    "national_id": 570,
-    "types": [
-        "Dark"
-    ],
-    "abilities": [
-        {
-            "name": "Illusion"
-        }
-    ],
-    "catch_rate": 75,
-    "gender_ratios": {
-        "male": 87.5,
-        "female": 12.5
-    },
-    "egg_groups": [
-        "Field"
-    ],
-    "hatch_time": [
-        6630,
-        6884
-    ],
-    "height_us": "2'04\"",
-    "height_eu": "0.7 m",
-    "weight_us": "27.6 lbs.",
-    "weight_eu": "12.5 kg",
-    "base_exp_yield": 66,
-    "leveling_rate": "Medium Slow",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 1,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 40,
-        "atk": 65,
-        "def": 40,
-        "sp_atk": 80,
-        "sp_def": 40,
-        "speed": 65
-    },
-    "evolution_from": null,
-    "evolutions": [
-        {
-            "to": "Zoroark",
-            "level": 30
-        }
-    ],
-    "species": "Tricky Fox Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "To protect themselves from danger, they hide their true identities by transforming into people and Pokémon.",
-    "move_learnset": [
-        {
-            "move": "Leer",
-            "level": 1
-        },
-        {
-            "move": "Scratch",
-            "level": 1
-        },
-        {
-            "move": "Pursuit",
-            "level": 5
-        },
-        {
-            "move": "Fake Tears",
-            "level": 9
-        },
-        {
-            "move": "Fury Swipes",
-            "level": 13
-        },
-        {
-            "move": "Feint Attack",
-            "level": 17
-        },
-        {
-            "move": "Scary Face",
-            "level": 21
-        },
-        {
-            "move": "Taunt",
-            "level": 25
-        },
-        {
-            "move": "Foul Play",
-            "level": 29
-        },
-        {
-            "move": "Torment",
-            "level": 33
-        },
-        {
-            "move": "Agility",
-            "level": 37
-        },
-        {
-            "move": "Embargo",
-            "level": 41
-        },
-        {
-            "move": "Punishment",
-            "level": 45
-        },
-        {
-            "move": "Nasty Plot",
-            "level": 49
-        },
-        {
-            "move": "Imprison",
-            "level": 53
-        },
-        {
-            "move": "Night Daze",
-            "level": 57
-        },
-        {
-            "move": "Captivate",
-            "egg_move": true
-        },
-        {
-            "move": "Copycat",
-            "egg_move": true
-        },
-        {
-            "move": "Counter",
-            "egg_move": true
-        },
-        {
-            "move": "Dark Pulse",
-            "egg_move": true
-        },
-        {
-            "move": "Detect",
-            "egg_move": true
-        },
-        {
-            "move": "Extrasensory",
-            "egg_move": true
-        },
-        {
-            "move": "Memento",
-            "egg_move": true
-        },
-        {
-            "move": "Snatch",
-            "egg_move": true
-        },
-        {
-            "move": "Sucker Punch",
-            "egg_move": true
-        },
-        {
-            "move": "Calm Mind",
-            "tm": "TM4"
-        },
-        {
-            "move": "Roar",
-            "tm": "TM5"
-        },
-        {
-            "move": "Toxic",
-            "tm": "TM6"
-        },
-        {
-            "move": "Hidden Power",
-            "tm": "TM10"
-        },
-        {
-            "move": "Sunny Day",
-            "tm": "TM11"
-        },
-        {
-            "move": "Taunt",
-            "tm": "TM12"
-        },
-        {
-            "move": "Protect",
-            "tm": "TM17"
-        },
-        {
-            "move": "Rain Dance",
-            "tm": "TM18"
-        },
-        {
-            "move": "Frustration",
-            "tm": "TM21"
-        },
-        {
-            "move": "Return",
-            "tm": "TM27"
-        },
-        {
-            "move": "Shadow Ball",
-            "tm": "TM30"
-        },
-        {
-            "move": "Double Team",
-            "tm": "TM32"
-        },
-        {
-            "move": "Aerial Ace",
-            "tm": "TM40"
-        },
-        {
-            "move": "Torment",
-            "tm": "TM41"
-        },
-        {
-            "move": "Facade",
-            "tm": "TM42"
-        },
-        {
-            "move": "Rest",
-            "tm": "TM44"
-        },
-        {
-            "move": "Attract",
-            "tm": "TM45"
-        },
-        {
-            "move": "Thief",
-            "tm": "TM46"
-        },
-        {
-            "move": "Round",
-            "tm": "TM48"
-        },
-        {
-            "move": "Fling",
-            "tm": "TM56"
-        },
-        {
-            "move": "Embargo",
-            "tm": "TM63"
-        },
-        {
-            "move": "Payback",
-            "tm": "TM66"
-        },
-        {
-            "move": "Swords Dance",
-            "tm": "TM75"
-        },
-        {
-            "move": "Psych Up",
-            "tm": "TM77"
-        },
-        {
-            "move": "Grass Knot",
-            "tm": "TM86"
-        },
-        {
-            "move": "Swagger",
-            "tm": "TM87"
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": "TM88"
-        },
-        {
-            "move": "U-turn",
-            "tm": "TM89"
-        },
-        {
-            "move": "Substitute",
-            "tm": "TM90"
-        },
-        {
-            "move": "Snarl",
-            "tm": "TM95"
-        },
-        {
-            "move": "Dark Pulse",
-            "tm": "TM97"
-        },
-        {
-            "move": "Confide",
-            "tm": "TM100"
-        }
-    ]
+	"name": "Zorua",
+	"national_id": 570,
+	"types": ["Dark"],
+	"abilities": [
+		{
+			"name": "Illusion"
+		}
+	],
+	"catch_rate": 75,
+	"gender_ratios": {
+		"male": 87.5,
+		"female": 12.5
+	},
+	"egg_groups": ["Field"],
+	"hatch_time": [6630, 6884],
+	"height_us": "2'04\"",
+	"height_eu": "0.7 m",
+	"weight_us": "27.6 lbs.",
+	"weight_eu": "12.5 kg",
+	"base_exp_yield": 66,
+	"leveling_rate": "Medium Slow",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 1,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 40,
+		"atk": 65,
+		"def": 40,
+		"sp_atk": 80,
+		"sp_def": 40,
+		"speed": 65
+	},
+	"evolution_from": null,
+	"evolutions": [
+		{
+			"to": "Zoroark",
+			"level": 30
+		}
+	],
+	"species": "Tricky Fox Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "To protect themselves from danger, they hide their true identities by transforming into people and Pokémon.",
+	"move_learnset": [
+		{
+			"move": "Leer",
+			"level": 1
+		},
+		{
+			"move": "Scratch",
+			"level": 1
+		},
+		{
+			"move": "Pursuit",
+			"level": 5
+		},
+		{
+			"move": "Fake Tears",
+			"level": 9
+		},
+		{
+			"move": "Fury Swipes",
+			"level": 13
+		},
+		{
+			"move": "Feint Attack",
+			"level": 17
+		},
+		{
+			"move": "Scary Face",
+			"level": 21
+		},
+		{
+			"move": "Taunt",
+			"level": 25
+		},
+		{
+			"move": "Foul Play",
+			"level": 29
+		},
+		{
+			"move": "Torment",
+			"level": 33
+		},
+		{
+			"move": "Agility",
+			"level": 37
+		},
+		{
+			"move": "Embargo",
+			"level": 41
+		},
+		{
+			"move": "Punishment",
+			"level": 45
+		},
+		{
+			"move": "Nasty Plot",
+			"level": 49
+		},
+		{
+			"move": "Imprison",
+			"level": 53
+		},
+		{
+			"move": "Night Daze",
+			"level": 57
+		},
+		{
+			"move": "Captivate",
+			"egg_move": true
+		},
+		{
+			"move": "Copycat",
+			"egg_move": true
+		},
+		{
+			"move": "Counter",
+			"egg_move": true
+		},
+		{
+			"move": "Dark Pulse",
+			"egg_move": true
+		},
+		{
+			"move": "Detect",
+			"egg_move": true
+		},
+		{
+			"move": "Extrasensory",
+			"egg_move": true
+		},
+		{
+			"move": "Memento",
+			"egg_move": true
+		},
+		{
+			"move": "Snatch",
+			"egg_move": true
+		},
+		{
+			"move": "Sucker Punch",
+			"egg_move": true
+		},
+		{
+			"move": "Calm Mind",
+			"tm": "TM4"
+		},
+		{
+			"move": "Roar",
+			"tm": "TM5"
+		},
+		{
+			"move": "Toxic",
+			"tm": "TM6"
+		},
+		{
+			"move": "Hidden Power",
+			"tm": "TM10"
+		},
+		{
+			"move": "Sunny Day",
+			"tm": "TM11"
+		},
+		{
+			"move": "Taunt",
+			"tm": "TM12"
+		},
+		{
+			"move": "Protect",
+			"tm": "TM17"
+		},
+		{
+			"move": "Rain Dance",
+			"tm": "TM18"
+		},
+		{
+			"move": "Frustration",
+			"tm": "TM21"
+		},
+		{
+			"move": "Return",
+			"tm": "TM27"
+		},
+		{
+			"move": "Shadow Ball",
+			"tm": "TM30"
+		},
+		{
+			"move": "Double Team",
+			"tm": "TM32"
+		},
+		{
+			"move": "Aerial Ace",
+			"tm": "TM40"
+		},
+		{
+			"move": "Torment",
+			"tm": "TM41"
+		},
+		{
+			"move": "Facade",
+			"tm": "TM42"
+		},
+		{
+			"move": "Rest",
+			"tm": "TM44"
+		},
+		{
+			"move": "Attract",
+			"tm": "TM45"
+		},
+		{
+			"move": "Thief",
+			"tm": "TM46"
+		},
+		{
+			"move": "Round",
+			"tm": "TM48"
+		},
+		{
+			"move": "Fling",
+			"tm": "TM56"
+		},
+		{
+			"move": "Embargo",
+			"tm": "TM63"
+		},
+		{
+			"move": "Payback",
+			"tm": "TM66"
+		},
+		{
+			"move": "Swords Dance",
+			"tm": "TM75"
+		},
+		{
+			"move": "Psych Up",
+			"tm": "TM77"
+		},
+		{
+			"move": "Grass Knot",
+			"tm": "TM86"
+		},
+		{
+			"move": "Swagger",
+			"tm": "TM87"
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": "TM88"
+		},
+		{
+			"move": "U-turn",
+			"tm": "TM89"
+		},
+		{
+			"move": "Substitute",
+			"tm": "TM90"
+		},
+		{
+			"move": "Snarl",
+			"tm": "TM95"
+		},
+		{
+			"move": "Dark Pulse",
+			"tm": "TM97"
+		},
+		{
+			"move": "Confide",
+			"tm": "TM100"
+		}
+	]
 }

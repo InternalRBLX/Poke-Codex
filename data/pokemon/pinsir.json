@@ -1,293 +1,286 @@
 {
-    "name": "Pinsir",
-    "national_id": 127,
-    "types": [
-        "Bug"
-    ],
-    "abilities": [
-        {
-            "name": "Hyper Cutter"
-        },
-        {
-            "name": "Mold Breaker"
-        },
-        {
-            "name": "Moxie",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 45,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Bug"
-    ],
-    "hatch_time": [
-        6630,
-        6884
-    ],
-    "height_us": "4'11\"",
-    "height_eu": "1.5 m",
-    "weight_us": "121.3 lbs.",
-    "weight_eu": "55.0 kg",
-    "base_exp_yield": 175,
-    "leveling_rate": "Slow",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 2,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 65,
-        "atk": 125,
-        "def": 100,
-        "sp_atk": 55,
-        "sp_def": 70,
-        "speed": 85
-    },
-    "evolution_from": null,
-    "evolutions": [],
-    "species": "Stag Beetle Pokémon",
-    "mega_evolves": true,
-    "pokedex_entry": "Pinsir has a pair of massive horns. Protruding from the surface of these horns are thorns. These thorns are driven deeply into the foe's body when the pincer closes, making it tough for the foe to escape.",
-    "move_learnset": [
-        {
-            "move": "Focus Energy",
-            "level": 1
-        },
-        {
-            "move": "Vice Grip",
-            "level": 1
-        },
-        {
-            "move": "Bind",
-            "level": 4
-        },
-        {
-            "move": "Seismic Toss",
-            "level": 8
-        },
-        {
-            "move": "Harden",
-            "level": 11
-        },
-        {
-            "move": "Revenge",
-            "level": 15
-        },
-        {
-            "move": "Vital Throw",
-            "level": 18
-        },
-        {
-            "move": "Double Hit",
-            "level": 22
-        },
-        {
-            "move": "Brick Break",
-            "level": 26
-        },
-        {
-            "move": "X-Scissor",
-            "level": 29
-        },
-        {
-            "move": "Submission",
-            "level": 33
-        },
-        {
-            "move": "Storm Throw",
-            "level": 36
-        },
-        {
-            "move": "Swords Dance",
-            "level": 40
-        },
-        {
-            "move": "Thrash",
-            "level": 43
-        },
-        {
-            "move": "Superpower",
-            "level": 47
-        },
-        {
-            "move": "Guillotine",
-            "level": 50
-        },
-        {
-            "move": "Bug Bite",
-            "egg_move": true
-        },
-        {
-            "move": "Close Combat",
-            "egg_move": true
-        },
-        {
-            "move": "Feint",
-            "egg_move": true
-        },
-        {
-            "move": "Feint Attack",
-            "egg_move": true
-        },
-        {
-            "move": "Flail",
-            "egg_move": true
-        },
-        {
-            "move": "Fury Attack",
-            "egg_move": true
-        },
-        {
-            "move": "Me First",
-            "egg_move": true
-        },
-        {
-            "move": "Quick Attack",
-            "egg_move": true
-        },
-        {
-            "move": "Superpower",
-            "egg_move": true
-        },
-        {
-            "move": "Toxic",
-            "tm": "TM6"
-        },
-        {
-            "move": "Bulk Up",
-            "tm": "TM8"
-        },
-        {
-            "move": "Hidden Power",
-            "tm": "TM10"
-        },
-        {
-            "move": "Sunny Day",
-            "tm": "TM11"
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": "TM15"
-        },
-        {
-            "move": "Protect",
-            "tm": "TM17"
-        },
-        {
-            "move": "Rain Dance",
-            "tm": "TM18"
-        },
-        {
-            "move": "Frustration",
-            "tm": "TM21"
-        },
-        {
-            "move": "Smack Down",
-            "tm": "TM23"
-        },
-        {
-            "move": "Earthquake",
-            "tm": "TM26"
-        },
-        {
-            "move": "Return",
-            "tm": "TM27"
-        },
-        {
-            "move": "Brick Break",
-            "tm": "TM31"
-        },
-        {
-            "move": "Double Team",
-            "tm": "TM32"
-        },
-        {
-            "move": "Rock Tomb",
-            "tm": "TM39"
-        },
-        {
-            "move": "Facade",
-            "tm": "TM42"
-        },
-        {
-            "move": "Rest",
-            "tm": "TM44"
-        },
-        {
-            "move": "Attract",
-            "tm": "TM45"
-        },
-        {
-            "move": "Thief",
-            "tm": "TM46"
-        },
-        {
-            "move": "Round",
-            "tm": "TM48"
-        },
-        {
-            "move": "Focus Blast",
-            "tm": "TM52"
-        },
-        {
-            "move": "False Swipe",
-            "tm": "TM54"
-        },
-        {
-            "move": "Fling",
-            "tm": "TM56"
-        },
-        {
-            "move": "Brutal Swing",
-            "tm": "TM59"
-        },
-        {
-            "move": "Giga Impact",
-            "tm": "TM68"
-        },
-        {
-            "move": "Stone Edge",
-            "tm": "TM71"
-        },
-        {
-            "move": "Swords Dance",
-            "tm": "TM75"
-        },
-        {
-            "move": "Bulldoze",
-            "tm": "TM78"
-        },
-        {
-            "move": "Rock Slide",
-            "tm": "TM80"
-        },
-        {
-            "move": "X-Scissor",
-            "tm": "TM81"
-        },
-        {
-            "move": "Swagger",
-            "tm": "TM87"
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": "TM88"
-        },
-        {
-            "move": "Substitute",
-            "tm": "TM90"
-        },
-        {
-            "move": "Confide",
-            "tm": "TM100"
-        }
-    ]
+	"name": "Pinsir",
+	"national_id": 127,
+	"types": ["Bug"],
+	"abilities": [
+		{
+			"name": "Hyper Cutter"
+		},
+		{
+			"name": "Mold Breaker"
+		},
+		{
+			"name": "Moxie",
+			"hidden": true
+		}
+	],
+	"catch_rate": 45,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Bug"],
+	"hatch_time": [6630, 6884],
+	"height_us": "4'11\"",
+	"height_eu": "1.5 m",
+	"weight_us": "121.3 lbs.",
+	"weight_eu": "55.0 kg",
+	"base_exp_yield": 175,
+	"leveling_rate": "Slow",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 2,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 65,
+		"atk": 125,
+		"def": 100,
+		"sp_atk": 55,
+		"sp_def": 70,
+		"speed": 85
+	},
+	"evolution_from": null,
+	"evolutions": [],
+	"species": "Stag Beetle Pokémon",
+	"mega_evolves": true,
+	"pokedex_entry": "Pinsir has a pair of massive horns. Protruding from the surface of these horns are thorns. These thorns are driven deeply into the foe's body when the pincer closes, making it tough for the foe to escape.",
+	"move_learnset": [
+		{
+			"move": "Focus Energy",
+			"level": 1
+		},
+		{
+			"move": "Vice Grip",
+			"level": 1
+		},
+		{
+			"move": "Bind",
+			"level": 4
+		},
+		{
+			"move": "Seismic Toss",
+			"level": 8
+		},
+		{
+			"move": "Harden",
+			"level": 11
+		},
+		{
+			"move": "Revenge",
+			"level": 15
+		},
+		{
+			"move": "Vital Throw",
+			"level": 18
+		},
+		{
+			"move": "Double Hit",
+			"level": 22
+		},
+		{
+			"move": "Brick Break",
+			"level": 26
+		},
+		{
+			"move": "X-Scissor",
+			"level": 29
+		},
+		{
+			"move": "Submission",
+			"level": 33
+		},
+		{
+			"move": "Storm Throw",
+			"level": 36
+		},
+		{
+			"move": "Swords Dance",
+			"level": 40
+		},
+		{
+			"move": "Thrash",
+			"level": 43
+		},
+		{
+			"move": "Superpower",
+			"level": 47
+		},
+		{
+			"move": "Guillotine",
+			"level": 50
+		},
+		{
+			"move": "Bug Bite",
+			"egg_move": true
+		},
+		{
+			"move": "Close Combat",
+			"egg_move": true
+		},
+		{
+			"move": "Feint",
+			"egg_move": true
+		},
+		{
+			"move": "Feint Attack",
+			"egg_move": true
+		},
+		{
+			"move": "Flail",
+			"egg_move": true
+		},
+		{
+			"move": "Fury Attack",
+			"egg_move": true
+		},
+		{
+			"move": "Me First",
+			"egg_move": true
+		},
+		{
+			"move": "Quick Attack",
+			"egg_move": true
+		},
+		{
+			"move": "Superpower",
+			"egg_move": true
+		},
+		{
+			"move": "Toxic",
+			"tm": "TM6"
+		},
+		{
+			"move": "Bulk Up",
+			"tm": "TM8"
+		},
+		{
+			"move": "Hidden Power",
+			"tm": "TM10"
+		},
+		{
+			"move": "Sunny Day",
+			"tm": "TM11"
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": "TM15"
+		},
+		{
+			"move": "Protect",
+			"tm": "TM17"
+		},
+		{
+			"move": "Rain Dance",
+			"tm": "TM18"
+		},
+		{
+			"move": "Frustration",
+			"tm": "TM21"
+		},
+		{
+			"move": "Smack Down",
+			"tm": "TM23"
+		},
+		{
+			"move": "Earthquake",
+			"tm": "TM26"
+		},
+		{
+			"move": "Return",
+			"tm": "TM27"
+		},
+		{
+			"move": "Brick Break",
+			"tm": "TM31"
+		},
+		{
+			"move": "Double Team",
+			"tm": "TM32"
+		},
+		{
+			"move": "Rock Tomb",
+			"tm": "TM39"
+		},
+		{
+			"move": "Facade",
+			"tm": "TM42"
+		},
+		{
+			"move": "Rest",
+			"tm": "TM44"
+		},
+		{
+			"move": "Attract",
+			"tm": "TM45"
+		},
+		{
+			"move": "Thief",
+			"tm": "TM46"
+		},
+		{
+			"move": "Round",
+			"tm": "TM48"
+		},
+		{
+			"move": "Focus Blast",
+			"tm": "TM52"
+		},
+		{
+			"move": "False Swipe",
+			"tm": "TM54"
+		},
+		{
+			"move": "Fling",
+			"tm": "TM56"
+		},
+		{
+			"move": "Brutal Swing",
+			"tm": "TM59"
+		},
+		{
+			"move": "Giga Impact",
+			"tm": "TM68"
+		},
+		{
+			"move": "Stone Edge",
+			"tm": "TM71"
+		},
+		{
+			"move": "Swords Dance",
+			"tm": "TM75"
+		},
+		{
+			"move": "Bulldoze",
+			"tm": "TM78"
+		},
+		{
+			"move": "Rock Slide",
+			"tm": "TM80"
+		},
+		{
+			"move": "X-Scissor",
+			"tm": "TM81"
+		},
+		{
+			"move": "Swagger",
+			"tm": "TM87"
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": "TM88"
+		},
+		{
+			"move": "Substitute",
+			"tm": "TM90"
+		},
+		{
+			"move": "Confide",
+			"tm": "TM100"
+		}
+	]
 }

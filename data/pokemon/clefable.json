@@ -1,451 +1,444 @@
 {
-    "name": "Clefable",
-    "national_id": 36,
-    "types": [
-        "Fairy"
-    ],
-    "items": [
-        {
-            "name": "Moon Stone",
-            "chance": 5
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Cute Charm"
-        },
-        {
-            "name": "Magic Guard"
-        },
-        {
-            "name": "Unaware",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 25,
-    "gender_ratios": {
-        "male": 25,
-        "female": 75
-    },
-    "egg_groups": [
-        "Fairy"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "4'03\"",
-    "height_eu": "1.3 m",
-    "weight_us": "88.2 lbs.",
-    "weight_eu": "40.0 kg",
-    "base_exp_yield": 213,
-    "leveling_rate": "Fast",
-    "base_friendship": 140,
-    "ev_yield": {
-        "hp": 3,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 95,
-        "atk": 70,
-        "def": 73,
-        "sp_atk": 85,
-        "sp_def": 90,
-        "speed": 60
-    },
-    "evolution_from": "Clefairy",
-    "evolutions": [],
-    "species": "Fairy Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "Their ears are sensitive enough to hear a pin drop from over a mile away, so they’re usually found in quiet places.",
-    "move_learnset": [
-        {
-            "move": "Sing",
-            "level": 1
-        },
-        {
-            "move": "Sweet Kiss",
-            "level": 1
-        },
-        {
-            "move": "Disarming Voice",
-            "level": 1
-        },
-        {
-            "move": "Encore",
-            "level": 1
-        },
-        {
-            "move": "Charm",
-            "level": 1
-        },
-        {
-            "move": "Stored Power",
-            "level": 1
-        },
-        {
-            "move": "Minimize",
-            "level": 1
-        },
-        {
-            "move": "After You",
-            "level": 1
-        },
-        {
-            "move": "Life Dew",
-            "level": 1
-        },
-        {
-            "move": "Metronome",
-            "level": 1
-        },
-        {
-            "move": "Moonlight",
-            "level": 1
-        },
-        {
-            "move": "Gravity",
-            "level": 1
-        },
-        {
-            "move": "Meteor Mash",
-            "level": 1
-        },
-        {
-            "move": "Follow Me",
-            "level": 1
-        },
-        {
-            "move": "Cosmic Power",
-            "level": 1
-        },
-        {
-            "move": "Moonblast",
-            "level": 1
-        },
-        {
-            "move": "Healing Wish",
-            "level": 1
-        },
-        {
-            "move": "Splash",
-            "level": 1
-        },
-        {
-            "move": "Pound",
-            "level": 1
-        },
-        {
-            "move": "Copycat",
-            "level": 1
-        },
-        {
-            "move": "Growl",
-            "level": 1
-        },
-        {
-            "move": "Defense Curl",
-            "level": 1
-        },
-        {
-            "move": "Mega Punch",
-            "tm": true
-        },
-        {
-            "move": "Mega Kick",
-            "tm": true
-        },
-        {
-            "move": "Fire Punch",
-            "tm": true
-        },
-        {
-            "move": "Ice Punch",
-            "tm": true
-        },
-        {
-            "move": "Thunder Punch",
-            "tm": true
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": true
-        },
-        {
-            "move": "Giga Impact",
-            "tm": true
-        },
-        {
-            "move": "Magical Leaf",
-            "tm": true
-        },
-        {
-            "move": "Solar Beam",
-            "tm": true
-        },
-        {
-            "move": "Thunder Wave",
-            "tm": true
-        },
-        {
-            "move": "Dig",
-            "tm": true
-        },
-        {
-            "move": "Light Screen",
-            "tm": true
-        },
-        {
-            "move": "Reflect",
-            "tm": true
-        },
-        {
-            "move": "Safeguard",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Icy Wind",
-            "tm": true
-        },
-        {
-            "move": "Charm",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Rain Dance",
-            "tm": true
-        },
-        {
-            "move": "Sunny Day",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Helping Hand",
-            "tm": true
-        },
-        {
-            "move": "Brick Break",
-            "tm": true
-        },
-        {
-            "move": "Imprison",
-            "tm": true
-        },
-        {
-            "move": "Fake Tears",
-            "tm": true
-        },
-        {
-            "move": "Bounce",
-            "tm": true
-        },
-        {
-            "move": "Fling",
-            "tm": true
-        },
-        {
-            "move": "Drain Punch",
-            "tm": true
-        },
-        {
-            "move": "Wonder Room",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Retaliate",
-            "tm": true
-        },
-        {
-            "move": "Draining Kiss",
-            "tm": true
-        },
-        {
-            "move": "Misty Terrain",
-            "tm": true
-        },
-        {
-            "move": "Mystical Fire",
-            "tm": true
-        },
-        {
-            "move": "Body Slam",
-            "tm": true
-        },
-        {
-            "move": "Flamethrower",
-            "tm": true
-        },
-        {
-            "move": "Ice Beam",
-            "tm": true
-        },
-        {
-            "move": "Blizzard",
-            "tm": true
-        },
-        {
-            "move": "Thunderbolt",
-            "tm": true
-        },
-        {
-            "move": "Thunder",
-            "tm": true
-        },
-        {
-            "move": "Psychic",
-            "tm": true
-        },
-        {
-            "move": "Metronome",
-            "tm": true
-        },
-        {
-            "move": "Fire Blast",
-            "tm": true
-        },
-        {
-            "move": "Amnesia",
-            "tm": true
-        },
-        {
-            "move": "Tri Attack",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Psyshock",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Baton Pass",
-            "tm": true
-        },
-        {
-            "move": "Encore",
-            "tm": true
-        },
-        {
-            "move": "Iron Tail",
-            "tm": true
-        },
-        {
-            "move": "Shadow Ball",
-            "tm": true
-        },
-        {
-            "move": "Uproar",
-            "tm": true
-        },
-        {
-            "move": "Trick",
-            "tm": true
-        },
-        {
-            "move": "Hyper Voice",
-            "tm": true
-        },
-        {
-            "move": "Cosmic Power",
-            "tm": true
-        },
-        {
-            "move": "Calm Mind",
-            "tm": true
-        },
-        {
-            "move": "Focus Blast",
-            "tm": true
-        },
-        {
-            "move": "Zen Headbutt",
-            "tm": true
-        },
-        {
-            "move": "Stealth Rock",
-            "tm": true
-        },
-        {
-            "move": "Grass Knot",
-            "tm": true
-        },
-        {
-            "move": "Stored Power",
-            "tm": true
-        },
-        {
-            "move": "Ally Switch",
-            "tm": true
-        },
-        {
-            "move": "Work Up",
-            "tm": true
-        },
-        {
-            "move": "Play Rough",
-            "tm": true
-        },
-        {
-            "move": "Dazzling Gleam",
-            "tm": true
-        },
-        {
-            "move": "Present",
-            "egg_move": true
-        },
-        {
-            "move": "Wish",
-            "egg_move": true
-        },
-        {
-            "move": "Aromatherapy",
-            "egg_move": true
-        },
-        {
-            "move": "Tickle",
-            "egg_move": true
-        },
-        {
-            "move": "Heal Pulse",
-            "egg_move": true
-        }
-    ]
+	"name": "Clefable",
+	"national_id": 36,
+	"types": ["Fairy"],
+	"items": [
+		{
+			"name": "Moon Stone",
+			"chance": 5
+		}
+	],
+	"abilities": [
+		{
+			"name": "Cute Charm"
+		},
+		{
+			"name": "Magic Guard"
+		},
+		{
+			"name": "Unaware",
+			"hidden": true
+		}
+	],
+	"catch_rate": 25,
+	"gender_ratios": {
+		"male": 25,
+		"female": 75
+	},
+	"egg_groups": ["Fairy"],
+	"hatch_time": [5355, 5609],
+	"height_us": "4'03\"",
+	"height_eu": "1.3 m",
+	"weight_us": "88.2 lbs.",
+	"weight_eu": "40.0 kg",
+	"base_exp_yield": 213,
+	"leveling_rate": "Fast",
+	"base_friendship": 140,
+	"ev_yield": {
+		"hp": 3,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 95,
+		"atk": 70,
+		"def": 73,
+		"sp_atk": 85,
+		"sp_def": 90,
+		"speed": 60
+	},
+	"evolution_from": "Clefairy",
+	"evolutions": [],
+	"species": "Fairy Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "Their ears are sensitive enough to hear a pin drop from over a mile away, so they’re usually found in quiet places.",
+	"move_learnset": [
+		{
+			"move": "Sing",
+			"level": 1
+		},
+		{
+			"move": "Sweet Kiss",
+			"level": 1
+		},
+		{
+			"move": "Disarming Voice",
+			"level": 1
+		},
+		{
+			"move": "Encore",
+			"level": 1
+		},
+		{
+			"move": "Charm",
+			"level": 1
+		},
+		{
+			"move": "Stored Power",
+			"level": 1
+		},
+		{
+			"move": "Minimize",
+			"level": 1
+		},
+		{
+			"move": "After You",
+			"level": 1
+		},
+		{
+			"move": "Life Dew",
+			"level": 1
+		},
+		{
+			"move": "Metronome",
+			"level": 1
+		},
+		{
+			"move": "Moonlight",
+			"level": 1
+		},
+		{
+			"move": "Gravity",
+			"level": 1
+		},
+		{
+			"move": "Meteor Mash",
+			"level": 1
+		},
+		{
+			"move": "Follow Me",
+			"level": 1
+		},
+		{
+			"move": "Cosmic Power",
+			"level": 1
+		},
+		{
+			"move": "Moonblast",
+			"level": 1
+		},
+		{
+			"move": "Healing Wish",
+			"level": 1
+		},
+		{
+			"move": "Splash",
+			"level": 1
+		},
+		{
+			"move": "Pound",
+			"level": 1
+		},
+		{
+			"move": "Copycat",
+			"level": 1
+		},
+		{
+			"move": "Growl",
+			"level": 1
+		},
+		{
+			"move": "Defense Curl",
+			"level": 1
+		},
+		{
+			"move": "Mega Punch",
+			"tm": true
+		},
+		{
+			"move": "Mega Kick",
+			"tm": true
+		},
+		{
+			"move": "Fire Punch",
+			"tm": true
+		},
+		{
+			"move": "Ice Punch",
+			"tm": true
+		},
+		{
+			"move": "Thunder Punch",
+			"tm": true
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": true
+		},
+		{
+			"move": "Giga Impact",
+			"tm": true
+		},
+		{
+			"move": "Magical Leaf",
+			"tm": true
+		},
+		{
+			"move": "Solar Beam",
+			"tm": true
+		},
+		{
+			"move": "Thunder Wave",
+			"tm": true
+		},
+		{
+			"move": "Dig",
+			"tm": true
+		},
+		{
+			"move": "Light Screen",
+			"tm": true
+		},
+		{
+			"move": "Reflect",
+			"tm": true
+		},
+		{
+			"move": "Safeguard",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Icy Wind",
+			"tm": true
+		},
+		{
+			"move": "Charm",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Rain Dance",
+			"tm": true
+		},
+		{
+			"move": "Sunny Day",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Helping Hand",
+			"tm": true
+		},
+		{
+			"move": "Brick Break",
+			"tm": true
+		},
+		{
+			"move": "Imprison",
+			"tm": true
+		},
+		{
+			"move": "Fake Tears",
+			"tm": true
+		},
+		{
+			"move": "Bounce",
+			"tm": true
+		},
+		{
+			"move": "Fling",
+			"tm": true
+		},
+		{
+			"move": "Drain Punch",
+			"tm": true
+		},
+		{
+			"move": "Wonder Room",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Retaliate",
+			"tm": true
+		},
+		{
+			"move": "Draining Kiss",
+			"tm": true
+		},
+		{
+			"move": "Misty Terrain",
+			"tm": true
+		},
+		{
+			"move": "Mystical Fire",
+			"tm": true
+		},
+		{
+			"move": "Body Slam",
+			"tm": true
+		},
+		{
+			"move": "Flamethrower",
+			"tm": true
+		},
+		{
+			"move": "Ice Beam",
+			"tm": true
+		},
+		{
+			"move": "Blizzard",
+			"tm": true
+		},
+		{
+			"move": "Thunderbolt",
+			"tm": true
+		},
+		{
+			"move": "Thunder",
+			"tm": true
+		},
+		{
+			"move": "Psychic",
+			"tm": true
+		},
+		{
+			"move": "Metronome",
+			"tm": true
+		},
+		{
+			"move": "Fire Blast",
+			"tm": true
+		},
+		{
+			"move": "Amnesia",
+			"tm": true
+		},
+		{
+			"move": "Tri Attack",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Psyshock",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Baton Pass",
+			"tm": true
+		},
+		{
+			"move": "Encore",
+			"tm": true
+		},
+		{
+			"move": "Iron Tail",
+			"tm": true
+		},
+		{
+			"move": "Shadow Ball",
+			"tm": true
+		},
+		{
+			"move": "Uproar",
+			"tm": true
+		},
+		{
+			"move": "Trick",
+			"tm": true
+		},
+		{
+			"move": "Hyper Voice",
+			"tm": true
+		},
+		{
+			"move": "Cosmic Power",
+			"tm": true
+		},
+		{
+			"move": "Calm Mind",
+			"tm": true
+		},
+		{
+			"move": "Focus Blast",
+			"tm": true
+		},
+		{
+			"move": "Zen Headbutt",
+			"tm": true
+		},
+		{
+			"move": "Stealth Rock",
+			"tm": true
+		},
+		{
+			"move": "Grass Knot",
+			"tm": true
+		},
+		{
+			"move": "Stored Power",
+			"tm": true
+		},
+		{
+			"move": "Ally Switch",
+			"tm": true
+		},
+		{
+			"move": "Work Up",
+			"tm": true
+		},
+		{
+			"move": "Play Rough",
+			"tm": true
+		},
+		{
+			"move": "Dazzling Gleam",
+			"tm": true
+		},
+		{
+			"move": "Present",
+			"egg_move": true
+		},
+		{
+			"move": "Wish",
+			"egg_move": true
+		},
+		{
+			"move": "Aromatherapy",
+			"egg_move": true
+		},
+		{
+			"move": "Tickle",
+			"egg_move": true
+		},
+		{
+			"move": "Heal Pulse",
+			"egg_move": true
+		}
+	]
 }

@@ -1,261 +1,254 @@
 {
-    "name": "Phanpy",
-    "national_id": 231,
-    "types": [
-        "Ground"
-    ],
-    "items": [
-        {
-            "name": "Passho Berry",
-            "chance": 5
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Pickup"
-        },
-        {
-            "name": "Sand Veil",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 120,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Field"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "1'08\"",
-    "height_eu": "0.5 m",
-    "weight_us": "73.9 lbs.",
-    "weight_eu": "33.5 kg",
-    "base_exp_yield": 66,
-    "leveling_rate": "Medium Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 1,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 90,
-        "atk": 60,
-        "def": 60,
-        "sp_atk": 40,
-        "sp_def": 40,
-        "speed": 40
-    },
-    "evolution_from": null,
-    "evolutions": [
-        {
-            "to": "Donphan",
-            "level": 25
-        }
-    ],
-    "species": "Long Nose Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "Phanpy uses its long nose to shower itself. When others gather around, they thoroughly douse each other with water. These Pokémon can be seen drying their soaking-wet bodies at the edge of water.",
-    "move_learnset": [
-        {
-            "move": "Defense Curl",
-            "level": 1
-        },
-        {
-            "move": "Growl",
-            "level": 1
-        },
-        {
-            "move": "Odor Sleuth",
-            "level": 1
-        },
-        {
-            "move": "Tackle",
-            "level": 1
-        },
-        {
-            "move": "Flail",
-            "level": 6
-        },
-        {
-            "move": "Rollout",
-            "level": 10
-        },
-        {
-            "move": "Natural Gift",
-            "level": 15
-        },
-        {
-            "move": "Endure",
-            "level": 19
-        },
-        {
-            "move": "Slam",
-            "level": 24
-        },
-        {
-            "move": "Take Down",
-            "level": 28
-        },
-        {
-            "move": "Charm",
-            "level": 33
-        },
-        {
-            "move": "Last Resort",
-            "level": 37
-        },
-        {
-            "move": "Double-Edge",
-            "level": 42
-        },
-        {
-            "move": "Ancient Power",
-            "egg_move": true
-        },
-        {
-            "move": "Body Slam",
-            "egg_move": true
-        },
-        {
-            "move": "Counter",
-            "egg_move": true
-        },
-        {
-            "move": "Endeavor",
-            "egg_move": true
-        },
-        {
-            "move": "Fissure",
-            "egg_move": true
-        },
-        {
-            "move": "Focus Energy",
-            "egg_move": true
-        },
-        {
-            "move": "Head Smash",
-            "egg_move": true
-        },
-        {
-            "move": "Heavy Slam",
-            "egg_move": true
-        },
-        {
-            "move": "High Horsepower",
-            "egg_move": true
-        },
-        {
-            "move": "Ice Shard",
-            "egg_move": true
-        },
-        {
-            "move": "Mud-Slap",
-            "egg_move": true
-        },
-        {
-            "move": "Play Rough",
-            "egg_move": true
-        },
-        {
-            "move": "Snore",
-            "egg_move": true
-        },
-        {
-            "move": "Roar",
-            "tm": "TM5"
-        },
-        {
-            "move": "Toxic",
-            "tm": "TM6"
-        },
-        {
-            "move": "Hidden Power",
-            "tm": "TM10"
-        },
-        {
-            "move": "Sunny Day",
-            "tm": "TM11"
-        },
-        {
-            "move": "Protect",
-            "tm": "TM17"
-        },
-        {
-            "move": "Frustration",
-            "tm": "TM21"
-        },
-        {
-            "move": "Earthquake",
-            "tm": "TM26"
-        },
-        {
-            "move": "Return",
-            "tm": "TM27"
-        },
-        {
-            "move": "Double Team",
-            "tm": "TM32"
-        },
-        {
-            "move": "Sandstorm",
-            "tm": "TM37"
-        },
-        {
-            "move": "Rock Tomb",
-            "tm": "TM39"
-        },
-        {
-            "move": "Facade",
-            "tm": "TM42"
-        },
-        {
-            "move": "Rest",
-            "tm": "TM44"
-        },
-        {
-            "move": "Attract",
-            "tm": "TM45"
-        },
-        {
-            "move": "Round",
-            "tm": "TM48"
-        },
-        {
-            "move": "Echoed Voice",
-            "tm": "TM49"
-        },
-        {
-            "move": "Bulldoze",
-            "tm": "TM78"
-        },
-        {
-            "move": "Rock Slide",
-            "tm": "TM80"
-        },
-        {
-            "move": "Swagger",
-            "tm": "TM87"
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": "TM88"
-        },
-        {
-            "move": "Substitute",
-            "tm": "TM90"
-        },
-        {
-            "move": "Confide",
-            "tm": "TM100"
-        }
-    ]
+	"name": "Phanpy",
+	"national_id": 231,
+	"types": ["Ground"],
+	"items": [
+		{
+			"name": "Passho Berry",
+			"chance": 5
+		}
+	],
+	"abilities": [
+		{
+			"name": "Pickup"
+		},
+		{
+			"name": "Sand Veil",
+			"hidden": true
+		}
+	],
+	"catch_rate": 120,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Field"],
+	"hatch_time": [5355, 5609],
+	"height_us": "1'08\"",
+	"height_eu": "0.5 m",
+	"weight_us": "73.9 lbs.",
+	"weight_eu": "33.5 kg",
+	"base_exp_yield": 66,
+	"leveling_rate": "Medium Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 1,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 90,
+		"atk": 60,
+		"def": 60,
+		"sp_atk": 40,
+		"sp_def": 40,
+		"speed": 40
+	},
+	"evolution_from": null,
+	"evolutions": [
+		{
+			"to": "Donphan",
+			"level": 25
+		}
+	],
+	"species": "Long Nose Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "Phanpy uses its long nose to shower itself. When others gather around, they thoroughly douse each other with water. These Pokémon can be seen drying their soaking-wet bodies at the edge of water.",
+	"move_learnset": [
+		{
+			"move": "Defense Curl",
+			"level": 1
+		},
+		{
+			"move": "Growl",
+			"level": 1
+		},
+		{
+			"move": "Odor Sleuth",
+			"level": 1
+		},
+		{
+			"move": "Tackle",
+			"level": 1
+		},
+		{
+			"move": "Flail",
+			"level": 6
+		},
+		{
+			"move": "Rollout",
+			"level": 10
+		},
+		{
+			"move": "Natural Gift",
+			"level": 15
+		},
+		{
+			"move": "Endure",
+			"level": 19
+		},
+		{
+			"move": "Slam",
+			"level": 24
+		},
+		{
+			"move": "Take Down",
+			"level": 28
+		},
+		{
+			"move": "Charm",
+			"level": 33
+		},
+		{
+			"move": "Last Resort",
+			"level": 37
+		},
+		{
+			"move": "Double-Edge",
+			"level": 42
+		},
+		{
+			"move": "Ancient Power",
+			"egg_move": true
+		},
+		{
+			"move": "Body Slam",
+			"egg_move": true
+		},
+		{
+			"move": "Counter",
+			"egg_move": true
+		},
+		{
+			"move": "Endeavor",
+			"egg_move": true
+		},
+		{
+			"move": "Fissure",
+			"egg_move": true
+		},
+		{
+			"move": "Focus Energy",
+			"egg_move": true
+		},
+		{
+			"move": "Head Smash",
+			"egg_move": true
+		},
+		{
+			"move": "Heavy Slam",
+			"egg_move": true
+		},
+		{
+			"move": "High Horsepower",
+			"egg_move": true
+		},
+		{
+			"move": "Ice Shard",
+			"egg_move": true
+		},
+		{
+			"move": "Mud-Slap",
+			"egg_move": true
+		},
+		{
+			"move": "Play Rough",
+			"egg_move": true
+		},
+		{
+			"move": "Snore",
+			"egg_move": true
+		},
+		{
+			"move": "Roar",
+			"tm": "TM5"
+		},
+		{
+			"move": "Toxic",
+			"tm": "TM6"
+		},
+		{
+			"move": "Hidden Power",
+			"tm": "TM10"
+		},
+		{
+			"move": "Sunny Day",
+			"tm": "TM11"
+		},
+		{
+			"move": "Protect",
+			"tm": "TM17"
+		},
+		{
+			"move": "Frustration",
+			"tm": "TM21"
+		},
+		{
+			"move": "Earthquake",
+			"tm": "TM26"
+		},
+		{
+			"move": "Return",
+			"tm": "TM27"
+		},
+		{
+			"move": "Double Team",
+			"tm": "TM32"
+		},
+		{
+			"move": "Sandstorm",
+			"tm": "TM37"
+		},
+		{
+			"move": "Rock Tomb",
+			"tm": "TM39"
+		},
+		{
+			"move": "Facade",
+			"tm": "TM42"
+		},
+		{
+			"move": "Rest",
+			"tm": "TM44"
+		},
+		{
+			"move": "Attract",
+			"tm": "TM45"
+		},
+		{
+			"move": "Round",
+			"tm": "TM48"
+		},
+		{
+			"move": "Echoed Voice",
+			"tm": "TM49"
+		},
+		{
+			"move": "Bulldoze",
+			"tm": "TM78"
+		},
+		{
+			"move": "Rock Slide",
+			"tm": "TM80"
+		},
+		{
+			"move": "Swagger",
+			"tm": "TM87"
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": "TM88"
+		},
+		{
+			"move": "Substitute",
+			"tm": "TM90"
+		},
+		{
+			"move": "Confide",
+			"tm": "TM100"
+		}
+	]
 }

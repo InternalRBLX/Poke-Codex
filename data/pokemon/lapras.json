@@ -1,337 +1,328 @@
 {
-    "name": "Lapras",
-    "national_id": 131,
-    "types": [
-        "Water",
-        "Ice"
-    ],
-    "items": [
-        {
-            "name": "Mystic Water",
-            "chance": 100
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Water Absorb"
-        },
-        {
-            "name": "Shell Armor"
-        },
-        {
-            "name": "Hydration",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 45,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Monster",
-        "Water 1"
-    ],
-    "hatch_time": [
-        10455,
-        10709
-    ],
-    "height_us": "8'02\"",
-    "height_eu": "2.5 m",
-    "weight_us": "485.0 lbs.",
-    "weight_eu": "220.0 kg",
-    "base_exp_yield": 187,
-    "leveling_rate": "Slow",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 2,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 130,
-        "atk": 85,
-        "def": 80,
-        "sp_atk": 85,
-        "sp_def": 95,
-        "speed": 60
-    },
-    "evolution_from": null,
-    "evolutions": [],
-    "species": "Transport Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "Crossing icy seas is no issue for this cold-resistant Pokémon. Its smooth skin is a little cool to the touch.",
-    "move_learnset": [
-        {
-            "move": "Growl",
-            "level": 1
-        },
-        {
-            "move": "Water Gun",
-            "level": 1
-        },
-        {
-            "move": "Sing",
-            "level": 5
-        },
-        {
-            "move": "Mist",
-            "level": 10
-        },
-        {
-            "move": "Life Dew",
-            "level": 15
-        },
-        {
-            "move": "Ice Shard",
-            "level": 20
-        },
-        {
-            "move": "Confuse Ray",
-            "level": 25
-        },
-        {
-            "move": "Water Pulse",
-            "level": 30
-        },
-        {
-            "move": "Brine",
-            "level": 35
-        },
-        {
-            "move": "Body Slam",
-            "level": 40
-        },
-        {
-            "move": "Ice Beam",
-            "level": 45
-        },
-        {
-            "move": "Rain Dance",
-            "level": 50
-        },
-        {
-            "move": "Hydro Pump",
-            "level": 55
-        },
-        {
-            "move": "Perish Song",
-            "level": 60
-        },
-        {
-            "move": "Sheer Cold",
-            "level": 65
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": true
-        },
-        {
-            "move": "Giga Impact",
-            "tm": true
-        },
-        {
-            "move": "Safeguard",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Icy Wind",
-            "tm": true
-        },
-        {
-            "move": "Charm",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Rain Dance",
-            "tm": true
-        },
-        {
-            "move": "Hail",
-            "tm": true
-        },
-        {
-            "move": "Whirlpool",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Helping Hand",
-            "tm": true
-        },
-        {
-            "move": "Dive",
-            "tm": true
-        },
-        {
-            "move": "Weather Ball",
-            "tm": true
-        },
-        {
-            "move": "Brine",
-            "tm": true
-        },
-        {
-            "move": "Avalanche",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Bulldoze",
-            "tm": true
-        },
-        {
-            "move": "Smart Strike",
-            "tm": true
-        },
-        {
-            "move": "Body Slam",
-            "tm": true
-        },
-        {
-            "move": "Hydro Pump",
-            "tm": true
-        },
-        {
-            "move": "Surf",
-            "tm": true
-        },
-        {
-            "move": "Ice Beam",
-            "tm": true
-        },
-        {
-            "move": "Blizzard",
-            "tm": true
-        },
-        {
-            "move": "Thunderbolt",
-            "tm": true
-        },
-        {
-            "move": "Thunder",
-            "tm": true
-        },
-        {
-            "move": "Psychic",
-            "tm": true
-        },
-        {
-            "move": "Waterfall",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Outrage",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Megahorn",
-            "tm": true
-        },
-        {
-            "move": "Iron Tail",
-            "tm": true
-        },
-        {
-            "move": "Future Sight",
-            "tm": true
-        },
-        {
-            "move": "Hyper Voice",
-            "tm": true
-        },
-        {
-            "move": "Dragon Dance",
-            "tm": true
-        },
-        {
-            "move": "Dragon Pulse",
-            "tm": true
-        },
-        {
-            "move": "Zen Headbutt",
-            "tm": true
-        },
-        {
-            "move": "Iron Head",
-            "tm": true
-        },
-        {
-            "move": "Drill Run",
-            "tm": true
-        },
-        {
-            "move": "Liquidation",
-            "tm": true
-        },
-        {
-            "move": "Body Press",
-            "tm": true
-        },
-        {
-            "move": "Tickle",
-            "egg_move": true
-        },
-        {
-            "move": "Curse",
-            "egg_move": true
-        },
-        {
-            "move": "Horn Drill",
-            "egg_move": true
-        },
-        {
-            "move": "Ancient Power",
-            "egg_move": true
-        },
-        {
-            "move": "Fissure",
-            "egg_move": true
-        },
-        {
-            "move": "Freeze-Dry",
-            "egg_move": true
-        },
-        {
-            "move": "Sparkling Aria",
-            "egg_move": true
-        }
-    ]
+	"name": "Lapras",
+	"national_id": 131,
+	"types": ["Water", "Ice"],
+	"items": [
+		{
+			"name": "Mystic Water",
+			"chance": 100
+		}
+	],
+	"abilities": [
+		{
+			"name": "Water Absorb"
+		},
+		{
+			"name": "Shell Armor"
+		},
+		{
+			"name": "Hydration",
+			"hidden": true
+		}
+	],
+	"catch_rate": 45,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Monster", "Water 1"],
+	"hatch_time": [10455, 10709],
+	"height_us": "8'02\"",
+	"height_eu": "2.5 m",
+	"weight_us": "485.0 lbs.",
+	"weight_eu": "220.0 kg",
+	"base_exp_yield": 187,
+	"leveling_rate": "Slow",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 2,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 130,
+		"atk": 85,
+		"def": 80,
+		"sp_atk": 85,
+		"sp_def": 95,
+		"speed": 60
+	},
+	"evolution_from": null,
+	"evolutions": [],
+	"species": "Transport Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "Crossing icy seas is no issue for this cold-resistant Pokémon. Its smooth skin is a little cool to the touch.",
+	"move_learnset": [
+		{
+			"move": "Growl",
+			"level": 1
+		},
+		{
+			"move": "Water Gun",
+			"level": 1
+		},
+		{
+			"move": "Sing",
+			"level": 5
+		},
+		{
+			"move": "Mist",
+			"level": 10
+		},
+		{
+			"move": "Life Dew",
+			"level": 15
+		},
+		{
+			"move": "Ice Shard",
+			"level": 20
+		},
+		{
+			"move": "Confuse Ray",
+			"level": 25
+		},
+		{
+			"move": "Water Pulse",
+			"level": 30
+		},
+		{
+			"move": "Brine",
+			"level": 35
+		},
+		{
+			"move": "Body Slam",
+			"level": 40
+		},
+		{
+			"move": "Ice Beam",
+			"level": 45
+		},
+		{
+			"move": "Rain Dance",
+			"level": 50
+		},
+		{
+			"move": "Hydro Pump",
+			"level": 55
+		},
+		{
+			"move": "Perish Song",
+			"level": 60
+		},
+		{
+			"move": "Sheer Cold",
+			"level": 65
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": true
+		},
+		{
+			"move": "Giga Impact",
+			"tm": true
+		},
+		{
+			"move": "Safeguard",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Icy Wind",
+			"tm": true
+		},
+		{
+			"move": "Charm",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Rain Dance",
+			"tm": true
+		},
+		{
+			"move": "Hail",
+			"tm": true
+		},
+		{
+			"move": "Whirlpool",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Helping Hand",
+			"tm": true
+		},
+		{
+			"move": "Dive",
+			"tm": true
+		},
+		{
+			"move": "Weather Ball",
+			"tm": true
+		},
+		{
+			"move": "Brine",
+			"tm": true
+		},
+		{
+			"move": "Avalanche",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Bulldoze",
+			"tm": true
+		},
+		{
+			"move": "Smart Strike",
+			"tm": true
+		},
+		{
+			"move": "Body Slam",
+			"tm": true
+		},
+		{
+			"move": "Hydro Pump",
+			"tm": true
+		},
+		{
+			"move": "Surf",
+			"tm": true
+		},
+		{
+			"move": "Ice Beam",
+			"tm": true
+		},
+		{
+			"move": "Blizzard",
+			"tm": true
+		},
+		{
+			"move": "Thunderbolt",
+			"tm": true
+		},
+		{
+			"move": "Thunder",
+			"tm": true
+		},
+		{
+			"move": "Psychic",
+			"tm": true
+		},
+		{
+			"move": "Waterfall",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Outrage",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Megahorn",
+			"tm": true
+		},
+		{
+			"move": "Iron Tail",
+			"tm": true
+		},
+		{
+			"move": "Future Sight",
+			"tm": true
+		},
+		{
+			"move": "Hyper Voice",
+			"tm": true
+		},
+		{
+			"move": "Dragon Dance",
+			"tm": true
+		},
+		{
+			"move": "Dragon Pulse",
+			"tm": true
+		},
+		{
+			"move": "Zen Headbutt",
+			"tm": true
+		},
+		{
+			"move": "Iron Head",
+			"tm": true
+		},
+		{
+			"move": "Drill Run",
+			"tm": true
+		},
+		{
+			"move": "Liquidation",
+			"tm": true
+		},
+		{
+			"move": "Body Press",
+			"tm": true
+		},
+		{
+			"move": "Tickle",
+			"egg_move": true
+		},
+		{
+			"move": "Curse",
+			"egg_move": true
+		},
+		{
+			"move": "Horn Drill",
+			"egg_move": true
+		},
+		{
+			"move": "Ancient Power",
+			"egg_move": true
+		},
+		{
+			"move": "Fissure",
+			"egg_move": true
+		},
+		{
+			"move": "Freeze-Dry",
+			"egg_move": true
+		},
+		{
+			"move": "Sparkling Aria",
+			"egg_move": true
+		}
+	]
 }

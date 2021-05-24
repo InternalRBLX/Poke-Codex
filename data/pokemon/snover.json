@@ -1,259 +1,250 @@
 {
-    "name": "Snover",
-    "national_id": 459,
-    "types": [
-        "Grass",
-        "Ice"
-    ],
-    "items": [
-        {
-            "name": "Never-Melt Ice",
-            "chance": 5
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Snow Warning"
-        },
-        {
-            "name": "Soundproof",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 120,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Monster",
-        "Grass"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "3'03\"",
-    "height_eu": "1.0 m",
-    "weight_us": "111.3 lbs.",
-    "weight_eu": "50.5 kg",
-    "base_exp_yield": 67,
-    "leveling_rate": "Slow",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 1,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 60,
-        "atk": 62,
-        "def": 50,
-        "sp_atk": 62,
-        "sp_def": 60,
-        "speed": 40
-    },
-    "evolution_from": null,
-    "evolutions": [
-        {
-            "to": "Abomasnow",
-            "level": 40
-        }
-    ],
-    "species": "Frost Tree Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "The berries that grow around its belly are like ice pops. Galarian Darumaka absolutely love these berries.",
-    "move_learnset": [
-        {
-            "move": "Powder Snow",
-            "level": 1
-        },
-        {
-            "move": "Leer",
-            "level": 1
-        },
-        {
-            "move": "Leafage",
-            "level": 5
-        },
-        {
-            "move": "Mist",
-            "level": 10
-        },
-        {
-            "move": "Ice Shard",
-            "level": 15
-        },
-        {
-            "move": "Razor Leaf",
-            "level": 20
-        },
-        {
-            "move": "Icy Wind",
-            "level": 25
-        },
-        {
-            "move": "Swagger",
-            "level": 30
-        },
-        {
-            "move": "Ingrain",
-            "level": 35
-        },
-        {
-            "move": "Wood Hammer",
-            "level": 41
-        },
-        {
-            "move": "Blizzard",
-            "level": 45
-        },
-        {
-            "move": "Sheer Cold",
-            "level": 50
-        },
-        {
-            "move": "Mega Punch",
-            "tm": true
-        },
-        {
-            "move": "Ice Punch",
-            "tm": true
-        },
-        {
-            "move": "Magical Leaf",
-            "tm": true
-        },
-        {
-            "move": "Solar Beam",
-            "tm": true
-        },
-        {
-            "move": "Light Screen",
-            "tm": true
-        },
-        {
-            "move": "Safeguard",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Icy Wind",
-            "tm": true
-        },
-        {
-            "move": "Giga Drain",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Rain Dance",
-            "tm": true
-        },
-        {
-            "move": "Hail",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Weather Ball",
-            "tm": true
-        },
-        {
-            "move": "Bullet Seed",
-            "tm": true
-        },
-        {
-            "move": "Avalanche",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Swords Dance",
-            "tm": true
-        },
-        {
-            "move": "Ice Beam",
-            "tm": true
-        },
-        {
-            "move": "Blizzard",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Iron Tail",
-            "tm": true
-        },
-        {
-            "move": "Shadow Ball",
-            "tm": true
-        },
-        {
-            "move": "Seed Bomb",
-            "tm": true
-        },
-        {
-            "move": "Energy Ball",
-            "tm": true
-        },
-        {
-            "move": "Grass Knot",
-            "tm": true
-        },
-        {
-            "move": "Leech Seed",
-            "egg_move": true
-        },
-        {
-            "move": "Growth",
-            "egg_move": true
-        },
-        {
-            "move": "Double-Edge",
-            "egg_move": true
-        },
-        {
-            "move": "Stomp",
-            "egg_move": true
-        },
-        {
-            "move": "Skull Bash",
-            "egg_move": true
-        }
-    ]
+	"name": "Snover",
+	"national_id": 459,
+	"types": ["Grass", "Ice"],
+	"items": [
+		{
+			"name": "Never-Melt Ice",
+			"chance": 5
+		}
+	],
+	"abilities": [
+		{
+			"name": "Snow Warning"
+		},
+		{
+			"name": "Soundproof",
+			"hidden": true
+		}
+	],
+	"catch_rate": 120,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Monster", "Grass"],
+	"hatch_time": [5355, 5609],
+	"height_us": "3'03\"",
+	"height_eu": "1.0 m",
+	"weight_us": "111.3 lbs.",
+	"weight_eu": "50.5 kg",
+	"base_exp_yield": 67,
+	"leveling_rate": "Slow",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 1,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 60,
+		"atk": 62,
+		"def": 50,
+		"sp_atk": 62,
+		"sp_def": 60,
+		"speed": 40
+	},
+	"evolution_from": null,
+	"evolutions": [
+		{
+			"to": "Abomasnow",
+			"level": 40
+		}
+	],
+	"species": "Frost Tree Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "The berries that grow around its belly are like ice pops. Galarian Darumaka absolutely love these berries.",
+	"move_learnset": [
+		{
+			"move": "Powder Snow",
+			"level": 1
+		},
+		{
+			"move": "Leer",
+			"level": 1
+		},
+		{
+			"move": "Leafage",
+			"level": 5
+		},
+		{
+			"move": "Mist",
+			"level": 10
+		},
+		{
+			"move": "Ice Shard",
+			"level": 15
+		},
+		{
+			"move": "Razor Leaf",
+			"level": 20
+		},
+		{
+			"move": "Icy Wind",
+			"level": 25
+		},
+		{
+			"move": "Swagger",
+			"level": 30
+		},
+		{
+			"move": "Ingrain",
+			"level": 35
+		},
+		{
+			"move": "Wood Hammer",
+			"level": 41
+		},
+		{
+			"move": "Blizzard",
+			"level": 45
+		},
+		{
+			"move": "Sheer Cold",
+			"level": 50
+		},
+		{
+			"move": "Mega Punch",
+			"tm": true
+		},
+		{
+			"move": "Ice Punch",
+			"tm": true
+		},
+		{
+			"move": "Magical Leaf",
+			"tm": true
+		},
+		{
+			"move": "Solar Beam",
+			"tm": true
+		},
+		{
+			"move": "Light Screen",
+			"tm": true
+		},
+		{
+			"move": "Safeguard",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Icy Wind",
+			"tm": true
+		},
+		{
+			"move": "Giga Drain",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Rain Dance",
+			"tm": true
+		},
+		{
+			"move": "Hail",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Weather Ball",
+			"tm": true
+		},
+		{
+			"move": "Bullet Seed",
+			"tm": true
+		},
+		{
+			"move": "Avalanche",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Swords Dance",
+			"tm": true
+		},
+		{
+			"move": "Ice Beam",
+			"tm": true
+		},
+		{
+			"move": "Blizzard",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Iron Tail",
+			"tm": true
+		},
+		{
+			"move": "Shadow Ball",
+			"tm": true
+		},
+		{
+			"move": "Seed Bomb",
+			"tm": true
+		},
+		{
+			"move": "Energy Ball",
+			"tm": true
+		},
+		{
+			"move": "Grass Knot",
+			"tm": true
+		},
+		{
+			"move": "Leech Seed",
+			"egg_move": true
+		},
+		{
+			"move": "Growth",
+			"egg_move": true
+		},
+		{
+			"move": "Double-Edge",
+			"egg_move": true
+		},
+		{
+			"move": "Stomp",
+			"egg_move": true
+		},
+		{
+			"move": "Skull Bash",
+			"egg_move": true
+		}
+	]
 }

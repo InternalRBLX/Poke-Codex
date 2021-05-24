@@ -1,290 +1,282 @@
 {
-    "name": "Noctowl",
-    "national_id": 164,
-    "types": [
-        "Normal",
-        "Flying"
-    ],
-    "abilities": [
-        {
-            "name": "Insomnia"
-        },
-        {
-            "name": "Keen Eye"
-        },
-        {
-            "name": "Tinted Lens",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 90,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Flying"
-    ],
-    "hatch_time": [
-        4080,
-        4334
-    ],
-    "height_us": "5'03\"",
-    "height_eu": "1.6 m",
-    "weight_us": "89.9 lbs.",
-    "weight_eu": "40.8 kg",
-    "base_exp_yield": 155,
-    "leveling_rate": "Medium Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 2,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 100,
-        "atk": 50,
-        "def": 50,
-        "sp_atk": 76,
-        "sp_def": 96,
-        "speed": 70
-    },
-    "evolution_from": "Hoothoot",
-    "evolutions": [],
-    "species": "Owl Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "When it needs to think, it rotates its head 180 degrees to sharpen its intellectual power.",
-    "move_learnset": [
-        {
-            "move": "Sky Attack",
-            "level": 1
-        },
-        {
-            "move": "Peck",
-            "level": 1
-        },
-        {
-            "move": "Growl",
-            "level": 1
-        },
-        {
-            "move": "Tackle",
-            "level": 1
-        },
-        {
-            "move": "Echoed Voice",
-            "level": 1
-        },
-        {
-            "move": "Confusion",
-            "level": 9
-        },
-        {
-            "move": "Reflect",
-            "level": 12
-        },
-        {
-            "move": "Psycho Shift",
-            "level": 15
-        },
-        {
-            "move": "Air Slash",
-            "level": 18
-        },
-        {
-            "move": "Extrasensory",
-            "level": 23
-        },
-        {
-            "move": "Take Down",
-            "level": 28
-        },
-        {
-            "move": "Uproar",
-            "level": 33
-        },
-        {
-            "move": "Roost",
-            "level": 38
-        },
-        {
-            "move": "Moonblast",
-            "level": 43
-        },
-        {
-            "move": "Hypnosis",
-            "level": 48
-        },
-        {
-            "move": "Dream Eater",
-            "level": 53
-        },
-        {
-            "move": "Fly",
-            "tm": true
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": true
-        },
-        {
-            "move": "Giga Impact",
-            "tm": true
-        },
-        {
-            "move": "Screech",
-            "tm": true
-        },
-        {
-            "move": "Reflect",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Thief",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Steel Wing",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Rain Dance",
-            "tm": true
-        },
-        {
-            "move": "Sunny Day",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Swift",
-            "tm": true
-        },
-        {
-            "move": "Imprison",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Air Slash",
-            "tm": true
-        },
-        {
-            "move": "Psychic",
-            "tm": true
-        },
-        {
-            "move": "Agility",
-            "tm": true
-        },
-        {
-            "move": "Amnesia",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Shadow Ball",
-            "tm": true
-        },
-        {
-            "move": "Future Sight",
-            "tm": true
-        },
-        {
-            "move": "Uproar",
-            "tm": true
-        },
-        {
-            "move": "Heat Wave",
-            "tm": true
-        },
-        {
-            "move": "Hyper Voice",
-            "tm": true
-        },
-        {
-            "move": "Calm Mind",
-            "tm": true
-        },
-        {
-            "move": "Nasty Plot",
-            "tm": true
-        },
-        {
-            "move": "Zen Headbutt",
-            "tm": true
-        },
-        {
-            "move": "Stored Power",
-            "tm": true
-        },
-        {
-            "move": "Work Up",
-            "tm": true
-        },
-        {
-            "move": "Hurricane",
-            "tm": true
-        },
-        {
-            "move": "Supersonic",
-            "egg_move": true
-        },
-        {
-            "move": "Wing Attack",
-            "egg_move": true
-        },
-        {
-            "move": "Whirlwind",
-            "egg_move": true
-        },
-        {
-            "move": "Feather Dance",
-            "egg_move": true
-        },
-        {
-            "move": "Night Shade",
-            "egg_move": true
-        },
-        {
-            "move": "Defog",
-            "egg_move": true
-        }
-    ]
+	"name": "Noctowl",
+	"national_id": 164,
+	"types": ["Normal", "Flying"],
+	"abilities": [
+		{
+			"name": "Insomnia"
+		},
+		{
+			"name": "Keen Eye"
+		},
+		{
+			"name": "Tinted Lens",
+			"hidden": true
+		}
+	],
+	"catch_rate": 90,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Flying"],
+	"hatch_time": [4080, 4334],
+	"height_us": "5'03\"",
+	"height_eu": "1.6 m",
+	"weight_us": "89.9 lbs.",
+	"weight_eu": "40.8 kg",
+	"base_exp_yield": 155,
+	"leveling_rate": "Medium Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 2,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 100,
+		"atk": 50,
+		"def": 50,
+		"sp_atk": 76,
+		"sp_def": 96,
+		"speed": 70
+	},
+	"evolution_from": "Hoothoot",
+	"evolutions": [],
+	"species": "Owl Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "When it needs to think, it rotates its head 180 degrees to sharpen its intellectual power.",
+	"move_learnset": [
+		{
+			"move": "Sky Attack",
+			"level": 1
+		},
+		{
+			"move": "Peck",
+			"level": 1
+		},
+		{
+			"move": "Growl",
+			"level": 1
+		},
+		{
+			"move": "Tackle",
+			"level": 1
+		},
+		{
+			"move": "Echoed Voice",
+			"level": 1
+		},
+		{
+			"move": "Confusion",
+			"level": 9
+		},
+		{
+			"move": "Reflect",
+			"level": 12
+		},
+		{
+			"move": "Psycho Shift",
+			"level": 15
+		},
+		{
+			"move": "Air Slash",
+			"level": 18
+		},
+		{
+			"move": "Extrasensory",
+			"level": 23
+		},
+		{
+			"move": "Take Down",
+			"level": 28
+		},
+		{
+			"move": "Uproar",
+			"level": 33
+		},
+		{
+			"move": "Roost",
+			"level": 38
+		},
+		{
+			"move": "Moonblast",
+			"level": 43
+		},
+		{
+			"move": "Hypnosis",
+			"level": 48
+		},
+		{
+			"move": "Dream Eater",
+			"level": 53
+		},
+		{
+			"move": "Fly",
+			"tm": true
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": true
+		},
+		{
+			"move": "Giga Impact",
+			"tm": true
+		},
+		{
+			"move": "Screech",
+			"tm": true
+		},
+		{
+			"move": "Reflect",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Thief",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Steel Wing",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Rain Dance",
+			"tm": true
+		},
+		{
+			"move": "Sunny Day",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Swift",
+			"tm": true
+		},
+		{
+			"move": "Imprison",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Air Slash",
+			"tm": true
+		},
+		{
+			"move": "Psychic",
+			"tm": true
+		},
+		{
+			"move": "Agility",
+			"tm": true
+		},
+		{
+			"move": "Amnesia",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Shadow Ball",
+			"tm": true
+		},
+		{
+			"move": "Future Sight",
+			"tm": true
+		},
+		{
+			"move": "Uproar",
+			"tm": true
+		},
+		{
+			"move": "Heat Wave",
+			"tm": true
+		},
+		{
+			"move": "Hyper Voice",
+			"tm": true
+		},
+		{
+			"move": "Calm Mind",
+			"tm": true
+		},
+		{
+			"move": "Nasty Plot",
+			"tm": true
+		},
+		{
+			"move": "Zen Headbutt",
+			"tm": true
+		},
+		{
+			"move": "Stored Power",
+			"tm": true
+		},
+		{
+			"move": "Work Up",
+			"tm": true
+		},
+		{
+			"move": "Hurricane",
+			"tm": true
+		},
+		{
+			"move": "Supersonic",
+			"egg_move": true
+		},
+		{
+			"move": "Wing Attack",
+			"egg_move": true
+		},
+		{
+			"move": "Whirlwind",
+			"egg_move": true
+		},
+		{
+			"move": "Feather Dance",
+			"egg_move": true
+		},
+		{
+			"move": "Night Shade",
+			"egg_move": true
+		},
+		{
+			"move": "Defog",
+			"egg_move": true
+		}
+	]
 }

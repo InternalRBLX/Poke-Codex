@@ -1,8 +1,8 @@
 {
-    "name": "Heal Powder",
-    "sell_price": 150,
-    "holdable": true,
-    "battle": true,
-    "category": "Medicine",
-    "subcategory": "Status"
+	"name": "Heal Powder",
+	"sell_price": 150,
+	"holdable": true,
+	"battle": true,
+	"category": "Medicine",
+	"subcategory": "Status"
 }

@@ -1,296 +1,289 @@
 {
-    "name": "Donphan",
-    "national_id": 232,
-    "types": [
-        "Ground"
-    ],
-    "items": [
-        {
-            "name": "Passho Berry",
-            "chance": 5
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Sturdy"
-        },
-        {
-            "name": "Sand Veil",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 60,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Field"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "3'07\"",
-    "height_eu": "1.1 m",
-    "weight_us": "264.6 lbs.",
-    "weight_eu": "120.0 kg",
-    "base_exp_yield": 175,
-    "leveling_rate": "Medium Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 1,
-        "def": 1,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 90,
-        "atk": 120,
-        "def": 120,
-        "sp_atk": 60,
-        "sp_def": 60,
-        "speed": 50
-    },
-    "evolution_from": "Phanpy",
-    "evolutions": [],
-    "species": "Armor Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "If Donphan were to tackle with its hard body, even a house could be destroyed. Using its massive strength, the Pokémon helps clear rock and mud slides that block mountain trails.",
-    "move_learnset": [
-        {
-            "move": "Bulldoze",
-            "level": 1
-        },
-        {
-            "move": "Defense Curl",
-            "level": 1
-        },
-        {
-            "move": "Fire Fang",
-            "level": 1
-        },
-        {
-            "move": "Fury Attack",
-            "level": 1
-        },
-        {
-            "move": "Growl",
-            "level": 1
-        },
-        {
-            "move": "Horn Attack",
-            "level": 1
-        },
-        {
-            "move": "Thunder Fang",
-            "level": 1
-        },
-        {
-            "move": "Rapid Spin",
-            "level": 6
-        },
-        {
-            "move": "Rollout",
-            "level": 10
-        },
-        {
-            "move": "Assurance",
-            "level": 15
-        },
-        {
-            "move": "Knock Off",
-            "level": 19
-        },
-        {
-            "move": "Slam",
-            "level": 24
-        },
-        {
-            "move": "Magnitude",
-            "level": 30
-        },
-        {
-            "move": "Scary Face",
-            "level": 37
-        },
-        {
-            "move": "Earthquake",
-            "level": 43
-        },
-        {
-            "move": "Giga Impact",
-            "level": 50
-        },
-        {
-            "move": "Ancient Power",
-            "egg_move": true
-        },
-        {
-            "move": "Body Slam",
-            "egg_move": true
-        },
-        {
-            "move": "Counter",
-            "egg_move": true
-        },
-        {
-            "move": "Endeavor",
-            "egg_move": true
-        },
-        {
-            "move": "Fissure",
-            "egg_move": true
-        },
-        {
-            "move": "Focus Energy",
-            "egg_move": true
-        },
-        {
-            "move": "Head Smash",
-            "egg_move": true
-        },
-        {
-            "move": "Heavy Slam",
-            "egg_move": true
-        },
-        {
-            "move": "High Horsepower",
-            "egg_move": true
-        },
-        {
-            "move": "Ice Shard",
-            "egg_move": true
-        },
-        {
-            "move": "Mud-Slap",
-            "egg_move": true
-        },
-        {
-            "move": "Play Rough",
-            "egg_move": true
-        },
-        {
-            "move": "Snore",
-            "egg_move": true
-        },
-        {
-            "move": "Roar",
-            "tm": "TM5"
-        },
-        {
-            "move": "Toxic",
-            "tm": "TM6"
-        },
-        {
-            "move": "Hidden Power",
-            "tm": "TM10"
-        },
-        {
-            "move": "Sunny Day",
-            "tm": "TM11"
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": "TM15"
-        },
-        {
-            "move": "Protect",
-            "tm": "TM17"
-        },
-        {
-            "move": "Frustration",
-            "tm": "TM21"
-        },
-        {
-            "move": "Earthquake",
-            "tm": "TM26"
-        },
-        {
-            "move": "Return",
-            "tm": "TM27"
-        },
-        {
-            "move": "Double Team",
-            "tm": "TM32"
-        },
-        {
-            "move": "Sandstorm",
-            "tm": "TM37"
-        },
-        {
-            "move": "Rock Tomb",
-            "tm": "TM39"
-        },
-        {
-            "move": "Facade",
-            "tm": "TM42"
-        },
-        {
-            "move": "Rest",
-            "tm": "TM44"
-        },
-        {
-            "move": "Attract",
-            "tm": "TM45"
-        },
-        {
-            "move": "Round",
-            "tm": "TM48"
-        },
-        {
-            "move": "Echoed Voice",
-            "tm": "TM49"
-        },
-        {
-            "move": "Brutal Swing",
-            "tm": "TM59"
-        },
-        {
-            "move": "Giga Impact",
-            "tm": "TM68"
-        },
-        {
-            "move": "Rock Polish",
-            "tm": "TM69"
-        },
-        {
-            "move": "Stone Edge",
-            "tm": "TM71"
-        },
-        {
-            "move": "Gyro Ball",
-            "tm": "TM74"
-        },
-        {
-            "move": "Bulldoze",
-            "tm": "TM78"
-        },
-        {
-            "move": "Rock Slide",
-            "tm": "TM80"
-        },
-        {
-            "move": "Poison Jab",
-            "tm": "TM84"
-        },
-        {
-            "move": "Swagger",
-            "tm": "TM87"
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": "TM88"
-        },
-        {
-            "move": "Substitute",
-            "tm": "TM90"
-        },
-        {
-            "move": "Confide",
-            "tm": "TM100"
-        }
-    ]
+	"name": "Donphan",
+	"national_id": 232,
+	"types": ["Ground"],
+	"items": [
+		{
+			"name": "Passho Berry",
+			"chance": 5
+		}
+	],
+	"abilities": [
+		{
+			"name": "Sturdy"
+		},
+		{
+			"name": "Sand Veil",
+			"hidden": true
+		}
+	],
+	"catch_rate": 60,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Field"],
+	"hatch_time": [5355, 5609],
+	"height_us": "3'07\"",
+	"height_eu": "1.1 m",
+	"weight_us": "264.6 lbs.",
+	"weight_eu": "120.0 kg",
+	"base_exp_yield": 175,
+	"leveling_rate": "Medium Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 1,
+		"def": 1,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 90,
+		"atk": 120,
+		"def": 120,
+		"sp_atk": 60,
+		"sp_def": 60,
+		"speed": 50
+	},
+	"evolution_from": "Phanpy",
+	"evolutions": [],
+	"species": "Armor Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "If Donphan were to tackle with its hard body, even a house could be destroyed. Using its massive strength, the Pokémon helps clear rock and mud slides that block mountain trails.",
+	"move_learnset": [
+		{
+			"move": "Bulldoze",
+			"level": 1
+		},
+		{
+			"move": "Defense Curl",
+			"level": 1
+		},
+		{
+			"move": "Fire Fang",
+			"level": 1
+		},
+		{
+			"move": "Fury Attack",
+			"level": 1
+		},
+		{
+			"move": "Growl",
+			"level": 1
+		},
+		{
+			"move": "Horn Attack",
+			"level": 1
+		},
+		{
+			"move": "Thunder Fang",
+			"level": 1
+		},
+		{
+			"move": "Rapid Spin",
+			"level": 6
+		},
+		{
+			"move": "Rollout",
+			"level": 10
+		},
+		{
+			"move": "Assurance",
+			"level": 15
+		},
+		{
+			"move": "Knock Off",
+			"level": 19
+		},
+		{
+			"move": "Slam",
+			"level": 24
+		},
+		{
+			"move": "Magnitude",
+			"level": 30
+		},
+		{
+			"move": "Scary Face",
+			"level": 37
+		},
+		{
+			"move": "Earthquake",
+			"level": 43
+		},
+		{
+			"move": "Giga Impact",
+			"level": 50
+		},
+		{
+			"move": "Ancient Power",
+			"egg_move": true
+		},
+		{
+			"move": "Body Slam",
+			"egg_move": true
+		},
+		{
+			"move": "Counter",
+			"egg_move": true
+		},
+		{
+			"move": "Endeavor",
+			"egg_move": true
+		},
+		{
+			"move": "Fissure",
+			"egg_move": true
+		},
+		{
+			"move": "Focus Energy",
+			"egg_move": true
+		},
+		{
+			"move": "Head Smash",
+			"egg_move": true
+		},
+		{
+			"move": "Heavy Slam",
+			"egg_move": true
+		},
+		{
+			"move": "High Horsepower",
+			"egg_move": true
+		},
+		{
+			"move": "Ice Shard",
+			"egg_move": true
+		},
+		{
+			"move": "Mud-Slap",
+			"egg_move": true
+		},
+		{
+			"move": "Play Rough",
+			"egg_move": true
+		},
+		{
+			"move": "Snore",
+			"egg_move": true
+		},
+		{
+			"move": "Roar",
+			"tm": "TM5"
+		},
+		{
+			"move": "Toxic",
+			"tm": "TM6"
+		},
+		{
+			"move": "Hidden Power",
+			"tm": "TM10"
+		},
+		{
+			"move": "Sunny Day",
+			"tm": "TM11"
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": "TM15"
+		},
+		{
+			"move": "Protect",
+			"tm": "TM17"
+		},
+		{
+			"move": "Frustration",
+			"tm": "TM21"
+		},
+		{
+			"move": "Earthquake",
+			"tm": "TM26"
+		},
+		{
+			"move": "Return",
+			"tm": "TM27"
+		},
+		{
+			"move": "Double Team",
+			"tm": "TM32"
+		},
+		{
+			"move": "Sandstorm",
+			"tm": "TM37"
+		},
+		{
+			"move": "Rock Tomb",
+			"tm": "TM39"
+		},
+		{
+			"move": "Facade",
+			"tm": "TM42"
+		},
+		{
+			"move": "Rest",
+			"tm": "TM44"
+		},
+		{
+			"move": "Attract",
+			"tm": "TM45"
+		},
+		{
+			"move": "Round",
+			"tm": "TM48"
+		},
+		{
+			"move": "Echoed Voice",
+			"tm": "TM49"
+		},
+		{
+			"move": "Brutal Swing",
+			"tm": "TM59"
+		},
+		{
+			"move": "Giga Impact",
+			"tm": "TM68"
+		},
+		{
+			"move": "Rock Polish",
+			"tm": "TM69"
+		},
+		{
+			"move": "Stone Edge",
+			"tm": "TM71"
+		},
+		{
+			"move": "Gyro Ball",
+			"tm": "TM74"
+		},
+		{
+			"move": "Bulldoze",
+			"tm": "TM78"
+		},
+		{
+			"move": "Rock Slide",
+			"tm": "TM80"
+		},
+		{
+			"move": "Poison Jab",
+			"tm": "TM84"
+		},
+		{
+			"move": "Swagger",
+			"tm": "TM87"
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": "TM88"
+		},
+		{
+			"move": "Substitute",
+			"tm": "TM90"
+		},
+		{
+			"move": "Confide",
+			"tm": "TM100"
+		}
+	]
 }

@@ -1,6 +1,6 @@
 # Poke-Codex
 
-A discord pokemon bot
+### A discord pokemon bot
 
 # Author
 
@@ -12,4 +12,8 @@ A discord pokemon bot
 
 # Datastore
 
-## It will be using MySQL to store data!
+### It will be using MySQL to store data!
+
+# Credits
+
+### All Models Of Pokemon from: https://www.pkparaiso.com/espada_escudo/sprites_pokemon.php and https://pokemonshowdown.com/

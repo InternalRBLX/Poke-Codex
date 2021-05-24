@@ -1,304 +1,297 @@
 {
-    "name": "Spoink",
-    "national_id": 325,
-    "types": [
-        "Psychic"
-    ],
-    "items": [
-        {
-            "name": "Persim Berry",
-            "chance": 50
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Thick Fat"
-        },
-        {
-            "name": "Own Tempo"
-        },
-        {
-            "name": "Gluttony",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 255,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Field"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "2'04\"",
-    "height_eu": "0.7 m",
-    "weight_us": "67.5 lbs.",
-    "weight_eu": "30.6 kg",
-    "base_exp_yield": 66,
-    "leveling_rate": "Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 1,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 60,
-        "atk": 25,
-        "def": 35,
-        "sp_atk": 70,
-        "sp_def": 80,
-        "speed": 60
-    },
-    "evolution_from": null,
-    "evolutions": [
-        {
-            "to": "Grumpig",
-            "level": 32
-        }
-    ],
-    "species": "Bounce Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "Spoink keeps a pearl on top of its head. The pearl functions to amplify this Pokémon’s psychokinetic powers. It is therefore on a constant search for a bigger pearl.",
-    "move_learnset": [
-        {
-            "move": "Splash",
-            "level": 1
-        },
-        {
-            "move": "Psywave",
-            "level": 7
-        },
-        {
-            "move": "Odor Sleuth",
-            "level": 10
-        },
-        {
-            "move": "Psybeam",
-            "level": 14
-        },
-        {
-            "move": "Psych Up",
-            "level": 15
-        },
-        {
-            "move": "Confuse Ray",
-            "level": 18
-        },
-        {
-            "move": "Magic Coat",
-            "level": 21
-        },
-        {
-            "move": "Zen Headbutt",
-            "level": 26
-        },
-        {
-            "move": "Power Gem",
-            "level": 29
-        },
-        {
-            "move": "Rest",
-            "level": 29
-        },
-        {
-            "move": "Snore",
-            "level": 33
-        },
-        {
-            "move": "Psyshock",
-            "level": 38
-        },
-        {
-            "move": "Payback",
-            "level": 40
-        },
-        {
-            "move": "Psychic",
-            "level": 44
-        },
-        {
-            "move": "Bounce",
-            "level": 50
-        },
-        {
-            "move": "Amnesia",
-            "egg_move": true
-        },
-        {
-            "move": "Endure",
-            "egg_move": true
-        },
-        {
-            "move": "Extrasensory",
-            "egg_move": true
-        },
-        {
-            "move": "Future Sight",
-            "egg_move": true
-        },
-        {
-            "move": "Lucky Chant",
-            "egg_move": true
-        },
-        {
-            "move": "Mirror Coat",
-            "egg_move": true
-        },
-        {
-            "move": "Simple Beam",
-            "egg_move": true
-        },
-        {
-            "move": "Skill Swap",
-            "egg_move": true
-        },
-        {
-            "move": "Trick",
-            "egg_move": true
-        },
-        {
-            "move": "Whirlwind",
-            "egg_move": true
-        },
-        {
-            "move": "Zen Headbutt",
-            "egg_move": true
-        },
-        {
-            "move": "Psyshock",
-            "tm": "TM3"
-        },
-        {
-            "move": "Calm Mind",
-            "tm": "TM4"
-        },
-        {
-            "move": "Toxic",
-            "tm": "TM6"
-        },
-        {
-            "move": "Hidden Power",
-            "tm": "TM10"
-        },
-        {
-            "move": "Sunny Day",
-            "tm": "TM11"
-        },
-        {
-            "move": "Taunt",
-            "tm": "TM12"
-        },
-        {
-            "move": "Light Screen",
-            "tm": "TM16"
-        },
-        {
-            "move": "Protect",
-            "tm": "TM17"
-        },
-        {
-            "move": "Rain Dance",
-            "tm": "TM18"
-        },
-        {
-            "move": "Frustration",
-            "tm": "TM21"
-        },
-        {
-            "move": "Return",
-            "tm": "TM27"
-        },
-        {
-            "move": "Psychic",
-            "tm": "TM29"
-        },
-        {
-            "move": "Shadow Ball",
-            "tm": "TM30"
-        },
-        {
-            "move": "Double Team",
-            "tm": "TM32"
-        },
-        {
-            "move": "Reflect",
-            "tm": "TM33"
-        },
-        {
-            "move": "Torment",
-            "tm": "TM41"
-        },
-        {
-            "move": "Facade",
-            "tm": "TM42"
-        },
-        {
-            "move": "Rest",
-            "tm": "TM44"
-        },
-        {
-            "move": "Attract",
-            "tm": "TM45"
-        },
-        {
-            "move": "Thief",
-            "tm": "TM46"
-        },
-        {
-            "move": "Round",
-            "tm": "TM48"
-        },
-        {
-            "move": "Charge Beam",
-            "tm": "TM57"
-        },
-        {
-            "move": "Payback",
-            "tm": "TM66"
-        },
-        {
-            "move": "Thunder Wave",
-            "tm": "TM73"
-        },
-        {
-            "move": "Psych Up",
-            "tm": "TM77"
-        },
-        {
-            "move": "Dream Eater",
-            "tm": "TM85"
-        },
-        {
-            "move": "Grass Knot",
-            "tm": "TM86"
-        },
-        {
-            "move": "Swagger",
-            "tm": "TM87"
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": "TM88"
-        },
-        {
-            "move": "Substitute",
-            "tm": "TM90"
-        },
-        {
-            "move": "Trick Room",
-            "tm": "TM92"
-        },
-        {
-            "move": "Confide",
-            "tm": "TM100"
-        }
-    ]
+	"name": "Spoink",
+	"national_id": 325,
+	"types": ["Psychic"],
+	"items": [
+		{
+			"name": "Persim Berry",
+			"chance": 50
+		}
+	],
+	"abilities": [
+		{
+			"name": "Thick Fat"
+		},
+		{
+			"name": "Own Tempo"
+		},
+		{
+			"name": "Gluttony",
+			"hidden": true
+		}
+	],
+	"catch_rate": 255,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Field"],
+	"hatch_time": [5355, 5609],
+	"height_us": "2'04\"",
+	"height_eu": "0.7 m",
+	"weight_us": "67.5 lbs.",
+	"weight_eu": "30.6 kg",
+	"base_exp_yield": 66,
+	"leveling_rate": "Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 1,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 60,
+		"atk": 25,
+		"def": 35,
+		"sp_atk": 70,
+		"sp_def": 80,
+		"speed": 60
+	},
+	"evolution_from": null,
+	"evolutions": [
+		{
+			"to": "Grumpig",
+			"level": 32
+		}
+	],
+	"species": "Bounce Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "Spoink keeps a pearl on top of its head. The pearl functions to amplify this Pokémon’s psychokinetic powers. It is therefore on a constant search for a bigger pearl.",
+	"move_learnset": [
+		{
+			"move": "Splash",
+			"level": 1
+		},
+		{
+			"move": "Psywave",
+			"level": 7
+		},
+		{
+			"move": "Odor Sleuth",
+			"level": 10
+		},
+		{
+			"move": "Psybeam",
+			"level": 14
+		},
+		{
+			"move": "Psych Up",
+			"level": 15
+		},
+		{
+			"move": "Confuse Ray",
+			"level": 18
+		},
+		{
+			"move": "Magic Coat",
+			"level": 21
+		},
+		{
+			"move": "Zen Headbutt",
+			"level": 26
+		},
+		{
+			"move": "Power Gem",
+			"level": 29
+		},
+		{
+			"move": "Rest",
+			"level": 29
+		},
+		{
+			"move": "Snore",
+			"level": 33
+		},
+		{
+			"move": "Psyshock",
+			"level": 38
+		},
+		{
+			"move": "Payback",
+			"level": 40
+		},
+		{
+			"move": "Psychic",
+			"level": 44
+		},
+		{
+			"move": "Bounce",
+			"level": 50
+		},
+		{
+			"move": "Amnesia",
+			"egg_move": true
+		},
+		{
+			"move": "Endure",
+			"egg_move": true
+		},
+		{
+			"move": "Extrasensory",
+			"egg_move": true
+		},
+		{
+			"move": "Future Sight",
+			"egg_move": true
+		},
+		{
+			"move": "Lucky Chant",
+			"egg_move": true
+		},
+		{
+			"move": "Mirror Coat",
+			"egg_move": true
+		},
+		{
+			"move": "Simple Beam",
+			"egg_move": true
+		},
+		{
+			"move": "Skill Swap",
+			"egg_move": true
+		},
+		{
+			"move": "Trick",
+			"egg_move": true
+		},
+		{
+			"move": "Whirlwind",
+			"egg_move": true
+		},
+		{
+			"move": "Zen Headbutt",
+			"egg_move": true
+		},
+		{
+			"move": "Psyshock",
+			"tm": "TM3"
+		},
+		{
+			"move": "Calm Mind",
+			"tm": "TM4"
+		},
+		{
+			"move": "Toxic",
+			"tm": "TM6"
+		},
+		{
+			"move": "Hidden Power",
+			"tm": "TM10"
+		},
+		{
+			"move": "Sunny Day",
+			"tm": "TM11"
+		},
+		{
+			"move": "Taunt",
+			"tm": "TM12"
+		},
+		{
+			"move": "Light Screen",
+			"tm": "TM16"
+		},
+		{
+			"move": "Protect",
+			"tm": "TM17"
+		},
+		{
+			"move": "Rain Dance",
+			"tm": "TM18"
+		},
+		{
+			"move": "Frustration",
+			"tm": "TM21"
+		},
+		{
+			"move": "Return",
+			"tm": "TM27"
+		},
+		{
+			"move": "Psychic",
+			"tm": "TM29"
+		},
+		{
+			"move": "Shadow Ball",
+			"tm": "TM30"
+		},
+		{
+			"move": "Double Team",
+			"tm": "TM32"
+		},
+		{
+			"move": "Reflect",
+			"tm": "TM33"
+		},
+		{
+			"move": "Torment",
+			"tm": "TM41"
+		},
+		{
+			"move": "Facade",
+			"tm": "TM42"
+		},
+		{
+			"move": "Rest",
+			"tm": "TM44"
+		},
+		{
+			"move": "Attract",
+			"tm": "TM45"
+		},
+		{
+			"move": "Thief",
+			"tm": "TM46"
+		},
+		{
+			"move": "Round",
+			"tm": "TM48"
+		},
+		{
+			"move": "Charge Beam",
+			"tm": "TM57"
+		},
+		{
+			"move": "Payback",
+			"tm": "TM66"
+		},
+		{
+			"move": "Thunder Wave",
+			"tm": "TM73"
+		},
+		{
+			"move": "Psych Up",
+			"tm": "TM77"
+		},
+		{
+			"move": "Dream Eater",
+			"tm": "TM85"
+		},
+		{
+			"move": "Grass Knot",
+			"tm": "TM86"
+		},
+		{
+			"move": "Swagger",
+			"tm": "TM87"
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": "TM88"
+		},
+		{
+			"move": "Substitute",
+			"tm": "TM90"
+		},
+		{
+			"move": "Trick Room",
+			"tm": "TM92"
+		},
+		{
+			"move": "Confide",
+			"tm": "TM100"
+		}
+	]
 }

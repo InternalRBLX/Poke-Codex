@@ -1,8 +1,8 @@
 {
-    "name": "Leek",
-    "sell_price": 500,
-    "holdable": true,
-    "battle": false,
-    "category": "Item",
-    "subcategory": "Hold"
+	"name": "Leek",
+	"sell_price": 500,
+	"holdable": true,
+	"battle": false,
+	"category": "Item",
+	"subcategory": "Hold"
 }

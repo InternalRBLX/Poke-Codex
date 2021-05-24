@@ -1,275 +1,268 @@
 {
-    "name": "Politoed",
-    "national_id": 186,
-    "types": [
-        "Water"
-    ],
-    "items": [
-        {
-            "name": "King's Rock",
-            "chance": 5
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Water Absorb"
-        },
-        {
-            "name": "Damp"
-        },
-        {
-            "name": "Drizzle",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 45,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Water 1"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "3'07\"",
-    "height_eu": "1.1 m",
-    "weight_us": "74.7 lbs.",
-    "weight_eu": "33.9 kg",
-    "base_exp_yield": 225,
-    "leveling_rate": "Medium Slow",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 3,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 90,
-        "atk": 75,
-        "def": 75,
-        "sp_atk": 90,
-        "sp_def": 100,
-        "speed": 70
-    },
-    "evolution_from": "Poliwhirl",
-    "evolutions": [],
-    "species": "Frog Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "The curled hair on Politoed's head is proof of its status as a king. It is said that the longer and more curled the hair, the more respect this Pokémon earns from its peers.",
-    "move_learnset": [
-        {
-            "move": "Bubble Beam",
-            "level": 1
-        },
-        {
-            "move": "Double Slap",
-            "level": 1
-        },
-        {
-            "move": "Hypnosis",
-            "level": 1
-        },
-        {
-            "move": "Perish Song",
-            "level": 1
-        },
-        {
-            "move": "Swagger",
-            "level": 27
-        },
-        {
-            "move": "Bounce",
-            "level": 37
-        },
-        {
-            "move": "Hyper Voice",
-            "level": 48
-        },
-        {
-            "move": "Bubble Beam",
-            "egg_move": true
-        },
-        {
-            "move": "Encore",
-            "egg_move": true
-        },
-        {
-            "move": "Endeavor",
-            "egg_move": true
-        },
-        {
-            "move": "Endure",
-            "egg_move": true
-        },
-        {
-            "move": "Haze",
-            "egg_move": true
-        },
-        {
-            "move": "Ice Ball",
-            "egg_move": true
-        },
-        {
-            "move": "Mind Reader",
-            "egg_move": true
-        },
-        {
-            "move": "Mist",
-            "egg_move": true
-        },
-        {
-            "move": "Mud Shot",
-            "egg_move": true
-        },
-        {
-            "move": "Refresh",
-            "egg_move": true
-        },
-        {
-            "move": "Splash",
-            "egg_move": true
-        },
-        {
-            "move": "Water Pulse",
-            "egg_move": true
-        },
-        {
-            "move": "Water Sport",
-            "egg_move": true
-        },
-        {
-            "move": "Toxic",
-            "tm": "TM6"
-        },
-        {
-            "move": "Hail",
-            "tm": "TM7"
-        },
-        {
-            "move": "Hidden Power",
-            "tm": "TM10"
-        },
-        {
-            "move": "Ice Beam",
-            "tm": "TM13"
-        },
-        {
-            "move": "Blizzard",
-            "tm": "TM14"
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": "TM15"
-        },
-        {
-            "move": "Protect",
-            "tm": "TM17"
-        },
-        {
-            "move": "Rain Dance",
-            "tm": "TM18"
-        },
-        {
-            "move": "Frustration",
-            "tm": "TM21"
-        },
-        {
-            "move": "Earthquake",
-            "tm": "TM26"
-        },
-        {
-            "move": "Return",
-            "tm": "TM27"
-        },
-        {
-            "move": "Psychic",
-            "tm": "TM29"
-        },
-        {
-            "move": "Brick Break",
-            "tm": "TM31"
-        },
-        {
-            "move": "Double Team",
-            "tm": "TM32"
-        },
-        {
-            "move": "Facade",
-            "tm": "TM42"
-        },
-        {
-            "move": "Rest",
-            "tm": "TM44"
-        },
-        {
-            "move": "Attract",
-            "tm": "TM45"
-        },
-        {
-            "move": "Thief",
-            "tm": "TM46"
-        },
-        {
-            "move": "Round",
-            "tm": "TM48"
-        },
-        {
-            "move": "Echoed Voice",
-            "tm": "TM49"
-        },
-        {
-            "move": "Focus Blast",
-            "tm": "TM52"
-        },
-        {
-            "move": "Scald",
-            "tm": "TM55"
-        },
-        {
-            "move": "Fling",
-            "tm": "TM56"
-        },
-        {
-            "move": "Payback",
-            "tm": "TM66"
-        },
-        {
-            "move": "Giga Impact",
-            "tm": "TM68"
-        },
-        {
-            "move": "Bulldoze",
-            "tm": "TM78"
-        },
-        {
-            "move": "Swagger",
-            "tm": "TM87"
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": "TM88"
-        },
-        {
-            "move": "Substitute",
-            "tm": "TM90"
-        },
-        {
-            "move": "Surf",
-            "tm": "TM94"
-        },
-        {
-            "move": "Waterfall",
-            "tm": "TM98"
-        },
-        {
-            "move": "Confide",
-            "tm": "TM100"
-        }
-    ]
+	"name": "Politoed",
+	"national_id": 186,
+	"types": ["Water"],
+	"items": [
+		{
+			"name": "King's Rock",
+			"chance": 5
+		}
+	],
+	"abilities": [
+		{
+			"name": "Water Absorb"
+		},
+		{
+			"name": "Damp"
+		},
+		{
+			"name": "Drizzle",
+			"hidden": true
+		}
+	],
+	"catch_rate": 45,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Water 1"],
+	"hatch_time": [5355, 5609],
+	"height_us": "3'07\"",
+	"height_eu": "1.1 m",
+	"weight_us": "74.7 lbs.",
+	"weight_eu": "33.9 kg",
+	"base_exp_yield": 225,
+	"leveling_rate": "Medium Slow",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 3,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 90,
+		"atk": 75,
+		"def": 75,
+		"sp_atk": 90,
+		"sp_def": 100,
+		"speed": 70
+	},
+	"evolution_from": "Poliwhirl",
+	"evolutions": [],
+	"species": "Frog Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "The curled hair on Politoed's head is proof of its status as a king. It is said that the longer and more curled the hair, the more respect this Pokémon earns from its peers.",
+	"move_learnset": [
+		{
+			"move": "Bubble Beam",
+			"level": 1
+		},
+		{
+			"move": "Double Slap",
+			"level": 1
+		},
+		{
+			"move": "Hypnosis",
+			"level": 1
+		},
+		{
+			"move": "Perish Song",
+			"level": 1
+		},
+		{
+			"move": "Swagger",
+			"level": 27
+		},
+		{
+			"move": "Bounce",
+			"level": 37
+		},
+		{
+			"move": "Hyper Voice",
+			"level": 48
+		},
+		{
+			"move": "Bubble Beam",
+			"egg_move": true
+		},
+		{
+			"move": "Encore",
+			"egg_move": true
+		},
+		{
+			"move": "Endeavor",
+			"egg_move": true
+		},
+		{
+			"move": "Endure",
+			"egg_move": true
+		},
+		{
+			"move": "Haze",
+			"egg_move": true
+		},
+		{
+			"move": "Ice Ball",
+			"egg_move": true
+		},
+		{
+			"move": "Mind Reader",
+			"egg_move": true
+		},
+		{
+			"move": "Mist",
+			"egg_move": true
+		},
+		{
+			"move": "Mud Shot",
+			"egg_move": true
+		},
+		{
+			"move": "Refresh",
+			"egg_move": true
+		},
+		{
+			"move": "Splash",
+			"egg_move": true
+		},
+		{
+			"move": "Water Pulse",
+			"egg_move": true
+		},
+		{
+			"move": "Water Sport",
+			"egg_move": true
+		},
+		{
+			"move": "Toxic",
+			"tm": "TM6"
+		},
+		{
+			"move": "Hail",
+			"tm": "TM7"
+		},
+		{
+			"move": "Hidden Power",
+			"tm": "TM10"
+		},
+		{
+			"move": "Ice Beam",
+			"tm": "TM13"
+		},
+		{
+			"move": "Blizzard",
+			"tm": "TM14"
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": "TM15"
+		},
+		{
+			"move": "Protect",
+			"tm": "TM17"
+		},
+		{
+			"move": "Rain Dance",
+			"tm": "TM18"
+		},
+		{
+			"move": "Frustration",
+			"tm": "TM21"
+		},
+		{
+			"move": "Earthquake",
+			"tm": "TM26"
+		},
+		{
+			"move": "Return",
+			"tm": "TM27"
+		},
+		{
+			"move": "Psychic",
+			"tm": "TM29"
+		},
+		{
+			"move": "Brick Break",
+			"tm": "TM31"
+		},
+		{
+			"move": "Double Team",
+			"tm": "TM32"
+		},
+		{
+			"move": "Facade",
+			"tm": "TM42"
+		},
+		{
+			"move": "Rest",
+			"tm": "TM44"
+		},
+		{
+			"move": "Attract",
+			"tm": "TM45"
+		},
+		{
+			"move": "Thief",
+			"tm": "TM46"
+		},
+		{
+			"move": "Round",
+			"tm": "TM48"
+		},
+		{
+			"move": "Echoed Voice",
+			"tm": "TM49"
+		},
+		{
+			"move": "Focus Blast",
+			"tm": "TM52"
+		},
+		{
+			"move": "Scald",
+			"tm": "TM55"
+		},
+		{
+			"move": "Fling",
+			"tm": "TM56"
+		},
+		{
+			"move": "Payback",
+			"tm": "TM66"
+		},
+		{
+			"move": "Giga Impact",
+			"tm": "TM68"
+		},
+		{
+			"move": "Bulldoze",
+			"tm": "TM78"
+		},
+		{
+			"move": "Swagger",
+			"tm": "TM87"
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": "TM88"
+		},
+		{
+			"move": "Substitute",
+			"tm": "TM90"
+		},
+		{
+			"move": "Surf",
+			"tm": "TM94"
+		},
+		{
+			"move": "Waterfall",
+			"tm": "TM98"
+		},
+		{
+			"move": "Confide",
+			"tm": "TM100"
+		}
+	]
 }

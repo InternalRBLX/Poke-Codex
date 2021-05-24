@@ -1,307 +1,300 @@
 {
-    "name": "Dugtrio",
-    "national_id": 51,
-    "types": [
-        "Ground"
-    ],
-    "items": [
-        {
-            "name": "Soft Sand",
-            "chance": 5
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Sand Veil"
-        },
-        {
-            "name": "Arena Trap"
-        },
-        {
-            "name": "Sand Force",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 50,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Field"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "2'04\"",
-    "height_eu": "0.7 m",
-    "weight_us": "73.4 lbs.",
-    "weight_eu": "33.3 kg",
-    "base_exp_yield": 142,
-    "leveling_rate": "Medium Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 2
-    },
-    "base_stats": {
-        "hp": 35,
-        "atk": 100,
-        "def": 50,
-        "sp_atk": 50,
-        "sp_def": 70,
-        "speed": 120
-    },
-    "evolution_from": "Diglett",
-    "evolutions": [],
-    "species": "Mole Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "These Diglett triplets dig over 60 miles below sea level. No one knows what it’s like underground.",
-    "move_learnset": [
-        {
-            "move": "Sand Tomb",
-            "evo": true
-        },
-        {
-            "move": "Sand Tomb",
-            "level": 1
-        },
-        {
-            "move": "Night Slash",
-            "level": 1
-        },
-        {
-            "move": "Tri Attack",
-            "level": 1
-        },
-        {
-            "move": "Sand Attack",
-            "level": 1
-        },
-        {
-            "move": "Scratch",
-            "level": 1
-        },
-        {
-            "move": "Growl",
-            "level": 1
-        },
-        {
-            "move": "Astonish",
-            "level": 1
-        },
-        {
-            "move": "Mud-Slap",
-            "level": 12
-        },
-        {
-            "move": "Bulldoze",
-            "level": 16
-        },
-        {
-            "move": "Sucker Punch",
-            "level": 20
-        },
-        {
-            "move": "Slash",
-            "level": 24
-        },
-        {
-            "move": "Sandstorm",
-            "level": 30
-        },
-        {
-            "move": "Dig",
-            "level": 36
-        },
-        {
-            "move": "Earth Power",
-            "level": 42
-        },
-        {
-            "move": "Earthquake",
-            "level": 48
-        },
-        {
-            "move": "Fissure",
-            "level": 54
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": true
-        },
-        {
-            "move": "Giga Impact",
-            "tm": true
-        },
-        {
-            "move": "Dig",
-            "tm": true
-        },
-        {
-            "move": "Screech",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Rock Slide",
-            "tm": true
-        },
-        {
-            "move": "Thief",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Sandstorm",
-            "tm": true
-        },
-        {
-            "move": "Sunny Day",
-            "tm": true
-        },
-        {
-            "move": "Beat Up",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Rock Tomb",
-            "tm": true
-        },
-        {
-            "move": "Sand Tomb",
-            "tm": true
-        },
-        {
-            "move": "Assurance",
-            "tm": true
-        },
-        {
-            "move": "Shadow Claw",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Bulldoze",
-            "tm": true
-        },
-        {
-            "move": "Stomping Tantrum",
-            "tm": true
-        },
-        {
-            "move": "Body Slam",
-            "tm": true
-        },
-        {
-            "move": "Earthquake",
-            "tm": true
-        },
-        {
-            "move": "Agility",
-            "tm": true
-        },
-        {
-            "move": "Tri Attack",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Reversal",
-            "tm": true
-        },
-        {
-            "move": "Sludge Bomb",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Uproar",
-            "tm": true
-        },
-        {
-            "move": "Earth Power",
-            "tm": true
-        },
-        {
-            "move": "Stone Edge",
-            "tm": true
-        },
-        {
-            "move": "Stealth Rock",
-            "tm": true
-        },
-        {
-            "move": "Sludge Wave",
-            "tm": true
-        },
-        {
-            "move": "Ally Switch",
-            "tm": true
-        },
-        {
-            "move": "Work Up",
-            "tm": true
-        },
-        {
-            "move": "High Horsepower",
-            "tm": true
-        },
-        {
-            "move": "Ancient Power",
-            "egg_move": true
-        },
-        {
-            "move": "Headbutt",
-            "egg_move": true
-        },
-        {
-            "move": "Final Gambit",
-            "egg_move": true
-        },
-        {
-            "move": "Memento",
-            "egg_move": true
-        },
-        {
-            "move": "Hone Claws",
-            "egg_move": true
-        }
-    ]
+	"name": "Dugtrio",
+	"national_id": 51,
+	"types": ["Ground"],
+	"items": [
+		{
+			"name": "Soft Sand",
+			"chance": 5
+		}
+	],
+	"abilities": [
+		{
+			"name": "Sand Veil"
+		},
+		{
+			"name": "Arena Trap"
+		},
+		{
+			"name": "Sand Force",
+			"hidden": true
+		}
+	],
+	"catch_rate": 50,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Field"],
+	"hatch_time": [5355, 5609],
+	"height_us": "2'04\"",
+	"height_eu": "0.7 m",
+	"weight_us": "73.4 lbs.",
+	"weight_eu": "33.3 kg",
+	"base_exp_yield": 142,
+	"leveling_rate": "Medium Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 2
+	},
+	"base_stats": {
+		"hp": 35,
+		"atk": 100,
+		"def": 50,
+		"sp_atk": 50,
+		"sp_def": 70,
+		"speed": 120
+	},
+	"evolution_from": "Diglett",
+	"evolutions": [],
+	"species": "Mole Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "These Diglett triplets dig over 60 miles below sea level. No one knows what it’s like underground.",
+	"move_learnset": [
+		{
+			"move": "Sand Tomb",
+			"evo": true
+		},
+		{
+			"move": "Sand Tomb",
+			"level": 1
+		},
+		{
+			"move": "Night Slash",
+			"level": 1
+		},
+		{
+			"move": "Tri Attack",
+			"level": 1
+		},
+		{
+			"move": "Sand Attack",
+			"level": 1
+		},
+		{
+			"move": "Scratch",
+			"level": 1
+		},
+		{
+			"move": "Growl",
+			"level": 1
+		},
+		{
+			"move": "Astonish",
+			"level": 1
+		},
+		{
+			"move": "Mud-Slap",
+			"level": 12
+		},
+		{
+			"move": "Bulldoze",
+			"level": 16
+		},
+		{
+			"move": "Sucker Punch",
+			"level": 20
+		},
+		{
+			"move": "Slash",
+			"level": 24
+		},
+		{
+			"move": "Sandstorm",
+			"level": 30
+		},
+		{
+			"move": "Dig",
+			"level": 36
+		},
+		{
+			"move": "Earth Power",
+			"level": 42
+		},
+		{
+			"move": "Earthquake",
+			"level": 48
+		},
+		{
+			"move": "Fissure",
+			"level": 54
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": true
+		},
+		{
+			"move": "Giga Impact",
+			"tm": true
+		},
+		{
+			"move": "Dig",
+			"tm": true
+		},
+		{
+			"move": "Screech",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Rock Slide",
+			"tm": true
+		},
+		{
+			"move": "Thief",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Sandstorm",
+			"tm": true
+		},
+		{
+			"move": "Sunny Day",
+			"tm": true
+		},
+		{
+			"move": "Beat Up",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Rock Tomb",
+			"tm": true
+		},
+		{
+			"move": "Sand Tomb",
+			"tm": true
+		},
+		{
+			"move": "Assurance",
+			"tm": true
+		},
+		{
+			"move": "Shadow Claw",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Bulldoze",
+			"tm": true
+		},
+		{
+			"move": "Stomping Tantrum",
+			"tm": true
+		},
+		{
+			"move": "Body Slam",
+			"tm": true
+		},
+		{
+			"move": "Earthquake",
+			"tm": true
+		},
+		{
+			"move": "Agility",
+			"tm": true
+		},
+		{
+			"move": "Tri Attack",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Reversal",
+			"tm": true
+		},
+		{
+			"move": "Sludge Bomb",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Uproar",
+			"tm": true
+		},
+		{
+			"move": "Earth Power",
+			"tm": true
+		},
+		{
+			"move": "Stone Edge",
+			"tm": true
+		},
+		{
+			"move": "Stealth Rock",
+			"tm": true
+		},
+		{
+			"move": "Sludge Wave",
+			"tm": true
+		},
+		{
+			"move": "Ally Switch",
+			"tm": true
+		},
+		{
+			"move": "Work Up",
+			"tm": true
+		},
+		{
+			"move": "High Horsepower",
+			"tm": true
+		},
+		{
+			"move": "Ancient Power",
+			"egg_move": true
+		},
+		{
+			"move": "Headbutt",
+			"egg_move": true
+		},
+		{
+			"move": "Final Gambit",
+			"egg_move": true
+		},
+		{
+			"move": "Memento",
+			"egg_move": true
+		},
+		{
+			"move": "Hone Claws",
+			"egg_move": true
+		}
+	]
 }

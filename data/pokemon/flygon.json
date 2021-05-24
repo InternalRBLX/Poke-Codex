@@ -1,395 +1,387 @@
 {
-    "name": "Flygon",
-    "national_id": 330,
-    "types": [
-        "Ground",
-        "Dragon"
-    ],
-    "abilities": [
-        {
-            "name": "Levitate"
-        }
-    ],
-    "catch_rate": 45,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Bug"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "6'07\"",
-    "height_eu": "2.0 m",
-    "weight_us": "180.8 lbs.",
-    "weight_eu": "82.0 kg",
-    "base_exp_yield": 234,
-    "leveling_rate": "Medium Slow",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 1,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 2
-    },
-    "base_stats": {
-        "hp": 80,
-        "atk": 100,
-        "def": 80,
-        "sp_atk": 80,
-        "sp_def": 80,
-        "speed": 100
-    },
-    "evolution_from": "Vibrava",
-    "evolutions": [],
-    "species": "Mystic Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "It is nicknamed the Desert Spirit because the flapping of its wings sounds like a woman singing.",
-    "move_learnset": [
-        {
-            "move": "Dragon Claw",
-            "evo": true
-        },
-        {
-            "move": "Dragon Claw",
-            "level": 1
-        },
-        {
-            "move": "Dragon Breath",
-            "level": 1
-        },
-        {
-            "move": "Dragon Dance",
-            "level": 1
-        },
-        {
-            "move": "Feint",
-            "level": 1
-        },
-        {
-            "move": "Laser Focus",
-            "level": 1
-        },
-        {
-            "move": "Bulldoze",
-            "level": 1
-        },
-        {
-            "move": "Dig",
-            "level": 1
-        },
-        {
-            "move": "Crunch",
-            "level": 1
-        },
-        {
-            "move": "Superpower",
-            "level": 1
-        },
-        {
-            "move": "Fissure",
-            "level": 1
-        },
-        {
-            "move": "Sand Attack",
-            "level": 1
-        },
-        {
-            "move": "Astonish",
-            "level": 1
-        },
-        {
-            "move": "Supersonic",
-            "level": 1
-        },
-        {
-            "move": "Bite",
-            "level": 1
-        },
-        {
-            "move": "Mud-Slap",
-            "level": 12
-        },
-        {
-            "move": "Sand Tomb",
-            "level": 16
-        },
-        {
-            "move": "Dragon Tail",
-            "level": 20
-        },
-        {
-            "move": "Screech",
-            "level": 24
-        },
-        {
-            "move": "Bug Buzz",
-            "level": 28
-        },
-        {
-            "move": "Sandstorm",
-            "level": 32
-        },
-        {
-            "move": "Earth Power",
-            "level": 38
-        },
-        {
-            "move": "Earthquake",
-            "level": 44
-        },
-        {
-            "move": "Uproar",
-            "level": 52
-        },
-        {
-            "move": "Dragon Rush",
-            "level": 60
-        },
-        {
-            "move": "Boomburst",
-            "level": 68
-        },
-        {
-            "move": "Mega Punch",
-            "tm": true
-        },
-        {
-            "move": "Mega Kick",
-            "tm": true
-        },
-        {
-            "move": "Fire Punch",
-            "tm": true
-        },
-        {
-            "move": "Thunder Punch",
-            "tm": true
-        },
-        {
-            "move": "Fly",
-            "tm": true
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": true
-        },
-        {
-            "move": "Giga Impact",
-            "tm": true
-        },
-        {
-            "move": "Solar Beam",
-            "tm": true
-        },
-        {
-            "move": "Fire Spin",
-            "tm": true
-        },
-        {
-            "move": "Dig",
-            "tm": true
-        },
-        {
-            "move": "Screech",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Rock Slide",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Giga Drain",
-            "tm": true
-        },
-        {
-            "move": "Steel Wing",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Sandstorm",
-            "tm": true
-        },
-        {
-            "move": "Sunny Day",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Swift",
-            "tm": true
-        },
-        {
-            "move": "Rock Tomb",
-            "tm": true
-        },
-        {
-            "move": "Sand Tomb",
-            "tm": true
-        },
-        {
-            "move": "Mud Shot",
-            "tm": true
-        },
-        {
-            "move": "U-turn",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Bulldoze",
-            "tm": true
-        },
-        {
-            "move": "Air Slash",
-            "tm": true
-        },
-        {
-            "move": "Brutal Swing",
-            "tm": true
-        },
-        {
-            "move": "Breaking Swipe",
-            "tm": true
-        },
-        {
-            "move": "Body Slam",
-            "tm": true
-        },
-        {
-            "move": "Flamethrower",
-            "tm": true
-        },
-        {
-            "move": "Earthquake",
-            "tm": true
-        },
-        {
-            "move": "Focus Energy",
-            "tm": true
-        },
-        {
-            "move": "Fire Blast",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Outrage",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Iron Tail",
-            "tm": true
-        },
-        {
-            "move": "Crunch",
-            "tm": true
-        },
-        {
-            "move": "Uproar",
-            "tm": true
-        },
-        {
-            "move": "Heat Wave",
-            "tm": true
-        },
-        {
-            "move": "Superpower",
-            "tm": true
-        },
-        {
-            "move": "Dragon Claw",
-            "tm": true
-        },
-        {
-            "move": "Dragon Dance",
-            "tm": true
-        },
-        {
-            "move": "Bug Buzz",
-            "tm": true
-        },
-        {
-            "move": "Dragon Pulse",
-            "tm": true
-        },
-        {
-            "move": "Earth Power",
-            "tm": true
-        },
-        {
-            "move": "Stone Edge",
-            "tm": true
-        },
-        {
-            "move": "Throat Chop",
-            "tm": true
-        },
-        {
-            "move": "Quick Attack",
-            "egg_move": true
-        },
-        {
-            "move": "Gust",
-            "egg_move": true
-        },
-        {
-            "move": "Flail",
-            "egg_move": true
-        },
-        {
-            "move": "Fury Cutter",
-            "egg_move": true
-        },
-        {
-            "move": "Bug Bite",
-            "egg_move": true
-        },
-        {
-            "move": "Feint",
-            "egg_move": true
-        },
-        {
-            "move": "First Impression",
-            "egg_move": true
-        }
-    ]
+	"name": "Flygon",
+	"national_id": 330,
+	"types": ["Ground", "Dragon"],
+	"abilities": [
+		{
+			"name": "Levitate"
+		}
+	],
+	"catch_rate": 45,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Bug"],
+	"hatch_time": [5355, 5609],
+	"height_us": "6'07\"",
+	"height_eu": "2.0 m",
+	"weight_us": "180.8 lbs.",
+	"weight_eu": "82.0 kg",
+	"base_exp_yield": 234,
+	"leveling_rate": "Medium Slow",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 1,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 2
+	},
+	"base_stats": {
+		"hp": 80,
+		"atk": 100,
+		"def": 80,
+		"sp_atk": 80,
+		"sp_def": 80,
+		"speed": 100
+	},
+	"evolution_from": "Vibrava",
+	"evolutions": [],
+	"species": "Mystic Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "It is nicknamed the Desert Spirit because the flapping of its wings sounds like a woman singing.",
+	"move_learnset": [
+		{
+			"move": "Dragon Claw",
+			"evo": true
+		},
+		{
+			"move": "Dragon Claw",
+			"level": 1
+		},
+		{
+			"move": "Dragon Breath",
+			"level": 1
+		},
+		{
+			"move": "Dragon Dance",
+			"level": 1
+		},
+		{
+			"move": "Feint",
+			"level": 1
+		},
+		{
+			"move": "Laser Focus",
+			"level": 1
+		},
+		{
+			"move": "Bulldoze",
+			"level": 1
+		},
+		{
+			"move": "Dig",
+			"level": 1
+		},
+		{
+			"move": "Crunch",
+			"level": 1
+		},
+		{
+			"move": "Superpower",
+			"level": 1
+		},
+		{
+			"move": "Fissure",
+			"level": 1
+		},
+		{
+			"move": "Sand Attack",
+			"level": 1
+		},
+		{
+			"move": "Astonish",
+			"level": 1
+		},
+		{
+			"move": "Supersonic",
+			"level": 1
+		},
+		{
+			"move": "Bite",
+			"level": 1
+		},
+		{
+			"move": "Mud-Slap",
+			"level": 12
+		},
+		{
+			"move": "Sand Tomb",
+			"level": 16
+		},
+		{
+			"move": "Dragon Tail",
+			"level": 20
+		},
+		{
+			"move": "Screech",
+			"level": 24
+		},
+		{
+			"move": "Bug Buzz",
+			"level": 28
+		},
+		{
+			"move": "Sandstorm",
+			"level": 32
+		},
+		{
+			"move": "Earth Power",
+			"level": 38
+		},
+		{
+			"move": "Earthquake",
+			"level": 44
+		},
+		{
+			"move": "Uproar",
+			"level": 52
+		},
+		{
+			"move": "Dragon Rush",
+			"level": 60
+		},
+		{
+			"move": "Boomburst",
+			"level": 68
+		},
+		{
+			"move": "Mega Punch",
+			"tm": true
+		},
+		{
+			"move": "Mega Kick",
+			"tm": true
+		},
+		{
+			"move": "Fire Punch",
+			"tm": true
+		},
+		{
+			"move": "Thunder Punch",
+			"tm": true
+		},
+		{
+			"move": "Fly",
+			"tm": true
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": true
+		},
+		{
+			"move": "Giga Impact",
+			"tm": true
+		},
+		{
+			"move": "Solar Beam",
+			"tm": true
+		},
+		{
+			"move": "Fire Spin",
+			"tm": true
+		},
+		{
+			"move": "Dig",
+			"tm": true
+		},
+		{
+			"move": "Screech",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Rock Slide",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Giga Drain",
+			"tm": true
+		},
+		{
+			"move": "Steel Wing",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Sandstorm",
+			"tm": true
+		},
+		{
+			"move": "Sunny Day",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Swift",
+			"tm": true
+		},
+		{
+			"move": "Rock Tomb",
+			"tm": true
+		},
+		{
+			"move": "Sand Tomb",
+			"tm": true
+		},
+		{
+			"move": "Mud Shot",
+			"tm": true
+		},
+		{
+			"move": "U-turn",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Bulldoze",
+			"tm": true
+		},
+		{
+			"move": "Air Slash",
+			"tm": true
+		},
+		{
+			"move": "Brutal Swing",
+			"tm": true
+		},
+		{
+			"move": "Breaking Swipe",
+			"tm": true
+		},
+		{
+			"move": "Body Slam",
+			"tm": true
+		},
+		{
+			"move": "Flamethrower",
+			"tm": true
+		},
+		{
+			"move": "Earthquake",
+			"tm": true
+		},
+		{
+			"move": "Focus Energy",
+			"tm": true
+		},
+		{
+			"move": "Fire Blast",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Outrage",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Iron Tail",
+			"tm": true
+		},
+		{
+			"move": "Crunch",
+			"tm": true
+		},
+		{
+			"move": "Uproar",
+			"tm": true
+		},
+		{
+			"move": "Heat Wave",
+			"tm": true
+		},
+		{
+			"move": "Superpower",
+			"tm": true
+		},
+		{
+			"move": "Dragon Claw",
+			"tm": true
+		},
+		{
+			"move": "Dragon Dance",
+			"tm": true
+		},
+		{
+			"move": "Bug Buzz",
+			"tm": true
+		},
+		{
+			"move": "Dragon Pulse",
+			"tm": true
+		},
+		{
+			"move": "Earth Power",
+			"tm": true
+		},
+		{
+			"move": "Stone Edge",
+			"tm": true
+		},
+		{
+			"move": "Throat Chop",
+			"tm": true
+		},
+		{
+			"move": "Quick Attack",
+			"egg_move": true
+		},
+		{
+			"move": "Gust",
+			"egg_move": true
+		},
+		{
+			"move": "Flail",
+			"egg_move": true
+		},
+		{
+			"move": "Fury Cutter",
+			"egg_move": true
+		},
+		{
+			"move": "Bug Bite",
+			"egg_move": true
+		},
+		{
+			"move": "Feint",
+			"egg_move": true
+		},
+		{
+			"move": "First Impression",
+			"egg_move": true
+		}
+	]
 }

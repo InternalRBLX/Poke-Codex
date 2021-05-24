@@ -1,286 +1,278 @@
 {
-    "name": "Galvantula",
-    "national_id": 596,
-    "types": [
-        "Bug",
-        "Electric"
-    ],
-    "abilities": [
-        {
-            "name": "Compound Eyes"
-        },
-        {
-            "name": "Unnerve"
-        },
-        {
-            "name": "Swarm",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 75,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Bug"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "2'07\"",
-    "height_eu": "0.8 m",
-    "weight_us": "31.5 lbs.",
-    "weight_eu": "14.3 kg",
-    "base_exp_yield": 165,
-    "leveling_rate": "Medium Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 2
-    },
-    "base_stats": {
-        "hp": 70,
-        "atk": 77,
-        "def": 60,
-        "sp_atk": 97,
-        "sp_def": 60,
-        "speed": 108
-    },
-    "evolution_from": "Joltik",
-    "evolutions": [],
-    "species": "EleSpider Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "It lays traps of electrified threads near the nests of bird Pokémon, aiming to snare chicks that are not yet good at flying.",
-    "move_learnset": [
-        {
-            "move": "Sticky Web",
-            "evo": true
-        },
-        {
-            "move": "Sticky Web",
-            "level": 1
-        },
-        {
-            "move": "Absorb",
-            "level": 1
-        },
-        {
-            "move": "Fury Cutter",
-            "level": 1
-        },
-        {
-            "move": "Electroweb",
-            "level": 1
-        },
-        {
-            "move": "Bug Bite",
-            "level": 1
-        },
-        {
-            "move": "String Shot",
-            "level": 12
-        },
-        {
-            "move": "Thunder Wave",
-            "level": 16
-        },
-        {
-            "move": "Electro Ball",
-            "level": 20
-        },
-        {
-            "move": "Agility",
-            "level": 24
-        },
-        {
-            "move": "Sucker Punch",
-            "level": 28
-        },
-        {
-            "move": "Slash",
-            "level": 32
-        },
-        {
-            "move": "Discharge",
-            "level": 39
-        },
-        {
-            "move": "Screech",
-            "level": 44
-        },
-        {
-            "move": "Gastro Acid",
-            "level": 50
-        },
-        {
-            "move": "Bug Buzz",
-            "level": 56
-        },
-        {
-            "move": "Pin Missile",
-            "tm": true
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": true
-        },
-        {
-            "move": "Giga Impact",
-            "tm": true
-        },
-        {
-            "move": "Thunder Wave",
-            "tm": true
-        },
-        {
-            "move": "Screech",
-            "tm": true
-        },
-        {
-            "move": "Light Screen",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Thief",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Giga Drain",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Rain Dance",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Swift",
-            "tm": true
-        },
-        {
-            "move": "Bounce",
-            "tm": true
-        },
-        {
-            "move": "Speed Swap",
-            "tm": true
-        },
-        {
-            "move": "Cross Poison",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Volt Switch",
-            "tm": true
-        },
-        {
-            "move": "Electroweb",
-            "tm": true
-        },
-        {
-            "move": "Thunderbolt",
-            "tm": true
-        },
-        {
-            "move": "Thunder",
-            "tm": true
-        },
-        {
-            "move": "Agility",
-            "tm": true
-        },
-        {
-            "move": "Leech Life",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Poison Jab",
-            "tm": true
-        },
-        {
-            "move": "X-Scissor",
-            "tm": true
-        },
-        {
-            "move": "Bug Buzz",
-            "tm": true
-        },
-        {
-            "move": "Energy Ball",
-            "tm": true
-        },
-        {
-            "move": "Electro Ball",
-            "tm": true
-        },
-        {
-            "move": "Wild Charge",
-            "tm": true
-        },
-        {
-            "move": "Throat Chop",
-            "tm": true
-        },
-        {
-            "move": "Poison Sting",
-            "egg_move": true
-        },
-        {
-            "move": "Lunge",
-            "egg_move": true
-        },
-        {
-            "move": "Struggle Bug",
-            "egg_move": true
-        },
-        {
-            "move": "Double Team",
-            "egg_move": true
-        },
-        {
-            "move": "Infestation",
-            "egg_move": true
-        }
-    ]
+	"name": "Galvantula",
+	"national_id": 596,
+	"types": ["Bug", "Electric"],
+	"abilities": [
+		{
+			"name": "Compound Eyes"
+		},
+		{
+			"name": "Unnerve"
+		},
+		{
+			"name": "Swarm",
+			"hidden": true
+		}
+	],
+	"catch_rate": 75,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Bug"],
+	"hatch_time": [5355, 5609],
+	"height_us": "2'07\"",
+	"height_eu": "0.8 m",
+	"weight_us": "31.5 lbs.",
+	"weight_eu": "14.3 kg",
+	"base_exp_yield": 165,
+	"leveling_rate": "Medium Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 2
+	},
+	"base_stats": {
+		"hp": 70,
+		"atk": 77,
+		"def": 60,
+		"sp_atk": 97,
+		"sp_def": 60,
+		"speed": 108
+	},
+	"evolution_from": "Joltik",
+	"evolutions": [],
+	"species": "EleSpider Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "It lays traps of electrified threads near the nests of bird Pokémon, aiming to snare chicks that are not yet good at flying.",
+	"move_learnset": [
+		{
+			"move": "Sticky Web",
+			"evo": true
+		},
+		{
+			"move": "Sticky Web",
+			"level": 1
+		},
+		{
+			"move": "Absorb",
+			"level": 1
+		},
+		{
+			"move": "Fury Cutter",
+			"level": 1
+		},
+		{
+			"move": "Electroweb",
+			"level": 1
+		},
+		{
+			"move": "Bug Bite",
+			"level": 1
+		},
+		{
+			"move": "String Shot",
+			"level": 12
+		},
+		{
+			"move": "Thunder Wave",
+			"level": 16
+		},
+		{
+			"move": "Electro Ball",
+			"level": 20
+		},
+		{
+			"move": "Agility",
+			"level": 24
+		},
+		{
+			"move": "Sucker Punch",
+			"level": 28
+		},
+		{
+			"move": "Slash",
+			"level": 32
+		},
+		{
+			"move": "Discharge",
+			"level": 39
+		},
+		{
+			"move": "Screech",
+			"level": 44
+		},
+		{
+			"move": "Gastro Acid",
+			"level": 50
+		},
+		{
+			"move": "Bug Buzz",
+			"level": 56
+		},
+		{
+			"move": "Pin Missile",
+			"tm": true
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": true
+		},
+		{
+			"move": "Giga Impact",
+			"tm": true
+		},
+		{
+			"move": "Thunder Wave",
+			"tm": true
+		},
+		{
+			"move": "Screech",
+			"tm": true
+		},
+		{
+			"move": "Light Screen",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Thief",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Giga Drain",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Rain Dance",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Swift",
+			"tm": true
+		},
+		{
+			"move": "Bounce",
+			"tm": true
+		},
+		{
+			"move": "Speed Swap",
+			"tm": true
+		},
+		{
+			"move": "Cross Poison",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Volt Switch",
+			"tm": true
+		},
+		{
+			"move": "Electroweb",
+			"tm": true
+		},
+		{
+			"move": "Thunderbolt",
+			"tm": true
+		},
+		{
+			"move": "Thunder",
+			"tm": true
+		},
+		{
+			"move": "Agility",
+			"tm": true
+		},
+		{
+			"move": "Leech Life",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Poison Jab",
+			"tm": true
+		},
+		{
+			"move": "X-Scissor",
+			"tm": true
+		},
+		{
+			"move": "Bug Buzz",
+			"tm": true
+		},
+		{
+			"move": "Energy Ball",
+			"tm": true
+		},
+		{
+			"move": "Electro Ball",
+			"tm": true
+		},
+		{
+			"move": "Wild Charge",
+			"tm": true
+		},
+		{
+			"move": "Throat Chop",
+			"tm": true
+		},
+		{
+			"move": "Poison Sting",
+			"egg_move": true
+		},
+		{
+			"move": "Lunge",
+			"egg_move": true
+		},
+		{
+			"move": "Struggle Bug",
+			"egg_move": true
+		},
+		{
+			"move": "Double Team",
+			"egg_move": true
+		},
+		{
+			"move": "Infestation",
+			"egg_move": true
+		}
+	]
 }

@@ -1,203 +1,196 @@
 {
-    "name": "Klang",
-    "national_id": 600,
-    "types": [
-        "Steel"
-    ],
-    "abilities": [
-        {
-            "name": "Plus"
-        },
-        {
-            "name": "Minus"
-        },
-        {
-            "name": "Clear Body",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 60,
-    "gender_ratios": null,
-    "egg_groups": [
-        "Mineral"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "2'00\"",
-    "height_eu": "0.6 m",
-    "weight_us": "112.4 lbs.",
-    "weight_eu": "51.0 kg",
-    "base_exp_yield": 154,
-    "leveling_rate": "Medium Slow",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 2,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 60,
-        "atk": 80,
-        "def": 95,
-        "sp_atk": 70,
-        "sp_def": 85,
-        "speed": 50
-    },
-    "evolution_from": "Klink",
-    "evolutions": [
-        {
-            "to": "Klinklang",
-            "level": 49
-        }
-    ],
-    "species": "Gear Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "Many companies in the Galar region choose Klang as their logo. This Pokémon is considered the symbol of industrial technology.",
-    "move_learnset": [
-        {
-            "move": "Thunder Shock",
-            "level": 1
-        },
-        {
-            "move": "Vise Grip",
-            "level": 1
-        },
-        {
-            "move": "Bind",
-            "level": 1
-        },
-        {
-            "move": "Charge",
-            "level": 1
-        },
-        {
-            "move": "Charge Beam",
-            "level": 12
-        },
-        {
-            "move": "Metal Sound",
-            "level": 16
-        },
-        {
-            "move": "Autotomize",
-            "level": 20
-        },
-        {
-            "move": "Discharge",
-            "level": 24
-        },
-        {
-            "move": "Screech",
-            "level": 28
-        },
-        {
-            "move": "Gear Grind",
-            "level": 32
-        },
-        {
-            "move": "Lock-On",
-            "level": 36
-        },
-        {
-            "move": "Shift Gear",
-            "level": 42
-        },
-        {
-            "move": "Zap Cannon",
-            "level": 48
-        },
-        {
-            "move": "Hyper Beam",
-            "level": 54
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": true
-        },
-        {
-            "move": "Thunder Wave",
-            "tm": true
-        },
-        {
-            "move": "Screech",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Sandstorm",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Assurance",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Volt Switch",
-            "tm": true
-        },
-        {
-            "move": "Thunderbolt",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Uproar",
-            "tm": true
-        },
-        {
-            "move": "Iron Defense",
-            "tm": true
-        },
-        {
-            "move": "Power Gem",
-            "tm": true
-        },
-        {
-            "move": "Flash Cannon",
-            "tm": true
-        },
-        {
-            "move": "Ally Switch",
-            "tm": true
-        },
-        {
-            "move": "Wild Charge",
-            "tm": true
-        }
-    ]
+	"name": "Klang",
+	"national_id": 600,
+	"types": ["Steel"],
+	"abilities": [
+		{
+			"name": "Plus"
+		},
+		{
+			"name": "Minus"
+		},
+		{
+			"name": "Clear Body",
+			"hidden": true
+		}
+	],
+	"catch_rate": 60,
+	"gender_ratios": null,
+	"egg_groups": ["Mineral"],
+	"hatch_time": [5355, 5609],
+	"height_us": "2'00\"",
+	"height_eu": "0.6 m",
+	"weight_us": "112.4 lbs.",
+	"weight_eu": "51.0 kg",
+	"base_exp_yield": 154,
+	"leveling_rate": "Medium Slow",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 2,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 60,
+		"atk": 80,
+		"def": 95,
+		"sp_atk": 70,
+		"sp_def": 85,
+		"speed": 50
+	},
+	"evolution_from": "Klink",
+	"evolutions": [
+		{
+			"to": "Klinklang",
+			"level": 49
+		}
+	],
+	"species": "Gear Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "Many companies in the Galar region choose Klang as their logo. This Pokémon is considered the symbol of industrial technology.",
+	"move_learnset": [
+		{
+			"move": "Thunder Shock",
+			"level": 1
+		},
+		{
+			"move": "Vise Grip",
+			"level": 1
+		},
+		{
+			"move": "Bind",
+			"level": 1
+		},
+		{
+			"move": "Charge",
+			"level": 1
+		},
+		{
+			"move": "Charge Beam",
+			"level": 12
+		},
+		{
+			"move": "Metal Sound",
+			"level": 16
+		},
+		{
+			"move": "Autotomize",
+			"level": 20
+		},
+		{
+			"move": "Discharge",
+			"level": 24
+		},
+		{
+			"move": "Screech",
+			"level": 28
+		},
+		{
+			"move": "Gear Grind",
+			"level": 32
+		},
+		{
+			"move": "Lock-On",
+			"level": 36
+		},
+		{
+			"move": "Shift Gear",
+			"level": 42
+		},
+		{
+			"move": "Zap Cannon",
+			"level": 48
+		},
+		{
+			"move": "Hyper Beam",
+			"level": 54
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": true
+		},
+		{
+			"move": "Thunder Wave",
+			"tm": true
+		},
+		{
+			"move": "Screech",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Sandstorm",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Assurance",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Volt Switch",
+			"tm": true
+		},
+		{
+			"move": "Thunderbolt",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Uproar",
+			"tm": true
+		},
+		{
+			"move": "Iron Defense",
+			"tm": true
+		},
+		{
+			"move": "Power Gem",
+			"tm": true
+		},
+		{
+			"move": "Flash Cannon",
+			"tm": true
+		},
+		{
+			"move": "Ally Switch",
+			"tm": true
+		},
+		{
+			"move": "Wild Charge",
+			"tm": true
+		}
+	]
 }

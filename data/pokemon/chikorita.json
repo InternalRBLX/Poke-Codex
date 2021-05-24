@@ -1,280 +1,272 @@
 {
-    "name": "Chikorita",
-    "national_id": 152,
-    "types": [
-        "Grass"
-    ],
-    "abilities": [
-        {
-            "name": "Overgrow"
-        },
-        {
-            "name": "Leaf Guard",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 45,
-    "gender_ratios": {
-        "male": 87.5,
-        "female": 12.5
-    },
-    "egg_groups": [
-        "Monster",
-        "Grass"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "2'11\"",
-    "height_eu": "0.9 m",
-    "weight_us": "14.1 lbs.",
-    "weight_eu": "6.4 kg",
-    "base_exp_yield": 64,
-    "leveling_rate": "Medium Slow",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 1,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 45,
-        "atk": 49,
-        "def": 65,
-        "sp_atk": 49,
-        "sp_def": 65,
-        "speed": 45
-    },
-    "evolution_from": null,
-    "evolutions": [
-        {
-            "to": "Bayleef",
-            "level": 16
-        }
-    ],
-    "species": "Leaf Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "In battle, Chikorita waves its leaf around to keep the foe at bay. However, a sweet fragrance also wafts from the leaf, becalming the battling Pokémon and creating a cozy, friendly atmosphere all around.",
-    "move_learnset": [
-        {
-            "move": "Growl",
-            "level": 1
-        },
-        {
-            "move": "Tackle",
-            "level": 1
-        },
-        {
-            "move": "Razor Leaf",
-            "level": 6
-        },
-        {
-            "move": "Poison Powder",
-            "level": 9
-        },
-        {
-            "move": "Synthesis",
-            "level": 12
-        },
-        {
-            "move": "Reflect",
-            "level": 17
-        },
-        {
-            "move": "Magical Leaf",
-            "level": 20
-        },
-        {
-            "move": "Natural Gift",
-            "level": 23
-        },
-        {
-            "move": "Sweet Scent",
-            "level": 28
-        },
-        {
-            "move": "Light Screen",
-            "level": 31
-        },
-        {
-            "move": "Body Slam",
-            "level": 34
-        },
-        {
-            "move": "Safeguard",
-            "level": 39
-        },
-        {
-            "move": "Aromatherapy",
-            "level": 42
-        },
-        {
-            "move": "Solar Beam",
-            "level": 45
-        },
-        {
-            "move": "Ancient Power",
-            "egg_move": true
-        },
-        {
-            "move": "Aromatherapy",
-            "egg_move": true
-        },
-        {
-            "move": "Body Slam",
-            "egg_move": true
-        },
-        {
-            "move": "Counter",
-            "egg_move": true
-        },
-        {
-            "move": "Flail",
-            "egg_move": true
-        },
-        {
-            "move": "Grass Whistle",
-            "egg_move": true
-        },
-        {
-            "move": "Grassy Terrain",
-            "egg_move": true
-        },
-        {
-            "move": "Heal Pulse",
-            "egg_move": true
-        },
-        {
-            "move": "Ingrain",
-            "egg_move": true
-        },
-        {
-            "move": "Leaf Storm",
-            "egg_move": true
-        },
-        {
-            "move": "Leech Seed",
-            "egg_move": true
-        },
-        {
-            "move": "Nature Power",
-            "egg_move": true
-        },
-        {
-            "move": "Refresh",
-            "egg_move": true
-        },
-        {
-            "move": "Vine Whip",
-            "egg_move": true
-        },
-        {
-            "move": "Wring Out",
-            "egg_move": true
-        },
-        {
-            "move": "Work Up",
-            "tm": "TM1"
-        },
-        {
-            "move": "Toxic",
-            "tm": "TM6"
-        },
-        {
-            "move": "Hidden Power",
-            "tm": "TM10"
-        },
-        {
-            "move": "Sunny Day",
-            "tm": "TM11"
-        },
-        {
-            "move": "Light Screen",
-            "tm": "TM16"
-        },
-        {
-            "move": "Protect",
-            "tm": "TM17"
-        },
-        {
-            "move": "Safeguard",
-            "tm": "TM20"
-        },
-        {
-            "move": "Frustration",
-            "tm": "TM21"
-        },
-        {
-            "move": "Solar Beam",
-            "tm": "TM22"
-        },
-        {
-            "move": "Return",
-            "tm": "TM27"
-        },
-        {
-            "move": "Double Team",
-            "tm": "TM32"
-        },
-        {
-            "move": "Reflect",
-            "tm": "TM33"
-        },
-        {
-            "move": "Facade",
-            "tm": "TM42"
-        },
-        {
-            "move": "Rest",
-            "tm": "TM44"
-        },
-        {
-            "move": "Attract",
-            "tm": "TM45"
-        },
-        {
-            "move": "Round",
-            "tm": "TM48"
-        },
-        {
-            "move": "Echoed Voice",
-            "tm": "TM49"
-        },
-        {
-            "move": "Energy Ball",
-            "tm": "TM53"
-        },
-        {
-            "move": "Swords Dance",
-            "tm": "TM75"
-        },
-        {
-            "move": "Grass Knot",
-            "tm": "TM86"
-        },
-        {
-            "move": "Swagger",
-            "tm": "TM87"
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": "TM88"
-        },
-        {
-            "move": "Substitute",
-            "tm": "TM90"
-        },
-        {
-            "move": "Nature Power",
-            "tm": "TM96"
-        },
-        {
-            "move": "Confide",
-            "tm": "TM100"
-        }
-    ]
+	"name": "Chikorita",
+	"national_id": 152,
+	"types": ["Grass"],
+	"abilities": [
+		{
+			"name": "Overgrow"
+		},
+		{
+			"name": "Leaf Guard",
+			"hidden": true
+		}
+	],
+	"catch_rate": 45,
+	"gender_ratios": {
+		"male": 87.5,
+		"female": 12.5
+	},
+	"egg_groups": ["Monster", "Grass"],
+	"hatch_time": [5355, 5609],
+	"height_us": "2'11\"",
+	"height_eu": "0.9 m",
+	"weight_us": "14.1 lbs.",
+	"weight_eu": "6.4 kg",
+	"base_exp_yield": 64,
+	"leveling_rate": "Medium Slow",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 1,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 45,
+		"atk": 49,
+		"def": 65,
+		"sp_atk": 49,
+		"sp_def": 65,
+		"speed": 45
+	},
+	"evolution_from": null,
+	"evolutions": [
+		{
+			"to": "Bayleef",
+			"level": 16
+		}
+	],
+	"species": "Leaf Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "In battle, Chikorita waves its leaf around to keep the foe at bay. However, a sweet fragrance also wafts from the leaf, becalming the battling Pokémon and creating a cozy, friendly atmosphere all around.",
+	"move_learnset": [
+		{
+			"move": "Growl",
+			"level": 1
+		},
+		{
+			"move": "Tackle",
+			"level": 1
+		},
+		{
+			"move": "Razor Leaf",
+			"level": 6
+		},
+		{
+			"move": "Poison Powder",
+			"level": 9
+		},
+		{
+			"move": "Synthesis",
+			"level": 12
+		},
+		{
+			"move": "Reflect",
+			"level": 17
+		},
+		{
+			"move": "Magical Leaf",
+			"level": 20
+		},
+		{
+			"move": "Natural Gift",
+			"level": 23
+		},
+		{
+			"move": "Sweet Scent",
+			"level": 28
+		},
+		{
+			"move": "Light Screen",
+			"level": 31
+		},
+		{
+			"move": "Body Slam",
+			"level": 34
+		},
+		{
+			"move": "Safeguard",
+			"level": 39
+		},
+		{
+			"move": "Aromatherapy",
+			"level": 42
+		},
+		{
+			"move": "Solar Beam",
+			"level": 45
+		},
+		{
+			"move": "Ancient Power",
+			"egg_move": true
+		},
+		{
+			"move": "Aromatherapy",
+			"egg_move": true
+		},
+		{
+			"move": "Body Slam",
+			"egg_move": true
+		},
+		{
+			"move": "Counter",
+			"egg_move": true
+		},
+		{
+			"move": "Flail",
+			"egg_move": true
+		},
+		{
+			"move": "Grass Whistle",
+			"egg_move": true
+		},
+		{
+			"move": "Grassy Terrain",
+			"egg_move": true
+		},
+		{
+			"move": "Heal Pulse",
+			"egg_move": true
+		},
+		{
+			"move": "Ingrain",
+			"egg_move": true
+		},
+		{
+			"move": "Leaf Storm",
+			"egg_move": true
+		},
+		{
+			"move": "Leech Seed",
+			"egg_move": true
+		},
+		{
+			"move": "Nature Power",
+			"egg_move": true
+		},
+		{
+			"move": "Refresh",
+			"egg_move": true
+		},
+		{
+			"move": "Vine Whip",
+			"egg_move": true
+		},
+		{
+			"move": "Wring Out",
+			"egg_move": true
+		},
+		{
+			"move": "Work Up",
+			"tm": "TM1"
+		},
+		{
+			"move": "Toxic",
+			"tm": "TM6"
+		},
+		{
+			"move": "Hidden Power",
+			"tm": "TM10"
+		},
+		{
+			"move": "Sunny Day",
+			"tm": "TM11"
+		},
+		{
+			"move": "Light Screen",
+			"tm": "TM16"
+		},
+		{
+			"move": "Protect",
+			"tm": "TM17"
+		},
+		{
+			"move": "Safeguard",
+			"tm": "TM20"
+		},
+		{
+			"move": "Frustration",
+			"tm": "TM21"
+		},
+		{
+			"move": "Solar Beam",
+			"tm": "TM22"
+		},
+		{
+			"move": "Return",
+			"tm": "TM27"
+		},
+		{
+			"move": "Double Team",
+			"tm": "TM32"
+		},
+		{
+			"move": "Reflect",
+			"tm": "TM33"
+		},
+		{
+			"move": "Facade",
+			"tm": "TM42"
+		},
+		{
+			"move": "Rest",
+			"tm": "TM44"
+		},
+		{
+			"move": "Attract",
+			"tm": "TM45"
+		},
+		{
+			"move": "Round",
+			"tm": "TM48"
+		},
+		{
+			"move": "Echoed Voice",
+			"tm": "TM49"
+		},
+		{
+			"move": "Energy Ball",
+			"tm": "TM53"
+		},
+		{
+			"move": "Swords Dance",
+			"tm": "TM75"
+		},
+		{
+			"move": "Grass Knot",
+			"tm": "TM86"
+		},
+		{
+			"move": "Swagger",
+			"tm": "TM87"
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": "TM88"
+		},
+		{
+			"move": "Substitute",
+			"tm": "TM90"
+		},
+		{
+			"move": "Nature Power",
+			"tm": "TM96"
+		},
+		{
+			"move": "Confide",
+			"tm": "TM100"
+		}
+	]
 }

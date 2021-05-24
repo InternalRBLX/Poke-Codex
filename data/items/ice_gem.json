@@ -1,8 +1,8 @@
 {
-    "name": "Ice Gem",
-    "sell_price": 100,
-    "holdable": true,
-    "battle": false,
-    "category": "Item",
-    "subcategory": "Gem"
+	"name": "Ice Gem",
+	"sell_price": 100,
+	"holdable": true,
+	"battle": false,
+	"category": "Item",
+	"subcategory": "Gem"
 }

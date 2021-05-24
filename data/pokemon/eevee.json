@@ -1,316 +1,298 @@
 {
-    "name": "Eevee",
-    "national_id": 133,
-    "types": [
-        "Normal"
-    ],
-    "abilities": [
-        {
-            "name": "Run Away"
-        },
-        {
-            "name": "Adaptability"
-        },
-        {
-            "name": "Anticipation",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 45,
-    "gender_ratios": {
-        "male": 87.5,
-        "female": 12.5
-    },
-    "egg_groups": [
-        "Field"
-    ],
-    "hatch_time": [
-        9180,
-        9434
-    ],
-    "height_us": "1'00\"",
-    "height_eu": "0.3 m",
-    "weight_us": "14.3 lbs.",
-    "weight_eu": "6.5 kg",
-    "base_exp_yield": 65,
-    "leveling_rate": "Medium Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 1,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 55,
-        "atk": 55,
-        "def": 50,
-        "sp_atk": 45,
-        "sp_def": 65,
-        "speed": 55
-    },
-    "evolution_from": null,
-    "evolutions": [
-        {
-            "to": "Sylveon",
-            "level_up": true,
-            "conditions": [
-                "Fairy Type Move",
-                "Maximum Affection in Pokémon Amie"
-            ]
-        },
-        {
-            "to": "Vaporeon",
-            "item": "Water Stone"
-        },
-        {
-            "to": "Jolteon",
-            "item": "Thunderstone"
-        },
-        {
-            "to": "Flareon",
-            "item": "Fire Stone"
-        },
-        {
-            "to": "Espeon",
-            "happiness": true,
-            "conditions": [
-                "Daytime"
-            ]
-        },
-        {
-            "to": "Umbreon",
-            "happiness": true,
-            "conditions": [
-                "Nighttime"
-            ]
-        },
-        {
-            "to": "Leafeon",
-            "level_up": true,
-            "conditions": [
-                "Near a Mossy Rock"
-            ],
-            "item": "Leaf Stone"
-        },
-        {
-            "to": "Glaceon",
-            "level_up": true,
-            "conditions": [
-                "Near an Icy Rock"
-            ],
-            "item": "Ice Stone"
-        }
-    ],
-    "species": "Evolution Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "Thanks to its unstable genetic makeup, this special Pokémon conceals many different possible evolutions.",
-    "move_learnset": [
-        {
-            "move": "Covet",
-            "level": 1
-        },
-        {
-            "move": "Helping Hand",
-            "level": 1
-        },
-        {
-            "move": "Tackle",
-            "level": 1
-        },
-        {
-            "move": "Growl",
-            "level": 1
-        },
-        {
-            "move": "Tail Whip",
-            "level": 1
-        },
-        {
-            "move": "Sand Attack",
-            "level": 5
-        },
-        {
-            "move": "Quick Attack",
-            "level": 10
-        },
-        {
-            "move": "Baby-Doll Eyes",
-            "level": 15
-        },
-        {
-            "move": "Swift",
-            "level": 20
-        },
-        {
-            "move": "Bite",
-            "level": 25
-        },
-        {
-            "move": "Copycat",
-            "level": 30
-        },
-        {
-            "move": "Baton Pass",
-            "level": 35
-        },
-        {
-            "move": "Take Down",
-            "level": 40
-        },
-        {
-            "move": "Charm",
-            "level": 45
-        },
-        {
-            "move": "Double-Edge",
-            "level": 50
-        },
-        {
-            "move": "Last Resort",
-            "level": 55
-        },
-        {
-            "move": "Pay Day",
-            "tm": true
-        },
-        {
-            "move": "Dig",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Charm",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Rain Dance",
-            "tm": true
-        },
-        {
-            "move": "Sunny Day",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Swift",
-            "tm": true
-        },
-        {
-            "move": "Helping Hand",
-            "tm": true
-        },
-        {
-            "move": "Weather Ball",
-            "tm": true
-        },
-        {
-            "move": "Fake Tears",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Retaliate",
-            "tm": true
-        },
-        {
-            "move": "Body Slam",
-            "tm": true
-        },
-        {
-            "move": "Focus Energy",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Baton Pass",
-            "tm": true
-        },
-        {
-            "move": "Iron Tail",
-            "tm": true
-        },
-        {
-            "move": "Shadow Ball",
-            "tm": true
-        },
-        {
-            "move": "Hyper Voice",
-            "tm": true
-        },
-        {
-            "move": "Stored Power",
-            "tm": true
-        },
-        {
-            "move": "Work Up",
-            "tm": true
-        },
-        {
-            "move": "Flail",
-            "egg_move": true
-        },
-        {
-            "move": "Curse",
-            "egg_move": true
-        },
-        {
-            "move": "Tickle",
-            "egg_move": true
-        },
-        {
-            "move": "Yawn",
-            "egg_move": true
-        },
-        {
-            "move": "Detect",
-            "egg_move": true
-        },
-        {
-            "move": "Double Kick",
-            "egg_move": true
-        },
-        {
-            "move": "Mud-Slap",
-            "egg_move": true
-        },
-        {
-            "move": "Wish",
-            "egg_move": true
-        }
-    ]
+	"name": "Eevee",
+	"national_id": 133,
+	"types": ["Normal"],
+	"abilities": [
+		{
+			"name": "Run Away"
+		},
+		{
+			"name": "Adaptability"
+		},
+		{
+			"name": "Anticipation",
+			"hidden": true
+		}
+	],
+	"catch_rate": 45,
+	"gender_ratios": {
+		"male": 87.5,
+		"female": 12.5
+	},
+	"egg_groups": ["Field"],
+	"hatch_time": [9180, 9434],
+	"height_us": "1'00\"",
+	"height_eu": "0.3 m",
+	"weight_us": "14.3 lbs.",
+	"weight_eu": "6.5 kg",
+	"base_exp_yield": 65,
+	"leveling_rate": "Medium Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 1,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 55,
+		"atk": 55,
+		"def": 50,
+		"sp_atk": 45,
+		"sp_def": 65,
+		"speed": 55
+	},
+	"evolution_from": null,
+	"evolutions": [
+		{
+			"to": "Sylveon",
+			"level_up": true,
+			"conditions": ["Fairy Type Move", "Maximum Affection in Pokémon Amie"]
+		},
+		{
+			"to": "Vaporeon",
+			"item": "Water Stone"
+		},
+		{
+			"to": "Jolteon",
+			"item": "Thunderstone"
+		},
+		{
+			"to": "Flareon",
+			"item": "Fire Stone"
+		},
+		{
+			"to": "Espeon",
+			"happiness": true,
+			"conditions": ["Daytime"]
+		},
+		{
+			"to": "Umbreon",
+			"happiness": true,
+			"conditions": ["Nighttime"]
+		},
+		{
+			"to": "Leafeon",
+			"level_up": true,
+			"conditions": ["Near a Mossy Rock"],
+			"item": "Leaf Stone"
+		},
+		{
+			"to": "Glaceon",
+			"level_up": true,
+			"conditions": ["Near an Icy Rock"],
+			"item": "Ice Stone"
+		}
+	],
+	"species": "Evolution Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "Thanks to its unstable genetic makeup, this special Pokémon conceals many different possible evolutions.",
+	"move_learnset": [
+		{
+			"move": "Covet",
+			"level": 1
+		},
+		{
+			"move": "Helping Hand",
+			"level": 1
+		},
+		{
+			"move": "Tackle",
+			"level": 1
+		},
+		{
+			"move": "Growl",
+			"level": 1
+		},
+		{
+			"move": "Tail Whip",
+			"level": 1
+		},
+		{
+			"move": "Sand Attack",
+			"level": 5
+		},
+		{
+			"move": "Quick Attack",
+			"level": 10
+		},
+		{
+			"move": "Baby-Doll Eyes",
+			"level": 15
+		},
+		{
+			"move": "Swift",
+			"level": 20
+		},
+		{
+			"move": "Bite",
+			"level": 25
+		},
+		{
+			"move": "Copycat",
+			"level": 30
+		},
+		{
+			"move": "Baton Pass",
+			"level": 35
+		},
+		{
+			"move": "Take Down",
+			"level": 40
+		},
+		{
+			"move": "Charm",
+			"level": 45
+		},
+		{
+			"move": "Double-Edge",
+			"level": 50
+		},
+		{
+			"move": "Last Resort",
+			"level": 55
+		},
+		{
+			"move": "Pay Day",
+			"tm": true
+		},
+		{
+			"move": "Dig",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Charm",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Rain Dance",
+			"tm": true
+		},
+		{
+			"move": "Sunny Day",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Swift",
+			"tm": true
+		},
+		{
+			"move": "Helping Hand",
+			"tm": true
+		},
+		{
+			"move": "Weather Ball",
+			"tm": true
+		},
+		{
+			"move": "Fake Tears",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Retaliate",
+			"tm": true
+		},
+		{
+			"move": "Body Slam",
+			"tm": true
+		},
+		{
+			"move": "Focus Energy",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Baton Pass",
+			"tm": true
+		},
+		{
+			"move": "Iron Tail",
+			"tm": true
+		},
+		{
+			"move": "Shadow Ball",
+			"tm": true
+		},
+		{
+			"move": "Hyper Voice",
+			"tm": true
+		},
+		{
+			"move": "Stored Power",
+			"tm": true
+		},
+		{
+			"move": "Work Up",
+			"tm": true
+		},
+		{
+			"move": "Flail",
+			"egg_move": true
+		},
+		{
+			"move": "Curse",
+			"egg_move": true
+		},
+		{
+			"move": "Tickle",
+			"egg_move": true
+		},
+		{
+			"move": "Yawn",
+			"egg_move": true
+		},
+		{
+			"move": "Detect",
+			"egg_move": true
+		},
+		{
+			"move": "Double Kick",
+			"egg_move": true
+		},
+		{
+			"move": "Mud-Slap",
+			"egg_move": true
+		},
+		{
+			"move": "Wish",
+			"egg_move": true
+		}
+	]
 }

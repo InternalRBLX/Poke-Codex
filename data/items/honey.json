@@ -1,8 +1,8 @@
 {
-    "name": "Honey",
-    "sell_price": 150,
-    "holdable": false,
-    "battle": false,
-    "category": "Item",
-    "subcategory": "Overworld"
+	"name": "Honey",
+	"sell_price": 150,
+	"holdable": false,
+	"battle": false,
+	"category": "Item",
+	"subcategory": "Overworld"
 }

@@ -1,260 +1,252 @@
 {
-    "name": "Mothim",
-    "national_id": 414,
-    "types": [
-        "Bug",
-        "Flying"
-    ],
-    "items": [
-        {
-            "name": "Silver Powder",
-            "chance": 5
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Swarm"
-        },
-        {
-            "name": "Tinted Lens",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 45,
-    "gender_ratios": {
-        "male": 100
-    },
-    "egg_groups": [
-        "Bug"
-    ],
-    "hatch_time": [
-        4080,
-        4334
-    ],
-    "height_us": "2'11\"",
-    "height_eu": "0.9 m",
-    "weight_us": "51.4 lbs.",
-    "weight_eu": "23.3 kg",
-    "base_exp_yield": 148,
-    "leveling_rate": "Medium Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 1,
-        "def": 0,
-        "sp_atk": 1,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 70,
-        "atk": 94,
-        "def": 50,
-        "sp_atk": 94,
-        "sp_def": 50,
-        "speed": 66
-    },
-    "evolution_from": "Burmy",
-    "evolutions": [],
-    "species": "Moth Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "It flutters around at night and steals honey from the Combee hive.",
-    "move_learnset": [
-        {
-            "move": "Bug Bite",
-            "level": 1
-        },
-        {
-            "move": "Protect",
-            "level": 1
-        },
-        {
-            "move": "Quiver Dance",
-            "level": 1
-        },
-        {
-            "move": "Tackle",
-            "level": 1
-        },
-        {
-            "move": "Protect",
-            "level": 10
-        },
-        {
-            "move": "Bug Bite",
-            "level": 15
-        },
-        {
-            "move": "Hidden Power",
-            "level": 20
-        },
-        {
-            "move": "Confusion",
-            "level": 23
-        },
-        {
-            "move": "Gust",
-            "level": 26
-        },
-        {
-            "move": "Poison Powder",
-            "level": 29
-        },
-        {
-            "move": "Psybeam",
-            "level": 32
-        },
-        {
-            "move": "Camouflage",
-            "level": 35
-        },
-        {
-            "move": "Silver Wind",
-            "level": 38
-        },
-        {
-            "move": "Air Slash",
-            "level": 41
-        },
-        {
-            "move": "Psychic",
-            "level": 44
-        },
-        {
-            "move": "Lunge",
-            "level": 47
-        },
-        {
-            "move": "Bug Buzz",
-            "level": 50
-        },
-        {
-            "move": "Toxic",
-            "tm": "TM6"
-        },
-        {
-            "move": "Venoshock",
-            "tm": "TM9"
-        },
-        {
-            "move": "Hidden Power",
-            "tm": "TM10"
-        },
-        {
-            "move": "Sunny Day",
-            "tm": "TM11"
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": "TM15"
-        },
-        {
-            "move": "Protect",
-            "tm": "TM17"
-        },
-        {
-            "move": "Rain Dance",
-            "tm": "TM18"
-        },
-        {
-            "move": "Roost",
-            "tm": "TM19"
-        },
-        {
-            "move": "Safeguard",
-            "tm": "TM20"
-        },
-        {
-            "move": "Frustration",
-            "tm": "TM21"
-        },
-        {
-            "move": "Solar Beam",
-            "tm": "TM22"
-        },
-        {
-            "move": "Return",
-            "tm": "TM27"
-        },
-        {
-            "move": "Psychic",
-            "tm": "TM29"
-        },
-        {
-            "move": "Shadow Ball",
-            "tm": "TM30"
-        },
-        {
-            "move": "Double Team",
-            "tm": "TM32"
-        },
-        {
-            "move": "Aerial Ace",
-            "tm": "TM40"
-        },
-        {
-            "move": "Facade",
-            "tm": "TM42"
-        },
-        {
-            "move": "Rest",
-            "tm": "TM44"
-        },
-        {
-            "move": "Attract",
-            "tm": "TM45"
-        },
-        {
-            "move": "Thief",
-            "tm": "TM46"
-        },
-        {
-            "move": "Round",
-            "tm": "TM48"
-        },
-        {
-            "move": "Energy Ball",
-            "tm": "TM53"
-        },
-        {
-            "move": "Acrobatics",
-            "tm": "TM62"
-        },
-        {
-            "move": "Giga Impact",
-            "tm": "TM68"
-        },
-        {
-            "move": "Psych Up",
-            "tm": "TM77"
-        },
-        {
-            "move": "Infestation",
-            "tm": "TM83"
-        },
-        {
-            "move": "Dream Eater",
-            "tm": "TM85"
-        },
-        {
-            "move": "Swagger",
-            "tm": "TM87"
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": "TM88"
-        },
-        {
-            "move": "U-turn",
-            "tm": "TM89"
-        },
-        {
-            "move": "Substitute",
-            "tm": "TM90"
-        },
-        {
-            "move": "Confide",
-            "tm": "TM100"
-        }
-    ]
+	"name": "Mothim",
+	"national_id": 414,
+	"types": ["Bug", "Flying"],
+	"items": [
+		{
+			"name": "Silver Powder",
+			"chance": 5
+		}
+	],
+	"abilities": [
+		{
+			"name": "Swarm"
+		},
+		{
+			"name": "Tinted Lens",
+			"hidden": true
+		}
+	],
+	"catch_rate": 45,
+	"gender_ratios": {
+		"male": 100
+	},
+	"egg_groups": ["Bug"],
+	"hatch_time": [4080, 4334],
+	"height_us": "2'11\"",
+	"height_eu": "0.9 m",
+	"weight_us": "51.4 lbs.",
+	"weight_eu": "23.3 kg",
+	"base_exp_yield": 148,
+	"leveling_rate": "Medium Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 1,
+		"def": 0,
+		"sp_atk": 1,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 70,
+		"atk": 94,
+		"def": 50,
+		"sp_atk": 94,
+		"sp_def": 50,
+		"speed": 66
+	},
+	"evolution_from": "Burmy",
+	"evolutions": [],
+	"species": "Moth Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "It flutters around at night and steals honey from the Combee hive.",
+	"move_learnset": [
+		{
+			"move": "Bug Bite",
+			"level": 1
+		},
+		{
+			"move": "Protect",
+			"level": 1
+		},
+		{
+			"move": "Quiver Dance",
+			"level": 1
+		},
+		{
+			"move": "Tackle",
+			"level": 1
+		},
+		{
+			"move": "Protect",
+			"level": 10
+		},
+		{
+			"move": "Bug Bite",
+			"level": 15
+		},
+		{
+			"move": "Hidden Power",
+			"level": 20
+		},
+		{
+			"move": "Confusion",
+			"level": 23
+		},
+		{
+			"move": "Gust",
+			"level": 26
+		},
+		{
+			"move": "Poison Powder",
+			"level": 29
+		},
+		{
+			"move": "Psybeam",
+			"level": 32
+		},
+		{
+			"move": "Camouflage",
+			"level": 35
+		},
+		{
+			"move": "Silver Wind",
+			"level": 38
+		},
+		{
+			"move": "Air Slash",
+			"level": 41
+		},
+		{
+			"move": "Psychic",
+			"level": 44
+		},
+		{
+			"move": "Lunge",
+			"level": 47
+		},
+		{
+			"move": "Bug Buzz",
+			"level": 50
+		},
+		{
+			"move": "Toxic",
+			"tm": "TM6"
+		},
+		{
+			"move": "Venoshock",
+			"tm": "TM9"
+		},
+		{
+			"move": "Hidden Power",
+			"tm": "TM10"
+		},
+		{
+			"move": "Sunny Day",
+			"tm": "TM11"
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": "TM15"
+		},
+		{
+			"move": "Protect",
+			"tm": "TM17"
+		},
+		{
+			"move": "Rain Dance",
+			"tm": "TM18"
+		},
+		{
+			"move": "Roost",
+			"tm": "TM19"
+		},
+		{
+			"move": "Safeguard",
+			"tm": "TM20"
+		},
+		{
+			"move": "Frustration",
+			"tm": "TM21"
+		},
+		{
+			"move": "Solar Beam",
+			"tm": "TM22"
+		},
+		{
+			"move": "Return",
+			"tm": "TM27"
+		},
+		{
+			"move": "Psychic",
+			"tm": "TM29"
+		},
+		{
+			"move": "Shadow Ball",
+			"tm": "TM30"
+		},
+		{
+			"move": "Double Team",
+			"tm": "TM32"
+		},
+		{
+			"move": "Aerial Ace",
+			"tm": "TM40"
+		},
+		{
+			"move": "Facade",
+			"tm": "TM42"
+		},
+		{
+			"move": "Rest",
+			"tm": "TM44"
+		},
+		{
+			"move": "Attract",
+			"tm": "TM45"
+		},
+		{
+			"move": "Thief",
+			"tm": "TM46"
+		},
+		{
+			"move": "Round",
+			"tm": "TM48"
+		},
+		{
+			"move": "Energy Ball",
+			"tm": "TM53"
+		},
+		{
+			"move": "Acrobatics",
+			"tm": "TM62"
+		},
+		{
+			"move": "Giga Impact",
+			"tm": "TM68"
+		},
+		{
+			"move": "Psych Up",
+			"tm": "TM77"
+		},
+		{
+			"move": "Infestation",
+			"tm": "TM83"
+		},
+		{
+			"move": "Dream Eater",
+			"tm": "TM85"
+		},
+		{
+			"move": "Swagger",
+			"tm": "TM87"
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": "TM88"
+		},
+		{
+			"move": "U-turn",
+			"tm": "TM89"
+		},
+		{
+			"move": "Substitute",
+			"tm": "TM90"
+		},
+		{
+			"move": "Confide",
+			"tm": "TM100"
+		}
+	]
 }

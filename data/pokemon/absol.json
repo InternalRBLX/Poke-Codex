@@ -1,411 +1,404 @@
 {
-    "name": "Absol",
-    "national_id": 359,
-    "types": [
-        "Dark"
-    ],
-    "items": [
-        {
-            "name": "Life Orb",
-            "chance": 5
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Pressure"
-        },
-        {
-            "name": "Super Luck"
-        },
-        {
-            "name": "Justified",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 30,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Field"
-    ],
-    "hatch_time": [
-        6630,
-        6884
-    ],
-    "height_us": "3'11\"",
-    "height_eu": "1.2 m",
-    "weight_us": "103.6 lbs.",
-    "weight_eu": "47.0 kg",
-    "base_exp_yield": 163,
-    "leveling_rate": "Medium Slow",
-    "base_friendship": 35,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 2,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 65,
-        "atk": 130,
-        "def": 60,
-        "sp_atk": 75,
-        "sp_def": 60,
-        "speed": 75
-    },
-    "evolution_from": null,
-    "evolutions": [],
-    "species": "Disaster Pokémon",
-    "mega_evolves": true,
-    "pokedex_entry": "Absol has the ability to foretell the coming of natural disasters. It lives in a harsh, rugged mountain environment. This Pokémon very rarely ventures down from the mountains.",
-    "move_learnset": [
-        {
-            "move": "Feint",
-            "level": 1
-        },
-        {
-            "move": "Future Sight",
-            "level": 1
-        },
-        {
-            "move": "Leer",
-            "level": 1
-        },
-        {
-            "move": "Perish Song",
-            "level": 1
-        },
-        {
-            "move": "Quick Attack",
-            "level": 1
-        },
-        {
-            "move": "Scratch",
-            "level": 1
-        },
-        {
-            "move": "Leer",
-            "level": 4
-        },
-        {
-            "move": "Quick Attack",
-            "level": 7
-        },
-        {
-            "move": "Pursuit",
-            "level": 10
-        },
-        {
-            "move": "Taunt",
-            "level": 13
-        },
-        {
-            "move": "Bite",
-            "level": 16
-        },
-        {
-            "move": "Double Team",
-            "level": 19
-        },
-        {
-            "move": "Slash",
-            "level": 22
-        },
-        {
-            "move": "Swords Dance",
-            "level": 25
-        },
-        {
-            "move": "Night Slash",
-            "level": 29
-        },
-        {
-            "move": "Detect",
-            "level": 33
-        },
-        {
-            "move": "Psycho Cut",
-            "level": 37
-        },
-        {
-            "move": "Me First",
-            "level": 41
-        },
-        {
-            "move": "Sucker Punch",
-            "level": 45
-        },
-        {
-            "move": "Razor Wind",
-            "level": 49
-        },
-        {
-            "move": "Future Sight",
-            "level": 53
-        },
-        {
-            "move": "Perish Song",
-            "level": 57
-        },
-        {
-            "move": "Assurance",
-            "egg_move": true
-        },
-        {
-            "move": "Baton Pass",
-            "egg_move": true
-        },
-        {
-            "move": "Curse",
-            "egg_move": true
-        },
-        {
-            "move": "Double-Edge",
-            "egg_move": true
-        },
-        {
-            "move": "Feint Attack",
-            "egg_move": true
-        },
-        {
-            "move": "Hex",
-            "egg_move": true
-        },
-        {
-            "move": "Magic Coat",
-            "egg_move": true
-        },
-        {
-            "move": "Me First",
-            "egg_move": true
-        },
-        {
-            "move": "Mean Look",
-            "egg_move": true
-        },
-        {
-            "move": "Megahorn",
-            "egg_move": true
-        },
-        {
-            "move": "Perish Song",
-            "egg_move": true
-        },
-        {
-            "move": "Play Rough",
-            "egg_move": true
-        },
-        {
-            "move": "Punishment",
-            "egg_move": true
-        },
-        {
-            "move": "Sucker Punch",
-            "egg_move": true
-        },
-        {
-            "move": "Zen Headbutt",
-            "egg_move": true
-        },
-        {
-            "move": "Calm Mind",
-            "tm": "TM4"
-        },
-        {
-            "move": "Toxic",
-            "tm": "TM6"
-        },
-        {
-            "move": "Hail",
-            "tm": "TM7"
-        },
-        {
-            "move": "Hidden Power",
-            "tm": "TM10"
-        },
-        {
-            "move": "Sunny Day",
-            "tm": "TM11"
-        },
-        {
-            "move": "Taunt",
-            "tm": "TM12"
-        },
-        {
-            "move": "Ice Beam",
-            "tm": "TM13"
-        },
-        {
-            "move": "Blizzard",
-            "tm": "TM14"
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": "TM15"
-        },
-        {
-            "move": "Protect",
-            "tm": "TM17"
-        },
-        {
-            "move": "Rain Dance",
-            "tm": "TM18"
-        },
-        {
-            "move": "Frustration",
-            "tm": "TM21"
-        },
-        {
-            "move": "Thunderbolt",
-            "tm": "TM24"
-        },
-        {
-            "move": "Thunder",
-            "tm": "TM25"
-        },
-        {
-            "move": "Return",
-            "tm": "TM27"
-        },
-        {
-            "move": "Shadow Ball",
-            "tm": "TM30"
-        },
-        {
-            "move": "Double Team",
-            "tm": "TM32"
-        },
-        {
-            "move": "Flamethrower",
-            "tm": "TM35"
-        },
-        {
-            "move": "Sandstorm",
-            "tm": "TM37"
-        },
-        {
-            "move": "Fire Blast",
-            "tm": "TM38"
-        },
-        {
-            "move": "Rock Tomb",
-            "tm": "TM39"
-        },
-        {
-            "move": "Aerial Ace",
-            "tm": "TM40"
-        },
-        {
-            "move": "Torment",
-            "tm": "TM41"
-        },
-        {
-            "move": "Facade",
-            "tm": "TM42"
-        },
-        {
-            "move": "Rest",
-            "tm": "TM44"
-        },
-        {
-            "move": "Attract",
-            "tm": "TM45"
-        },
-        {
-            "move": "Thief",
-            "tm": "TM46"
-        },
-        {
-            "move": "Round",
-            "tm": "TM48"
-        },
-        {
-            "move": "Echoed Voice",
-            "tm": "TM49"
-        },
-        {
-            "move": "False Swipe",
-            "tm": "TM54"
-        },
-        {
-            "move": "Charge Beam",
-            "tm": "TM57"
-        },
-        {
-            "move": "Brutal Swing",
-            "tm": "TM59"
-        },
-        {
-            "move": "Will-O-Wisp",
-            "tm": "TM61"
-        },
-        {
-            "move": "Shadow Claw",
-            "tm": "TM65"
-        },
-        {
-            "move": "Payback",
-            "tm": "TM66"
-        },
-        {
-            "move": "Giga Impact",
-            "tm": "TM68"
-        },
-        {
-            "move": "Stone Edge",
-            "tm": "TM71"
-        },
-        {
-            "move": "Thunder Wave",
-            "tm": "TM73"
-        },
-        {
-            "move": "Swords Dance",
-            "tm": "TM75"
-        },
-        {
-            "move": "Psych Up",
-            "tm": "TM77"
-        },
-        {
-            "move": "Rock Slide",
-            "tm": "TM80"
-        },
-        {
-            "move": "X-Scissor",
-            "tm": "TM81"
-        },
-        {
-            "move": "Dream Eater",
-            "tm": "TM85"
-        },
-        {
-            "move": "Swagger",
-            "tm": "TM87"
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": "TM88"
-        },
-        {
-            "move": "Substitute",
-            "tm": "TM90"
-        },
-        {
-            "move": "Snarl",
-            "tm": "TM95"
-        },
-        {
-            "move": "Dark Pulse",
-            "tm": "TM97"
-        },
-        {
-            "move": "Confide",
-            "tm": "TM100"
-        }
-    ]
+	"name": "Absol",
+	"national_id": 359,
+	"types": ["Dark"],
+	"items": [
+		{
+			"name": "Life Orb",
+			"chance": 5
+		}
+	],
+	"abilities": [
+		{
+			"name": "Pressure"
+		},
+		{
+			"name": "Super Luck"
+		},
+		{
+			"name": "Justified",
+			"hidden": true
+		}
+	],
+	"catch_rate": 30,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Field"],
+	"hatch_time": [6630, 6884],
+	"height_us": "3'11\"",
+	"height_eu": "1.2 m",
+	"weight_us": "103.6 lbs.",
+	"weight_eu": "47.0 kg",
+	"base_exp_yield": 163,
+	"leveling_rate": "Medium Slow",
+	"base_friendship": 35,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 2,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 65,
+		"atk": 130,
+		"def": 60,
+		"sp_atk": 75,
+		"sp_def": 60,
+		"speed": 75
+	},
+	"evolution_from": null,
+	"evolutions": [],
+	"species": "Disaster Pokémon",
+	"mega_evolves": true,
+	"pokedex_entry": "Absol has the ability to foretell the coming of natural disasters. It lives in a harsh, rugged mountain environment. This Pokémon very rarely ventures down from the mountains.",
+	"move_learnset": [
+		{
+			"move": "Feint",
+			"level": 1
+		},
+		{
+			"move": "Future Sight",
+			"level": 1
+		},
+		{
+			"move": "Leer",
+			"level": 1
+		},
+		{
+			"move": "Perish Song",
+			"level": 1
+		},
+		{
+			"move": "Quick Attack",
+			"level": 1
+		},
+		{
+			"move": "Scratch",
+			"level": 1
+		},
+		{
+			"move": "Leer",
+			"level": 4
+		},
+		{
+			"move": "Quick Attack",
+			"level": 7
+		},
+		{
+			"move": "Pursuit",
+			"level": 10
+		},
+		{
+			"move": "Taunt",
+			"level": 13
+		},
+		{
+			"move": "Bite",
+			"level": 16
+		},
+		{
+			"move": "Double Team",
+			"level": 19
+		},
+		{
+			"move": "Slash",
+			"level": 22
+		},
+		{
+			"move": "Swords Dance",
+			"level": 25
+		},
+		{
+			"move": "Night Slash",
+			"level": 29
+		},
+		{
+			"move": "Detect",
+			"level": 33
+		},
+		{
+			"move": "Psycho Cut",
+			"level": 37
+		},
+		{
+			"move": "Me First",
+			"level": 41
+		},
+		{
+			"move": "Sucker Punch",
+			"level": 45
+		},
+		{
+			"move": "Razor Wind",
+			"level": 49
+		},
+		{
+			"move": "Future Sight",
+			"level": 53
+		},
+		{
+			"move": "Perish Song",
+			"level": 57
+		},
+		{
+			"move": "Assurance",
+			"egg_move": true
+		},
+		{
+			"move": "Baton Pass",
+			"egg_move": true
+		},
+		{
+			"move": "Curse",
+			"egg_move": true
+		},
+		{
+			"move": "Double-Edge",
+			"egg_move": true
+		},
+		{
+			"move": "Feint Attack",
+			"egg_move": true
+		},
+		{
+			"move": "Hex",
+			"egg_move": true
+		},
+		{
+			"move": "Magic Coat",
+			"egg_move": true
+		},
+		{
+			"move": "Me First",
+			"egg_move": true
+		},
+		{
+			"move": "Mean Look",
+			"egg_move": true
+		},
+		{
+			"move": "Megahorn",
+			"egg_move": true
+		},
+		{
+			"move": "Perish Song",
+			"egg_move": true
+		},
+		{
+			"move": "Play Rough",
+			"egg_move": true
+		},
+		{
+			"move": "Punishment",
+			"egg_move": true
+		},
+		{
+			"move": "Sucker Punch",
+			"egg_move": true
+		},
+		{
+			"move": "Zen Headbutt",
+			"egg_move": true
+		},
+		{
+			"move": "Calm Mind",
+			"tm": "TM4"
+		},
+		{
+			"move": "Toxic",
+			"tm": "TM6"
+		},
+		{
+			"move": "Hail",
+			"tm": "TM7"
+		},
+		{
+			"move": "Hidden Power",
+			"tm": "TM10"
+		},
+		{
+			"move": "Sunny Day",
+			"tm": "TM11"
+		},
+		{
+			"move": "Taunt",
+			"tm": "TM12"
+		},
+		{
+			"move": "Ice Beam",
+			"tm": "TM13"
+		},
+		{
+			"move": "Blizzard",
+			"tm": "TM14"
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": "TM15"
+		},
+		{
+			"move": "Protect",
+			"tm": "TM17"
+		},
+		{
+			"move": "Rain Dance",
+			"tm": "TM18"
+		},
+		{
+			"move": "Frustration",
+			"tm": "TM21"
+		},
+		{
+			"move": "Thunderbolt",
+			"tm": "TM24"
+		},
+		{
+			"move": "Thunder",
+			"tm": "TM25"
+		},
+		{
+			"move": "Return",
+			"tm": "TM27"
+		},
+		{
+			"move": "Shadow Ball",
+			"tm": "TM30"
+		},
+		{
+			"move": "Double Team",
+			"tm": "TM32"
+		},
+		{
+			"move": "Flamethrower",
+			"tm": "TM35"
+		},
+		{
+			"move": "Sandstorm",
+			"tm": "TM37"
+		},
+		{
+			"move": "Fire Blast",
+			"tm": "TM38"
+		},
+		{
+			"move": "Rock Tomb",
+			"tm": "TM39"
+		},
+		{
+			"move": "Aerial Ace",
+			"tm": "TM40"
+		},
+		{
+			"move": "Torment",
+			"tm": "TM41"
+		},
+		{
+			"move": "Facade",
+			"tm": "TM42"
+		},
+		{
+			"move": "Rest",
+			"tm": "TM44"
+		},
+		{
+			"move": "Attract",
+			"tm": "TM45"
+		},
+		{
+			"move": "Thief",
+			"tm": "TM46"
+		},
+		{
+			"move": "Round",
+			"tm": "TM48"
+		},
+		{
+			"move": "Echoed Voice",
+			"tm": "TM49"
+		},
+		{
+			"move": "False Swipe",
+			"tm": "TM54"
+		},
+		{
+			"move": "Charge Beam",
+			"tm": "TM57"
+		},
+		{
+			"move": "Brutal Swing",
+			"tm": "TM59"
+		},
+		{
+			"move": "Will-O-Wisp",
+			"tm": "TM61"
+		},
+		{
+			"move": "Shadow Claw",
+			"tm": "TM65"
+		},
+		{
+			"move": "Payback",
+			"tm": "TM66"
+		},
+		{
+			"move": "Giga Impact",
+			"tm": "TM68"
+		},
+		{
+			"move": "Stone Edge",
+			"tm": "TM71"
+		},
+		{
+			"move": "Thunder Wave",
+			"tm": "TM73"
+		},
+		{
+			"move": "Swords Dance",
+			"tm": "TM75"
+		},
+		{
+			"move": "Psych Up",
+			"tm": "TM77"
+		},
+		{
+			"move": "Rock Slide",
+			"tm": "TM80"
+		},
+		{
+			"move": "X-Scissor",
+			"tm": "TM81"
+		},
+		{
+			"move": "Dream Eater",
+			"tm": "TM85"
+		},
+		{
+			"move": "Swagger",
+			"tm": "TM87"
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": "TM88"
+		},
+		{
+			"move": "Substitute",
+			"tm": "TM90"
+		},
+		{
+			"move": "Snarl",
+			"tm": "TM95"
+		},
+		{
+			"move": "Dark Pulse",
+			"tm": "TM97"
+		},
+		{
+			"move": "Confide",
+			"tm": "TM100"
+		}
+	]
 }

@@ -1,299 +1,291 @@
 {
-    "name": "Grapploct",
-    "national_id": 853,
-    "types": [
-        "Fighting"
-    ],
-    "abilities": [
-        {
-            "name": "Limber"
-        },
-        {
-            "name": "Technician",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 45,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Water1",
-        "HumanLike"
-    ],
-    "hatch_time": [
-        6425,
-        6681
-    ],
-    "height_us": "5'03\"",
-    "height_eu": "1.6 m",
-    "weight_us": "86.0 lbs.",
-    "weight_eu": "39.0 kg",
-    "base_exp_yield": 168,
-    "leveling_rate": "Medium Slow",
-    "base_friendship": 50,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 2,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 80,
-        "atk": 118,
-        "def": 90,
-        "sp_atk": 70,
-        "sp_def": 80,
-        "speed": 42
-    },
-    "evolution_from": "Clobbopus",
-    "evolutions": [],
-    "species": "Jujitsu Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "Searching for an opponent to test its skills against, it emerges onto land. Once the battle is over, it returns to the sea.",
-    "move_learnset": [
-        {
-            "move": "Octolock",
-            "evo": true
-        },
-        {
-            "move": "Octolock",
-            "level": 1
-        },
-        {
-            "move": "Octazooka",
-            "level": 1
-        },
-        {
-            "move": "Rock Smash",
-            "level": 1
-        },
-        {
-            "move": "Leer",
-            "level": 1
-        },
-        {
-            "move": "Feint",
-            "level": 1
-        },
-        {
-            "move": "Bind",
-            "level": 1
-        },
-        {
-            "move": "Detect",
-            "level": 15
-        },
-        {
-            "move": "Brick Break",
-            "level": 20
-        },
-        {
-            "move": "Bulk Up",
-            "level": 25
-        },
-        {
-            "move": "Submission",
-            "level": 30
-        },
-        {
-            "move": "Taunt",
-            "level": 35
-        },
-        {
-            "move": "Reversal",
-            "level": 40
-        },
-        {
-            "move": "Superpower",
-            "level": 45
-        },
-        {
-            "move": "Topsy-Turvy",
-            "level": 50
-        },
-        {
-            "move": "Mega Punch",
-            "tm": true
-        },
-        {
-            "move": "Ice Punch",
-            "tm": true
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": true
-        },
-        {
-            "move": "Giga Impact",
-            "tm": true
-        },
-        {
-            "move": "Dig",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Scary Face",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Whirlpool",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Revenge",
-            "tm": true
-        },
-        {
-            "move": "Brick Break",
-            "tm": true
-        },
-        {
-            "move": "Dive",
-            "tm": true
-        },
-        {
-            "move": "Mud Shot",
-            "tm": true
-        },
-        {
-            "move": "Brine",
-            "tm": true
-        },
-        {
-            "move": "Payback",
-            "tm": true
-        },
-        {
-            "move": "Drain Punch",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Retaliate",
-            "tm": true
-        },
-        {
-            "move": "Brutal Swing",
-            "tm": true
-        },
-        {
-            "move": "Stomping Tantrum",
-            "tm": true
-        },
-        {
-            "move": "Body Slam",
-            "tm": true
-        },
-        {
-            "move": "Hydro Pump",
-            "tm": true
-        },
-        {
-            "move": "Surf",
-            "tm": true
-        },
-        {
-            "move": "Waterfall",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Reversal",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Taunt",
-            "tm": true
-        },
-        {
-            "move": "Superpower",
-            "tm": true
-        },
-        {
-            "move": "Muddy Water",
-            "tm": true
-        },
-        {
-            "move": "Bulk Up",
-            "tm": true
-        },
-        {
-            "move": "Close Combat",
-            "tm": true
-        },
-        {
-            "move": "Focus Blast",
-            "tm": true
-        },
-        {
-            "move": "Work Up",
-            "tm": true
-        },
-        {
-            "move": "Liquidation",
-            "tm": true
-        },
-        {
-            "move": "Pain Split",
-            "egg_move": true
-        },
-        {
-            "move": "Soak",
-            "egg_move": true
-        },
-        {
-            "move": "Sucker Punch",
-            "egg_move": true
-        },
-        {
-            "move": "Circle Throw",
-            "egg_move": true
-        },
-        {
-            "move": "Seismic Toss",
-            "egg_move": true
-        },
-        {
-            "move": "Power-Up Punch",
-            "egg_move": true
-        }
-    ]
+	"name": "Grapploct",
+	"national_id": 853,
+	"types": ["Fighting"],
+	"abilities": [
+		{
+			"name": "Limber"
+		},
+		{
+			"name": "Technician",
+			"hidden": true
+		}
+	],
+	"catch_rate": 45,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Water1", "HumanLike"],
+	"hatch_time": [6425, 6681],
+	"height_us": "5'03\"",
+	"height_eu": "1.6 m",
+	"weight_us": "86.0 lbs.",
+	"weight_eu": "39.0 kg",
+	"base_exp_yield": 168,
+	"leveling_rate": "Medium Slow",
+	"base_friendship": 50,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 2,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 80,
+		"atk": 118,
+		"def": 90,
+		"sp_atk": 70,
+		"sp_def": 80,
+		"speed": 42
+	},
+	"evolution_from": "Clobbopus",
+	"evolutions": [],
+	"species": "Jujitsu Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "Searching for an opponent to test its skills against, it emerges onto land. Once the battle is over, it returns to the sea.",
+	"move_learnset": [
+		{
+			"move": "Octolock",
+			"evo": true
+		},
+		{
+			"move": "Octolock",
+			"level": 1
+		},
+		{
+			"move": "Octazooka",
+			"level": 1
+		},
+		{
+			"move": "Rock Smash",
+			"level": 1
+		},
+		{
+			"move": "Leer",
+			"level": 1
+		},
+		{
+			"move": "Feint",
+			"level": 1
+		},
+		{
+			"move": "Bind",
+			"level": 1
+		},
+		{
+			"move": "Detect",
+			"level": 15
+		},
+		{
+			"move": "Brick Break",
+			"level": 20
+		},
+		{
+			"move": "Bulk Up",
+			"level": 25
+		},
+		{
+			"move": "Submission",
+			"level": 30
+		},
+		{
+			"move": "Taunt",
+			"level": 35
+		},
+		{
+			"move": "Reversal",
+			"level": 40
+		},
+		{
+			"move": "Superpower",
+			"level": 45
+		},
+		{
+			"move": "Topsy-Turvy",
+			"level": 50
+		},
+		{
+			"move": "Mega Punch",
+			"tm": true
+		},
+		{
+			"move": "Ice Punch",
+			"tm": true
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": true
+		},
+		{
+			"move": "Giga Impact",
+			"tm": true
+		},
+		{
+			"move": "Dig",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Scary Face",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Whirlpool",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Revenge",
+			"tm": true
+		},
+		{
+			"move": "Brick Break",
+			"tm": true
+		},
+		{
+			"move": "Dive",
+			"tm": true
+		},
+		{
+			"move": "Mud Shot",
+			"tm": true
+		},
+		{
+			"move": "Brine",
+			"tm": true
+		},
+		{
+			"move": "Payback",
+			"tm": true
+		},
+		{
+			"move": "Drain Punch",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Retaliate",
+			"tm": true
+		},
+		{
+			"move": "Brutal Swing",
+			"tm": true
+		},
+		{
+			"move": "Stomping Tantrum",
+			"tm": true
+		},
+		{
+			"move": "Body Slam",
+			"tm": true
+		},
+		{
+			"move": "Hydro Pump",
+			"tm": true
+		},
+		{
+			"move": "Surf",
+			"tm": true
+		},
+		{
+			"move": "Waterfall",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Reversal",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Taunt",
+			"tm": true
+		},
+		{
+			"move": "Superpower",
+			"tm": true
+		},
+		{
+			"move": "Muddy Water",
+			"tm": true
+		},
+		{
+			"move": "Bulk Up",
+			"tm": true
+		},
+		{
+			"move": "Close Combat",
+			"tm": true
+		},
+		{
+			"move": "Focus Blast",
+			"tm": true
+		},
+		{
+			"move": "Work Up",
+			"tm": true
+		},
+		{
+			"move": "Liquidation",
+			"tm": true
+		},
+		{
+			"move": "Pain Split",
+			"egg_move": true
+		},
+		{
+			"move": "Soak",
+			"egg_move": true
+		},
+		{
+			"move": "Sucker Punch",
+			"egg_move": true
+		},
+		{
+			"move": "Circle Throw",
+			"egg_move": true
+		},
+		{
+			"move": "Seismic Toss",
+			"egg_move": true
+		},
+		{
+			"move": "Power-Up Punch",
+			"egg_move": true
+		}
+	]
 }

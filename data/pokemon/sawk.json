@@ -1,294 +1,287 @@
 {
-    "name": "Sawk",
-    "national_id": 539,
-    "types": [
-        "Fighting"
-    ],
-    "items": [
-        {
-            "name": "Black Belt",
-            "chance": 5
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Sturdy"
-        },
-        {
-            "name": "Inner Focus"
-        },
-        {
-            "name": "Mold Breaker",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 45,
-    "gender_ratios": {
-        "male": 100
-    },
-    "egg_groups": [
-        "Human-Like"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "4'07\"",
-    "height_eu": "1.4 m",
-    "weight_us": "112.4 lbs.",
-    "weight_eu": "51.0 kg",
-    "base_exp_yield": 163,
-    "leveling_rate": "Medium Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 2,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 75,
-        "atk": 125,
-        "def": 75,
-        "sp_atk": 30,
-        "sp_def": 75,
-        "speed": 85
-    },
-    "evolution_from": null,
-    "evolutions": [],
-    "species": "Karate Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "The karate chops of a Sawk that’s trained itself to the limit can cleave the ocean itself.",
-    "move_learnset": [
-        {
-            "move": "Rock Smash",
-            "level": 1
-        },
-        {
-            "move": "Leer",
-            "level": 1
-        },
-        {
-            "move": "Focus Energy",
-            "level": 5
-        },
-        {
-            "move": "Double Kick",
-            "level": 10
-        },
-        {
-            "move": "Quick Guard",
-            "level": 15
-        },
-        {
-            "move": "Low Sweep",
-            "level": 20
-        },
-        {
-            "move": "Bulk Up",
-            "level": 25
-        },
-        {
-            "move": "Retaliate",
-            "level": 30
-        },
-        {
-            "move": "Brick Break",
-            "level": 35
-        },
-        {
-            "move": "Counter",
-            "level": 40
-        },
-        {
-            "move": "Endure",
-            "level": 45
-        },
-        {
-            "move": "Reversal",
-            "level": 50
-        },
-        {
-            "move": "Close Combat",
-            "level": 55
-        },
-        {
-            "move": "Mega Punch",
-            "tm": true
-        },
-        {
-            "move": "Mega Kick",
-            "tm": true
-        },
-        {
-            "move": "Fire Punch",
-            "tm": true
-        },
-        {
-            "move": "Ice Punch",
-            "tm": true
-        },
-        {
-            "move": "Thunder Punch",
-            "tm": true
-        },
-        {
-            "move": "Giga Impact",
-            "tm": true
-        },
-        {
-            "move": "Dig",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Rock Slide",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Scary Face",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Rain Dance",
-            "tm": true
-        },
-        {
-            "move": "Sunny Day",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Helping Hand",
-            "tm": true
-        },
-        {
-            "move": "Revenge",
-            "tm": true
-        },
-        {
-            "move": "Brick Break",
-            "tm": true
-        },
-        {
-            "move": "Rock Tomb",
-            "tm": true
-        },
-        {
-            "move": "Payback",
-            "tm": true
-        },
-        {
-            "move": "Fling",
-            "tm": true
-        },
-        {
-            "move": "Low Sweep",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Retaliate",
-            "tm": true
-        },
-        {
-            "move": "Bulldoze",
-            "tm": true
-        },
-        {
-            "move": "Low Kick",
-            "tm": true
-        },
-        {
-            "move": "Earthquake",
-            "tm": true
-        },
-        {
-            "move": "Focus Energy",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Reversal",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Taunt",
-            "tm": true
-        },
-        {
-            "move": "Superpower",
-            "tm": true
-        },
-        {
-            "move": "Bulk Up",
-            "tm": true
-        },
-        {
-            "move": "Close Combat",
-            "tm": true
-        },
-        {
-            "move": "Poison Jab",
-            "tm": true
-        },
-        {
-            "move": "Focus Blast",
-            "tm": true
-        },
-        {
-            "move": "Zen Headbutt",
-            "tm": true
-        },
-        {
-            "move": "Stone Edge",
-            "tm": true
-        },
-        {
-            "move": "Grass Knot",
-            "tm": true
-        },
-        {
-            "move": "Work Up",
-            "tm": true
-        },
-        {
-            "move": "Throat Chop",
-            "tm": true
-        }
-    ]
+	"name": "Sawk",
+	"national_id": 539,
+	"types": ["Fighting"],
+	"items": [
+		{
+			"name": "Black Belt",
+			"chance": 5
+		}
+	],
+	"abilities": [
+		{
+			"name": "Sturdy"
+		},
+		{
+			"name": "Inner Focus"
+		},
+		{
+			"name": "Mold Breaker",
+			"hidden": true
+		}
+	],
+	"catch_rate": 45,
+	"gender_ratios": {
+		"male": 100
+	},
+	"egg_groups": ["Human-Like"],
+	"hatch_time": [5355, 5609],
+	"height_us": "4'07\"",
+	"height_eu": "1.4 m",
+	"weight_us": "112.4 lbs.",
+	"weight_eu": "51.0 kg",
+	"base_exp_yield": 163,
+	"leveling_rate": "Medium Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 2,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 75,
+		"atk": 125,
+		"def": 75,
+		"sp_atk": 30,
+		"sp_def": 75,
+		"speed": 85
+	},
+	"evolution_from": null,
+	"evolutions": [],
+	"species": "Karate Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "The karate chops of a Sawk that’s trained itself to the limit can cleave the ocean itself.",
+	"move_learnset": [
+		{
+			"move": "Rock Smash",
+			"level": 1
+		},
+		{
+			"move": "Leer",
+			"level": 1
+		},
+		{
+			"move": "Focus Energy",
+			"level": 5
+		},
+		{
+			"move": "Double Kick",
+			"level": 10
+		},
+		{
+			"move": "Quick Guard",
+			"level": 15
+		},
+		{
+			"move": "Low Sweep",
+			"level": 20
+		},
+		{
+			"move": "Bulk Up",
+			"level": 25
+		},
+		{
+			"move": "Retaliate",
+			"level": 30
+		},
+		{
+			"move": "Brick Break",
+			"level": 35
+		},
+		{
+			"move": "Counter",
+			"level": 40
+		},
+		{
+			"move": "Endure",
+			"level": 45
+		},
+		{
+			"move": "Reversal",
+			"level": 50
+		},
+		{
+			"move": "Close Combat",
+			"level": 55
+		},
+		{
+			"move": "Mega Punch",
+			"tm": true
+		},
+		{
+			"move": "Mega Kick",
+			"tm": true
+		},
+		{
+			"move": "Fire Punch",
+			"tm": true
+		},
+		{
+			"move": "Ice Punch",
+			"tm": true
+		},
+		{
+			"move": "Thunder Punch",
+			"tm": true
+		},
+		{
+			"move": "Giga Impact",
+			"tm": true
+		},
+		{
+			"move": "Dig",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Rock Slide",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Scary Face",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Rain Dance",
+			"tm": true
+		},
+		{
+			"move": "Sunny Day",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Helping Hand",
+			"tm": true
+		},
+		{
+			"move": "Revenge",
+			"tm": true
+		},
+		{
+			"move": "Brick Break",
+			"tm": true
+		},
+		{
+			"move": "Rock Tomb",
+			"tm": true
+		},
+		{
+			"move": "Payback",
+			"tm": true
+		},
+		{
+			"move": "Fling",
+			"tm": true
+		},
+		{
+			"move": "Low Sweep",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Retaliate",
+			"tm": true
+		},
+		{
+			"move": "Bulldoze",
+			"tm": true
+		},
+		{
+			"move": "Low Kick",
+			"tm": true
+		},
+		{
+			"move": "Earthquake",
+			"tm": true
+		},
+		{
+			"move": "Focus Energy",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Reversal",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Taunt",
+			"tm": true
+		},
+		{
+			"move": "Superpower",
+			"tm": true
+		},
+		{
+			"move": "Bulk Up",
+			"tm": true
+		},
+		{
+			"move": "Close Combat",
+			"tm": true
+		},
+		{
+			"move": "Poison Jab",
+			"tm": true
+		},
+		{
+			"move": "Focus Blast",
+			"tm": true
+		},
+		{
+			"move": "Zen Headbutt",
+			"tm": true
+		},
+		{
+			"move": "Stone Edge",
+			"tm": true
+		},
+		{
+			"move": "Grass Knot",
+			"tm": true
+		},
+		{
+			"move": "Work Up",
+			"tm": true
+		},
+		{
+			"move": "Throat Chop",
+			"tm": true
+		}
+	]
 }

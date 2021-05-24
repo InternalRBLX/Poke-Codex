@@ -1,291 +1,284 @@
 {
-    "name": "Quilava",
-    "national_id": 156,
-    "types": [
-        "Fire"
-    ],
-    "abilities": [
-        {
-            "name": "Blaze"
-        },
-        {
-            "name": "Flash Fire",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 45,
-    "gender_ratios": {
-        "male": 87.5,
-        "female": 12.5
-    },
-    "egg_groups": [
-        "Field"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "2'11\"",
-    "height_eu": "0.9 m",
-    "weight_us": "41.9 lbs.",
-    "weight_eu": "19.0 kg",
-    "base_exp_yield": 142,
-    "leveling_rate": "Medium Slow",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 1,
-        "sp_def": 0,
-        "speed": 1
-    },
-    "base_stats": {
-        "hp": 58,
-        "atk": 64,
-        "def": 58,
-        "sp_atk": 80,
-        "sp_def": 65,
-        "speed": 80
-    },
-    "evolution_from": "Cyndaquil",
-    "evolutions": [
-        {
-            "to": "Typhlosion",
-            "level": 36
-        }
-    ],
-    "species": "Volcano Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "Quilava keeps its foes at bay with the intensity of its flames and gusts of superheated air. This Pokémon applies its outstanding nimbleness to dodge attacks even while scorching the foes with flames.",
-    "move_learnset": [
-        {
-            "move": "Leer",
-            "level": 1
-        },
-        {
-            "move": "Smokescreen",
-            "level": 1
-        },
-        {
-            "move": "Tackle",
-            "level": 1
-        },
-        {
-            "move": "Smokescreen",
-            "level": 6
-        },
-        {
-            "move": "Ember",
-            "level": 10
-        },
-        {
-            "move": "Quick Attack",
-            "level": 13
-        },
-        {
-            "move": "Flame Wheel",
-            "level": 20
-        },
-        {
-            "move": "Defense Curl",
-            "level": 24
-        },
-        {
-            "move": "Swift",
-            "level": 31
-        },
-        {
-            "move": "Flame Charge",
-            "level": 35
-        },
-        {
-            "move": "Lava Plume",
-            "level": 42
-        },
-        {
-            "move": "Flamethrower",
-            "level": 46
-        },
-        {
-            "move": "Inferno",
-            "level": 53
-        },
-        {
-            "move": "Rollout",
-            "level": 57
-        },
-        {
-            "move": "Double-Edge",
-            "level": 64
-        },
-        {
-            "move": "Burn Up",
-            "level": 68
-        },
-        {
-            "move": "Eruption",
-            "level": 75
-        },
-        {
-            "move": "Covet",
-            "egg_move": true
-        },
-        {
-            "move": "Crush Claw",
-            "egg_move": true
-        },
-        {
-            "move": "Double-Edge",
-            "egg_move": true
-        },
-        {
-            "move": "Double Kick",
-            "egg_move": true
-        },
-        {
-            "move": "Extrasensory",
-            "egg_move": true
-        },
-        {
-            "move": "Flame Burst",
-            "egg_move": true
-        },
-        {
-            "move": "Flare Blitz",
-            "egg_move": true
-        },
-        {
-            "move": "Foresight",
-            "egg_move": true
-        },
-        {
-            "move": "Fury Swipes",
-            "egg_move": true
-        },
-        {
-            "move": "Howl",
-            "egg_move": true
-        },
-        {
-            "move": "Nature Power",
-            "egg_move": true
-        },
-        {
-            "move": "Quick Attack",
-            "egg_move": true
-        },
-        {
-            "move": "Reversal",
-            "egg_move": true
-        },
-        {
-            "move": "Thrash",
-            "egg_move": true
-        },
-        {
-            "move": "Work Up",
-            "tm": "TM1"
-        },
-        {
-            "move": "Roar",
-            "tm": "TM5"
-        },
-        {
-            "move": "Toxic",
-            "tm": "TM6"
-        },
-        {
-            "move": "Hidden Power",
-            "tm": "TM10"
-        },
-        {
-            "move": "Sunny Day",
-            "tm": "TM11"
-        },
-        {
-            "move": "Protect",
-            "tm": "TM17"
-        },
-        {
-            "move": "Frustration",
-            "tm": "TM21"
-        },
-        {
-            "move": "Return",
-            "tm": "TM27"
-        },
-        {
-            "move": "Brick Break",
-            "tm": "TM31"
-        },
-        {
-            "move": "Double Team",
-            "tm": "TM32"
-        },
-        {
-            "move": "Flamethrower",
-            "tm": "TM35"
-        },
-        {
-            "move": "Fire Blast",
-            "tm": "TM38"
-        },
-        {
-            "move": "Aerial Ace",
-            "tm": "TM40"
-        },
-        {
-            "move": "Facade",
-            "tm": "TM42"
-        },
-        {
-            "move": "Flame Charge",
-            "tm": "TM43"
-        },
-        {
-            "move": "Rest",
-            "tm": "TM44"
-        },
-        {
-            "move": "Attract",
-            "tm": "TM45"
-        },
-        {
-            "move": "Round",
-            "tm": "TM48"
-        },
-        {
-            "move": "Overheat",
-            "tm": "TM50"
-        },
-        {
-            "move": "Will-O-Wisp",
-            "tm": "TM61"
-        },
-        {
-            "move": "Swagger",
-            "tm": "TM87"
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": "TM88"
-        },
-        {
-            "move": "Substitute",
-            "tm": "TM90"
-        },
-        {
-            "move": "Wild Charge",
-            "tm": "TM93"
-        },
-        {
-            "move": "Nature Power",
-            "tm": "TM96"
-        },
-        {
-            "move": "Confide",
-            "tm": "TM100"
-        }
-    ]
+	"name": "Quilava",
+	"national_id": 156,
+	"types": ["Fire"],
+	"abilities": [
+		{
+			"name": "Blaze"
+		},
+		{
+			"name": "Flash Fire",
+			"hidden": true
+		}
+	],
+	"catch_rate": 45,
+	"gender_ratios": {
+		"male": 87.5,
+		"female": 12.5
+	},
+	"egg_groups": ["Field"],
+	"hatch_time": [5355, 5609],
+	"height_us": "2'11\"",
+	"height_eu": "0.9 m",
+	"weight_us": "41.9 lbs.",
+	"weight_eu": "19.0 kg",
+	"base_exp_yield": 142,
+	"leveling_rate": "Medium Slow",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 1,
+		"sp_def": 0,
+		"speed": 1
+	},
+	"base_stats": {
+		"hp": 58,
+		"atk": 64,
+		"def": 58,
+		"sp_atk": 80,
+		"sp_def": 65,
+		"speed": 80
+	},
+	"evolution_from": "Cyndaquil",
+	"evolutions": [
+		{
+			"to": "Typhlosion",
+			"level": 36
+		}
+	],
+	"species": "Volcano Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "Quilava keeps its foes at bay with the intensity of its flames and gusts of superheated air. This Pokémon applies its outstanding nimbleness to dodge attacks even while scorching the foes with flames.",
+	"move_learnset": [
+		{
+			"move": "Leer",
+			"level": 1
+		},
+		{
+			"move": "Smokescreen",
+			"level": 1
+		},
+		{
+			"move": "Tackle",
+			"level": 1
+		},
+		{
+			"move": "Smokescreen",
+			"level": 6
+		},
+		{
+			"move": "Ember",
+			"level": 10
+		},
+		{
+			"move": "Quick Attack",
+			"level": 13
+		},
+		{
+			"move": "Flame Wheel",
+			"level": 20
+		},
+		{
+			"move": "Defense Curl",
+			"level": 24
+		},
+		{
+			"move": "Swift",
+			"level": 31
+		},
+		{
+			"move": "Flame Charge",
+			"level": 35
+		},
+		{
+			"move": "Lava Plume",
+			"level": 42
+		},
+		{
+			"move": "Flamethrower",
+			"level": 46
+		},
+		{
+			"move": "Inferno",
+			"level": 53
+		},
+		{
+			"move": "Rollout",
+			"level": 57
+		},
+		{
+			"move": "Double-Edge",
+			"level": 64
+		},
+		{
+			"move": "Burn Up",
+			"level": 68
+		},
+		{
+			"move": "Eruption",
+			"level": 75
+		},
+		{
+			"move": "Covet",
+			"egg_move": true
+		},
+		{
+			"move": "Crush Claw",
+			"egg_move": true
+		},
+		{
+			"move": "Double-Edge",
+			"egg_move": true
+		},
+		{
+			"move": "Double Kick",
+			"egg_move": true
+		},
+		{
+			"move": "Extrasensory",
+			"egg_move": true
+		},
+		{
+			"move": "Flame Burst",
+			"egg_move": true
+		},
+		{
+			"move": "Flare Blitz",
+			"egg_move": true
+		},
+		{
+			"move": "Foresight",
+			"egg_move": true
+		},
+		{
+			"move": "Fury Swipes",
+			"egg_move": true
+		},
+		{
+			"move": "Howl",
+			"egg_move": true
+		},
+		{
+			"move": "Nature Power",
+			"egg_move": true
+		},
+		{
+			"move": "Quick Attack",
+			"egg_move": true
+		},
+		{
+			"move": "Reversal",
+			"egg_move": true
+		},
+		{
+			"move": "Thrash",
+			"egg_move": true
+		},
+		{
+			"move": "Work Up",
+			"tm": "TM1"
+		},
+		{
+			"move": "Roar",
+			"tm": "TM5"
+		},
+		{
+			"move": "Toxic",
+			"tm": "TM6"
+		},
+		{
+			"move": "Hidden Power",
+			"tm": "TM10"
+		},
+		{
+			"move": "Sunny Day",
+			"tm": "TM11"
+		},
+		{
+			"move": "Protect",
+			"tm": "TM17"
+		},
+		{
+			"move": "Frustration",
+			"tm": "TM21"
+		},
+		{
+			"move": "Return",
+			"tm": "TM27"
+		},
+		{
+			"move": "Brick Break",
+			"tm": "TM31"
+		},
+		{
+			"move": "Double Team",
+			"tm": "TM32"
+		},
+		{
+			"move": "Flamethrower",
+			"tm": "TM35"
+		},
+		{
+			"move": "Fire Blast",
+			"tm": "TM38"
+		},
+		{
+			"move": "Aerial Ace",
+			"tm": "TM40"
+		},
+		{
+			"move": "Facade",
+			"tm": "TM42"
+		},
+		{
+			"move": "Flame Charge",
+			"tm": "TM43"
+		},
+		{
+			"move": "Rest",
+			"tm": "TM44"
+		},
+		{
+			"move": "Attract",
+			"tm": "TM45"
+		},
+		{
+			"move": "Round",
+			"tm": "TM48"
+		},
+		{
+			"move": "Overheat",
+			"tm": "TM50"
+		},
+		{
+			"move": "Will-O-Wisp",
+			"tm": "TM61"
+		},
+		{
+			"move": "Swagger",
+			"tm": "TM87"
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": "TM88"
+		},
+		{
+			"move": "Substitute",
+			"tm": "TM90"
+		},
+		{
+			"move": "Wild Charge",
+			"tm": "TM93"
+		},
+		{
+			"move": "Nature Power",
+			"tm": "TM96"
+		},
+		{
+			"move": "Confide",
+			"tm": "TM100"
+		}
+	]
 }

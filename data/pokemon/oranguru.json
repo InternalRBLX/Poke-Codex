@@ -1,326 +1,318 @@
 {
-    "name": "Oranguru",
-    "national_id": 765,
-    "types": [
-        "Normal",
-        "Psychic"
-    ],
-    "abilities": [
-        {
-            "name": "Inner Focus"
-        },
-        {
-            "name": "Telepathy"
-        },
-        {
-            "name": "Symbiosis",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 45,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Field"
-    ],
-    "hatch_time": [
-        5140,
-        5396
-    ],
-    "height_us": "4'11\"",
-    "height_eu": "1.5 m",
-    "weight_us": "167.6 lbs.",
-    "weight_eu": "76.0 kg",
-    "base_exp_yield": 172,
-    "leveling_rate": "Slow",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 2,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 90,
-        "atk": 60,
-        "def": 80,
-        "sp_atk": 90,
-        "sp_def": 110,
-        "speed": 60
-    },
-    "evolution_from": null,
-    "evolutions": [],
-    "species": "Sage Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "It knows the forest inside and out. If it comes across a wounded Pokémon, Oranguru will gather medicinal herbs to treat it.",
-    "move_learnset": [
-        {
-            "move": "Confusion",
-            "level": 1
-        },
-        {
-            "move": "Taunt",
-            "level": 1
-        },
-        {
-            "move": "After You",
-            "level": 5
-        },
-        {
-            "move": "Calm Mind",
-            "level": 10
-        },
-        {
-            "move": "Stored Power",
-            "level": 15
-        },
-        {
-            "move": "Psych Up",
-            "level": 20
-        },
-        {
-            "move": "Quash",
-            "level": 25
-        },
-        {
-            "move": "Nasty Plot",
-            "level": 30
-        },
-        {
-            "move": "Zen Headbutt",
-            "level": 35
-        },
-        {
-            "move": "Trick Room",
-            "level": 40
-        },
-        {
-            "move": "Psychic",
-            "level": 45
-        },
-        {
-            "move": "Instruct",
-            "level": 50
-        },
-        {
-            "move": "Foul Play",
-            "level": 55
-        },
-        {
-            "move": "Future Sight",
-            "level": 60
-        },
-        {
-            "move": "Mega Punch",
-            "tm": true
-        },
-        {
-            "move": "Mega Kick",
-            "tm": true
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": true
-        },
-        {
-            "move": "Giga Impact",
-            "tm": true
-        },
-        {
-            "move": "Light Screen",
-            "tm": true
-        },
-        {
-            "move": "Reflect",
-            "tm": true
-        },
-        {
-            "move": "Safeguard",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Rock Slide",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Rain Dance",
-            "tm": true
-        },
-        {
-            "move": "Sunny Day",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Brick Break",
-            "tm": true
-        },
-        {
-            "move": "Imprison",
-            "tm": true
-        },
-        {
-            "move": "Payback",
-            "tm": true
-        },
-        {
-            "move": "Fling",
-            "tm": true
-        },
-        {
-            "move": "Trick Room",
-            "tm": true
-        },
-        {
-            "move": "Wonder Room",
-            "tm": true
-        },
-        {
-            "move": "Magic Room",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Bulldoze",
-            "tm": true
-        },
-        {
-            "move": "Psychic Terrain",
-            "tm": true
-        },
-        {
-            "move": "Brutal Swing",
-            "tm": true
-        },
-        {
-            "move": "Thunderbolt",
-            "tm": true
-        },
-        {
-            "move": "Thunder",
-            "tm": true
-        },
-        {
-            "move": "Earthquake",
-            "tm": true
-        },
-        {
-            "move": "Psychic",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Psyshock",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Encore",
-            "tm": true
-        },
-        {
-            "move": "Shadow Ball",
-            "tm": true
-        },
-        {
-            "move": "Future Sight",
-            "tm": true
-        },
-        {
-            "move": "Taunt",
-            "tm": true
-        },
-        {
-            "move": "Trick",
-            "tm": true
-        },
-        {
-            "move": "Calm Mind",
-            "tm": true
-        },
-        {
-            "move": "Focus Blast",
-            "tm": true
-        },
-        {
-            "move": "Energy Ball",
-            "tm": true
-        },
-        {
-            "move": "Nasty Plot",
-            "tm": true
-        },
-        {
-            "move": "Zen Headbutt",
-            "tm": true
-        },
-        {
-            "move": "Foul Play",
-            "tm": true
-        },
-        {
-            "move": "Stored Power",
-            "tm": true
-        },
-        {
-            "move": "Ally Switch",
-            "tm": true
-        },
-        {
-            "move": "Work Up",
-            "tm": true
-        },
-        {
-            "move": "Extrasensory",
-            "egg_move": true
-        },
-        {
-            "move": "Yawn",
-            "egg_move": true
-        },
-        {
-            "move": "Last Resort",
-            "egg_move": true
-        },
-        {
-            "move": "Dream Eater",
-            "egg_move": true
-        }
-    ]
+	"name": "Oranguru",
+	"national_id": 765,
+	"types": ["Normal", "Psychic"],
+	"abilities": [
+		{
+			"name": "Inner Focus"
+		},
+		{
+			"name": "Telepathy"
+		},
+		{
+			"name": "Symbiosis",
+			"hidden": true
+		}
+	],
+	"catch_rate": 45,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Field"],
+	"hatch_time": [5140, 5396],
+	"height_us": "4'11\"",
+	"height_eu": "1.5 m",
+	"weight_us": "167.6 lbs.",
+	"weight_eu": "76.0 kg",
+	"base_exp_yield": 172,
+	"leveling_rate": "Slow",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 2,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 90,
+		"atk": 60,
+		"def": 80,
+		"sp_atk": 90,
+		"sp_def": 110,
+		"speed": 60
+	},
+	"evolution_from": null,
+	"evolutions": [],
+	"species": "Sage Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "It knows the forest inside and out. If it comes across a wounded Pokémon, Oranguru will gather medicinal herbs to treat it.",
+	"move_learnset": [
+		{
+			"move": "Confusion",
+			"level": 1
+		},
+		{
+			"move": "Taunt",
+			"level": 1
+		},
+		{
+			"move": "After You",
+			"level": 5
+		},
+		{
+			"move": "Calm Mind",
+			"level": 10
+		},
+		{
+			"move": "Stored Power",
+			"level": 15
+		},
+		{
+			"move": "Psych Up",
+			"level": 20
+		},
+		{
+			"move": "Quash",
+			"level": 25
+		},
+		{
+			"move": "Nasty Plot",
+			"level": 30
+		},
+		{
+			"move": "Zen Headbutt",
+			"level": 35
+		},
+		{
+			"move": "Trick Room",
+			"level": 40
+		},
+		{
+			"move": "Psychic",
+			"level": 45
+		},
+		{
+			"move": "Instruct",
+			"level": 50
+		},
+		{
+			"move": "Foul Play",
+			"level": 55
+		},
+		{
+			"move": "Future Sight",
+			"level": 60
+		},
+		{
+			"move": "Mega Punch",
+			"tm": true
+		},
+		{
+			"move": "Mega Kick",
+			"tm": true
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": true
+		},
+		{
+			"move": "Giga Impact",
+			"tm": true
+		},
+		{
+			"move": "Light Screen",
+			"tm": true
+		},
+		{
+			"move": "Reflect",
+			"tm": true
+		},
+		{
+			"move": "Safeguard",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Rock Slide",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Rain Dance",
+			"tm": true
+		},
+		{
+			"move": "Sunny Day",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Brick Break",
+			"tm": true
+		},
+		{
+			"move": "Imprison",
+			"tm": true
+		},
+		{
+			"move": "Payback",
+			"tm": true
+		},
+		{
+			"move": "Fling",
+			"tm": true
+		},
+		{
+			"move": "Trick Room",
+			"tm": true
+		},
+		{
+			"move": "Wonder Room",
+			"tm": true
+		},
+		{
+			"move": "Magic Room",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Bulldoze",
+			"tm": true
+		},
+		{
+			"move": "Psychic Terrain",
+			"tm": true
+		},
+		{
+			"move": "Brutal Swing",
+			"tm": true
+		},
+		{
+			"move": "Thunderbolt",
+			"tm": true
+		},
+		{
+			"move": "Thunder",
+			"tm": true
+		},
+		{
+			"move": "Earthquake",
+			"tm": true
+		},
+		{
+			"move": "Psychic",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Psyshock",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Encore",
+			"tm": true
+		},
+		{
+			"move": "Shadow Ball",
+			"tm": true
+		},
+		{
+			"move": "Future Sight",
+			"tm": true
+		},
+		{
+			"move": "Taunt",
+			"tm": true
+		},
+		{
+			"move": "Trick",
+			"tm": true
+		},
+		{
+			"move": "Calm Mind",
+			"tm": true
+		},
+		{
+			"move": "Focus Blast",
+			"tm": true
+		},
+		{
+			"move": "Energy Ball",
+			"tm": true
+		},
+		{
+			"move": "Nasty Plot",
+			"tm": true
+		},
+		{
+			"move": "Zen Headbutt",
+			"tm": true
+		},
+		{
+			"move": "Foul Play",
+			"tm": true
+		},
+		{
+			"move": "Stored Power",
+			"tm": true
+		},
+		{
+			"move": "Ally Switch",
+			"tm": true
+		},
+		{
+			"move": "Work Up",
+			"tm": true
+		},
+		{
+			"move": "Extrasensory",
+			"egg_move": true
+		},
+		{
+			"move": "Yawn",
+			"egg_move": true
+		},
+		{
+			"move": "Last Resort",
+			"egg_move": true
+		},
+		{
+			"move": "Dream Eater",
+			"egg_move": true
+		}
+	]
 }

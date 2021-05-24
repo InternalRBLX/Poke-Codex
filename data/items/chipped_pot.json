@@ -1,8 +1,8 @@
 {
-    "name": "Chipped Pot",
-    "sell_price": 19000,
-    "holdable": true,
-    "battle": false,
-    "category": "Item",
-    "subcategory": "Evolution"
+	"name": "Chipped Pot",
+	"sell_price": 19000,
+	"holdable": true,
+	"battle": false,
+	"category": "Item",
+	"subcategory": "Evolution"
 }

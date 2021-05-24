@@ -1,305 +1,296 @@
 {
-    "name": "Stunfisk",
-    "national_id": 618,
-    "types": [
-        "Ground",
-        "Electric"
-    ],
-    "items": [
-        {
-            "name": "Soft Sand",
-            "chance": 5
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Static"
-        },
-        {
-            "name": "Limber"
-        },
-        {
-            "name": "Sand Veil",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 75,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Water 1",
-        "Amorphous"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "2'04\"",
-    "height_eu": "0.7 m",
-    "weight_us": "24.3 lbs.",
-    "weight_eu": "11.0 kg",
-    "base_exp_yield": 165,
-    "leveling_rate": "Medium Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 2,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 109,
-        "atk": 66,
-        "def": 84,
-        "sp_atk": 81,
-        "sp_def": 99,
-        "speed": 32
-    },
-    "evolution_from": null,
-    "evolutions": [],
-    "species": "Trap Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "For some reason, this Pokémon smiles slightly when it emits a strong electric current from the yellow markings on its body.",
-    "move_learnset": [
-        {
-            "move": "Mud-Slap",
-            "level": 1
-        },
-        {
-            "move": "Tackle",
-            "level": 1
-        },
-        {
-            "move": "Water Gun",
-            "level": 1
-        },
-        {
-            "move": "Thunder Shock",
-            "level": 1
-        },
-        {
-            "move": "Endure",
-            "level": 5
-        },
-        {
-            "move": "Mud Shot",
-            "level": 10
-        },
-        {
-            "move": "Revenge",
-            "level": 15
-        },
-        {
-            "move": "Charge",
-            "level": 20
-        },
-        {
-            "move": "Sucker Punch",
-            "level": 25
-        },
-        {
-            "move": "Electric Terrain",
-            "level": 30
-        },
-        {
-            "move": "Bounce",
-            "level": 35
-        },
-        {
-            "move": "Muddy Water",
-            "level": 40
-        },
-        {
-            "move": "Discharge",
-            "level": 45
-        },
-        {
-            "move": "Flail",
-            "level": 50
-        },
-        {
-            "move": "Fissure",
-            "level": 55
-        },
-        {
-            "move": "Thunder Wave",
-            "tm": true
-        },
-        {
-            "move": "Dig",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Rock Slide",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Sandstorm",
-            "tm": true
-        },
-        {
-            "move": "Rain Dance",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Revenge",
-            "tm": true
-        },
-        {
-            "move": "Rock Tomb",
-            "tm": true
-        },
-        {
-            "move": "Bounce",
-            "tm": true
-        },
-        {
-            "move": "Mud Shot",
-            "tm": true
-        },
-        {
-            "move": "Payback",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Bulldoze",
-            "tm": true
-        },
-        {
-            "move": "Electroweb",
-            "tm": true
-        },
-        {
-            "move": "Electric Terrain",
-            "tm": true
-        },
-        {
-            "move": "Eerie Impulse",
-            "tm": true
-        },
-        {
-            "move": "Stomping Tantrum",
-            "tm": true
-        },
-        {
-            "move": "Surf",
-            "tm": true
-        },
-        {
-            "move": "Thunderbolt",
-            "tm": true
-        },
-        {
-            "move": "Thunder",
-            "tm": true
-        },
-        {
-            "move": "Earthquake",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Sludge Bomb",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Uproar",
-            "tm": true
-        },
-        {
-            "move": "Muddy Water",
-            "tm": true
-        },
-        {
-            "move": "Earth Power",
-            "tm": true
-        },
-        {
-            "move": "Stone Edge",
-            "tm": true
-        },
-        {
-            "move": "Stealth Rock",
-            "tm": true
-        },
-        {
-            "move": "Sludge Wave",
-            "tm": true
-        },
-        {
-            "move": "Foul Play",
-            "tm": true
-        },
-        {
-            "move": "Scald",
-            "tm": true
-        },
-        {
-            "move": "Yawn",
-            "egg_move": true
-        },
-        {
-            "move": "Astonish",
-            "egg_move": true
-        },
-        {
-            "move": "Curse",
-            "egg_move": true
-        },
-        {
-            "move": "Spite",
-            "egg_move": true
-        },
-        {
-            "move": "Spark",
-            "egg_move": true
-        },
-        {
-            "move": "Pain Split",
-            "egg_move": true
-        },
-        {
-            "move": "Reflect Type",
-            "egg_move": true
-        }
-    ]
+	"name": "Stunfisk",
+	"national_id": 618,
+	"types": ["Ground", "Electric"],
+	"items": [
+		{
+			"name": "Soft Sand",
+			"chance": 5
+		}
+	],
+	"abilities": [
+		{
+			"name": "Static"
+		},
+		{
+			"name": "Limber"
+		},
+		{
+			"name": "Sand Veil",
+			"hidden": true
+		}
+	],
+	"catch_rate": 75,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Water 1", "Amorphous"],
+	"hatch_time": [5355, 5609],
+	"height_us": "2'04\"",
+	"height_eu": "0.7 m",
+	"weight_us": "24.3 lbs.",
+	"weight_eu": "11.0 kg",
+	"base_exp_yield": 165,
+	"leveling_rate": "Medium Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 2,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 109,
+		"atk": 66,
+		"def": 84,
+		"sp_atk": 81,
+		"sp_def": 99,
+		"speed": 32
+	},
+	"evolution_from": null,
+	"evolutions": [],
+	"species": "Trap Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "For some reason, this Pokémon smiles slightly when it emits a strong electric current from the yellow markings on its body.",
+	"move_learnset": [
+		{
+			"move": "Mud-Slap",
+			"level": 1
+		},
+		{
+			"move": "Tackle",
+			"level": 1
+		},
+		{
+			"move": "Water Gun",
+			"level": 1
+		},
+		{
+			"move": "Thunder Shock",
+			"level": 1
+		},
+		{
+			"move": "Endure",
+			"level": 5
+		},
+		{
+			"move": "Mud Shot",
+			"level": 10
+		},
+		{
+			"move": "Revenge",
+			"level": 15
+		},
+		{
+			"move": "Charge",
+			"level": 20
+		},
+		{
+			"move": "Sucker Punch",
+			"level": 25
+		},
+		{
+			"move": "Electric Terrain",
+			"level": 30
+		},
+		{
+			"move": "Bounce",
+			"level": 35
+		},
+		{
+			"move": "Muddy Water",
+			"level": 40
+		},
+		{
+			"move": "Discharge",
+			"level": 45
+		},
+		{
+			"move": "Flail",
+			"level": 50
+		},
+		{
+			"move": "Fissure",
+			"level": 55
+		},
+		{
+			"move": "Thunder Wave",
+			"tm": true
+		},
+		{
+			"move": "Dig",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Rock Slide",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Sandstorm",
+			"tm": true
+		},
+		{
+			"move": "Rain Dance",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Revenge",
+			"tm": true
+		},
+		{
+			"move": "Rock Tomb",
+			"tm": true
+		},
+		{
+			"move": "Bounce",
+			"tm": true
+		},
+		{
+			"move": "Mud Shot",
+			"tm": true
+		},
+		{
+			"move": "Payback",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Bulldoze",
+			"tm": true
+		},
+		{
+			"move": "Electroweb",
+			"tm": true
+		},
+		{
+			"move": "Electric Terrain",
+			"tm": true
+		},
+		{
+			"move": "Eerie Impulse",
+			"tm": true
+		},
+		{
+			"move": "Stomping Tantrum",
+			"tm": true
+		},
+		{
+			"move": "Surf",
+			"tm": true
+		},
+		{
+			"move": "Thunderbolt",
+			"tm": true
+		},
+		{
+			"move": "Thunder",
+			"tm": true
+		},
+		{
+			"move": "Earthquake",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Sludge Bomb",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Uproar",
+			"tm": true
+		},
+		{
+			"move": "Muddy Water",
+			"tm": true
+		},
+		{
+			"move": "Earth Power",
+			"tm": true
+		},
+		{
+			"move": "Stone Edge",
+			"tm": true
+		},
+		{
+			"move": "Stealth Rock",
+			"tm": true
+		},
+		{
+			"move": "Sludge Wave",
+			"tm": true
+		},
+		{
+			"move": "Foul Play",
+			"tm": true
+		},
+		{
+			"move": "Scald",
+			"tm": true
+		},
+		{
+			"move": "Yawn",
+			"egg_move": true
+		},
+		{
+			"move": "Astonish",
+			"egg_move": true
+		},
+		{
+			"move": "Curse",
+			"egg_move": true
+		},
+		{
+			"move": "Spite",
+			"egg_move": true
+		},
+		{
+			"move": "Spark",
+			"egg_move": true
+		},
+		{
+			"move": "Pain Split",
+			"egg_move": true
+		},
+		{
+			"move": "Reflect Type",
+			"egg_move": true
+		}
+	]
 }

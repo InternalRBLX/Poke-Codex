@@ -1,275 +1,267 @@
 {
-    "name": "Lampent",
-    "national_id": 608,
-    "types": [
-        "Ghost",
-        "Fire"
-    ],
-    "abilities": [
-        {
-            "name": "Flash Fire"
-        },
-        {
-            "name": "Flame Body"
-        },
-        {
-            "name": "Infiltrator",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 90,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Amorphous"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "2'00\"",
-    "height_eu": "0.6 m",
-    "weight_us": "28.7 lbs.",
-    "weight_eu": "13.0 kg",
-    "base_exp_yield": 130,
-    "leveling_rate": "Medium Slow",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 2,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 60,
-        "atk": 40,
-        "def": 60,
-        "sp_atk": 95,
-        "sp_def": 60,
-        "speed": 55
-    },
-    "evolution_from": "Litwick",
-    "evolutions": [
-        {
-            "to": "Chandelure",
-            "item": "Dusk Stone"
-        }
-    ],
-    "species": "Lamp Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "It lurks in cities, pretending to be a lamp. Once it finds someone whose death is near, it will trail quietly after them.",
-    "move_learnset": [
-        {
-            "move": "Astonish",
-            "level": 1
-        },
-        {
-            "move": "Smog",
-            "level": 1
-        },
-        {
-            "move": "Ember",
-            "level": 1
-        },
-        {
-            "move": "Minimize",
-            "level": 1
-        },
-        {
-            "move": "Confuse Ray",
-            "level": 12
-        },
-        {
-            "move": "Hex",
-            "level": 16
-        },
-        {
-            "move": "Will-O-Wisp",
-            "level": 20
-        },
-        {
-            "move": "Fire Spin",
-            "level": 24
-        },
-        {
-            "move": "Night Shade",
-            "level": 28
-        },
-        {
-            "move": "Curse",
-            "level": 32
-        },
-        {
-            "move": "Shadow Ball",
-            "level": 36
-        },
-        {
-            "move": "Inferno",
-            "level": 40
-        },
-        {
-            "move": "Imprison",
-            "level": 46
-        },
-        {
-            "move": "Pain Split",
-            "level": 52
-        },
-        {
-            "move": "Overheat",
-            "level": 58
-        },
-        {
-            "move": "Memento",
-            "level": 64
-        },
-        {
-            "move": "Solar Beam",
-            "tm": true
-        },
-        {
-            "move": "Fire Spin",
-            "tm": true
-        },
-        {
-            "move": "Safeguard",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Thief",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Sunny Day",
-            "tm": true
-        },
-        {
-            "move": "Will-O-Wisp",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Imprison",
-            "tm": true
-        },
-        {
-            "move": "Payback",
-            "tm": true
-        },
-        {
-            "move": "Trick Room",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Hex",
-            "tm": true
-        },
-        {
-            "move": "Mystical Fire",
-            "tm": true
-        },
-        {
-            "move": "Flamethrower",
-            "tm": true
-        },
-        {
-            "move": "Psychic",
-            "tm": true
-        },
-        {
-            "move": "Fire Blast",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Shadow Ball",
-            "tm": true
-        },
-        {
-            "move": "Heat Wave",
-            "tm": true
-        },
-        {
-            "move": "Taunt",
-            "tm": true
-        },
-        {
-            "move": "Trick",
-            "tm": true
-        },
-        {
-            "move": "Overheat",
-            "tm": true
-        },
-        {
-            "move": "Calm Mind",
-            "tm": true
-        },
-        {
-            "move": "Dark Pulse",
-            "tm": true
-        },
-        {
-            "move": "Energy Ball",
-            "tm": true
-        },
-        {
-            "move": "Ally Switch",
-            "tm": true
-        },
-        {
-            "move": "Acid Armor",
-            "egg_move": true
-        },
-        {
-            "move": "Haze",
-            "egg_move": true
-        },
-        {
-            "move": "Clear Smog",
-            "egg_move": true
-        },
-        {
-            "move": "Power Split",
-            "egg_move": true
-        }
-    ]
+	"name": "Lampent",
+	"national_id": 608,
+	"types": ["Ghost", "Fire"],
+	"abilities": [
+		{
+			"name": "Flash Fire"
+		},
+		{
+			"name": "Flame Body"
+		},
+		{
+			"name": "Infiltrator",
+			"hidden": true
+		}
+	],
+	"catch_rate": 90,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Amorphous"],
+	"hatch_time": [5355, 5609],
+	"height_us": "2'00\"",
+	"height_eu": "0.6 m",
+	"weight_us": "28.7 lbs.",
+	"weight_eu": "13.0 kg",
+	"base_exp_yield": 130,
+	"leveling_rate": "Medium Slow",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 2,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 60,
+		"atk": 40,
+		"def": 60,
+		"sp_atk": 95,
+		"sp_def": 60,
+		"speed": 55
+	},
+	"evolution_from": "Litwick",
+	"evolutions": [
+		{
+			"to": "Chandelure",
+			"item": "Dusk Stone"
+		}
+	],
+	"species": "Lamp Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "It lurks in cities, pretending to be a lamp. Once it finds someone whose death is near, it will trail quietly after them.",
+	"move_learnset": [
+		{
+			"move": "Astonish",
+			"level": 1
+		},
+		{
+			"move": "Smog",
+			"level": 1
+		},
+		{
+			"move": "Ember",
+			"level": 1
+		},
+		{
+			"move": "Minimize",
+			"level": 1
+		},
+		{
+			"move": "Confuse Ray",
+			"level": 12
+		},
+		{
+			"move": "Hex",
+			"level": 16
+		},
+		{
+			"move": "Will-O-Wisp",
+			"level": 20
+		},
+		{
+			"move": "Fire Spin",
+			"level": 24
+		},
+		{
+			"move": "Night Shade",
+			"level": 28
+		},
+		{
+			"move": "Curse",
+			"level": 32
+		},
+		{
+			"move": "Shadow Ball",
+			"level": 36
+		},
+		{
+			"move": "Inferno",
+			"level": 40
+		},
+		{
+			"move": "Imprison",
+			"level": 46
+		},
+		{
+			"move": "Pain Split",
+			"level": 52
+		},
+		{
+			"move": "Overheat",
+			"level": 58
+		},
+		{
+			"move": "Memento",
+			"level": 64
+		},
+		{
+			"move": "Solar Beam",
+			"tm": true
+		},
+		{
+			"move": "Fire Spin",
+			"tm": true
+		},
+		{
+			"move": "Safeguard",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Thief",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Sunny Day",
+			"tm": true
+		},
+		{
+			"move": "Will-O-Wisp",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Imprison",
+			"tm": true
+		},
+		{
+			"move": "Payback",
+			"tm": true
+		},
+		{
+			"move": "Trick Room",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Hex",
+			"tm": true
+		},
+		{
+			"move": "Mystical Fire",
+			"tm": true
+		},
+		{
+			"move": "Flamethrower",
+			"tm": true
+		},
+		{
+			"move": "Psychic",
+			"tm": true
+		},
+		{
+			"move": "Fire Blast",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Shadow Ball",
+			"tm": true
+		},
+		{
+			"move": "Heat Wave",
+			"tm": true
+		},
+		{
+			"move": "Taunt",
+			"tm": true
+		},
+		{
+			"move": "Trick",
+			"tm": true
+		},
+		{
+			"move": "Overheat",
+			"tm": true
+		},
+		{
+			"move": "Calm Mind",
+			"tm": true
+		},
+		{
+			"move": "Dark Pulse",
+			"tm": true
+		},
+		{
+			"move": "Energy Ball",
+			"tm": true
+		},
+		{
+			"move": "Ally Switch",
+			"tm": true
+		},
+		{
+			"move": "Acid Armor",
+			"egg_move": true
+		},
+		{
+			"move": "Haze",
+			"egg_move": true
+		},
+		{
+			"move": "Clear Smog",
+			"egg_move": true
+		},
+		{
+			"move": "Power Split",
+			"egg_move": true
+		}
+	]
 }

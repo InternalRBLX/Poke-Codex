@@ -1,264 +1,255 @@
 {
-    "name": "Morgrem",
-    "national_id": 860,
-    "types": [
-        "Dark",
-        "Fairy"
-    ],
-    "abilities": [
-        {
-            "name": "Prankster"
-        },
-        {
-            "name": "Frisk"
-        },
-        {
-            "name": "Pickpocket",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 120,
-    "gender_ratios": {
-        "male": 100,
-        "female": 0
-    },
-    "egg_groups": [
-        "Fairy",
-        "HumanLike"
-    ],
-    "hatch_time": [
-        5140,
-        5396
-    ],
-    "height_us": "2'07\"",
-    "height_eu": "0.8 m",
-    "weight_us": "27.6 lbs.",
-    "weight_eu": "12.5 kg",
-    "base_exp_yield": 130,
-    "leveling_rate": "Medium Fast",
-    "base_friendship": 50,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 2,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 65,
-        "atk": 60,
-        "def": 45,
-        "sp_atk": 75,
-        "sp_def": 55,
-        "speed": 70
-    },
-    "evolution_from": "Impidimp",
-    "evolutions": [
-        {
-            "to": "Grimmsnarl",
-            "level": 42
-        }
-    ],
-    "species": "Devious Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "With sly cunning, it tries to lure people into the woods. Some believe it to have the power to make crops grow.",
-    "move_learnset": [
-        {
-            "move": "False Surrender",
-            "evo": true
-        },
-        {
-            "move": "False Surrender",
-            "level": 1
-        },
-        {
-            "move": "Fake Out",
-            "level": 1
-        },
-        {
-            "move": "Confide",
-            "level": 1
-        },
-        {
-            "move": "Bite",
-            "level": 1
-        },
-        {
-            "move": "Flatter",
-            "level": 1
-        },
-        {
-            "move": "Fake Tears",
-            "level": 12
-        },
-        {
-            "move": "Assurance",
-            "level": 16
-        },
-        {
-            "move": "Swagger",
-            "level": 20
-        },
-        {
-            "move": "Sucker Punch",
-            "level": 24
-        },
-        {
-            "move": "Torment",
-            "level": 28
-        },
-        {
-            "move": "Dark Pulse",
-            "level": 35
-        },
-        {
-            "move": "Nasty Plot",
-            "level": 40
-        },
-        {
-            "move": "Play Rough",
-            "level": 46
-        },
-        {
-            "move": "Foul Play",
-            "level": 52
-        },
-        {
-            "move": "Mega Punch",
-            "tm": true
-        },
-        {
-            "move": "Mega Kick",
-            "tm": true
-        },
-        {
-            "move": "Thunder Wave",
-            "tm": true
-        },
-        {
-            "move": "Light Screen",
-            "tm": true
-        },
-        {
-            "move": "Reflect",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Thief",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Revenge",
-            "tm": true
-        },
-        {
-            "move": "Fake Tears",
-            "tm": true
-        },
-        {
-            "move": "Assurance",
-            "tm": true
-        },
-        {
-            "move": "Drain Punch",
-            "tm": true
-        },
-        {
-            "move": "Shadow Claw",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Retaliate",
-            "tm": true
-        },
-        {
-            "move": "Draining Kiss",
-            "tm": true
-        },
-        {
-            "move": "Low Kick",
-            "tm": true
-        },
-        {
-            "move": "Metronome",
-            "tm": true
-        },
-        {
-            "move": "Leech Life",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Uproar",
-            "tm": true
-        },
-        {
-            "move": "Taunt",
-            "tm": true
-        },
-        {
-            "move": "Trick",
-            "tm": true
-        },
-        {
-            "move": "Dark Pulse",
-            "tm": true
-        },
-        {
-            "move": "Nasty Plot",
-            "tm": true
-        },
-        {
-            "move": "Foul Play",
-            "tm": true
-        },
-        {
-            "move": "Play Rough",
-            "tm": true
-        },
-        {
-            "move": "Dazzling Gleam",
-            "tm": true
-        },
-        {
-            "move": "Throat Chop",
-            "tm": true
-        }
-    ]
+	"name": "Morgrem",
+	"national_id": 860,
+	"types": ["Dark", "Fairy"],
+	"abilities": [
+		{
+			"name": "Prankster"
+		},
+		{
+			"name": "Frisk"
+		},
+		{
+			"name": "Pickpocket",
+			"hidden": true
+		}
+	],
+	"catch_rate": 120,
+	"gender_ratios": {
+		"male": 100,
+		"female": 0
+	},
+	"egg_groups": ["Fairy", "HumanLike"],
+	"hatch_time": [5140, 5396],
+	"height_us": "2'07\"",
+	"height_eu": "0.8 m",
+	"weight_us": "27.6 lbs.",
+	"weight_eu": "12.5 kg",
+	"base_exp_yield": 130,
+	"leveling_rate": "Medium Fast",
+	"base_friendship": 50,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 2,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 65,
+		"atk": 60,
+		"def": 45,
+		"sp_atk": 75,
+		"sp_def": 55,
+		"speed": 70
+	},
+	"evolution_from": "Impidimp",
+	"evolutions": [
+		{
+			"to": "Grimmsnarl",
+			"level": 42
+		}
+	],
+	"species": "Devious Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "With sly cunning, it tries to lure people into the woods. Some believe it to have the power to make crops grow.",
+	"move_learnset": [
+		{
+			"move": "False Surrender",
+			"evo": true
+		},
+		{
+			"move": "False Surrender",
+			"level": 1
+		},
+		{
+			"move": "Fake Out",
+			"level": 1
+		},
+		{
+			"move": "Confide",
+			"level": 1
+		},
+		{
+			"move": "Bite",
+			"level": 1
+		},
+		{
+			"move": "Flatter",
+			"level": 1
+		},
+		{
+			"move": "Fake Tears",
+			"level": 12
+		},
+		{
+			"move": "Assurance",
+			"level": 16
+		},
+		{
+			"move": "Swagger",
+			"level": 20
+		},
+		{
+			"move": "Sucker Punch",
+			"level": 24
+		},
+		{
+			"move": "Torment",
+			"level": 28
+		},
+		{
+			"move": "Dark Pulse",
+			"level": 35
+		},
+		{
+			"move": "Nasty Plot",
+			"level": 40
+		},
+		{
+			"move": "Play Rough",
+			"level": 46
+		},
+		{
+			"move": "Foul Play",
+			"level": 52
+		},
+		{
+			"move": "Mega Punch",
+			"tm": true
+		},
+		{
+			"move": "Mega Kick",
+			"tm": true
+		},
+		{
+			"move": "Thunder Wave",
+			"tm": true
+		},
+		{
+			"move": "Light Screen",
+			"tm": true
+		},
+		{
+			"move": "Reflect",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Thief",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Revenge",
+			"tm": true
+		},
+		{
+			"move": "Fake Tears",
+			"tm": true
+		},
+		{
+			"move": "Assurance",
+			"tm": true
+		},
+		{
+			"move": "Drain Punch",
+			"tm": true
+		},
+		{
+			"move": "Shadow Claw",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Retaliate",
+			"tm": true
+		},
+		{
+			"move": "Draining Kiss",
+			"tm": true
+		},
+		{
+			"move": "Low Kick",
+			"tm": true
+		},
+		{
+			"move": "Metronome",
+			"tm": true
+		},
+		{
+			"move": "Leech Life",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Uproar",
+			"tm": true
+		},
+		{
+			"move": "Taunt",
+			"tm": true
+		},
+		{
+			"move": "Trick",
+			"tm": true
+		},
+		{
+			"move": "Dark Pulse",
+			"tm": true
+		},
+		{
+			"move": "Nasty Plot",
+			"tm": true
+		},
+		{
+			"move": "Foul Play",
+			"tm": true
+		},
+		{
+			"move": "Play Rough",
+			"tm": true
+		},
+		{
+			"move": "Dazzling Gleam",
+			"tm": true
+		},
+		{
+			"move": "Throat Chop",
+			"tm": true
+		}
+	]
 }

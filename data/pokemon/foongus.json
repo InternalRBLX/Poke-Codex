@@ -1,258 +1,250 @@
 {
-    "name": "Foongus",
-    "national_id": 590,
-    "types": [
-        "Grass",
-        "Poison"
-    ],
-    "items": [
-        {
-            "name": "Big Mushroom",
-            "chance": 5
-        },
-        {
-            "name": "Tiny Mushroom",
-            "chance": 50
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Effect Spore"
-        },
-        {
-            "name": "Regenerator",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 190,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Grass"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "0'08\"",
-    "height_eu": "0.2 m",
-    "weight_us": "2.2 lbs.",
-    "weight_eu": "1.0 kg",
-    "base_exp_yield": 59,
-    "leveling_rate": "Medium Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 1,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 69,
-        "atk": 55,
-        "def": 45,
-        "sp_atk": 55,
-        "sp_def": 55,
-        "speed": 15
-    },
-    "evolution_from": null,
-    "evolutions": [
-        {
-            "to": "Amoonguss",
-            "level": 39
-        }
-    ],
-    "species": "Mushroom Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "It lures Pokémon with its pattern that looks just like a Poké Ball then releases poison spores.",
-    "move_learnset": [
-        {
-            "move": "Absorb",
-            "level": 1
-        },
-        {
-            "move": "Growth",
-            "level": 6
-        },
-        {
-            "move": "Astonish",
-            "level": 8
-        },
-        {
-            "move": "Bide",
-            "level": 12
-        },
-        {
-            "move": "Mega Drain",
-            "level": 15
-        },
-        {
-            "move": "Ingrain",
-            "level": 18
-        },
-        {
-            "move": "Feint Attack",
-            "level": 20
-        },
-        {
-            "move": "Sweet Scent",
-            "level": 24
-        },
-        {
-            "move": "Giga Drain",
-            "level": 28
-        },
-        {
-            "move": "Toxic",
-            "level": 32
-        },
-        {
-            "move": "Synthesis",
-            "level": 35
-        },
-        {
-            "move": "Clear Smog",
-            "level": 39
-        },
-        {
-            "move": "Solar Beam",
-            "level": 43
-        },
-        {
-            "move": "Rage Powder",
-            "level": 45
-        },
-        {
-            "move": "Spore",
-            "level": 50
-        },
-        {
-            "move": "Body Slam",
-            "egg_move": true
-        },
-        {
-            "move": "Defense Curl",
-            "egg_move": true
-        },
-        {
-            "move": "Endure",
-            "egg_move": true
-        },
-        {
-            "move": "Gastro Acid",
-            "egg_move": true
-        },
-        {
-            "move": "Growth",
-            "egg_move": true
-        },
-        {
-            "move": "Poison Powder",
-            "egg_move": true
-        },
-        {
-            "move": "Rollout",
-            "egg_move": true
-        },
-        {
-            "move": "Stun Spore",
-            "egg_move": true
-        },
-        {
-            "move": "Toxic",
-            "tm": "TM6"
-        },
-        {
-            "move": "Venoshock",
-            "tm": "TM9"
-        },
-        {
-            "move": "Hidden Power",
-            "tm": "TM10"
-        },
-        {
-            "move": "Sunny Day",
-            "tm": "TM11"
-        },
-        {
-            "move": "Protect",
-            "tm": "TM17"
-        },
-        {
-            "move": "Rain Dance",
-            "tm": "TM18"
-        },
-        {
-            "move": "Frustration",
-            "tm": "TM21"
-        },
-        {
-            "move": "Solar Beam",
-            "tm": "TM22"
-        },
-        {
-            "move": "Return",
-            "tm": "TM27"
-        },
-        {
-            "move": "Double Team",
-            "tm": "TM32"
-        },
-        {
-            "move": "Sludge Bomb",
-            "tm": "TM36"
-        },
-        {
-            "move": "Facade",
-            "tm": "TM42"
-        },
-        {
-            "move": "Rest",
-            "tm": "TM44"
-        },
-        {
-            "move": "Attract",
-            "tm": "TM45"
-        },
-        {
-            "move": "Round",
-            "tm": "TM48"
-        },
-        {
-            "move": "Energy Ball",
-            "tm": "TM53"
-        },
-        {
-            "move": "Payback",
-            "tm": "TM66"
-        },
-        {
-            "move": "Grass Knot",
-            "tm": "TM86"
-        },
-        {
-            "move": "Swagger",
-            "tm": "TM87"
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": "TM88"
-        },
-        {
-            "move": "Substitute",
-            "tm": "TM90"
-        },
-        {
-            "move": "Nature Power",
-            "tm": "TM96"
-        },
-        {
-            "move": "Confide",
-            "tm": "TM100"
-        }
-    ]
+	"name": "Foongus",
+	"national_id": 590,
+	"types": ["Grass", "Poison"],
+	"items": [
+		{
+			"name": "Big Mushroom",
+			"chance": 5
+		},
+		{
+			"name": "Tiny Mushroom",
+			"chance": 50
+		}
+	],
+	"abilities": [
+		{
+			"name": "Effect Spore"
+		},
+		{
+			"name": "Regenerator",
+			"hidden": true
+		}
+	],
+	"catch_rate": 190,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Grass"],
+	"hatch_time": [5355, 5609],
+	"height_us": "0'08\"",
+	"height_eu": "0.2 m",
+	"weight_us": "2.2 lbs.",
+	"weight_eu": "1.0 kg",
+	"base_exp_yield": 59,
+	"leveling_rate": "Medium Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 1,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 69,
+		"atk": 55,
+		"def": 45,
+		"sp_atk": 55,
+		"sp_def": 55,
+		"speed": 15
+	},
+	"evolution_from": null,
+	"evolutions": [
+		{
+			"to": "Amoonguss",
+			"level": 39
+		}
+	],
+	"species": "Mushroom Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "It lures Pokémon with its pattern that looks just like a Poké Ball then releases poison spores.",
+	"move_learnset": [
+		{
+			"move": "Absorb",
+			"level": 1
+		},
+		{
+			"move": "Growth",
+			"level": 6
+		},
+		{
+			"move": "Astonish",
+			"level": 8
+		},
+		{
+			"move": "Bide",
+			"level": 12
+		},
+		{
+			"move": "Mega Drain",
+			"level": 15
+		},
+		{
+			"move": "Ingrain",
+			"level": 18
+		},
+		{
+			"move": "Feint Attack",
+			"level": 20
+		},
+		{
+			"move": "Sweet Scent",
+			"level": 24
+		},
+		{
+			"move": "Giga Drain",
+			"level": 28
+		},
+		{
+			"move": "Toxic",
+			"level": 32
+		},
+		{
+			"move": "Synthesis",
+			"level": 35
+		},
+		{
+			"move": "Clear Smog",
+			"level": 39
+		},
+		{
+			"move": "Solar Beam",
+			"level": 43
+		},
+		{
+			"move": "Rage Powder",
+			"level": 45
+		},
+		{
+			"move": "Spore",
+			"level": 50
+		},
+		{
+			"move": "Body Slam",
+			"egg_move": true
+		},
+		{
+			"move": "Defense Curl",
+			"egg_move": true
+		},
+		{
+			"move": "Endure",
+			"egg_move": true
+		},
+		{
+			"move": "Gastro Acid",
+			"egg_move": true
+		},
+		{
+			"move": "Growth",
+			"egg_move": true
+		},
+		{
+			"move": "Poison Powder",
+			"egg_move": true
+		},
+		{
+			"move": "Rollout",
+			"egg_move": true
+		},
+		{
+			"move": "Stun Spore",
+			"egg_move": true
+		},
+		{
+			"move": "Toxic",
+			"tm": "TM6"
+		},
+		{
+			"move": "Venoshock",
+			"tm": "TM9"
+		},
+		{
+			"move": "Hidden Power",
+			"tm": "TM10"
+		},
+		{
+			"move": "Sunny Day",
+			"tm": "TM11"
+		},
+		{
+			"move": "Protect",
+			"tm": "TM17"
+		},
+		{
+			"move": "Rain Dance",
+			"tm": "TM18"
+		},
+		{
+			"move": "Frustration",
+			"tm": "TM21"
+		},
+		{
+			"move": "Solar Beam",
+			"tm": "TM22"
+		},
+		{
+			"move": "Return",
+			"tm": "TM27"
+		},
+		{
+			"move": "Double Team",
+			"tm": "TM32"
+		},
+		{
+			"move": "Sludge Bomb",
+			"tm": "TM36"
+		},
+		{
+			"move": "Facade",
+			"tm": "TM42"
+		},
+		{
+			"move": "Rest",
+			"tm": "TM44"
+		},
+		{
+			"move": "Attract",
+			"tm": "TM45"
+		},
+		{
+			"move": "Round",
+			"tm": "TM48"
+		},
+		{
+			"move": "Energy Ball",
+			"tm": "TM53"
+		},
+		{
+			"move": "Payback",
+			"tm": "TM66"
+		},
+		{
+			"move": "Grass Knot",
+			"tm": "TM86"
+		},
+		{
+			"move": "Swagger",
+			"tm": "TM87"
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": "TM88"
+		},
+		{
+			"move": "Substitute",
+			"tm": "TM90"
+		},
+		{
+			"move": "Nature Power",
+			"tm": "TM96"
+		},
+		{
+			"move": "Confide",
+			"tm": "TM100"
+		}
+	]
 }

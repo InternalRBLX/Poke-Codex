@@ -1,381 +1,372 @@
 {
-    "name": "Drapion",
-    "national_id": 452,
-    "types": [
-        "Poison",
-        "Dark"
-    ],
-    "items": [
-        {
-            "name": "Poison Barb",
-            "chance": 5
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Battle Armor"
-        },
-        {
-            "name": "Sniper"
-        },
-        {
-            "name": "Keen Eye",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 45,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Bug",
-        "Water 3"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "4'03\"",
-    "height_eu": "1.3 m",
-    "weight_us": "135.6 lbs.",
-    "weight_eu": "61.5 kg",
-    "base_exp_yield": 175,
-    "leveling_rate": "Slow",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 2,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 70,
-        "atk": 90,
-        "def": 110,
-        "sp_atk": 60,
-        "sp_def": 75,
-        "speed": 95
-    },
-    "evolution_from": "Skorupi",
-    "evolutions": [],
-    "species": "Ogre Scorpion Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "It’s so vicious that it’s called the Sand Demon. Yet when confronted by Hippowdon, Drapion keeps a low profile and will never pick a fight.",
-    "move_learnset": [
-        {
-            "move": "Thunder Fang",
-            "level": 1
-        },
-        {
-            "move": "Ice Fang",
-            "level": 1
-        },
-        {
-            "move": "Fire Fang",
-            "level": 1
-        },
-        {
-            "move": "Poison Sting",
-            "level": 1
-        },
-        {
-            "move": "Leer",
-            "level": 1
-        },
-        {
-            "move": "Hone Claws",
-            "level": 1
-        },
-        {
-            "move": "Fell Stinger",
-            "level": 1
-        },
-        {
-            "move": "Poison Fang",
-            "level": 9
-        },
-        {
-            "move": "Bite",
-            "level": 12
-        },
-        {
-            "move": "Toxic Spikes",
-            "level": 15
-        },
-        {
-            "move": "Bug Bite",
-            "level": 18
-        },
-        {
-            "move": "Venoshock",
-            "level": 21
-        },
-        {
-            "move": "Knock Off",
-            "level": 24
-        },
-        {
-            "move": "Scary Face",
-            "level": 27
-        },
-        {
-            "move": "Pin Missile",
-            "level": 30
-        },
-        {
-            "move": "Toxic",
-            "level": 33
-        },
-        {
-            "move": "Night Slash",
-            "level": 36
-        },
-        {
-            "move": "Cross Poison",
-            "level": 39
-        },
-        {
-            "move": "X-Scissor",
-            "level": 44
-        },
-        {
-            "move": "Acupressure",
-            "level": 49
-        },
-        {
-            "move": "Crunch",
-            "level": 54
-        },
-        {
-            "move": "Pin Missile",
-            "tm": true
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": true
-        },
-        {
-            "move": "Giga Impact",
-            "tm": true
-        },
-        {
-            "move": "Dig",
-            "tm": true
-        },
-        {
-            "move": "Screech",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Rock Slide",
-            "tm": true
-        },
-        {
-            "move": "Thief",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Scary Face",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Rain Dance",
-            "tm": true
-        },
-        {
-            "move": "Sunny Day",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Brick Break",
-            "tm": true
-        },
-        {
-            "move": "Rock Tomb",
-            "tm": true
-        },
-        {
-            "move": "Sand Tomb",
-            "tm": true
-        },
-        {
-            "move": "Payback",
-            "tm": true
-        },
-        {
-            "move": "Assurance",
-            "tm": true
-        },
-        {
-            "move": "Fling",
-            "tm": true
-        },
-        {
-            "move": "Thunder Fang",
-            "tm": true
-        },
-        {
-            "move": "Ice Fang",
-            "tm": true
-        },
-        {
-            "move": "Fire Fang",
-            "tm": true
-        },
-        {
-            "move": "Cross Poison",
-            "tm": true
-        },
-        {
-            "move": "Venoshock",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Retaliate",
-            "tm": true
-        },
-        {
-            "move": "Bulldoze",
-            "tm": true
-        },
-        {
-            "move": "Snarl",
-            "tm": true
-        },
-        {
-            "move": "False Swipe",
-            "tm": true
-        },
-        {
-            "move": "Brutal Swing",
-            "tm": true
-        },
-        {
-            "move": "Stomping Tantrum",
-            "tm": true
-        },
-        {
-            "move": "Swords Dance",
-            "tm": true
-        },
-        {
-            "move": "Earthquake",
-            "tm": true
-        },
-        {
-            "move": "Agility",
-            "tm": true
-        },
-        {
-            "move": "Leech Life",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Sludge Bomb",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Iron Tail",
-            "tm": true
-        },
-        {
-            "move": "Crunch",
-            "tm": true
-        },
-        {
-            "move": "Shadow Ball",
-            "tm": true
-        },
-        {
-            "move": "Taunt",
-            "tm": true
-        },
-        {
-            "move": "Iron Defense",
-            "tm": true
-        },
-        {
-            "move": "Toxic Spikes",
-            "tm": true
-        },
-        {
-            "move": "Poison Jab",
-            "tm": true
-        },
-        {
-            "move": "Dark Pulse",
-            "tm": true
-        },
-        {
-            "move": "X-Scissor",
-            "tm": true
-        },
-        {
-            "move": "Bug Buzz",
-            "tm": true
-        },
-        {
-            "move": "Venom Drench",
-            "tm": true
-        },
-        {
-            "move": "Throat Chop",
-            "tm": true
-        },
-        {
-            "move": "Sand Attack",
-            "egg_move": true
-        },
-        {
-            "move": "Slash",
-            "egg_move": true
-        },
-        {
-            "move": "Confuse Ray",
-            "egg_move": true
-        },
-        {
-            "move": "Whirlwind",
-            "egg_move": true
-        }
-    ]
+	"name": "Drapion",
+	"national_id": 452,
+	"types": ["Poison", "Dark"],
+	"items": [
+		{
+			"name": "Poison Barb",
+			"chance": 5
+		}
+	],
+	"abilities": [
+		{
+			"name": "Battle Armor"
+		},
+		{
+			"name": "Sniper"
+		},
+		{
+			"name": "Keen Eye",
+			"hidden": true
+		}
+	],
+	"catch_rate": 45,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Bug", "Water 3"],
+	"hatch_time": [5355, 5609],
+	"height_us": "4'03\"",
+	"height_eu": "1.3 m",
+	"weight_us": "135.6 lbs.",
+	"weight_eu": "61.5 kg",
+	"base_exp_yield": 175,
+	"leveling_rate": "Slow",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 2,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 70,
+		"atk": 90,
+		"def": 110,
+		"sp_atk": 60,
+		"sp_def": 75,
+		"speed": 95
+	},
+	"evolution_from": "Skorupi",
+	"evolutions": [],
+	"species": "Ogre Scorpion Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "It’s so vicious that it’s called the Sand Demon. Yet when confronted by Hippowdon, Drapion keeps a low profile and will never pick a fight.",
+	"move_learnset": [
+		{
+			"move": "Thunder Fang",
+			"level": 1
+		},
+		{
+			"move": "Ice Fang",
+			"level": 1
+		},
+		{
+			"move": "Fire Fang",
+			"level": 1
+		},
+		{
+			"move": "Poison Sting",
+			"level": 1
+		},
+		{
+			"move": "Leer",
+			"level": 1
+		},
+		{
+			"move": "Hone Claws",
+			"level": 1
+		},
+		{
+			"move": "Fell Stinger",
+			"level": 1
+		},
+		{
+			"move": "Poison Fang",
+			"level": 9
+		},
+		{
+			"move": "Bite",
+			"level": 12
+		},
+		{
+			"move": "Toxic Spikes",
+			"level": 15
+		},
+		{
+			"move": "Bug Bite",
+			"level": 18
+		},
+		{
+			"move": "Venoshock",
+			"level": 21
+		},
+		{
+			"move": "Knock Off",
+			"level": 24
+		},
+		{
+			"move": "Scary Face",
+			"level": 27
+		},
+		{
+			"move": "Pin Missile",
+			"level": 30
+		},
+		{
+			"move": "Toxic",
+			"level": 33
+		},
+		{
+			"move": "Night Slash",
+			"level": 36
+		},
+		{
+			"move": "Cross Poison",
+			"level": 39
+		},
+		{
+			"move": "X-Scissor",
+			"level": 44
+		},
+		{
+			"move": "Acupressure",
+			"level": 49
+		},
+		{
+			"move": "Crunch",
+			"level": 54
+		},
+		{
+			"move": "Pin Missile",
+			"tm": true
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": true
+		},
+		{
+			"move": "Giga Impact",
+			"tm": true
+		},
+		{
+			"move": "Dig",
+			"tm": true
+		},
+		{
+			"move": "Screech",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Rock Slide",
+			"tm": true
+		},
+		{
+			"move": "Thief",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Scary Face",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Rain Dance",
+			"tm": true
+		},
+		{
+			"move": "Sunny Day",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Brick Break",
+			"tm": true
+		},
+		{
+			"move": "Rock Tomb",
+			"tm": true
+		},
+		{
+			"move": "Sand Tomb",
+			"tm": true
+		},
+		{
+			"move": "Payback",
+			"tm": true
+		},
+		{
+			"move": "Assurance",
+			"tm": true
+		},
+		{
+			"move": "Fling",
+			"tm": true
+		},
+		{
+			"move": "Thunder Fang",
+			"tm": true
+		},
+		{
+			"move": "Ice Fang",
+			"tm": true
+		},
+		{
+			"move": "Fire Fang",
+			"tm": true
+		},
+		{
+			"move": "Cross Poison",
+			"tm": true
+		},
+		{
+			"move": "Venoshock",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Retaliate",
+			"tm": true
+		},
+		{
+			"move": "Bulldoze",
+			"tm": true
+		},
+		{
+			"move": "Snarl",
+			"tm": true
+		},
+		{
+			"move": "False Swipe",
+			"tm": true
+		},
+		{
+			"move": "Brutal Swing",
+			"tm": true
+		},
+		{
+			"move": "Stomping Tantrum",
+			"tm": true
+		},
+		{
+			"move": "Swords Dance",
+			"tm": true
+		},
+		{
+			"move": "Earthquake",
+			"tm": true
+		},
+		{
+			"move": "Agility",
+			"tm": true
+		},
+		{
+			"move": "Leech Life",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Sludge Bomb",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Iron Tail",
+			"tm": true
+		},
+		{
+			"move": "Crunch",
+			"tm": true
+		},
+		{
+			"move": "Shadow Ball",
+			"tm": true
+		},
+		{
+			"move": "Taunt",
+			"tm": true
+		},
+		{
+			"move": "Iron Defense",
+			"tm": true
+		},
+		{
+			"move": "Toxic Spikes",
+			"tm": true
+		},
+		{
+			"move": "Poison Jab",
+			"tm": true
+		},
+		{
+			"move": "Dark Pulse",
+			"tm": true
+		},
+		{
+			"move": "X-Scissor",
+			"tm": true
+		},
+		{
+			"move": "Bug Buzz",
+			"tm": true
+		},
+		{
+			"move": "Venom Drench",
+			"tm": true
+		},
+		{
+			"move": "Throat Chop",
+			"tm": true
+		},
+		{
+			"move": "Sand Attack",
+			"egg_move": true
+		},
+		{
+			"move": "Slash",
+			"egg_move": true
+		},
+		{
+			"move": "Confuse Ray",
+			"egg_move": true
+		},
+		{
+			"move": "Whirlwind",
+			"egg_move": true
+		}
+	]
 }

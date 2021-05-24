@@ -1,331 +1,323 @@
 {
-    "name": "Forretress",
-    "national_id": 205,
-    "types": [
-        "Bug",
-        "Steel"
-    ],
-    "abilities": [
-        {
-            "name": "Sturdy"
-        },
-        {
-            "name": "Overcoat",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 75,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Bug"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "3'11\"",
-    "height_eu": "1.2 m",
-    "weight_us": "277.3 lbs.",
-    "weight_eu": "125.8 kg",
-    "base_exp_yield": 163,
-    "leveling_rate": "Medium Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 2,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 75,
-        "atk": 90,
-        "def": 140,
-        "sp_atk": 60,
-        "sp_def": 60,
-        "speed": 40
-    },
-    "evolution_from": "Pineco",
-    "evolutions": [],
-    "species": "Bagworm Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "Forretress conceals itself inside its hardened steel shell. The shell is opened when the Pokémon is catching prey, but it does so at such a quick pace that the shell's inside cannot be seen.",
-    "move_learnset": [
-        {
-            "move": "Autotomize",
-            "level": 1
-        },
-        {
-            "move": "Bug Bite",
-            "level": 1
-        },
-        {
-            "move": "Heavy Slam",
-            "level": 1
-        },
-        {
-            "move": "Magnet Rise",
-            "level": 1
-        },
-        {
-            "move": "Mirror Shot",
-            "level": 1
-        },
-        {
-            "move": "Protect",
-            "level": 1
-        },
-        {
-            "move": "Self-Destruct",
-            "level": 1
-        },
-        {
-            "move": "Tackle",
-            "level": 1
-        },
-        {
-            "move": "Toxic Spikes",
-            "level": 1
-        },
-        {
-            "move": "Zap Cannon",
-            "level": 1
-        },
-        {
-            "move": "Self-Destruct",
-            "level": 6
-        },
-        {
-            "move": "Bug Bite",
-            "level": 9
-        },
-        {
-            "move": "Take Down",
-            "level": 12
-        },
-        {
-            "move": "Rapid Spin",
-            "level": 17
-        },
-        {
-            "move": "Bide",
-            "level": 20
-        },
-        {
-            "move": "Natural Gift",
-            "level": 23
-        },
-        {
-            "move": "Spikes",
-            "level": 28
-        },
-        {
-            "move": "Payback",
-            "level": 32
-        },
-        {
-            "move": "Explosion",
-            "level": 36
-        },
-        {
-            "move": "Iron Defense",
-            "level": 42
-        },
-        {
-            "move": "Gyro Ball",
-            "level": 46
-        },
-        {
-            "move": "Double-Edge",
-            "level": 50
-        },
-        {
-            "move": "Magnet Rise",
-            "level": 56
-        },
-        {
-            "move": "Zap Cannon",
-            "level": 60
-        },
-        {
-            "move": "Heavy Slam",
-            "level": 64
-        },
-        {
-            "move": "Counter",
-            "egg_move": true
-        },
-        {
-            "move": "Double-Edge",
-            "egg_move": true
-        },
-        {
-            "move": "Endure",
-            "egg_move": true
-        },
-        {
-            "move": "Flail",
-            "egg_move": true
-        },
-        {
-            "move": "Pin Missile",
-            "egg_move": true
-        },
-        {
-            "move": "Power Trick",
-            "egg_move": true
-        },
-        {
-            "move": "Revenge",
-            "egg_move": true
-        },
-        {
-            "move": "Sand Tomb",
-            "egg_move": true
-        },
-        {
-            "move": "Stealth Rock",
-            "egg_move": true
-        },
-        {
-            "move": "Swift",
-            "egg_move": true
-        },
-        {
-            "move": "Toxic Spikes",
-            "egg_move": true
-        },
-        {
-            "move": "Toxic",
-            "tm": "TM6"
-        },
-        {
-            "move": "Venoshock",
-            "tm": "TM9"
-        },
-        {
-            "move": "Hidden Power",
-            "tm": "TM10"
-        },
-        {
-            "move": "Sunny Day",
-            "tm": "TM11"
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": "TM15"
-        },
-        {
-            "move": "Light Screen",
-            "tm": "TM16"
-        },
-        {
-            "move": "Protect",
-            "tm": "TM17"
-        },
-        {
-            "move": "Frustration",
-            "tm": "TM21"
-        },
-        {
-            "move": "Solar Beam",
-            "tm": "TM22"
-        },
-        {
-            "move": "Earthquake",
-            "tm": "TM26"
-        },
-        {
-            "move": "Return",
-            "tm": "TM27"
-        },
-        {
-            "move": "Double Team",
-            "tm": "TM32"
-        },
-        {
-            "move": "Reflect",
-            "tm": "TM33"
-        },
-        {
-            "move": "Sandstorm",
-            "tm": "TM37"
-        },
-        {
-            "move": "Rock Tomb",
-            "tm": "TM39"
-        },
-        {
-            "move": "Facade",
-            "tm": "TM42"
-        },
-        {
-            "move": "Rest",
-            "tm": "TM44"
-        },
-        {
-            "move": "Attract",
-            "tm": "TM45"
-        },
-        {
-            "move": "Round",
-            "tm": "TM48"
-        },
-        {
-            "move": "Explosion",
-            "tm": "TM64"
-        },
-        {
-            "move": "Payback",
-            "tm": "TM66"
-        },
-        {
-            "move": "Giga Impact",
-            "tm": "TM68"
-        },
-        {
-            "move": "Rock Polish",
-            "tm": "TM69"
-        },
-        {
-            "move": "Volt Switch",
-            "tm": "TM72"
-        },
-        {
-            "move": "Gyro Ball",
-            "tm": "TM74"
-        },
-        {
-            "move": "Bulldoze",
-            "tm": "TM78"
-        },
-        {
-            "move": "Rock Slide",
-            "tm": "TM80"
-        },
-        {
-            "move": "Swagger",
-            "tm": "TM87"
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": "TM88"
-        },
-        {
-            "move": "Substitute",
-            "tm": "TM90"
-        },
-        {
-            "move": "Flash Cannon",
-            "tm": "TM91"
-        },
-        {
-            "move": "Confide",
-            "tm": "TM100"
-        }
-    ]
+	"name": "Forretress",
+	"national_id": 205,
+	"types": ["Bug", "Steel"],
+	"abilities": [
+		{
+			"name": "Sturdy"
+		},
+		{
+			"name": "Overcoat",
+			"hidden": true
+		}
+	],
+	"catch_rate": 75,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Bug"],
+	"hatch_time": [5355, 5609],
+	"height_us": "3'11\"",
+	"height_eu": "1.2 m",
+	"weight_us": "277.3 lbs.",
+	"weight_eu": "125.8 kg",
+	"base_exp_yield": 163,
+	"leveling_rate": "Medium Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 2,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 75,
+		"atk": 90,
+		"def": 140,
+		"sp_atk": 60,
+		"sp_def": 60,
+		"speed": 40
+	},
+	"evolution_from": "Pineco",
+	"evolutions": [],
+	"species": "Bagworm Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "Forretress conceals itself inside its hardened steel shell. The shell is opened when the Pokémon is catching prey, but it does so at such a quick pace that the shell's inside cannot be seen.",
+	"move_learnset": [
+		{
+			"move": "Autotomize",
+			"level": 1
+		},
+		{
+			"move": "Bug Bite",
+			"level": 1
+		},
+		{
+			"move": "Heavy Slam",
+			"level": 1
+		},
+		{
+			"move": "Magnet Rise",
+			"level": 1
+		},
+		{
+			"move": "Mirror Shot",
+			"level": 1
+		},
+		{
+			"move": "Protect",
+			"level": 1
+		},
+		{
+			"move": "Self-Destruct",
+			"level": 1
+		},
+		{
+			"move": "Tackle",
+			"level": 1
+		},
+		{
+			"move": "Toxic Spikes",
+			"level": 1
+		},
+		{
+			"move": "Zap Cannon",
+			"level": 1
+		},
+		{
+			"move": "Self-Destruct",
+			"level": 6
+		},
+		{
+			"move": "Bug Bite",
+			"level": 9
+		},
+		{
+			"move": "Take Down",
+			"level": 12
+		},
+		{
+			"move": "Rapid Spin",
+			"level": 17
+		},
+		{
+			"move": "Bide",
+			"level": 20
+		},
+		{
+			"move": "Natural Gift",
+			"level": 23
+		},
+		{
+			"move": "Spikes",
+			"level": 28
+		},
+		{
+			"move": "Payback",
+			"level": 32
+		},
+		{
+			"move": "Explosion",
+			"level": 36
+		},
+		{
+			"move": "Iron Defense",
+			"level": 42
+		},
+		{
+			"move": "Gyro Ball",
+			"level": 46
+		},
+		{
+			"move": "Double-Edge",
+			"level": 50
+		},
+		{
+			"move": "Magnet Rise",
+			"level": 56
+		},
+		{
+			"move": "Zap Cannon",
+			"level": 60
+		},
+		{
+			"move": "Heavy Slam",
+			"level": 64
+		},
+		{
+			"move": "Counter",
+			"egg_move": true
+		},
+		{
+			"move": "Double-Edge",
+			"egg_move": true
+		},
+		{
+			"move": "Endure",
+			"egg_move": true
+		},
+		{
+			"move": "Flail",
+			"egg_move": true
+		},
+		{
+			"move": "Pin Missile",
+			"egg_move": true
+		},
+		{
+			"move": "Power Trick",
+			"egg_move": true
+		},
+		{
+			"move": "Revenge",
+			"egg_move": true
+		},
+		{
+			"move": "Sand Tomb",
+			"egg_move": true
+		},
+		{
+			"move": "Stealth Rock",
+			"egg_move": true
+		},
+		{
+			"move": "Swift",
+			"egg_move": true
+		},
+		{
+			"move": "Toxic Spikes",
+			"egg_move": true
+		},
+		{
+			"move": "Toxic",
+			"tm": "TM6"
+		},
+		{
+			"move": "Venoshock",
+			"tm": "TM9"
+		},
+		{
+			"move": "Hidden Power",
+			"tm": "TM10"
+		},
+		{
+			"move": "Sunny Day",
+			"tm": "TM11"
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": "TM15"
+		},
+		{
+			"move": "Light Screen",
+			"tm": "TM16"
+		},
+		{
+			"move": "Protect",
+			"tm": "TM17"
+		},
+		{
+			"move": "Frustration",
+			"tm": "TM21"
+		},
+		{
+			"move": "Solar Beam",
+			"tm": "TM22"
+		},
+		{
+			"move": "Earthquake",
+			"tm": "TM26"
+		},
+		{
+			"move": "Return",
+			"tm": "TM27"
+		},
+		{
+			"move": "Double Team",
+			"tm": "TM32"
+		},
+		{
+			"move": "Reflect",
+			"tm": "TM33"
+		},
+		{
+			"move": "Sandstorm",
+			"tm": "TM37"
+		},
+		{
+			"move": "Rock Tomb",
+			"tm": "TM39"
+		},
+		{
+			"move": "Facade",
+			"tm": "TM42"
+		},
+		{
+			"move": "Rest",
+			"tm": "TM44"
+		},
+		{
+			"move": "Attract",
+			"tm": "TM45"
+		},
+		{
+			"move": "Round",
+			"tm": "TM48"
+		},
+		{
+			"move": "Explosion",
+			"tm": "TM64"
+		},
+		{
+			"move": "Payback",
+			"tm": "TM66"
+		},
+		{
+			"move": "Giga Impact",
+			"tm": "TM68"
+		},
+		{
+			"move": "Rock Polish",
+			"tm": "TM69"
+		},
+		{
+			"move": "Volt Switch",
+			"tm": "TM72"
+		},
+		{
+			"move": "Gyro Ball",
+			"tm": "TM74"
+		},
+		{
+			"move": "Bulldoze",
+			"tm": "TM78"
+		},
+		{
+			"move": "Rock Slide",
+			"tm": "TM80"
+		},
+		{
+			"move": "Swagger",
+			"tm": "TM87"
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": "TM88"
+		},
+		{
+			"move": "Substitute",
+			"tm": "TM90"
+		},
+		{
+			"move": "Flash Cannon",
+			"tm": "TM91"
+		},
+		{
+			"move": "Confide",
+			"tm": "TM100"
+		}
+	]
 }

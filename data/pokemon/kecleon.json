@@ -1,336 +1,329 @@
 {
-    "name": "Kecleon",
-    "national_id": 352,
-    "types": [
-        "Normal"
-    ],
-    "items": [
-        {
-            "name": "Persim Berry",
-            "chance": 5
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Color Change"
-        },
-        {
-            "name": "Protean",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 200,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Field"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "3'03\"",
-    "height_eu": "1.0 m",
-    "weight_us": "48.5 lbs.",
-    "weight_eu": "22.0 kg",
-    "base_exp_yield": 154,
-    "leveling_rate": "Medium Slow",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 1,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 60,
-        "atk": 90,
-        "def": 70,
-        "sp_atk": 60,
-        "sp_def": 120,
-        "speed": 40
-    },
-    "evolution_from": null,
-    "evolutions": [],
-    "species": "Color Swap Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "Kecleon alters its body coloration to blend in with its surroundings, allowing it to sneak up on its prey unnoticed. Then it lashes out with its long, stretchy tongue to instantly ensnare the unsuspecting target.",
-    "move_learnset": [
-        {
-            "move": "Astonish",
-            "level": 1
-        },
-        {
-            "move": "Lick",
-            "level": 1
-        },
-        {
-            "move": "Scratch",
-            "level": 1
-        },
-        {
-            "move": "Tail Whip",
-            "level": 1
-        },
-        {
-            "move": "Thief",
-            "level": 1
-        },
-        {
-            "move": "Bind",
-            "level": 4
-        },
-        {
-            "move": "Shadow Sneak",
-            "level": 7
-        },
-        {
-            "move": "Feint",
-            "level": 10
-        },
-        {
-            "move": "Fury Swipes",
-            "level": 13
-        },
-        {
-            "move": "Feint Attack",
-            "level": 16
-        },
-        {
-            "move": "Psybeam",
-            "level": 18
-        },
-        {
-            "move": "Ancient Power",
-            "level": 21
-        },
-        {
-            "move": "Slash",
-            "level": 25
-        },
-        {
-            "move": "Camouflage",
-            "level": 30
-        },
-        {
-            "move": "Shadow Claw",
-            "level": 33
-        },
-        {
-            "move": "Screech",
-            "level": 38
-        },
-        {
-            "move": "Substitute",
-            "level": 42
-        },
-        {
-            "move": "Sucker Punch",
-            "level": 46
-        },
-        {
-            "move": "Synchronoise",
-            "level": 50
-        },
-        {
-            "move": "Camouflage",
-            "egg_move": true
-        },
-        {
-            "move": "Disable",
-            "egg_move": true
-        },
-        {
-            "move": "Dizzy Punch",
-            "egg_move": true
-        },
-        {
-            "move": "Fake Out",
-            "egg_move": true
-        },
-        {
-            "move": "Foul Play",
-            "egg_move": true
-        },
-        {
-            "move": "Magic Coat",
-            "egg_move": true
-        },
-        {
-            "move": "Nasty Plot",
-            "egg_move": true
-        },
-        {
-            "move": "Power-Up Punch",
-            "egg_move": true
-        },
-        {
-            "move": "Recover",
-            "egg_move": true
-        },
-        {
-            "move": "Skill Swap",
-            "egg_move": true
-        },
-        {
-            "move": "Snatch",
-            "egg_move": true
-        },
-        {
-            "move": "Trick",
-            "egg_move": true
-        },
-        {
-            "move": "Work Up",
-            "tm": "TM1"
-        },
-        {
-            "move": "Toxic",
-            "tm": "TM6"
-        },
-        {
-            "move": "Hidden Power",
-            "tm": "TM10"
-        },
-        {
-            "move": "Sunny Day",
-            "tm": "TM11"
-        },
-        {
-            "move": "Ice Beam",
-            "tm": "TM13"
-        },
-        {
-            "move": "Blizzard",
-            "tm": "TM14"
-        },
-        {
-            "move": "Protect",
-            "tm": "TM17"
-        },
-        {
-            "move": "Rain Dance",
-            "tm": "TM18"
-        },
-        {
-            "move": "Frustration",
-            "tm": "TM21"
-        },
-        {
-            "move": "Solar Beam",
-            "tm": "TM22"
-        },
-        {
-            "move": "Thunderbolt",
-            "tm": "TM24"
-        },
-        {
-            "move": "Thunder",
-            "tm": "TM25"
-        },
-        {
-            "move": "Return",
-            "tm": "TM27"
-        },
-        {
-            "move": "Shadow Ball",
-            "tm": "TM30"
-        },
-        {
-            "move": "Brick Break",
-            "tm": "TM31"
-        },
-        {
-            "move": "Double Team",
-            "tm": "TM32"
-        },
-        {
-            "move": "Flamethrower",
-            "tm": "TM35"
-        },
-        {
-            "move": "Fire Blast",
-            "tm": "TM38"
-        },
-        {
-            "move": "Rock Tomb",
-            "tm": "TM39"
-        },
-        {
-            "move": "Aerial Ace",
-            "tm": "TM40"
-        },
-        {
-            "move": "Facade",
-            "tm": "TM42"
-        },
-        {
-            "move": "Rest",
-            "tm": "TM44"
-        },
-        {
-            "move": "Attract",
-            "tm": "TM45"
-        },
-        {
-            "move": "Thief",
-            "tm": "TM46"
-        },
-        {
-            "move": "Round",
-            "tm": "TM48"
-        },
-        {
-            "move": "Fling",
-            "tm": "TM56"
-        },
-        {
-            "move": "Charge Beam",
-            "tm": "TM57"
-        },
-        {
-            "move": "Shadow Claw",
-            "tm": "TM65"
-        },
-        {
-            "move": "Thunder Wave",
-            "tm": "TM73"
-        },
-        {
-            "move": "Psych Up",
-            "tm": "TM77"
-        },
-        {
-            "move": "Rock Slide",
-            "tm": "TM80"
-        },
-        {
-            "move": "Grass Knot",
-            "tm": "TM86"
-        },
-        {
-            "move": "Swagger",
-            "tm": "TM87"
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": "TM88"
-        },
-        {
-            "move": "Substitute",
-            "tm": "TM90"
-        },
-        {
-            "move": "Trick Room",
-            "tm": "TM92"
-        },
-        {
-            "move": "Confide",
-            "tm": "TM100"
-        }
-    ]
+	"name": "Kecleon",
+	"national_id": 352,
+	"types": ["Normal"],
+	"items": [
+		{
+			"name": "Persim Berry",
+			"chance": 5
+		}
+	],
+	"abilities": [
+		{
+			"name": "Color Change"
+		},
+		{
+			"name": "Protean",
+			"hidden": true
+		}
+	],
+	"catch_rate": 200,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Field"],
+	"hatch_time": [5355, 5609],
+	"height_us": "3'03\"",
+	"height_eu": "1.0 m",
+	"weight_us": "48.5 lbs.",
+	"weight_eu": "22.0 kg",
+	"base_exp_yield": 154,
+	"leveling_rate": "Medium Slow",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 1,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 60,
+		"atk": 90,
+		"def": 70,
+		"sp_atk": 60,
+		"sp_def": 120,
+		"speed": 40
+	},
+	"evolution_from": null,
+	"evolutions": [],
+	"species": "Color Swap Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "Kecleon alters its body coloration to blend in with its surroundings, allowing it to sneak up on its prey unnoticed. Then it lashes out with its long, stretchy tongue to instantly ensnare the unsuspecting target.",
+	"move_learnset": [
+		{
+			"move": "Astonish",
+			"level": 1
+		},
+		{
+			"move": "Lick",
+			"level": 1
+		},
+		{
+			"move": "Scratch",
+			"level": 1
+		},
+		{
+			"move": "Tail Whip",
+			"level": 1
+		},
+		{
+			"move": "Thief",
+			"level": 1
+		},
+		{
+			"move": "Bind",
+			"level": 4
+		},
+		{
+			"move": "Shadow Sneak",
+			"level": 7
+		},
+		{
+			"move": "Feint",
+			"level": 10
+		},
+		{
+			"move": "Fury Swipes",
+			"level": 13
+		},
+		{
+			"move": "Feint Attack",
+			"level": 16
+		},
+		{
+			"move": "Psybeam",
+			"level": 18
+		},
+		{
+			"move": "Ancient Power",
+			"level": 21
+		},
+		{
+			"move": "Slash",
+			"level": 25
+		},
+		{
+			"move": "Camouflage",
+			"level": 30
+		},
+		{
+			"move": "Shadow Claw",
+			"level": 33
+		},
+		{
+			"move": "Screech",
+			"level": 38
+		},
+		{
+			"move": "Substitute",
+			"level": 42
+		},
+		{
+			"move": "Sucker Punch",
+			"level": 46
+		},
+		{
+			"move": "Synchronoise",
+			"level": 50
+		},
+		{
+			"move": "Camouflage",
+			"egg_move": true
+		},
+		{
+			"move": "Disable",
+			"egg_move": true
+		},
+		{
+			"move": "Dizzy Punch",
+			"egg_move": true
+		},
+		{
+			"move": "Fake Out",
+			"egg_move": true
+		},
+		{
+			"move": "Foul Play",
+			"egg_move": true
+		},
+		{
+			"move": "Magic Coat",
+			"egg_move": true
+		},
+		{
+			"move": "Nasty Plot",
+			"egg_move": true
+		},
+		{
+			"move": "Power-Up Punch",
+			"egg_move": true
+		},
+		{
+			"move": "Recover",
+			"egg_move": true
+		},
+		{
+			"move": "Skill Swap",
+			"egg_move": true
+		},
+		{
+			"move": "Snatch",
+			"egg_move": true
+		},
+		{
+			"move": "Trick",
+			"egg_move": true
+		},
+		{
+			"move": "Work Up",
+			"tm": "TM1"
+		},
+		{
+			"move": "Toxic",
+			"tm": "TM6"
+		},
+		{
+			"move": "Hidden Power",
+			"tm": "TM10"
+		},
+		{
+			"move": "Sunny Day",
+			"tm": "TM11"
+		},
+		{
+			"move": "Ice Beam",
+			"tm": "TM13"
+		},
+		{
+			"move": "Blizzard",
+			"tm": "TM14"
+		},
+		{
+			"move": "Protect",
+			"tm": "TM17"
+		},
+		{
+			"move": "Rain Dance",
+			"tm": "TM18"
+		},
+		{
+			"move": "Frustration",
+			"tm": "TM21"
+		},
+		{
+			"move": "Solar Beam",
+			"tm": "TM22"
+		},
+		{
+			"move": "Thunderbolt",
+			"tm": "TM24"
+		},
+		{
+			"move": "Thunder",
+			"tm": "TM25"
+		},
+		{
+			"move": "Return",
+			"tm": "TM27"
+		},
+		{
+			"move": "Shadow Ball",
+			"tm": "TM30"
+		},
+		{
+			"move": "Brick Break",
+			"tm": "TM31"
+		},
+		{
+			"move": "Double Team",
+			"tm": "TM32"
+		},
+		{
+			"move": "Flamethrower",
+			"tm": "TM35"
+		},
+		{
+			"move": "Fire Blast",
+			"tm": "TM38"
+		},
+		{
+			"move": "Rock Tomb",
+			"tm": "TM39"
+		},
+		{
+			"move": "Aerial Ace",
+			"tm": "TM40"
+		},
+		{
+			"move": "Facade",
+			"tm": "TM42"
+		},
+		{
+			"move": "Rest",
+			"tm": "TM44"
+		},
+		{
+			"move": "Attract",
+			"tm": "TM45"
+		},
+		{
+			"move": "Thief",
+			"tm": "TM46"
+		},
+		{
+			"move": "Round",
+			"tm": "TM48"
+		},
+		{
+			"move": "Fling",
+			"tm": "TM56"
+		},
+		{
+			"move": "Charge Beam",
+			"tm": "TM57"
+		},
+		{
+			"move": "Shadow Claw",
+			"tm": "TM65"
+		},
+		{
+			"move": "Thunder Wave",
+			"tm": "TM73"
+		},
+		{
+			"move": "Psych Up",
+			"tm": "TM77"
+		},
+		{
+			"move": "Rock Slide",
+			"tm": "TM80"
+		},
+		{
+			"move": "Grass Knot",
+			"tm": "TM86"
+		},
+		{
+			"move": "Swagger",
+			"tm": "TM87"
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": "TM88"
+		},
+		{
+			"move": "Substitute",
+			"tm": "TM90"
+		},
+		{
+			"move": "Trick Room",
+			"tm": "TM92"
+		},
+		{
+			"move": "Confide",
+			"tm": "TM100"
+		}
+	]
 }

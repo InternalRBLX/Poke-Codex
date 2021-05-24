@@ -1,259 +1,251 @@
 {
-    "name": "Pidgeotto",
-    "national_id": 17,
-    "types": [
-        "Normal",
-        "Flying"
-    ],
-    "abilities": [
-        {
-            "name": "Keen Eye"
-        },
-        {
-            "name": "Tangled Feet"
-        },
-        {
-            "name": "Big Pecks",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 120,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Flying"
-    ],
-    "hatch_time": [
-        4080,
-        4334
-    ],
-    "height_us": "3'07\"",
-    "height_eu": "1.1 m",
-    "weight_us": "66.1 lbs.",
-    "weight_eu": "30.0 kg",
-    "base_exp_yield": 122,
-    "leveling_rate": "Medium Slow",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 2
-    },
-    "base_stats": {
-        "hp": 63,
-        "atk": 60,
-        "def": 55,
-        "sp_atk": 50,
-        "sp_def": 50,
-        "speed": 71
-    },
-    "evolution_from": "Pidgey",
-    "evolutions": [
-        {
-            "to": "Pidgeot",
-            "level": 36
-        }
-    ],
-    "species": "Bird Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "Pidgeotto claims a large area as its own territory. This Pokémon flies around, patrolling its living space. If its territory is violated, it shows no mercy in thoroughly punishing the foe with its sharp claws.",
-    "move_learnset": [
-        {
-            "move": "Gust",
-            "level": 1
-        },
-        {
-            "move": "Sand Attack",
-            "level": 1
-        },
-        {
-            "move": "Tackle",
-            "level": 1
-        },
-        {
-            "move": "Sand Attack",
-            "level": 5
-        },
-        {
-            "move": "Gust",
-            "level": 9
-        },
-        {
-            "move": "Quick Attack",
-            "level": 13
-        },
-        {
-            "move": "Whirlwind",
-            "level": 17
-        },
-        {
-            "move": "Twister",
-            "level": 22
-        },
-        {
-            "move": "Feather Dance",
-            "level": 27
-        },
-        {
-            "move": "Agility",
-            "level": 32
-        },
-        {
-            "move": "Wing Attack",
-            "level": 37
-        },
-        {
-            "move": "Roost",
-            "level": 42
-        },
-        {
-            "move": "Tailwind",
-            "level": 47
-        },
-        {
-            "move": "Mirror Move",
-            "level": 52
-        },
-        {
-            "move": "Air Slash",
-            "level": 57
-        },
-        {
-            "move": "Hurricane",
-            "level": 62
-        },
-        {
-            "move": "Air Cutter",
-            "egg_move": true
-        },
-        {
-            "move": "Air Slash",
-            "egg_move": true
-        },
-        {
-            "move": "Brave Bird",
-            "egg_move": true
-        },
-        {
-            "move": "Defog",
-            "egg_move": true
-        },
-        {
-            "move": "Feint Attack",
-            "egg_move": true
-        },
-        {
-            "move": "Foresight",
-            "egg_move": true
-        },
-        {
-            "move": "Pursuit",
-            "egg_move": true
-        },
-        {
-            "move": "Steel Wing",
-            "egg_move": true
-        },
-        {
-            "move": "Uproar",
-            "egg_move": true
-        },
-        {
-            "move": "Work Up",
-            "tm": "TM1"
-        },
-        {
-            "move": "Toxic",
-            "tm": "TM6"
-        },
-        {
-            "move": "Hidden Power",
-            "tm": "TM10"
-        },
-        {
-            "move": "Sunny Day",
-            "tm": "TM11"
-        },
-        {
-            "move": "Protect",
-            "tm": "TM17"
-        },
-        {
-            "move": "Rain Dance",
-            "tm": "TM18"
-        },
-        {
-            "move": "Roost",
-            "tm": "TM19"
-        },
-        {
-            "move": "Frustration",
-            "tm": "TM21"
-        },
-        {
-            "move": "Return",
-            "tm": "TM27"
-        },
-        {
-            "move": "Double Team",
-            "tm": "TM32"
-        },
-        {
-            "move": "Aerial Ace",
-            "tm": "TM40"
-        },
-        {
-            "move": "Facade",
-            "tm": "TM42"
-        },
-        {
-            "move": "Rest",
-            "tm": "TM44"
-        },
-        {
-            "move": "Attract",
-            "tm": "TM45"
-        },
-        {
-            "move": "Thief",
-            "tm": "TM46"
-        },
-        {
-            "move": "Round",
-            "tm": "TM48"
-        },
-        {
-            "move": "Steel Wing",
-            "tm": "TM51"
-        },
-        {
-            "move": "Fly",
-            "tm": "TM76"
-        },
-        {
-            "move": "Swagger",
-            "tm": "TM87"
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": "TM88"
-        },
-        {
-            "move": "U-turn",
-            "tm": "TM89"
-        },
-        {
-            "move": "Substitute",
-            "tm": "TM90"
-        },
-        {
-            "move": "Confide",
-            "tm": "TM100"
-        }
-    ]
+	"name": "Pidgeotto",
+	"national_id": 17,
+	"types": ["Normal", "Flying"],
+	"abilities": [
+		{
+			"name": "Keen Eye"
+		},
+		{
+			"name": "Tangled Feet"
+		},
+		{
+			"name": "Big Pecks",
+			"hidden": true
+		}
+	],
+	"catch_rate": 120,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Flying"],
+	"hatch_time": [4080, 4334],
+	"height_us": "3'07\"",
+	"height_eu": "1.1 m",
+	"weight_us": "66.1 lbs.",
+	"weight_eu": "30.0 kg",
+	"base_exp_yield": 122,
+	"leveling_rate": "Medium Slow",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 2
+	},
+	"base_stats": {
+		"hp": 63,
+		"atk": 60,
+		"def": 55,
+		"sp_atk": 50,
+		"sp_def": 50,
+		"speed": 71
+	},
+	"evolution_from": "Pidgey",
+	"evolutions": [
+		{
+			"to": "Pidgeot",
+			"level": 36
+		}
+	],
+	"species": "Bird Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "Pidgeotto claims a large area as its own territory. This Pokémon flies around, patrolling its living space. If its territory is violated, it shows no mercy in thoroughly punishing the foe with its sharp claws.",
+	"move_learnset": [
+		{
+			"move": "Gust",
+			"level": 1
+		},
+		{
+			"move": "Sand Attack",
+			"level": 1
+		},
+		{
+			"move": "Tackle",
+			"level": 1
+		},
+		{
+			"move": "Sand Attack",
+			"level": 5
+		},
+		{
+			"move": "Gust",
+			"level": 9
+		},
+		{
+			"move": "Quick Attack",
+			"level": 13
+		},
+		{
+			"move": "Whirlwind",
+			"level": 17
+		},
+		{
+			"move": "Twister",
+			"level": 22
+		},
+		{
+			"move": "Feather Dance",
+			"level": 27
+		},
+		{
+			"move": "Agility",
+			"level": 32
+		},
+		{
+			"move": "Wing Attack",
+			"level": 37
+		},
+		{
+			"move": "Roost",
+			"level": 42
+		},
+		{
+			"move": "Tailwind",
+			"level": 47
+		},
+		{
+			"move": "Mirror Move",
+			"level": 52
+		},
+		{
+			"move": "Air Slash",
+			"level": 57
+		},
+		{
+			"move": "Hurricane",
+			"level": 62
+		},
+		{
+			"move": "Air Cutter",
+			"egg_move": true
+		},
+		{
+			"move": "Air Slash",
+			"egg_move": true
+		},
+		{
+			"move": "Brave Bird",
+			"egg_move": true
+		},
+		{
+			"move": "Defog",
+			"egg_move": true
+		},
+		{
+			"move": "Feint Attack",
+			"egg_move": true
+		},
+		{
+			"move": "Foresight",
+			"egg_move": true
+		},
+		{
+			"move": "Pursuit",
+			"egg_move": true
+		},
+		{
+			"move": "Steel Wing",
+			"egg_move": true
+		},
+		{
+			"move": "Uproar",
+			"egg_move": true
+		},
+		{
+			"move": "Work Up",
+			"tm": "TM1"
+		},
+		{
+			"move": "Toxic",
+			"tm": "TM6"
+		},
+		{
+			"move": "Hidden Power",
+			"tm": "TM10"
+		},
+		{
+			"move": "Sunny Day",
+			"tm": "TM11"
+		},
+		{
+			"move": "Protect",
+			"tm": "TM17"
+		},
+		{
+			"move": "Rain Dance",
+			"tm": "TM18"
+		},
+		{
+			"move": "Roost",
+			"tm": "TM19"
+		},
+		{
+			"move": "Frustration",
+			"tm": "TM21"
+		},
+		{
+			"move": "Return",
+			"tm": "TM27"
+		},
+		{
+			"move": "Double Team",
+			"tm": "TM32"
+		},
+		{
+			"move": "Aerial Ace",
+			"tm": "TM40"
+		},
+		{
+			"move": "Facade",
+			"tm": "TM42"
+		},
+		{
+			"move": "Rest",
+			"tm": "TM44"
+		},
+		{
+			"move": "Attract",
+			"tm": "TM45"
+		},
+		{
+			"move": "Thief",
+			"tm": "TM46"
+		},
+		{
+			"move": "Round",
+			"tm": "TM48"
+		},
+		{
+			"move": "Steel Wing",
+			"tm": "TM51"
+		},
+		{
+			"move": "Fly",
+			"tm": "TM76"
+		},
+		{
+			"move": "Swagger",
+			"tm": "TM87"
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": "TM88"
+		},
+		{
+			"move": "U-turn",
+			"tm": "TM89"
+		},
+		{
+			"move": "Substitute",
+			"tm": "TM90"
+		},
+		{
+			"move": "Confide",
+			"tm": "TM100"
+		}
+	]
 }

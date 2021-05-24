@@ -1,266 +1,258 @@
 {
-    "name": "Metagross",
-    "national_id": 376,
-    "types": [
-        "Steel",
-        "Psychic"
-    ],
-    "items": [
-        {
-            "name": "Metal Coat",
-            "chance": 5
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Clear Body"
-        },
-        {
-            "name": "Light Metal",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 3,
-    "gender_ratios": null,
-    "egg_groups": [
-        "Mineral"
-    ],
-    "hatch_time": [
-        10455,
-        10709
-    ],
-    "height_us": "5'03\"",
-    "height_eu": "1.6 m",
-    "weight_us": "1212.5 lbs.",
-    "weight_eu": "550.0 kg",
-    "base_exp_yield": 270,
-    "leveling_rate": "Slow",
-    "base_friendship": 35,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 3,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 80,
-        "atk": 135,
-        "def": 130,
-        "sp_atk": 95,
-        "sp_def": 90,
-        "speed": 70
-    },
-    "evolution_from": "Metang",
-    "evolutions": [],
-    "species": "Iron Leg Pokémon",
-    "mega_evolves": true,
-    "pokedex_entry": "Metagross is the result of two Metang achieving fusion. When hunting, this Pokémon pins the prey to the ground under its massive body. It then eats the helpless victim using the large mouth on its stomach.",
-    "move_learnset": [
-        {
-            "move": "Confusion",
-            "level": 1
-        },
-        {
-            "move": "Hammer Arm",
-            "level": 1
-        },
-        {
-            "move": "Magnet Rise",
-            "level": 1
-        },
-        {
-            "move": "Metal Claw",
-            "level": 1
-        },
-        {
-            "move": "Take Down",
-            "level": 1
-        },
-        {
-            "move": "Pursuit",
-            "level": 23
-        },
-        {
-            "move": "Bullet Punch",
-            "level": 26
-        },
-        {
-            "move": "Miracle Eye",
-            "level": 29
-        },
-        {
-            "move": "Zen Headbutt",
-            "level": 32
-        },
-        {
-            "move": "Scary Face",
-            "level": 35
-        },
-        {
-            "move": "Psychic",
-            "level": 38
-        },
-        {
-            "move": "Agility",
-            "level": 41
-        },
-        {
-            "move": "Meteor Mash",
-            "level": 44
-        },
-        {
-            "move": "Iron Defense",
-            "level": 52
-        },
-        {
-            "move": "Hyper Beam",
-            "level": 60
-        },
-        {
-            "move": "Psyshock",
-            "tm": "TM3"
-        },
-        {
-            "move": "Toxic",
-            "tm": "TM6"
-        },
-        {
-            "move": "Hidden Power",
-            "tm": "TM10"
-        },
-        {
-            "move": "Sunny Day",
-            "tm": "TM11"
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": "TM15"
-        },
-        {
-            "move": "Light Screen",
-            "tm": "TM16"
-        },
-        {
-            "move": "Protect",
-            "tm": "TM17"
-        },
-        {
-            "move": "Rain Dance",
-            "tm": "TM18"
-        },
-        {
-            "move": "Frustration",
-            "tm": "TM21"
-        },
-        {
-            "move": "Earthquake",
-            "tm": "TM26"
-        },
-        {
-            "move": "Return",
-            "tm": "TM27"
-        },
-        {
-            "move": "Psychic",
-            "tm": "TM29"
-        },
-        {
-            "move": "Shadow Ball",
-            "tm": "TM30"
-        },
-        {
-            "move": "Brick Break",
-            "tm": "TM31"
-        },
-        {
-            "move": "Double Team",
-            "tm": "TM32"
-        },
-        {
-            "move": "Reflect",
-            "tm": "TM33"
-        },
-        {
-            "move": "Sludge Bomb",
-            "tm": "TM36"
-        },
-        {
-            "move": "Sandstorm",
-            "tm": "TM37"
-        },
-        {
-            "move": "Rock Tomb",
-            "tm": "TM39"
-        },
-        {
-            "move": "Aerial Ace",
-            "tm": "TM40"
-        },
-        {
-            "move": "Facade",
-            "tm": "TM42"
-        },
-        {
-            "move": "Rest",
-            "tm": "TM44"
-        },
-        {
-            "move": "Round",
-            "tm": "TM48"
-        },
-        {
-            "move": "Explosion",
-            "tm": "TM64"
-        },
-        {
-            "move": "Giga Impact",
-            "tm": "TM68"
-        },
-        {
-            "move": "Rock Polish",
-            "tm": "TM69"
-        },
-        {
-            "move": "Gyro Ball",
-            "tm": "TM74"
-        },
-        {
-            "move": "Psych Up",
-            "tm": "TM77"
-        },
-        {
-            "move": "Bulldoze",
-            "tm": "TM78"
-        },
-        {
-            "move": "Rock Slide",
-            "tm": "TM80"
-        },
-        {
-            "move": "Grass Knot",
-            "tm": "TM86"
-        },
-        {
-            "move": "Swagger",
-            "tm": "TM87"
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": "TM88"
-        },
-        {
-            "move": "Substitute",
-            "tm": "TM90"
-        },
-        {
-            "move": "Flash Cannon",
-            "tm": "TM91"
-        },
-        {
-            "move": "Confide",
-            "tm": "TM100"
-        }
-    ]
+	"name": "Metagross",
+	"national_id": 376,
+	"types": ["Steel", "Psychic"],
+	"items": [
+		{
+			"name": "Metal Coat",
+			"chance": 5
+		}
+	],
+	"abilities": [
+		{
+			"name": "Clear Body"
+		},
+		{
+			"name": "Light Metal",
+			"hidden": true
+		}
+	],
+	"catch_rate": 3,
+	"gender_ratios": null,
+	"egg_groups": ["Mineral"],
+	"hatch_time": [10455, 10709],
+	"height_us": "5'03\"",
+	"height_eu": "1.6 m",
+	"weight_us": "1212.5 lbs.",
+	"weight_eu": "550.0 kg",
+	"base_exp_yield": 270,
+	"leveling_rate": "Slow",
+	"base_friendship": 35,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 3,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 80,
+		"atk": 135,
+		"def": 130,
+		"sp_atk": 95,
+		"sp_def": 90,
+		"speed": 70
+	},
+	"evolution_from": "Metang",
+	"evolutions": [],
+	"species": "Iron Leg Pokémon",
+	"mega_evolves": true,
+	"pokedex_entry": "Metagross is the result of two Metang achieving fusion. When hunting, this Pokémon pins the prey to the ground under its massive body. It then eats the helpless victim using the large mouth on its stomach.",
+	"move_learnset": [
+		{
+			"move": "Confusion",
+			"level": 1
+		},
+		{
+			"move": "Hammer Arm",
+			"level": 1
+		},
+		{
+			"move": "Magnet Rise",
+			"level": 1
+		},
+		{
+			"move": "Metal Claw",
+			"level": 1
+		},
+		{
+			"move": "Take Down",
+			"level": 1
+		},
+		{
+			"move": "Pursuit",
+			"level": 23
+		},
+		{
+			"move": "Bullet Punch",
+			"level": 26
+		},
+		{
+			"move": "Miracle Eye",
+			"level": 29
+		},
+		{
+			"move": "Zen Headbutt",
+			"level": 32
+		},
+		{
+			"move": "Scary Face",
+			"level": 35
+		},
+		{
+			"move": "Psychic",
+			"level": 38
+		},
+		{
+			"move": "Agility",
+			"level": 41
+		},
+		{
+			"move": "Meteor Mash",
+			"level": 44
+		},
+		{
+			"move": "Iron Defense",
+			"level": 52
+		},
+		{
+			"move": "Hyper Beam",
+			"level": 60
+		},
+		{
+			"move": "Psyshock",
+			"tm": "TM3"
+		},
+		{
+			"move": "Toxic",
+			"tm": "TM6"
+		},
+		{
+			"move": "Hidden Power",
+			"tm": "TM10"
+		},
+		{
+			"move": "Sunny Day",
+			"tm": "TM11"
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": "TM15"
+		},
+		{
+			"move": "Light Screen",
+			"tm": "TM16"
+		},
+		{
+			"move": "Protect",
+			"tm": "TM17"
+		},
+		{
+			"move": "Rain Dance",
+			"tm": "TM18"
+		},
+		{
+			"move": "Frustration",
+			"tm": "TM21"
+		},
+		{
+			"move": "Earthquake",
+			"tm": "TM26"
+		},
+		{
+			"move": "Return",
+			"tm": "TM27"
+		},
+		{
+			"move": "Psychic",
+			"tm": "TM29"
+		},
+		{
+			"move": "Shadow Ball",
+			"tm": "TM30"
+		},
+		{
+			"move": "Brick Break",
+			"tm": "TM31"
+		},
+		{
+			"move": "Double Team",
+			"tm": "TM32"
+		},
+		{
+			"move": "Reflect",
+			"tm": "TM33"
+		},
+		{
+			"move": "Sludge Bomb",
+			"tm": "TM36"
+		},
+		{
+			"move": "Sandstorm",
+			"tm": "TM37"
+		},
+		{
+			"move": "Rock Tomb",
+			"tm": "TM39"
+		},
+		{
+			"move": "Aerial Ace",
+			"tm": "TM40"
+		},
+		{
+			"move": "Facade",
+			"tm": "TM42"
+		},
+		{
+			"move": "Rest",
+			"tm": "TM44"
+		},
+		{
+			"move": "Round",
+			"tm": "TM48"
+		},
+		{
+			"move": "Explosion",
+			"tm": "TM64"
+		},
+		{
+			"move": "Giga Impact",
+			"tm": "TM68"
+		},
+		{
+			"move": "Rock Polish",
+			"tm": "TM69"
+		},
+		{
+			"move": "Gyro Ball",
+			"tm": "TM74"
+		},
+		{
+			"move": "Psych Up",
+			"tm": "TM77"
+		},
+		{
+			"move": "Bulldoze",
+			"tm": "TM78"
+		},
+		{
+			"move": "Rock Slide",
+			"tm": "TM80"
+		},
+		{
+			"move": "Grass Knot",
+			"tm": "TM86"
+		},
+		{
+			"move": "Swagger",
+			"tm": "TM87"
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": "TM88"
+		},
+		{
+			"move": "Substitute",
+			"tm": "TM90"
+		},
+		{
+			"move": "Flash Cannon",
+			"tm": "TM91"
+		},
+		{
+			"move": "Confide",
+			"tm": "TM100"
+		}
+	]
 }

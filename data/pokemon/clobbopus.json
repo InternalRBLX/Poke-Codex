@@ -1,248 +1,240 @@
 {
-    "name": "Clobbopus",
-    "national_id": 852,
-    "types": [
-        "Fighting"
-    ],
-    "abilities": [
-        {
-            "name": "Limber"
-        },
-        {
-            "name": "Technician",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 180,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Water1",
-        "HumanLike"
-    ],
-    "hatch_time": [
-        6425,
-        6681
-    ],
-    "height_us": "2'00\"",
-    "height_eu": "0.6 m",
-    "weight_us": "8.8 lbs.",
-    "weight_eu": "4.0 kg",
-    "base_exp_yield": 62,
-    "leveling_rate": "Medium Slow",
-    "base_friendship": 50,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 1,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 50,
-        "atk": 68,
-        "def": 60,
-        "sp_atk": 50,
-        "sp_def": 50,
-        "speed": 32
-    },
-    "evolution_from": null,
-    "evolutions": [
-        {
-            "to": "Grapploct",
-            "move_learned": "Taunt"
-        }
-    ],
-    "species": "Tantrum Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "Its tentacles tear off easily, but it isn’t alarmed when that happens—it knows they’ll grow back. It’s about as smart as a three-year-old.",
-    "move_learnset": [
-        {
-            "move": "Rock Smash",
-            "level": 1
-        },
-        {
-            "move": "Leer",
-            "level": 1
-        },
-        {
-            "move": "Feint",
-            "level": 5
-        },
-        {
-            "move": "Bind",
-            "level": 10
-        },
-        {
-            "move": "Detect",
-            "level": 15
-        },
-        {
-            "move": "Brick Break",
-            "level": 20
-        },
-        {
-            "move": "Bulk Up",
-            "level": 25
-        },
-        {
-            "move": "Submission",
-            "level": 30
-        },
-        {
-            "move": "Taunt",
-            "level": 35
-        },
-        {
-            "move": "Reversal",
-            "level": 40
-        },
-        {
-            "move": "Superpower",
-            "level": 45
-        },
-        {
-            "move": "Mega Punch",
-            "tm": true
-        },
-        {
-            "move": "Ice Punch",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Revenge",
-            "tm": true
-        },
-        {
-            "move": "Brick Break",
-            "tm": true
-        },
-        {
-            "move": "Dive",
-            "tm": true
-        },
-        {
-            "move": "Mud Shot",
-            "tm": true
-        },
-        {
-            "move": "Brine",
-            "tm": true
-        },
-        {
-            "move": "Payback",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Retaliate",
-            "tm": true
-        },
-        {
-            "move": "Body Slam",
-            "tm": true
-        },
-        {
-            "move": "Waterfall",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Reversal",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Taunt",
-            "tm": true
-        },
-        {
-            "move": "Superpower",
-            "tm": true
-        },
-        {
-            "move": "Muddy Water",
-            "tm": true
-        },
-        {
-            "move": "Bulk Up",
-            "tm": true
-        },
-        {
-            "move": "Close Combat",
-            "tm": true
-        },
-        {
-            "move": "Focus Blast",
-            "tm": true
-        },
-        {
-            "move": "Work Up",
-            "tm": true
-        },
-        {
-            "move": "Liquidation",
-            "tm": true
-        },
-        {
-            "move": "Pain Split",
-            "egg_move": true
-        },
-        {
-            "move": "Soak",
-            "egg_move": true
-        },
-        {
-            "move": "Sucker Punch",
-            "egg_move": true
-        },
-        {
-            "move": "Circle Throw",
-            "egg_move": true
-        },
-        {
-            "move": "Seismic Toss",
-            "egg_move": true
-        },
-        {
-            "move": "Power-Up Punch",
-            "egg_move": true
-        }
-    ]
+	"name": "Clobbopus",
+	"national_id": 852,
+	"types": ["Fighting"],
+	"abilities": [
+		{
+			"name": "Limber"
+		},
+		{
+			"name": "Technician",
+			"hidden": true
+		}
+	],
+	"catch_rate": 180,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Water1", "HumanLike"],
+	"hatch_time": [6425, 6681],
+	"height_us": "2'00\"",
+	"height_eu": "0.6 m",
+	"weight_us": "8.8 lbs.",
+	"weight_eu": "4.0 kg",
+	"base_exp_yield": 62,
+	"leveling_rate": "Medium Slow",
+	"base_friendship": 50,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 1,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 50,
+		"atk": 68,
+		"def": 60,
+		"sp_atk": 50,
+		"sp_def": 50,
+		"speed": 32
+	},
+	"evolution_from": null,
+	"evolutions": [
+		{
+			"to": "Grapploct",
+			"move_learned": "Taunt"
+		}
+	],
+	"species": "Tantrum Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "Its tentacles tear off easily, but it isn’t alarmed when that happens—it knows they’ll grow back. It’s about as smart as a three-year-old.",
+	"move_learnset": [
+		{
+			"move": "Rock Smash",
+			"level": 1
+		},
+		{
+			"move": "Leer",
+			"level": 1
+		},
+		{
+			"move": "Feint",
+			"level": 5
+		},
+		{
+			"move": "Bind",
+			"level": 10
+		},
+		{
+			"move": "Detect",
+			"level": 15
+		},
+		{
+			"move": "Brick Break",
+			"level": 20
+		},
+		{
+			"move": "Bulk Up",
+			"level": 25
+		},
+		{
+			"move": "Submission",
+			"level": 30
+		},
+		{
+			"move": "Taunt",
+			"level": 35
+		},
+		{
+			"move": "Reversal",
+			"level": 40
+		},
+		{
+			"move": "Superpower",
+			"level": 45
+		},
+		{
+			"move": "Mega Punch",
+			"tm": true
+		},
+		{
+			"move": "Ice Punch",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Revenge",
+			"tm": true
+		},
+		{
+			"move": "Brick Break",
+			"tm": true
+		},
+		{
+			"move": "Dive",
+			"tm": true
+		},
+		{
+			"move": "Mud Shot",
+			"tm": true
+		},
+		{
+			"move": "Brine",
+			"tm": true
+		},
+		{
+			"move": "Payback",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Retaliate",
+			"tm": true
+		},
+		{
+			"move": "Body Slam",
+			"tm": true
+		},
+		{
+			"move": "Waterfall",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Reversal",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Taunt",
+			"tm": true
+		},
+		{
+			"move": "Superpower",
+			"tm": true
+		},
+		{
+			"move": "Muddy Water",
+			"tm": true
+		},
+		{
+			"move": "Bulk Up",
+			"tm": true
+		},
+		{
+			"move": "Close Combat",
+			"tm": true
+		},
+		{
+			"move": "Focus Blast",
+			"tm": true
+		},
+		{
+			"move": "Work Up",
+			"tm": true
+		},
+		{
+			"move": "Liquidation",
+			"tm": true
+		},
+		{
+			"move": "Pain Split",
+			"egg_move": true
+		},
+		{
+			"move": "Soak",
+			"egg_move": true
+		},
+		{
+			"move": "Sucker Punch",
+			"egg_move": true
+		},
+		{
+			"move": "Circle Throw",
+			"egg_move": true
+		},
+		{
+			"move": "Seismic Toss",
+			"egg_move": true
+		},
+		{
+			"move": "Power-Up Punch",
+			"egg_move": true
+		}
+	]
 }

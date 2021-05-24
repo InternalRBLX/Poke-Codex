@@ -1,8 +1,8 @@
 {
-    "name": "Black Flute",
-    "sell_price": 200,
-    "holdable": false,
-    "battle": false,
-    "category": "Item",
-    "subcategory": "Flute"
+	"name": "Black Flute",
+	"sell_price": 200,
+	"holdable": false,
+	"battle": false,
+	"category": "Item",
+	"subcategory": "Flute"
 }

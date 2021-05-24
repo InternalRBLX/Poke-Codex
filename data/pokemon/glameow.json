@@ -1,288 +1,281 @@
 {
-    "name": "Glameow",
-    "national_id": 431,
-    "types": [
-        "Normal"
-    ],
-    "items": [
-        {
-            "name": "Cheri Berry",
-            "chance": 5
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Limber"
-        },
-        {
-            "name": "Own Tempo"
-        },
-        {
-            "name": "Keen Eye",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 190,
-    "gender_ratios": {
-        "male": 25,
-        "female": 75
-    },
-    "egg_groups": [
-        "Field"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "1'08\"",
-    "height_eu": "0.5 m",
-    "weight_us": "8.6 lbs.",
-    "weight_eu": "3.9 kg",
-    "base_exp_yield": 62,
-    "leveling_rate": "Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 1
-    },
-    "base_stats": {
-        "hp": 49,
-        "atk": 55,
-        "def": 42,
-        "sp_atk": 42,
-        "sp_def": 37,
-        "speed": 85
-    },
-    "evolution_from": null,
-    "evolutions": [
-        {
-            "to": "Purugly",
-            "level": 38
-        }
-    ],
-    "species": "Catty Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "When it's happy, Glameow demonstrates beautiful movements of its tail, like a dancing ribbon.",
-    "move_learnset": [
-        {
-            "move": "Fake Out",
-            "level": 1
-        },
-        {
-            "move": "Scratch",
-            "level": 5
-        },
-        {
-            "move": "Growl",
-            "level": 8
-        },
-        {
-            "move": "Hypnosis",
-            "level": 13
-        },
-        {
-            "move": "Feint Attack",
-            "level": 17
-        },
-        {
-            "move": "Fury Swipes",
-            "level": 20
-        },
-        {
-            "move": "Charm",
-            "level": 25
-        },
-        {
-            "move": "Assist",
-            "level": 29
-        },
-        {
-            "move": "Captivate",
-            "level": 32
-        },
-        {
-            "move": "Slash",
-            "level": 37
-        },
-        {
-            "move": "Sucker Punch",
-            "level": 41
-        },
-        {
-            "move": "Attract",
-            "level": 44
-        },
-        {
-            "move": "Hone Claws",
-            "level": 48
-        },
-        {
-            "move": "Play Rough",
-            "level": 50
-        },
-        {
-            "move": "Assurance",
-            "egg_move": true
-        },
-        {
-            "move": "Bite",
-            "egg_move": true
-        },
-        {
-            "move": "Fake Tears",
-            "egg_move": true
-        },
-        {
-            "move": "Flail",
-            "egg_move": true
-        },
-        {
-            "move": "Last Resort",
-            "egg_move": true
-        },
-        {
-            "move": "Quick Attack",
-            "egg_move": true
-        },
-        {
-            "move": "Sand Attack",
-            "egg_move": true
-        },
-        {
-            "move": "Snatch",
-            "egg_move": true
-        },
-        {
-            "move": "Tail Whip",
-            "egg_move": true
-        },
-        {
-            "move": "Wake-Up Slap",
-            "egg_move": true
-        },
-        {
-            "move": "Work Up",
-            "tm": "TM1"
-        },
-        {
-            "move": "Toxic",
-            "tm": "TM6"
-        },
-        {
-            "move": "Hidden Power",
-            "tm": "TM10"
-        },
-        {
-            "move": "Sunny Day",
-            "tm": "TM11"
-        },
-        {
-            "move": "Taunt",
-            "tm": "TM12"
-        },
-        {
-            "move": "Protect",
-            "tm": "TM17"
-        },
-        {
-            "move": "Rain Dance",
-            "tm": "TM18"
-        },
-        {
-            "move": "Frustration",
-            "tm": "TM21"
-        },
-        {
-            "move": "Thunderbolt",
-            "tm": "TM24"
-        },
-        {
-            "move": "Thunder",
-            "tm": "TM25"
-        },
-        {
-            "move": "Return",
-            "tm": "TM27"
-        },
-        {
-            "move": "Shadow Ball",
-            "tm": "TM30"
-        },
-        {
-            "move": "Double Team",
-            "tm": "TM32"
-        },
-        {
-            "move": "Aerial Ace",
-            "tm": "TM40"
-        },
-        {
-            "move": "Torment",
-            "tm": "TM41"
-        },
-        {
-            "move": "Facade",
-            "tm": "TM42"
-        },
-        {
-            "move": "Rest",
-            "tm": "TM44"
-        },
-        {
-            "move": "Attract",
-            "tm": "TM45"
-        },
-        {
-            "move": "Thief",
-            "tm": "TM46"
-        },
-        {
-            "move": "Round",
-            "tm": "TM48"
-        },
-        {
-            "move": "Echoed Voice",
-            "tm": "TM49"
-        },
-        {
-            "move": "Shadow Claw",
-            "tm": "TM65"
-        },
-        {
-            "move": "Payback",
-            "tm": "TM66"
-        },
-        {
-            "move": "Psych Up",
-            "tm": "TM77"
-        },
-        {
-            "move": "Dream Eater",
-            "tm": "TM85"
-        },
-        {
-            "move": "Swagger",
-            "tm": "TM87"
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": "TM88"
-        },
-        {
-            "move": "U-turn",
-            "tm": "TM89"
-        },
-        {
-            "move": "Substitute",
-            "tm": "TM90"
-        },
-        {
-            "move": "Confide",
-            "tm": "TM100"
-        }
-    ]
+	"name": "Glameow",
+	"national_id": 431,
+	"types": ["Normal"],
+	"items": [
+		{
+			"name": "Cheri Berry",
+			"chance": 5
+		}
+	],
+	"abilities": [
+		{
+			"name": "Limber"
+		},
+		{
+			"name": "Own Tempo"
+		},
+		{
+			"name": "Keen Eye",
+			"hidden": true
+		}
+	],
+	"catch_rate": 190,
+	"gender_ratios": {
+		"male": 25,
+		"female": 75
+	},
+	"egg_groups": ["Field"],
+	"hatch_time": [5355, 5609],
+	"height_us": "1'08\"",
+	"height_eu": "0.5 m",
+	"weight_us": "8.6 lbs.",
+	"weight_eu": "3.9 kg",
+	"base_exp_yield": 62,
+	"leveling_rate": "Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 1
+	},
+	"base_stats": {
+		"hp": 49,
+		"atk": 55,
+		"def": 42,
+		"sp_atk": 42,
+		"sp_def": 37,
+		"speed": 85
+	},
+	"evolution_from": null,
+	"evolutions": [
+		{
+			"to": "Purugly",
+			"level": 38
+		}
+	],
+	"species": "Catty Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "When it's happy, Glameow demonstrates beautiful movements of its tail, like a dancing ribbon.",
+	"move_learnset": [
+		{
+			"move": "Fake Out",
+			"level": 1
+		},
+		{
+			"move": "Scratch",
+			"level": 5
+		},
+		{
+			"move": "Growl",
+			"level": 8
+		},
+		{
+			"move": "Hypnosis",
+			"level": 13
+		},
+		{
+			"move": "Feint Attack",
+			"level": 17
+		},
+		{
+			"move": "Fury Swipes",
+			"level": 20
+		},
+		{
+			"move": "Charm",
+			"level": 25
+		},
+		{
+			"move": "Assist",
+			"level": 29
+		},
+		{
+			"move": "Captivate",
+			"level": 32
+		},
+		{
+			"move": "Slash",
+			"level": 37
+		},
+		{
+			"move": "Sucker Punch",
+			"level": 41
+		},
+		{
+			"move": "Attract",
+			"level": 44
+		},
+		{
+			"move": "Hone Claws",
+			"level": 48
+		},
+		{
+			"move": "Play Rough",
+			"level": 50
+		},
+		{
+			"move": "Assurance",
+			"egg_move": true
+		},
+		{
+			"move": "Bite",
+			"egg_move": true
+		},
+		{
+			"move": "Fake Tears",
+			"egg_move": true
+		},
+		{
+			"move": "Flail",
+			"egg_move": true
+		},
+		{
+			"move": "Last Resort",
+			"egg_move": true
+		},
+		{
+			"move": "Quick Attack",
+			"egg_move": true
+		},
+		{
+			"move": "Sand Attack",
+			"egg_move": true
+		},
+		{
+			"move": "Snatch",
+			"egg_move": true
+		},
+		{
+			"move": "Tail Whip",
+			"egg_move": true
+		},
+		{
+			"move": "Wake-Up Slap",
+			"egg_move": true
+		},
+		{
+			"move": "Work Up",
+			"tm": "TM1"
+		},
+		{
+			"move": "Toxic",
+			"tm": "TM6"
+		},
+		{
+			"move": "Hidden Power",
+			"tm": "TM10"
+		},
+		{
+			"move": "Sunny Day",
+			"tm": "TM11"
+		},
+		{
+			"move": "Taunt",
+			"tm": "TM12"
+		},
+		{
+			"move": "Protect",
+			"tm": "TM17"
+		},
+		{
+			"move": "Rain Dance",
+			"tm": "TM18"
+		},
+		{
+			"move": "Frustration",
+			"tm": "TM21"
+		},
+		{
+			"move": "Thunderbolt",
+			"tm": "TM24"
+		},
+		{
+			"move": "Thunder",
+			"tm": "TM25"
+		},
+		{
+			"move": "Return",
+			"tm": "TM27"
+		},
+		{
+			"move": "Shadow Ball",
+			"tm": "TM30"
+		},
+		{
+			"move": "Double Team",
+			"tm": "TM32"
+		},
+		{
+			"move": "Aerial Ace",
+			"tm": "TM40"
+		},
+		{
+			"move": "Torment",
+			"tm": "TM41"
+		},
+		{
+			"move": "Facade",
+			"tm": "TM42"
+		},
+		{
+			"move": "Rest",
+			"tm": "TM44"
+		},
+		{
+			"move": "Attract",
+			"tm": "TM45"
+		},
+		{
+			"move": "Thief",
+			"tm": "TM46"
+		},
+		{
+			"move": "Round",
+			"tm": "TM48"
+		},
+		{
+			"move": "Echoed Voice",
+			"tm": "TM49"
+		},
+		{
+			"move": "Shadow Claw",
+			"tm": "TM65"
+		},
+		{
+			"move": "Payback",
+			"tm": "TM66"
+		},
+		{
+			"move": "Psych Up",
+			"tm": "TM77"
+		},
+		{
+			"move": "Dream Eater",
+			"tm": "TM85"
+		},
+		{
+			"move": "Swagger",
+			"tm": "TM87"
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": "TM88"
+		},
+		{
+			"move": "U-turn",
+			"tm": "TM89"
+		},
+		{
+			"move": "Substitute",
+			"tm": "TM90"
+		},
+		{
+			"move": "Confide",
+			"tm": "TM100"
+		}
+	]
 }

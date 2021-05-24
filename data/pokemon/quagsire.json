@@ -1,363 +1,354 @@
 {
-    "name": "Quagsire",
-    "national_id": 195,
-    "types": [
-        "Water",
-        "Ground"
-    ],
-    "abilities": [
-        {
-            "name": "Damp"
-        },
-        {
-            "name": "Water Absorb"
-        },
-        {
-            "name": "Unaware",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 90,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Water 1",
-        "Field"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "4'07\"",
-    "height_eu": "1.4 m",
-    "weight_us": "165.3 lbs.",
-    "weight_eu": "75.0 kg",
-    "base_exp_yield": 151,
-    "leveling_rate": "Medium Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 2,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 95,
-        "atk": 85,
-        "def": 85,
-        "sp_atk": 65,
-        "sp_def": 65,
-        "speed": 35
-    },
-    "evolution_from": "Wooper",
-    "evolutions": [],
-    "species": "Water Fish Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "Its body is always slimy. It often bangs its head on the river bottom as it swims but seems not to care.",
-    "move_learnset": [
-        {
-            "move": "Water Gun",
-            "level": 1
-        },
-        {
-            "move": "Tail Whip",
-            "level": 1
-        },
-        {
-            "move": "Rain Dance",
-            "level": 1
-        },
-        {
-            "move": "Mud Shot",
-            "level": 1
-        },
-        {
-            "move": "Mist",
-            "level": 12
-        },
-        {
-            "move": "Haze",
-            "level": 12
-        },
-        {
-            "move": "Slam",
-            "level": 16
-        },
-        {
-            "move": "Yawn",
-            "level": 23
-        },
-        {
-            "move": "Aqua Tail",
-            "level": 28
-        },
-        {
-            "move": "Muddy Water",
-            "level": 34
-        },
-        {
-            "move": "Amnesia",
-            "level": 40
-        },
-        {
-            "move": "Toxic",
-            "level": 46
-        },
-        {
-            "move": "Earthquake",
-            "level": 52
-        },
-        {
-            "move": "Mega Punch",
-            "tm": true
-        },
-        {
-            "move": "Mega Kick",
-            "tm": true
-        },
-        {
-            "move": "Ice Punch",
-            "tm": true
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": true
-        },
-        {
-            "move": "Giga Impact",
-            "tm": true
-        },
-        {
-            "move": "Dig",
-            "tm": true
-        },
-        {
-            "move": "Safeguard",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Rock Slide",
-            "tm": true
-        },
-        {
-            "move": "Thief",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Icy Wind",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Sandstorm",
-            "tm": true
-        },
-        {
-            "move": "Rain Dance",
-            "tm": true
-        },
-        {
-            "move": "Hail",
-            "tm": true
-        },
-        {
-            "move": "Whirlpool",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Brick Break",
-            "tm": true
-        },
-        {
-            "move": "Dive",
-            "tm": true
-        },
-        {
-            "move": "Rock Tomb",
-            "tm": true
-        },
-        {
-            "move": "Mud Shot",
-            "tm": true
-        },
-        {
-            "move": "Fling",
-            "tm": true
-        },
-        {
-            "move": "Guard Swap",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Bulldoze",
-            "tm": true
-        },
-        {
-            "move": "Eerie Impulse",
-            "tm": true
-        },
-        {
-            "move": "Stomping Tantrum",
-            "tm": true
-        },
-        {
-            "move": "Body Slam",
-            "tm": true
-        },
-        {
-            "move": "Hydro Pump",
-            "tm": true
-        },
-        {
-            "move": "Surf",
-            "tm": true
-        },
-        {
-            "move": "Ice Beam",
-            "tm": true
-        },
-        {
-            "move": "Blizzard",
-            "tm": true
-        },
-        {
-            "move": "Earthquake",
-            "tm": true
-        },
-        {
-            "move": "Waterfall",
-            "tm": true
-        },
-        {
-            "move": "Amnesia",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Sludge Bomb",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Encore",
-            "tm": true
-        },
-        {
-            "move": "Iron Tail",
-            "tm": true
-        },
-        {
-            "move": "Muddy Water",
-            "tm": true
-        },
-        {
-            "move": "Focus Blast",
-            "tm": true
-        },
-        {
-            "move": "Earth Power",
-            "tm": true
-        },
-        {
-            "move": "Stone Edge",
-            "tm": true
-        },
-        {
-            "move": "Sludge Wave",
-            "tm": true
-        },
-        {
-            "move": "Scald",
-            "tm": true
-        },
-        {
-            "move": "High Horsepower",
-            "tm": true
-        },
-        {
-            "move": "Liquidation",
-            "tm": true
-        },
-        {
-            "move": "Ancient Power",
-            "egg_move": true
-        },
-        {
-            "move": "Curse",
-            "egg_move": true
-        },
-        {
-            "move": "Stockpile",
-            "egg_move": true
-        },
-        {
-            "move": "Swallow",
-            "egg_move": true
-        },
-        {
-            "move": "Spit Up",
-            "egg_move": true
-        },
-        {
-            "move": "Counter",
-            "egg_move": true
-        },
-        {
-            "move": "Double Kick",
-            "egg_move": true
-        },
-        {
-            "move": "Recover",
-            "egg_move": true
-        },
-        {
-            "move": "After You",
-            "egg_move": true
-        },
-        {
-            "move": "Acid Spray",
-            "egg_move": true
-        },
-        {
-            "move": "Power-Up Punch",
-            "egg_move": true
-        }
-    ]
+	"name": "Quagsire",
+	"national_id": 195,
+	"types": ["Water", "Ground"],
+	"abilities": [
+		{
+			"name": "Damp"
+		},
+		{
+			"name": "Water Absorb"
+		},
+		{
+			"name": "Unaware",
+			"hidden": true
+		}
+	],
+	"catch_rate": 90,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Water 1", "Field"],
+	"hatch_time": [5355, 5609],
+	"height_us": "4'07\"",
+	"height_eu": "1.4 m",
+	"weight_us": "165.3 lbs.",
+	"weight_eu": "75.0 kg",
+	"base_exp_yield": 151,
+	"leveling_rate": "Medium Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 2,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 95,
+		"atk": 85,
+		"def": 85,
+		"sp_atk": 65,
+		"sp_def": 65,
+		"speed": 35
+	},
+	"evolution_from": "Wooper",
+	"evolutions": [],
+	"species": "Water Fish Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "Its body is always slimy. It often bangs its head on the river bottom as it swims but seems not to care.",
+	"move_learnset": [
+		{
+			"move": "Water Gun",
+			"level": 1
+		},
+		{
+			"move": "Tail Whip",
+			"level": 1
+		},
+		{
+			"move": "Rain Dance",
+			"level": 1
+		},
+		{
+			"move": "Mud Shot",
+			"level": 1
+		},
+		{
+			"move": "Mist",
+			"level": 12
+		},
+		{
+			"move": "Haze",
+			"level": 12
+		},
+		{
+			"move": "Slam",
+			"level": 16
+		},
+		{
+			"move": "Yawn",
+			"level": 23
+		},
+		{
+			"move": "Aqua Tail",
+			"level": 28
+		},
+		{
+			"move": "Muddy Water",
+			"level": 34
+		},
+		{
+			"move": "Amnesia",
+			"level": 40
+		},
+		{
+			"move": "Toxic",
+			"level": 46
+		},
+		{
+			"move": "Earthquake",
+			"level": 52
+		},
+		{
+			"move": "Mega Punch",
+			"tm": true
+		},
+		{
+			"move": "Mega Kick",
+			"tm": true
+		},
+		{
+			"move": "Ice Punch",
+			"tm": true
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": true
+		},
+		{
+			"move": "Giga Impact",
+			"tm": true
+		},
+		{
+			"move": "Dig",
+			"tm": true
+		},
+		{
+			"move": "Safeguard",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Rock Slide",
+			"tm": true
+		},
+		{
+			"move": "Thief",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Icy Wind",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Sandstorm",
+			"tm": true
+		},
+		{
+			"move": "Rain Dance",
+			"tm": true
+		},
+		{
+			"move": "Hail",
+			"tm": true
+		},
+		{
+			"move": "Whirlpool",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Brick Break",
+			"tm": true
+		},
+		{
+			"move": "Dive",
+			"tm": true
+		},
+		{
+			"move": "Rock Tomb",
+			"tm": true
+		},
+		{
+			"move": "Mud Shot",
+			"tm": true
+		},
+		{
+			"move": "Fling",
+			"tm": true
+		},
+		{
+			"move": "Guard Swap",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Bulldoze",
+			"tm": true
+		},
+		{
+			"move": "Eerie Impulse",
+			"tm": true
+		},
+		{
+			"move": "Stomping Tantrum",
+			"tm": true
+		},
+		{
+			"move": "Body Slam",
+			"tm": true
+		},
+		{
+			"move": "Hydro Pump",
+			"tm": true
+		},
+		{
+			"move": "Surf",
+			"tm": true
+		},
+		{
+			"move": "Ice Beam",
+			"tm": true
+		},
+		{
+			"move": "Blizzard",
+			"tm": true
+		},
+		{
+			"move": "Earthquake",
+			"tm": true
+		},
+		{
+			"move": "Waterfall",
+			"tm": true
+		},
+		{
+			"move": "Amnesia",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Sludge Bomb",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Encore",
+			"tm": true
+		},
+		{
+			"move": "Iron Tail",
+			"tm": true
+		},
+		{
+			"move": "Muddy Water",
+			"tm": true
+		},
+		{
+			"move": "Focus Blast",
+			"tm": true
+		},
+		{
+			"move": "Earth Power",
+			"tm": true
+		},
+		{
+			"move": "Stone Edge",
+			"tm": true
+		},
+		{
+			"move": "Sludge Wave",
+			"tm": true
+		},
+		{
+			"move": "Scald",
+			"tm": true
+		},
+		{
+			"move": "High Horsepower",
+			"tm": true
+		},
+		{
+			"move": "Liquidation",
+			"tm": true
+		},
+		{
+			"move": "Ancient Power",
+			"egg_move": true
+		},
+		{
+			"move": "Curse",
+			"egg_move": true
+		},
+		{
+			"move": "Stockpile",
+			"egg_move": true
+		},
+		{
+			"move": "Swallow",
+			"egg_move": true
+		},
+		{
+			"move": "Spit Up",
+			"egg_move": true
+		},
+		{
+			"move": "Counter",
+			"egg_move": true
+		},
+		{
+			"move": "Double Kick",
+			"egg_move": true
+		},
+		{
+			"move": "Recover",
+			"egg_move": true
+		},
+		{
+			"move": "After You",
+			"egg_move": true
+		},
+		{
+			"move": "Acid Spray",
+			"egg_move": true
+		},
+		{
+			"move": "Power-Up Punch",
+			"egg_move": true
+		}
+	]
 }

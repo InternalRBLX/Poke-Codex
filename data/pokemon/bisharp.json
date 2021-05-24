@@ -1,326 +1,318 @@
 {
-    "name": "Bisharp",
-    "national_id": 625,
-    "types": [
-        "Dark",
-        "Steel"
-    ],
-    "abilities": [
-        {
-            "name": "Defiant"
-        },
-        {
-            "name": "Inner Focus"
-        },
-        {
-            "name": "Pressure",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 45,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Human-Like"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "5'03\"",
-    "height_eu": "1.6 m",
-    "weight_us": "154.3 lbs.",
-    "weight_eu": "70.0 kg",
-    "base_exp_yield": 172,
-    "leveling_rate": "Medium Fast",
-    "base_friendship": 35,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 2,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 65,
-        "atk": 125,
-        "def": 100,
-        "sp_atk": 60,
-        "sp_def": 70,
-        "speed": 70
-    },
-    "evolution_from": "Pawniard",
-    "evolutions": [],
-    "species": "Sword Blade  Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "Bisharp pursues prey in the company of a large group of Pawniard. Then Bisharp finishes off the prey.",
-    "move_learnset": [
-        {
-            "move": "Metal Burst",
-            "level": 1
-        },
-        {
-            "move": "Scratch",
-            "level": 1
-        },
-        {
-            "move": "Leer",
-            "level": 1
-        },
-        {
-            "move": "Fury Cutter",
-            "level": 1
-        },
-        {
-            "move": "Metal Claw",
-            "level": 1
-        },
-        {
-            "move": "Torment",
-            "level": 15
-        },
-        {
-            "move": "Scary Face",
-            "level": 20
-        },
-        {
-            "move": "Assurance",
-            "level": 25
-        },
-        {
-            "move": "Metal Sound",
-            "level": 30
-        },
-        {
-            "move": "Slash",
-            "level": 35
-        },
-        {
-            "move": "Night Slash",
-            "level": 40
-        },
-        {
-            "move": "Iron Defense",
-            "level": 45
-        },
-        {
-            "move": "Laser Focus",
-            "level": 50
-        },
-        {
-            "move": "Iron Head",
-            "level": 57
-        },
-        {
-            "move": "Swords Dance",
-            "level": 64
-        },
-        {
-            "move": "Guillotine",
-            "level": 71
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": true
-        },
-        {
-            "move": "Giga Impact",
-            "tm": true
-        },
-        {
-            "move": "Thunder Wave",
-            "tm": true
-        },
-        {
-            "move": "Dig",
-            "tm": true
-        },
-        {
-            "move": "Screech",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Thief",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Scary Face",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Sandstorm",
-            "tm": true
-        },
-        {
-            "move": "Rain Dance",
-            "tm": true
-        },
-        {
-            "move": "Beat Up",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Revenge",
-            "tm": true
-        },
-        {
-            "move": "Brick Break",
-            "tm": true
-        },
-        {
-            "move": "Rock Tomb",
-            "tm": true
-        },
-        {
-            "move": "Payback",
-            "tm": true
-        },
-        {
-            "move": "Assurance",
-            "tm": true
-        },
-        {
-            "move": "Fling",
-            "tm": true
-        },
-        {
-            "move": "Shadow Claw",
-            "tm": true
-        },
-        {
-            "move": "Psycho Cut",
-            "tm": true
-        },
-        {
-            "move": "Low Sweep",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Retaliate",
-            "tm": true
-        },
-        {
-            "move": "Snarl",
-            "tm": true
-        },
-        {
-            "move": "False Swipe",
-            "tm": true
-        },
-        {
-            "move": "Air Slash",
-            "tm": true
-        },
-        {
-            "move": "Swords Dance",
-            "tm": true
-        },
-        {
-            "move": "Low Kick",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Taunt",
-            "tm": true
-        },
-        {
-            "move": "Iron Defense",
-            "tm": true
-        },
-        {
-            "move": "Poison Jab",
-            "tm": true
-        },
-        {
-            "move": "Dark Pulse",
-            "tm": true
-        },
-        {
-            "move": "X-Scissor",
-            "tm": true
-        },
-        {
-            "move": "Focus Blast",
-            "tm": true
-        },
-        {
-            "move": "Iron Head",
-            "tm": true
-        },
-        {
-            "move": "Stone Edge",
-            "tm": true
-        },
-        {
-            "move": "Stealth Rock",
-            "tm": true
-        },
-        {
-            "move": "Grass Knot",
-            "tm": true
-        },
-        {
-            "move": "Foul Play",
-            "tm": true
-        },
-        {
-            "move": "Throat Chop",
-            "tm": true
-        },
-        {
-            "move": "Sucker Punch",
-            "egg_move": true
-        },
-        {
-            "move": "Headbutt",
-            "egg_move": true
-        },
-        {
-            "move": "Mean Look",
-            "egg_move": true
-        },
-        {
-            "move": "Quick Guard",
-            "egg_move": true
-        }
-    ]
+	"name": "Bisharp",
+	"national_id": 625,
+	"types": ["Dark", "Steel"],
+	"abilities": [
+		{
+			"name": "Defiant"
+		},
+		{
+			"name": "Inner Focus"
+		},
+		{
+			"name": "Pressure",
+			"hidden": true
+		}
+	],
+	"catch_rate": 45,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Human-Like"],
+	"hatch_time": [5355, 5609],
+	"height_us": "5'03\"",
+	"height_eu": "1.6 m",
+	"weight_us": "154.3 lbs.",
+	"weight_eu": "70.0 kg",
+	"base_exp_yield": 172,
+	"leveling_rate": "Medium Fast",
+	"base_friendship": 35,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 2,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 65,
+		"atk": 125,
+		"def": 100,
+		"sp_atk": 60,
+		"sp_def": 70,
+		"speed": 70
+	},
+	"evolution_from": "Pawniard",
+	"evolutions": [],
+	"species": "Sword Blade  Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "Bisharp pursues prey in the company of a large group of Pawniard. Then Bisharp finishes off the prey.",
+	"move_learnset": [
+		{
+			"move": "Metal Burst",
+			"level": 1
+		},
+		{
+			"move": "Scratch",
+			"level": 1
+		},
+		{
+			"move": "Leer",
+			"level": 1
+		},
+		{
+			"move": "Fury Cutter",
+			"level": 1
+		},
+		{
+			"move": "Metal Claw",
+			"level": 1
+		},
+		{
+			"move": "Torment",
+			"level": 15
+		},
+		{
+			"move": "Scary Face",
+			"level": 20
+		},
+		{
+			"move": "Assurance",
+			"level": 25
+		},
+		{
+			"move": "Metal Sound",
+			"level": 30
+		},
+		{
+			"move": "Slash",
+			"level": 35
+		},
+		{
+			"move": "Night Slash",
+			"level": 40
+		},
+		{
+			"move": "Iron Defense",
+			"level": 45
+		},
+		{
+			"move": "Laser Focus",
+			"level": 50
+		},
+		{
+			"move": "Iron Head",
+			"level": 57
+		},
+		{
+			"move": "Swords Dance",
+			"level": 64
+		},
+		{
+			"move": "Guillotine",
+			"level": 71
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": true
+		},
+		{
+			"move": "Giga Impact",
+			"tm": true
+		},
+		{
+			"move": "Thunder Wave",
+			"tm": true
+		},
+		{
+			"move": "Dig",
+			"tm": true
+		},
+		{
+			"move": "Screech",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Thief",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Scary Face",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Sandstorm",
+			"tm": true
+		},
+		{
+			"move": "Rain Dance",
+			"tm": true
+		},
+		{
+			"move": "Beat Up",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Revenge",
+			"tm": true
+		},
+		{
+			"move": "Brick Break",
+			"tm": true
+		},
+		{
+			"move": "Rock Tomb",
+			"tm": true
+		},
+		{
+			"move": "Payback",
+			"tm": true
+		},
+		{
+			"move": "Assurance",
+			"tm": true
+		},
+		{
+			"move": "Fling",
+			"tm": true
+		},
+		{
+			"move": "Shadow Claw",
+			"tm": true
+		},
+		{
+			"move": "Psycho Cut",
+			"tm": true
+		},
+		{
+			"move": "Low Sweep",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Retaliate",
+			"tm": true
+		},
+		{
+			"move": "Snarl",
+			"tm": true
+		},
+		{
+			"move": "False Swipe",
+			"tm": true
+		},
+		{
+			"move": "Air Slash",
+			"tm": true
+		},
+		{
+			"move": "Swords Dance",
+			"tm": true
+		},
+		{
+			"move": "Low Kick",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Taunt",
+			"tm": true
+		},
+		{
+			"move": "Iron Defense",
+			"tm": true
+		},
+		{
+			"move": "Poison Jab",
+			"tm": true
+		},
+		{
+			"move": "Dark Pulse",
+			"tm": true
+		},
+		{
+			"move": "X-Scissor",
+			"tm": true
+		},
+		{
+			"move": "Focus Blast",
+			"tm": true
+		},
+		{
+			"move": "Iron Head",
+			"tm": true
+		},
+		{
+			"move": "Stone Edge",
+			"tm": true
+		},
+		{
+			"move": "Stealth Rock",
+			"tm": true
+		},
+		{
+			"move": "Grass Knot",
+			"tm": true
+		},
+		{
+			"move": "Foul Play",
+			"tm": true
+		},
+		{
+			"move": "Throat Chop",
+			"tm": true
+		},
+		{
+			"move": "Sucker Punch",
+			"egg_move": true
+		},
+		{
+			"move": "Headbutt",
+			"egg_move": true
+		},
+		{
+			"move": "Mean Look",
+			"egg_move": true
+		},
+		{
+			"move": "Quick Guard",
+			"egg_move": true
+		}
+	]
 }

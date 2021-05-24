@@ -1,4 +1,4 @@
 export class Trade {
-    public trading: [] = [];
-    public userAsk
+	public trading: [] = [];
+	public userAsk;
 }

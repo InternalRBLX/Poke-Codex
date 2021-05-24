@@ -1,296 +1,289 @@
 {
-    "name": "Growlithe",
-    "national_id": 58,
-    "types": [
-        "Fire"
-    ],
-    "items": [
-        {
-            "name": "Rawst Berry",
-            "chance": 50
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Intimidate"
-        },
-        {
-            "name": "Flash Fire"
-        },
-        {
-            "name": "Justified",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 190,
-    "gender_ratios": {
-        "male": 75,
-        "female": 25
-    },
-    "egg_groups": [
-        "Field"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "2'04\"",
-    "height_eu": "0.7 m",
-    "weight_us": "41.9 lbs.",
-    "weight_eu": "19.0 kg",
-    "base_exp_yield": 70,
-    "leveling_rate": "Slow",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 1,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 55,
-        "atk": 70,
-        "def": 45,
-        "sp_atk": 70,
-        "sp_def": 50,
-        "speed": 60
-    },
-    "evolution_from": null,
-    "evolutions": [
-        {
-            "to": "Arcanine",
-            "item": "Fire Stone"
-        }
-    ],
-    "species": "Puppy Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "Extremely loyal, it will fearlessly bark at any opponent to protect its own Trainer from harm.",
-    "move_learnset": [
-        {
-            "move": "Ember",
-            "level": 1
-        },
-        {
-            "move": "Leer",
-            "level": 1
-        },
-        {
-            "move": "Howl",
-            "level": 4
-        },
-        {
-            "move": "Bite",
-            "level": 8
-        },
-        {
-            "move": "Flame Wheel",
-            "level": 12
-        },
-        {
-            "move": "Helping Hand",
-            "level": 16
-        },
-        {
-            "move": "Agility",
-            "level": 20
-        },
-        {
-            "move": "Fire Fang",
-            "level": 24
-        },
-        {
-            "move": "Retaliate",
-            "level": 28
-        },
-        {
-            "move": "Crunch",
-            "level": 32
-        },
-        {
-            "move": "Take Down",
-            "level": 36
-        },
-        {
-            "move": "Flamethrower",
-            "level": 40
-        },
-        {
-            "move": "Roar",
-            "level": 44
-        },
-        {
-            "move": "Play Rough",
-            "level": 48
-        },
-        {
-            "move": "Reversal",
-            "level": 52
-        },
-        {
-            "move": "Flare Blitz",
-            "level": 56
-        },
-        {
-            "move": "Fire Spin",
-            "tm": true
-        },
-        {
-            "move": "Dig",
-            "tm": true
-        },
-        {
-            "move": "Safeguard",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Thief",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Sunny Day",
-            "tm": true
-        },
-        {
-            "move": "Will-O-Wisp",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Swift",
-            "tm": true
-        },
-        {
-            "move": "Helping Hand",
-            "tm": true
-        },
-        {
-            "move": "Fire Fang",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Retaliate",
-            "tm": true
-        },
-        {
-            "move": "Snarl",
-            "tm": true
-        },
-        {
-            "move": "Body Slam",
-            "tm": true
-        },
-        {
-            "move": "Flamethrower",
-            "tm": true
-        },
-        {
-            "move": "Agility",
-            "tm": true
-        },
-        {
-            "move": "Fire Blast",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Reversal",
-            "tm": true
-        },
-        {
-            "move": "Outrage",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Iron Tail",
-            "tm": true
-        },
-        {
-            "move": "Crunch",
-            "tm": true
-        },
-        {
-            "move": "Heat Wave",
-            "tm": true
-        },
-        {
-            "move": "Overheat",
-            "tm": true
-        },
-        {
-            "move": "Close Combat",
-            "tm": true
-        },
-        {
-            "move": "Flare Blitz",
-            "tm": true
-        },
-        {
-            "move": "Wild Charge",
-            "tm": true
-        },
-        {
-            "move": "Play Rough",
-            "tm": true
-        },
-        {
-            "move": "Psychic Fangs",
-            "tm": true
-        },
-        {
-            "move": "Thrash",
-            "egg_move": true
-        },
-        {
-            "move": "Double-Edge",
-            "egg_move": true
-        },
-        {
-            "move": "Morning Sun",
-            "egg_move": true
-        },
-        {
-            "move": "Covet",
-            "egg_move": true
-        },
-        {
-            "move": "Double Kick",
-            "egg_move": true
-        }
-    ]
+	"name": "Growlithe",
+	"national_id": 58,
+	"types": ["Fire"],
+	"items": [
+		{
+			"name": "Rawst Berry",
+			"chance": 50
+		}
+	],
+	"abilities": [
+		{
+			"name": "Intimidate"
+		},
+		{
+			"name": "Flash Fire"
+		},
+		{
+			"name": "Justified",
+			"hidden": true
+		}
+	],
+	"catch_rate": 190,
+	"gender_ratios": {
+		"male": 75,
+		"female": 25
+	},
+	"egg_groups": ["Field"],
+	"hatch_time": [5355, 5609],
+	"height_us": "2'04\"",
+	"height_eu": "0.7 m",
+	"weight_us": "41.9 lbs.",
+	"weight_eu": "19.0 kg",
+	"base_exp_yield": 70,
+	"leveling_rate": "Slow",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 1,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 55,
+		"atk": 70,
+		"def": 45,
+		"sp_atk": 70,
+		"sp_def": 50,
+		"speed": 60
+	},
+	"evolution_from": null,
+	"evolutions": [
+		{
+			"to": "Arcanine",
+			"item": "Fire Stone"
+		}
+	],
+	"species": "Puppy Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "Extremely loyal, it will fearlessly bark at any opponent to protect its own Trainer from harm.",
+	"move_learnset": [
+		{
+			"move": "Ember",
+			"level": 1
+		},
+		{
+			"move": "Leer",
+			"level": 1
+		},
+		{
+			"move": "Howl",
+			"level": 4
+		},
+		{
+			"move": "Bite",
+			"level": 8
+		},
+		{
+			"move": "Flame Wheel",
+			"level": 12
+		},
+		{
+			"move": "Helping Hand",
+			"level": 16
+		},
+		{
+			"move": "Agility",
+			"level": 20
+		},
+		{
+			"move": "Fire Fang",
+			"level": 24
+		},
+		{
+			"move": "Retaliate",
+			"level": 28
+		},
+		{
+			"move": "Crunch",
+			"level": 32
+		},
+		{
+			"move": "Take Down",
+			"level": 36
+		},
+		{
+			"move": "Flamethrower",
+			"level": 40
+		},
+		{
+			"move": "Roar",
+			"level": 44
+		},
+		{
+			"move": "Play Rough",
+			"level": 48
+		},
+		{
+			"move": "Reversal",
+			"level": 52
+		},
+		{
+			"move": "Flare Blitz",
+			"level": 56
+		},
+		{
+			"move": "Fire Spin",
+			"tm": true
+		},
+		{
+			"move": "Dig",
+			"tm": true
+		},
+		{
+			"move": "Safeguard",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Thief",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Sunny Day",
+			"tm": true
+		},
+		{
+			"move": "Will-O-Wisp",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Swift",
+			"tm": true
+		},
+		{
+			"move": "Helping Hand",
+			"tm": true
+		},
+		{
+			"move": "Fire Fang",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Retaliate",
+			"tm": true
+		},
+		{
+			"move": "Snarl",
+			"tm": true
+		},
+		{
+			"move": "Body Slam",
+			"tm": true
+		},
+		{
+			"move": "Flamethrower",
+			"tm": true
+		},
+		{
+			"move": "Agility",
+			"tm": true
+		},
+		{
+			"move": "Fire Blast",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Reversal",
+			"tm": true
+		},
+		{
+			"move": "Outrage",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Iron Tail",
+			"tm": true
+		},
+		{
+			"move": "Crunch",
+			"tm": true
+		},
+		{
+			"move": "Heat Wave",
+			"tm": true
+		},
+		{
+			"move": "Overheat",
+			"tm": true
+		},
+		{
+			"move": "Close Combat",
+			"tm": true
+		},
+		{
+			"move": "Flare Blitz",
+			"tm": true
+		},
+		{
+			"move": "Wild Charge",
+			"tm": true
+		},
+		{
+			"move": "Play Rough",
+			"tm": true
+		},
+		{
+			"move": "Psychic Fangs",
+			"tm": true
+		},
+		{
+			"move": "Thrash",
+			"egg_move": true
+		},
+		{
+			"move": "Double-Edge",
+			"egg_move": true
+		},
+		{
+			"move": "Morning Sun",
+			"egg_move": true
+		},
+		{
+			"move": "Covet",
+			"egg_move": true
+		},
+		{
+			"move": "Double Kick",
+			"egg_move": true
+		}
+	]
 }

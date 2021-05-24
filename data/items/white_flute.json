@@ -1,8 +1,8 @@
 {
-    "name": "White Flute",
-    "sell_price": 250,
-    "holdable": false,
-    "battle": false,
-    "category": "Item",
-    "subcategory": "Flute"
+	"name": "White Flute",
+	"sell_price": 250,
+	"holdable": false,
+	"battle": false,
+	"category": "Item",
+	"subcategory": "Flute"
 }

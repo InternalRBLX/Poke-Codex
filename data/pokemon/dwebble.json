@@ -1,258 +1,249 @@
 {
-    "name": "Dwebble",
-    "national_id": 557,
-    "types": [
-        "Bug",
-        "Rock"
-    ],
-    "items": [
-        {
-            "name": "Hard Stone",
-            "chance": 5
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Sturdy"
-        },
-        {
-            "name": "Shell Armor"
-        },
-        {
-            "name": "Weak Armor",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 190,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Bug",
-        "Mineral"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "1'00\"",
-    "height_eu": "0.3 m",
-    "weight_us": "32.0 lbs.",
-    "weight_eu": "14.5 kg",
-    "base_exp_yield": 65,
-    "leveling_rate": "Medium Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 1,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 50,
-        "atk": 65,
-        "def": 85,
-        "sp_atk": 35,
-        "sp_def": 35,
-        "speed": 55
-    },
-    "evolution_from": null,
-    "evolutions": [
-        {
-            "to": "Crustle",
-            "level": 34
-        }
-    ],
-    "species": "Rock Inn Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "It first tries to find a rock to live in, but if there are no suitable rocks to be found, Dwebble may move in to the ports of a Hippowdon.",
-    "move_learnset": [
-        {
-            "move": "Fury Cutter",
-            "level": 1
-        },
-        {
-            "move": "Sand Attack",
-            "level": 1
-        },
-        {
-            "move": "Withdraw",
-            "level": 4
-        },
-        {
-            "move": "Smack Down",
-            "level": 8
-        },
-        {
-            "move": "Bug Bite",
-            "level": 12
-        },
-        {
-            "move": "Flail",
-            "level": 16
-        },
-        {
-            "move": "Slash",
-            "level": 20
-        },
-        {
-            "move": "Rock Slide",
-            "level": 24
-        },
-        {
-            "move": "Stealth Rock",
-            "level": 28
-        },
-        {
-            "move": "Rock Blast",
-            "level": 32
-        },
-        {
-            "move": "X-Scissor",
-            "level": 36
-        },
-        {
-            "move": "Rock Polish",
-            "level": 40
-        },
-        {
-            "move": "Shell Smash",
-            "level": 44
-        },
-        {
-            "move": "Rock Wrecker",
-            "level": 48
-        },
-        {
-            "move": "Solar Beam",
-            "tm": true
-        },
-        {
-            "move": "Dig",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Rock Slide",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Sandstorm",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Rock Tomb",
-            "tm": true
-        },
-        {
-            "move": "Sand Tomb",
-            "tm": true
-        },
-        {
-            "move": "Rock Blast",
-            "tm": true
-        },
-        {
-            "move": "Shadow Claw",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Bulldoze",
-            "tm": true
-        },
-        {
-            "move": "Swords Dance",
-            "tm": true
-        },
-        {
-            "move": "Earthquake",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Spikes",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Iron Defense",
-            "tm": true
-        },
-        {
-            "move": "Poison Jab",
-            "tm": true
-        },
-        {
-            "move": "X-Scissor",
-            "tm": true
-        },
-        {
-            "move": "Stone Edge",
-            "tm": true
-        },
-        {
-            "move": "Stealth Rock",
-            "tm": true
-        },
-        {
-            "move": "Night Slash",
-            "egg_move": true
-        },
-        {
-            "move": "Counter",
-            "egg_move": true
-        },
-        {
-            "move": "Curse",
-            "egg_move": true
-        },
-        {
-            "move": "Block",
-            "egg_move": true
-        },
-        {
-            "move": "Wide Guard",
-            "egg_move": true
-        },
-        {
-            "move": "Knock Off",
-            "egg_move": true
-        }
-    ]
+	"name": "Dwebble",
+	"national_id": 557,
+	"types": ["Bug", "Rock"],
+	"items": [
+		{
+			"name": "Hard Stone",
+			"chance": 5
+		}
+	],
+	"abilities": [
+		{
+			"name": "Sturdy"
+		},
+		{
+			"name": "Shell Armor"
+		},
+		{
+			"name": "Weak Armor",
+			"hidden": true
+		}
+	],
+	"catch_rate": 190,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Bug", "Mineral"],
+	"hatch_time": [5355, 5609],
+	"height_us": "1'00\"",
+	"height_eu": "0.3 m",
+	"weight_us": "32.0 lbs.",
+	"weight_eu": "14.5 kg",
+	"base_exp_yield": 65,
+	"leveling_rate": "Medium Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 1,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 50,
+		"atk": 65,
+		"def": 85,
+		"sp_atk": 35,
+		"sp_def": 35,
+		"speed": 55
+	},
+	"evolution_from": null,
+	"evolutions": [
+		{
+			"to": "Crustle",
+			"level": 34
+		}
+	],
+	"species": "Rock Inn Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "It first tries to find a rock to live in, but if there are no suitable rocks to be found, Dwebble may move in to the ports of a Hippowdon.",
+	"move_learnset": [
+		{
+			"move": "Fury Cutter",
+			"level": 1
+		},
+		{
+			"move": "Sand Attack",
+			"level": 1
+		},
+		{
+			"move": "Withdraw",
+			"level": 4
+		},
+		{
+			"move": "Smack Down",
+			"level": 8
+		},
+		{
+			"move": "Bug Bite",
+			"level": 12
+		},
+		{
+			"move": "Flail",
+			"level": 16
+		},
+		{
+			"move": "Slash",
+			"level": 20
+		},
+		{
+			"move": "Rock Slide",
+			"level": 24
+		},
+		{
+			"move": "Stealth Rock",
+			"level": 28
+		},
+		{
+			"move": "Rock Blast",
+			"level": 32
+		},
+		{
+			"move": "X-Scissor",
+			"level": 36
+		},
+		{
+			"move": "Rock Polish",
+			"level": 40
+		},
+		{
+			"move": "Shell Smash",
+			"level": 44
+		},
+		{
+			"move": "Rock Wrecker",
+			"level": 48
+		},
+		{
+			"move": "Solar Beam",
+			"tm": true
+		},
+		{
+			"move": "Dig",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Rock Slide",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Sandstorm",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Rock Tomb",
+			"tm": true
+		},
+		{
+			"move": "Sand Tomb",
+			"tm": true
+		},
+		{
+			"move": "Rock Blast",
+			"tm": true
+		},
+		{
+			"move": "Shadow Claw",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Bulldoze",
+			"tm": true
+		},
+		{
+			"move": "Swords Dance",
+			"tm": true
+		},
+		{
+			"move": "Earthquake",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Spikes",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Iron Defense",
+			"tm": true
+		},
+		{
+			"move": "Poison Jab",
+			"tm": true
+		},
+		{
+			"move": "X-Scissor",
+			"tm": true
+		},
+		{
+			"move": "Stone Edge",
+			"tm": true
+		},
+		{
+			"move": "Stealth Rock",
+			"tm": true
+		},
+		{
+			"move": "Night Slash",
+			"egg_move": true
+		},
+		{
+			"move": "Counter",
+			"egg_move": true
+		},
+		{
+			"move": "Curse",
+			"egg_move": true
+		},
+		{
+			"move": "Block",
+			"egg_move": true
+		},
+		{
+			"move": "Wide Guard",
+			"egg_move": true
+		},
+		{
+			"move": "Knock Off",
+			"egg_move": true
+		}
+	]
 }

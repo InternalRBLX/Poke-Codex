@@ -1,312 +1,305 @@
 {
-    "name": "Makuhita",
-    "national_id": 296,
-    "types": [
-        "Fighting"
-    ],
-    "items": [
-        {
-            "name": "Black Belt",
-            "chance": 5
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Thick Fat"
-        },
-        {
-            "name": "Guts"
-        },
-        {
-            "name": "Sheer Force",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 180,
-    "gender_ratios": {
-        "male": 75,
-        "female": 25
-    },
-    "egg_groups": [
-        "Human-Like"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "3'03\"",
-    "height_eu": "1.0 m",
-    "weight_us": "190.5 lbs.",
-    "weight_eu": "86.4 kg",
-    "base_exp_yield": 47,
-    "leveling_rate": "Fluctuating",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 1,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 72,
-        "atk": 60,
-        "def": 30,
-        "sp_atk": 20,
-        "sp_def": 30,
-        "speed": 25
-    },
-    "evolution_from": null,
-    "evolutions": [
-        {
-            "to": "Hariyama",
-            "level": 24
-        }
-    ],
-    "species": "Guts Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "Makuhita has a tireless spirit—it will never give up hope. It eats a lot of food, gets plenty of sleep, and it trains very rigorously. By living that way, this Pokémon packs its body with energy.",
-    "move_learnset": [
-        {
-            "move": "Focus Energy",
-            "level": 1
-        },
-        {
-            "move": "Tackle",
-            "level": 1
-        },
-        {
-            "move": "Sand Attack",
-            "level": 4
-        },
-        {
-            "move": "Arm Thrust",
-            "level": 7
-        },
-        {
-            "move": "Fake Out",
-            "level": 10
-        },
-        {
-            "move": "Force Palm",
-            "level": 13
-        },
-        {
-            "move": "Whirlwind",
-            "level": 16
-        },
-        {
-            "move": "Knock Off",
-            "level": 19
-        },
-        {
-            "move": "Vital Throw",
-            "level": 22
-        },
-        {
-            "move": "Belly Drum",
-            "level": 25
-        },
-        {
-            "move": "Smelling Salts",
-            "level": 28
-        },
-        {
-            "move": "Seismic Toss",
-            "level": 31
-        },
-        {
-            "move": "Wake-Up Slap",
-            "level": 34
-        },
-        {
-            "move": "Endure",
-            "level": 37
-        },
-        {
-            "move": "Close Combat",
-            "level": 40
-        },
-        {
-            "move": "Reversal",
-            "level": 43
-        },
-        {
-            "move": "Heavy Slam",
-            "level": 46
-        },
-        {
-            "move": "Bullet Punch",
-            "egg_move": true
-        },
-        {
-            "move": "Chip Away",
-            "egg_move": true
-        },
-        {
-            "move": "Counter",
-            "egg_move": true
-        },
-        {
-            "move": "Cross Chop",
-            "egg_move": true
-        },
-        {
-            "move": "Detect",
-            "egg_move": true
-        },
-        {
-            "move": "Dynamic Punch",
-            "egg_move": true
-        },
-        {
-            "move": "Feint",
-            "egg_move": true
-        },
-        {
-            "move": "Feint Attack",
-            "egg_move": true
-        },
-        {
-            "move": "Focus Punch",
-            "egg_move": true
-        },
-        {
-            "move": "Foresight",
-            "egg_move": true
-        },
-        {
-            "move": "Helping Hand",
-            "egg_move": true
-        },
-        {
-            "move": "Revenge",
-            "egg_move": true
-        },
-        {
-            "move": "Wake-Up Slap",
-            "egg_move": true
-        },
-        {
-            "move": "Wide Guard",
-            "egg_move": true
-        },
-        {
-            "move": "Work Up",
-            "tm": "TM1"
-        },
-        {
-            "move": "Toxic",
-            "tm": "TM6"
-        },
-        {
-            "move": "Bulk Up",
-            "tm": "TM8"
-        },
-        {
-            "move": "Hidden Power",
-            "tm": "TM10"
-        },
-        {
-            "move": "Sunny Day",
-            "tm": "TM11"
-        },
-        {
-            "move": "Protect",
-            "tm": "TM17"
-        },
-        {
-            "move": "Rain Dance",
-            "tm": "TM18"
-        },
-        {
-            "move": "Frustration",
-            "tm": "TM21"
-        },
-        {
-            "move": "Smack Down",
-            "tm": "TM23"
-        },
-        {
-            "move": "Earthquake",
-            "tm": "TM26"
-        },
-        {
-            "move": "Return",
-            "tm": "TM27"
-        },
-        {
-            "move": "Brick Break",
-            "tm": "TM31"
-        },
-        {
-            "move": "Double Team",
-            "tm": "TM32"
-        },
-        {
-            "move": "Rock Tomb",
-            "tm": "TM39"
-        },
-        {
-            "move": "Facade",
-            "tm": "TM42"
-        },
-        {
-            "move": "Rest",
-            "tm": "TM44"
-        },
-        {
-            "move": "Attract",
-            "tm": "TM45"
-        },
-        {
-            "move": "Low Sweep",
-            "tm": "TM47"
-        },
-        {
-            "move": "Round",
-            "tm": "TM48"
-        },
-        {
-            "move": "Focus Blast",
-            "tm": "TM52"
-        },
-        {
-            "move": "Fling",
-            "tm": "TM56"
-        },
-        {
-            "move": "Bulldoze",
-            "tm": "TM78"
-        },
-        {
-            "move": "Rock Slide",
-            "tm": "TM80"
-        },
-        {
-            "move": "Poison Jab",
-            "tm": "TM84"
-        },
-        {
-            "move": "Swagger",
-            "tm": "TM87"
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": "TM88"
-        },
-        {
-            "move": "Substitute",
-            "tm": "TM90"
-        },
-        {
-            "move": "Surf",
-            "tm": "TM94"
-        },
-        {
-            "move": "Confide",
-            "tm": "TM100"
-        }
-    ]
+	"name": "Makuhita",
+	"national_id": 296,
+	"types": ["Fighting"],
+	"items": [
+		{
+			"name": "Black Belt",
+			"chance": 5
+		}
+	],
+	"abilities": [
+		{
+			"name": "Thick Fat"
+		},
+		{
+			"name": "Guts"
+		},
+		{
+			"name": "Sheer Force",
+			"hidden": true
+		}
+	],
+	"catch_rate": 180,
+	"gender_ratios": {
+		"male": 75,
+		"female": 25
+	},
+	"egg_groups": ["Human-Like"],
+	"hatch_time": [5355, 5609],
+	"height_us": "3'03\"",
+	"height_eu": "1.0 m",
+	"weight_us": "190.5 lbs.",
+	"weight_eu": "86.4 kg",
+	"base_exp_yield": 47,
+	"leveling_rate": "Fluctuating",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 1,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 72,
+		"atk": 60,
+		"def": 30,
+		"sp_atk": 20,
+		"sp_def": 30,
+		"speed": 25
+	},
+	"evolution_from": null,
+	"evolutions": [
+		{
+			"to": "Hariyama",
+			"level": 24
+		}
+	],
+	"species": "Guts Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "Makuhita has a tireless spirit—it will never give up hope. It eats a lot of food, gets plenty of sleep, and it trains very rigorously. By living that way, this Pokémon packs its body with energy.",
+	"move_learnset": [
+		{
+			"move": "Focus Energy",
+			"level": 1
+		},
+		{
+			"move": "Tackle",
+			"level": 1
+		},
+		{
+			"move": "Sand Attack",
+			"level": 4
+		},
+		{
+			"move": "Arm Thrust",
+			"level": 7
+		},
+		{
+			"move": "Fake Out",
+			"level": 10
+		},
+		{
+			"move": "Force Palm",
+			"level": 13
+		},
+		{
+			"move": "Whirlwind",
+			"level": 16
+		},
+		{
+			"move": "Knock Off",
+			"level": 19
+		},
+		{
+			"move": "Vital Throw",
+			"level": 22
+		},
+		{
+			"move": "Belly Drum",
+			"level": 25
+		},
+		{
+			"move": "Smelling Salts",
+			"level": 28
+		},
+		{
+			"move": "Seismic Toss",
+			"level": 31
+		},
+		{
+			"move": "Wake-Up Slap",
+			"level": 34
+		},
+		{
+			"move": "Endure",
+			"level": 37
+		},
+		{
+			"move": "Close Combat",
+			"level": 40
+		},
+		{
+			"move": "Reversal",
+			"level": 43
+		},
+		{
+			"move": "Heavy Slam",
+			"level": 46
+		},
+		{
+			"move": "Bullet Punch",
+			"egg_move": true
+		},
+		{
+			"move": "Chip Away",
+			"egg_move": true
+		},
+		{
+			"move": "Counter",
+			"egg_move": true
+		},
+		{
+			"move": "Cross Chop",
+			"egg_move": true
+		},
+		{
+			"move": "Detect",
+			"egg_move": true
+		},
+		{
+			"move": "Dynamic Punch",
+			"egg_move": true
+		},
+		{
+			"move": "Feint",
+			"egg_move": true
+		},
+		{
+			"move": "Feint Attack",
+			"egg_move": true
+		},
+		{
+			"move": "Focus Punch",
+			"egg_move": true
+		},
+		{
+			"move": "Foresight",
+			"egg_move": true
+		},
+		{
+			"move": "Helping Hand",
+			"egg_move": true
+		},
+		{
+			"move": "Revenge",
+			"egg_move": true
+		},
+		{
+			"move": "Wake-Up Slap",
+			"egg_move": true
+		},
+		{
+			"move": "Wide Guard",
+			"egg_move": true
+		},
+		{
+			"move": "Work Up",
+			"tm": "TM1"
+		},
+		{
+			"move": "Toxic",
+			"tm": "TM6"
+		},
+		{
+			"move": "Bulk Up",
+			"tm": "TM8"
+		},
+		{
+			"move": "Hidden Power",
+			"tm": "TM10"
+		},
+		{
+			"move": "Sunny Day",
+			"tm": "TM11"
+		},
+		{
+			"move": "Protect",
+			"tm": "TM17"
+		},
+		{
+			"move": "Rain Dance",
+			"tm": "TM18"
+		},
+		{
+			"move": "Frustration",
+			"tm": "TM21"
+		},
+		{
+			"move": "Smack Down",
+			"tm": "TM23"
+		},
+		{
+			"move": "Earthquake",
+			"tm": "TM26"
+		},
+		{
+			"move": "Return",
+			"tm": "TM27"
+		},
+		{
+			"move": "Brick Break",
+			"tm": "TM31"
+		},
+		{
+			"move": "Double Team",
+			"tm": "TM32"
+		},
+		{
+			"move": "Rock Tomb",
+			"tm": "TM39"
+		},
+		{
+			"move": "Facade",
+			"tm": "TM42"
+		},
+		{
+			"move": "Rest",
+			"tm": "TM44"
+		},
+		{
+			"move": "Attract",
+			"tm": "TM45"
+		},
+		{
+			"move": "Low Sweep",
+			"tm": "TM47"
+		},
+		{
+			"move": "Round",
+			"tm": "TM48"
+		},
+		{
+			"move": "Focus Blast",
+			"tm": "TM52"
+		},
+		{
+			"move": "Fling",
+			"tm": "TM56"
+		},
+		{
+			"move": "Bulldoze",
+			"tm": "TM78"
+		},
+		{
+			"move": "Rock Slide",
+			"tm": "TM80"
+		},
+		{
+			"move": "Poison Jab",
+			"tm": "TM84"
+		},
+		{
+			"move": "Swagger",
+			"tm": "TM87"
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": "TM88"
+		},
+		{
+			"move": "Substitute",
+			"tm": "TM90"
+		},
+		{
+			"move": "Surf",
+			"tm": "TM94"
+		},
+		{
+			"move": "Confide",
+			"tm": "TM100"
+		}
+	]
 }

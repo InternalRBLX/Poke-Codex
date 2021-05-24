@@ -1,8 +1,8 @@
 {
-    "name": "Cameruptite",
-    "sell_price": null,
-    "holdable": true,
-    "battle": false,
-    "category": "Item",
-    "subcategory": "Mega Stone"
+	"name": "Cameruptite",
+	"sell_price": null,
+	"holdable": true,
+	"battle": false,
+	"category": "Item",
+	"subcategory": "Mega Stone"
 }

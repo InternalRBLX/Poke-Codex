@@ -1,319 +1,311 @@
 {
-    "name": "Binacle",
-    "national_id": 688,
-    "types": [
-        "Rock",
-        "Water"
-    ],
-    "abilities": [
-        {
-            "name": "Sniper"
-        },
-        {
-            "name": "Tough Claws"
-        },
-        {
-            "name": "Pickpocket",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 120,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Water 3"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "1'08\"",
-    "height_eu": "0.5 m",
-    "weight_us": "68.3 lbs.",
-    "weight_eu": "31.0 kg",
-    "base_exp_yield": 61,
-    "leveling_rate": "Medium Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 1,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 42,
-        "atk": 52,
-        "def": 67,
-        "sp_atk": 39,
-        "sp_def": 56,
-        "speed": 50
-    },
-    "evolution_from": null,
-    "evolutions": [
-        {
-            "to": "Barbaracle",
-            "level": 39
-        }
-    ],
-    "species": "Two-Handed Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "They stretch and then contract, yanking their rocks along with them in bold hops. They eat seaweed that washes up on the shoreline.",
-    "move_learnset": [
-        {
-            "move": "Mud-Slap",
-            "level": 1
-        },
-        {
-            "move": "Scratch",
-            "level": 1
-        },
-        {
-            "move": "Withdraw",
-            "level": 4
-        },
-        {
-            "move": "Water Gun",
-            "level": 8
-        },
-        {
-            "move": "Fury Cutter",
-            "level": 12
-        },
-        {
-            "move": "Fury Swipes",
-            "level": 16
-        },
-        {
-            "move": "Ancient Power",
-            "level": 20
-        },
-        {
-            "move": "Rock Polish",
-            "level": 24
-        },
-        {
-            "move": "Slash",
-            "level": 28
-        },
-        {
-            "move": "Hone Claws",
-            "level": 32
-        },
-        {
-            "move": "Razor Shell",
-            "level": 36
-        },
-        {
-            "move": "Shell Smash",
-            "level": 40
-        },
-        {
-            "move": "Cross Chop",
-            "level": 44
-        },
-        {
-            "move": "Dig",
-            "tm": true
-        },
-        {
-            "move": "Screech",
-            "tm": true
-        },
-        {
-            "move": "Safeguard",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Rock Slide",
-            "tm": true
-        },
-        {
-            "move": "Thief",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Icy Wind",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Sandstorm",
-            "tm": true
-        },
-        {
-            "move": "Rain Dance",
-            "tm": true
-        },
-        {
-            "move": "Beat Up",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Helping Hand",
-            "tm": true
-        },
-        {
-            "move": "Brick Break",
-            "tm": true
-        },
-        {
-            "move": "Rock Tomb",
-            "tm": true
-        },
-        {
-            "move": "Mud Shot",
-            "tm": true
-        },
-        {
-            "move": "Rock Blast",
-            "tm": true
-        },
-        {
-            "move": "Payback",
-            "tm": true
-        },
-        {
-            "move": "Assurance",
-            "tm": true
-        },
-        {
-            "move": "Fling",
-            "tm": true
-        },
-        {
-            "move": "Shadow Claw",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Bulldoze",
-            "tm": true
-        },
-        {
-            "move": "Razor Shell",
-            "tm": true
-        },
-        {
-            "move": "False Swipe",
-            "tm": true
-        },
-        {
-            "move": "Swords Dance",
-            "tm": true
-        },
-        {
-            "move": "Surf",
-            "tm": true
-        },
-        {
-            "move": "Ice Beam",
-            "tm": true
-        },
-        {
-            "move": "Blizzard",
-            "tm": true
-        },
-        {
-            "move": "Earthquake",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Sludge Bomb",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Uproar",
-            "tm": true
-        },
-        {
-            "move": "Taunt",
-            "tm": true
-        },
-        {
-            "move": "Iron Defense",
-            "tm": true
-        },
-        {
-            "move": "Poison Jab",
-            "tm": true
-        },
-        {
-            "move": "X-Scissor",
-            "tm": true
-        },
-        {
-            "move": "Stone Edge",
-            "tm": true
-        },
-        {
-            "move": "Stealth Rock",
-            "tm": true
-        },
-        {
-            "move": "Grass Knot",
-            "tm": true
-        },
-        {
-            "move": "Sludge Wave",
-            "tm": true
-        },
-        {
-            "move": "Scald",
-            "tm": true
-        },
-        {
-            "move": "Liquidation",
-            "tm": true
-        },
-        {
-            "move": "Switcheroo",
-            "egg_move": true
-        },
-        {
-            "move": "Night Slash",
-            "egg_move": true
-        },
-        {
-            "move": "Sand Attack",
-            "egg_move": true
-        }
-    ]
+	"name": "Binacle",
+	"national_id": 688,
+	"types": ["Rock", "Water"],
+	"abilities": [
+		{
+			"name": "Sniper"
+		},
+		{
+			"name": "Tough Claws"
+		},
+		{
+			"name": "Pickpocket",
+			"hidden": true
+		}
+	],
+	"catch_rate": 120,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Water 3"],
+	"hatch_time": [5355, 5609],
+	"height_us": "1'08\"",
+	"height_eu": "0.5 m",
+	"weight_us": "68.3 lbs.",
+	"weight_eu": "31.0 kg",
+	"base_exp_yield": 61,
+	"leveling_rate": "Medium Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 1,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 42,
+		"atk": 52,
+		"def": 67,
+		"sp_atk": 39,
+		"sp_def": 56,
+		"speed": 50
+	},
+	"evolution_from": null,
+	"evolutions": [
+		{
+			"to": "Barbaracle",
+			"level": 39
+		}
+	],
+	"species": "Two-Handed Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "They stretch and then contract, yanking their rocks along with them in bold hops. They eat seaweed that washes up on the shoreline.",
+	"move_learnset": [
+		{
+			"move": "Mud-Slap",
+			"level": 1
+		},
+		{
+			"move": "Scratch",
+			"level": 1
+		},
+		{
+			"move": "Withdraw",
+			"level": 4
+		},
+		{
+			"move": "Water Gun",
+			"level": 8
+		},
+		{
+			"move": "Fury Cutter",
+			"level": 12
+		},
+		{
+			"move": "Fury Swipes",
+			"level": 16
+		},
+		{
+			"move": "Ancient Power",
+			"level": 20
+		},
+		{
+			"move": "Rock Polish",
+			"level": 24
+		},
+		{
+			"move": "Slash",
+			"level": 28
+		},
+		{
+			"move": "Hone Claws",
+			"level": 32
+		},
+		{
+			"move": "Razor Shell",
+			"level": 36
+		},
+		{
+			"move": "Shell Smash",
+			"level": 40
+		},
+		{
+			"move": "Cross Chop",
+			"level": 44
+		},
+		{
+			"move": "Dig",
+			"tm": true
+		},
+		{
+			"move": "Screech",
+			"tm": true
+		},
+		{
+			"move": "Safeguard",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Rock Slide",
+			"tm": true
+		},
+		{
+			"move": "Thief",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Icy Wind",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Sandstorm",
+			"tm": true
+		},
+		{
+			"move": "Rain Dance",
+			"tm": true
+		},
+		{
+			"move": "Beat Up",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Helping Hand",
+			"tm": true
+		},
+		{
+			"move": "Brick Break",
+			"tm": true
+		},
+		{
+			"move": "Rock Tomb",
+			"tm": true
+		},
+		{
+			"move": "Mud Shot",
+			"tm": true
+		},
+		{
+			"move": "Rock Blast",
+			"tm": true
+		},
+		{
+			"move": "Payback",
+			"tm": true
+		},
+		{
+			"move": "Assurance",
+			"tm": true
+		},
+		{
+			"move": "Fling",
+			"tm": true
+		},
+		{
+			"move": "Shadow Claw",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Bulldoze",
+			"tm": true
+		},
+		{
+			"move": "Razor Shell",
+			"tm": true
+		},
+		{
+			"move": "False Swipe",
+			"tm": true
+		},
+		{
+			"move": "Swords Dance",
+			"tm": true
+		},
+		{
+			"move": "Surf",
+			"tm": true
+		},
+		{
+			"move": "Ice Beam",
+			"tm": true
+		},
+		{
+			"move": "Blizzard",
+			"tm": true
+		},
+		{
+			"move": "Earthquake",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Sludge Bomb",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Uproar",
+			"tm": true
+		},
+		{
+			"move": "Taunt",
+			"tm": true
+		},
+		{
+			"move": "Iron Defense",
+			"tm": true
+		},
+		{
+			"move": "Poison Jab",
+			"tm": true
+		},
+		{
+			"move": "X-Scissor",
+			"tm": true
+		},
+		{
+			"move": "Stone Edge",
+			"tm": true
+		},
+		{
+			"move": "Stealth Rock",
+			"tm": true
+		},
+		{
+			"move": "Grass Knot",
+			"tm": true
+		},
+		{
+			"move": "Sludge Wave",
+			"tm": true
+		},
+		{
+			"move": "Scald",
+			"tm": true
+		},
+		{
+			"move": "Liquidation",
+			"tm": true
+		},
+		{
+			"move": "Switcheroo",
+			"egg_move": true
+		},
+		{
+			"move": "Night Slash",
+			"egg_move": true
+		},
+		{
+			"move": "Sand Attack",
+			"egg_move": true
+		}
+	]
 }

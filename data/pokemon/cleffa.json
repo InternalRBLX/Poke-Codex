@@ -1,308 +1,301 @@
 {
-    "name": "Cleffa",
-    "national_id": 173,
-    "types": [
-        "Fairy"
-    ],
-    "items": [
-        {
-            "name": "Moon Stone",
-            "chance": 5
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Cute Charm"
-        },
-        {
-            "name": "Magic Guard"
-        },
-        {
-            "name": "Friend Guard",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 150,
-    "gender_ratios": {
-        "male": 25,
-        "female": 75
-    },
-    "egg_groups": [
-        "Undiscovered"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "1'00\"",
-    "height_eu": "0.3 m",
-    "weight_us": "6.6 lbs.",
-    "weight_eu": "3.0 kg",
-    "base_exp_yield": 44,
-    "leveling_rate": "Fast",
-    "base_friendship": 140,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 1,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 50,
-        "atk": 25,
-        "def": 28,
-        "sp_atk": 45,
-        "sp_def": 55,
-        "speed": 15
-    },
-    "evolution_from": null,
-    "evolutions": [
-        {
-            "to": "Clefairy",
-            "happiness": true
-        }
-    ],
-    "species": "Star Shape Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "Because of its unusual, starlike silhouette, people believe that it came here on a meteor.",
-    "move_learnset": [
-        {
-            "move": "Splash",
-            "level": 1
-        },
-        {
-            "move": "Pound",
-            "level": 1
-        },
-        {
-            "move": "Copycat",
-            "level": 1
-        },
-        {
-            "move": "Sing",
-            "level": 4
-        },
-        {
-            "move": "Sweet Kiss",
-            "level": 8
-        },
-        {
-            "move": "Disarming Voice",
-            "level": 12
-        },
-        {
-            "move": "Encore",
-            "level": 16
-        },
-        {
-            "move": "Charm",
-            "level": 20
-        },
-        {
-            "move": "Mega Punch",
-            "tm": true
-        },
-        {
-            "move": "Mega Kick",
-            "tm": true
-        },
-        {
-            "move": "Magical Leaf",
-            "tm": true
-        },
-        {
-            "move": "Solar Beam",
-            "tm": true
-        },
-        {
-            "move": "Thunder Wave",
-            "tm": true
-        },
-        {
-            "move": "Dig",
-            "tm": true
-        },
-        {
-            "move": "Light Screen",
-            "tm": true
-        },
-        {
-            "move": "Reflect",
-            "tm": true
-        },
-        {
-            "move": "Safeguard",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Icy Wind",
-            "tm": true
-        },
-        {
-            "move": "Charm",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Rain Dance",
-            "tm": true
-        },
-        {
-            "move": "Sunny Day",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Helping Hand",
-            "tm": true
-        },
-        {
-            "move": "Fake Tears",
-            "tm": true
-        },
-        {
-            "move": "Fling",
-            "tm": true
-        },
-        {
-            "move": "Wonder Room",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Draining Kiss",
-            "tm": true
-        },
-        {
-            "move": "Misty Terrain",
-            "tm": true
-        },
-        {
-            "move": "Body Slam",
-            "tm": true
-        },
-        {
-            "move": "Flamethrower",
-            "tm": true
-        },
-        {
-            "move": "Psychic",
-            "tm": true
-        },
-        {
-            "move": "Metronome",
-            "tm": true
-        },
-        {
-            "move": "Fire Blast",
-            "tm": true
-        },
-        {
-            "move": "Amnesia",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Psyshock",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Encore",
-            "tm": true
-        },
-        {
-            "move": "Iron Tail",
-            "tm": true
-        },
-        {
-            "move": "Shadow Ball",
-            "tm": true
-        },
-        {
-            "move": "Uproar",
-            "tm": true
-        },
-        {
-            "move": "Trick",
-            "tm": true
-        },
-        {
-            "move": "Hyper Voice",
-            "tm": true
-        },
-        {
-            "move": "Zen Headbutt",
-            "tm": true
-        },
-        {
-            "move": "Grass Knot",
-            "tm": true
-        },
-        {
-            "move": "Stored Power",
-            "tm": true
-        },
-        {
-            "move": "Work Up",
-            "tm": true
-        },
-        {
-            "move": "Play Rough",
-            "tm": true
-        },
-        {
-            "move": "Present",
-            "egg_move": true
-        },
-        {
-            "move": "Wish",
-            "egg_move": true
-        },
-        {
-            "move": "Aromatherapy",
-            "egg_move": true
-        },
-        {
-            "move": "Tickle",
-            "egg_move": true
-        },
-        {
-            "move": "Heal Pulse",
-            "egg_move": true
-        }
-    ]
+	"name": "Cleffa",
+	"national_id": 173,
+	"types": ["Fairy"],
+	"items": [
+		{
+			"name": "Moon Stone",
+			"chance": 5
+		}
+	],
+	"abilities": [
+		{
+			"name": "Cute Charm"
+		},
+		{
+			"name": "Magic Guard"
+		},
+		{
+			"name": "Friend Guard",
+			"hidden": true
+		}
+	],
+	"catch_rate": 150,
+	"gender_ratios": {
+		"male": 25,
+		"female": 75
+	},
+	"egg_groups": ["Undiscovered"],
+	"hatch_time": [5355, 5609],
+	"height_us": "1'00\"",
+	"height_eu": "0.3 m",
+	"weight_us": "6.6 lbs.",
+	"weight_eu": "3.0 kg",
+	"base_exp_yield": 44,
+	"leveling_rate": "Fast",
+	"base_friendship": 140,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 1,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 50,
+		"atk": 25,
+		"def": 28,
+		"sp_atk": 45,
+		"sp_def": 55,
+		"speed": 15
+	},
+	"evolution_from": null,
+	"evolutions": [
+		{
+			"to": "Clefairy",
+			"happiness": true
+		}
+	],
+	"species": "Star Shape Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "Because of its unusual, starlike silhouette, people believe that it came here on a meteor.",
+	"move_learnset": [
+		{
+			"move": "Splash",
+			"level": 1
+		},
+		{
+			"move": "Pound",
+			"level": 1
+		},
+		{
+			"move": "Copycat",
+			"level": 1
+		},
+		{
+			"move": "Sing",
+			"level": 4
+		},
+		{
+			"move": "Sweet Kiss",
+			"level": 8
+		},
+		{
+			"move": "Disarming Voice",
+			"level": 12
+		},
+		{
+			"move": "Encore",
+			"level": 16
+		},
+		{
+			"move": "Charm",
+			"level": 20
+		},
+		{
+			"move": "Mega Punch",
+			"tm": true
+		},
+		{
+			"move": "Mega Kick",
+			"tm": true
+		},
+		{
+			"move": "Magical Leaf",
+			"tm": true
+		},
+		{
+			"move": "Solar Beam",
+			"tm": true
+		},
+		{
+			"move": "Thunder Wave",
+			"tm": true
+		},
+		{
+			"move": "Dig",
+			"tm": true
+		},
+		{
+			"move": "Light Screen",
+			"tm": true
+		},
+		{
+			"move": "Reflect",
+			"tm": true
+		},
+		{
+			"move": "Safeguard",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Icy Wind",
+			"tm": true
+		},
+		{
+			"move": "Charm",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Rain Dance",
+			"tm": true
+		},
+		{
+			"move": "Sunny Day",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Helping Hand",
+			"tm": true
+		},
+		{
+			"move": "Fake Tears",
+			"tm": true
+		},
+		{
+			"move": "Fling",
+			"tm": true
+		},
+		{
+			"move": "Wonder Room",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Draining Kiss",
+			"tm": true
+		},
+		{
+			"move": "Misty Terrain",
+			"tm": true
+		},
+		{
+			"move": "Body Slam",
+			"tm": true
+		},
+		{
+			"move": "Flamethrower",
+			"tm": true
+		},
+		{
+			"move": "Psychic",
+			"tm": true
+		},
+		{
+			"move": "Metronome",
+			"tm": true
+		},
+		{
+			"move": "Fire Blast",
+			"tm": true
+		},
+		{
+			"move": "Amnesia",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Psyshock",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Encore",
+			"tm": true
+		},
+		{
+			"move": "Iron Tail",
+			"tm": true
+		},
+		{
+			"move": "Shadow Ball",
+			"tm": true
+		},
+		{
+			"move": "Uproar",
+			"tm": true
+		},
+		{
+			"move": "Trick",
+			"tm": true
+		},
+		{
+			"move": "Hyper Voice",
+			"tm": true
+		},
+		{
+			"move": "Zen Headbutt",
+			"tm": true
+		},
+		{
+			"move": "Grass Knot",
+			"tm": true
+		},
+		{
+			"move": "Stored Power",
+			"tm": true
+		},
+		{
+			"move": "Work Up",
+			"tm": true
+		},
+		{
+			"move": "Play Rough",
+			"tm": true
+		},
+		{
+			"move": "Present",
+			"egg_move": true
+		},
+		{
+			"move": "Wish",
+			"egg_move": true
+		},
+		{
+			"move": "Aromatherapy",
+			"egg_move": true
+		},
+		{
+			"move": "Tickle",
+			"egg_move": true
+		},
+		{
+			"move": "Heal Pulse",
+			"egg_move": true
+		}
+	]
 }

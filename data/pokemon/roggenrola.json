@@ -1,240 +1,233 @@
 {
-    "name": "Roggenrola",
-    "national_id": 524,
-    "types": [
-        "Rock"
-    ],
-    "items": [
-        {
-            "name": "Hard Stone",
-            "chance": 5
-        },
-        {
-            "name": "Everstone",
-            "chance": 50
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Sturdy"
-        },
-        {
-            "name": "Weak Armor"
-        },
-        {
-            "name": "Sand Force",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 255,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Mineral"
-    ],
-    "hatch_time": [
-        4080,
-        4334
-    ],
-    "height_us": "1'04\"",
-    "height_eu": "0.4 m",
-    "weight_us": "39.7 lbs.",
-    "weight_eu": "18.0 kg",
-    "base_exp_yield": 56,
-    "leveling_rate": "Medium Slow",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 1,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 55,
-        "atk": 75,
-        "def": 85,
-        "sp_atk": 25,
-        "sp_def": 25,
-        "speed": 15
-    },
-    "evolution_from": null,
-    "evolutions": [
-        {
-            "to": "Boldore",
-            "level": 25
-        }
-    ],
-    "species": "Mantle Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "When it detects a noise, it starts to move. The energy core inside it makes this Pokémon slightly warm to the touch.",
-    "move_learnset": [
-        {
-            "move": "Sand Attack",
-            "level": 1
-        },
-        {
-            "move": "Tackle",
-            "level": 1
-        },
-        {
-            "move": "Harden",
-            "level": 4
-        },
-        {
-            "move": "Stealth Rock",
-            "level": 8
-        },
-        {
-            "move": "Mud-Slap",
-            "level": 12
-        },
-        {
-            "move": "Smack Down",
-            "level": 16
-        },
-        {
-            "move": "Iron Defense",
-            "level": 20
-        },
-        {
-            "move": "Headbutt",
-            "level": 24
-        },
-        {
-            "move": "Rock Slide",
-            "level": 28
-        },
-        {
-            "move": "Rock Blast",
-            "level": 32
-        },
-        {
-            "move": "Sandstorm",
-            "level": 36
-        },
-        {
-            "move": "Stone Edge",
-            "level": 40
-        },
-        {
-            "move": "Explosion",
-            "level": 44
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Rock Slide",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Sandstorm",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Rock Tomb",
-            "tm": true
-        },
-        {
-            "move": "Sand Tomb",
-            "tm": true
-        },
-        {
-            "move": "Rock Blast",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Bulldoze",
-            "tm": true
-        },
-        {
-            "move": "Earthquake",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Iron Defense",
-            "tm": true
-        },
-        {
-            "move": "Earth Power",
-            "tm": true
-        },
-        {
-            "move": "Flash Cannon",
-            "tm": true
-        },
-        {
-            "move": "Stone Edge",
-            "tm": true
-        },
-        {
-            "move": "Stealth Rock",
-            "tm": true
-        },
-        {
-            "move": "Heavy Slam",
-            "tm": true
-        },
-        {
-            "move": "Body Press",
-            "tm": true
-        },
-        {
-            "move": "Curse",
-            "egg_move": true
-        },
-        {
-            "move": "Autotomize",
-            "egg_move": true
-        },
-        {
-            "move": "Take Down",
-            "egg_move": true
-        },
-        {
-            "move": "Gravity",
-            "egg_move": true
-        },
-        {
-            "move": "Wide Guard",
-            "egg_move": true
-        }
-    ]
+	"name": "Roggenrola",
+	"national_id": 524,
+	"types": ["Rock"],
+	"items": [
+		{
+			"name": "Hard Stone",
+			"chance": 5
+		},
+		{
+			"name": "Everstone",
+			"chance": 50
+		}
+	],
+	"abilities": [
+		{
+			"name": "Sturdy"
+		},
+		{
+			"name": "Weak Armor"
+		},
+		{
+			"name": "Sand Force",
+			"hidden": true
+		}
+	],
+	"catch_rate": 255,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Mineral"],
+	"hatch_time": [4080, 4334],
+	"height_us": "1'04\"",
+	"height_eu": "0.4 m",
+	"weight_us": "39.7 lbs.",
+	"weight_eu": "18.0 kg",
+	"base_exp_yield": 56,
+	"leveling_rate": "Medium Slow",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 1,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 55,
+		"atk": 75,
+		"def": 85,
+		"sp_atk": 25,
+		"sp_def": 25,
+		"speed": 15
+	},
+	"evolution_from": null,
+	"evolutions": [
+		{
+			"to": "Boldore",
+			"level": 25
+		}
+	],
+	"species": "Mantle Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "When it detects a noise, it starts to move. The energy core inside it makes this Pokémon slightly warm to the touch.",
+	"move_learnset": [
+		{
+			"move": "Sand Attack",
+			"level": 1
+		},
+		{
+			"move": "Tackle",
+			"level": 1
+		},
+		{
+			"move": "Harden",
+			"level": 4
+		},
+		{
+			"move": "Stealth Rock",
+			"level": 8
+		},
+		{
+			"move": "Mud-Slap",
+			"level": 12
+		},
+		{
+			"move": "Smack Down",
+			"level": 16
+		},
+		{
+			"move": "Iron Defense",
+			"level": 20
+		},
+		{
+			"move": "Headbutt",
+			"level": 24
+		},
+		{
+			"move": "Rock Slide",
+			"level": 28
+		},
+		{
+			"move": "Rock Blast",
+			"level": 32
+		},
+		{
+			"move": "Sandstorm",
+			"level": 36
+		},
+		{
+			"move": "Stone Edge",
+			"level": 40
+		},
+		{
+			"move": "Explosion",
+			"level": 44
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Rock Slide",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Sandstorm",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Rock Tomb",
+			"tm": true
+		},
+		{
+			"move": "Sand Tomb",
+			"tm": true
+		},
+		{
+			"move": "Rock Blast",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Bulldoze",
+			"tm": true
+		},
+		{
+			"move": "Earthquake",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Iron Defense",
+			"tm": true
+		},
+		{
+			"move": "Earth Power",
+			"tm": true
+		},
+		{
+			"move": "Flash Cannon",
+			"tm": true
+		},
+		{
+			"move": "Stone Edge",
+			"tm": true
+		},
+		{
+			"move": "Stealth Rock",
+			"tm": true
+		},
+		{
+			"move": "Heavy Slam",
+			"tm": true
+		},
+		{
+			"move": "Body Press",
+			"tm": true
+		},
+		{
+			"move": "Curse",
+			"egg_move": true
+		},
+		{
+			"move": "Autotomize",
+			"egg_move": true
+		},
+		{
+			"move": "Take Down",
+			"egg_move": true
+		},
+		{
+			"move": "Gravity",
+			"egg_move": true
+		},
+		{
+			"move": "Wide Guard",
+			"egg_move": true
+		}
+	]
 }

@@ -1,359 +1,352 @@
 {
-    "name": "Beartic",
-    "national_id": 614,
-    "types": [
-        "Ice"
-    ],
-    "items": [
-        {
-            "name": "Aspear Berry",
-            "chance": 50
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Snow Cloak"
-        },
-        {
-            "name": "Slush Rush"
-        },
-        {
-            "name": "Swift Swim",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 60,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Field"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "8'06\"",
-    "height_eu": "2.6 m",
-    "weight_us": "573.2 lbs.",
-    "weight_eu": "260.0 kg",
-    "base_exp_yield": 170,
-    "leveling_rate": "Medium Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 2,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 95,
-        "atk": 110,
-        "def": 80,
-        "sp_atk": 70,
-        "sp_def": 80,
-        "speed": 50
-    },
-    "evolution_from": "Cubchoo",
-    "evolutions": [],
-    "species": "Freezing Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "It freezes its breath to create fangs and claws of ice to fight with. Cold northern areas are its habitat.",
-    "move_learnset": [
-        {
-            "move": "Icicle Crash",
-            "evo": true
-        },
-        {
-            "move": "Icicle Crash",
-            "level": 1
-        },
-        {
-            "move": "Aqua Jet",
-            "level": 1
-        },
-        {
-            "move": "Charm",
-            "level": 1
-        },
-        {
-            "move": "Powder Snow",
-            "level": 1
-        },
-        {
-            "move": "Growl",
-            "level": 1
-        },
-        {
-            "move": "Endure",
-            "level": 1
-        },
-        {
-            "move": "Fury Swipes",
-            "level": 1
-        },
-        {
-            "move": "Icy Wind",
-            "level": 9
-        },
-        {
-            "move": "Play Nice",
-            "level": 12
-        },
-        {
-            "move": "Brine",
-            "level": 15
-        },
-        {
-            "move": "Frost Breath",
-            "level": 18
-        },
-        {
-            "move": "Slash",
-            "level": 21
-        },
-        {
-            "move": "Flail",
-            "level": 24
-        },
-        {
-            "move": "Swagger",
-            "level": 27
-        },
-        {
-            "move": "Hail",
-            "level": 30
-        },
-        {
-            "move": "Thrash",
-            "level": 33
-        },
-        {
-            "move": "Rest",
-            "level": 36
-        },
-        {
-            "move": "Blizzard",
-            "level": 41
-        },
-        {
-            "move": "Sheer Cold",
-            "level": 46
-        },
-        {
-            "move": "Superpower",
-            "level": 51
-        },
-        {
-            "move": "Mega Punch",
-            "tm": true
-        },
-        {
-            "move": "Mega Kick",
-            "tm": true
-        },
-        {
-            "move": "Ice Punch",
-            "tm": true
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": true
-        },
-        {
-            "move": "Giga Impact",
-            "tm": true
-        },
-        {
-            "move": "Dig",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Rock Slide",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Scary Face",
-            "tm": true
-        },
-        {
-            "move": "Icy Wind",
-            "tm": true
-        },
-        {
-            "move": "Charm",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Rain Dance",
-            "tm": true
-        },
-        {
-            "move": "Hail",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Brick Break",
-            "tm": true
-        },
-        {
-            "move": "Dive",
-            "tm": true
-        },
-        {
-            "move": "Rock Tomb",
-            "tm": true
-        },
-        {
-            "move": "Icicle Spear",
-            "tm": true
-        },
-        {
-            "move": "Brine",
-            "tm": true
-        },
-        {
-            "move": "Assurance",
-            "tm": true
-        },
-        {
-            "move": "Fling",
-            "tm": true
-        },
-        {
-            "move": "Avalanche",
-            "tm": true
-        },
-        {
-            "move": "Shadow Claw",
-            "tm": true
-        },
-        {
-            "move": "Ice Fang",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Bulldoze",
-            "tm": true
-        },
-        {
-            "move": "Swords Dance",
-            "tm": true
-        },
-        {
-            "move": "Surf",
-            "tm": true
-        },
-        {
-            "move": "Ice Beam",
-            "tm": true
-        },
-        {
-            "move": "Blizzard",
-            "tm": true
-        },
-        {
-            "move": "Low Kick",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Encore",
-            "tm": true
-        },
-        {
-            "move": "Taunt",
-            "tm": true
-        },
-        {
-            "move": "Superpower",
-            "tm": true
-        },
-        {
-            "move": "Bulk Up",
-            "tm": true
-        },
-        {
-            "move": "Focus Blast",
-            "tm": true
-        },
-        {
-            "move": "Stone Edge",
-            "tm": true
-        },
-        {
-            "move": "Grass Knot",
-            "tm": true
-        },
-        {
-            "move": "Heavy Slam",
-            "tm": true
-        },
-        {
-            "move": "Play Rough",
-            "tm": true
-        },
-        {
-            "move": "Throat Chop",
-            "tm": true
-        },
-        {
-            "move": "Liquidation",
-            "tm": true
-        },
-        {
-            "move": "Body Press",
-            "tm": true
-        },
-        {
-            "move": "Yawn",
-            "egg_move": true
-        },
-        {
-            "move": "Night Slash",
-            "egg_move": true
-        },
-        {
-            "move": "Focus Punch",
-            "egg_move": true
-        }
-    ]
+	"name": "Beartic",
+	"national_id": 614,
+	"types": ["Ice"],
+	"items": [
+		{
+			"name": "Aspear Berry",
+			"chance": 50
+		}
+	],
+	"abilities": [
+		{
+			"name": "Snow Cloak"
+		},
+		{
+			"name": "Slush Rush"
+		},
+		{
+			"name": "Swift Swim",
+			"hidden": true
+		}
+	],
+	"catch_rate": 60,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Field"],
+	"hatch_time": [5355, 5609],
+	"height_us": "8'06\"",
+	"height_eu": "2.6 m",
+	"weight_us": "573.2 lbs.",
+	"weight_eu": "260.0 kg",
+	"base_exp_yield": 170,
+	"leveling_rate": "Medium Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 2,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 95,
+		"atk": 110,
+		"def": 80,
+		"sp_atk": 70,
+		"sp_def": 80,
+		"speed": 50
+	},
+	"evolution_from": "Cubchoo",
+	"evolutions": [],
+	"species": "Freezing Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "It freezes its breath to create fangs and claws of ice to fight with. Cold northern areas are its habitat.",
+	"move_learnset": [
+		{
+			"move": "Icicle Crash",
+			"evo": true
+		},
+		{
+			"move": "Icicle Crash",
+			"level": 1
+		},
+		{
+			"move": "Aqua Jet",
+			"level": 1
+		},
+		{
+			"move": "Charm",
+			"level": 1
+		},
+		{
+			"move": "Powder Snow",
+			"level": 1
+		},
+		{
+			"move": "Growl",
+			"level": 1
+		},
+		{
+			"move": "Endure",
+			"level": 1
+		},
+		{
+			"move": "Fury Swipes",
+			"level": 1
+		},
+		{
+			"move": "Icy Wind",
+			"level": 9
+		},
+		{
+			"move": "Play Nice",
+			"level": 12
+		},
+		{
+			"move": "Brine",
+			"level": 15
+		},
+		{
+			"move": "Frost Breath",
+			"level": 18
+		},
+		{
+			"move": "Slash",
+			"level": 21
+		},
+		{
+			"move": "Flail",
+			"level": 24
+		},
+		{
+			"move": "Swagger",
+			"level": 27
+		},
+		{
+			"move": "Hail",
+			"level": 30
+		},
+		{
+			"move": "Thrash",
+			"level": 33
+		},
+		{
+			"move": "Rest",
+			"level": 36
+		},
+		{
+			"move": "Blizzard",
+			"level": 41
+		},
+		{
+			"move": "Sheer Cold",
+			"level": 46
+		},
+		{
+			"move": "Superpower",
+			"level": 51
+		},
+		{
+			"move": "Mega Punch",
+			"tm": true
+		},
+		{
+			"move": "Mega Kick",
+			"tm": true
+		},
+		{
+			"move": "Ice Punch",
+			"tm": true
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": true
+		},
+		{
+			"move": "Giga Impact",
+			"tm": true
+		},
+		{
+			"move": "Dig",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Rock Slide",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Scary Face",
+			"tm": true
+		},
+		{
+			"move": "Icy Wind",
+			"tm": true
+		},
+		{
+			"move": "Charm",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Rain Dance",
+			"tm": true
+		},
+		{
+			"move": "Hail",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Brick Break",
+			"tm": true
+		},
+		{
+			"move": "Dive",
+			"tm": true
+		},
+		{
+			"move": "Rock Tomb",
+			"tm": true
+		},
+		{
+			"move": "Icicle Spear",
+			"tm": true
+		},
+		{
+			"move": "Brine",
+			"tm": true
+		},
+		{
+			"move": "Assurance",
+			"tm": true
+		},
+		{
+			"move": "Fling",
+			"tm": true
+		},
+		{
+			"move": "Avalanche",
+			"tm": true
+		},
+		{
+			"move": "Shadow Claw",
+			"tm": true
+		},
+		{
+			"move": "Ice Fang",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Bulldoze",
+			"tm": true
+		},
+		{
+			"move": "Swords Dance",
+			"tm": true
+		},
+		{
+			"move": "Surf",
+			"tm": true
+		},
+		{
+			"move": "Ice Beam",
+			"tm": true
+		},
+		{
+			"move": "Blizzard",
+			"tm": true
+		},
+		{
+			"move": "Low Kick",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Encore",
+			"tm": true
+		},
+		{
+			"move": "Taunt",
+			"tm": true
+		},
+		{
+			"move": "Superpower",
+			"tm": true
+		},
+		{
+			"move": "Bulk Up",
+			"tm": true
+		},
+		{
+			"move": "Focus Blast",
+			"tm": true
+		},
+		{
+			"move": "Stone Edge",
+			"tm": true
+		},
+		{
+			"move": "Grass Knot",
+			"tm": true
+		},
+		{
+			"move": "Heavy Slam",
+			"tm": true
+		},
+		{
+			"move": "Play Rough",
+			"tm": true
+		},
+		{
+			"move": "Throat Chop",
+			"tm": true
+		},
+		{
+			"move": "Liquidation",
+			"tm": true
+		},
+		{
+			"move": "Body Press",
+			"tm": true
+		},
+		{
+			"move": "Yawn",
+			"egg_move": true
+		},
+		{
+			"move": "Night Slash",
+			"egg_move": true
+		},
+		{
+			"move": "Focus Punch",
+			"egg_move": true
+		}
+	]
 }

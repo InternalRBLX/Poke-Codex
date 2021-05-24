@@ -1,277 +1,268 @@
 {
-    "name": "Crustle",
-    "national_id": 558,
-    "types": [
-        "Bug",
-        "Rock"
-    ],
-    "items": [
-        {
-            "name": "Hard Stone",
-            "chance": 5
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Sturdy"
-        },
-        {
-            "name": "Shell Armor"
-        },
-        {
-            "name": "Weak Armor",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 75,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Bug",
-        "Mineral"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "4'07\"",
-    "height_eu": "1.4 m",
-    "weight_us": "440.9 lbs.",
-    "weight_eu": "200.0 kg",
-    "base_exp_yield": 166,
-    "leveling_rate": "Medium Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 2,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 70,
-        "atk": 95,
-        "def": 125,
-        "sp_atk": 65,
-        "sp_def": 75,
-        "speed": 45
-    },
-    "evolution_from": "Dwebble",
-    "evolutions": [],
-    "species": "Stone Home Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "Its thick claws are its greatest weapons. They’re mighty enough to crack Rhyperior’s carapace.",
-    "move_learnset": [
-        {
-            "move": "Fury Cutter",
-            "level": 1
-        },
-        {
-            "move": "Sand Attack",
-            "level": 1
-        },
-        {
-            "move": "Withdraw",
-            "level": 1
-        },
-        {
-            "move": "Smack Down",
-            "level": 1
-        },
-        {
-            "move": "Bug Bite",
-            "level": 12
-        },
-        {
-            "move": "Flail",
-            "level": 16
-        },
-        {
-            "move": "Slash",
-            "level": 20
-        },
-        {
-            "move": "Rock Slide",
-            "level": 24
-        },
-        {
-            "move": "Stealth Rock",
-            "level": 28
-        },
-        {
-            "move": "Rock Blast",
-            "level": 32
-        },
-        {
-            "move": "X-Scissor",
-            "level": 38
-        },
-        {
-            "move": "Rock Polish",
-            "level": 44
-        },
-        {
-            "move": "Shell Smash",
-            "level": 50
-        },
-        {
-            "move": "Rock Wrecker",
-            "level": 56
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": true
-        },
-        {
-            "move": "Giga Impact",
-            "tm": true
-        },
-        {
-            "move": "Solar Beam",
-            "tm": true
-        },
-        {
-            "move": "Solar Blade",
-            "tm": true
-        },
-        {
-            "move": "Dig",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Rock Slide",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Sandstorm",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Rock Tomb",
-            "tm": true
-        },
-        {
-            "move": "Sand Tomb",
-            "tm": true
-        },
-        {
-            "move": "Rock Blast",
-            "tm": true
-        },
-        {
-            "move": "Shadow Claw",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Bulldoze",
-            "tm": true
-        },
-        {
-            "move": "Stomping Tantrum",
-            "tm": true
-        },
-        {
-            "move": "Swords Dance",
-            "tm": true
-        },
-        {
-            "move": "Earthquake",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Spikes",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Iron Defense",
-            "tm": true
-        },
-        {
-            "move": "Poison Jab",
-            "tm": true
-        },
-        {
-            "move": "X-Scissor",
-            "tm": true
-        },
-        {
-            "move": "Stone Edge",
-            "tm": true
-        },
-        {
-            "move": "Stealth Rock",
-            "tm": true
-        },
-        {
-            "move": "Heavy Slam",
-            "tm": true
-        },
-        {
-            "move": "Body Press",
-            "tm": true
-        },
-        {
-            "move": "Night Slash",
-            "egg_move": true
-        },
-        {
-            "move": "Counter",
-            "egg_move": true
-        },
-        {
-            "move": "Curse",
-            "egg_move": true
-        },
-        {
-            "move": "Block",
-            "egg_move": true
-        },
-        {
-            "move": "Wide Guard",
-            "egg_move": true
-        },
-        {
-            "move": "Knock Off",
-            "egg_move": true
-        }
-    ]
+	"name": "Crustle",
+	"national_id": 558,
+	"types": ["Bug", "Rock"],
+	"items": [
+		{
+			"name": "Hard Stone",
+			"chance": 5
+		}
+	],
+	"abilities": [
+		{
+			"name": "Sturdy"
+		},
+		{
+			"name": "Shell Armor"
+		},
+		{
+			"name": "Weak Armor",
+			"hidden": true
+		}
+	],
+	"catch_rate": 75,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Bug", "Mineral"],
+	"hatch_time": [5355, 5609],
+	"height_us": "4'07\"",
+	"height_eu": "1.4 m",
+	"weight_us": "440.9 lbs.",
+	"weight_eu": "200.0 kg",
+	"base_exp_yield": 166,
+	"leveling_rate": "Medium Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 2,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 70,
+		"atk": 95,
+		"def": 125,
+		"sp_atk": 65,
+		"sp_def": 75,
+		"speed": 45
+	},
+	"evolution_from": "Dwebble",
+	"evolutions": [],
+	"species": "Stone Home Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "Its thick claws are its greatest weapons. They’re mighty enough to crack Rhyperior’s carapace.",
+	"move_learnset": [
+		{
+			"move": "Fury Cutter",
+			"level": 1
+		},
+		{
+			"move": "Sand Attack",
+			"level": 1
+		},
+		{
+			"move": "Withdraw",
+			"level": 1
+		},
+		{
+			"move": "Smack Down",
+			"level": 1
+		},
+		{
+			"move": "Bug Bite",
+			"level": 12
+		},
+		{
+			"move": "Flail",
+			"level": 16
+		},
+		{
+			"move": "Slash",
+			"level": 20
+		},
+		{
+			"move": "Rock Slide",
+			"level": 24
+		},
+		{
+			"move": "Stealth Rock",
+			"level": 28
+		},
+		{
+			"move": "Rock Blast",
+			"level": 32
+		},
+		{
+			"move": "X-Scissor",
+			"level": 38
+		},
+		{
+			"move": "Rock Polish",
+			"level": 44
+		},
+		{
+			"move": "Shell Smash",
+			"level": 50
+		},
+		{
+			"move": "Rock Wrecker",
+			"level": 56
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": true
+		},
+		{
+			"move": "Giga Impact",
+			"tm": true
+		},
+		{
+			"move": "Solar Beam",
+			"tm": true
+		},
+		{
+			"move": "Solar Blade",
+			"tm": true
+		},
+		{
+			"move": "Dig",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Rock Slide",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Sandstorm",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Rock Tomb",
+			"tm": true
+		},
+		{
+			"move": "Sand Tomb",
+			"tm": true
+		},
+		{
+			"move": "Rock Blast",
+			"tm": true
+		},
+		{
+			"move": "Shadow Claw",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Bulldoze",
+			"tm": true
+		},
+		{
+			"move": "Stomping Tantrum",
+			"tm": true
+		},
+		{
+			"move": "Swords Dance",
+			"tm": true
+		},
+		{
+			"move": "Earthquake",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Spikes",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Iron Defense",
+			"tm": true
+		},
+		{
+			"move": "Poison Jab",
+			"tm": true
+		},
+		{
+			"move": "X-Scissor",
+			"tm": true
+		},
+		{
+			"move": "Stone Edge",
+			"tm": true
+		},
+		{
+			"move": "Stealth Rock",
+			"tm": true
+		},
+		{
+			"move": "Heavy Slam",
+			"tm": true
+		},
+		{
+			"move": "Body Press",
+			"tm": true
+		},
+		{
+			"move": "Night Slash",
+			"egg_move": true
+		},
+		{
+			"move": "Counter",
+			"egg_move": true
+		},
+		{
+			"move": "Curse",
+			"egg_move": true
+		},
+		{
+			"move": "Block",
+			"egg_move": true
+		},
+		{
+			"move": "Wide Guard",
+			"egg_move": true
+		},
+		{
+			"move": "Knock Off",
+			"egg_move": true
+		}
+	]
 }

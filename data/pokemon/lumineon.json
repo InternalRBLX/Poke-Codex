@@ -1,295 +1,288 @@
 {
-    "name": "Lumineon",
-    "national_id": 457,
-    "types": [
-        "Water"
-    ],
-    "items": [
-        {
-            "name": "Rindo Berry",
-            "chance": 5
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Swift Swim"
-        },
-        {
-            "name": "Storm Drain"
-        },
-        {
-            "name": "Water Veil",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 75,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Water 2"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "3'11\"",
-    "height_eu": "1.2 m",
-    "weight_us": "52.9 lbs.",
-    "weight_eu": "24.0 kg",
-    "base_exp_yield": 161,
-    "leveling_rate": "Erratic",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 2
-    },
-    "base_stats": {
-        "hp": 69,
-        "atk": 69,
-        "def": 76,
-        "sp_atk": 69,
-        "sp_def": 86,
-        "speed": 91
-    },
-    "evolution_from": "Finneon",
-    "evolutions": [],
-    "species": "Neon Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "To avoid detection by predators, it crawls along the seafloor using the two fins on its chest.",
-    "move_learnset": [
-        {
-            "move": "Attract",
-            "level": 1
-        },
-        {
-            "move": "Gust",
-            "level": 1
-        },
-        {
-            "move": "Pound",
-            "level": 1
-        },
-        {
-            "move": "Soak",
-            "level": 1
-        },
-        {
-            "move": "Water Gun",
-            "level": 1
-        },
-        {
-            "move": "Water Gun",
-            "level": 6
-        },
-        {
-            "move": "Attract",
-            "level": 10
-        },
-        {
-            "move": "Rain Dance",
-            "level": 13
-        },
-        {
-            "move": "Gust",
-            "level": 17
-        },
-        {
-            "move": "Water Pulse",
-            "level": 22
-        },
-        {
-            "move": "Captivate",
-            "level": 26
-        },
-        {
-            "move": "Safeguard",
-            "level": 29
-        },
-        {
-            "move": "Aqua Ring",
-            "level": 35
-        },
-        {
-            "move": "Whirlpool",
-            "level": 42
-        },
-        {
-            "move": "U-turn",
-            "level": 48
-        },
-        {
-            "move": "Bounce",
-            "level": 53
-        },
-        {
-            "move": "Silver Wind",
-            "level": 59
-        },
-        {
-            "move": "Soak",
-            "level": 66
-        },
-        {
-            "move": "Agility",
-            "egg_move": true
-        },
-        {
-            "move": "Aqua Tail",
-            "egg_move": true
-        },
-        {
-            "move": "Aurora Beam",
-            "egg_move": true
-        },
-        {
-            "move": "Brine",
-            "egg_move": true
-        },
-        {
-            "move": "Charm",
-            "egg_move": true
-        },
-        {
-            "move": "Confuse Ray",
-            "egg_move": true
-        },
-        {
-            "move": "Flail",
-            "egg_move": true
-        },
-        {
-            "move": "Psybeam",
-            "egg_move": true
-        },
-        {
-            "move": "Signal Beam",
-            "egg_move": true
-        },
-        {
-            "move": "Splash",
-            "egg_move": true
-        },
-        {
-            "move": "Sweet Kiss",
-            "egg_move": true
-        },
-        {
-            "move": "Tickle",
-            "egg_move": true
-        },
-        {
-            "move": "Toxic",
-            "tm": "TM6"
-        },
-        {
-            "move": "Hail",
-            "tm": "TM7"
-        },
-        {
-            "move": "Hidden Power",
-            "tm": "TM10"
-        },
-        {
-            "move": "Ice Beam",
-            "tm": "TM13"
-        },
-        {
-            "move": "Blizzard",
-            "tm": "TM14"
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": "TM15"
-        },
-        {
-            "move": "Protect",
-            "tm": "TM17"
-        },
-        {
-            "move": "Rain Dance",
-            "tm": "TM18"
-        },
-        {
-            "move": "Safeguard",
-            "tm": "TM20"
-        },
-        {
-            "move": "Frustration",
-            "tm": "TM21"
-        },
-        {
-            "move": "Return",
-            "tm": "TM27"
-        },
-        {
-            "move": "Double Team",
-            "tm": "TM32"
-        },
-        {
-            "move": "Facade",
-            "tm": "TM42"
-        },
-        {
-            "move": "Rest",
-            "tm": "TM44"
-        },
-        {
-            "move": "Attract",
-            "tm": "TM45"
-        },
-        {
-            "move": "Round",
-            "tm": "TM48"
-        },
-        {
-            "move": "Scald",
-            "tm": "TM55"
-        },
-        {
-            "move": "Payback",
-            "tm": "TM66"
-        },
-        {
-            "move": "Giga Impact",
-            "tm": "TM68"
-        },
-        {
-            "move": "Psych Up",
-            "tm": "TM77"
-        },
-        {
-            "move": "Swagger",
-            "tm": "TM87"
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": "TM88"
-        },
-        {
-            "move": "U-turn",
-            "tm": "TM89"
-        },
-        {
-            "move": "Substitute",
-            "tm": "TM90"
-        },
-        {
-            "move": "Surf",
-            "tm": "TM94"
-        },
-        {
-            "move": "Waterfall",
-            "tm": "TM98"
-        },
-        {
-            "move": "Confide",
-            "tm": "TM100"
-        }
-    ]
+	"name": "Lumineon",
+	"national_id": 457,
+	"types": ["Water"],
+	"items": [
+		{
+			"name": "Rindo Berry",
+			"chance": 5
+		}
+	],
+	"abilities": [
+		{
+			"name": "Swift Swim"
+		},
+		{
+			"name": "Storm Drain"
+		},
+		{
+			"name": "Water Veil",
+			"hidden": true
+		}
+	],
+	"catch_rate": 75,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Water 2"],
+	"hatch_time": [5355, 5609],
+	"height_us": "3'11\"",
+	"height_eu": "1.2 m",
+	"weight_us": "52.9 lbs.",
+	"weight_eu": "24.0 kg",
+	"base_exp_yield": 161,
+	"leveling_rate": "Erratic",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 2
+	},
+	"base_stats": {
+		"hp": 69,
+		"atk": 69,
+		"def": 76,
+		"sp_atk": 69,
+		"sp_def": 86,
+		"speed": 91
+	},
+	"evolution_from": "Finneon",
+	"evolutions": [],
+	"species": "Neon Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "To avoid detection by predators, it crawls along the seafloor using the two fins on its chest.",
+	"move_learnset": [
+		{
+			"move": "Attract",
+			"level": 1
+		},
+		{
+			"move": "Gust",
+			"level": 1
+		},
+		{
+			"move": "Pound",
+			"level": 1
+		},
+		{
+			"move": "Soak",
+			"level": 1
+		},
+		{
+			"move": "Water Gun",
+			"level": 1
+		},
+		{
+			"move": "Water Gun",
+			"level": 6
+		},
+		{
+			"move": "Attract",
+			"level": 10
+		},
+		{
+			"move": "Rain Dance",
+			"level": 13
+		},
+		{
+			"move": "Gust",
+			"level": 17
+		},
+		{
+			"move": "Water Pulse",
+			"level": 22
+		},
+		{
+			"move": "Captivate",
+			"level": 26
+		},
+		{
+			"move": "Safeguard",
+			"level": 29
+		},
+		{
+			"move": "Aqua Ring",
+			"level": 35
+		},
+		{
+			"move": "Whirlpool",
+			"level": 42
+		},
+		{
+			"move": "U-turn",
+			"level": 48
+		},
+		{
+			"move": "Bounce",
+			"level": 53
+		},
+		{
+			"move": "Silver Wind",
+			"level": 59
+		},
+		{
+			"move": "Soak",
+			"level": 66
+		},
+		{
+			"move": "Agility",
+			"egg_move": true
+		},
+		{
+			"move": "Aqua Tail",
+			"egg_move": true
+		},
+		{
+			"move": "Aurora Beam",
+			"egg_move": true
+		},
+		{
+			"move": "Brine",
+			"egg_move": true
+		},
+		{
+			"move": "Charm",
+			"egg_move": true
+		},
+		{
+			"move": "Confuse Ray",
+			"egg_move": true
+		},
+		{
+			"move": "Flail",
+			"egg_move": true
+		},
+		{
+			"move": "Psybeam",
+			"egg_move": true
+		},
+		{
+			"move": "Signal Beam",
+			"egg_move": true
+		},
+		{
+			"move": "Splash",
+			"egg_move": true
+		},
+		{
+			"move": "Sweet Kiss",
+			"egg_move": true
+		},
+		{
+			"move": "Tickle",
+			"egg_move": true
+		},
+		{
+			"move": "Toxic",
+			"tm": "TM6"
+		},
+		{
+			"move": "Hail",
+			"tm": "TM7"
+		},
+		{
+			"move": "Hidden Power",
+			"tm": "TM10"
+		},
+		{
+			"move": "Ice Beam",
+			"tm": "TM13"
+		},
+		{
+			"move": "Blizzard",
+			"tm": "TM14"
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": "TM15"
+		},
+		{
+			"move": "Protect",
+			"tm": "TM17"
+		},
+		{
+			"move": "Rain Dance",
+			"tm": "TM18"
+		},
+		{
+			"move": "Safeguard",
+			"tm": "TM20"
+		},
+		{
+			"move": "Frustration",
+			"tm": "TM21"
+		},
+		{
+			"move": "Return",
+			"tm": "TM27"
+		},
+		{
+			"move": "Double Team",
+			"tm": "TM32"
+		},
+		{
+			"move": "Facade",
+			"tm": "TM42"
+		},
+		{
+			"move": "Rest",
+			"tm": "TM44"
+		},
+		{
+			"move": "Attract",
+			"tm": "TM45"
+		},
+		{
+			"move": "Round",
+			"tm": "TM48"
+		},
+		{
+			"move": "Scald",
+			"tm": "TM55"
+		},
+		{
+			"move": "Payback",
+			"tm": "TM66"
+		},
+		{
+			"move": "Giga Impact",
+			"tm": "TM68"
+		},
+		{
+			"move": "Psych Up",
+			"tm": "TM77"
+		},
+		{
+			"move": "Swagger",
+			"tm": "TM87"
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": "TM88"
+		},
+		{
+			"move": "U-turn",
+			"tm": "TM89"
+		},
+		{
+			"move": "Substitute",
+			"tm": "TM90"
+		},
+		{
+			"move": "Surf",
+			"tm": "TM94"
+		},
+		{
+			"move": "Waterfall",
+			"tm": "TM98"
+		},
+		{
+			"move": "Confide",
+			"tm": "TM100"
+		}
+	]
 }

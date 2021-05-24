@@ -1,8 +1,8 @@
 {
-    "name": "Berry Juice",
-    "sell_price": 50,
-    "holdable": true,
-    "battle": true,
-    "category": "Medicine",
-    "subcategory": "Heal"
+	"name": "Berry Juice",
+	"sell_price": 50,
+	"holdable": true,
+	"battle": true,
+	"category": "Medicine",
+	"subcategory": "Heal"
 }

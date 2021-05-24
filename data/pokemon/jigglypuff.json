@@ -1,361 +1,353 @@
 {
-    "name": "Jigglypuff",
-    "national_id": 39,
-    "types": [
-        "Normal",
-        "Fairy"
-    ],
-    "items": [
-        {
-            "name": "Moon Stone",
-            "chance": 5
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Cute Charm"
-        },
-        {
-            "name": "Competitive"
-        },
-        {
-            "name": "Friend Guard",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 170,
-    "gender_ratios": {
-        "male": 25,
-        "female": 75
-    },
-    "egg_groups": [
-        "Fairy"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "1'08\"",
-    "height_eu": "0.5 m",
-    "weight_us": "12.1 lbs.",
-    "weight_eu": "5.5 kg",
-    "base_exp_yield": 95,
-    "leveling_rate": "Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 2,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 115,
-        "atk": 45,
-        "def": 20,
-        "sp_atk": 45,
-        "sp_def": 25,
-        "speed": 20
-    },
-    "evolution_from": "Igglybuff",
-    "evolutions": [
-        {
-            "to": "Wigglytuff",
-            "item": "Moon Stone"
-        }
-    ],
-    "species": "Balloon Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "When this Pokémon sings, it never pauses to breathe. If it is in a battle against an opponent that does not easily fall asleep, Jigglypuff cannot breathe, endangering its life.",
-    "move_learnset": [
-        {
-            "move": "Sing",
-            "level": 1
-        },
-        {
-            "move": "Defense Curl",
-            "level": 3
-        },
-        {
-            "move": "Pound",
-            "level": 5
-        },
-        {
-            "move": "Play Nice",
-            "level": 9
-        },
-        {
-            "move": "Disarming Voice",
-            "level": 11
-        },
-        {
-            "move": "Disable",
-            "level": 14
-        },
-        {
-            "move": "Double Slap",
-            "level": 17
-        },
-        {
-            "move": "Rollout",
-            "level": 20
-        },
-        {
-            "move": "Round",
-            "level": 22
-        },
-        {
-            "move": "Spit Up",
-            "level": 25
-        },
-        {
-            "move": "Stockpile",
-            "level": 25
-        },
-        {
-            "move": "Swallow",
-            "level": 25
-        },
-        {
-            "move": "Wake-Up Slap",
-            "level": 27
-        },
-        {
-            "move": "Rest",
-            "level": 30
-        },
-        {
-            "move": "Body Slam",
-            "level": 32
-        },
-        {
-            "move": "Gyro Ball",
-            "level": 35
-        },
-        {
-            "move": "Mimic",
-            "level": 38
-        },
-        {
-            "move": "Hyper Voice",
-            "level": 41
-        },
-        {
-            "move": "Double-Edge",
-            "level": 45
-        },
-        {
-            "move": "Captivate",
-            "egg_move": true
-        },
-        {
-            "move": "Covet",
-            "egg_move": true
-        },
-        {
-            "move": "Fake Tears",
-            "egg_move": true
-        },
-        {
-            "move": "Feint Attack",
-            "egg_move": true
-        },
-        {
-            "move": "Gravity",
-            "egg_move": true
-        },
-        {
-            "move": "Heal Pulse",
-            "egg_move": true
-        },
-        {
-            "move": "Last Resort",
-            "egg_move": true
-        },
-        {
-            "move": "Misty Terrain",
-            "egg_move": true
-        },
-        {
-            "move": "Perish Song",
-            "egg_move": true
-        },
-        {
-            "move": "Present",
-            "egg_move": true
-        },
-        {
-            "move": "Punishment",
-            "egg_move": true
-        },
-        {
-            "move": "Sleep Talk",
-            "egg_move": true
-        },
-        {
-            "move": "Wish",
-            "egg_move": true
-        },
-        {
-            "move": "Work Up",
-            "tm": "TM1"
-        },
-        {
-            "move": "Toxic",
-            "tm": "TM6"
-        },
-        {
-            "move": "Hidden Power",
-            "tm": "TM10"
-        },
-        {
-            "move": "Sunny Day",
-            "tm": "TM11"
-        },
-        {
-            "move": "Ice Beam",
-            "tm": "TM13"
-        },
-        {
-            "move": "Blizzard",
-            "tm": "TM14"
-        },
-        {
-            "move": "Light Screen",
-            "tm": "TM16"
-        },
-        {
-            "move": "Protect",
-            "tm": "TM17"
-        },
-        {
-            "move": "Rain Dance",
-            "tm": "TM18"
-        },
-        {
-            "move": "Safeguard",
-            "tm": "TM20"
-        },
-        {
-            "move": "Frustration",
-            "tm": "TM21"
-        },
-        {
-            "move": "Solar Beam",
-            "tm": "TM22"
-        },
-        {
-            "move": "Thunderbolt",
-            "tm": "TM24"
-        },
-        {
-            "move": "Thunder",
-            "tm": "TM25"
-        },
-        {
-            "move": "Return",
-            "tm": "TM27"
-        },
-        {
-            "move": "Psychic",
-            "tm": "TM29"
-        },
-        {
-            "move": "Shadow Ball",
-            "tm": "TM30"
-        },
-        {
-            "move": "Brick Break",
-            "tm": "TM31"
-        },
-        {
-            "move": "Double Team",
-            "tm": "TM32"
-        },
-        {
-            "move": "Reflect",
-            "tm": "TM33"
-        },
-        {
-            "move": "Flamethrower",
-            "tm": "TM35"
-        },
-        {
-            "move": "Fire Blast",
-            "tm": "TM38"
-        },
-        {
-            "move": "Facade",
-            "tm": "TM42"
-        },
-        {
-            "move": "Rest",
-            "tm": "TM44"
-        },
-        {
-            "move": "Attract",
-            "tm": "TM45"
-        },
-        {
-            "move": "Round",
-            "tm": "TM48"
-        },
-        {
-            "move": "Echoed Voice",
-            "tm": "TM49"
-        },
-        {
-            "move": "Fling",
-            "tm": "TM56"
-        },
-        {
-            "move": "Charge Beam",
-            "tm": "TM57"
-        },
-        {
-            "move": "Thunder Wave",
-            "tm": "TM73"
-        },
-        {
-            "move": "Gyro Ball",
-            "tm": "TM74"
-        },
-        {
-            "move": "Psych Up",
-            "tm": "TM77"
-        },
-        {
-            "move": "Dream Eater",
-            "tm": "TM85"
-        },
-        {
-            "move": "Grass Knot",
-            "tm": "TM86"
-        },
-        {
-            "move": "Swagger",
-            "tm": "TM87"
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": "TM88"
-        },
-        {
-            "move": "Substitute",
-            "tm": "TM90"
-        },
-        {
-            "move": "Wild Charge",
-            "tm": "TM93"
-        },
-        {
-            "move": "Dazzling Gleam",
-            "tm": "TM99"
-        },
-        {
-            "move": "Confide",
-            "tm": "TM100"
-        }
-    ]
+	"name": "Jigglypuff",
+	"national_id": 39,
+	"types": ["Normal", "Fairy"],
+	"items": [
+		{
+			"name": "Moon Stone",
+			"chance": 5
+		}
+	],
+	"abilities": [
+		{
+			"name": "Cute Charm"
+		},
+		{
+			"name": "Competitive"
+		},
+		{
+			"name": "Friend Guard",
+			"hidden": true
+		}
+	],
+	"catch_rate": 170,
+	"gender_ratios": {
+		"male": 25,
+		"female": 75
+	},
+	"egg_groups": ["Fairy"],
+	"hatch_time": [5355, 5609],
+	"height_us": "1'08\"",
+	"height_eu": "0.5 m",
+	"weight_us": "12.1 lbs.",
+	"weight_eu": "5.5 kg",
+	"base_exp_yield": 95,
+	"leveling_rate": "Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 2,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 115,
+		"atk": 45,
+		"def": 20,
+		"sp_atk": 45,
+		"sp_def": 25,
+		"speed": 20
+	},
+	"evolution_from": "Igglybuff",
+	"evolutions": [
+		{
+			"to": "Wigglytuff",
+			"item": "Moon Stone"
+		}
+	],
+	"species": "Balloon Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "When this Pokémon sings, it never pauses to breathe. If it is in a battle against an opponent that does not easily fall asleep, Jigglypuff cannot breathe, endangering its life.",
+	"move_learnset": [
+		{
+			"move": "Sing",
+			"level": 1
+		},
+		{
+			"move": "Defense Curl",
+			"level": 3
+		},
+		{
+			"move": "Pound",
+			"level": 5
+		},
+		{
+			"move": "Play Nice",
+			"level": 9
+		},
+		{
+			"move": "Disarming Voice",
+			"level": 11
+		},
+		{
+			"move": "Disable",
+			"level": 14
+		},
+		{
+			"move": "Double Slap",
+			"level": 17
+		},
+		{
+			"move": "Rollout",
+			"level": 20
+		},
+		{
+			"move": "Round",
+			"level": 22
+		},
+		{
+			"move": "Spit Up",
+			"level": 25
+		},
+		{
+			"move": "Stockpile",
+			"level": 25
+		},
+		{
+			"move": "Swallow",
+			"level": 25
+		},
+		{
+			"move": "Wake-Up Slap",
+			"level": 27
+		},
+		{
+			"move": "Rest",
+			"level": 30
+		},
+		{
+			"move": "Body Slam",
+			"level": 32
+		},
+		{
+			"move": "Gyro Ball",
+			"level": 35
+		},
+		{
+			"move": "Mimic",
+			"level": 38
+		},
+		{
+			"move": "Hyper Voice",
+			"level": 41
+		},
+		{
+			"move": "Double-Edge",
+			"level": 45
+		},
+		{
+			"move": "Captivate",
+			"egg_move": true
+		},
+		{
+			"move": "Covet",
+			"egg_move": true
+		},
+		{
+			"move": "Fake Tears",
+			"egg_move": true
+		},
+		{
+			"move": "Feint Attack",
+			"egg_move": true
+		},
+		{
+			"move": "Gravity",
+			"egg_move": true
+		},
+		{
+			"move": "Heal Pulse",
+			"egg_move": true
+		},
+		{
+			"move": "Last Resort",
+			"egg_move": true
+		},
+		{
+			"move": "Misty Terrain",
+			"egg_move": true
+		},
+		{
+			"move": "Perish Song",
+			"egg_move": true
+		},
+		{
+			"move": "Present",
+			"egg_move": true
+		},
+		{
+			"move": "Punishment",
+			"egg_move": true
+		},
+		{
+			"move": "Sleep Talk",
+			"egg_move": true
+		},
+		{
+			"move": "Wish",
+			"egg_move": true
+		},
+		{
+			"move": "Work Up",
+			"tm": "TM1"
+		},
+		{
+			"move": "Toxic",
+			"tm": "TM6"
+		},
+		{
+			"move": "Hidden Power",
+			"tm": "TM10"
+		},
+		{
+			"move": "Sunny Day",
+			"tm": "TM11"
+		},
+		{
+			"move": "Ice Beam",
+			"tm": "TM13"
+		},
+		{
+			"move": "Blizzard",
+			"tm": "TM14"
+		},
+		{
+			"move": "Light Screen",
+			"tm": "TM16"
+		},
+		{
+			"move": "Protect",
+			"tm": "TM17"
+		},
+		{
+			"move": "Rain Dance",
+			"tm": "TM18"
+		},
+		{
+			"move": "Safeguard",
+			"tm": "TM20"
+		},
+		{
+			"move": "Frustration",
+			"tm": "TM21"
+		},
+		{
+			"move": "Solar Beam",
+			"tm": "TM22"
+		},
+		{
+			"move": "Thunderbolt",
+			"tm": "TM24"
+		},
+		{
+			"move": "Thunder",
+			"tm": "TM25"
+		},
+		{
+			"move": "Return",
+			"tm": "TM27"
+		},
+		{
+			"move": "Psychic",
+			"tm": "TM29"
+		},
+		{
+			"move": "Shadow Ball",
+			"tm": "TM30"
+		},
+		{
+			"move": "Brick Break",
+			"tm": "TM31"
+		},
+		{
+			"move": "Double Team",
+			"tm": "TM32"
+		},
+		{
+			"move": "Reflect",
+			"tm": "TM33"
+		},
+		{
+			"move": "Flamethrower",
+			"tm": "TM35"
+		},
+		{
+			"move": "Fire Blast",
+			"tm": "TM38"
+		},
+		{
+			"move": "Facade",
+			"tm": "TM42"
+		},
+		{
+			"move": "Rest",
+			"tm": "TM44"
+		},
+		{
+			"move": "Attract",
+			"tm": "TM45"
+		},
+		{
+			"move": "Round",
+			"tm": "TM48"
+		},
+		{
+			"move": "Echoed Voice",
+			"tm": "TM49"
+		},
+		{
+			"move": "Fling",
+			"tm": "TM56"
+		},
+		{
+			"move": "Charge Beam",
+			"tm": "TM57"
+		},
+		{
+			"move": "Thunder Wave",
+			"tm": "TM73"
+		},
+		{
+			"move": "Gyro Ball",
+			"tm": "TM74"
+		},
+		{
+			"move": "Psych Up",
+			"tm": "TM77"
+		},
+		{
+			"move": "Dream Eater",
+			"tm": "TM85"
+		},
+		{
+			"move": "Grass Knot",
+			"tm": "TM86"
+		},
+		{
+			"move": "Swagger",
+			"tm": "TM87"
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": "TM88"
+		},
+		{
+			"move": "Substitute",
+			"tm": "TM90"
+		},
+		{
+			"move": "Wild Charge",
+			"tm": "TM93"
+		},
+		{
+			"move": "Dazzling Gleam",
+			"tm": "TM99"
+		},
+		{
+			"move": "Confide",
+			"tm": "TM100"
+		}
+	]
 }

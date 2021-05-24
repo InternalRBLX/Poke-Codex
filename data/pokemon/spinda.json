@@ -1,308 +1,300 @@
 {
-    "name": "Spinda",
-    "national_id": 327,
-    "types": [
-        "Normal"
-    ],
-    "items": [
-        {
-            "name": "Chesto Berry",
-            "chance": 5
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Own Tempo"
-        },
-        {
-            "name": "Tangled Feet"
-        },
-        {
-            "name": "Contrary",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 255,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Field",
-        "Human-Like"
-    ],
-    "hatch_time": [
-        4080,
-        4334
-    ],
-    "height_us": "3'07\"",
-    "height_eu": "1.1 m",
-    "weight_us": "11.0 lbs.",
-    "weight_eu": "5.0 kg",
-    "base_exp_yield": 126,
-    "leveling_rate": "Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 1,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 60,
-        "atk": 60,
-        "def": 60,
-        "sp_atk": 60,
-        "sp_def": 60,
-        "speed": 60
-    },
-    "evolution_from": null,
-    "evolutions": [],
-    "species": "Spot Panda Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "No two Spinda are said to have identical spot patterns on their hides. This Pokémon moves in a curious manner as if it is stumbling in dizziness. Its lurching movements can cause the opponent to become confused.",
-    "move_learnset": [
-        {
-            "move": "Tackle",
-            "level": 1
-        },
-        {
-            "move": "Copycat",
-            "level": 5
-        },
-        {
-            "move": "Feint Attack",
-            "level": 10
-        },
-        {
-            "move": "Psybeam",
-            "level": 14
-        },
-        {
-            "move": "Hypnosis",
-            "level": 19
-        },
-        {
-            "move": "Dizzy Punch",
-            "level": 23
-        },
-        {
-            "move": "Sucker Punch",
-            "level": 28
-        },
-        {
-            "move": "Teeter Dance",
-            "level": 32
-        },
-        {
-            "move": "Uproar",
-            "level": 37
-        },
-        {
-            "move": "Psych Up",
-            "level": 41
-        },
-        {
-            "move": "Double-Edge",
-            "level": 46
-        },
-        {
-            "move": "Flail",
-            "level": 50
-        },
-        {
-            "move": "Thrash",
-            "level": 55
-        },
-        {
-            "move": "Assist",
-            "egg_move": true
-        },
-        {
-            "move": "Baton Pass",
-            "egg_move": true
-        },
-        {
-            "move": "Disable",
-            "egg_move": true
-        },
-        {
-            "move": "Encore",
-            "egg_move": true
-        },
-        {
-            "move": "Fake Out",
-            "egg_move": true
-        },
-        {
-            "move": "Fake Tears",
-            "egg_move": true
-        },
-        {
-            "move": "Guard Split",
-            "egg_move": true
-        },
-        {
-            "move": "Icy Wind",
-            "egg_move": true
-        },
-        {
-            "move": "Psycho Cut",
-            "egg_move": true
-        },
-        {
-            "move": "Psycho Shift",
-            "egg_move": true
-        },
-        {
-            "move": "Rapid Spin",
-            "egg_move": true
-        },
-        {
-            "move": "Role Play",
-            "egg_move": true
-        },
-        {
-            "move": "Smelling Salts",
-            "egg_move": true
-        },
-        {
-            "move": "Spotlight",
-            "egg_move": true
-        },
-        {
-            "move": "Trick",
-            "egg_move": true
-        },
-        {
-            "move": "Water Pulse",
-            "egg_move": true
-        },
-        {
-            "move": "Wish",
-            "egg_move": true
-        },
-        {
-            "move": "Work Up",
-            "tm": "TM1"
-        },
-        {
-            "move": "Calm Mind",
-            "tm": "TM4"
-        },
-        {
-            "move": "Toxic",
-            "tm": "TM6"
-        },
-        {
-            "move": "Hidden Power",
-            "tm": "TM10"
-        },
-        {
-            "move": "Sunny Day",
-            "tm": "TM11"
-        },
-        {
-            "move": "Protect",
-            "tm": "TM17"
-        },
-        {
-            "move": "Rain Dance",
-            "tm": "TM18"
-        },
-        {
-            "move": "Safeguard",
-            "tm": "TM20"
-        },
-        {
-            "move": "Frustration",
-            "tm": "TM21"
-        },
-        {
-            "move": "Return",
-            "tm": "TM27"
-        },
-        {
-            "move": "Psychic",
-            "tm": "TM29"
-        },
-        {
-            "move": "Shadow Ball",
-            "tm": "TM30"
-        },
-        {
-            "move": "Brick Break",
-            "tm": "TM31"
-        },
-        {
-            "move": "Double Team",
-            "tm": "TM32"
-        },
-        {
-            "move": "Rock Tomb",
-            "tm": "TM39"
-        },
-        {
-            "move": "Facade",
-            "tm": "TM42"
-        },
-        {
-            "move": "Rest",
-            "tm": "TM44"
-        },
-        {
-            "move": "Attract",
-            "tm": "TM45"
-        },
-        {
-            "move": "Thief",
-            "tm": "TM46"
-        },
-        {
-            "move": "Round",
-            "tm": "TM48"
-        },
-        {
-            "move": "Fling",
-            "tm": "TM56"
-        },
-        {
-            "move": "Psych Up",
-            "tm": "TM77"
-        },
-        {
-            "move": "Rock Slide",
-            "tm": "TM80"
-        },
-        {
-            "move": "Dream Eater",
-            "tm": "TM85"
-        },
-        {
-            "move": "Swagger",
-            "tm": "TM87"
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": "TM88"
-        },
-        {
-            "move": "Substitute",
-            "tm": "TM90"
-        },
-        {
-            "move": "Trick Room",
-            "tm": "TM92"
-        },
-        {
-            "move": "Wild Charge",
-            "tm": "TM93"
-        },
-        {
-            "move": "Confide",
-            "tm": "TM100"
-        }
-    ]
+	"name": "Spinda",
+	"national_id": 327,
+	"types": ["Normal"],
+	"items": [
+		{
+			"name": "Chesto Berry",
+			"chance": 5
+		}
+	],
+	"abilities": [
+		{
+			"name": "Own Tempo"
+		},
+		{
+			"name": "Tangled Feet"
+		},
+		{
+			"name": "Contrary",
+			"hidden": true
+		}
+	],
+	"catch_rate": 255,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Field", "Human-Like"],
+	"hatch_time": [4080, 4334],
+	"height_us": "3'07\"",
+	"height_eu": "1.1 m",
+	"weight_us": "11.0 lbs.",
+	"weight_eu": "5.0 kg",
+	"base_exp_yield": 126,
+	"leveling_rate": "Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 1,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 60,
+		"atk": 60,
+		"def": 60,
+		"sp_atk": 60,
+		"sp_def": 60,
+		"speed": 60
+	},
+	"evolution_from": null,
+	"evolutions": [],
+	"species": "Spot Panda Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "No two Spinda are said to have identical spot patterns on their hides. This Pokémon moves in a curious manner as if it is stumbling in dizziness. Its lurching movements can cause the opponent to become confused.",
+	"move_learnset": [
+		{
+			"move": "Tackle",
+			"level": 1
+		},
+		{
+			"move": "Copycat",
+			"level": 5
+		},
+		{
+			"move": "Feint Attack",
+			"level": 10
+		},
+		{
+			"move": "Psybeam",
+			"level": 14
+		},
+		{
+			"move": "Hypnosis",
+			"level": 19
+		},
+		{
+			"move": "Dizzy Punch",
+			"level": 23
+		},
+		{
+			"move": "Sucker Punch",
+			"level": 28
+		},
+		{
+			"move": "Teeter Dance",
+			"level": 32
+		},
+		{
+			"move": "Uproar",
+			"level": 37
+		},
+		{
+			"move": "Psych Up",
+			"level": 41
+		},
+		{
+			"move": "Double-Edge",
+			"level": 46
+		},
+		{
+			"move": "Flail",
+			"level": 50
+		},
+		{
+			"move": "Thrash",
+			"level": 55
+		},
+		{
+			"move": "Assist",
+			"egg_move": true
+		},
+		{
+			"move": "Baton Pass",
+			"egg_move": true
+		},
+		{
+			"move": "Disable",
+			"egg_move": true
+		},
+		{
+			"move": "Encore",
+			"egg_move": true
+		},
+		{
+			"move": "Fake Out",
+			"egg_move": true
+		},
+		{
+			"move": "Fake Tears",
+			"egg_move": true
+		},
+		{
+			"move": "Guard Split",
+			"egg_move": true
+		},
+		{
+			"move": "Icy Wind",
+			"egg_move": true
+		},
+		{
+			"move": "Psycho Cut",
+			"egg_move": true
+		},
+		{
+			"move": "Psycho Shift",
+			"egg_move": true
+		},
+		{
+			"move": "Rapid Spin",
+			"egg_move": true
+		},
+		{
+			"move": "Role Play",
+			"egg_move": true
+		},
+		{
+			"move": "Smelling Salts",
+			"egg_move": true
+		},
+		{
+			"move": "Spotlight",
+			"egg_move": true
+		},
+		{
+			"move": "Trick",
+			"egg_move": true
+		},
+		{
+			"move": "Water Pulse",
+			"egg_move": true
+		},
+		{
+			"move": "Wish",
+			"egg_move": true
+		},
+		{
+			"move": "Work Up",
+			"tm": "TM1"
+		},
+		{
+			"move": "Calm Mind",
+			"tm": "TM4"
+		},
+		{
+			"move": "Toxic",
+			"tm": "TM6"
+		},
+		{
+			"move": "Hidden Power",
+			"tm": "TM10"
+		},
+		{
+			"move": "Sunny Day",
+			"tm": "TM11"
+		},
+		{
+			"move": "Protect",
+			"tm": "TM17"
+		},
+		{
+			"move": "Rain Dance",
+			"tm": "TM18"
+		},
+		{
+			"move": "Safeguard",
+			"tm": "TM20"
+		},
+		{
+			"move": "Frustration",
+			"tm": "TM21"
+		},
+		{
+			"move": "Return",
+			"tm": "TM27"
+		},
+		{
+			"move": "Psychic",
+			"tm": "TM29"
+		},
+		{
+			"move": "Shadow Ball",
+			"tm": "TM30"
+		},
+		{
+			"move": "Brick Break",
+			"tm": "TM31"
+		},
+		{
+			"move": "Double Team",
+			"tm": "TM32"
+		},
+		{
+			"move": "Rock Tomb",
+			"tm": "TM39"
+		},
+		{
+			"move": "Facade",
+			"tm": "TM42"
+		},
+		{
+			"move": "Rest",
+			"tm": "TM44"
+		},
+		{
+			"move": "Attract",
+			"tm": "TM45"
+		},
+		{
+			"move": "Thief",
+			"tm": "TM46"
+		},
+		{
+			"move": "Round",
+			"tm": "TM48"
+		},
+		{
+			"move": "Fling",
+			"tm": "TM56"
+		},
+		{
+			"move": "Psych Up",
+			"tm": "TM77"
+		},
+		{
+			"move": "Rock Slide",
+			"tm": "TM80"
+		},
+		{
+			"move": "Dream Eater",
+			"tm": "TM85"
+		},
+		{
+			"move": "Swagger",
+			"tm": "TM87"
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": "TM88"
+		},
+		{
+			"move": "Substitute",
+			"tm": "TM90"
+		},
+		{
+			"move": "Trick Room",
+			"tm": "TM92"
+		},
+		{
+			"move": "Wild Charge",
+			"tm": "TM93"
+		},
+		{
+			"move": "Confide",
+			"tm": "TM100"
+		}
+	]
 }

@@ -1,337 +1,329 @@
 {
-    "name": "Skitty",
-    "national_id": 300,
-    "types": [
-        "Normal"
-    ],
-    "items": [
-        {
-            "name": "Pecha Berry",
-            "chance": 50
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Cute Charm"
-        },
-        {
-            "name": "Normalize"
-        },
-        {
-            "name": "Wonder Skin",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 255,
-    "gender_ratios": {
-        "male": 25,
-        "female": 75
-    },
-    "egg_groups": [
-        "Field",
-        "Fairy"
-    ],
-    "hatch_time": [
-        4080,
-        4334
-    ],
-    "height_us": "2'00\"",
-    "height_eu": "0.6 m",
-    "weight_us": "24.3 lbs.",
-    "weight_eu": "11.0 kg",
-    "base_exp_yield": 52,
-    "leveling_rate": "Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 1
-    },
-    "base_stats": {
-        "hp": 50,
-        "atk": 45,
-        "def": 45,
-        "sp_atk": 35,
-        "sp_def": 35,
-        "speed": 50
-    },
-    "evolution_from": null,
-    "evolutions": [
-        {
-            "to": "Delcatty",
-            "item": "Moon Stone"
-        }
-    ],
-    "species": "Kitten Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "Skitty is known to chase around playfully after its own tail. In the wild, this Pokémon lives in holes in the trees of forests. It is very popular as a pet because of its adorable looks.",
-    "move_learnset": [
-        {
-            "move": "Fake Out",
-            "level": 1
-        },
-        {
-            "move": "Growl",
-            "level": 1
-        },
-        {
-            "move": "Tackle",
-            "level": 1
-        },
-        {
-            "move": "Tail Whip",
-            "level": 1
-        },
-        {
-            "move": "Foresight",
-            "level": 4
-        },
-        {
-            "move": "Sing",
-            "level": 7
-        },
-        {
-            "move": "Attract",
-            "level": 10
-        },
-        {
-            "move": "Disarming Voice",
-            "level": 13
-        },
-        {
-            "move": "Double Slap",
-            "level": 16
-        },
-        {
-            "move": "Copycat",
-            "level": 19
-        },
-        {
-            "move": "Feint Attack",
-            "level": 22
-        },
-        {
-            "move": "Charm",
-            "level": 25
-        },
-        {
-            "move": "Wake-Up Slap",
-            "level": 28
-        },
-        {
-            "move": "Assist",
-            "level": 31
-        },
-        {
-            "move": "Covet",
-            "level": 34
-        },
-        {
-            "move": "Heal Bell",
-            "level": 37
-        },
-        {
-            "move": "Double-Edge",
-            "level": 40
-        },
-        {
-            "move": "Captivate",
-            "level": 43
-        },
-        {
-            "move": "Play Rough",
-            "level": 46
-        },
-        {
-            "move": "Baton Pass",
-            "egg_move": true
-        },
-        {
-            "move": "Captivate",
-            "egg_move": true
-        },
-        {
-            "move": "Cosmic Power",
-            "egg_move": true
-        },
-        {
-            "move": "Fake Out",
-            "egg_move": true
-        },
-        {
-            "move": "Fake Tears",
-            "egg_move": true
-        },
-        {
-            "move": "Helping Hand",
-            "egg_move": true
-        },
-        {
-            "move": "Last Resort",
-            "egg_move": true
-        },
-        {
-            "move": "Mud Bomb",
-            "egg_move": true
-        },
-        {
-            "move": "Simple Beam",
-            "egg_move": true
-        },
-        {
-            "move": "Sucker Punch",
-            "egg_move": true
-        },
-        {
-            "move": "Tickle",
-            "egg_move": true
-        },
-        {
-            "move": "Uproar",
-            "egg_move": true
-        },
-        {
-            "move": "Wish",
-            "egg_move": true
-        },
-        {
-            "move": "Zen Headbutt",
-            "egg_move": true
-        },
-        {
-            "move": "Work Up",
-            "tm": "TM1"
-        },
-        {
-            "move": "Calm Mind",
-            "tm": "TM4"
-        },
-        {
-            "move": "Toxic",
-            "tm": "TM6"
-        },
-        {
-            "move": "Hidden Power",
-            "tm": "TM10"
-        },
-        {
-            "move": "Sunny Day",
-            "tm": "TM11"
-        },
-        {
-            "move": "Ice Beam",
-            "tm": "TM13"
-        },
-        {
-            "move": "Blizzard",
-            "tm": "TM14"
-        },
-        {
-            "move": "Protect",
-            "tm": "TM17"
-        },
-        {
-            "move": "Rain Dance",
-            "tm": "TM18"
-        },
-        {
-            "move": "Safeguard",
-            "tm": "TM20"
-        },
-        {
-            "move": "Frustration",
-            "tm": "TM21"
-        },
-        {
-            "move": "Solar Beam",
-            "tm": "TM22"
-        },
-        {
-            "move": "Thunderbolt",
-            "tm": "TM24"
-        },
-        {
-            "move": "Thunder",
-            "tm": "TM25"
-        },
-        {
-            "move": "Return",
-            "tm": "TM27"
-        },
-        {
-            "move": "Shadow Ball",
-            "tm": "TM30"
-        },
-        {
-            "move": "Double Team",
-            "tm": "TM32"
-        },
-        {
-            "move": "Facade",
-            "tm": "TM42"
-        },
-        {
-            "move": "Rest",
-            "tm": "TM44"
-        },
-        {
-            "move": "Attract",
-            "tm": "TM45"
-        },
-        {
-            "move": "Round",
-            "tm": "TM48"
-        },
-        {
-            "move": "Echoed Voice",
-            "tm": "TM49"
-        },
-        {
-            "move": "Charge Beam",
-            "tm": "TM57"
-        },
-        {
-            "move": "Payback",
-            "tm": "TM66"
-        },
-        {
-            "move": "Thunder Wave",
-            "tm": "TM73"
-        },
-        {
-            "move": "Psych Up",
-            "tm": "TM77"
-        },
-        {
-            "move": "Dream Eater",
-            "tm": "TM85"
-        },
-        {
-            "move": "Grass Knot",
-            "tm": "TM86"
-        },
-        {
-            "move": "Swagger",
-            "tm": "TM87"
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": "TM88"
-        },
-        {
-            "move": "Substitute",
-            "tm": "TM90"
-        },
-        {
-            "move": "Wild Charge",
-            "tm": "TM93"
-        },
-        {
-            "move": "Confide",
-            "tm": "TM100"
-        }
-    ]
+	"name": "Skitty",
+	"national_id": 300,
+	"types": ["Normal"],
+	"items": [
+		{
+			"name": "Pecha Berry",
+			"chance": 50
+		}
+	],
+	"abilities": [
+		{
+			"name": "Cute Charm"
+		},
+		{
+			"name": "Normalize"
+		},
+		{
+			"name": "Wonder Skin",
+			"hidden": true
+		}
+	],
+	"catch_rate": 255,
+	"gender_ratios": {
+		"male": 25,
+		"female": 75
+	},
+	"egg_groups": ["Field", "Fairy"],
+	"hatch_time": [4080, 4334],
+	"height_us": "2'00\"",
+	"height_eu": "0.6 m",
+	"weight_us": "24.3 lbs.",
+	"weight_eu": "11.0 kg",
+	"base_exp_yield": 52,
+	"leveling_rate": "Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 1
+	},
+	"base_stats": {
+		"hp": 50,
+		"atk": 45,
+		"def": 45,
+		"sp_atk": 35,
+		"sp_def": 35,
+		"speed": 50
+	},
+	"evolution_from": null,
+	"evolutions": [
+		{
+			"to": "Delcatty",
+			"item": "Moon Stone"
+		}
+	],
+	"species": "Kitten Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "Skitty is known to chase around playfully after its own tail. In the wild, this Pokémon lives in holes in the trees of forests. It is very popular as a pet because of its adorable looks.",
+	"move_learnset": [
+		{
+			"move": "Fake Out",
+			"level": 1
+		},
+		{
+			"move": "Growl",
+			"level": 1
+		},
+		{
+			"move": "Tackle",
+			"level": 1
+		},
+		{
+			"move": "Tail Whip",
+			"level": 1
+		},
+		{
+			"move": "Foresight",
+			"level": 4
+		},
+		{
+			"move": "Sing",
+			"level": 7
+		},
+		{
+			"move": "Attract",
+			"level": 10
+		},
+		{
+			"move": "Disarming Voice",
+			"level": 13
+		},
+		{
+			"move": "Double Slap",
+			"level": 16
+		},
+		{
+			"move": "Copycat",
+			"level": 19
+		},
+		{
+			"move": "Feint Attack",
+			"level": 22
+		},
+		{
+			"move": "Charm",
+			"level": 25
+		},
+		{
+			"move": "Wake-Up Slap",
+			"level": 28
+		},
+		{
+			"move": "Assist",
+			"level": 31
+		},
+		{
+			"move": "Covet",
+			"level": 34
+		},
+		{
+			"move": "Heal Bell",
+			"level": 37
+		},
+		{
+			"move": "Double-Edge",
+			"level": 40
+		},
+		{
+			"move": "Captivate",
+			"level": 43
+		},
+		{
+			"move": "Play Rough",
+			"level": 46
+		},
+		{
+			"move": "Baton Pass",
+			"egg_move": true
+		},
+		{
+			"move": "Captivate",
+			"egg_move": true
+		},
+		{
+			"move": "Cosmic Power",
+			"egg_move": true
+		},
+		{
+			"move": "Fake Out",
+			"egg_move": true
+		},
+		{
+			"move": "Fake Tears",
+			"egg_move": true
+		},
+		{
+			"move": "Helping Hand",
+			"egg_move": true
+		},
+		{
+			"move": "Last Resort",
+			"egg_move": true
+		},
+		{
+			"move": "Mud Bomb",
+			"egg_move": true
+		},
+		{
+			"move": "Simple Beam",
+			"egg_move": true
+		},
+		{
+			"move": "Sucker Punch",
+			"egg_move": true
+		},
+		{
+			"move": "Tickle",
+			"egg_move": true
+		},
+		{
+			"move": "Uproar",
+			"egg_move": true
+		},
+		{
+			"move": "Wish",
+			"egg_move": true
+		},
+		{
+			"move": "Zen Headbutt",
+			"egg_move": true
+		},
+		{
+			"move": "Work Up",
+			"tm": "TM1"
+		},
+		{
+			"move": "Calm Mind",
+			"tm": "TM4"
+		},
+		{
+			"move": "Toxic",
+			"tm": "TM6"
+		},
+		{
+			"move": "Hidden Power",
+			"tm": "TM10"
+		},
+		{
+			"move": "Sunny Day",
+			"tm": "TM11"
+		},
+		{
+			"move": "Ice Beam",
+			"tm": "TM13"
+		},
+		{
+			"move": "Blizzard",
+			"tm": "TM14"
+		},
+		{
+			"move": "Protect",
+			"tm": "TM17"
+		},
+		{
+			"move": "Rain Dance",
+			"tm": "TM18"
+		},
+		{
+			"move": "Safeguard",
+			"tm": "TM20"
+		},
+		{
+			"move": "Frustration",
+			"tm": "TM21"
+		},
+		{
+			"move": "Solar Beam",
+			"tm": "TM22"
+		},
+		{
+			"move": "Thunderbolt",
+			"tm": "TM24"
+		},
+		{
+			"move": "Thunder",
+			"tm": "TM25"
+		},
+		{
+			"move": "Return",
+			"tm": "TM27"
+		},
+		{
+			"move": "Shadow Ball",
+			"tm": "TM30"
+		},
+		{
+			"move": "Double Team",
+			"tm": "TM32"
+		},
+		{
+			"move": "Facade",
+			"tm": "TM42"
+		},
+		{
+			"move": "Rest",
+			"tm": "TM44"
+		},
+		{
+			"move": "Attract",
+			"tm": "TM45"
+		},
+		{
+			"move": "Round",
+			"tm": "TM48"
+		},
+		{
+			"move": "Echoed Voice",
+			"tm": "TM49"
+		},
+		{
+			"move": "Charge Beam",
+			"tm": "TM57"
+		},
+		{
+			"move": "Payback",
+			"tm": "TM66"
+		},
+		{
+			"move": "Thunder Wave",
+			"tm": "TM73"
+		},
+		{
+			"move": "Psych Up",
+			"tm": "TM77"
+		},
+		{
+			"move": "Dream Eater",
+			"tm": "TM85"
+		},
+		{
+			"move": "Grass Knot",
+			"tm": "TM86"
+		},
+		{
+			"move": "Swagger",
+			"tm": "TM87"
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": "TM88"
+		},
+		{
+			"move": "Substitute",
+			"tm": "TM90"
+		},
+		{
+			"move": "Wild Charge",
+			"tm": "TM93"
+		},
+		{
+			"move": "Confide",
+			"tm": "TM100"
+		}
+	]
 }

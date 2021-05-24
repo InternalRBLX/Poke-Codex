@@ -1,87 +1,80 @@
 {
-    "name": "Spewpa",
-    "national_id": 665,
-    "types": [
-        "Bug"
-    ],
-    "abilities": [
-        {
-            "name": "Shed Skin"
-        },
-        {
-            "name": "Friend Guard",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 120,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Bug"
-    ],
-    "hatch_time": [
-        4080,
-        4334
-    ],
-    "height_us": "1'00\"",
-    "height_eu": "0.3 m",
-    "weight_us": "18.5 lbs.",
-    "weight_eu": "8.4 kg",
-    "base_exp_yield": 75,
-    "leveling_rate": "Medium Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 2,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 45,
-        "atk": 22,
-        "def": 60,
-        "sp_atk": 27,
-        "sp_def": 30,
-        "speed": 29
-    },
-    "evolution_from": "Scatterbug",
-    "evolutions": [
-        {
-            "to": "Vivillon",
-            "level": 12
-        }
-    ],
-    "species": "Scatterdust Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "The beaks of birds can't begin to scratch its stalwart body. To defend itself, it spews powder.",
-    "move_learnset": [
-        {
-            "move": "Harden",
-            "level": 1
-        },
-        {
-            "move": "Protect",
-            "level": 1
-        },
-        {
-            "move": "Poison Powder",
-            "egg_move": true
-        },
-        {
-            "move": "Rage Powder",
-            "egg_move": true
-        },
-        {
-            "move": "Stun Spore",
-            "egg_move": true
-        },
-        {
-            "move": "Protect",
-            "tm": "TM17"
-        }
-    ]
+	"name": "Spewpa",
+	"national_id": 665,
+	"types": ["Bug"],
+	"abilities": [
+		{
+			"name": "Shed Skin"
+		},
+		{
+			"name": "Friend Guard",
+			"hidden": true
+		}
+	],
+	"catch_rate": 120,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Bug"],
+	"hatch_time": [4080, 4334],
+	"height_us": "1'00\"",
+	"height_eu": "0.3 m",
+	"weight_us": "18.5 lbs.",
+	"weight_eu": "8.4 kg",
+	"base_exp_yield": 75,
+	"leveling_rate": "Medium Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 2,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 45,
+		"atk": 22,
+		"def": 60,
+		"sp_atk": 27,
+		"sp_def": 30,
+		"speed": 29
+	},
+	"evolution_from": "Scatterbug",
+	"evolutions": [
+		{
+			"to": "Vivillon",
+			"level": 12
+		}
+	],
+	"species": "Scatterdust Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "The beaks of birds can't begin to scratch its stalwart body. To defend itself, it spews powder.",
+	"move_learnset": [
+		{
+			"move": "Harden",
+			"level": 1
+		},
+		{
+			"move": "Protect",
+			"level": 1
+		},
+		{
+			"move": "Poison Powder",
+			"egg_move": true
+		},
+		{
+			"move": "Rage Powder",
+			"egg_move": true
+		},
+		{
+			"move": "Stun Spore",
+			"egg_move": true
+		},
+		{
+			"move": "Protect",
+			"tm": "TM17"
+		}
+	]
 }

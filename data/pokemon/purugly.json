@@ -1,307 +1,300 @@
 {
-    "name": "Purugly",
-    "national_id": 432,
-    "types": [
-        "Normal"
-    ],
-    "items": [
-        {
-            "name": "Cheri Berry",
-            "chance": 5
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Thick Fat"
-        },
-        {
-            "name": "Own Tempo"
-        },
-        {
-            "name": "Defiant",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 75,
-    "gender_ratios": {
-        "male": 25,
-        "female": 75
-    },
-    "egg_groups": [
-        "Field"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "3'03\"",
-    "height_eu": "1.0 m",
-    "weight_us": "96.6 lbs.",
-    "weight_eu": "43.8 kg",
-    "base_exp_yield": 158,
-    "leveling_rate": "Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 2
-    },
-    "base_stats": {
-        "hp": 71,
-        "atk": 82,
-        "def": 64,
-        "sp_atk": 64,
-        "sp_def": 59,
-        "speed": 112
-    },
-    "evolution_from": "Glameow",
-    "evolutions": [],
-    "species": "Tiger Cat Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "To make itself appear intimidatingly beefy, it tightly cinches its waist with its twin tails.",
-    "move_learnset": [
-        {
-            "move": "Fake Out",
-            "level": 1
-        },
-        {
-            "move": "Growl",
-            "level": 1
-        },
-        {
-            "move": "Scratch",
-            "level": 1
-        },
-        {
-            "move": "Swagger",
-            "level": 1
-        },
-        {
-            "move": "Scratch",
-            "level": 5
-        },
-        {
-            "move": "Growl",
-            "level": 8
-        },
-        {
-            "move": "Hypnosis",
-            "level": 13
-        },
-        {
-            "move": "Feint Attack",
-            "level": 17
-        },
-        {
-            "move": "Fury Swipes",
-            "level": 20
-        },
-        {
-            "move": "Charm",
-            "level": 25
-        },
-        {
-            "move": "Assist",
-            "level": 29
-        },
-        {
-            "move": "Captivate",
-            "level": 32
-        },
-        {
-            "move": "Slash",
-            "level": 37
-        },
-        {
-            "move": "Body Slam",
-            "level": 45
-        },
-        {
-            "move": "Attract",
-            "level": 52
-        },
-        {
-            "move": "Hone Claws",
-            "level": 60
-        },
-        {
-            "move": "Assurance",
-            "egg_move": true
-        },
-        {
-            "move": "Bite",
-            "egg_move": true
-        },
-        {
-            "move": "Fake Tears",
-            "egg_move": true
-        },
-        {
-            "move": "Flail",
-            "egg_move": true
-        },
-        {
-            "move": "Last Resort",
-            "egg_move": true
-        },
-        {
-            "move": "Quick Attack",
-            "egg_move": true
-        },
-        {
-            "move": "Sand Attack",
-            "egg_move": true
-        },
-        {
-            "move": "Snatch",
-            "egg_move": true
-        },
-        {
-            "move": "Tail Whip",
-            "egg_move": true
-        },
-        {
-            "move": "Wake-Up Slap",
-            "egg_move": true
-        },
-        {
-            "move": "Work Up",
-            "tm": "TM1"
-        },
-        {
-            "move": "Roar",
-            "tm": "TM5"
-        },
-        {
-            "move": "Toxic",
-            "tm": "TM6"
-        },
-        {
-            "move": "Hidden Power",
-            "tm": "TM10"
-        },
-        {
-            "move": "Sunny Day",
-            "tm": "TM11"
-        },
-        {
-            "move": "Taunt",
-            "tm": "TM12"
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": "TM15"
-        },
-        {
-            "move": "Protect",
-            "tm": "TM17"
-        },
-        {
-            "move": "Rain Dance",
-            "tm": "TM18"
-        },
-        {
-            "move": "Frustration",
-            "tm": "TM21"
-        },
-        {
-            "move": "Thunderbolt",
-            "tm": "TM24"
-        },
-        {
-            "move": "Thunder",
-            "tm": "TM25"
-        },
-        {
-            "move": "Return",
-            "tm": "TM27"
-        },
-        {
-            "move": "Shadow Ball",
-            "tm": "TM30"
-        },
-        {
-            "move": "Double Team",
-            "tm": "TM32"
-        },
-        {
-            "move": "Aerial Ace",
-            "tm": "TM40"
-        },
-        {
-            "move": "Torment",
-            "tm": "TM41"
-        },
-        {
-            "move": "Facade",
-            "tm": "TM42"
-        },
-        {
-            "move": "Rest",
-            "tm": "TM44"
-        },
-        {
-            "move": "Attract",
-            "tm": "TM45"
-        },
-        {
-            "move": "Thief",
-            "tm": "TM46"
-        },
-        {
-            "move": "Round",
-            "tm": "TM48"
-        },
-        {
-            "move": "Echoed Voice",
-            "tm": "TM49"
-        },
-        {
-            "move": "Shadow Claw",
-            "tm": "TM65"
-        },
-        {
-            "move": "Payback",
-            "tm": "TM66"
-        },
-        {
-            "move": "Giga Impact",
-            "tm": "TM68"
-        },
-        {
-            "move": "Psych Up",
-            "tm": "TM77"
-        },
-        {
-            "move": "Bulldoze",
-            "tm": "TM78"
-        },
-        {
-            "move": "Dream Eater",
-            "tm": "TM85"
-        },
-        {
-            "move": "Swagger",
-            "tm": "TM87"
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": "TM88"
-        },
-        {
-            "move": "U-turn",
-            "tm": "TM89"
-        },
-        {
-            "move": "Substitute",
-            "tm": "TM90"
-        },
-        {
-            "move": "Confide",
-            "tm": "TM100"
-        }
-    ]
+	"name": "Purugly",
+	"national_id": 432,
+	"types": ["Normal"],
+	"items": [
+		{
+			"name": "Cheri Berry",
+			"chance": 5
+		}
+	],
+	"abilities": [
+		{
+			"name": "Thick Fat"
+		},
+		{
+			"name": "Own Tempo"
+		},
+		{
+			"name": "Defiant",
+			"hidden": true
+		}
+	],
+	"catch_rate": 75,
+	"gender_ratios": {
+		"male": 25,
+		"female": 75
+	},
+	"egg_groups": ["Field"],
+	"hatch_time": [5355, 5609],
+	"height_us": "3'03\"",
+	"height_eu": "1.0 m",
+	"weight_us": "96.6 lbs.",
+	"weight_eu": "43.8 kg",
+	"base_exp_yield": 158,
+	"leveling_rate": "Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 2
+	},
+	"base_stats": {
+		"hp": 71,
+		"atk": 82,
+		"def": 64,
+		"sp_atk": 64,
+		"sp_def": 59,
+		"speed": 112
+	},
+	"evolution_from": "Glameow",
+	"evolutions": [],
+	"species": "Tiger Cat Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "To make itself appear intimidatingly beefy, it tightly cinches its waist with its twin tails.",
+	"move_learnset": [
+		{
+			"move": "Fake Out",
+			"level": 1
+		},
+		{
+			"move": "Growl",
+			"level": 1
+		},
+		{
+			"move": "Scratch",
+			"level": 1
+		},
+		{
+			"move": "Swagger",
+			"level": 1
+		},
+		{
+			"move": "Scratch",
+			"level": 5
+		},
+		{
+			"move": "Growl",
+			"level": 8
+		},
+		{
+			"move": "Hypnosis",
+			"level": 13
+		},
+		{
+			"move": "Feint Attack",
+			"level": 17
+		},
+		{
+			"move": "Fury Swipes",
+			"level": 20
+		},
+		{
+			"move": "Charm",
+			"level": 25
+		},
+		{
+			"move": "Assist",
+			"level": 29
+		},
+		{
+			"move": "Captivate",
+			"level": 32
+		},
+		{
+			"move": "Slash",
+			"level": 37
+		},
+		{
+			"move": "Body Slam",
+			"level": 45
+		},
+		{
+			"move": "Attract",
+			"level": 52
+		},
+		{
+			"move": "Hone Claws",
+			"level": 60
+		},
+		{
+			"move": "Assurance",
+			"egg_move": true
+		},
+		{
+			"move": "Bite",
+			"egg_move": true
+		},
+		{
+			"move": "Fake Tears",
+			"egg_move": true
+		},
+		{
+			"move": "Flail",
+			"egg_move": true
+		},
+		{
+			"move": "Last Resort",
+			"egg_move": true
+		},
+		{
+			"move": "Quick Attack",
+			"egg_move": true
+		},
+		{
+			"move": "Sand Attack",
+			"egg_move": true
+		},
+		{
+			"move": "Snatch",
+			"egg_move": true
+		},
+		{
+			"move": "Tail Whip",
+			"egg_move": true
+		},
+		{
+			"move": "Wake-Up Slap",
+			"egg_move": true
+		},
+		{
+			"move": "Work Up",
+			"tm": "TM1"
+		},
+		{
+			"move": "Roar",
+			"tm": "TM5"
+		},
+		{
+			"move": "Toxic",
+			"tm": "TM6"
+		},
+		{
+			"move": "Hidden Power",
+			"tm": "TM10"
+		},
+		{
+			"move": "Sunny Day",
+			"tm": "TM11"
+		},
+		{
+			"move": "Taunt",
+			"tm": "TM12"
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": "TM15"
+		},
+		{
+			"move": "Protect",
+			"tm": "TM17"
+		},
+		{
+			"move": "Rain Dance",
+			"tm": "TM18"
+		},
+		{
+			"move": "Frustration",
+			"tm": "TM21"
+		},
+		{
+			"move": "Thunderbolt",
+			"tm": "TM24"
+		},
+		{
+			"move": "Thunder",
+			"tm": "TM25"
+		},
+		{
+			"move": "Return",
+			"tm": "TM27"
+		},
+		{
+			"move": "Shadow Ball",
+			"tm": "TM30"
+		},
+		{
+			"move": "Double Team",
+			"tm": "TM32"
+		},
+		{
+			"move": "Aerial Ace",
+			"tm": "TM40"
+		},
+		{
+			"move": "Torment",
+			"tm": "TM41"
+		},
+		{
+			"move": "Facade",
+			"tm": "TM42"
+		},
+		{
+			"move": "Rest",
+			"tm": "TM44"
+		},
+		{
+			"move": "Attract",
+			"tm": "TM45"
+		},
+		{
+			"move": "Thief",
+			"tm": "TM46"
+		},
+		{
+			"move": "Round",
+			"tm": "TM48"
+		},
+		{
+			"move": "Echoed Voice",
+			"tm": "TM49"
+		},
+		{
+			"move": "Shadow Claw",
+			"tm": "TM65"
+		},
+		{
+			"move": "Payback",
+			"tm": "TM66"
+		},
+		{
+			"move": "Giga Impact",
+			"tm": "TM68"
+		},
+		{
+			"move": "Psych Up",
+			"tm": "TM77"
+		},
+		{
+			"move": "Bulldoze",
+			"tm": "TM78"
+		},
+		{
+			"move": "Dream Eater",
+			"tm": "TM85"
+		},
+		{
+			"move": "Swagger",
+			"tm": "TM87"
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": "TM88"
+		},
+		{
+			"move": "U-turn",
+			"tm": "TM89"
+		},
+		{
+			"move": "Substitute",
+			"tm": "TM90"
+		},
+		{
+			"move": "Confide",
+			"tm": "TM100"
+		}
+	]
 }

@@ -1,357 +1,348 @@
 {
-    "name": "Runerigus",
-    "national_id": 867,
-    "types": [
-        "Ground",
-        "Ghost"
-    ],
-    "abilities": [
-        {
-            "name": "Wandering Spirit"
-        }
-    ],
-    "catch_rate": 90,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Mineral",
-        "Amorphous"
-    ],
-    "hatch_time": [
-        6425,
-        6681
-    ],
-    "height_us": "5'03\"",
-    "height_eu": "1.6 m",
-    "weight_us": "146.8 lbs.",
-    "weight_eu": "66.6 kg",
-    "base_exp_yield": 169,
-    "leveling_rate": "Medium Fast",
-    "base_friendship": 50,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 2,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 58,
-        "atk": 95,
-        "def": 145,
-        "sp_atk": 50,
-        "sp_def": 105,
-        "speed": 30
-    },
-    "evolution_from": "Yamask",
-    "evolution_from_regional": "Galarian",
-    "evolutions": [],
-    "species": "Grudge Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "Never touch its shadowlike body, or you’ll be shown the horrific memories behind the picture carved into it.",
-    "move_learnset": [
-        {
-            "move": "Shadow Claw",
-            "evo": true
-        },
-        {
-            "move": "Shadow Claw",
-            "level": 1
-        },
-        {
-            "move": "Scary Face",
-            "level": 1
-        },
-        {
-            "move": "Astonish",
-            "level": 1
-        },
-        {
-            "move": "Protect",
-            "level": 1
-        },
-        {
-            "move": "Haze",
-            "level": 1
-        },
-        {
-            "move": "Night Shade",
-            "level": 1
-        },
-        {
-            "move": "Disable",
-            "level": 12
-        },
-        {
-            "move": "Brutal Swing",
-            "level": 16
-        },
-        {
-            "move": "Crafty Shield",
-            "level": 20
-        },
-        {
-            "move": "Hex",
-            "level": 24
-        },
-        {
-            "move": "Mean Look",
-            "level": 28
-        },
-        {
-            "move": "Slam",
-            "level": 32
-        },
-        {
-            "move": "Curse",
-            "level": 38
-        },
-        {
-            "move": "Shadow Ball",
-            "level": 44
-        },
-        {
-            "move": "Earthquake",
-            "level": 50
-        },
-        {
-            "move": "Power Split",
-            "level": 56
-        },
-        {
-            "move": "Guard Split",
-            "level": 56
-        },
-        {
-            "move": "Destiny Bond",
-            "level": 62
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": true
-        },
-        {
-            "move": "Giga Impact",
-            "tm": true
-        },
-        {
-            "move": "Safeguard",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Rock Slide",
-            "tm": true
-        },
-        {
-            "move": "Thief",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Scary Face",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Sandstorm",
-            "tm": true
-        },
-        {
-            "move": "Rain Dance",
-            "tm": true
-        },
-        {
-            "move": "Will-O-Wisp",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Revenge",
-            "tm": true
-        },
-        {
-            "move": "Imprison",
-            "tm": true
-        },
-        {
-            "move": "Fake Tears",
-            "tm": true
-        },
-        {
-            "move": "Rock Tomb",
-            "tm": true
-        },
-        {
-            "move": "Sand Tomb",
-            "tm": true
-        },
-        {
-            "move": "Rock Blast",
-            "tm": true
-        },
-        {
-            "move": "Payback",
-            "tm": true
-        },
-        {
-            "move": "Power Swap",
-            "tm": true
-        },
-        {
-            "move": "Guard Swap",
-            "tm": true
-        },
-        {
-            "move": "Shadow Claw",
-            "tm": true
-        },
-        {
-            "move": "Trick Room",
-            "tm": true
-        },
-        {
-            "move": "Wonder Room",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Hex",
-            "tm": true
-        },
-        {
-            "move": "Bulldoze",
-            "tm": true
-        },
-        {
-            "move": "Phantom Force",
-            "tm": true
-        },
-        {
-            "move": "Brutal Swing",
-            "tm": true
-        },
-        {
-            "move": "Earthquake",
-            "tm": true
-        },
-        {
-            "move": "Psychic",
-            "tm": true
-        },
-        {
-            "move": "Amnesia",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Shadow Ball",
-            "tm": true
-        },
-        {
-            "move": "Taunt",
-            "tm": true
-        },
-        {
-            "move": "Trick",
-            "tm": true
-        },
-        {
-            "move": "Skill Swap",
-            "tm": true
-        },
-        {
-            "move": "Iron Defense",
-            "tm": true
-        },
-        {
-            "move": "Calm Mind",
-            "tm": true
-        },
-        {
-            "move": "Toxic Spikes",
-            "tm": true
-        },
-        {
-            "move": "Dark Pulse",
-            "tm": true
-        },
-        {
-            "move": "Dragon Pulse",
-            "tm": true
-        },
-        {
-            "move": "Energy Ball",
-            "tm": true
-        },
-        {
-            "move": "Earth Power",
-            "tm": true
-        },
-        {
-            "move": "Nasty Plot",
-            "tm": true
-        },
-        {
-            "move": "Zen Headbutt",
-            "tm": true
-        },
-        {
-            "move": "Stone Edge",
-            "tm": true
-        },
-        {
-            "move": "Stealth Rock",
-            "tm": true
-        },
-        {
-            "move": "Grass Knot",
-            "tm": true
-        },
-        {
-            "move": "Ally Switch",
-            "tm": true
-        },
-        {
-            "move": "Body Press",
-            "tm": true
-        },
-        {
-            "move": "Memento",
-            "egg_move": true
-        }
-    ]
+	"name": "Runerigus",
+	"national_id": 867,
+	"types": ["Ground", "Ghost"],
+	"abilities": [
+		{
+			"name": "Wandering Spirit"
+		}
+	],
+	"catch_rate": 90,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Mineral", "Amorphous"],
+	"hatch_time": [6425, 6681],
+	"height_us": "5'03\"",
+	"height_eu": "1.6 m",
+	"weight_us": "146.8 lbs.",
+	"weight_eu": "66.6 kg",
+	"base_exp_yield": 169,
+	"leveling_rate": "Medium Fast",
+	"base_friendship": 50,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 2,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 58,
+		"atk": 95,
+		"def": 145,
+		"sp_atk": 50,
+		"sp_def": 105,
+		"speed": 30
+	},
+	"evolution_from": "Yamask",
+	"evolution_from_regional": "Galarian",
+	"evolutions": [],
+	"species": "Grudge Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "Never touch its shadowlike body, or you’ll be shown the horrific memories behind the picture carved into it.",
+	"move_learnset": [
+		{
+			"move": "Shadow Claw",
+			"evo": true
+		},
+		{
+			"move": "Shadow Claw",
+			"level": 1
+		},
+		{
+			"move": "Scary Face",
+			"level": 1
+		},
+		{
+			"move": "Astonish",
+			"level": 1
+		},
+		{
+			"move": "Protect",
+			"level": 1
+		},
+		{
+			"move": "Haze",
+			"level": 1
+		},
+		{
+			"move": "Night Shade",
+			"level": 1
+		},
+		{
+			"move": "Disable",
+			"level": 12
+		},
+		{
+			"move": "Brutal Swing",
+			"level": 16
+		},
+		{
+			"move": "Crafty Shield",
+			"level": 20
+		},
+		{
+			"move": "Hex",
+			"level": 24
+		},
+		{
+			"move": "Mean Look",
+			"level": 28
+		},
+		{
+			"move": "Slam",
+			"level": 32
+		},
+		{
+			"move": "Curse",
+			"level": 38
+		},
+		{
+			"move": "Shadow Ball",
+			"level": 44
+		},
+		{
+			"move": "Earthquake",
+			"level": 50
+		},
+		{
+			"move": "Power Split",
+			"level": 56
+		},
+		{
+			"move": "Guard Split",
+			"level": 56
+		},
+		{
+			"move": "Destiny Bond",
+			"level": 62
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": true
+		},
+		{
+			"move": "Giga Impact",
+			"tm": true
+		},
+		{
+			"move": "Safeguard",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Rock Slide",
+			"tm": true
+		},
+		{
+			"move": "Thief",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Scary Face",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Sandstorm",
+			"tm": true
+		},
+		{
+			"move": "Rain Dance",
+			"tm": true
+		},
+		{
+			"move": "Will-O-Wisp",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Revenge",
+			"tm": true
+		},
+		{
+			"move": "Imprison",
+			"tm": true
+		},
+		{
+			"move": "Fake Tears",
+			"tm": true
+		},
+		{
+			"move": "Rock Tomb",
+			"tm": true
+		},
+		{
+			"move": "Sand Tomb",
+			"tm": true
+		},
+		{
+			"move": "Rock Blast",
+			"tm": true
+		},
+		{
+			"move": "Payback",
+			"tm": true
+		},
+		{
+			"move": "Power Swap",
+			"tm": true
+		},
+		{
+			"move": "Guard Swap",
+			"tm": true
+		},
+		{
+			"move": "Shadow Claw",
+			"tm": true
+		},
+		{
+			"move": "Trick Room",
+			"tm": true
+		},
+		{
+			"move": "Wonder Room",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Hex",
+			"tm": true
+		},
+		{
+			"move": "Bulldoze",
+			"tm": true
+		},
+		{
+			"move": "Phantom Force",
+			"tm": true
+		},
+		{
+			"move": "Brutal Swing",
+			"tm": true
+		},
+		{
+			"move": "Earthquake",
+			"tm": true
+		},
+		{
+			"move": "Psychic",
+			"tm": true
+		},
+		{
+			"move": "Amnesia",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Shadow Ball",
+			"tm": true
+		},
+		{
+			"move": "Taunt",
+			"tm": true
+		},
+		{
+			"move": "Trick",
+			"tm": true
+		},
+		{
+			"move": "Skill Swap",
+			"tm": true
+		},
+		{
+			"move": "Iron Defense",
+			"tm": true
+		},
+		{
+			"move": "Calm Mind",
+			"tm": true
+		},
+		{
+			"move": "Toxic Spikes",
+			"tm": true
+		},
+		{
+			"move": "Dark Pulse",
+			"tm": true
+		},
+		{
+			"move": "Dragon Pulse",
+			"tm": true
+		},
+		{
+			"move": "Energy Ball",
+			"tm": true
+		},
+		{
+			"move": "Earth Power",
+			"tm": true
+		},
+		{
+			"move": "Nasty Plot",
+			"tm": true
+		},
+		{
+			"move": "Zen Headbutt",
+			"tm": true
+		},
+		{
+			"move": "Stone Edge",
+			"tm": true
+		},
+		{
+			"move": "Stealth Rock",
+			"tm": true
+		},
+		{
+			"move": "Grass Knot",
+			"tm": true
+		},
+		{
+			"move": "Ally Switch",
+			"tm": true
+		},
+		{
+			"move": "Body Press",
+			"tm": true
+		},
+		{
+			"move": "Memento",
+			"egg_move": true
+		}
+	]
 }

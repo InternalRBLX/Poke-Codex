@@ -1,534 +1,526 @@
 {
-    "name": "Gallade",
-    "national_id": 475,
-    "types": [
-        "Psychic",
-        "Fighting"
-    ],
-    "abilities": [
-        {
-            "name": "Steadfast"
-        },
-        {
-            "name": "Justified",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 45,
-    "gender_ratios": {
-        "male": 100
-    },
-    "egg_groups": [
-        "Amorphous"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "5'03\"",
-    "height_eu": "1.6 m",
-    "weight_us": "114.6 lbs.",
-    "weight_eu": "52.0 kg",
-    "base_exp_yield": 233,
-    "leveling_rate": "Slow",
-    "base_friendship": 35,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 3,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 68,
-        "atk": 125,
-        "def": 65,
-        "sp_atk": 65,
-        "sp_def": 115,
-        "speed": 80
-    },
-    "evolution_from": "Kirlia",
-    "evolutions": [],
-    "species": "Blade Pokémon",
-    "mega_evolves": true,
-    "pokedex_entry": "Sharply attuned to others’ wishes for help, this Pokémon seeks out those in need and aids them in battle.",
-    "move_learnset": [
-        {
-            "move": "Slash",
-            "evo": true
-        },
-        {
-            "move": "Slash",
-            "level": 1
-        },
-        {
-            "move": "Night Slash",
-            "level": 1
-        },
-        {
-            "move": "Growl",
-            "level": 1
-        },
-        {
-            "move": "Disarming Voice",
-            "level": 1
-        },
-        {
-            "move": "Hypnosis",
-            "level": 1
-        },
-        {
-            "move": "Draining Kiss",
-            "level": 1
-        },
-        {
-            "move": "Imprison",
-            "level": 1
-        },
-        {
-            "move": "Psybeam",
-            "level": 1
-        },
-        {
-            "move": "Life Dew",
-            "level": 1
-        },
-        {
-            "move": "Charm",
-            "level": 1
-        },
-        {
-            "move": "Calm Mind",
-            "level": 1
-        },
-        {
-            "move": "Psychic",
-            "level": 1
-        },
-        {
-            "move": "Dream Eater",
-            "level": 1
-        },
-        {
-            "move": "Future Sight",
-            "level": 1
-        },
-        {
-            "move": "Leer",
-            "level": 1
-        },
-        {
-            "move": "Fury Cutter",
-            "level": 1
-        },
-        {
-            "move": "Double Team",
-            "level": 1
-        },
-        {
-            "move": "Confusion",
-            "level": 1
-        },
-        {
-            "move": "Helping Hand",
-            "level": 9
-        },
-        {
-            "move": "Feint",
-            "level": 12
-        },
-        {
-            "move": "Teleport",
-            "level": 15
-        },
-        {
-            "move": "Aerial Ace",
-            "level": 18
-        },
-        {
-            "move": "False Swipe",
-            "level": 23
-        },
-        {
-            "move": "Protect",
-            "level": 28
-        },
-        {
-            "move": "Swords Dance",
-            "level": 35
-        },
-        {
-            "move": "Psycho Cut",
-            "level": 42
-        },
-        {
-            "move": "Heal Pulse",
-            "level": 49
-        },
-        {
-            "move": "Quick Guard",
-            "level": 56
-        },
-        {
-            "move": "Wide Guard",
-            "level": 56
-        },
-        {
-            "move": "Close Combat",
-            "level": 63
-        },
-        {
-            "move": "Mega Punch",
-            "tm": true
-        },
-        {
-            "move": "Mega Kick",
-            "tm": true
-        },
-        {
-            "move": "Fire Punch",
-            "tm": true
-        },
-        {
-            "move": "Ice Punch",
-            "tm": true
-        },
-        {
-            "move": "Thunder Punch",
-            "tm": true
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": true
-        },
-        {
-            "move": "Giga Impact",
-            "tm": true
-        },
-        {
-            "move": "Magical Leaf",
-            "tm": true
-        },
-        {
-            "move": "Solar Blade",
-            "tm": true
-        },
-        {
-            "move": "Thunder Wave",
-            "tm": true
-        },
-        {
-            "move": "Light Screen",
-            "tm": true
-        },
-        {
-            "move": "Reflect",
-            "tm": true
-        },
-        {
-            "move": "Safeguard",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Rock Slide",
-            "tm": true
-        },
-        {
-            "move": "Thief",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Icy Wind",
-            "tm": true
-        },
-        {
-            "move": "Charm",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Rain Dance",
-            "tm": true
-        },
-        {
-            "move": "Sunny Day",
-            "tm": true
-        },
-        {
-            "move": "Will-O-Wisp",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Swift",
-            "tm": true
-        },
-        {
-            "move": "Helping Hand",
-            "tm": true
-        },
-        {
-            "move": "Revenge",
-            "tm": true
-        },
-        {
-            "move": "Brick Break",
-            "tm": true
-        },
-        {
-            "move": "Imprison",
-            "tm": true
-        },
-        {
-            "move": "Rock Tomb",
-            "tm": true
-        },
-        {
-            "move": "Fling",
-            "tm": true
-        },
-        {
-            "move": "Drain Punch",
-            "tm": true
-        },
-        {
-            "move": "Psycho Cut",
-            "tm": true
-        },
-        {
-            "move": "Trick Room",
-            "tm": true
-        },
-        {
-            "move": "Wonder Room",
-            "tm": true
-        },
-        {
-            "move": "Magic Room",
-            "tm": true
-        },
-        {
-            "move": "Low Sweep",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Retaliate",
-            "tm": true
-        },
-        {
-            "move": "Bulldoze",
-            "tm": true
-        },
-        {
-            "move": "Draining Kiss",
-            "tm": true
-        },
-        {
-            "move": "Misty Terrain",
-            "tm": true
-        },
-        {
-            "move": "False Swipe",
-            "tm": true
-        },
-        {
-            "move": "Air Slash",
-            "tm": true
-        },
-        {
-            "move": "Swords Dance",
-            "tm": true
-        },
-        {
-            "move": "Body Slam",
-            "tm": true
-        },
-        {
-            "move": "Low Kick",
-            "tm": true
-        },
-        {
-            "move": "Thunderbolt",
-            "tm": true
-        },
-        {
-            "move": "Earthquake",
-            "tm": true
-        },
-        {
-            "move": "Psychic",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Reversal",
-            "tm": true
-        },
-        {
-            "move": "Psyshock",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Encore",
-            "tm": true
-        },
-        {
-            "move": "Shadow Ball",
-            "tm": true
-        },
-        {
-            "move": "Future Sight",
-            "tm": true
-        },
-        {
-            "move": "Taunt",
-            "tm": true
-        },
-        {
-            "move": "Trick",
-            "tm": true
-        },
-        {
-            "move": "Skill Swap",
-            "tm": true
-        },
-        {
-            "move": "Hyper Voice",
-            "tm": true
-        },
-        {
-            "move": "Bulk Up",
-            "tm": true
-        },
-        {
-            "move": "Calm Mind",
-            "tm": true
-        },
-        {
-            "move": "Leaf Blade",
-            "tm": true
-        },
-        {
-            "move": "Close Combat",
-            "tm": true
-        },
-        {
-            "move": "Aura Sphere",
-            "tm": true
-        },
-        {
-            "move": "Poison Jab",
-            "tm": true
-        },
-        {
-            "move": "X-Scissor",
-            "tm": true
-        },
-        {
-            "move": "Focus Blast",
-            "tm": true
-        },
-        {
-            "move": "Energy Ball",
-            "tm": true
-        },
-        {
-            "move": "Zen Headbutt",
-            "tm": true
-        },
-        {
-            "move": "Stone Edge",
-            "tm": true
-        },
-        {
-            "move": "Grass Knot",
-            "tm": true
-        },
-        {
-            "move": "Stored Power",
-            "tm": true
-        },
-        {
-            "move": "Ally Switch",
-            "tm": true
-        },
-        {
-            "move": "Work Up",
-            "tm": true
-        },
-        {
-            "move": "Dazzling Gleam",
-            "tm": true
-        },
-        {
-            "move": "Throat Chop",
-            "tm": true
-        },
-        {
-            "move": "Disable",
-            "egg_move": true
-        },
-        {
-            "move": "Mean Look",
-            "egg_move": true
-        },
-        {
-            "move": "Memento",
-            "egg_move": true
-        },
-        {
-            "move": "Destiny Bond",
-            "egg_move": true
-        },
-        {
-            "move": "Grudge",
-            "egg_move": true
-        },
-        {
-            "move": "Shadow Sneak",
-            "egg_move": true
-        },
-        {
-            "move": "Confuse Ray",
-            "egg_move": true
-        },
-        {
-            "move": "Knock Off",
-            "egg_move": true
-        }
-    ]
+	"name": "Gallade",
+	"national_id": 475,
+	"types": ["Psychic", "Fighting"],
+	"abilities": [
+		{
+			"name": "Steadfast"
+		},
+		{
+			"name": "Justified",
+			"hidden": true
+		}
+	],
+	"catch_rate": 45,
+	"gender_ratios": {
+		"male": 100
+	},
+	"egg_groups": ["Amorphous"],
+	"hatch_time": [5355, 5609],
+	"height_us": "5'03\"",
+	"height_eu": "1.6 m",
+	"weight_us": "114.6 lbs.",
+	"weight_eu": "52.0 kg",
+	"base_exp_yield": 233,
+	"leveling_rate": "Slow",
+	"base_friendship": 35,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 3,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 68,
+		"atk": 125,
+		"def": 65,
+		"sp_atk": 65,
+		"sp_def": 115,
+		"speed": 80
+	},
+	"evolution_from": "Kirlia",
+	"evolutions": [],
+	"species": "Blade Pokémon",
+	"mega_evolves": true,
+	"pokedex_entry": "Sharply attuned to others’ wishes for help, this Pokémon seeks out those in need and aids them in battle.",
+	"move_learnset": [
+		{
+			"move": "Slash",
+			"evo": true
+		},
+		{
+			"move": "Slash",
+			"level": 1
+		},
+		{
+			"move": "Night Slash",
+			"level": 1
+		},
+		{
+			"move": "Growl",
+			"level": 1
+		},
+		{
+			"move": "Disarming Voice",
+			"level": 1
+		},
+		{
+			"move": "Hypnosis",
+			"level": 1
+		},
+		{
+			"move": "Draining Kiss",
+			"level": 1
+		},
+		{
+			"move": "Imprison",
+			"level": 1
+		},
+		{
+			"move": "Psybeam",
+			"level": 1
+		},
+		{
+			"move": "Life Dew",
+			"level": 1
+		},
+		{
+			"move": "Charm",
+			"level": 1
+		},
+		{
+			"move": "Calm Mind",
+			"level": 1
+		},
+		{
+			"move": "Psychic",
+			"level": 1
+		},
+		{
+			"move": "Dream Eater",
+			"level": 1
+		},
+		{
+			"move": "Future Sight",
+			"level": 1
+		},
+		{
+			"move": "Leer",
+			"level": 1
+		},
+		{
+			"move": "Fury Cutter",
+			"level": 1
+		},
+		{
+			"move": "Double Team",
+			"level": 1
+		},
+		{
+			"move": "Confusion",
+			"level": 1
+		},
+		{
+			"move": "Helping Hand",
+			"level": 9
+		},
+		{
+			"move": "Feint",
+			"level": 12
+		},
+		{
+			"move": "Teleport",
+			"level": 15
+		},
+		{
+			"move": "Aerial Ace",
+			"level": 18
+		},
+		{
+			"move": "False Swipe",
+			"level": 23
+		},
+		{
+			"move": "Protect",
+			"level": 28
+		},
+		{
+			"move": "Swords Dance",
+			"level": 35
+		},
+		{
+			"move": "Psycho Cut",
+			"level": 42
+		},
+		{
+			"move": "Heal Pulse",
+			"level": 49
+		},
+		{
+			"move": "Quick Guard",
+			"level": 56
+		},
+		{
+			"move": "Wide Guard",
+			"level": 56
+		},
+		{
+			"move": "Close Combat",
+			"level": 63
+		},
+		{
+			"move": "Mega Punch",
+			"tm": true
+		},
+		{
+			"move": "Mega Kick",
+			"tm": true
+		},
+		{
+			"move": "Fire Punch",
+			"tm": true
+		},
+		{
+			"move": "Ice Punch",
+			"tm": true
+		},
+		{
+			"move": "Thunder Punch",
+			"tm": true
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": true
+		},
+		{
+			"move": "Giga Impact",
+			"tm": true
+		},
+		{
+			"move": "Magical Leaf",
+			"tm": true
+		},
+		{
+			"move": "Solar Blade",
+			"tm": true
+		},
+		{
+			"move": "Thunder Wave",
+			"tm": true
+		},
+		{
+			"move": "Light Screen",
+			"tm": true
+		},
+		{
+			"move": "Reflect",
+			"tm": true
+		},
+		{
+			"move": "Safeguard",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Rock Slide",
+			"tm": true
+		},
+		{
+			"move": "Thief",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Icy Wind",
+			"tm": true
+		},
+		{
+			"move": "Charm",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Rain Dance",
+			"tm": true
+		},
+		{
+			"move": "Sunny Day",
+			"tm": true
+		},
+		{
+			"move": "Will-O-Wisp",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Swift",
+			"tm": true
+		},
+		{
+			"move": "Helping Hand",
+			"tm": true
+		},
+		{
+			"move": "Revenge",
+			"tm": true
+		},
+		{
+			"move": "Brick Break",
+			"tm": true
+		},
+		{
+			"move": "Imprison",
+			"tm": true
+		},
+		{
+			"move": "Rock Tomb",
+			"tm": true
+		},
+		{
+			"move": "Fling",
+			"tm": true
+		},
+		{
+			"move": "Drain Punch",
+			"tm": true
+		},
+		{
+			"move": "Psycho Cut",
+			"tm": true
+		},
+		{
+			"move": "Trick Room",
+			"tm": true
+		},
+		{
+			"move": "Wonder Room",
+			"tm": true
+		},
+		{
+			"move": "Magic Room",
+			"tm": true
+		},
+		{
+			"move": "Low Sweep",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Retaliate",
+			"tm": true
+		},
+		{
+			"move": "Bulldoze",
+			"tm": true
+		},
+		{
+			"move": "Draining Kiss",
+			"tm": true
+		},
+		{
+			"move": "Misty Terrain",
+			"tm": true
+		},
+		{
+			"move": "False Swipe",
+			"tm": true
+		},
+		{
+			"move": "Air Slash",
+			"tm": true
+		},
+		{
+			"move": "Swords Dance",
+			"tm": true
+		},
+		{
+			"move": "Body Slam",
+			"tm": true
+		},
+		{
+			"move": "Low Kick",
+			"tm": true
+		},
+		{
+			"move": "Thunderbolt",
+			"tm": true
+		},
+		{
+			"move": "Earthquake",
+			"tm": true
+		},
+		{
+			"move": "Psychic",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Reversal",
+			"tm": true
+		},
+		{
+			"move": "Psyshock",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Encore",
+			"tm": true
+		},
+		{
+			"move": "Shadow Ball",
+			"tm": true
+		},
+		{
+			"move": "Future Sight",
+			"tm": true
+		},
+		{
+			"move": "Taunt",
+			"tm": true
+		},
+		{
+			"move": "Trick",
+			"tm": true
+		},
+		{
+			"move": "Skill Swap",
+			"tm": true
+		},
+		{
+			"move": "Hyper Voice",
+			"tm": true
+		},
+		{
+			"move": "Bulk Up",
+			"tm": true
+		},
+		{
+			"move": "Calm Mind",
+			"tm": true
+		},
+		{
+			"move": "Leaf Blade",
+			"tm": true
+		},
+		{
+			"move": "Close Combat",
+			"tm": true
+		},
+		{
+			"move": "Aura Sphere",
+			"tm": true
+		},
+		{
+			"move": "Poison Jab",
+			"tm": true
+		},
+		{
+			"move": "X-Scissor",
+			"tm": true
+		},
+		{
+			"move": "Focus Blast",
+			"tm": true
+		},
+		{
+			"move": "Energy Ball",
+			"tm": true
+		},
+		{
+			"move": "Zen Headbutt",
+			"tm": true
+		},
+		{
+			"move": "Stone Edge",
+			"tm": true
+		},
+		{
+			"move": "Grass Knot",
+			"tm": true
+		},
+		{
+			"move": "Stored Power",
+			"tm": true
+		},
+		{
+			"move": "Ally Switch",
+			"tm": true
+		},
+		{
+			"move": "Work Up",
+			"tm": true
+		},
+		{
+			"move": "Dazzling Gleam",
+			"tm": true
+		},
+		{
+			"move": "Throat Chop",
+			"tm": true
+		},
+		{
+			"move": "Disable",
+			"egg_move": true
+		},
+		{
+			"move": "Mean Look",
+			"egg_move": true
+		},
+		{
+			"move": "Memento",
+			"egg_move": true
+		},
+		{
+			"move": "Destiny Bond",
+			"egg_move": true
+		},
+		{
+			"move": "Grudge",
+			"egg_move": true
+		},
+		{
+			"move": "Shadow Sneak",
+			"egg_move": true
+		},
+		{
+			"move": "Confuse Ray",
+			"egg_move": true
+		},
+		{
+			"move": "Knock Off",
+			"egg_move": true
+		}
+	]
 }

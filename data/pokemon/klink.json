@@ -1,199 +1,192 @@
 {
-    "name": "Klink",
-    "national_id": 599,
-    "types": [
-        "Steel"
-    ],
-    "abilities": [
-        {
-            "name": "Plus"
-        },
-        {
-            "name": "Minus"
-        },
-        {
-            "name": "Clear Body",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 130,
-    "gender_ratios": null,
-    "egg_groups": [
-        "Mineral"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "1'00\"",
-    "height_eu": "0.3 m",
-    "weight_us": "46.3 lbs.",
-    "weight_eu": "21.0 kg",
-    "base_exp_yield": 60,
-    "leveling_rate": "Medium Slow",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 1,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 40,
-        "atk": 55,
-        "def": 70,
-        "sp_atk": 45,
-        "sp_def": 60,
-        "speed": 30
-    },
-    "evolution_from": null,
-    "evolutions": [
-        {
-            "to": "Klang",
-            "level": 38
-        }
-    ],
-    "species": "Gear Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "It’s suspected that Klink were the inspiration behind ancient people’s invention of the first gears.",
-    "move_learnset": [
-        {
-            "move": "Thunder Shock",
-            "level": 1
-        },
-        {
-            "move": "Vise Grip",
-            "level": 1
-        },
-        {
-            "move": "Bind",
-            "level": 4
-        },
-        {
-            "move": "Charge",
-            "level": 8
-        },
-        {
-            "move": "Charge Beam",
-            "level": 12
-        },
-        {
-            "move": "Metal Sound",
-            "level": 16
-        },
-        {
-            "move": "Autotomize",
-            "level": 20
-        },
-        {
-            "move": "Discharge",
-            "level": 24
-        },
-        {
-            "move": "Screech",
-            "level": 28
-        },
-        {
-            "move": "Gear Grind",
-            "level": 32
-        },
-        {
-            "move": "Lock-On",
-            "level": 36
-        },
-        {
-            "move": "Shift Gear",
-            "level": 40
-        },
-        {
-            "move": "Zap Cannon",
-            "level": 44
-        },
-        {
-            "move": "Hyper Beam",
-            "level": 48
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": true
-        },
-        {
-            "move": "Thunder Wave",
-            "tm": true
-        },
-        {
-            "move": "Screech",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Sandstorm",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Assurance",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Volt Switch",
-            "tm": true
-        },
-        {
-            "move": "Thunderbolt",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Uproar",
-            "tm": true
-        },
-        {
-            "move": "Iron Defense",
-            "tm": true
-        },
-        {
-            "move": "Power Gem",
-            "tm": true
-        },
-        {
-            "move": "Flash Cannon",
-            "tm": true
-        },
-        {
-            "move": "Wild Charge",
-            "tm": true
-        }
-    ]
+	"name": "Klink",
+	"national_id": 599,
+	"types": ["Steel"],
+	"abilities": [
+		{
+			"name": "Plus"
+		},
+		{
+			"name": "Minus"
+		},
+		{
+			"name": "Clear Body",
+			"hidden": true
+		}
+	],
+	"catch_rate": 130,
+	"gender_ratios": null,
+	"egg_groups": ["Mineral"],
+	"hatch_time": [5355, 5609],
+	"height_us": "1'00\"",
+	"height_eu": "0.3 m",
+	"weight_us": "46.3 lbs.",
+	"weight_eu": "21.0 kg",
+	"base_exp_yield": 60,
+	"leveling_rate": "Medium Slow",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 1,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 40,
+		"atk": 55,
+		"def": 70,
+		"sp_atk": 45,
+		"sp_def": 60,
+		"speed": 30
+	},
+	"evolution_from": null,
+	"evolutions": [
+		{
+			"to": "Klang",
+			"level": 38
+		}
+	],
+	"species": "Gear Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "It’s suspected that Klink were the inspiration behind ancient people’s invention of the first gears.",
+	"move_learnset": [
+		{
+			"move": "Thunder Shock",
+			"level": 1
+		},
+		{
+			"move": "Vise Grip",
+			"level": 1
+		},
+		{
+			"move": "Bind",
+			"level": 4
+		},
+		{
+			"move": "Charge",
+			"level": 8
+		},
+		{
+			"move": "Charge Beam",
+			"level": 12
+		},
+		{
+			"move": "Metal Sound",
+			"level": 16
+		},
+		{
+			"move": "Autotomize",
+			"level": 20
+		},
+		{
+			"move": "Discharge",
+			"level": 24
+		},
+		{
+			"move": "Screech",
+			"level": 28
+		},
+		{
+			"move": "Gear Grind",
+			"level": 32
+		},
+		{
+			"move": "Lock-On",
+			"level": 36
+		},
+		{
+			"move": "Shift Gear",
+			"level": 40
+		},
+		{
+			"move": "Zap Cannon",
+			"level": 44
+		},
+		{
+			"move": "Hyper Beam",
+			"level": 48
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": true
+		},
+		{
+			"move": "Thunder Wave",
+			"tm": true
+		},
+		{
+			"move": "Screech",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Sandstorm",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Assurance",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Volt Switch",
+			"tm": true
+		},
+		{
+			"move": "Thunderbolt",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Uproar",
+			"tm": true
+		},
+		{
+			"move": "Iron Defense",
+			"tm": true
+		},
+		{
+			"move": "Power Gem",
+			"tm": true
+		},
+		{
+			"move": "Flash Cannon",
+			"tm": true
+		},
+		{
+			"move": "Wild Charge",
+			"tm": true
+		}
+	]
 }

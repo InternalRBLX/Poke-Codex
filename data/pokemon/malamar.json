@@ -1,311 +1,302 @@
 {
-    "name": "Malamar",
-    "national_id": 687,
-    "types": [
-        "Dark",
-        "Psychic"
-    ],
-    "abilities": [
-        {
-            "name": "Contrary"
-        },
-        {
-            "name": "Suction Cups"
-        },
-        {
-            "name": "Infiltrator",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 80,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Water 1",
-        "Water 2"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "4'11\"",
-    "height_eu": "1.5 m",
-    "weight_us": "103.6 lbs.",
-    "weight_eu": "47.0 kg",
-    "base_exp_yield": 169,
-    "leveling_rate": "Medium Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 2,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 86,
-        "atk": 92,
-        "def": 88,
-        "sp_atk": 68,
-        "sp_def": 75,
-        "speed": 73
-    },
-    "evolution_from": "Inkay",
-    "evolutions": [],
-    "species": "Overturning Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "It’s said that Malamar’s hypnotic powers played a role in certain history-changing events.",
-    "move_learnset": [
-        {
-            "move": "Reversal",
-            "level": 1
-        },
-        {
-            "move": "Peck",
-            "level": 1
-        },
-        {
-            "move": "Tackle",
-            "level": 1
-        },
-        {
-            "move": "Hypnosis",
-            "level": 1
-        },
-        {
-            "move": "Wrap",
-            "level": 1
-        },
-        {
-            "move": "Payback",
-            "level": 9
-        },
-        {
-            "move": "Pluck",
-            "level": 12
-        },
-        {
-            "move": "Psybeam",
-            "level": 15
-        },
-        {
-            "move": "Swagger",
-            "level": 18
-        },
-        {
-            "move": "Slash",
-            "level": 21
-        },
-        {
-            "move": "Night Slash",
-            "level": 24
-        },
-        {
-            "move": "Psycho Cut",
-            "level": 27
-        },
-        {
-            "move": "Switcheroo",
-            "level": 33
-        },
-        {
-            "move": "Foul Play",
-            "level": 37
-        },
-        {
-            "move": "Topsy-Turvy",
-            "level": 42
-        },
-        {
-            "move": "Superpower",
-            "level": 47
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": true
-        },
-        {
-            "move": "Giga Impact",
-            "tm": true
-        },
-        {
-            "move": "Light Screen",
-            "tm": true
-        },
-        {
-            "move": "Reflect",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Rock Slide",
-            "tm": true
-        },
-        {
-            "move": "Thief",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Scary Face",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Rain Dance",
-            "tm": true
-        },
-        {
-            "move": "Sunny Day",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Fake Tears",
-            "tm": true
-        },
-        {
-            "move": "Payback",
-            "tm": true
-        },
-        {
-            "move": "Fling",
-            "tm": true
-        },
-        {
-            "move": "Guard Swap",
-            "tm": true
-        },
-        {
-            "move": "Psycho Cut",
-            "tm": true
-        },
-        {
-            "move": "Trick Room",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Retaliate",
-            "tm": true
-        },
-        {
-            "move": "Brutal Swing",
-            "tm": true
-        },
-        {
-            "move": "Flamethrower",
-            "tm": true
-        },
-        {
-            "move": "Thunderbolt",
-            "tm": true
-        },
-        {
-            "move": "Psychic",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Reversal",
-            "tm": true
-        },
-        {
-            "move": "Psyshock",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Baton Pass",
-            "tm": true
-        },
-        {
-            "move": "Future Sight",
-            "tm": true
-        },
-        {
-            "move": "Taunt",
-            "tm": true
-        },
-        {
-            "move": "Superpower",
-            "tm": true
-        },
-        {
-            "move": "Calm Mind",
-            "tm": true
-        },
-        {
-            "move": "Dark Pulse",
-            "tm": true
-        },
-        {
-            "move": "Nasty Plot",
-            "tm": true
-        },
-        {
-            "move": "Foul Play",
-            "tm": true
-        },
-        {
-            "move": "Stored Power",
-            "tm": true
-        },
-        {
-            "move": "Ally Switch",
-            "tm": true
-        },
-        {
-            "move": "Throat Chop",
-            "tm": true
-        },
-        {
-            "move": "Liquidation",
-            "tm": true
-        },
-        {
-            "move": "Destiny Bond",
-            "egg_move": true
-        },
-        {
-            "move": "Disable",
-            "egg_move": true
-        },
-        {
-            "move": "Acupressure",
-            "egg_move": true
-        }
-    ]
+	"name": "Malamar",
+	"national_id": 687,
+	"types": ["Dark", "Psychic"],
+	"abilities": [
+		{
+			"name": "Contrary"
+		},
+		{
+			"name": "Suction Cups"
+		},
+		{
+			"name": "Infiltrator",
+			"hidden": true
+		}
+	],
+	"catch_rate": 80,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Water 1", "Water 2"],
+	"hatch_time": [5355, 5609],
+	"height_us": "4'11\"",
+	"height_eu": "1.5 m",
+	"weight_us": "103.6 lbs.",
+	"weight_eu": "47.0 kg",
+	"base_exp_yield": 169,
+	"leveling_rate": "Medium Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 2,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 86,
+		"atk": 92,
+		"def": 88,
+		"sp_atk": 68,
+		"sp_def": 75,
+		"speed": 73
+	},
+	"evolution_from": "Inkay",
+	"evolutions": [],
+	"species": "Overturning Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "It’s said that Malamar’s hypnotic powers played a role in certain history-changing events.",
+	"move_learnset": [
+		{
+			"move": "Reversal",
+			"level": 1
+		},
+		{
+			"move": "Peck",
+			"level": 1
+		},
+		{
+			"move": "Tackle",
+			"level": 1
+		},
+		{
+			"move": "Hypnosis",
+			"level": 1
+		},
+		{
+			"move": "Wrap",
+			"level": 1
+		},
+		{
+			"move": "Payback",
+			"level": 9
+		},
+		{
+			"move": "Pluck",
+			"level": 12
+		},
+		{
+			"move": "Psybeam",
+			"level": 15
+		},
+		{
+			"move": "Swagger",
+			"level": 18
+		},
+		{
+			"move": "Slash",
+			"level": 21
+		},
+		{
+			"move": "Night Slash",
+			"level": 24
+		},
+		{
+			"move": "Psycho Cut",
+			"level": 27
+		},
+		{
+			"move": "Switcheroo",
+			"level": 33
+		},
+		{
+			"move": "Foul Play",
+			"level": 37
+		},
+		{
+			"move": "Topsy-Turvy",
+			"level": 42
+		},
+		{
+			"move": "Superpower",
+			"level": 47
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": true
+		},
+		{
+			"move": "Giga Impact",
+			"tm": true
+		},
+		{
+			"move": "Light Screen",
+			"tm": true
+		},
+		{
+			"move": "Reflect",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Rock Slide",
+			"tm": true
+		},
+		{
+			"move": "Thief",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Scary Face",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Rain Dance",
+			"tm": true
+		},
+		{
+			"move": "Sunny Day",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Fake Tears",
+			"tm": true
+		},
+		{
+			"move": "Payback",
+			"tm": true
+		},
+		{
+			"move": "Fling",
+			"tm": true
+		},
+		{
+			"move": "Guard Swap",
+			"tm": true
+		},
+		{
+			"move": "Psycho Cut",
+			"tm": true
+		},
+		{
+			"move": "Trick Room",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Retaliate",
+			"tm": true
+		},
+		{
+			"move": "Brutal Swing",
+			"tm": true
+		},
+		{
+			"move": "Flamethrower",
+			"tm": true
+		},
+		{
+			"move": "Thunderbolt",
+			"tm": true
+		},
+		{
+			"move": "Psychic",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Reversal",
+			"tm": true
+		},
+		{
+			"move": "Psyshock",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Baton Pass",
+			"tm": true
+		},
+		{
+			"move": "Future Sight",
+			"tm": true
+		},
+		{
+			"move": "Taunt",
+			"tm": true
+		},
+		{
+			"move": "Superpower",
+			"tm": true
+		},
+		{
+			"move": "Calm Mind",
+			"tm": true
+		},
+		{
+			"move": "Dark Pulse",
+			"tm": true
+		},
+		{
+			"move": "Nasty Plot",
+			"tm": true
+		},
+		{
+			"move": "Foul Play",
+			"tm": true
+		},
+		{
+			"move": "Stored Power",
+			"tm": true
+		},
+		{
+			"move": "Ally Switch",
+			"tm": true
+		},
+		{
+			"move": "Throat Chop",
+			"tm": true
+		},
+		{
+			"move": "Liquidation",
+			"tm": true
+		},
+		{
+			"move": "Destiny Bond",
+			"egg_move": true
+		},
+		{
+			"move": "Disable",
+			"egg_move": true
+		},
+		{
+			"move": "Acupressure",
+			"egg_move": true
+		}
+	]
 }

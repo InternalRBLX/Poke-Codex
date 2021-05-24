@@ -1,327 +1,318 @@
 {
-    "name": "Trevenant",
-    "national_id": 709,
-    "types": [
-        "Ghost",
-        "Grass"
-    ],
-    "abilities": [
-        {
-            "name": "Natural Cure"
-        },
-        {
-            "name": "Frisk"
-        },
-        {
-            "name": "Harvest",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 60,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Grass",
-        "Amorphous"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "4'11\"",
-    "height_eu": "1.5 m",
-    "weight_us": "156.5 lbs.",
-    "weight_eu": "71.0 kg",
-    "base_exp_yield": 166,
-    "leveling_rate": "Medium Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 2,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 85,
-        "atk": 110,
-        "def": 76,
-        "sp_atk": 65,
-        "sp_def": 82,
-        "speed": 56
-    },
-    "evolution_from": "Phantump",
-    "evolutions": [],
-    "species": "Elder Tree Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "Small roots that extend from the tips of this Pokémon’s feet can tie into the trees of the forest and give Trevenant control over them.",
-    "move_learnset": [
-        {
-            "move": "Shadow Claw",
-            "evo": true
-        },
-        {
-            "move": "Shadow Claw",
-            "level": 1
-        },
-        {
-            "move": "Astonish",
-            "level": 1
-        },
-        {
-            "move": "Tackle",
-            "level": 1
-        },
-        {
-            "move": "Branch Poke",
-            "level": 1
-        },
-        {
-            "move": "Leech Seed",
-            "level": 1
-        },
-        {
-            "move": "Confuse Ray",
-            "level": 12
-        },
-        {
-            "move": "Will-O-Wisp",
-            "level": 16
-        },
-        {
-            "move": "Hex",
-            "level": 20
-        },
-        {
-            "move": "Growth",
-            "level": 24
-        },
-        {
-            "move": "Horn Leech",
-            "level": 28
-        },
-        {
-            "move": "Curse",
-            "level": 32
-        },
-        {
-            "move": "Phantom Force",
-            "level": 36
-        },
-        {
-            "move": "Ingrain",
-            "level": 40
-        },
-        {
-            "move": "Wood Hammer",
-            "level": 44
-        },
-        {
-            "move": "Destiny Bond",
-            "level": 48
-        },
-        {
-            "move": "Forest’s Curse",
-            "level": 52
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": true
-        },
-        {
-            "move": "Giga Impact",
-            "tm": true
-        },
-        {
-            "move": "Magical Leaf",
-            "tm": true
-        },
-        {
-            "move": "Solar Beam",
-            "tm": true
-        },
-        {
-            "move": "Dig",
-            "tm": true
-        },
-        {
-            "move": "Reflect",
-            "tm": true
-        },
-        {
-            "move": "Safeguard",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Rock Slide",
-            "tm": true
-        },
-        {
-            "move": "Thief",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Giga Drain",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Sunny Day",
-            "tm": true
-        },
-        {
-            "move": "Will-O-Wisp",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Imprison",
-            "tm": true
-        },
-        {
-            "move": "Drain Punch",
-            "tm": true
-        },
-        {
-            "move": "Shadow Claw",
-            "tm": true
-        },
-        {
-            "move": "Trick Room",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Hex",
-            "tm": true
-        },
-        {
-            "move": "Bulldoze",
-            "tm": true
-        },
-        {
-            "move": "Phantom Force",
-            "tm": true
-        },
-        {
-            "move": "Brutal Swing",
-            "tm": true
-        },
-        {
-            "move": "Earthquake",
-            "tm": true
-        },
-        {
-            "move": "Psychic",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Shadow Ball",
-            "tm": true
-        },
-        {
-            "move": "Trick",
-            "tm": true
-        },
-        {
-            "move": "Skill Swap",
-            "tm": true
-        },
-        {
-            "move": "Calm Mind",
-            "tm": true
-        },
-        {
-            "move": "Poison Jab",
-            "tm": true
-        },
-        {
-            "move": "Dark Pulse",
-            "tm": true
-        },
-        {
-            "move": "Seed Bomb",
-            "tm": true
-        },
-        {
-            "move": "X-Scissor",
-            "tm": true
-        },
-        {
-            "move": "Focus Blast",
-            "tm": true
-        },
-        {
-            "move": "Energy Ball",
-            "tm": true
-        },
-        {
-            "move": "Leaf Storm",
-            "tm": true
-        },
-        {
-            "move": "Grass Knot",
-            "tm": true
-        },
-        {
-            "move": "Foul Play",
-            "tm": true
-        },
-        {
-            "move": "Ally Switch",
-            "tm": true
-        },
-        {
-            "move": "Venom Drench",
-            "tm": true
-        },
-        {
-            "move": "Grudge",
-            "egg_move": true
-        },
-        {
-            "move": "Sucker Punch",
-            "egg_move": true
-        },
-        {
-            "move": "Disable",
-            "egg_move": true
-        }
-    ]
+	"name": "Trevenant",
+	"national_id": 709,
+	"types": ["Ghost", "Grass"],
+	"abilities": [
+		{
+			"name": "Natural Cure"
+		},
+		{
+			"name": "Frisk"
+		},
+		{
+			"name": "Harvest",
+			"hidden": true
+		}
+	],
+	"catch_rate": 60,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Grass", "Amorphous"],
+	"hatch_time": [5355, 5609],
+	"height_us": "4'11\"",
+	"height_eu": "1.5 m",
+	"weight_us": "156.5 lbs.",
+	"weight_eu": "71.0 kg",
+	"base_exp_yield": 166,
+	"leveling_rate": "Medium Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 2,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 85,
+		"atk": 110,
+		"def": 76,
+		"sp_atk": 65,
+		"sp_def": 82,
+		"speed": 56
+	},
+	"evolution_from": "Phantump",
+	"evolutions": [],
+	"species": "Elder Tree Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "Small roots that extend from the tips of this Pokémon’s feet can tie into the trees of the forest and give Trevenant control over them.",
+	"move_learnset": [
+		{
+			"move": "Shadow Claw",
+			"evo": true
+		},
+		{
+			"move": "Shadow Claw",
+			"level": 1
+		},
+		{
+			"move": "Astonish",
+			"level": 1
+		},
+		{
+			"move": "Tackle",
+			"level": 1
+		},
+		{
+			"move": "Branch Poke",
+			"level": 1
+		},
+		{
+			"move": "Leech Seed",
+			"level": 1
+		},
+		{
+			"move": "Confuse Ray",
+			"level": 12
+		},
+		{
+			"move": "Will-O-Wisp",
+			"level": 16
+		},
+		{
+			"move": "Hex",
+			"level": 20
+		},
+		{
+			"move": "Growth",
+			"level": 24
+		},
+		{
+			"move": "Horn Leech",
+			"level": 28
+		},
+		{
+			"move": "Curse",
+			"level": 32
+		},
+		{
+			"move": "Phantom Force",
+			"level": 36
+		},
+		{
+			"move": "Ingrain",
+			"level": 40
+		},
+		{
+			"move": "Wood Hammer",
+			"level": 44
+		},
+		{
+			"move": "Destiny Bond",
+			"level": 48
+		},
+		{
+			"move": "Forest’s Curse",
+			"level": 52
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": true
+		},
+		{
+			"move": "Giga Impact",
+			"tm": true
+		},
+		{
+			"move": "Magical Leaf",
+			"tm": true
+		},
+		{
+			"move": "Solar Beam",
+			"tm": true
+		},
+		{
+			"move": "Dig",
+			"tm": true
+		},
+		{
+			"move": "Reflect",
+			"tm": true
+		},
+		{
+			"move": "Safeguard",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Rock Slide",
+			"tm": true
+		},
+		{
+			"move": "Thief",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Giga Drain",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Sunny Day",
+			"tm": true
+		},
+		{
+			"move": "Will-O-Wisp",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Imprison",
+			"tm": true
+		},
+		{
+			"move": "Drain Punch",
+			"tm": true
+		},
+		{
+			"move": "Shadow Claw",
+			"tm": true
+		},
+		{
+			"move": "Trick Room",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Hex",
+			"tm": true
+		},
+		{
+			"move": "Bulldoze",
+			"tm": true
+		},
+		{
+			"move": "Phantom Force",
+			"tm": true
+		},
+		{
+			"move": "Brutal Swing",
+			"tm": true
+		},
+		{
+			"move": "Earthquake",
+			"tm": true
+		},
+		{
+			"move": "Psychic",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Shadow Ball",
+			"tm": true
+		},
+		{
+			"move": "Trick",
+			"tm": true
+		},
+		{
+			"move": "Skill Swap",
+			"tm": true
+		},
+		{
+			"move": "Calm Mind",
+			"tm": true
+		},
+		{
+			"move": "Poison Jab",
+			"tm": true
+		},
+		{
+			"move": "Dark Pulse",
+			"tm": true
+		},
+		{
+			"move": "Seed Bomb",
+			"tm": true
+		},
+		{
+			"move": "X-Scissor",
+			"tm": true
+		},
+		{
+			"move": "Focus Blast",
+			"tm": true
+		},
+		{
+			"move": "Energy Ball",
+			"tm": true
+		},
+		{
+			"move": "Leaf Storm",
+			"tm": true
+		},
+		{
+			"move": "Grass Knot",
+			"tm": true
+		},
+		{
+			"move": "Foul Play",
+			"tm": true
+		},
+		{
+			"move": "Ally Switch",
+			"tm": true
+		},
+		{
+			"move": "Venom Drench",
+			"tm": true
+		},
+		{
+			"move": "Grudge",
+			"egg_move": true
+		},
+		{
+			"move": "Sucker Punch",
+			"egg_move": true
+		},
+		{
+			"move": "Disable",
+			"egg_move": true
+		}
+	]
 }

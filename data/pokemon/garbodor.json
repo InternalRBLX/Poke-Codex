@@ -1,323 +1,316 @@
 {
-    "name": "Garbodor",
-    "national_id": 569,
-    "types": [
-        "Poison"
-    ],
-    "items": [
-        {
-            "name": "Black Sludge",
-            "chance": 5
-        },
-        {
-            "name": "Silk Scarf",
-            "chance": 50
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Stench"
-        },
-        {
-            "name": "Weak Armor"
-        },
-        {
-            "name": "Aftermath",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 60,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Mineral"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "6'03\"",
-    "height_eu": "1.9 m",
-    "weight_us": "236.6 lbs.",
-    "weight_eu": "107.3 kg",
-    "base_exp_yield": 166,
-    "leveling_rate": "Medium Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 2,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 80,
-        "atk": 95,
-        "def": 82,
-        "sp_atk": 60,
-        "sp_def": 82,
-        "speed": 75
-    },
-    "evolution_from": "Trubbish",
-    "evolutions": [],
-    "species": "Trash Heap Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "The toxic liquid it launches from its right arm is so virulent that it can kill a weakened creature instantly.",
-    "move_learnset": [
-        {
-            "move": "Pound",
-            "level": 1
-        },
-        {
-            "move": "Take Down",
-            "level": 1
-        },
-        {
-            "move": "Metal Claw",
-            "level": 1
-        },
-        {
-            "move": "Poison Gas",
-            "level": 1
-        },
-        {
-            "move": "Recycle",
-            "level": 1
-        },
-        {
-            "move": "Acid Spray",
-            "level": 1
-        },
-        {
-            "move": "Amnesia",
-            "level": 9
-        },
-        {
-            "move": "Clear Smog",
-            "level": 12
-        },
-        {
-            "move": "Toxic Spikes",
-            "level": 15
-        },
-        {
-            "move": "Sludge",
-            "level": 18
-        },
-        {
-            "move": "Stockpile",
-            "level": 21
-        },
-        {
-            "move": "Swallow",
-            "level": 21
-        },
-        {
-            "move": "Body Slam",
-            "level": 24
-        },
-        {
-            "move": "Sludge Bomb",
-            "level": 27
-        },
-        {
-            "move": "Toxic",
-            "level": 30
-        },
-        {
-            "move": "Belch",
-            "level": 33
-        },
-        {
-            "move": "Pain Split",
-            "level": 39
-        },
-        {
-            "move": "Gunk Shot",
-            "level": 43
-        },
-        {
-            "move": "Explosion",
-            "level": 48
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": true
-        },
-        {
-            "move": "Giga Impact",
-            "tm": true
-        },
-        {
-            "move": "Solar Beam",
-            "tm": true
-        },
-        {
-            "move": "Screech",
-            "tm": true
-        },
-        {
-            "move": "Self-Destruct",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Thief",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Giga Drain",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Rain Dance",
-            "tm": true
-        },
-        {
-            "move": "Sunny Day",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Rock Blast",
-            "tm": true
-        },
-        {
-            "move": "Payback",
-            "tm": true
-        },
-        {
-            "move": "Fling",
-            "tm": true
-        },
-        {
-            "move": "Drain Punch",
-            "tm": true
-        },
-        {
-            "move": "Cross Poison",
-            "tm": true
-        },
-        {
-            "move": "Venoshock",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Stomping Tantrum",
-            "tm": true
-        },
-        {
-            "move": "Body Slam",
-            "tm": true
-        },
-        {
-            "move": "Thunderbolt",
-            "tm": true
-        },
-        {
-            "move": "Psychic",
-            "tm": true
-        },
-        {
-            "move": "Amnesia",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Sludge Bomb",
-            "tm": true
-        },
-        {
-            "move": "Spikes",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Toxic Spikes",
-            "tm": true
-        },
-        {
-            "move": "Dark Pulse",
-            "tm": true
-        },
-        {
-            "move": "Seed Bomb",
-            "tm": true
-        },
-        {
-            "move": "Focus Blast",
-            "tm": true
-        },
-        {
-            "move": "Gunk Shot",
-            "tm": true
-        },
-        {
-            "move": "Sludge Wave",
-            "tm": true
-        },
-        {
-            "move": "Venom Drench",
-            "tm": true
-        },
-        {
-            "move": "Body Press",
-            "tm": true
-        },
-        {
-            "move": "Haze",
-            "egg_move": true
-        },
-        {
-            "move": "Curse",
-            "egg_move": true
-        },
-        {
-            "move": "Sand Attack",
-            "egg_move": true
-        },
-        {
-            "move": "Autotomize",
-            "egg_move": true
-        },
-        {
-            "move": "Rollout",
-            "egg_move": true
-        }
-    ]
+	"name": "Garbodor",
+	"national_id": 569,
+	"types": ["Poison"],
+	"items": [
+		{
+			"name": "Black Sludge",
+			"chance": 5
+		},
+		{
+			"name": "Silk Scarf",
+			"chance": 50
+		}
+	],
+	"abilities": [
+		{
+			"name": "Stench"
+		},
+		{
+			"name": "Weak Armor"
+		},
+		{
+			"name": "Aftermath",
+			"hidden": true
+		}
+	],
+	"catch_rate": 60,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Mineral"],
+	"hatch_time": [5355, 5609],
+	"height_us": "6'03\"",
+	"height_eu": "1.9 m",
+	"weight_us": "236.6 lbs.",
+	"weight_eu": "107.3 kg",
+	"base_exp_yield": 166,
+	"leveling_rate": "Medium Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 2,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 80,
+		"atk": 95,
+		"def": 82,
+		"sp_atk": 60,
+		"sp_def": 82,
+		"speed": 75
+	},
+	"evolution_from": "Trubbish",
+	"evolutions": [],
+	"species": "Trash Heap Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "The toxic liquid it launches from its right arm is so virulent that it can kill a weakened creature instantly.",
+	"move_learnset": [
+		{
+			"move": "Pound",
+			"level": 1
+		},
+		{
+			"move": "Take Down",
+			"level": 1
+		},
+		{
+			"move": "Metal Claw",
+			"level": 1
+		},
+		{
+			"move": "Poison Gas",
+			"level": 1
+		},
+		{
+			"move": "Recycle",
+			"level": 1
+		},
+		{
+			"move": "Acid Spray",
+			"level": 1
+		},
+		{
+			"move": "Amnesia",
+			"level": 9
+		},
+		{
+			"move": "Clear Smog",
+			"level": 12
+		},
+		{
+			"move": "Toxic Spikes",
+			"level": 15
+		},
+		{
+			"move": "Sludge",
+			"level": 18
+		},
+		{
+			"move": "Stockpile",
+			"level": 21
+		},
+		{
+			"move": "Swallow",
+			"level": 21
+		},
+		{
+			"move": "Body Slam",
+			"level": 24
+		},
+		{
+			"move": "Sludge Bomb",
+			"level": 27
+		},
+		{
+			"move": "Toxic",
+			"level": 30
+		},
+		{
+			"move": "Belch",
+			"level": 33
+		},
+		{
+			"move": "Pain Split",
+			"level": 39
+		},
+		{
+			"move": "Gunk Shot",
+			"level": 43
+		},
+		{
+			"move": "Explosion",
+			"level": 48
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": true
+		},
+		{
+			"move": "Giga Impact",
+			"tm": true
+		},
+		{
+			"move": "Solar Beam",
+			"tm": true
+		},
+		{
+			"move": "Screech",
+			"tm": true
+		},
+		{
+			"move": "Self-Destruct",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Thief",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Giga Drain",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Rain Dance",
+			"tm": true
+		},
+		{
+			"move": "Sunny Day",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Rock Blast",
+			"tm": true
+		},
+		{
+			"move": "Payback",
+			"tm": true
+		},
+		{
+			"move": "Fling",
+			"tm": true
+		},
+		{
+			"move": "Drain Punch",
+			"tm": true
+		},
+		{
+			"move": "Cross Poison",
+			"tm": true
+		},
+		{
+			"move": "Venoshock",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Stomping Tantrum",
+			"tm": true
+		},
+		{
+			"move": "Body Slam",
+			"tm": true
+		},
+		{
+			"move": "Thunderbolt",
+			"tm": true
+		},
+		{
+			"move": "Psychic",
+			"tm": true
+		},
+		{
+			"move": "Amnesia",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Sludge Bomb",
+			"tm": true
+		},
+		{
+			"move": "Spikes",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Toxic Spikes",
+			"tm": true
+		},
+		{
+			"move": "Dark Pulse",
+			"tm": true
+		},
+		{
+			"move": "Seed Bomb",
+			"tm": true
+		},
+		{
+			"move": "Focus Blast",
+			"tm": true
+		},
+		{
+			"move": "Gunk Shot",
+			"tm": true
+		},
+		{
+			"move": "Sludge Wave",
+			"tm": true
+		},
+		{
+			"move": "Venom Drench",
+			"tm": true
+		},
+		{
+			"move": "Body Press",
+			"tm": true
+		},
+		{
+			"move": "Haze",
+			"egg_move": true
+		},
+		{
+			"move": "Curse",
+			"egg_move": true
+		},
+		{
+			"move": "Sand Attack",
+			"egg_move": true
+		},
+		{
+			"move": "Autotomize",
+			"egg_move": true
+		},
+		{
+			"move": "Rollout",
+			"egg_move": true
+		}
+	]
 }

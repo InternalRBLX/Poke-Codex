@@ -1,252 +1,245 @@
 {
-    "name": "Vanillite",
-    "national_id": 582,
-    "types": [
-        "Ice"
-    ],
-    "items": [
-        {
-            "name": "Never-Melt Ice",
-            "chance": 5
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Ice Body"
-        },
-        {
-            "name": "Snow Cloak"
-        },
-        {
-            "name": "Weak Armor",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 255,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Mineral"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "1'04\"",
-    "height_eu": "0.4 m",
-    "weight_us": "12.6 lbs.",
-    "weight_eu": "5.7 kg",
-    "base_exp_yield": 61,
-    "leveling_rate": "Slow",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 1,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 36,
-        "atk": 50,
-        "def": 50,
-        "sp_atk": 65,
-        "sp_def": 60,
-        "speed": 44
-    },
-    "evolution_from": null,
-    "evolutions": [
-        {
-            "to": "Vanillish",
-            "level": 35
-        }
-    ],
-    "species": "Fresh Snow Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "Supposedly, this Pokémon was born from an icicle. It spews out freezing air at −58 degrees Fahrenheit to make itself more comfortable.",
-    "move_learnset": [
-        {
-            "move": "Astonish",
-            "level": 1
-        },
-        {
-            "move": "Harden",
-            "level": 1
-        },
-        {
-            "move": "Taunt",
-            "level": 4
-        },
-        {
-            "move": "Mist",
-            "level": 8
-        },
-        {
-            "move": "Icy Wind",
-            "level": 12
-        },
-        {
-            "move": "Avalanche",
-            "level": 16
-        },
-        {
-            "move": "Hail",
-            "level": 20
-        },
-        {
-            "move": "Icicle Spear",
-            "level": 24
-        },
-        {
-            "move": "Uproar",
-            "level": 28
-        },
-        {
-            "move": "Acid Armor",
-            "level": 32
-        },
-        {
-            "move": "Mirror Coat",
-            "level": 36
-        },
-        {
-            "move": "Ice Beam",
-            "level": 40
-        },
-        {
-            "move": "Blizzard",
-            "level": 44
-        },
-        {
-            "move": "Sheer Cold",
-            "level": 48
-        },
-        {
-            "move": "Light Screen",
-            "tm": true
-        },
-        {
-            "move": "Self-Destruct",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Icy Wind",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Rain Dance",
-            "tm": true
-        },
-        {
-            "move": "Hail",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Imprison",
-            "tm": true
-        },
-        {
-            "move": "Icicle Spear",
-            "tm": true
-        },
-        {
-            "move": "Avalanche",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Ice Beam",
-            "tm": true
-        },
-        {
-            "move": "Blizzard",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Uproar",
-            "tm": true
-        },
-        {
-            "move": "Taunt",
-            "tm": true
-        },
-        {
-            "move": "Hyper Voice",
-            "tm": true
-        },
-        {
-            "move": "Iron Defense",
-            "tm": true
-        },
-        {
-            "move": "Flash Cannon",
-            "tm": true
-        },
-        {
-            "move": "Ally Switch",
-            "tm": true
-        },
-        {
-            "move": "Autotomize",
-            "egg_move": true
-        },
-        {
-            "move": "Magnet Rise",
-            "egg_move": true
-        },
-        {
-            "move": "Ice Shard",
-            "egg_move": true
-        },
-        {
-            "move": "Explosion",
-            "egg_move": true
-        },
-        {
-            "move": "Aurora Veil",
-            "egg_move": true
-        },
-        {
-            "move": "Icicle Crash",
-            "egg_move": true
-        }
-    ]
+	"name": "Vanillite",
+	"national_id": 582,
+	"types": ["Ice"],
+	"items": [
+		{
+			"name": "Never-Melt Ice",
+			"chance": 5
+		}
+	],
+	"abilities": [
+		{
+			"name": "Ice Body"
+		},
+		{
+			"name": "Snow Cloak"
+		},
+		{
+			"name": "Weak Armor",
+			"hidden": true
+		}
+	],
+	"catch_rate": 255,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Mineral"],
+	"hatch_time": [5355, 5609],
+	"height_us": "1'04\"",
+	"height_eu": "0.4 m",
+	"weight_us": "12.6 lbs.",
+	"weight_eu": "5.7 kg",
+	"base_exp_yield": 61,
+	"leveling_rate": "Slow",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 1,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 36,
+		"atk": 50,
+		"def": 50,
+		"sp_atk": 65,
+		"sp_def": 60,
+		"speed": 44
+	},
+	"evolution_from": null,
+	"evolutions": [
+		{
+			"to": "Vanillish",
+			"level": 35
+		}
+	],
+	"species": "Fresh Snow Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "Supposedly, this Pokémon was born from an icicle. It spews out freezing air at −58 degrees Fahrenheit to make itself more comfortable.",
+	"move_learnset": [
+		{
+			"move": "Astonish",
+			"level": 1
+		},
+		{
+			"move": "Harden",
+			"level": 1
+		},
+		{
+			"move": "Taunt",
+			"level": 4
+		},
+		{
+			"move": "Mist",
+			"level": 8
+		},
+		{
+			"move": "Icy Wind",
+			"level": 12
+		},
+		{
+			"move": "Avalanche",
+			"level": 16
+		},
+		{
+			"move": "Hail",
+			"level": 20
+		},
+		{
+			"move": "Icicle Spear",
+			"level": 24
+		},
+		{
+			"move": "Uproar",
+			"level": 28
+		},
+		{
+			"move": "Acid Armor",
+			"level": 32
+		},
+		{
+			"move": "Mirror Coat",
+			"level": 36
+		},
+		{
+			"move": "Ice Beam",
+			"level": 40
+		},
+		{
+			"move": "Blizzard",
+			"level": 44
+		},
+		{
+			"move": "Sheer Cold",
+			"level": 48
+		},
+		{
+			"move": "Light Screen",
+			"tm": true
+		},
+		{
+			"move": "Self-Destruct",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Icy Wind",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Rain Dance",
+			"tm": true
+		},
+		{
+			"move": "Hail",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Imprison",
+			"tm": true
+		},
+		{
+			"move": "Icicle Spear",
+			"tm": true
+		},
+		{
+			"move": "Avalanche",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Ice Beam",
+			"tm": true
+		},
+		{
+			"move": "Blizzard",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Uproar",
+			"tm": true
+		},
+		{
+			"move": "Taunt",
+			"tm": true
+		},
+		{
+			"move": "Hyper Voice",
+			"tm": true
+		},
+		{
+			"move": "Iron Defense",
+			"tm": true
+		},
+		{
+			"move": "Flash Cannon",
+			"tm": true
+		},
+		{
+			"move": "Ally Switch",
+			"tm": true
+		},
+		{
+			"move": "Autotomize",
+			"egg_move": true
+		},
+		{
+			"move": "Magnet Rise",
+			"egg_move": true
+		},
+		{
+			"move": "Ice Shard",
+			"egg_move": true
+		},
+		{
+			"move": "Explosion",
+			"egg_move": true
+		},
+		{
+			"move": "Aurora Veil",
+			"egg_move": true
+		},
+		{
+			"move": "Icicle Crash",
+			"egg_move": true
+		}
+	]
 }

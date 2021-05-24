@@ -1,246 +1,239 @@
 {
-    "name": "Corvisquire",
-    "national_id": 822,
-    "types": [
-        "Flying"
-    ],
-    "abilities": [
-        {
-            "name": "Keen Eye"
-        },
-        {
-            "name": "Unnerve"
-        },
-        {
-            "name": "Big Pecks",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 120,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Flying"
-    ],
-    "hatch_time": [
-        3855,
-        4111
-    ],
-    "height_us": "2'07\"",
-    "height_eu": "0.8 m",
-    "weight_us": "35.3 lbs.",
-    "weight_eu": "16.0 kg",
-    "base_exp_yield": 128,
-    "leveling_rate": "Medium Slow",
-    "base_friendship": 50,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 2
-    },
-    "base_stats": {
-        "hp": 68,
-        "atk": 67,
-        "def": 55,
-        "sp_atk": 43,
-        "sp_def": 55,
-        "speed": 77
-    },
-    "evolution_from": "Rookidee",
-    "evolutions": [
-        {
-            "to": "Corviknight",
-            "level": 38
-        }
-    ],
-    "species": "Raven Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "The lessons of many harsh battles have taught it how to accurately judge an opponent’s strength.",
-    "move_learnset": [
-        {
-            "move": "Peck",
-            "level": 1
-        },
-        {
-            "move": "Leer",
-            "level": 1
-        },
-        {
-            "move": "Power Trip",
-            "level": 1
-        },
-        {
-            "move": "Hone Claws",
-            "level": 1
-        },
-        {
-            "move": "Fury Attack",
-            "level": 12
-        },
-        {
-            "move": "Pluck",
-            "level": 16
-        },
-        {
-            "move": "Taunt",
-            "level": 22
-        },
-        {
-            "move": "Scary Face",
-            "level": 28
-        },
-        {
-            "move": "Drill Peck",
-            "level": 34
-        },
-        {
-            "move": "Swagger",
-            "level": 40
-        },
-        {
-            "move": "Brave Bird",
-            "level": 46
-        },
-        {
-            "move": "Fly",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Thief",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Scary Face",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Swift",
-            "tm": true
-        },
-        {
-            "move": "Revenge",
-            "tm": true
-        },
-        {
-            "move": "Fake Tears",
-            "tm": true
-        },
-        {
-            "move": "U-turn",
-            "tm": true
-        },
-        {
-            "move": "Payback",
-            "tm": true
-        },
-        {
-            "move": "Assurance",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Retaliate",
-            "tm": true
-        },
-        {
-            "move": "Air Slash",
-            "tm": true
-        },
-        {
-            "move": "Agility",
-            "tm": true
-        },
-        {
-            "move": "Focus Energy",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Reversal",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Taunt",
-            "tm": true
-        },
-        {
-            "move": "Brave Bird",
-            "tm": true
-        },
-        {
-            "move": "Nasty Plot",
-            "tm": true
-        },
-        {
-            "move": "Work Up",
-            "tm": true
-        },
-        {
-            "move": "Sky Attack",
-            "egg_move": true
-        },
-        {
-            "move": "Sand Attack",
-            "egg_move": true
-        },
-        {
-            "move": "Tailwind",
-            "egg_move": true
-        },
-        {
-            "move": "Defog",
-            "egg_move": true
-        },
-        {
-            "move": "Rock Smash",
-            "egg_move": true
-        },
-        {
-            "move": "Spite",
-            "egg_move": true
-        },
-        {
-            "move": "Roost",
-            "egg_move": true
-        }
-    ]
+	"name": "Corvisquire",
+	"national_id": 822,
+	"types": ["Flying"],
+	"abilities": [
+		{
+			"name": "Keen Eye"
+		},
+		{
+			"name": "Unnerve"
+		},
+		{
+			"name": "Big Pecks",
+			"hidden": true
+		}
+	],
+	"catch_rate": 120,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Flying"],
+	"hatch_time": [3855, 4111],
+	"height_us": "2'07\"",
+	"height_eu": "0.8 m",
+	"weight_us": "35.3 lbs.",
+	"weight_eu": "16.0 kg",
+	"base_exp_yield": 128,
+	"leveling_rate": "Medium Slow",
+	"base_friendship": 50,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 2
+	},
+	"base_stats": {
+		"hp": 68,
+		"atk": 67,
+		"def": 55,
+		"sp_atk": 43,
+		"sp_def": 55,
+		"speed": 77
+	},
+	"evolution_from": "Rookidee",
+	"evolutions": [
+		{
+			"to": "Corviknight",
+			"level": 38
+		}
+	],
+	"species": "Raven Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "The lessons of many harsh battles have taught it how to accurately judge an opponent’s strength.",
+	"move_learnset": [
+		{
+			"move": "Peck",
+			"level": 1
+		},
+		{
+			"move": "Leer",
+			"level": 1
+		},
+		{
+			"move": "Power Trip",
+			"level": 1
+		},
+		{
+			"move": "Hone Claws",
+			"level": 1
+		},
+		{
+			"move": "Fury Attack",
+			"level": 12
+		},
+		{
+			"move": "Pluck",
+			"level": 16
+		},
+		{
+			"move": "Taunt",
+			"level": 22
+		},
+		{
+			"move": "Scary Face",
+			"level": 28
+		},
+		{
+			"move": "Drill Peck",
+			"level": 34
+		},
+		{
+			"move": "Swagger",
+			"level": 40
+		},
+		{
+			"move": "Brave Bird",
+			"level": 46
+		},
+		{
+			"move": "Fly",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Thief",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Scary Face",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Swift",
+			"tm": true
+		},
+		{
+			"move": "Revenge",
+			"tm": true
+		},
+		{
+			"move": "Fake Tears",
+			"tm": true
+		},
+		{
+			"move": "U-turn",
+			"tm": true
+		},
+		{
+			"move": "Payback",
+			"tm": true
+		},
+		{
+			"move": "Assurance",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Retaliate",
+			"tm": true
+		},
+		{
+			"move": "Air Slash",
+			"tm": true
+		},
+		{
+			"move": "Agility",
+			"tm": true
+		},
+		{
+			"move": "Focus Energy",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Reversal",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Taunt",
+			"tm": true
+		},
+		{
+			"move": "Brave Bird",
+			"tm": true
+		},
+		{
+			"move": "Nasty Plot",
+			"tm": true
+		},
+		{
+			"move": "Work Up",
+			"tm": true
+		},
+		{
+			"move": "Sky Attack",
+			"egg_move": true
+		},
+		{
+			"move": "Sand Attack",
+			"egg_move": true
+		},
+		{
+			"move": "Tailwind",
+			"egg_move": true
+		},
+		{
+			"move": "Defog",
+			"egg_move": true
+		},
+		{
+			"move": "Rock Smash",
+			"egg_move": true
+		},
+		{
+			"move": "Spite",
+			"egg_move": true
+		},
+		{
+			"move": "Roost",
+			"egg_move": true
+		}
+	]
 }

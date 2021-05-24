@@ -1,260 +1,252 @@
 {
-    "name": "Anorith",
-    "national_id": 347,
-    "types": [
-        "Rock",
-        "Bug"
-    ],
-    "abilities": [
-        {
-            "name": "Battle Armor"
-        },
-        {
-            "name": "Swift Swim",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 45,
-    "gender_ratios": {
-        "male": 87.5,
-        "female": 12.5
-    },
-    "egg_groups": [
-        "Water 3"
-    ],
-    "hatch_time": [
-        7905,
-        8159
-    ],
-    "height_us": "2'04\"",
-    "height_eu": "0.7 m",
-    "weight_us": "27.6 lbs.",
-    "weight_eu": "12.5 kg",
-    "base_exp_yield": 71,
-    "leveling_rate": "Erratic",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 1,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 45,
-        "atk": 95,
-        "def": 50,
-        "sp_atk": 40,
-        "sp_def": 50,
-        "speed": 75
-    },
-    "evolution_from": null,
-    "evolutions": [
-        {
-            "to": "Armaldo",
-            "level": 40
-        }
-    ],
-    "species": "Old Shrimp Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "Anorith is said to be a type of Pokémon predecessor, with eight wings at the sides of its body. This Pokémon swam in the primordial sea by undulating these eight wings.",
-    "move_learnset": [
-        {
-            "move": "Harden",
-            "level": 1
-        },
-        {
-            "move": "Scratch",
-            "level": 1
-        },
-        {
-            "move": "Mud Sport",
-            "level": 4
-        },
-        {
-            "move": "Water Gun",
-            "level": 7
-        },
-        {
-            "move": "Fury Cutter",
-            "level": 10
-        },
-        {
-            "move": "Smack Down",
-            "level": 13
-        },
-        {
-            "move": "Metal Claw",
-            "level": 17
-        },
-        {
-            "move": "Ancient Power",
-            "level": 21
-        },
-        {
-            "move": "Bug Bite",
-            "level": 25
-        },
-        {
-            "move": "Brine",
-            "level": 29
-        },
-        {
-            "move": "Slash",
-            "level": 34
-        },
-        {
-            "move": "Crush Claw",
-            "level": 39
-        },
-        {
-            "move": "X-Scissor",
-            "level": 44
-        },
-        {
-            "move": "Protect",
-            "level": 49
-        },
-        {
-            "move": "Rock Blast",
-            "level": 55
-        },
-        {
-            "move": "Aqua Jet",
-            "egg_move": true
-        },
-        {
-            "move": "Cross Poison",
-            "egg_move": true
-        },
-        {
-            "move": "Curse",
-            "egg_move": true
-        },
-        {
-            "move": "Iron Defense",
-            "egg_move": true
-        },
-        {
-            "move": "Knock Off",
-            "egg_move": true
-        },
-        {
-            "move": "Rapid Spin",
-            "egg_move": true
-        },
-        {
-            "move": "Sand Attack",
-            "egg_move": true
-        },
-        {
-            "move": "Screech",
-            "egg_move": true
-        },
-        {
-            "move": "Water Pulse",
-            "egg_move": true
-        },
-        {
-            "move": "Toxic",
-            "tm": "TM6"
-        },
-        {
-            "move": "Hidden Power",
-            "tm": "TM10"
-        },
-        {
-            "move": "Sunny Day",
-            "tm": "TM11"
-        },
-        {
-            "move": "Protect",
-            "tm": "TM17"
-        },
-        {
-            "move": "Frustration",
-            "tm": "TM21"
-        },
-        {
-            "move": "Smack Down",
-            "tm": "TM23"
-        },
-        {
-            "move": "Return",
-            "tm": "TM27"
-        },
-        {
-            "move": "Brick Break",
-            "tm": "TM31"
-        },
-        {
-            "move": "Double Team",
-            "tm": "TM32"
-        },
-        {
-            "move": "Sandstorm",
-            "tm": "TM37"
-        },
-        {
-            "move": "Rock Tomb",
-            "tm": "TM39"
-        },
-        {
-            "move": "Aerial Ace",
-            "tm": "TM40"
-        },
-        {
-            "move": "Facade",
-            "tm": "TM42"
-        },
-        {
-            "move": "Rest",
-            "tm": "TM44"
-        },
-        {
-            "move": "Attract",
-            "tm": "TM45"
-        },
-        {
-            "move": "Round",
-            "tm": "TM48"
-        },
-        {
-            "move": "False Swipe",
-            "tm": "TM54"
-        },
-        {
-            "move": "Rock Polish",
-            "tm": "TM69"
-        },
-        {
-            "move": "Swords Dance",
-            "tm": "TM75"
-        },
-        {
-            "move": "Rock Slide",
-            "tm": "TM80"
-        },
-        {
-            "move": "X-Scissor",
-            "tm": "TM81"
-        },
-        {
-            "move": "Swagger",
-            "tm": "TM87"
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": "TM88"
-        },
-        {
-            "move": "Substitute",
-            "tm": "TM90"
-        },
-        {
-            "move": "Confide",
-            "tm": "TM100"
-        }
-    ]
+	"name": "Anorith",
+	"national_id": 347,
+	"types": ["Rock", "Bug"],
+	"abilities": [
+		{
+			"name": "Battle Armor"
+		},
+		{
+			"name": "Swift Swim",
+			"hidden": true
+		}
+	],
+	"catch_rate": 45,
+	"gender_ratios": {
+		"male": 87.5,
+		"female": 12.5
+	},
+	"egg_groups": ["Water 3"],
+	"hatch_time": [7905, 8159],
+	"height_us": "2'04\"",
+	"height_eu": "0.7 m",
+	"weight_us": "27.6 lbs.",
+	"weight_eu": "12.5 kg",
+	"base_exp_yield": 71,
+	"leveling_rate": "Erratic",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 1,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 45,
+		"atk": 95,
+		"def": 50,
+		"sp_atk": 40,
+		"sp_def": 50,
+		"speed": 75
+	},
+	"evolution_from": null,
+	"evolutions": [
+		{
+			"to": "Armaldo",
+			"level": 40
+		}
+	],
+	"species": "Old Shrimp Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "Anorith is said to be a type of Pokémon predecessor, with eight wings at the sides of its body. This Pokémon swam in the primordial sea by undulating these eight wings.",
+	"move_learnset": [
+		{
+			"move": "Harden",
+			"level": 1
+		},
+		{
+			"move": "Scratch",
+			"level": 1
+		},
+		{
+			"move": "Mud Sport",
+			"level": 4
+		},
+		{
+			"move": "Water Gun",
+			"level": 7
+		},
+		{
+			"move": "Fury Cutter",
+			"level": 10
+		},
+		{
+			"move": "Smack Down",
+			"level": 13
+		},
+		{
+			"move": "Metal Claw",
+			"level": 17
+		},
+		{
+			"move": "Ancient Power",
+			"level": 21
+		},
+		{
+			"move": "Bug Bite",
+			"level": 25
+		},
+		{
+			"move": "Brine",
+			"level": 29
+		},
+		{
+			"move": "Slash",
+			"level": 34
+		},
+		{
+			"move": "Crush Claw",
+			"level": 39
+		},
+		{
+			"move": "X-Scissor",
+			"level": 44
+		},
+		{
+			"move": "Protect",
+			"level": 49
+		},
+		{
+			"move": "Rock Blast",
+			"level": 55
+		},
+		{
+			"move": "Aqua Jet",
+			"egg_move": true
+		},
+		{
+			"move": "Cross Poison",
+			"egg_move": true
+		},
+		{
+			"move": "Curse",
+			"egg_move": true
+		},
+		{
+			"move": "Iron Defense",
+			"egg_move": true
+		},
+		{
+			"move": "Knock Off",
+			"egg_move": true
+		},
+		{
+			"move": "Rapid Spin",
+			"egg_move": true
+		},
+		{
+			"move": "Sand Attack",
+			"egg_move": true
+		},
+		{
+			"move": "Screech",
+			"egg_move": true
+		},
+		{
+			"move": "Water Pulse",
+			"egg_move": true
+		},
+		{
+			"move": "Toxic",
+			"tm": "TM6"
+		},
+		{
+			"move": "Hidden Power",
+			"tm": "TM10"
+		},
+		{
+			"move": "Sunny Day",
+			"tm": "TM11"
+		},
+		{
+			"move": "Protect",
+			"tm": "TM17"
+		},
+		{
+			"move": "Frustration",
+			"tm": "TM21"
+		},
+		{
+			"move": "Smack Down",
+			"tm": "TM23"
+		},
+		{
+			"move": "Return",
+			"tm": "TM27"
+		},
+		{
+			"move": "Brick Break",
+			"tm": "TM31"
+		},
+		{
+			"move": "Double Team",
+			"tm": "TM32"
+		},
+		{
+			"move": "Sandstorm",
+			"tm": "TM37"
+		},
+		{
+			"move": "Rock Tomb",
+			"tm": "TM39"
+		},
+		{
+			"move": "Aerial Ace",
+			"tm": "TM40"
+		},
+		{
+			"move": "Facade",
+			"tm": "TM42"
+		},
+		{
+			"move": "Rest",
+			"tm": "TM44"
+		},
+		{
+			"move": "Attract",
+			"tm": "TM45"
+		},
+		{
+			"move": "Round",
+			"tm": "TM48"
+		},
+		{
+			"move": "False Swipe",
+			"tm": "TM54"
+		},
+		{
+			"move": "Rock Polish",
+			"tm": "TM69"
+		},
+		{
+			"move": "Swords Dance",
+			"tm": "TM75"
+		},
+		{
+			"move": "Rock Slide",
+			"tm": "TM80"
+		},
+		{
+			"move": "X-Scissor",
+			"tm": "TM81"
+		},
+		{
+			"move": "Swagger",
+			"tm": "TM87"
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": "TM88"
+		},
+		{
+			"move": "Substitute",
+			"tm": "TM90"
+		},
+		{
+			"move": "Confide",
+			"tm": "TM100"
+		}
+	]
 }

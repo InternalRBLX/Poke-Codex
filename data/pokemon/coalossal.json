@@ -1,310 +1,302 @@
 {
-    "name": "Coalossal",
-    "national_id": 839,
-    "types": [
-        "Rock",
-        "Fire"
-    ],
-    "abilities": [
-        {
-            "name": "Steam Engine"
-        },
-        {
-            "name": "Flame Body"
-        },
-        {
-            "name": "Flash Fire",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 45,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Mineral"
-    ],
-    "hatch_time": [
-        3855,
-        4111
-    ],
-    "height_us": "9'02\"",
-    "height_eu": "2.8 m",
-    "weight_us": "684.5 lbs.",
-    "weight_eu": "310.5 kg",
-    "base_exp_yield": 255,
-    "leveling_rate": "Medium Slow",
-    "base_friendship": 50,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 3,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 110,
-        "atk": 80,
-        "def": 120,
-        "sp_atk": 80,
-        "sp_def": 90,
-        "speed": 30
-    },
-    "evolution_from": "Carkoal",
-    "evolutions": [],
-    "species": "Coal Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "While it’s engaged in battle, its mountain of coal will burn bright red, sending off sparks that scorch the surrounding area.",
-    "move_learnset": [
-        {
-            "move": "Tar Shot",
-            "evo": true
-        },
-        {
-            "move": "Tar Shot",
-            "level": 1
-        },
-        {
-            "move": "Flame Charge",
-            "level": 1
-        },
-        {
-            "move": "Tackle",
-            "level": 1
-        },
-        {
-            "move": "Smokescreen",
-            "level": 1
-        },
-        {
-            "move": "Rapid Spin",
-            "level": 1
-        },
-        {
-            "move": "Smack Down",
-            "level": 1
-        },
-        {
-            "move": "Rock Polish",
-            "level": 15
-        },
-        {
-            "move": "Ancient Power",
-            "level": 20
-        },
-        {
-            "move": "Incinerate",
-            "level": 27
-        },
-        {
-            "move": "Stealth Rock",
-            "level": 37
-        },
-        {
-            "move": "Heat Crash",
-            "level": 45
-        },
-        {
-            "move": "Rock Blast",
-            "level": 54
-        },
-        {
-            "move": "Burn Up",
-            "level": 63
-        },
-        {
-            "move": "Mega Punch",
-            "tm": true
-        },
-        {
-            "move": "Mega Kick",
-            "tm": true
-        },
-        {
-            "move": "Fire Punch",
-            "tm": true
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": true
-        },
-        {
-            "move": "Giga Impact",
-            "tm": true
-        },
-        {
-            "move": "Solar Beam",
-            "tm": true
-        },
-        {
-            "move": "Fire Spin",
-            "tm": true
-        },
-        {
-            "move": "Dig",
-            "tm": true
-        },
-        {
-            "move": "Reflect",
-            "tm": true
-        },
-        {
-            "move": "Self-Destruct",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Rock Slide",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Sandstorm",
-            "tm": true
-        },
-        {
-            "move": "Will-O-Wisp",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Rock Tomb",
-            "tm": true
-        },
-        {
-            "move": "Sand Tomb",
-            "tm": true
-        },
-        {
-            "move": "Rock Blast",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Bulldoze",
-            "tm": true
-        },
-        {
-            "move": "Body Slam",
-            "tm": true
-        },
-        {
-            "move": "Flamethrower",
-            "tm": true
-        },
-        {
-            "move": "Earthquake",
-            "tm": true
-        },
-        {
-            "move": "Fire Blast",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Spikes",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Heat Wave",
-            "tm": true
-        },
-        {
-            "move": "Overheat",
-            "tm": true
-        },
-        {
-            "move": "Iron Defense",
-            "tm": true
-        },
-        {
-            "move": "Gyro Ball",
-            "tm": true
-        },
-        {
-            "move": "Flare Blitz",
-            "tm": true
-        },
-        {
-            "move": "Earth Power",
-            "tm": true
-        },
-        {
-            "move": "Iron Head",
-            "tm": true
-        },
-        {
-            "move": "Stone Edge",
-            "tm": true
-        },
-        {
-            "move": "Stealth Rock",
-            "tm": true
-        },
-        {
-            "move": "Heavy Slam",
-            "tm": true
-        },
-        {
-            "move": "Scald",
-            "tm": true
-        },
-        {
-            "move": "Heat Crash",
-            "tm": true
-        },
-        {
-            "move": "High Horsepower",
-            "tm": true
-        },
-        {
-            "move": "Body Press",
-            "tm": true
-        },
-        {
-            "move": "Explosion",
-            "egg_move": true
-        },
-        {
-            "move": "Mud-Slap",
-            "egg_move": true
-        },
-        {
-            "move": "Block",
-            "egg_move": true
-        }
-    ]
+	"name": "Coalossal",
+	"national_id": 839,
+	"types": ["Rock", "Fire"],
+	"abilities": [
+		{
+			"name": "Steam Engine"
+		},
+		{
+			"name": "Flame Body"
+		},
+		{
+			"name": "Flash Fire",
+			"hidden": true
+		}
+	],
+	"catch_rate": 45,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Mineral"],
+	"hatch_time": [3855, 4111],
+	"height_us": "9'02\"",
+	"height_eu": "2.8 m",
+	"weight_us": "684.5 lbs.",
+	"weight_eu": "310.5 kg",
+	"base_exp_yield": 255,
+	"leveling_rate": "Medium Slow",
+	"base_friendship": 50,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 3,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 110,
+		"atk": 80,
+		"def": 120,
+		"sp_atk": 80,
+		"sp_def": 90,
+		"speed": 30
+	},
+	"evolution_from": "Carkoal",
+	"evolutions": [],
+	"species": "Coal Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "While it’s engaged in battle, its mountain of coal will burn bright red, sending off sparks that scorch the surrounding area.",
+	"move_learnset": [
+		{
+			"move": "Tar Shot",
+			"evo": true
+		},
+		{
+			"move": "Tar Shot",
+			"level": 1
+		},
+		{
+			"move": "Flame Charge",
+			"level": 1
+		},
+		{
+			"move": "Tackle",
+			"level": 1
+		},
+		{
+			"move": "Smokescreen",
+			"level": 1
+		},
+		{
+			"move": "Rapid Spin",
+			"level": 1
+		},
+		{
+			"move": "Smack Down",
+			"level": 1
+		},
+		{
+			"move": "Rock Polish",
+			"level": 15
+		},
+		{
+			"move": "Ancient Power",
+			"level": 20
+		},
+		{
+			"move": "Incinerate",
+			"level": 27
+		},
+		{
+			"move": "Stealth Rock",
+			"level": 37
+		},
+		{
+			"move": "Heat Crash",
+			"level": 45
+		},
+		{
+			"move": "Rock Blast",
+			"level": 54
+		},
+		{
+			"move": "Burn Up",
+			"level": 63
+		},
+		{
+			"move": "Mega Punch",
+			"tm": true
+		},
+		{
+			"move": "Mega Kick",
+			"tm": true
+		},
+		{
+			"move": "Fire Punch",
+			"tm": true
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": true
+		},
+		{
+			"move": "Giga Impact",
+			"tm": true
+		},
+		{
+			"move": "Solar Beam",
+			"tm": true
+		},
+		{
+			"move": "Fire Spin",
+			"tm": true
+		},
+		{
+			"move": "Dig",
+			"tm": true
+		},
+		{
+			"move": "Reflect",
+			"tm": true
+		},
+		{
+			"move": "Self-Destruct",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Rock Slide",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Sandstorm",
+			"tm": true
+		},
+		{
+			"move": "Will-O-Wisp",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Rock Tomb",
+			"tm": true
+		},
+		{
+			"move": "Sand Tomb",
+			"tm": true
+		},
+		{
+			"move": "Rock Blast",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Bulldoze",
+			"tm": true
+		},
+		{
+			"move": "Body Slam",
+			"tm": true
+		},
+		{
+			"move": "Flamethrower",
+			"tm": true
+		},
+		{
+			"move": "Earthquake",
+			"tm": true
+		},
+		{
+			"move": "Fire Blast",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Spikes",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Heat Wave",
+			"tm": true
+		},
+		{
+			"move": "Overheat",
+			"tm": true
+		},
+		{
+			"move": "Iron Defense",
+			"tm": true
+		},
+		{
+			"move": "Gyro Ball",
+			"tm": true
+		},
+		{
+			"move": "Flare Blitz",
+			"tm": true
+		},
+		{
+			"move": "Earth Power",
+			"tm": true
+		},
+		{
+			"move": "Iron Head",
+			"tm": true
+		},
+		{
+			"move": "Stone Edge",
+			"tm": true
+		},
+		{
+			"move": "Stealth Rock",
+			"tm": true
+		},
+		{
+			"move": "Heavy Slam",
+			"tm": true
+		},
+		{
+			"move": "Scald",
+			"tm": true
+		},
+		{
+			"move": "Heat Crash",
+			"tm": true
+		},
+		{
+			"move": "High Horsepower",
+			"tm": true
+		},
+		{
+			"move": "Body Press",
+			"tm": true
+		},
+		{
+			"move": "Explosion",
+			"egg_move": true
+		},
+		{
+			"move": "Mud-Slap",
+			"egg_move": true
+		},
+		{
+			"move": "Block",
+			"egg_move": true
+		}
+	]
 }

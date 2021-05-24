@@ -1,313 +1,305 @@
 {
-    "name": "Stunky",
-    "national_id": 434,
-    "types": [
-        "Poison",
-        "Dark"
-    ],
-    "items": [
-        {
-            "name": "Pecha Berry",
-            "chance": 5
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Stench"
-        },
-        {
-            "name": "Aftermath"
-        },
-        {
-            "name": "Keen Eye",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 225,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Field"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "1'04\"",
-    "height_eu": "0.4 m",
-    "weight_us": "42.3 lbs.",
-    "weight_eu": "19.2 kg",
-    "base_exp_yield": 66,
-    "leveling_rate": "Medium Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 1
-    },
-    "base_stats": {
-        "hp": 63,
-        "atk": 63,
-        "def": 47,
-        "sp_atk": 41,
-        "sp_def": 41,
-        "speed": 74
-    },
-    "evolution_from": null,
-    "evolutions": [
-        {
-            "to": "Skuntank",
-            "level": 34
-        }
-    ],
-    "species": "Skunk Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "If it lifts its tail and points its rear at you, beware. It’s about to spray you with a fluid stinky enough to make you faint.",
-    "move_learnset": [
-        {
-            "move": "Poison Gas",
-            "level": 1
-        },
-        {
-            "move": "Scratch",
-            "level": 1
-        },
-        {
-            "move": "Feint",
-            "level": 3
-        },
-        {
-            "move": "Smokescreen",
-            "level": 6
-        },
-        {
-            "move": "Acid Spray",
-            "level": 9
-        },
-        {
-            "move": "Fury Swipes",
-            "level": 12
-        },
-        {
-            "move": "Focus Energy",
-            "level": 15
-        },
-        {
-            "move": "Bite",
-            "level": 18
-        },
-        {
-            "move": "Venoshock",
-            "level": 21
-        },
-        {
-            "move": "Screech",
-            "level": 24
-        },
-        {
-            "move": "Toxic",
-            "level": 27
-        },
-        {
-            "move": "Sucker Punch",
-            "level": 30
-        },
-        {
-            "move": "Memento",
-            "level": 33
-        },
-        {
-            "move": "Night Slash",
-            "level": 36
-        },
-        {
-            "move": "Belch",
-            "level": 39
-        },
-        {
-            "move": "Venom Drench",
-            "level": 42
-        },
-        {
-            "move": "Explosion",
-            "level": 45
-        },
-        {
-            "move": "Dig",
-            "tm": true
-        },
-        {
-            "move": "Screech",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Thief",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Scary Face",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Rain Dance",
-            "tm": true
-        },
-        {
-            "move": "Sunny Day",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Swift",
-            "tm": true
-        },
-        {
-            "move": "Payback",
-            "tm": true
-        },
-        {
-            "move": "Assurance",
-            "tm": true
-        },
-        {
-            "move": "Shadow Claw",
-            "tm": true
-        },
-        {
-            "move": "Venoshock",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Hex",
-            "tm": true
-        },
-        {
-            "move": "Tail Slap",
-            "tm": true
-        },
-        {
-            "move": "Snarl",
-            "tm": true
-        },
-        {
-            "move": "Flamethrower",
-            "tm": true
-        },
-        {
-            "move": "Focus Energy",
-            "tm": true
-        },
-        {
-            "move": "Fire Blast",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Sludge Bomb",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Iron Tail",
-            "tm": true
-        },
-        {
-            "move": "Crunch",
-            "tm": true
-        },
-        {
-            "move": "Shadow Ball",
-            "tm": true
-        },
-        {
-            "move": "Taunt",
-            "tm": true
-        },
-        {
-            "move": "Dark Pulse",
-            "tm": true
-        },
-        {
-            "move": "Nasty Plot",
-            "tm": true
-        },
-        {
-            "move": "Foul Play",
-            "tm": true
-        },
-        {
-            "move": "Play Rough",
-            "tm": true
-        },
-        {
-            "move": "Venom Drench",
-            "tm": true
-        },
-        {
-            "move": "Throat Chop",
-            "tm": true
-        },
-        {
-            "move": "Leer",
-            "egg_move": true
-        },
-        {
-            "move": "Smog",
-            "egg_move": true
-        },
-        {
-            "move": "Double-Edge",
-            "egg_move": true
-        },
-        {
-            "move": "Astonish",
-            "egg_move": true
-        },
-        {
-            "move": "Haze",
-            "egg_move": true
-        },
-        {
-            "move": "Slash",
-            "egg_move": true
-        }
-    ]
+	"name": "Stunky",
+	"national_id": 434,
+	"types": ["Poison", "Dark"],
+	"items": [
+		{
+			"name": "Pecha Berry",
+			"chance": 5
+		}
+	],
+	"abilities": [
+		{
+			"name": "Stench"
+		},
+		{
+			"name": "Aftermath"
+		},
+		{
+			"name": "Keen Eye",
+			"hidden": true
+		}
+	],
+	"catch_rate": 225,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Field"],
+	"hatch_time": [5355, 5609],
+	"height_us": "1'04\"",
+	"height_eu": "0.4 m",
+	"weight_us": "42.3 lbs.",
+	"weight_eu": "19.2 kg",
+	"base_exp_yield": 66,
+	"leveling_rate": "Medium Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 1
+	},
+	"base_stats": {
+		"hp": 63,
+		"atk": 63,
+		"def": 47,
+		"sp_atk": 41,
+		"sp_def": 41,
+		"speed": 74
+	},
+	"evolution_from": null,
+	"evolutions": [
+		{
+			"to": "Skuntank",
+			"level": 34
+		}
+	],
+	"species": "Skunk Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "If it lifts its tail and points its rear at you, beware. It’s about to spray you with a fluid stinky enough to make you faint.",
+	"move_learnset": [
+		{
+			"move": "Poison Gas",
+			"level": 1
+		},
+		{
+			"move": "Scratch",
+			"level": 1
+		},
+		{
+			"move": "Feint",
+			"level": 3
+		},
+		{
+			"move": "Smokescreen",
+			"level": 6
+		},
+		{
+			"move": "Acid Spray",
+			"level": 9
+		},
+		{
+			"move": "Fury Swipes",
+			"level": 12
+		},
+		{
+			"move": "Focus Energy",
+			"level": 15
+		},
+		{
+			"move": "Bite",
+			"level": 18
+		},
+		{
+			"move": "Venoshock",
+			"level": 21
+		},
+		{
+			"move": "Screech",
+			"level": 24
+		},
+		{
+			"move": "Toxic",
+			"level": 27
+		},
+		{
+			"move": "Sucker Punch",
+			"level": 30
+		},
+		{
+			"move": "Memento",
+			"level": 33
+		},
+		{
+			"move": "Night Slash",
+			"level": 36
+		},
+		{
+			"move": "Belch",
+			"level": 39
+		},
+		{
+			"move": "Venom Drench",
+			"level": 42
+		},
+		{
+			"move": "Explosion",
+			"level": 45
+		},
+		{
+			"move": "Dig",
+			"tm": true
+		},
+		{
+			"move": "Screech",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Thief",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Scary Face",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Rain Dance",
+			"tm": true
+		},
+		{
+			"move": "Sunny Day",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Swift",
+			"tm": true
+		},
+		{
+			"move": "Payback",
+			"tm": true
+		},
+		{
+			"move": "Assurance",
+			"tm": true
+		},
+		{
+			"move": "Shadow Claw",
+			"tm": true
+		},
+		{
+			"move": "Venoshock",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Hex",
+			"tm": true
+		},
+		{
+			"move": "Tail Slap",
+			"tm": true
+		},
+		{
+			"move": "Snarl",
+			"tm": true
+		},
+		{
+			"move": "Flamethrower",
+			"tm": true
+		},
+		{
+			"move": "Focus Energy",
+			"tm": true
+		},
+		{
+			"move": "Fire Blast",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Sludge Bomb",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Iron Tail",
+			"tm": true
+		},
+		{
+			"move": "Crunch",
+			"tm": true
+		},
+		{
+			"move": "Shadow Ball",
+			"tm": true
+		},
+		{
+			"move": "Taunt",
+			"tm": true
+		},
+		{
+			"move": "Dark Pulse",
+			"tm": true
+		},
+		{
+			"move": "Nasty Plot",
+			"tm": true
+		},
+		{
+			"move": "Foul Play",
+			"tm": true
+		},
+		{
+			"move": "Play Rough",
+			"tm": true
+		},
+		{
+			"move": "Venom Drench",
+			"tm": true
+		},
+		{
+			"move": "Throat Chop",
+			"tm": true
+		},
+		{
+			"move": "Leer",
+			"egg_move": true
+		},
+		{
+			"move": "Smog",
+			"egg_move": true
+		},
+		{
+			"move": "Double-Edge",
+			"egg_move": true
+		},
+		{
+			"move": "Astonish",
+			"egg_move": true
+		},
+		{
+			"move": "Haze",
+			"egg_move": true
+		},
+		{
+			"move": "Slash",
+			"egg_move": true
+		}
+	]
 }

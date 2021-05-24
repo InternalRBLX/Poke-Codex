@@ -1,300 +1,292 @@
 {
-    "name": "Shieldon",
-    "national_id": 410,
-    "types": [
-        "Rock",
-        "Steel"
-    ],
-    "abilities": [
-        {
-            "name": "Sturdy"
-        },
-        {
-            "name": "Soundproof",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 45,
-    "gender_ratios": {
-        "male": 87.5,
-        "female": 12.5
-    },
-    "egg_groups": [
-        "Monster"
-    ],
-    "hatch_time": [
-        7905,
-        8159
-    ],
-    "height_us": "1'08\"",
-    "height_eu": "0.5 m",
-    "weight_us": "125.7 lbs.",
-    "weight_eu": "57.0 kg",
-    "base_exp_yield": 70,
-    "leveling_rate": "Erratic",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 1,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 30,
-        "atk": 42,
-        "def": 118,
-        "sp_atk": 42,
-        "sp_def": 88,
-        "speed": 30
-    },
-    "evolution_from": null,
-    "evolutions": [
-        {
-            "to": "Bastiodon",
-            "level": 30
-        }
-    ],
-    "species": "Shield Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "It was generated from a fossil dug out of a layer of clay that was older than anyone knows. It has a sturdy face.",
-    "move_learnset": [
-        {
-            "move": "Protect",
-            "level": 1
-        },
-        {
-            "move": "Tackle",
-            "level": 1
-        },
-        {
-            "move": "Taunt",
-            "level": 6
-        },
-        {
-            "move": "Metal Sound",
-            "level": 10
-        },
-        {
-            "move": "Take Down",
-            "level": 15
-        },
-        {
-            "move": "Iron Defense",
-            "level": 19
-        },
-        {
-            "move": "Swagger",
-            "level": 24
-        },
-        {
-            "move": "Ancient Power",
-            "level": 28
-        },
-        {
-            "move": "Endure",
-            "level": 33
-        },
-        {
-            "move": "Metal Burst",
-            "level": 37
-        },
-        {
-            "move": "Iron Head",
-            "level": 42
-        },
-        {
-            "move": "Heavy Slam",
-            "level": 46
-        },
-        {
-            "move": "Body Slam",
-            "egg_move": true
-        },
-        {
-            "move": "Counter",
-            "egg_move": true
-        },
-        {
-            "move": "Curse",
-            "egg_move": true
-        },
-        {
-            "move": "Double-Edge",
-            "egg_move": true
-        },
-        {
-            "move": "Fissure",
-            "egg_move": true
-        },
-        {
-            "move": "Focus Energy",
-            "egg_move": true
-        },
-        {
-            "move": "Guard Split",
-            "egg_move": true
-        },
-        {
-            "move": "Headbutt",
-            "egg_move": true
-        },
-        {
-            "move": "Rock Blast",
-            "egg_move": true
-        },
-        {
-            "move": "Scary Face",
-            "egg_move": true
-        },
-        {
-            "move": "Screech",
-            "egg_move": true
-        },
-        {
-            "move": "Stealth Rock",
-            "egg_move": true
-        },
-        {
-            "move": "Wide Guard",
-            "egg_move": true
-        },
-        {
-            "move": "Roar",
-            "tm": "TM5"
-        },
-        {
-            "move": "Toxic",
-            "tm": "TM6"
-        },
-        {
-            "move": "Hidden Power",
-            "tm": "TM10"
-        },
-        {
-            "move": "Sunny Day",
-            "tm": "TM11"
-        },
-        {
-            "move": "Taunt",
-            "tm": "TM12"
-        },
-        {
-            "move": "Ice Beam",
-            "tm": "TM13"
-        },
-        {
-            "move": "Blizzard",
-            "tm": "TM14"
-        },
-        {
-            "move": "Protect",
-            "tm": "TM17"
-        },
-        {
-            "move": "Rain Dance",
-            "tm": "TM18"
-        },
-        {
-            "move": "Frustration",
-            "tm": "TM21"
-        },
-        {
-            "move": "Smack Down",
-            "tm": "TM23"
-        },
-        {
-            "move": "Thunderbolt",
-            "tm": "TM24"
-        },
-        {
-            "move": "Thunder",
-            "tm": "TM25"
-        },
-        {
-            "move": "Earthquake",
-            "tm": "TM26"
-        },
-        {
-            "move": "Return",
-            "tm": "TM27"
-        },
-        {
-            "move": "Double Team",
-            "tm": "TM32"
-        },
-        {
-            "move": "Flamethrower",
-            "tm": "TM35"
-        },
-        {
-            "move": "Sandstorm",
-            "tm": "TM37"
-        },
-        {
-            "move": "Fire Blast",
-            "tm": "TM38"
-        },
-        {
-            "move": "Rock Tomb",
-            "tm": "TM39"
-        },
-        {
-            "move": "Torment",
-            "tm": "TM41"
-        },
-        {
-            "move": "Facade",
-            "tm": "TM42"
-        },
-        {
-            "move": "Rest",
-            "tm": "TM44"
-        },
-        {
-            "move": "Attract",
-            "tm": "TM45"
-        },
-        {
-            "move": "Round",
-            "tm": "TM48"
-        },
-        {
-            "move": "Rock Polish",
-            "tm": "TM69"
-        },
-        {
-            "move": "Stone Edge",
-            "tm": "TM71"
-        },
-        {
-            "move": "Bulldoze",
-            "tm": "TM78"
-        },
-        {
-            "move": "Rock Slide",
-            "tm": "TM80"
-        },
-        {
-            "move": "Swagger",
-            "tm": "TM87"
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": "TM88"
-        },
-        {
-            "move": "Substitute",
-            "tm": "TM90"
-        },
-        {
-            "move": "Flash Cannon",
-            "tm": "TM91"
-        },
-        {
-            "move": "Confide",
-            "tm": "TM100"
-        }
-    ]
+	"name": "Shieldon",
+	"national_id": 410,
+	"types": ["Rock", "Steel"],
+	"abilities": [
+		{
+			"name": "Sturdy"
+		},
+		{
+			"name": "Soundproof",
+			"hidden": true
+		}
+	],
+	"catch_rate": 45,
+	"gender_ratios": {
+		"male": 87.5,
+		"female": 12.5
+	},
+	"egg_groups": ["Monster"],
+	"hatch_time": [7905, 8159],
+	"height_us": "1'08\"",
+	"height_eu": "0.5 m",
+	"weight_us": "125.7 lbs.",
+	"weight_eu": "57.0 kg",
+	"base_exp_yield": 70,
+	"leveling_rate": "Erratic",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 1,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 30,
+		"atk": 42,
+		"def": 118,
+		"sp_atk": 42,
+		"sp_def": 88,
+		"speed": 30
+	},
+	"evolution_from": null,
+	"evolutions": [
+		{
+			"to": "Bastiodon",
+			"level": 30
+		}
+	],
+	"species": "Shield Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "It was generated from a fossil dug out of a layer of clay that was older than anyone knows. It has a sturdy face.",
+	"move_learnset": [
+		{
+			"move": "Protect",
+			"level": 1
+		},
+		{
+			"move": "Tackle",
+			"level": 1
+		},
+		{
+			"move": "Taunt",
+			"level": 6
+		},
+		{
+			"move": "Metal Sound",
+			"level": 10
+		},
+		{
+			"move": "Take Down",
+			"level": 15
+		},
+		{
+			"move": "Iron Defense",
+			"level": 19
+		},
+		{
+			"move": "Swagger",
+			"level": 24
+		},
+		{
+			"move": "Ancient Power",
+			"level": 28
+		},
+		{
+			"move": "Endure",
+			"level": 33
+		},
+		{
+			"move": "Metal Burst",
+			"level": 37
+		},
+		{
+			"move": "Iron Head",
+			"level": 42
+		},
+		{
+			"move": "Heavy Slam",
+			"level": 46
+		},
+		{
+			"move": "Body Slam",
+			"egg_move": true
+		},
+		{
+			"move": "Counter",
+			"egg_move": true
+		},
+		{
+			"move": "Curse",
+			"egg_move": true
+		},
+		{
+			"move": "Double-Edge",
+			"egg_move": true
+		},
+		{
+			"move": "Fissure",
+			"egg_move": true
+		},
+		{
+			"move": "Focus Energy",
+			"egg_move": true
+		},
+		{
+			"move": "Guard Split",
+			"egg_move": true
+		},
+		{
+			"move": "Headbutt",
+			"egg_move": true
+		},
+		{
+			"move": "Rock Blast",
+			"egg_move": true
+		},
+		{
+			"move": "Scary Face",
+			"egg_move": true
+		},
+		{
+			"move": "Screech",
+			"egg_move": true
+		},
+		{
+			"move": "Stealth Rock",
+			"egg_move": true
+		},
+		{
+			"move": "Wide Guard",
+			"egg_move": true
+		},
+		{
+			"move": "Roar",
+			"tm": "TM5"
+		},
+		{
+			"move": "Toxic",
+			"tm": "TM6"
+		},
+		{
+			"move": "Hidden Power",
+			"tm": "TM10"
+		},
+		{
+			"move": "Sunny Day",
+			"tm": "TM11"
+		},
+		{
+			"move": "Taunt",
+			"tm": "TM12"
+		},
+		{
+			"move": "Ice Beam",
+			"tm": "TM13"
+		},
+		{
+			"move": "Blizzard",
+			"tm": "TM14"
+		},
+		{
+			"move": "Protect",
+			"tm": "TM17"
+		},
+		{
+			"move": "Rain Dance",
+			"tm": "TM18"
+		},
+		{
+			"move": "Frustration",
+			"tm": "TM21"
+		},
+		{
+			"move": "Smack Down",
+			"tm": "TM23"
+		},
+		{
+			"move": "Thunderbolt",
+			"tm": "TM24"
+		},
+		{
+			"move": "Thunder",
+			"tm": "TM25"
+		},
+		{
+			"move": "Earthquake",
+			"tm": "TM26"
+		},
+		{
+			"move": "Return",
+			"tm": "TM27"
+		},
+		{
+			"move": "Double Team",
+			"tm": "TM32"
+		},
+		{
+			"move": "Flamethrower",
+			"tm": "TM35"
+		},
+		{
+			"move": "Sandstorm",
+			"tm": "TM37"
+		},
+		{
+			"move": "Fire Blast",
+			"tm": "TM38"
+		},
+		{
+			"move": "Rock Tomb",
+			"tm": "TM39"
+		},
+		{
+			"move": "Torment",
+			"tm": "TM41"
+		},
+		{
+			"move": "Facade",
+			"tm": "TM42"
+		},
+		{
+			"move": "Rest",
+			"tm": "TM44"
+		},
+		{
+			"move": "Attract",
+			"tm": "TM45"
+		},
+		{
+			"move": "Round",
+			"tm": "TM48"
+		},
+		{
+			"move": "Rock Polish",
+			"tm": "TM69"
+		},
+		{
+			"move": "Stone Edge",
+			"tm": "TM71"
+		},
+		{
+			"move": "Bulldoze",
+			"tm": "TM78"
+		},
+		{
+			"move": "Rock Slide",
+			"tm": "TM80"
+		},
+		{
+			"move": "Swagger",
+			"tm": "TM87"
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": "TM88"
+		},
+		{
+			"move": "Substitute",
+			"tm": "TM90"
+		},
+		{
+			"move": "Flash Cannon",
+			"tm": "TM91"
+		},
+		{
+			"move": "Confide",
+			"tm": "TM100"
+		}
+	]
 }

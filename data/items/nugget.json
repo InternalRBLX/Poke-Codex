@@ -1,8 +1,8 @@
 {
-    "name": "Nugget",
-    "sell_price": 5000,
-    "holdable": true,
-    "battle": false,
-    "category": "Item",
-    "subcategory": "Treasure"
+	"name": "Nugget",
+	"sell_price": 5000,
+	"holdable": true,
+	"battle": false,
+	"category": "Item",
+	"subcategory": "Treasure"
 }

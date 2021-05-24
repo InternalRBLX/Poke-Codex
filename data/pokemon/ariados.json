@@ -1,322 +1,314 @@
 {
-    "name": "Ariados",
-    "national_id": 168,
-    "types": [
-        "Bug",
-        "Poison"
-    ],
-    "abilities": [
-        {
-            "name": "Swarm"
-        },
-        {
-            "name": "Insomnia"
-        },
-        {
-            "name": "Sniper",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 90,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Bug"
-    ],
-    "hatch_time": [
-        4080,
-        4334
-    ],
-    "height_us": "3'07\"",
-    "height_eu": "1.1 m",
-    "weight_us": "73.9 lbs.",
-    "weight_eu": "33.5 kg",
-    "base_exp_yield": 137,
-    "leveling_rate": "Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 2,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 70,
-        "atk": 90,
-        "def": 70,
-        "sp_atk": 60,
-        "sp_def": 60,
-        "speed": 40
-    },
-    "evolution_from": "Spinarak",
-    "evolutions": [],
-    "species": "Long Leg Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "Ariados's feet are tipped with tiny hooked claws that enable it to scuttle on ceilings and vertical walls. This Pokémon constricts the foe with thin and strong silk webbing.",
-    "move_learnset": [
-        {
-            "move": "Absorb",
-            "level": 1
-        },
-        {
-            "move": "Bug Bite",
-            "level": 1
-        },
-        {
-            "move": "Constrict",
-            "level": 1
-        },
-        {
-            "move": "Fell Stinger",
-            "level": 1
-        },
-        {
-            "move": "Focus Energy",
-            "level": 1
-        },
-        {
-            "move": "Poison Sting",
-            "level": 1
-        },
-        {
-            "move": "String Shot",
-            "level": 1
-        },
-        {
-            "move": "Swords Dance",
-            "level": 1
-        },
-        {
-            "move": "Venom Drench",
-            "level": 1
-        },
-        {
-            "move": "Absorb",
-            "level": 5
-        },
-        {
-            "move": "Infestation",
-            "level": 8
-        },
-        {
-            "move": "Scary Face",
-            "level": 12
-        },
-        {
-            "move": "Night Shade",
-            "level": 15
-        },
-        {
-            "move": "Shadow Sneak",
-            "level": 19
-        },
-        {
-            "move": "Fury Swipes",
-            "level": 23
-        },
-        {
-            "move": "Sucker Punch",
-            "level": 28
-        },
-        {
-            "move": "Spider Web",
-            "level": 32
-        },
-        {
-            "move": "Agility",
-            "level": 37
-        },
-        {
-            "move": "Pin Missile",
-            "level": 41
-        },
-        {
-            "move": "Psychic",
-            "level": 46
-        },
-        {
-            "move": "Poison Jab",
-            "level": 50
-        },
-        {
-            "move": "Cross Poison",
-            "level": 55
-        },
-        {
-            "move": "Sticky Web",
-            "level": 58
-        },
-        {
-            "move": "Toxic Thread",
-            "level": 63
-        },
-        {
-            "move": "Baton Pass",
-            "egg_move": true
-        },
-        {
-            "move": "Disable",
-            "egg_move": true
-        },
-        {
-            "move": "Electroweb",
-            "egg_move": true
-        },
-        {
-            "move": "Lunge",
-            "egg_move": true
-        },
-        {
-            "move": "Megahorn",
-            "egg_move": true
-        },
-        {
-            "move": "Night Slash",
-            "egg_move": true
-        },
-        {
-            "move": "Psybeam",
-            "egg_move": true
-        },
-        {
-            "move": "Pursuit",
-            "egg_move": true
-        },
-        {
-            "move": "Rage Powder",
-            "egg_move": true
-        },
-        {
-            "move": "Signal Beam",
-            "egg_move": true
-        },
-        {
-            "move": "Sonic Boom",
-            "egg_move": true
-        },
-        {
-            "move": "Toxic Spikes",
-            "egg_move": true
-        },
-        {
-            "move": "Twineedle",
-            "egg_move": true
-        },
-        {
-            "move": "Toxic",
-            "tm": "TM6"
-        },
-        {
-            "move": "Venoshock",
-            "tm": "TM9"
-        },
-        {
-            "move": "Hidden Power",
-            "tm": "TM10"
-        },
-        {
-            "move": "Sunny Day",
-            "tm": "TM11"
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": "TM15"
-        },
-        {
-            "move": "Protect",
-            "tm": "TM17"
-        },
-        {
-            "move": "Frustration",
-            "tm": "TM21"
-        },
-        {
-            "move": "Solar Beam",
-            "tm": "TM22"
-        },
-        {
-            "move": "Return",
-            "tm": "TM27"
-        },
-        {
-            "move": "Leech Life",
-            "tm": "TM28"
-        },
-        {
-            "move": "Psychic",
-            "tm": "TM29"
-        },
-        {
-            "move": "Double Team",
-            "tm": "TM32"
-        },
-        {
-            "move": "Sludge Bomb",
-            "tm": "TM36"
-        },
-        {
-            "move": "Facade",
-            "tm": "TM42"
-        },
-        {
-            "move": "Rest",
-            "tm": "TM44"
-        },
-        {
-            "move": "Attract",
-            "tm": "TM45"
-        },
-        {
-            "move": "Thief",
-            "tm": "TM46"
-        },
-        {
-            "move": "Round",
-            "tm": "TM48"
-        },
-        {
-            "move": "Smart Strike",
-            "tm": "TM67"
-        },
-        {
-            "move": "Giga Impact",
-            "tm": "TM68"
-        },
-        {
-            "move": "Swords Dance",
-            "tm": "TM75"
-        },
-        {
-            "move": "X-Scissor",
-            "tm": "TM81"
-        },
-        {
-            "move": "Infestation",
-            "tm": "TM83"
-        },
-        {
-            "move": "Poison Jab",
-            "tm": "TM84"
-        },
-        {
-            "move": "Swagger",
-            "tm": "TM87"
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": "TM88"
-        },
-        {
-            "move": "Substitute",
-            "tm": "TM90"
-        },
-        {
-            "move": "Confide",
-            "tm": "TM100"
-        }
-    ]
+	"name": "Ariados",
+	"national_id": 168,
+	"types": ["Bug", "Poison"],
+	"abilities": [
+		{
+			"name": "Swarm"
+		},
+		{
+			"name": "Insomnia"
+		},
+		{
+			"name": "Sniper",
+			"hidden": true
+		}
+	],
+	"catch_rate": 90,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Bug"],
+	"hatch_time": [4080, 4334],
+	"height_us": "3'07\"",
+	"height_eu": "1.1 m",
+	"weight_us": "73.9 lbs.",
+	"weight_eu": "33.5 kg",
+	"base_exp_yield": 137,
+	"leveling_rate": "Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 2,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 70,
+		"atk": 90,
+		"def": 70,
+		"sp_atk": 60,
+		"sp_def": 60,
+		"speed": 40
+	},
+	"evolution_from": "Spinarak",
+	"evolutions": [],
+	"species": "Long Leg Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "Ariados's feet are tipped with tiny hooked claws that enable it to scuttle on ceilings and vertical walls. This Pokémon constricts the foe with thin and strong silk webbing.",
+	"move_learnset": [
+		{
+			"move": "Absorb",
+			"level": 1
+		},
+		{
+			"move": "Bug Bite",
+			"level": 1
+		},
+		{
+			"move": "Constrict",
+			"level": 1
+		},
+		{
+			"move": "Fell Stinger",
+			"level": 1
+		},
+		{
+			"move": "Focus Energy",
+			"level": 1
+		},
+		{
+			"move": "Poison Sting",
+			"level": 1
+		},
+		{
+			"move": "String Shot",
+			"level": 1
+		},
+		{
+			"move": "Swords Dance",
+			"level": 1
+		},
+		{
+			"move": "Venom Drench",
+			"level": 1
+		},
+		{
+			"move": "Absorb",
+			"level": 5
+		},
+		{
+			"move": "Infestation",
+			"level": 8
+		},
+		{
+			"move": "Scary Face",
+			"level": 12
+		},
+		{
+			"move": "Night Shade",
+			"level": 15
+		},
+		{
+			"move": "Shadow Sneak",
+			"level": 19
+		},
+		{
+			"move": "Fury Swipes",
+			"level": 23
+		},
+		{
+			"move": "Sucker Punch",
+			"level": 28
+		},
+		{
+			"move": "Spider Web",
+			"level": 32
+		},
+		{
+			"move": "Agility",
+			"level": 37
+		},
+		{
+			"move": "Pin Missile",
+			"level": 41
+		},
+		{
+			"move": "Psychic",
+			"level": 46
+		},
+		{
+			"move": "Poison Jab",
+			"level": 50
+		},
+		{
+			"move": "Cross Poison",
+			"level": 55
+		},
+		{
+			"move": "Sticky Web",
+			"level": 58
+		},
+		{
+			"move": "Toxic Thread",
+			"level": 63
+		},
+		{
+			"move": "Baton Pass",
+			"egg_move": true
+		},
+		{
+			"move": "Disable",
+			"egg_move": true
+		},
+		{
+			"move": "Electroweb",
+			"egg_move": true
+		},
+		{
+			"move": "Lunge",
+			"egg_move": true
+		},
+		{
+			"move": "Megahorn",
+			"egg_move": true
+		},
+		{
+			"move": "Night Slash",
+			"egg_move": true
+		},
+		{
+			"move": "Psybeam",
+			"egg_move": true
+		},
+		{
+			"move": "Pursuit",
+			"egg_move": true
+		},
+		{
+			"move": "Rage Powder",
+			"egg_move": true
+		},
+		{
+			"move": "Signal Beam",
+			"egg_move": true
+		},
+		{
+			"move": "Sonic Boom",
+			"egg_move": true
+		},
+		{
+			"move": "Toxic Spikes",
+			"egg_move": true
+		},
+		{
+			"move": "Twineedle",
+			"egg_move": true
+		},
+		{
+			"move": "Toxic",
+			"tm": "TM6"
+		},
+		{
+			"move": "Venoshock",
+			"tm": "TM9"
+		},
+		{
+			"move": "Hidden Power",
+			"tm": "TM10"
+		},
+		{
+			"move": "Sunny Day",
+			"tm": "TM11"
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": "TM15"
+		},
+		{
+			"move": "Protect",
+			"tm": "TM17"
+		},
+		{
+			"move": "Frustration",
+			"tm": "TM21"
+		},
+		{
+			"move": "Solar Beam",
+			"tm": "TM22"
+		},
+		{
+			"move": "Return",
+			"tm": "TM27"
+		},
+		{
+			"move": "Leech Life",
+			"tm": "TM28"
+		},
+		{
+			"move": "Psychic",
+			"tm": "TM29"
+		},
+		{
+			"move": "Double Team",
+			"tm": "TM32"
+		},
+		{
+			"move": "Sludge Bomb",
+			"tm": "TM36"
+		},
+		{
+			"move": "Facade",
+			"tm": "TM42"
+		},
+		{
+			"move": "Rest",
+			"tm": "TM44"
+		},
+		{
+			"move": "Attract",
+			"tm": "TM45"
+		},
+		{
+			"move": "Thief",
+			"tm": "TM46"
+		},
+		{
+			"move": "Round",
+			"tm": "TM48"
+		},
+		{
+			"move": "Smart Strike",
+			"tm": "TM67"
+		},
+		{
+			"move": "Giga Impact",
+			"tm": "TM68"
+		},
+		{
+			"move": "Swords Dance",
+			"tm": "TM75"
+		},
+		{
+			"move": "X-Scissor",
+			"tm": "TM81"
+		},
+		{
+			"move": "Infestation",
+			"tm": "TM83"
+		},
+		{
+			"move": "Poison Jab",
+			"tm": "TM84"
+		},
+		{
+			"move": "Swagger",
+			"tm": "TM87"
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": "TM88"
+		},
+		{
+			"move": "Substitute",
+			"tm": "TM90"
+		},
+		{
+			"move": "Confide",
+			"tm": "TM100"
+		}
+	]
 }

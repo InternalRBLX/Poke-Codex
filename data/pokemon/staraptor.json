@@ -1,281 +1,273 @@
 {
-    "name": "Staraptor",
-    "national_id": 398,
-    "types": [
-        "Normal",
-        "Flying"
-    ],
-    "items": [
-        {
-            "name": "Yache Berry",
-            "chance": 5
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Intimidate"
-        },
-        {
-            "name": "Reckless",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 45,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Flying"
-    ],
-    "hatch_time": [
-        4080,
-        4334
-    ],
-    "height_us": "3'11\"",
-    "height_eu": "1.2 m",
-    "weight_us": "54.9 lbs.",
-    "weight_eu": "24.9 kg",
-    "base_exp_yield": 214,
-    "leveling_rate": "Medium Slow",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 3,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 85,
-        "atk": 120,
-        "def": 70,
-        "sp_atk": 50,
-        "sp_def": 50,
-        "speed": 100
-    },
-    "evolution_from": "Staravia",
-    "evolutions": [],
-    "species": "Predator Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "When Staravia evolve into Staraptor, they leave the flock to live alone. They have sturdy wings.",
-    "move_learnset": [
-        {
-            "move": "Close Combat",
-            "level": 1
-        },
-        {
-            "move": "Growl",
-            "level": 1
-        },
-        {
-            "move": "Quick Attack",
-            "level": 1
-        },
-        {
-            "move": "Tackle",
-            "level": 1
-        },
-        {
-            "move": "Wing Attack",
-            "level": 1
-        },
-        {
-            "move": "Quick Attack",
-            "level": 5
-        },
-        {
-            "move": "Wing Attack",
-            "level": 9
-        },
-        {
-            "move": "Double Team",
-            "level": 13
-        },
-        {
-            "move": "Endeavor",
-            "level": 18
-        },
-        {
-            "move": "Whirlwind",
-            "level": 23
-        },
-        {
-            "move": "Aerial Ace",
-            "level": 28
-        },
-        {
-            "move": "Take Down",
-            "level": 33
-        },
-        {
-            "move": "Agility",
-            "level": 41
-        },
-        {
-            "move": "Brave Bird",
-            "level": 49
-        },
-        {
-            "move": "Final Gambit",
-            "level": 57
-        },
-        {
-            "move": "Astonish",
-            "egg_move": true
-        },
-        {
-            "move": "Detect",
-            "egg_move": true
-        },
-        {
-            "move": "Double-Edge",
-            "egg_move": true
-        },
-        {
-            "move": "Feather Dance",
-            "egg_move": true
-        },
-        {
-            "move": "Foresight",
-            "egg_move": true
-        },
-        {
-            "move": "Fury Attack",
-            "egg_move": true
-        },
-        {
-            "move": "Mirror Move",
-            "egg_move": true
-        },
-        {
-            "move": "Pursuit",
-            "egg_move": true
-        },
-        {
-            "move": "Revenge",
-            "egg_move": true
-        },
-        {
-            "move": "Roost",
-            "egg_move": true
-        },
-        {
-            "move": "Sand Attack",
-            "egg_move": true
-        },
-        {
-            "move": "Steel Wing",
-            "egg_move": true
-        },
-        {
-            "move": "Uproar",
-            "egg_move": true
-        },
-        {
-            "move": "Work Up",
-            "tm": "TM1"
-        },
-        {
-            "move": "Toxic",
-            "tm": "TM6"
-        },
-        {
-            "move": "Hidden Power",
-            "tm": "TM10"
-        },
-        {
-            "move": "Sunny Day",
-            "tm": "TM11"
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": "TM15"
-        },
-        {
-            "move": "Protect",
-            "tm": "TM17"
-        },
-        {
-            "move": "Rain Dance",
-            "tm": "TM18"
-        },
-        {
-            "move": "Roost",
-            "tm": "TM19"
-        },
-        {
-            "move": "Frustration",
-            "tm": "TM21"
-        },
-        {
-            "move": "Return",
-            "tm": "TM27"
-        },
-        {
-            "move": "Double Team",
-            "tm": "TM32"
-        },
-        {
-            "move": "Aerial Ace",
-            "tm": "TM40"
-        },
-        {
-            "move": "Facade",
-            "tm": "TM42"
-        },
-        {
-            "move": "Rest",
-            "tm": "TM44"
-        },
-        {
-            "move": "Attract",
-            "tm": "TM45"
-        },
-        {
-            "move": "Thief",
-            "tm": "TM46"
-        },
-        {
-            "move": "Round",
-            "tm": "TM48"
-        },
-        {
-            "move": "Echoed Voice",
-            "tm": "TM49"
-        },
-        {
-            "move": "Steel Wing",
-            "tm": "TM51"
-        },
-        {
-            "move": "Giga Impact",
-            "tm": "TM68"
-        },
-        {
-            "move": "Fly",
-            "tm": "TM76"
-        },
-        {
-            "move": "Swagger",
-            "tm": "TM87"
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": "TM88"
-        },
-        {
-            "move": "U-turn",
-            "tm": "TM89"
-        },
-        {
-            "move": "Substitute",
-            "tm": "TM90"
-        },
-        {
-            "move": "Confide",
-            "tm": "TM100"
-        }
-    ]
+	"name": "Staraptor",
+	"national_id": 398,
+	"types": ["Normal", "Flying"],
+	"items": [
+		{
+			"name": "Yache Berry",
+			"chance": 5
+		}
+	],
+	"abilities": [
+		{
+			"name": "Intimidate"
+		},
+		{
+			"name": "Reckless",
+			"hidden": true
+		}
+	],
+	"catch_rate": 45,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Flying"],
+	"hatch_time": [4080, 4334],
+	"height_us": "3'11\"",
+	"height_eu": "1.2 m",
+	"weight_us": "54.9 lbs.",
+	"weight_eu": "24.9 kg",
+	"base_exp_yield": 214,
+	"leveling_rate": "Medium Slow",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 3,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 85,
+		"atk": 120,
+		"def": 70,
+		"sp_atk": 50,
+		"sp_def": 50,
+		"speed": 100
+	},
+	"evolution_from": "Staravia",
+	"evolutions": [],
+	"species": "Predator Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "When Staravia evolve into Staraptor, they leave the flock to live alone. They have sturdy wings.",
+	"move_learnset": [
+		{
+			"move": "Close Combat",
+			"level": 1
+		},
+		{
+			"move": "Growl",
+			"level": 1
+		},
+		{
+			"move": "Quick Attack",
+			"level": 1
+		},
+		{
+			"move": "Tackle",
+			"level": 1
+		},
+		{
+			"move": "Wing Attack",
+			"level": 1
+		},
+		{
+			"move": "Quick Attack",
+			"level": 5
+		},
+		{
+			"move": "Wing Attack",
+			"level": 9
+		},
+		{
+			"move": "Double Team",
+			"level": 13
+		},
+		{
+			"move": "Endeavor",
+			"level": 18
+		},
+		{
+			"move": "Whirlwind",
+			"level": 23
+		},
+		{
+			"move": "Aerial Ace",
+			"level": 28
+		},
+		{
+			"move": "Take Down",
+			"level": 33
+		},
+		{
+			"move": "Agility",
+			"level": 41
+		},
+		{
+			"move": "Brave Bird",
+			"level": 49
+		},
+		{
+			"move": "Final Gambit",
+			"level": 57
+		},
+		{
+			"move": "Astonish",
+			"egg_move": true
+		},
+		{
+			"move": "Detect",
+			"egg_move": true
+		},
+		{
+			"move": "Double-Edge",
+			"egg_move": true
+		},
+		{
+			"move": "Feather Dance",
+			"egg_move": true
+		},
+		{
+			"move": "Foresight",
+			"egg_move": true
+		},
+		{
+			"move": "Fury Attack",
+			"egg_move": true
+		},
+		{
+			"move": "Mirror Move",
+			"egg_move": true
+		},
+		{
+			"move": "Pursuit",
+			"egg_move": true
+		},
+		{
+			"move": "Revenge",
+			"egg_move": true
+		},
+		{
+			"move": "Roost",
+			"egg_move": true
+		},
+		{
+			"move": "Sand Attack",
+			"egg_move": true
+		},
+		{
+			"move": "Steel Wing",
+			"egg_move": true
+		},
+		{
+			"move": "Uproar",
+			"egg_move": true
+		},
+		{
+			"move": "Work Up",
+			"tm": "TM1"
+		},
+		{
+			"move": "Toxic",
+			"tm": "TM6"
+		},
+		{
+			"move": "Hidden Power",
+			"tm": "TM10"
+		},
+		{
+			"move": "Sunny Day",
+			"tm": "TM11"
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": "TM15"
+		},
+		{
+			"move": "Protect",
+			"tm": "TM17"
+		},
+		{
+			"move": "Rain Dance",
+			"tm": "TM18"
+		},
+		{
+			"move": "Roost",
+			"tm": "TM19"
+		},
+		{
+			"move": "Frustration",
+			"tm": "TM21"
+		},
+		{
+			"move": "Return",
+			"tm": "TM27"
+		},
+		{
+			"move": "Double Team",
+			"tm": "TM32"
+		},
+		{
+			"move": "Aerial Ace",
+			"tm": "TM40"
+		},
+		{
+			"move": "Facade",
+			"tm": "TM42"
+		},
+		{
+			"move": "Rest",
+			"tm": "TM44"
+		},
+		{
+			"move": "Attract",
+			"tm": "TM45"
+		},
+		{
+			"move": "Thief",
+			"tm": "TM46"
+		},
+		{
+			"move": "Round",
+			"tm": "TM48"
+		},
+		{
+			"move": "Echoed Voice",
+			"tm": "TM49"
+		},
+		{
+			"move": "Steel Wing",
+			"tm": "TM51"
+		},
+		{
+			"move": "Giga Impact",
+			"tm": "TM68"
+		},
+		{
+			"move": "Fly",
+			"tm": "TM76"
+		},
+		{
+			"move": "Swagger",
+			"tm": "TM87"
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": "TM88"
+		},
+		{
+			"move": "U-turn",
+			"tm": "TM89"
+		},
+		{
+			"move": "Substitute",
+			"tm": "TM90"
+		},
+		{
+			"move": "Confide",
+			"tm": "TM100"
+		}
+	]
 }

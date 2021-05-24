@@ -1,8 +1,8 @@
 {
-    "name": "Wave Incense",
-    "sell_price": 1000,
-    "holdable": true,
-    "battle": false,
-    "category": "Item",
-    "subcategory": "Incense"
+	"name": "Wave Incense",
+	"sell_price": 1000,
+	"holdable": true,
+	"battle": false,
+	"category": "Item",
+	"subcategory": "Incense"
 }

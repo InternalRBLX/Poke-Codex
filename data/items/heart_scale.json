@@ -1,8 +1,8 @@
 {
-    "name": "Heart Scale",
-    "sell_price": 50,
-    "holdable": false,
-    "battle": false,
-    "category": "Item",
-    "subcategory": "Currency"
+	"name": "Heart Scale",
+	"sell_price": 50,
+	"holdable": false,
+	"battle": false,
+	"category": "Item",
+	"subcategory": "Currency"
 }

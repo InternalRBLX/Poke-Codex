@@ -1,266 +1,257 @@
 {
-    "name": "Cottonee",
-    "national_id": 546,
-    "types": [
-        "Grass",
-        "Fairy"
-    ],
-    "items": [
-        {
-            "name": "Absorb Bulb",
-            "chance": 5
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Prankster"
-        },
-        {
-            "name": "Infiltrator"
-        },
-        {
-            "name": "Chlorophyll",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 190,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Grass",
-        "Fairy"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "1'00\"",
-    "height_eu": "0.3 m",
-    "weight_us": "1.3 lbs.",
-    "weight_eu": "0.6 kg",
-    "base_exp_yield": 56,
-    "leveling_rate": "Medium Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 1
-    },
-    "base_stats": {
-        "hp": 40,
-        "atk": 27,
-        "def": 60,
-        "sp_atk": 37,
-        "sp_def": 50,
-        "speed": 66
-    },
-    "evolution_from": null,
-    "evolutions": [
-        {
-            "to": "Whimsicott",
-            "item": "Sun Stone"
-        }
-    ],
-    "species": "Cotton Puff Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "Weaving together the cotton of both Cottonee and Eldegoss produces exquisite cloth that’s highly prized by many luxury brands.",
-    "move_learnset": [
-        {
-            "move": "Absorb",
-            "level": 1
-        },
-        {
-            "move": "Helping Hand",
-            "level": 1
-        },
-        {
-            "move": "Fairy Wind",
-            "level": 3
-        },
-        {
-            "move": "Stun Spore",
-            "level": 6
-        },
-        {
-            "move": "Mega Drain",
-            "level": 12
-        },
-        {
-            "move": "Razor Leaf",
-            "level": 15
-        },
-        {
-            "move": "Growth",
-            "level": 18
-        },
-        {
-            "move": "Poison Powder",
-            "level": 21
-        },
-        {
-            "move": "Giga Drain",
-            "level": 24
-        },
-        {
-            "move": "Charm",
-            "level": 27
-        },
-        {
-            "move": "Leech Seed",
-            "level": 30
-        },
-        {
-            "move": "Cotton Spore",
-            "level": 33
-        },
-        {
-            "move": "Energy Ball",
-            "level": 36
-        },
-        {
-            "move": "Sunny Day",
-            "level": 39
-        },
-        {
-            "move": "Endeavor",
-            "level": 42
-        },
-        {
-            "move": "Cotton Guard",
-            "level": 45
-        },
-        {
-            "move": "Solar Beam",
-            "level": 48
-        },
-        {
-            "move": "Solar Beam",
-            "tm": true
-        },
-        {
-            "move": "Safeguard",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Giga Drain",
-            "tm": true
-        },
-        {
-            "move": "Charm",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Sunny Day",
-            "tm": true
-        },
-        {
-            "move": "Beat Up",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Swift",
-            "tm": true
-        },
-        {
-            "move": "Helping Hand",
-            "tm": true
-        },
-        {
-            "move": "Fake Tears",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Grassy Terrain",
-            "tm": true
-        },
-        {
-            "move": "Misty Terrain",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Encore",
-            "tm": true
-        },
-        {
-            "move": "Taunt",
-            "tm": true
-        },
-        {
-            "move": "Seed Bomb",
-            "tm": true
-        },
-        {
-            "move": "Energy Ball",
-            "tm": true
-        },
-        {
-            "move": "Grass Knot",
-            "tm": true
-        },
-        {
-            "move": "Dazzling Gleam",
-            "tm": true
-        },
-        {
-            "move": "Tickle",
-            "egg_move": true
-        },
-        {
-            "move": "Memento",
-            "egg_move": true
-        },
-        {
-            "move": "Switcheroo",
-            "egg_move": true
-        },
-        {
-            "move": "Worry Seed",
-            "egg_move": true
-        },
-        {
-            "move": "Nature Power",
-            "egg_move": true
-        }
-    ]
+	"name": "Cottonee",
+	"national_id": 546,
+	"types": ["Grass", "Fairy"],
+	"items": [
+		{
+			"name": "Absorb Bulb",
+			"chance": 5
+		}
+	],
+	"abilities": [
+		{
+			"name": "Prankster"
+		},
+		{
+			"name": "Infiltrator"
+		},
+		{
+			"name": "Chlorophyll",
+			"hidden": true
+		}
+	],
+	"catch_rate": 190,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Grass", "Fairy"],
+	"hatch_time": [5355, 5609],
+	"height_us": "1'00\"",
+	"height_eu": "0.3 m",
+	"weight_us": "1.3 lbs.",
+	"weight_eu": "0.6 kg",
+	"base_exp_yield": 56,
+	"leveling_rate": "Medium Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 1
+	},
+	"base_stats": {
+		"hp": 40,
+		"atk": 27,
+		"def": 60,
+		"sp_atk": 37,
+		"sp_def": 50,
+		"speed": 66
+	},
+	"evolution_from": null,
+	"evolutions": [
+		{
+			"to": "Whimsicott",
+			"item": "Sun Stone"
+		}
+	],
+	"species": "Cotton Puff Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "Weaving together the cotton of both Cottonee and Eldegoss produces exquisite cloth that’s highly prized by many luxury brands.",
+	"move_learnset": [
+		{
+			"move": "Absorb",
+			"level": 1
+		},
+		{
+			"move": "Helping Hand",
+			"level": 1
+		},
+		{
+			"move": "Fairy Wind",
+			"level": 3
+		},
+		{
+			"move": "Stun Spore",
+			"level": 6
+		},
+		{
+			"move": "Mega Drain",
+			"level": 12
+		},
+		{
+			"move": "Razor Leaf",
+			"level": 15
+		},
+		{
+			"move": "Growth",
+			"level": 18
+		},
+		{
+			"move": "Poison Powder",
+			"level": 21
+		},
+		{
+			"move": "Giga Drain",
+			"level": 24
+		},
+		{
+			"move": "Charm",
+			"level": 27
+		},
+		{
+			"move": "Leech Seed",
+			"level": 30
+		},
+		{
+			"move": "Cotton Spore",
+			"level": 33
+		},
+		{
+			"move": "Energy Ball",
+			"level": 36
+		},
+		{
+			"move": "Sunny Day",
+			"level": 39
+		},
+		{
+			"move": "Endeavor",
+			"level": 42
+		},
+		{
+			"move": "Cotton Guard",
+			"level": 45
+		},
+		{
+			"move": "Solar Beam",
+			"level": 48
+		},
+		{
+			"move": "Solar Beam",
+			"tm": true
+		},
+		{
+			"move": "Safeguard",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Giga Drain",
+			"tm": true
+		},
+		{
+			"move": "Charm",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Sunny Day",
+			"tm": true
+		},
+		{
+			"move": "Beat Up",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Swift",
+			"tm": true
+		},
+		{
+			"move": "Helping Hand",
+			"tm": true
+		},
+		{
+			"move": "Fake Tears",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Grassy Terrain",
+			"tm": true
+		},
+		{
+			"move": "Misty Terrain",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Encore",
+			"tm": true
+		},
+		{
+			"move": "Taunt",
+			"tm": true
+		},
+		{
+			"move": "Seed Bomb",
+			"tm": true
+		},
+		{
+			"move": "Energy Ball",
+			"tm": true
+		},
+		{
+			"move": "Grass Knot",
+			"tm": true
+		},
+		{
+			"move": "Dazzling Gleam",
+			"tm": true
+		},
+		{
+			"move": "Tickle",
+			"egg_move": true
+		},
+		{
+			"move": "Memento",
+			"egg_move": true
+		},
+		{
+			"move": "Switcheroo",
+			"egg_move": true
+		},
+		{
+			"move": "Worry Seed",
+			"egg_move": true
+		},
+		{
+			"move": "Nature Power",
+			"egg_move": true
+		}
+	]
 }

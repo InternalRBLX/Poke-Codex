@@ -1,306 +1,298 @@
 {
-    "name": "Exeggcute",
-    "national_id": 102,
-    "types": [
-        "Grass",
-        "Psychic"
-    ],
-    "items": [
-        {
-            "name": "Psychic Seed",
-            "chance": 5
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Chlorophyll"
-        },
-        {
-            "name": "Harvest",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 90,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Grass"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "1'04\"",
-    "height_eu": "0.4 m",
-    "weight_us": "5.5 lbs.",
-    "weight_eu": "2.5 kg",
-    "base_exp_yield": 65,
-    "leveling_rate": "Slow",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 1,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 60,
-        "atk": 40,
-        "def": 80,
-        "sp_atk": 60,
-        "sp_def": 45,
-        "speed": 40
-    },
-    "evolution_from": null,
-    "evolutions": [
-        {
-            "to": "Exeggutor",
-            "item": "Leaf Stone"
-        }
-    ],
-    "species": "Egg Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "This Pokémon consists of six eggs that form a closely knit cluster. The six eggs attract each other and spin around. When cracks increasingly appear on the eggs, Exeggcute is close to evolution.",
-    "move_learnset": [
-        {
-            "move": "Barrage",
-            "level": 1
-        },
-        {
-            "move": "Hypnosis",
-            "level": 1
-        },
-        {
-            "move": "Uproar",
-            "level": 1
-        },
-        {
-            "move": "Reflect",
-            "level": 7
-        },
-        {
-            "move": "Leech Seed",
-            "level": 11
-        },
-        {
-            "move": "Bullet Seed",
-            "level": 17
-        },
-        {
-            "move": "Stun Spore",
-            "level": 19
-        },
-        {
-            "move": "Poison Powder",
-            "level": 21
-        },
-        {
-            "move": "Sleep Powder",
-            "level": 23
-        },
-        {
-            "move": "Confusion",
-            "level": 27
-        },
-        {
-            "move": "Worry Seed",
-            "level": 33
-        },
-        {
-            "move": "Natural Gift",
-            "level": 37
-        },
-        {
-            "move": "Solar Beam",
-            "level": 43
-        },
-        {
-            "move": "Extrasensory",
-            "level": 47
-        },
-        {
-            "move": "Bestow",
-            "level": 50
-        },
-        {
-            "move": "Ancient Power",
-            "egg_move": true
-        },
-        {
-            "move": "Block",
-            "egg_move": true
-        },
-        {
-            "move": "Curse",
-            "egg_move": true
-        },
-        {
-            "move": "Giga Drain",
-            "egg_move": true
-        },
-        {
-            "move": "Grassy Terrain",
-            "egg_move": true
-        },
-        {
-            "move": "Ingrain",
-            "egg_move": true
-        },
-        {
-            "move": "Leaf Storm",
-            "egg_move": true
-        },
-        {
-            "move": "Lucky Chant",
-            "egg_move": true
-        },
-        {
-            "move": "Moonlight",
-            "egg_move": true
-        },
-        {
-            "move": "Natural Gift",
-            "egg_move": true
-        },
-        {
-            "move": "Nature Power",
-            "egg_move": true
-        },
-        {
-            "move": "Power Swap",
-            "egg_move": true
-        },
-        {
-            "move": "Skill Swap",
-            "egg_move": true
-        },
-        {
-            "move": "Synthesis",
-            "egg_move": true
-        },
-        {
-            "move": "Toxic",
-            "tm": "TM6"
-        },
-        {
-            "move": "Hidden Power",
-            "tm": "TM10"
-        },
-        {
-            "move": "Sunny Day",
-            "tm": "TM11"
-        },
-        {
-            "move": "Light Screen",
-            "tm": "TM16"
-        },
-        {
-            "move": "Protect",
-            "tm": "TM17"
-        },
-        {
-            "move": "Frustration",
-            "tm": "TM21"
-        },
-        {
-            "move": "Solar Beam",
-            "tm": "TM22"
-        },
-        {
-            "move": "Return",
-            "tm": "TM27"
-        },
-        {
-            "move": "Psychic",
-            "tm": "TM29"
-        },
-        {
-            "move": "Double Team",
-            "tm": "TM32"
-        },
-        {
-            "move": "Reflect",
-            "tm": "TM33"
-        },
-        {
-            "move": "Sludge Bomb",
-            "tm": "TM36"
-        },
-        {
-            "move": "Facade",
-            "tm": "TM42"
-        },
-        {
-            "move": "Rest",
-            "tm": "TM44"
-        },
-        {
-            "move": "Attract",
-            "tm": "TM45"
-        },
-        {
-            "move": "Thief",
-            "tm": "TM46"
-        },
-        {
-            "move": "Round",
-            "tm": "TM48"
-        },
-        {
-            "move": "Energy Ball",
-            "tm": "TM53"
-        },
-        {
-            "move": "Explosion",
-            "tm": "TM64"
-        },
-        {
-            "move": "Swords Dance",
-            "tm": "TM75"
-        },
-        {
-            "move": "Psych Up",
-            "tm": "TM77"
-        },
-        {
-            "move": "Infestation",
-            "tm": "TM83"
-        },
-        {
-            "move": "Dream Eater",
-            "tm": "TM85"
-        },
-        {
-            "move": "Grass Knot",
-            "tm": "TM86"
-        },
-        {
-            "move": "Swagger",
-            "tm": "TM87"
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": "TM88"
-        },
-        {
-            "move": "Substitute",
-            "tm": "TM90"
-        },
-        {
-            "move": "Trick Room",
-            "tm": "TM92"
-        },
-        {
-            "move": "Nature Power",
-            "tm": "TM96"
-        },
-        {
-            "move": "Confide",
-            "tm": "TM100"
-        }
-    ]
+	"name": "Exeggcute",
+	"national_id": 102,
+	"types": ["Grass", "Psychic"],
+	"items": [
+		{
+			"name": "Psychic Seed",
+			"chance": 5
+		}
+	],
+	"abilities": [
+		{
+			"name": "Chlorophyll"
+		},
+		{
+			"name": "Harvest",
+			"hidden": true
+		}
+	],
+	"catch_rate": 90,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Grass"],
+	"hatch_time": [5355, 5609],
+	"height_us": "1'04\"",
+	"height_eu": "0.4 m",
+	"weight_us": "5.5 lbs.",
+	"weight_eu": "2.5 kg",
+	"base_exp_yield": 65,
+	"leveling_rate": "Slow",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 1,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 60,
+		"atk": 40,
+		"def": 80,
+		"sp_atk": 60,
+		"sp_def": 45,
+		"speed": 40
+	},
+	"evolution_from": null,
+	"evolutions": [
+		{
+			"to": "Exeggutor",
+			"item": "Leaf Stone"
+		}
+	],
+	"species": "Egg Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "This Pokémon consists of six eggs that form a closely knit cluster. The six eggs attract each other and spin around. When cracks increasingly appear on the eggs, Exeggcute is close to evolution.",
+	"move_learnset": [
+		{
+			"move": "Barrage",
+			"level": 1
+		},
+		{
+			"move": "Hypnosis",
+			"level": 1
+		},
+		{
+			"move": "Uproar",
+			"level": 1
+		},
+		{
+			"move": "Reflect",
+			"level": 7
+		},
+		{
+			"move": "Leech Seed",
+			"level": 11
+		},
+		{
+			"move": "Bullet Seed",
+			"level": 17
+		},
+		{
+			"move": "Stun Spore",
+			"level": 19
+		},
+		{
+			"move": "Poison Powder",
+			"level": 21
+		},
+		{
+			"move": "Sleep Powder",
+			"level": 23
+		},
+		{
+			"move": "Confusion",
+			"level": 27
+		},
+		{
+			"move": "Worry Seed",
+			"level": 33
+		},
+		{
+			"move": "Natural Gift",
+			"level": 37
+		},
+		{
+			"move": "Solar Beam",
+			"level": 43
+		},
+		{
+			"move": "Extrasensory",
+			"level": 47
+		},
+		{
+			"move": "Bestow",
+			"level": 50
+		},
+		{
+			"move": "Ancient Power",
+			"egg_move": true
+		},
+		{
+			"move": "Block",
+			"egg_move": true
+		},
+		{
+			"move": "Curse",
+			"egg_move": true
+		},
+		{
+			"move": "Giga Drain",
+			"egg_move": true
+		},
+		{
+			"move": "Grassy Terrain",
+			"egg_move": true
+		},
+		{
+			"move": "Ingrain",
+			"egg_move": true
+		},
+		{
+			"move": "Leaf Storm",
+			"egg_move": true
+		},
+		{
+			"move": "Lucky Chant",
+			"egg_move": true
+		},
+		{
+			"move": "Moonlight",
+			"egg_move": true
+		},
+		{
+			"move": "Natural Gift",
+			"egg_move": true
+		},
+		{
+			"move": "Nature Power",
+			"egg_move": true
+		},
+		{
+			"move": "Power Swap",
+			"egg_move": true
+		},
+		{
+			"move": "Skill Swap",
+			"egg_move": true
+		},
+		{
+			"move": "Synthesis",
+			"egg_move": true
+		},
+		{
+			"move": "Toxic",
+			"tm": "TM6"
+		},
+		{
+			"move": "Hidden Power",
+			"tm": "TM10"
+		},
+		{
+			"move": "Sunny Day",
+			"tm": "TM11"
+		},
+		{
+			"move": "Light Screen",
+			"tm": "TM16"
+		},
+		{
+			"move": "Protect",
+			"tm": "TM17"
+		},
+		{
+			"move": "Frustration",
+			"tm": "TM21"
+		},
+		{
+			"move": "Solar Beam",
+			"tm": "TM22"
+		},
+		{
+			"move": "Return",
+			"tm": "TM27"
+		},
+		{
+			"move": "Psychic",
+			"tm": "TM29"
+		},
+		{
+			"move": "Double Team",
+			"tm": "TM32"
+		},
+		{
+			"move": "Reflect",
+			"tm": "TM33"
+		},
+		{
+			"move": "Sludge Bomb",
+			"tm": "TM36"
+		},
+		{
+			"move": "Facade",
+			"tm": "TM42"
+		},
+		{
+			"move": "Rest",
+			"tm": "TM44"
+		},
+		{
+			"move": "Attract",
+			"tm": "TM45"
+		},
+		{
+			"move": "Thief",
+			"tm": "TM46"
+		},
+		{
+			"move": "Round",
+			"tm": "TM48"
+		},
+		{
+			"move": "Energy Ball",
+			"tm": "TM53"
+		},
+		{
+			"move": "Explosion",
+			"tm": "TM64"
+		},
+		{
+			"move": "Swords Dance",
+			"tm": "TM75"
+		},
+		{
+			"move": "Psych Up",
+			"tm": "TM77"
+		},
+		{
+			"move": "Infestation",
+			"tm": "TM83"
+		},
+		{
+			"move": "Dream Eater",
+			"tm": "TM85"
+		},
+		{
+			"move": "Grass Knot",
+			"tm": "TM86"
+		},
+		{
+			"move": "Swagger",
+			"tm": "TM87"
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": "TM88"
+		},
+		{
+			"move": "Substitute",
+			"tm": "TM90"
+		},
+		{
+			"move": "Trick Room",
+			"tm": "TM92"
+		},
+		{
+			"move": "Nature Power",
+			"tm": "TM96"
+		},
+		{
+			"move": "Confide",
+			"tm": "TM100"
+		}
+	]
 }

@@ -1,307 +1,300 @@
 {
-    "name": "Weezing",
-    "national_id": 110,
-    "types": [
-        "Poison"
-    ],
-    "items": [
-        {
-            "name": "Smoke Ball",
-            "chance": 5
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Levitate"
-        },
-        {
-            "name": "Neutralizing Gas"
-        },
-        {
-            "name": "Stench",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 60,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Amorphous"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "3'11\"",
-    "height_eu": "1.2 m",
-    "weight_us": "20.9 lbs.",
-    "weight_eu": "9.5 kg",
-    "base_exp_yield": 172,
-    "leveling_rate": "Medium Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 2,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 65,
-        "atk": 90,
-        "def": 120,
-        "sp_atk": 85,
-        "sp_def": 70,
-        "speed": 60
-    },
-    "evolution_from": "Koffing",
-    "evolutions": [],
-    "species": "Poison Gas Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "It can’t suck in air quite as well as a Galarian Weezing, but the toxins it creates are more potent than those of its counterpart.",
-    "move_learnset": [
-        {
-            "move": "Double Hit",
-            "evo": true
-        },
-        {
-            "move": "Double Hit",
-            "level": 1
-        },
-        {
-            "move": "Heat Wave",
-            "level": 1
-        },
-        {
-            "move": "Poison Gas",
-            "level": 1
-        },
-        {
-            "move": "Tackle",
-            "level": 1
-        },
-        {
-            "move": "Smog",
-            "level": 1
-        },
-        {
-            "move": "Smokescreen",
-            "level": 1
-        },
-        {
-            "move": "Clear Smog",
-            "level": 12
-        },
-        {
-            "move": "Assurance",
-            "level": 16
-        },
-        {
-            "move": "Sludge",
-            "level": 20
-        },
-        {
-            "move": "Haze",
-            "level": 24
-        },
-        {
-            "move": "Self-Destruct",
-            "level": 28
-        },
-        {
-            "move": "Sludge Bomb",
-            "level": 32
-        },
-        {
-            "move": "Toxic",
-            "level": 38
-        },
-        {
-            "move": "Belch",
-            "level": 44
-        },
-        {
-            "move": "Explosion",
-            "level": 50
-        },
-        {
-            "move": "Memento",
-            "level": 56
-        },
-        {
-            "move": "Destiny Bond",
-            "level": 62
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": true
-        },
-        {
-            "move": "Giga Impact",
-            "tm": true
-        },
-        {
-            "move": "Screech",
-            "tm": true
-        },
-        {
-            "move": "Self-Destruct",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Thief",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Rain Dance",
-            "tm": true
-        },
-        {
-            "move": "Sunny Day",
-            "tm": true
-        },
-        {
-            "move": "Will-O-Wisp",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Payback",
-            "tm": true
-        },
-        {
-            "move": "Assurance",
-            "tm": true
-        },
-        {
-            "move": "Venoshock",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Flamethrower",
-            "tm": true
-        },
-        {
-            "move": "Thunderbolt",
-            "tm": true
-        },
-        {
-            "move": "Thunder",
-            "tm": true
-        },
-        {
-            "move": "Fire Blast",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Sludge Bomb",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Shadow Ball",
-            "tm": true
-        },
-        {
-            "move": "Uproar",
-            "tm": true
-        },
-        {
-            "move": "Heat Wave",
-            "tm": true
-        },
-        {
-            "move": "Taunt",
-            "tm": true
-        },
-        {
-            "move": "Gyro Ball",
-            "tm": true
-        },
-        {
-            "move": "Toxic Spikes",
-            "tm": true
-        },
-        {
-            "move": "Dark Pulse",
-            "tm": true
-        },
-        {
-            "move": "Sludge Wave",
-            "tm": true
-        },
-        {
-            "move": "Venom Drench",
-            "tm": true
-        },
-        {
-            "move": "Psybeam",
-            "egg_move": true
-        },
-        {
-            "move": "Pain Split",
-            "egg_move": true
-        },
-        {
-            "move": "Grudge",
-            "egg_move": true
-        },
-        {
-            "move": "Spite",
-            "egg_move": true
-        },
-        {
-            "move": "Curse",
-            "egg_move": true
-        },
-        {
-            "move": "Stockpile",
-            "egg_move": true
-        },
-        {
-            "move": "Swallow",
-            "egg_move": true
-        },
-        {
-            "move": "Spit Up",
-            "egg_move": true
-        }
-    ]
+	"name": "Weezing",
+	"national_id": 110,
+	"types": ["Poison"],
+	"items": [
+		{
+			"name": "Smoke Ball",
+			"chance": 5
+		}
+	],
+	"abilities": [
+		{
+			"name": "Levitate"
+		},
+		{
+			"name": "Neutralizing Gas"
+		},
+		{
+			"name": "Stench",
+			"hidden": true
+		}
+	],
+	"catch_rate": 60,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Amorphous"],
+	"hatch_time": [5355, 5609],
+	"height_us": "3'11\"",
+	"height_eu": "1.2 m",
+	"weight_us": "20.9 lbs.",
+	"weight_eu": "9.5 kg",
+	"base_exp_yield": 172,
+	"leveling_rate": "Medium Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 2,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 65,
+		"atk": 90,
+		"def": 120,
+		"sp_atk": 85,
+		"sp_def": 70,
+		"speed": 60
+	},
+	"evolution_from": "Koffing",
+	"evolutions": [],
+	"species": "Poison Gas Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "It can’t suck in air quite as well as a Galarian Weezing, but the toxins it creates are more potent than those of its counterpart.",
+	"move_learnset": [
+		{
+			"move": "Double Hit",
+			"evo": true
+		},
+		{
+			"move": "Double Hit",
+			"level": 1
+		},
+		{
+			"move": "Heat Wave",
+			"level": 1
+		},
+		{
+			"move": "Poison Gas",
+			"level": 1
+		},
+		{
+			"move": "Tackle",
+			"level": 1
+		},
+		{
+			"move": "Smog",
+			"level": 1
+		},
+		{
+			"move": "Smokescreen",
+			"level": 1
+		},
+		{
+			"move": "Clear Smog",
+			"level": 12
+		},
+		{
+			"move": "Assurance",
+			"level": 16
+		},
+		{
+			"move": "Sludge",
+			"level": 20
+		},
+		{
+			"move": "Haze",
+			"level": 24
+		},
+		{
+			"move": "Self-Destruct",
+			"level": 28
+		},
+		{
+			"move": "Sludge Bomb",
+			"level": 32
+		},
+		{
+			"move": "Toxic",
+			"level": 38
+		},
+		{
+			"move": "Belch",
+			"level": 44
+		},
+		{
+			"move": "Explosion",
+			"level": 50
+		},
+		{
+			"move": "Memento",
+			"level": 56
+		},
+		{
+			"move": "Destiny Bond",
+			"level": 62
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": true
+		},
+		{
+			"move": "Giga Impact",
+			"tm": true
+		},
+		{
+			"move": "Screech",
+			"tm": true
+		},
+		{
+			"move": "Self-Destruct",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Thief",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Rain Dance",
+			"tm": true
+		},
+		{
+			"move": "Sunny Day",
+			"tm": true
+		},
+		{
+			"move": "Will-O-Wisp",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Payback",
+			"tm": true
+		},
+		{
+			"move": "Assurance",
+			"tm": true
+		},
+		{
+			"move": "Venoshock",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Flamethrower",
+			"tm": true
+		},
+		{
+			"move": "Thunderbolt",
+			"tm": true
+		},
+		{
+			"move": "Thunder",
+			"tm": true
+		},
+		{
+			"move": "Fire Blast",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Sludge Bomb",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Shadow Ball",
+			"tm": true
+		},
+		{
+			"move": "Uproar",
+			"tm": true
+		},
+		{
+			"move": "Heat Wave",
+			"tm": true
+		},
+		{
+			"move": "Taunt",
+			"tm": true
+		},
+		{
+			"move": "Gyro Ball",
+			"tm": true
+		},
+		{
+			"move": "Toxic Spikes",
+			"tm": true
+		},
+		{
+			"move": "Dark Pulse",
+			"tm": true
+		},
+		{
+			"move": "Sludge Wave",
+			"tm": true
+		},
+		{
+			"move": "Venom Drench",
+			"tm": true
+		},
+		{
+			"move": "Psybeam",
+			"egg_move": true
+		},
+		{
+			"move": "Pain Split",
+			"egg_move": true
+		},
+		{
+			"move": "Grudge",
+			"egg_move": true
+		},
+		{
+			"move": "Spite",
+			"egg_move": true
+		},
+		{
+			"move": "Curse",
+			"egg_move": true
+		},
+		{
+			"move": "Stockpile",
+			"egg_move": true
+		},
+		{
+			"move": "Swallow",
+			"egg_move": true
+		},
+		{
+			"move": "Spit Up",
+			"egg_move": true
+		}
+	]
 }

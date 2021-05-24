@@ -1,8 +1,8 @@
 {
-    "name": "Escape Rope",
-    "sell_price": 500,
-    "holdable": false,
-    "battle": false,
-    "category": "Item",
-    "subcategory": "Overworld"
+	"name": "Escape Rope",
+	"sell_price": 500,
+	"holdable": false,
+	"battle": false,
+	"category": "Item",
+	"subcategory": "Overworld"
 }

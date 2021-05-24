@@ -1,244 +1,236 @@
 {
-    "name": "Dartrix",
-    "national_id": 723,
-    "types": [
-        "Grass",
-        "Flying"
-    ],
-    "abilities": [
-        {
-            "name": "Overgrow"
-        },
-        {
-            "name": "Long Reach",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 45,
-    "gender_ratios": {
-        "male": 87.5,
-        "female": 12.5
-    },
-    "egg_groups": [
-        "Flying"
-    ],
-    "hatch_time": [
-        3855,
-        4111
-    ],
-    "height_us": "2'04\"",
-    "height_eu": "0.7 m",
-    "weight_us": "35.3 lbs.",
-    "weight_eu": "16.0 kg",
-    "base_exp_yield": 147,
-    "leveling_rate": "Medium Slow",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 2,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 78,
-        "atk": 75,
-        "def": 75,
-        "sp_atk": 70,
-        "sp_def": 70,
-        "speed": 52
-    },
-    "evolution_from": "Rowlet",
-    "evolutions": [
-        {
-            "to": "Decidueye",
-            "level": 34
-        }
-    ],
-    "species": "Blade Quill Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "It never slacks when it comes to the task of cleaning its feathers. Thorough preening keeps it looking spiffy and its blade quills nice and sharp.",
-    "move_learnset": [
-        {
-            "move": "Tackle",
-            "level": 1
-        },
-        {
-            "move": "Growl",
-            "level": 1
-        },
-        {
-            "move": "Leafage",
-            "level": 1
-        },
-        {
-            "move": "Astonish",
-            "level": 1
-        },
-        {
-            "move": "Peck",
-            "level": 9
-        },
-        {
-            "move": "Shadow Sneak",
-            "level": 12
-        },
-        {
-            "move": "Razor Leaf",
-            "level": 15
-        },
-        {
-            "move": "Synthesis",
-            "level": 20
-        },
-        {
-            "move": "Pluck",
-            "level": 25
-        },
-        {
-            "move": "Nasty Plot",
-            "level": 30
-        },
-        {
-            "move": "Sucker Punch",
-            "level": 35
-        },
-        {
-            "move": "Leaf Blade",
-            "level": 40
-        },
-        {
-            "move": "Feather Dance",
-            "level": 45
-        },
-        {
-            "move": "Brave Bird",
-            "level": 50
-        },
-        {
-            "move": "Solar Beam",
-            "tm": true
-        },
-        {
-            "move": "Light Screen",
-            "tm": true
-        },
-        {
-            "move": "Safeguard",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Giga Drain",
-            "tm": true
-        },
-        {
-            "move": "Steel Wing",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Sunny Day",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Swift",
-            "tm": true
-        },
-        {
-            "move": "Shadow Claw",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "False Swipe",
-            "tm": true
-        },
-        {
-            "move": "Swords Dance",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Baton Pass",
-            "tm": true
-        },
-        {
-            "move": "Leaf Blade",
-            "tm": true
-        },
-        {
-            "move": "Seed Bomb",
-            "tm": true
-        },
-        {
-            "move": "Energy Ball",
-            "tm": true
-        },
-        {
-            "move": "Brave Bird",
-            "tm": true
-        },
-        {
-            "move": "Nasty Plot",
-            "tm": true
-        },
-        {
-            "move": "Grass Knot",
-            "tm": true
-        },
-        {
-            "move": "Work Up",
-            "tm": true
-        },
-        {
-            "move": "Confuse Ray",
-            "egg_move": true
-        },
-        {
-            "move": "Defog",
-            "egg_move": true
-        },
-        {
-            "move": "Knock Off",
-            "egg_move": true
-        },
-        {
-            "move": "Double Team",
-            "egg_move": true
-        }
-    ]
+	"name": "Dartrix",
+	"national_id": 723,
+	"types": ["Grass", "Flying"],
+	"abilities": [
+		{
+			"name": "Overgrow"
+		},
+		{
+			"name": "Long Reach",
+			"hidden": true
+		}
+	],
+	"catch_rate": 45,
+	"gender_ratios": {
+		"male": 87.5,
+		"female": 12.5
+	},
+	"egg_groups": ["Flying"],
+	"hatch_time": [3855, 4111],
+	"height_us": "2'04\"",
+	"height_eu": "0.7 m",
+	"weight_us": "35.3 lbs.",
+	"weight_eu": "16.0 kg",
+	"base_exp_yield": 147,
+	"leveling_rate": "Medium Slow",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 2,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 78,
+		"atk": 75,
+		"def": 75,
+		"sp_atk": 70,
+		"sp_def": 70,
+		"speed": 52
+	},
+	"evolution_from": "Rowlet",
+	"evolutions": [
+		{
+			"to": "Decidueye",
+			"level": 34
+		}
+	],
+	"species": "Blade Quill Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "It never slacks when it comes to the task of cleaning its feathers. Thorough preening keeps it looking spiffy and its blade quills nice and sharp.",
+	"move_learnset": [
+		{
+			"move": "Tackle",
+			"level": 1
+		},
+		{
+			"move": "Growl",
+			"level": 1
+		},
+		{
+			"move": "Leafage",
+			"level": 1
+		},
+		{
+			"move": "Astonish",
+			"level": 1
+		},
+		{
+			"move": "Peck",
+			"level": 9
+		},
+		{
+			"move": "Shadow Sneak",
+			"level": 12
+		},
+		{
+			"move": "Razor Leaf",
+			"level": 15
+		},
+		{
+			"move": "Synthesis",
+			"level": 20
+		},
+		{
+			"move": "Pluck",
+			"level": 25
+		},
+		{
+			"move": "Nasty Plot",
+			"level": 30
+		},
+		{
+			"move": "Sucker Punch",
+			"level": 35
+		},
+		{
+			"move": "Leaf Blade",
+			"level": 40
+		},
+		{
+			"move": "Feather Dance",
+			"level": 45
+		},
+		{
+			"move": "Brave Bird",
+			"level": 50
+		},
+		{
+			"move": "Solar Beam",
+			"tm": true
+		},
+		{
+			"move": "Light Screen",
+			"tm": true
+		},
+		{
+			"move": "Safeguard",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Giga Drain",
+			"tm": true
+		},
+		{
+			"move": "Steel Wing",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Sunny Day",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Swift",
+			"tm": true
+		},
+		{
+			"move": "Shadow Claw",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "False Swipe",
+			"tm": true
+		},
+		{
+			"move": "Swords Dance",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Baton Pass",
+			"tm": true
+		},
+		{
+			"move": "Leaf Blade",
+			"tm": true
+		},
+		{
+			"move": "Seed Bomb",
+			"tm": true
+		},
+		{
+			"move": "Energy Ball",
+			"tm": true
+		},
+		{
+			"move": "Brave Bird",
+			"tm": true
+		},
+		{
+			"move": "Nasty Plot",
+			"tm": true
+		},
+		{
+			"move": "Grass Knot",
+			"tm": true
+		},
+		{
+			"move": "Work Up",
+			"tm": true
+		},
+		{
+			"move": "Confuse Ray",
+			"egg_move": true
+		},
+		{
+			"move": "Defog",
+			"egg_move": true
+		},
+		{
+			"move": "Knock Off",
+			"egg_move": true
+		},
+		{
+			"move": "Double Team",
+			"egg_move": true
+		}
+	]
 }

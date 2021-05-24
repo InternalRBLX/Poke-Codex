@@ -1,251 +1,242 @@
 {
-    "name": "Ferroseed",
-    "national_id": 597,
-    "types": [
-        "Grass",
-        "Steel"
-    ],
-    "items": [
-        {
-            "name": "Sticky Barb",
-            "chance": 5
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Iron Barbs"
-        }
-    ],
-    "catch_rate": 255,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Grass",
-        "Mineral"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "2'00\"",
-    "height_eu": "0.6 m",
-    "weight_us": "41.4 lbs.",
-    "weight_eu": "18.8 kg",
-    "base_exp_yield": 61,
-    "leveling_rate": "Medium Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 1,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 44,
-        "atk": 50,
-        "def": 91,
-        "sp_atk": 24,
-        "sp_def": 86,
-        "speed": 10
-    },
-    "evolution_from": null,
-    "evolutions": [
-        {
-            "to": "Ferrothorn",
-            "level": 40
-        }
-    ],
-    "species": "Thorn Seed Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "Mossy caves are their preferred dwellings. Enzymes contained in mosses help Ferroseed’s spikes grow big and strong.",
-    "move_learnset": [
-        {
-            "move": "Tackle",
-            "level": 1
-        },
-        {
-            "move": "Harden",
-            "level": 1
-        },
-        {
-            "move": "Metal Claw",
-            "level": 5
-        },
-        {
-            "move": "Pin Missile",
-            "level": 10
-        },
-        {
-            "move": "Ingrain",
-            "level": 15
-        },
-        {
-            "move": "Flash Cannon",
-            "level": 20
-        },
-        {
-            "move": "Iron Head",
-            "level": 25
-        },
-        {
-            "move": "Self-Destruct",
-            "level": 30
-        },
-        {
-            "move": "Iron Defense",
-            "level": 35
-        },
-        {
-            "move": "Curse",
-            "level": 41
-        },
-        {
-            "move": "Gyro Ball",
-            "level": 45
-        },
-        {
-            "move": "Explosion",
-            "level": 50
-        },
-        {
-            "move": "Pin Missile",
-            "tm": true
-        },
-        {
-            "move": "Solar Beam",
-            "tm": true
-        },
-        {
-            "move": "Thunder Wave",
-            "tm": true
-        },
-        {
-            "move": "Self-Destruct",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Giga Drain",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Sunny Day",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Revenge",
-            "tm": true
-        },
-        {
-            "move": "Bullet Seed",
-            "tm": true
-        },
-        {
-            "move": "Payback",
-            "tm": true
-        },
-        {
-            "move": "Assurance",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Thunderbolt",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Spikes",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Iron Defense",
-            "tm": true
-        },
-        {
-            "move": "Gyro Ball",
-            "tm": true
-        },
-        {
-            "move": "Poison Jab",
-            "tm": true
-        },
-        {
-            "move": "Seed Bomb",
-            "tm": true
-        },
-        {
-            "move": "Energy Ball",
-            "tm": true
-        },
-        {
-            "move": "Flash Cannon",
-            "tm": true
-        },
-        {
-            "move": "Iron Head",
-            "tm": true
-        },
-        {
-            "move": "Stealth Rock",
-            "tm": true
-        },
-        {
-            "move": "Leech Seed",
-            "egg_move": true
-        },
-        {
-            "move": "Gravity",
-            "egg_move": true
-        },
-        {
-            "move": "Acid Spray",
-            "egg_move": true
-        },
-        {
-            "move": "Toxic",
-            "egg_move": true
-        },
-        {
-            "move": "Knock Off",
-            "egg_move": true
-        }
-    ]
+	"name": "Ferroseed",
+	"national_id": 597,
+	"types": ["Grass", "Steel"],
+	"items": [
+		{
+			"name": "Sticky Barb",
+			"chance": 5
+		}
+	],
+	"abilities": [
+		{
+			"name": "Iron Barbs"
+		}
+	],
+	"catch_rate": 255,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Grass", "Mineral"],
+	"hatch_time": [5355, 5609],
+	"height_us": "2'00\"",
+	"height_eu": "0.6 m",
+	"weight_us": "41.4 lbs.",
+	"weight_eu": "18.8 kg",
+	"base_exp_yield": 61,
+	"leveling_rate": "Medium Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 1,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 44,
+		"atk": 50,
+		"def": 91,
+		"sp_atk": 24,
+		"sp_def": 86,
+		"speed": 10
+	},
+	"evolution_from": null,
+	"evolutions": [
+		{
+			"to": "Ferrothorn",
+			"level": 40
+		}
+	],
+	"species": "Thorn Seed Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "Mossy caves are their preferred dwellings. Enzymes contained in mosses help Ferroseed’s spikes grow big and strong.",
+	"move_learnset": [
+		{
+			"move": "Tackle",
+			"level": 1
+		},
+		{
+			"move": "Harden",
+			"level": 1
+		},
+		{
+			"move": "Metal Claw",
+			"level": 5
+		},
+		{
+			"move": "Pin Missile",
+			"level": 10
+		},
+		{
+			"move": "Ingrain",
+			"level": 15
+		},
+		{
+			"move": "Flash Cannon",
+			"level": 20
+		},
+		{
+			"move": "Iron Head",
+			"level": 25
+		},
+		{
+			"move": "Self-Destruct",
+			"level": 30
+		},
+		{
+			"move": "Iron Defense",
+			"level": 35
+		},
+		{
+			"move": "Curse",
+			"level": 41
+		},
+		{
+			"move": "Gyro Ball",
+			"level": 45
+		},
+		{
+			"move": "Explosion",
+			"level": 50
+		},
+		{
+			"move": "Pin Missile",
+			"tm": true
+		},
+		{
+			"move": "Solar Beam",
+			"tm": true
+		},
+		{
+			"move": "Thunder Wave",
+			"tm": true
+		},
+		{
+			"move": "Self-Destruct",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Giga Drain",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Sunny Day",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Revenge",
+			"tm": true
+		},
+		{
+			"move": "Bullet Seed",
+			"tm": true
+		},
+		{
+			"move": "Payback",
+			"tm": true
+		},
+		{
+			"move": "Assurance",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Thunderbolt",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Spikes",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Iron Defense",
+			"tm": true
+		},
+		{
+			"move": "Gyro Ball",
+			"tm": true
+		},
+		{
+			"move": "Poison Jab",
+			"tm": true
+		},
+		{
+			"move": "Seed Bomb",
+			"tm": true
+		},
+		{
+			"move": "Energy Ball",
+			"tm": true
+		},
+		{
+			"move": "Flash Cannon",
+			"tm": true
+		},
+		{
+			"move": "Iron Head",
+			"tm": true
+		},
+		{
+			"move": "Stealth Rock",
+			"tm": true
+		},
+		{
+			"move": "Leech Seed",
+			"egg_move": true
+		},
+		{
+			"move": "Gravity",
+			"egg_move": true
+		},
+		{
+			"move": "Acid Spray",
+			"egg_move": true
+		},
+		{
+			"move": "Toxic",
+			"egg_move": true
+		},
+		{
+			"move": "Knock Off",
+			"egg_move": true
+		}
+	]
 }

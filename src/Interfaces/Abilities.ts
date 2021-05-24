@@ -1,5 +1,5 @@
 export interface Ability {
-    index_number: number;
-    name: string;
-    description: string;
+	index_number: number;
+	name: string;
+	description: string;
 }

@@ -1,303 +1,295 @@
 {
-    "name": "Seel",
-    "national_id": 86,
-    "types": [
-        "Water"
-    ],
-    "abilities": [
-        {
-            "name": "Thick Fat"
-        },
-        {
-            "name": "Hydration"
-        },
-        {
-            "name": "Ice Body",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 190,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Water 1",
-        "Field"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "3'07\"",
-    "height_eu": "1.1 m",
-    "weight_us": "198.4 lbs.",
-    "weight_eu": "90.0 kg",
-    "base_exp_yield": 65,
-    "leveling_rate": "Medium Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 1,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 65,
-        "atk": 45,
-        "def": 55,
-        "sp_atk": 45,
-        "sp_def": 70,
-        "speed": 45
-    },
-    "evolution_from": null,
-    "evolutions": [
-        {
-            "to": "Dewgong",
-            "level": 34
-        }
-    ],
-    "species": "Sea Lion Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "Seel hunts for prey in the frigid sea underneath sheets of ice. When it needs to breathe, it punches a hole through the ice with the sharply protruding section of its head.",
-    "move_learnset": [
-        {
-            "move": "Headbutt",
-            "level": 1
-        },
-        {
-            "move": "Growl",
-            "level": 3
-        },
-        {
-            "move": "Water Sport",
-            "level": 7
-        },
-        {
-            "move": "Icy Wind",
-            "level": 11
-        },
-        {
-            "move": "Encore",
-            "level": 13
-        },
-        {
-            "move": "Ice Shard",
-            "level": 17
-        },
-        {
-            "move": "Rest",
-            "level": 21
-        },
-        {
-            "move": "Aqua Ring",
-            "level": 23
-        },
-        {
-            "move": "Aurora Beam",
-            "level": 27
-        },
-        {
-            "move": "Aqua Jet",
-            "level": 31
-        },
-        {
-            "move": "Brine",
-            "level": 33
-        },
-        {
-            "move": "Take Down",
-            "level": 37
-        },
-        {
-            "move": "Dive",
-            "level": 41
-        },
-        {
-            "move": "Aqua Tail",
-            "level": 43
-        },
-        {
-            "move": "Ice Beam",
-            "level": 47
-        },
-        {
-            "move": "Safeguard",
-            "level": 51
-        },
-        {
-            "move": "Hail",
-            "level": 53
-        },
-        {
-            "move": "Belch",
-            "egg_move": true
-        },
-        {
-            "move": "Disable",
-            "egg_move": true
-        },
-        {
-            "move": "Encore",
-            "egg_move": true
-        },
-        {
-            "move": "Entrainment",
-            "egg_move": true
-        },
-        {
-            "move": "Fake Out",
-            "egg_move": true
-        },
-        {
-            "move": "Horn Drill",
-            "egg_move": true
-        },
-        {
-            "move": "Icicle Spear",
-            "egg_move": true
-        },
-        {
-            "move": "Iron Tail",
-            "egg_move": true
-        },
-        {
-            "move": "Lick",
-            "egg_move": true
-        },
-        {
-            "move": "Perish Song",
-            "egg_move": true
-        },
-        {
-            "move": "Signal Beam",
-            "egg_move": true
-        },
-        {
-            "move": "Slam",
-            "egg_move": true
-        },
-        {
-            "move": "Sleep Talk",
-            "egg_move": true
-        },
-        {
-            "move": "Spit Up",
-            "egg_move": true
-        },
-        {
-            "move": "Stockpile",
-            "egg_move": true
-        },
-        {
-            "move": "Swallow",
-            "egg_move": true
-        },
-        {
-            "move": "Water Pulse",
-            "egg_move": true
-        },
-        {
-            "move": "Toxic",
-            "tm": "TM6"
-        },
-        {
-            "move": "Hail",
-            "tm": "TM7"
-        },
-        {
-            "move": "Hidden Power",
-            "tm": "TM10"
-        },
-        {
-            "move": "Ice Beam",
-            "tm": "TM13"
-        },
-        {
-            "move": "Blizzard",
-            "tm": "TM14"
-        },
-        {
-            "move": "Protect",
-            "tm": "TM17"
-        },
-        {
-            "move": "Rain Dance",
-            "tm": "TM18"
-        },
-        {
-            "move": "Safeguard",
-            "tm": "TM20"
-        },
-        {
-            "move": "Frustration",
-            "tm": "TM21"
-        },
-        {
-            "move": "Return",
-            "tm": "TM27"
-        },
-        {
-            "move": "Double Team",
-            "tm": "TM32"
-        },
-        {
-            "move": "Facade",
-            "tm": "TM42"
-        },
-        {
-            "move": "Rest",
-            "tm": "TM44"
-        },
-        {
-            "move": "Attract",
-            "tm": "TM45"
-        },
-        {
-            "move": "Thief",
-            "tm": "TM46"
-        },
-        {
-            "move": "Round",
-            "tm": "TM48"
-        },
-        {
-            "move": "Echoed Voice",
-            "tm": "TM49"
-        },
-        {
-            "move": "Fling",
-            "tm": "TM56"
-        },
-        {
-            "move": "Smart Strike",
-            "tm": "TM67"
-        },
-        {
-            "move": "Swagger",
-            "tm": "TM87"
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": "TM88"
-        },
-        {
-            "move": "Substitute",
-            "tm": "TM90"
-        },
-        {
-            "move": "Surf",
-            "tm": "TM94"
-        },
-        {
-            "move": "Waterfall",
-            "tm": "TM98"
-        },
-        {
-            "move": "Confide",
-            "tm": "TM100"
-        }
-    ]
+	"name": "Seel",
+	"national_id": 86,
+	"types": ["Water"],
+	"abilities": [
+		{
+			"name": "Thick Fat"
+		},
+		{
+			"name": "Hydration"
+		},
+		{
+			"name": "Ice Body",
+			"hidden": true
+		}
+	],
+	"catch_rate": 190,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Water 1", "Field"],
+	"hatch_time": [5355, 5609],
+	"height_us": "3'07\"",
+	"height_eu": "1.1 m",
+	"weight_us": "198.4 lbs.",
+	"weight_eu": "90.0 kg",
+	"base_exp_yield": 65,
+	"leveling_rate": "Medium Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 1,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 65,
+		"atk": 45,
+		"def": 55,
+		"sp_atk": 45,
+		"sp_def": 70,
+		"speed": 45
+	},
+	"evolution_from": null,
+	"evolutions": [
+		{
+			"to": "Dewgong",
+			"level": 34
+		}
+	],
+	"species": "Sea Lion Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "Seel hunts for prey in the frigid sea underneath sheets of ice. When it needs to breathe, it punches a hole through the ice with the sharply protruding section of its head.",
+	"move_learnset": [
+		{
+			"move": "Headbutt",
+			"level": 1
+		},
+		{
+			"move": "Growl",
+			"level": 3
+		},
+		{
+			"move": "Water Sport",
+			"level": 7
+		},
+		{
+			"move": "Icy Wind",
+			"level": 11
+		},
+		{
+			"move": "Encore",
+			"level": 13
+		},
+		{
+			"move": "Ice Shard",
+			"level": 17
+		},
+		{
+			"move": "Rest",
+			"level": 21
+		},
+		{
+			"move": "Aqua Ring",
+			"level": 23
+		},
+		{
+			"move": "Aurora Beam",
+			"level": 27
+		},
+		{
+			"move": "Aqua Jet",
+			"level": 31
+		},
+		{
+			"move": "Brine",
+			"level": 33
+		},
+		{
+			"move": "Take Down",
+			"level": 37
+		},
+		{
+			"move": "Dive",
+			"level": 41
+		},
+		{
+			"move": "Aqua Tail",
+			"level": 43
+		},
+		{
+			"move": "Ice Beam",
+			"level": 47
+		},
+		{
+			"move": "Safeguard",
+			"level": 51
+		},
+		{
+			"move": "Hail",
+			"level": 53
+		},
+		{
+			"move": "Belch",
+			"egg_move": true
+		},
+		{
+			"move": "Disable",
+			"egg_move": true
+		},
+		{
+			"move": "Encore",
+			"egg_move": true
+		},
+		{
+			"move": "Entrainment",
+			"egg_move": true
+		},
+		{
+			"move": "Fake Out",
+			"egg_move": true
+		},
+		{
+			"move": "Horn Drill",
+			"egg_move": true
+		},
+		{
+			"move": "Icicle Spear",
+			"egg_move": true
+		},
+		{
+			"move": "Iron Tail",
+			"egg_move": true
+		},
+		{
+			"move": "Lick",
+			"egg_move": true
+		},
+		{
+			"move": "Perish Song",
+			"egg_move": true
+		},
+		{
+			"move": "Signal Beam",
+			"egg_move": true
+		},
+		{
+			"move": "Slam",
+			"egg_move": true
+		},
+		{
+			"move": "Sleep Talk",
+			"egg_move": true
+		},
+		{
+			"move": "Spit Up",
+			"egg_move": true
+		},
+		{
+			"move": "Stockpile",
+			"egg_move": true
+		},
+		{
+			"move": "Swallow",
+			"egg_move": true
+		},
+		{
+			"move": "Water Pulse",
+			"egg_move": true
+		},
+		{
+			"move": "Toxic",
+			"tm": "TM6"
+		},
+		{
+			"move": "Hail",
+			"tm": "TM7"
+		},
+		{
+			"move": "Hidden Power",
+			"tm": "TM10"
+		},
+		{
+			"move": "Ice Beam",
+			"tm": "TM13"
+		},
+		{
+			"move": "Blizzard",
+			"tm": "TM14"
+		},
+		{
+			"move": "Protect",
+			"tm": "TM17"
+		},
+		{
+			"move": "Rain Dance",
+			"tm": "TM18"
+		},
+		{
+			"move": "Safeguard",
+			"tm": "TM20"
+		},
+		{
+			"move": "Frustration",
+			"tm": "TM21"
+		},
+		{
+			"move": "Return",
+			"tm": "TM27"
+		},
+		{
+			"move": "Double Team",
+			"tm": "TM32"
+		},
+		{
+			"move": "Facade",
+			"tm": "TM42"
+		},
+		{
+			"move": "Rest",
+			"tm": "TM44"
+		},
+		{
+			"move": "Attract",
+			"tm": "TM45"
+		},
+		{
+			"move": "Thief",
+			"tm": "TM46"
+		},
+		{
+			"move": "Round",
+			"tm": "TM48"
+		},
+		{
+			"move": "Echoed Voice",
+			"tm": "TM49"
+		},
+		{
+			"move": "Fling",
+			"tm": "TM56"
+		},
+		{
+			"move": "Smart Strike",
+			"tm": "TM67"
+		},
+		{
+			"move": "Swagger",
+			"tm": "TM87"
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": "TM88"
+		},
+		{
+			"move": "Substitute",
+			"tm": "TM90"
+		},
+		{
+			"move": "Surf",
+			"tm": "TM94"
+		},
+		{
+			"move": "Waterfall",
+			"tm": "TM98"
+		},
+		{
+			"move": "Confide",
+			"tm": "TM100"
+		}
+	]
 }

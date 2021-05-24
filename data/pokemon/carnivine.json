@@ -1,266 +1,259 @@
 {
-    "name": "Carnivine",
-    "national_id": 455,
-    "types": [
-        "Grass"
-    ],
-    "abilities": [
-        {
-            "name": "Levitate"
-        }
-    ],
-    "catch_rate": 200,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Grass"
-    ],
-    "hatch_time": [
-        6630,
-        6884
-    ],
-    "height_us": "4'07\"",
-    "height_eu": "1.4 m",
-    "weight_us": "59.5 lbs.",
-    "weight_eu": "27.0 kg",
-    "base_exp_yield": 159,
-    "leveling_rate": "Slow",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 2,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 74,
-        "atk": 100,
-        "def": 72,
-        "sp_atk": 90,
-        "sp_def": 72,
-        "speed": 46
-    },
-    "evolution_from": null,
-    "evolutions": [],
-    "species": "Bug Catcher Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "It binds itself to trees in marshes. It attracts prey with its sweet-smelling drool and gulps them down.",
-    "move_learnset": [
-        {
-            "move": "Bind",
-            "level": 1
-        },
-        {
-            "move": "Growth",
-            "level": 1
-        },
-        {
-            "move": "Bite",
-            "level": 7
-        },
-        {
-            "move": "Vine Whip",
-            "level": 11
-        },
-        {
-            "move": "Sweet Scent",
-            "level": 17
-        },
-        {
-            "move": "Ingrain",
-            "level": 21
-        },
-        {
-            "move": "Feint Attack",
-            "level": 27
-        },
-        {
-            "move": "Leaf Tornado",
-            "level": 31
-        },
-        {
-            "move": "Spit Up",
-            "level": 37
-        },
-        {
-            "move": "Stockpile",
-            "level": 37
-        },
-        {
-            "move": "Swallow",
-            "level": 37
-        },
-        {
-            "move": "Crunch",
-            "level": 41
-        },
-        {
-            "move": "Wring Out",
-            "level": 47
-        },
-        {
-            "move": "Power Whip",
-            "level": 50
-        },
-        {
-            "move": "Acid Spray",
-            "egg_move": true
-        },
-        {
-            "move": "Giga Drain",
-            "egg_move": true
-        },
-        {
-            "move": "Grass Whistle",
-            "egg_move": true
-        },
-        {
-            "move": "Leech Seed",
-            "egg_move": true
-        },
-        {
-            "move": "Magical Leaf",
-            "egg_move": true
-        },
-        {
-            "move": "Rage Powder",
-            "egg_move": true
-        },
-        {
-            "move": "Razor Leaf",
-            "egg_move": true
-        },
-        {
-            "move": "Slam",
-            "egg_move": true
-        },
-        {
-            "move": "Sleep Powder",
-            "egg_move": true
-        },
-        {
-            "move": "Stun Spore",
-            "egg_move": true
-        },
-        {
-            "move": "Synthesis",
-            "egg_move": true
-        },
-        {
-            "move": "Worry Seed",
-            "egg_move": true
-        },
-        {
-            "move": "Toxic",
-            "tm": "TM6"
-        },
-        {
-            "move": "Hidden Power",
-            "tm": "TM10"
-        },
-        {
-            "move": "Sunny Day",
-            "tm": "TM11"
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": "TM15"
-        },
-        {
-            "move": "Protect",
-            "tm": "TM17"
-        },
-        {
-            "move": "Frustration",
-            "tm": "TM21"
-        },
-        {
-            "move": "Solar Beam",
-            "tm": "TM22"
-        },
-        {
-            "move": "Return",
-            "tm": "TM27"
-        },
-        {
-            "move": "Double Team",
-            "tm": "TM32"
-        },
-        {
-            "move": "Sludge Bomb",
-            "tm": "TM36"
-        },
-        {
-            "move": "Facade",
-            "tm": "TM42"
-        },
-        {
-            "move": "Rest",
-            "tm": "TM44"
-        },
-        {
-            "move": "Attract",
-            "tm": "TM45"
-        },
-        {
-            "move": "Thief",
-            "tm": "TM46"
-        },
-        {
-            "move": "Round",
-            "tm": "TM48"
-        },
-        {
-            "move": "Energy Ball",
-            "tm": "TM53"
-        },
-        {
-            "move": "Fling",
-            "tm": "TM56"
-        },
-        {
-            "move": "Payback",
-            "tm": "TM66"
-        },
-        {
-            "move": "Giga Impact",
-            "tm": "TM68"
-        },
-        {
-            "move": "Swords Dance",
-            "tm": "TM75"
-        },
-        {
-            "move": "Infestation",
-            "tm": "TM83"
-        },
-        {
-            "move": "Grass Knot",
-            "tm": "TM86"
-        },
-        {
-            "move": "Swagger",
-            "tm": "TM87"
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": "TM88"
-        },
-        {
-            "move": "Substitute",
-            "tm": "TM90"
-        },
-        {
-            "move": "Nature Power",
-            "tm": "TM96"
-        },
-        {
-            "move": "Confide",
-            "tm": "TM100"
-        }
-    ]
+	"name": "Carnivine",
+	"national_id": 455,
+	"types": ["Grass"],
+	"abilities": [
+		{
+			"name": "Levitate"
+		}
+	],
+	"catch_rate": 200,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Grass"],
+	"hatch_time": [6630, 6884],
+	"height_us": "4'07\"",
+	"height_eu": "1.4 m",
+	"weight_us": "59.5 lbs.",
+	"weight_eu": "27.0 kg",
+	"base_exp_yield": 159,
+	"leveling_rate": "Slow",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 2,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 74,
+		"atk": 100,
+		"def": 72,
+		"sp_atk": 90,
+		"sp_def": 72,
+		"speed": 46
+	},
+	"evolution_from": null,
+	"evolutions": [],
+	"species": "Bug Catcher Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "It binds itself to trees in marshes. It attracts prey with its sweet-smelling drool and gulps them down.",
+	"move_learnset": [
+		{
+			"move": "Bind",
+			"level": 1
+		},
+		{
+			"move": "Growth",
+			"level": 1
+		},
+		{
+			"move": "Bite",
+			"level": 7
+		},
+		{
+			"move": "Vine Whip",
+			"level": 11
+		},
+		{
+			"move": "Sweet Scent",
+			"level": 17
+		},
+		{
+			"move": "Ingrain",
+			"level": 21
+		},
+		{
+			"move": "Feint Attack",
+			"level": 27
+		},
+		{
+			"move": "Leaf Tornado",
+			"level": 31
+		},
+		{
+			"move": "Spit Up",
+			"level": 37
+		},
+		{
+			"move": "Stockpile",
+			"level": 37
+		},
+		{
+			"move": "Swallow",
+			"level": 37
+		},
+		{
+			"move": "Crunch",
+			"level": 41
+		},
+		{
+			"move": "Wring Out",
+			"level": 47
+		},
+		{
+			"move": "Power Whip",
+			"level": 50
+		},
+		{
+			"move": "Acid Spray",
+			"egg_move": true
+		},
+		{
+			"move": "Giga Drain",
+			"egg_move": true
+		},
+		{
+			"move": "Grass Whistle",
+			"egg_move": true
+		},
+		{
+			"move": "Leech Seed",
+			"egg_move": true
+		},
+		{
+			"move": "Magical Leaf",
+			"egg_move": true
+		},
+		{
+			"move": "Rage Powder",
+			"egg_move": true
+		},
+		{
+			"move": "Razor Leaf",
+			"egg_move": true
+		},
+		{
+			"move": "Slam",
+			"egg_move": true
+		},
+		{
+			"move": "Sleep Powder",
+			"egg_move": true
+		},
+		{
+			"move": "Stun Spore",
+			"egg_move": true
+		},
+		{
+			"move": "Synthesis",
+			"egg_move": true
+		},
+		{
+			"move": "Worry Seed",
+			"egg_move": true
+		},
+		{
+			"move": "Toxic",
+			"tm": "TM6"
+		},
+		{
+			"move": "Hidden Power",
+			"tm": "TM10"
+		},
+		{
+			"move": "Sunny Day",
+			"tm": "TM11"
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": "TM15"
+		},
+		{
+			"move": "Protect",
+			"tm": "TM17"
+		},
+		{
+			"move": "Frustration",
+			"tm": "TM21"
+		},
+		{
+			"move": "Solar Beam",
+			"tm": "TM22"
+		},
+		{
+			"move": "Return",
+			"tm": "TM27"
+		},
+		{
+			"move": "Double Team",
+			"tm": "TM32"
+		},
+		{
+			"move": "Sludge Bomb",
+			"tm": "TM36"
+		},
+		{
+			"move": "Facade",
+			"tm": "TM42"
+		},
+		{
+			"move": "Rest",
+			"tm": "TM44"
+		},
+		{
+			"move": "Attract",
+			"tm": "TM45"
+		},
+		{
+			"move": "Thief",
+			"tm": "TM46"
+		},
+		{
+			"move": "Round",
+			"tm": "TM48"
+		},
+		{
+			"move": "Energy Ball",
+			"tm": "TM53"
+		},
+		{
+			"move": "Fling",
+			"tm": "TM56"
+		},
+		{
+			"move": "Payback",
+			"tm": "TM66"
+		},
+		{
+			"move": "Giga Impact",
+			"tm": "TM68"
+		},
+		{
+			"move": "Swords Dance",
+			"tm": "TM75"
+		},
+		{
+			"move": "Infestation",
+			"tm": "TM83"
+		},
+		{
+			"move": "Grass Knot",
+			"tm": "TM86"
+		},
+		{
+			"move": "Swagger",
+			"tm": "TM87"
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": "TM88"
+		},
+		{
+			"move": "Substitute",
+			"tm": "TM90"
+		},
+		{
+			"move": "Nature Power",
+			"tm": "TM96"
+		},
+		{
+			"move": "Confide",
+			"tm": "TM100"
+		}
+	]
 }

@@ -1,232 +1,225 @@
 {
-    "name": "Kricketune",
-    "national_id": 402,
-    "types": [
-        "Bug"
-    ],
-    "items": [
-        {
-            "name": "Metronome",
-            "chance": 5
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Swarm"
-        },
-        {
-            "name": "Technician",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 45,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Bug"
-    ],
-    "hatch_time": [
-        4080,
-        4334
-    ],
-    "height_us": "3'03\"",
-    "height_eu": "1.0 m",
-    "weight_us": "56.2 lbs.",
-    "weight_eu": "25.5 kg",
-    "base_exp_yield": 134,
-    "leveling_rate": "Medium Slow",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 2,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 77,
-        "atk": 85,
-        "def": 51,
-        "sp_atk": 55,
-        "sp_def": 51,
-        "speed": 65
-    },
-    "evolution_from": "Kricketot",
-    "evolutions": [],
-    "species": "Cricket Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "It signals its emotions with its melodies. Scientists are studying these melodic patterns.",
-    "move_learnset": [
-        {
-            "move": "Bide",
-            "level": 1
-        },
-        {
-            "move": "Fury Cutter",
-            "level": 1
-        },
-        {
-            "move": "Growl",
-            "level": 1
-        },
-        {
-            "move": "Absorb",
-            "level": 14
-        },
-        {
-            "move": "Sing",
-            "level": 18
-        },
-        {
-            "move": "Focus Energy",
-            "level": 22
-        },
-        {
-            "move": "Slash",
-            "level": 26
-        },
-        {
-            "move": "X-Scissor",
-            "level": 30
-        },
-        {
-            "move": "Screech",
-            "level": 34
-        },
-        {
-            "move": "Fell Stinger",
-            "level": 36
-        },
-        {
-            "move": "Taunt",
-            "level": 38
-        },
-        {
-            "move": "Night Slash",
-            "level": 42
-        },
-        {
-            "move": "Sticky Web",
-            "level": 44
-        },
-        {
-            "move": "Bug Buzz",
-            "level": 46
-        },
-        {
-            "move": "Perish Song",
-            "level": 50
-        },
-        {
-            "move": "Toxic",
-            "tm": "TM6"
-        },
-        {
-            "move": "Hidden Power",
-            "tm": "TM10"
-        },
-        {
-            "move": "Sunny Day",
-            "tm": "TM11"
-        },
-        {
-            "move": "Taunt",
-            "tm": "TM12"
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": "TM15"
-        },
-        {
-            "move": "Protect",
-            "tm": "TM17"
-        },
-        {
-            "move": "Rain Dance",
-            "tm": "TM18"
-        },
-        {
-            "move": "Frustration",
-            "tm": "TM21"
-        },
-        {
-            "move": "Return",
-            "tm": "TM27"
-        },
-        {
-            "move": "Leech Life",
-            "tm": "TM28"
-        },
-        {
-            "move": "Brick Break",
-            "tm": "TM31"
-        },
-        {
-            "move": "Double Team",
-            "tm": "TM32"
-        },
-        {
-            "move": "Aerial Ace",
-            "tm": "TM40"
-        },
-        {
-            "move": "Facade",
-            "tm": "TM42"
-        },
-        {
-            "move": "Rest",
-            "tm": "TM44"
-        },
-        {
-            "move": "Attract",
-            "tm": "TM45"
-        },
-        {
-            "move": "Round",
-            "tm": "TM48"
-        },
-        {
-            "move": "Echoed Voice",
-            "tm": "TM49"
-        },
-        {
-            "move": "False Swipe",
-            "tm": "TM54"
-        },
-        {
-            "move": "Giga Impact",
-            "tm": "TM68"
-        },
-        {
-            "move": "Swords Dance",
-            "tm": "TM75"
-        },
-        {
-            "move": "X-Scissor",
-            "tm": "TM81"
-        },
-        {
-            "move": "Infestation",
-            "tm": "TM83"
-        },
-        {
-            "move": "Swagger",
-            "tm": "TM87"
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": "TM88"
-        },
-        {
-            "move": "Substitute",
-            "tm": "TM90"
-        },
-        {
-            "move": "Confide",
-            "tm": "TM100"
-        }
-    ]
+	"name": "Kricketune",
+	"national_id": 402,
+	"types": ["Bug"],
+	"items": [
+		{
+			"name": "Metronome",
+			"chance": 5
+		}
+	],
+	"abilities": [
+		{
+			"name": "Swarm"
+		},
+		{
+			"name": "Technician",
+			"hidden": true
+		}
+	],
+	"catch_rate": 45,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Bug"],
+	"hatch_time": [4080, 4334],
+	"height_us": "3'03\"",
+	"height_eu": "1.0 m",
+	"weight_us": "56.2 lbs.",
+	"weight_eu": "25.5 kg",
+	"base_exp_yield": 134,
+	"leveling_rate": "Medium Slow",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 2,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 77,
+		"atk": 85,
+		"def": 51,
+		"sp_atk": 55,
+		"sp_def": 51,
+		"speed": 65
+	},
+	"evolution_from": "Kricketot",
+	"evolutions": [],
+	"species": "Cricket Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "It signals its emotions with its melodies. Scientists are studying these melodic patterns.",
+	"move_learnset": [
+		{
+			"move": "Bide",
+			"level": 1
+		},
+		{
+			"move": "Fury Cutter",
+			"level": 1
+		},
+		{
+			"move": "Growl",
+			"level": 1
+		},
+		{
+			"move": "Absorb",
+			"level": 14
+		},
+		{
+			"move": "Sing",
+			"level": 18
+		},
+		{
+			"move": "Focus Energy",
+			"level": 22
+		},
+		{
+			"move": "Slash",
+			"level": 26
+		},
+		{
+			"move": "X-Scissor",
+			"level": 30
+		},
+		{
+			"move": "Screech",
+			"level": 34
+		},
+		{
+			"move": "Fell Stinger",
+			"level": 36
+		},
+		{
+			"move": "Taunt",
+			"level": 38
+		},
+		{
+			"move": "Night Slash",
+			"level": 42
+		},
+		{
+			"move": "Sticky Web",
+			"level": 44
+		},
+		{
+			"move": "Bug Buzz",
+			"level": 46
+		},
+		{
+			"move": "Perish Song",
+			"level": 50
+		},
+		{
+			"move": "Toxic",
+			"tm": "TM6"
+		},
+		{
+			"move": "Hidden Power",
+			"tm": "TM10"
+		},
+		{
+			"move": "Sunny Day",
+			"tm": "TM11"
+		},
+		{
+			"move": "Taunt",
+			"tm": "TM12"
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": "TM15"
+		},
+		{
+			"move": "Protect",
+			"tm": "TM17"
+		},
+		{
+			"move": "Rain Dance",
+			"tm": "TM18"
+		},
+		{
+			"move": "Frustration",
+			"tm": "TM21"
+		},
+		{
+			"move": "Return",
+			"tm": "TM27"
+		},
+		{
+			"move": "Leech Life",
+			"tm": "TM28"
+		},
+		{
+			"move": "Brick Break",
+			"tm": "TM31"
+		},
+		{
+			"move": "Double Team",
+			"tm": "TM32"
+		},
+		{
+			"move": "Aerial Ace",
+			"tm": "TM40"
+		},
+		{
+			"move": "Facade",
+			"tm": "TM42"
+		},
+		{
+			"move": "Rest",
+			"tm": "TM44"
+		},
+		{
+			"move": "Attract",
+			"tm": "TM45"
+		},
+		{
+			"move": "Round",
+			"tm": "TM48"
+		},
+		{
+			"move": "Echoed Voice",
+			"tm": "TM49"
+		},
+		{
+			"move": "False Swipe",
+			"tm": "TM54"
+		},
+		{
+			"move": "Giga Impact",
+			"tm": "TM68"
+		},
+		{
+			"move": "Swords Dance",
+			"tm": "TM75"
+		},
+		{
+			"move": "X-Scissor",
+			"tm": "TM81"
+		},
+		{
+			"move": "Infestation",
+			"tm": "TM83"
+		},
+		{
+			"move": "Swagger",
+			"tm": "TM87"
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": "TM88"
+		},
+		{
+			"move": "Substitute",
+			"tm": "TM90"
+		},
+		{
+			"move": "Confide",
+			"tm": "TM100"
+		}
+	]
 }

@@ -1,138 +1,129 @@
 {
-    "name": "Meltan",
-    "national_id": 808,
-    "types": [
-        "Steel"
-    ],
-    "abilities": [
-        {
-            "name": "Magnet Pull"
-        }
-    ],
-    "catch_rate": 3,
-    "gender_ratios": null,
-    "egg_groups": [
-        "Undiscovered"
-    ],
-    "hatch_time": [
-        30840,
-        31096
-    ],
-    "height_us": "0'08\"",
-    "height_eu": "0.2 m",
-    "weight_us": "17.6 lbs.",
-    "weight_eu": "8.0 kg",
-    "base_exp_yield": 135,
-    "leveling_rate": "Slow",
-    "base_friendship": 0,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 1,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 46,
-        "atk": 65,
-        "def": 65,
-        "sp_atk": 55,
-        "sp_def": 35,
-        "speed": 34
-    },
-    "evolution_from": null,
-    "evolutions": [
-        {
-            "to": "Melmetal",
-            "conditions": [
-                "400 Meltan Candy"
-            ]
-        }
-    ],
-    "species": "Hex Nut Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "They live as a group, but when the time comes, one strong Meltan will absorb all the others and evolve.",
-    "move_learnset": [
-        {
-            "move": "Thunder Shock",
-            "level": 1
-        },
-        {
-            "move": "Harden",
-            "level": 1
-        },
-        {
-            "move": "Tail Whip",
-            "level": 8
-        },
-        {
-            "move": "Headbutt",
-            "level": 16
-        },
-        {
-            "move": "Thunder Wave",
-            "level": 24
-        },
-        {
-            "move": "Acid Armor",
-            "level": 32
-        },
-        {
-            "move": "Flash Cannon",
-            "level": 40
-        },
-        {
-            "move": "Thunder Wave",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Thunderbolt",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Iron Defense",
-            "tm": true
-        },
-        {
-            "move": "Gyro Ball",
-            "tm": true
-        },
-        {
-            "move": "Flash Cannon",
-            "tm": true
-        }
-    ]
+	"name": "Meltan",
+	"national_id": 808,
+	"types": ["Steel"],
+	"abilities": [
+		{
+			"name": "Magnet Pull"
+		}
+	],
+	"catch_rate": 3,
+	"gender_ratios": null,
+	"egg_groups": ["Undiscovered"],
+	"hatch_time": [30840, 31096],
+	"height_us": "0'08\"",
+	"height_eu": "0.2 m",
+	"weight_us": "17.6 lbs.",
+	"weight_eu": "8.0 kg",
+	"base_exp_yield": 135,
+	"leveling_rate": "Slow",
+	"base_friendship": 0,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 1,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 46,
+		"atk": 65,
+		"def": 65,
+		"sp_atk": 55,
+		"sp_def": 35,
+		"speed": 34
+	},
+	"evolution_from": null,
+	"evolutions": [
+		{
+			"to": "Melmetal",
+			"conditions": ["400 Meltan Candy"]
+		}
+	],
+	"species": "Hex Nut Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "They live as a group, but when the time comes, one strong Meltan will absorb all the others and evolve.",
+	"move_learnset": [
+		{
+			"move": "Thunder Shock",
+			"level": 1
+		},
+		{
+			"move": "Harden",
+			"level": 1
+		},
+		{
+			"move": "Tail Whip",
+			"level": 8
+		},
+		{
+			"move": "Headbutt",
+			"level": 16
+		},
+		{
+			"move": "Thunder Wave",
+			"level": 24
+		},
+		{
+			"move": "Acid Armor",
+			"level": 32
+		},
+		{
+			"move": "Flash Cannon",
+			"level": 40
+		},
+		{
+			"move": "Thunder Wave",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Thunderbolt",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Iron Defense",
+			"tm": true
+		},
+		{
+			"move": "Gyro Ball",
+			"tm": true
+		},
+		{
+			"move": "Flash Cannon",
+			"tm": true
+		}
+	]
 }

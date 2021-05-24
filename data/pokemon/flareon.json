@@ -1,346 +1,339 @@
 {
-    "name": "Flareon",
-    "national_id": 136,
-    "types": [
-        "Fire"
-    ],
-    "abilities": [
-        {
-            "name": "Flash Fire"
-        },
-        {
-            "name": "Guts",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 45,
-    "gender_ratios": {
-        "male": 87.5,
-        "female": 12.5
-    },
-    "egg_groups": [
-        "Field"
-    ],
-    "hatch_time": [
-        9180,
-        9434
-    ],
-    "height_us": "2'11\"",
-    "height_eu": "0.9 m",
-    "weight_us": "55.1 lbs.",
-    "weight_eu": "25.0 kg",
-    "base_exp_yield": 184,
-    "leveling_rate": "Medium Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 2,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 65,
-        "atk": 130,
-        "def": 60,
-        "sp_atk": 95,
-        "sp_def": 110,
-        "speed": 65
-    },
-    "evolution_from": "Eevee",
-    "evolutions": [],
-    "species": "Flame Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "It stores some of the air it inhales in its internal flame pouch, which heats it to over 3,000 degrees Fahrenheit.",
-    "move_learnset": [
-        {
-            "move": "Ember",
-            "evo": true
-        },
-        {
-            "move": "Ember",
-            "level": 1
-        },
-        {
-            "move": "Covet",
-            "level": 1
-        },
-        {
-            "move": "Swift",
-            "level": 1
-        },
-        {
-            "move": "Copycat",
-            "level": 1
-        },
-        {
-            "move": "Baton Pass",
-            "level": 1
-        },
-        {
-            "move": "Take Down",
-            "level": 1
-        },
-        {
-            "move": "Charm",
-            "level": 1
-        },
-        {
-            "move": "Double-Edge",
-            "level": 1
-        },
-        {
-            "move": "Helping Hand",
-            "level": 1
-        },
-        {
-            "move": "Tackle",
-            "level": 1
-        },
-        {
-            "move": "Growl",
-            "level": 1
-        },
-        {
-            "move": "Tail Whip",
-            "level": 1
-        },
-        {
-            "move": "Sand Attack",
-            "level": 5
-        },
-        {
-            "move": "Quick Attack",
-            "level": 10
-        },
-        {
-            "move": "Baby-Doll Eyes",
-            "level": 15
-        },
-        {
-            "move": "Smog",
-            "level": 20
-        },
-        {
-            "move": "Bite",
-            "level": 25
-        },
-        {
-            "move": "Fire Fang",
-            "level": 30
-        },
-        {
-            "move": "Fire Spin",
-            "level": 35
-        },
-        {
-            "move": "Lava Plume",
-            "level": 40
-        },
-        {
-            "move": "Scary Face",
-            "level": 45
-        },
-        {
-            "move": "Flare Blitz",
-            "level": 50
-        },
-        {
-            "move": "Last Resort",
-            "level": 55
-        },
-        {
-            "move": "Pay Day",
-            "tm": true
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": true
-        },
-        {
-            "move": "Giga Impact",
-            "tm": true
-        },
-        {
-            "move": "Fire Spin",
-            "tm": true
-        },
-        {
-            "move": "Dig",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Scary Face",
-            "tm": true
-        },
-        {
-            "move": "Charm",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Rain Dance",
-            "tm": true
-        },
-        {
-            "move": "Sunny Day",
-            "tm": true
-        },
-        {
-            "move": "Will-O-Wisp",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Swift",
-            "tm": true
-        },
-        {
-            "move": "Helping Hand",
-            "tm": true
-        },
-        {
-            "move": "Weather Ball",
-            "tm": true
-        },
-        {
-            "move": "Fake Tears",
-            "tm": true
-        },
-        {
-            "move": "Fire Fang",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Retaliate",
-            "tm": true
-        },
-        {
-            "move": "Mystical Fire",
-            "tm": true
-        },
-        {
-            "move": "Body Slam",
-            "tm": true
-        },
-        {
-            "move": "Flamethrower",
-            "tm": true
-        },
-        {
-            "move": "Focus Energy",
-            "tm": true
-        },
-        {
-            "move": "Fire Blast",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Baton Pass",
-            "tm": true
-        },
-        {
-            "move": "Iron Tail",
-            "tm": true
-        },
-        {
-            "move": "Shadow Ball",
-            "tm": true
-        },
-        {
-            "move": "Heat Wave",
-            "tm": true
-        },
-        {
-            "move": "Superpower",
-            "tm": true
-        },
-        {
-            "move": "Hyper Voice",
-            "tm": true
-        },
-        {
-            "move": "Overheat",
-            "tm": true
-        },
-        {
-            "move": "Flare Blitz",
-            "tm": true
-        },
-        {
-            "move": "Stored Power",
-            "tm": true
-        },
-        {
-            "move": "Work Up",
-            "tm": true
-        },
-        {
-            "move": "Flail",
-            "egg_move": true
-        },
-        {
-            "move": "Curse",
-            "egg_move": true
-        },
-        {
-            "move": "Tickle",
-            "egg_move": true
-        },
-        {
-            "move": "Yawn",
-            "egg_move": true
-        },
-        {
-            "move": "Detect",
-            "egg_move": true
-        },
-        {
-            "move": "Double Kick",
-            "egg_move": true
-        },
-        {
-            "move": "Mud-Slap",
-            "egg_move": true
-        },
-        {
-            "move": "Wish",
-            "egg_move": true
-        }
-    ]
+	"name": "Flareon",
+	"national_id": 136,
+	"types": ["Fire"],
+	"abilities": [
+		{
+			"name": "Flash Fire"
+		},
+		{
+			"name": "Guts",
+			"hidden": true
+		}
+	],
+	"catch_rate": 45,
+	"gender_ratios": {
+		"male": 87.5,
+		"female": 12.5
+	},
+	"egg_groups": ["Field"],
+	"hatch_time": [9180, 9434],
+	"height_us": "2'11\"",
+	"height_eu": "0.9 m",
+	"weight_us": "55.1 lbs.",
+	"weight_eu": "25.0 kg",
+	"base_exp_yield": 184,
+	"leveling_rate": "Medium Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 2,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 65,
+		"atk": 130,
+		"def": 60,
+		"sp_atk": 95,
+		"sp_def": 110,
+		"speed": 65
+	},
+	"evolution_from": "Eevee",
+	"evolutions": [],
+	"species": "Flame Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "It stores some of the air it inhales in its internal flame pouch, which heats it to over 3,000 degrees Fahrenheit.",
+	"move_learnset": [
+		{
+			"move": "Ember",
+			"evo": true
+		},
+		{
+			"move": "Ember",
+			"level": 1
+		},
+		{
+			"move": "Covet",
+			"level": 1
+		},
+		{
+			"move": "Swift",
+			"level": 1
+		},
+		{
+			"move": "Copycat",
+			"level": 1
+		},
+		{
+			"move": "Baton Pass",
+			"level": 1
+		},
+		{
+			"move": "Take Down",
+			"level": 1
+		},
+		{
+			"move": "Charm",
+			"level": 1
+		},
+		{
+			"move": "Double-Edge",
+			"level": 1
+		},
+		{
+			"move": "Helping Hand",
+			"level": 1
+		},
+		{
+			"move": "Tackle",
+			"level": 1
+		},
+		{
+			"move": "Growl",
+			"level": 1
+		},
+		{
+			"move": "Tail Whip",
+			"level": 1
+		},
+		{
+			"move": "Sand Attack",
+			"level": 5
+		},
+		{
+			"move": "Quick Attack",
+			"level": 10
+		},
+		{
+			"move": "Baby-Doll Eyes",
+			"level": 15
+		},
+		{
+			"move": "Smog",
+			"level": 20
+		},
+		{
+			"move": "Bite",
+			"level": 25
+		},
+		{
+			"move": "Fire Fang",
+			"level": 30
+		},
+		{
+			"move": "Fire Spin",
+			"level": 35
+		},
+		{
+			"move": "Lava Plume",
+			"level": 40
+		},
+		{
+			"move": "Scary Face",
+			"level": 45
+		},
+		{
+			"move": "Flare Blitz",
+			"level": 50
+		},
+		{
+			"move": "Last Resort",
+			"level": 55
+		},
+		{
+			"move": "Pay Day",
+			"tm": true
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": true
+		},
+		{
+			"move": "Giga Impact",
+			"tm": true
+		},
+		{
+			"move": "Fire Spin",
+			"tm": true
+		},
+		{
+			"move": "Dig",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Scary Face",
+			"tm": true
+		},
+		{
+			"move": "Charm",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Rain Dance",
+			"tm": true
+		},
+		{
+			"move": "Sunny Day",
+			"tm": true
+		},
+		{
+			"move": "Will-O-Wisp",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Swift",
+			"tm": true
+		},
+		{
+			"move": "Helping Hand",
+			"tm": true
+		},
+		{
+			"move": "Weather Ball",
+			"tm": true
+		},
+		{
+			"move": "Fake Tears",
+			"tm": true
+		},
+		{
+			"move": "Fire Fang",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Retaliate",
+			"tm": true
+		},
+		{
+			"move": "Mystical Fire",
+			"tm": true
+		},
+		{
+			"move": "Body Slam",
+			"tm": true
+		},
+		{
+			"move": "Flamethrower",
+			"tm": true
+		},
+		{
+			"move": "Focus Energy",
+			"tm": true
+		},
+		{
+			"move": "Fire Blast",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Baton Pass",
+			"tm": true
+		},
+		{
+			"move": "Iron Tail",
+			"tm": true
+		},
+		{
+			"move": "Shadow Ball",
+			"tm": true
+		},
+		{
+			"move": "Heat Wave",
+			"tm": true
+		},
+		{
+			"move": "Superpower",
+			"tm": true
+		},
+		{
+			"move": "Hyper Voice",
+			"tm": true
+		},
+		{
+			"move": "Overheat",
+			"tm": true
+		},
+		{
+			"move": "Flare Blitz",
+			"tm": true
+		},
+		{
+			"move": "Stored Power",
+			"tm": true
+		},
+		{
+			"move": "Work Up",
+			"tm": true
+		},
+		{
+			"move": "Flail",
+			"egg_move": true
+		},
+		{
+			"move": "Curse",
+			"egg_move": true
+		},
+		{
+			"move": "Tickle",
+			"egg_move": true
+		},
+		{
+			"move": "Yawn",
+			"egg_move": true
+		},
+		{
+			"move": "Detect",
+			"egg_move": true
+		},
+		{
+			"move": "Double Kick",
+			"egg_move": true
+		},
+		{
+			"move": "Mud-Slap",
+			"egg_move": true
+		},
+		{
+			"move": "Wish",
+			"egg_move": true
+		}
+	]
 }

@@ -1,232 +1,225 @@
 {
-    "name": "Type: Null",
-    "national_id": 772,
-    "types": [
-        "Normal"
-    ],
-    "abilities": [
-        {
-            "name": "Battle Armor"
-        }
-    ],
-    "catch_rate": 3,
-    "gender_ratios": null,
-    "egg_groups": [
-        "Undiscovered"
-    ],
-    "hatch_time": [
-        30840,
-        31096
-    ],
-    "height_us": "6'03\"",
-    "height_eu": "1.9 m",
-    "weight_us": "265.7 lbs.",
-    "weight_eu": "120.5 kg",
-    "base_exp_yield": 107,
-    "leveling_rate": "Slow",
-    "base_friendship": 0,
-    "ev_yield": {
-        "hp": 2,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 95,
-        "atk": 95,
-        "def": 95,
-        "sp_atk": 95,
-        "sp_def": 95,
-        "speed": 59
-    },
-    "evolution_from": null,
-    "evolutions": [
-        {
-            "to": "Silvally",
-            "happiness": true
-        }
-    ],
-    "species": "Synthetic Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "It was modeled after a mighty Pokémon of myth. The mask placed upon it limits its power in order to keep it under control.",
-    "move_learnset": [
-        {
-            "move": "Tackle",
-            "level": 1
-        },
-        {
-            "move": "Imprison",
-            "level": 1
-        },
-        {
-            "move": "Aerial Ace",
-            "level": 5
-        },
-        {
-            "move": "Scary Face",
-            "level": 10
-        },
-        {
-            "move": "Double Hit",
-            "level": 15
-        },
-        {
-            "move": "Metal Sound",
-            "level": 20
-        },
-        {
-            "move": "Crush Claw",
-            "level": 25
-        },
-        {
-            "move": "Air Slash",
-            "level": 30
-        },
-        {
-            "move": "Tri Attack",
-            "level": 35
-        },
-        {
-            "move": "X-Scissor",
-            "level": 40
-        },
-        {
-            "move": "Iron Head",
-            "level": 45
-        },
-        {
-            "move": "Take Down",
-            "level": 50
-        },
-        {
-            "move": "Double-Edge",
-            "level": 55
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": true
-        },
-        {
-            "move": "Giga Impact",
-            "tm": true
-        },
-        {
-            "move": "Thunder Wave",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Rock Slide",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Scary Face",
-            "tm": true
-        },
-        {
-            "move": "Icy Wind",
-            "tm": true
-        },
-        {
-            "move": "Sandstorm",
-            "tm": true
-        },
-        {
-            "move": "Rain Dance",
-            "tm": true
-        },
-        {
-            "move": "Sunny Day",
-            "tm": true
-        },
-        {
-            "move": "Hail",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Swift",
-            "tm": true
-        },
-        {
-            "move": "Imprison",
-            "tm": true
-        },
-        {
-            "move": "U-turn",
-            "tm": true
-        },
-        {
-            "move": "Payback",
-            "tm": true
-        },
-        {
-            "move": "Shadow Claw",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Air Slash",
-            "tm": true
-        },
-        {
-            "move": "Swords Dance",
-            "tm": true
-        },
-        {
-            "move": "Tri Attack",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Iron Defense",
-            "tm": true
-        },
-        {
-            "move": "Dragon Claw",
-            "tm": true
-        },
-        {
-            "move": "X-Scissor",
-            "tm": true
-        },
-        {
-            "move": "Iron Head",
-            "tm": true
-        },
-        {
-            "move": "Work Up",
-            "tm": true
-        }
-    ]
+	"name": "Type: Null",
+	"national_id": 772,
+	"types": ["Normal"],
+	"abilities": [
+		{
+			"name": "Battle Armor"
+		}
+	],
+	"catch_rate": 3,
+	"gender_ratios": null,
+	"egg_groups": ["Undiscovered"],
+	"hatch_time": [30840, 31096],
+	"height_us": "6'03\"",
+	"height_eu": "1.9 m",
+	"weight_us": "265.7 lbs.",
+	"weight_eu": "120.5 kg",
+	"base_exp_yield": 107,
+	"leveling_rate": "Slow",
+	"base_friendship": 0,
+	"ev_yield": {
+		"hp": 2,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 95,
+		"atk": 95,
+		"def": 95,
+		"sp_atk": 95,
+		"sp_def": 95,
+		"speed": 59
+	},
+	"evolution_from": null,
+	"evolutions": [
+		{
+			"to": "Silvally",
+			"happiness": true
+		}
+	],
+	"species": "Synthetic Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "It was modeled after a mighty Pokémon of myth. The mask placed upon it limits its power in order to keep it under control.",
+	"move_learnset": [
+		{
+			"move": "Tackle",
+			"level": 1
+		},
+		{
+			"move": "Imprison",
+			"level": 1
+		},
+		{
+			"move": "Aerial Ace",
+			"level": 5
+		},
+		{
+			"move": "Scary Face",
+			"level": 10
+		},
+		{
+			"move": "Double Hit",
+			"level": 15
+		},
+		{
+			"move": "Metal Sound",
+			"level": 20
+		},
+		{
+			"move": "Crush Claw",
+			"level": 25
+		},
+		{
+			"move": "Air Slash",
+			"level": 30
+		},
+		{
+			"move": "Tri Attack",
+			"level": 35
+		},
+		{
+			"move": "X-Scissor",
+			"level": 40
+		},
+		{
+			"move": "Iron Head",
+			"level": 45
+		},
+		{
+			"move": "Take Down",
+			"level": 50
+		},
+		{
+			"move": "Double-Edge",
+			"level": 55
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": true
+		},
+		{
+			"move": "Giga Impact",
+			"tm": true
+		},
+		{
+			"move": "Thunder Wave",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Rock Slide",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Scary Face",
+			"tm": true
+		},
+		{
+			"move": "Icy Wind",
+			"tm": true
+		},
+		{
+			"move": "Sandstorm",
+			"tm": true
+		},
+		{
+			"move": "Rain Dance",
+			"tm": true
+		},
+		{
+			"move": "Sunny Day",
+			"tm": true
+		},
+		{
+			"move": "Hail",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Swift",
+			"tm": true
+		},
+		{
+			"move": "Imprison",
+			"tm": true
+		},
+		{
+			"move": "U-turn",
+			"tm": true
+		},
+		{
+			"move": "Payback",
+			"tm": true
+		},
+		{
+			"move": "Shadow Claw",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Air Slash",
+			"tm": true
+		},
+		{
+			"move": "Swords Dance",
+			"tm": true
+		},
+		{
+			"move": "Tri Attack",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Iron Defense",
+			"tm": true
+		},
+		{
+			"move": "Dragon Claw",
+			"tm": true
+		},
+		{
+			"move": "X-Scissor",
+			"tm": true
+		},
+		{
+			"move": "Iron Head",
+			"tm": true
+		},
+		{
+			"move": "Work Up",
+			"tm": true
+		}
+	]
 }

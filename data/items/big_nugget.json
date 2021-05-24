@@ -1,8 +1,8 @@
 {
-    "name": "Big Nugget",
-    "sell_price": 20000,
-    "holdable": true,
-    "battle": false,
-    "category": "Item",
-    "subcategory": "Treasure"
+	"name": "Big Nugget",
+	"sell_price": 20000,
+	"holdable": true,
+	"battle": false,
+	"category": "Item",
+	"subcategory": "Treasure"
 }

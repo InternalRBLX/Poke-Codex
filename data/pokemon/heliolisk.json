@@ -1,331 +1,322 @@
 {
-    "name": "Heliolisk",
-    "national_id": 695,
-    "types": [
-        "Electric",
-        "Normal"
-    ],
-    "abilities": [
-        {
-            "name": "Dry Skin"
-        },
-        {
-            "name": "Sand Veil"
-        },
-        {
-            "name": "Solar Power",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 75,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Monster",
-        "Dragon"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "3'03\"",
-    "height_eu": "1.0 m",
-    "weight_us": "46.3 lbs.",
-    "weight_eu": "21.0 kg",
-    "base_exp_yield": 168,
-    "leveling_rate": "Medium Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 1,
-        "sp_def": 0,
-        "speed": 1
-    },
-    "base_stats": {
-        "hp": 62,
-        "atk": 55,
-        "def": 52,
-        "sp_atk": 109,
-        "sp_def": 94,
-        "speed": 109
-    },
-    "evolution_from": "Helioptile",
-    "evolutions": [],
-    "species": "Generator Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "One Heliolisk basking in the sun with its frill outspread is all it would take to produce enough electricity to power a city.",
-    "move_learnset": [
-        {
-            "move": "Eerie Impulse",
-            "level": 1
-        },
-        {
-            "move": "Discharge",
-            "level": 1
-        },
-        {
-            "move": "Quick Attack",
-            "level": 1
-        },
-        {
-            "move": "Charge",
-            "level": 1
-        },
-        {
-            "move": "Bulldoze",
-            "level": 1
-        },
-        {
-            "move": "Volt Switch",
-            "level": 1
-        },
-        {
-            "move": "Parabolic Charge",
-            "level": 1
-        },
-        {
-            "move": "Thunder Wave",
-            "level": 1
-        },
-        {
-            "move": "Thunderbolt",
-            "level": 1
-        },
-        {
-            "move": "Electrify",
-            "level": 1
-        },
-        {
-            "move": "Thunder",
-            "level": 1
-        },
-        {
-            "move": "Mud-Slap",
-            "level": 1
-        },
-        {
-            "move": "Tail Whip",
-            "level": 1
-        },
-        {
-            "move": "Pound",
-            "level": 1
-        },
-        {
-            "move": "Thunder Shock",
-            "level": 1
-        },
-        {
-            "move": "Mega Punch",
-            "tm": true
-        },
-        {
-            "move": "Mega Kick",
-            "tm": true
-        },
-        {
-            "move": "Fire Punch",
-            "tm": true
-        },
-        {
-            "move": "Thunder Punch",
-            "tm": true
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": true
-        },
-        {
-            "move": "Giga Impact",
-            "tm": true
-        },
-        {
-            "move": "Solar Beam",
-            "tm": true
-        },
-        {
-            "move": "Thunder Wave",
-            "tm": true
-        },
-        {
-            "move": "Dig",
-            "tm": true
-        },
-        {
-            "move": "Light Screen",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Rock Slide",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Sandstorm",
-            "tm": true
-        },
-        {
-            "move": "Rain Dance",
-            "tm": true
-        },
-        {
-            "move": "Sunny Day",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Swift",
-            "tm": true
-        },
-        {
-            "move": "Weather Ball",
-            "tm": true
-        },
-        {
-            "move": "Rock Tomb",
-            "tm": true
-        },
-        {
-            "move": "U-turn",
-            "tm": true
-        },
-        {
-            "move": "Low Sweep",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Volt Switch",
-            "tm": true
-        },
-        {
-            "move": "Bulldoze",
-            "tm": true
-        },
-        {
-            "move": "Electroweb",
-            "tm": true
-        },
-        {
-            "move": "Electric Terrain",
-            "tm": true
-        },
-        {
-            "move": "Eerie Impulse",
-            "tm": true
-        },
-        {
-            "move": "Brutal Swing",
-            "tm": true
-        },
-        {
-            "move": "Breaking Swipe",
-            "tm": true
-        },
-        {
-            "move": "Surf",
-            "tm": true
-        },
-        {
-            "move": "Low Kick",
-            "tm": true
-        },
-        {
-            "move": "Thunderbolt",
-            "tm": true
-        },
-        {
-            "move": "Thunder",
-            "tm": true
-        },
-        {
-            "move": "Agility",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Iron Tail",
-            "tm": true
-        },
-        {
-            "move": "Hyper Voice",
-            "tm": true
-        },
-        {
-            "move": "Dark Pulse",
-            "tm": true
-        },
-        {
-            "move": "Dragon Pulse",
-            "tm": true
-        },
-        {
-            "move": "Focus Blast",
-            "tm": true
-        },
-        {
-            "move": "Grass Knot",
-            "tm": true
-        },
-        {
-            "move": "Electro Ball",
-            "tm": true
-        },
-        {
-            "move": "Ally Switch",
-            "tm": true
-        },
-        {
-            "move": "Wild Charge",
-            "tm": true
-        },
-        {
-            "move": "Glare",
-            "egg_move": true
-        },
-        {
-            "move": "Dragon Rush",
-            "egg_move": true
-        },
-        {
-            "move": "Dragon Tail",
-            "egg_move": true
-        }
-    ]
+	"name": "Heliolisk",
+	"national_id": 695,
+	"types": ["Electric", "Normal"],
+	"abilities": [
+		{
+			"name": "Dry Skin"
+		},
+		{
+			"name": "Sand Veil"
+		},
+		{
+			"name": "Solar Power",
+			"hidden": true
+		}
+	],
+	"catch_rate": 75,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Monster", "Dragon"],
+	"hatch_time": [5355, 5609],
+	"height_us": "3'03\"",
+	"height_eu": "1.0 m",
+	"weight_us": "46.3 lbs.",
+	"weight_eu": "21.0 kg",
+	"base_exp_yield": 168,
+	"leveling_rate": "Medium Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 1,
+		"sp_def": 0,
+		"speed": 1
+	},
+	"base_stats": {
+		"hp": 62,
+		"atk": 55,
+		"def": 52,
+		"sp_atk": 109,
+		"sp_def": 94,
+		"speed": 109
+	},
+	"evolution_from": "Helioptile",
+	"evolutions": [],
+	"species": "Generator Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "One Heliolisk basking in the sun with its frill outspread is all it would take to produce enough electricity to power a city.",
+	"move_learnset": [
+		{
+			"move": "Eerie Impulse",
+			"level": 1
+		},
+		{
+			"move": "Discharge",
+			"level": 1
+		},
+		{
+			"move": "Quick Attack",
+			"level": 1
+		},
+		{
+			"move": "Charge",
+			"level": 1
+		},
+		{
+			"move": "Bulldoze",
+			"level": 1
+		},
+		{
+			"move": "Volt Switch",
+			"level": 1
+		},
+		{
+			"move": "Parabolic Charge",
+			"level": 1
+		},
+		{
+			"move": "Thunder Wave",
+			"level": 1
+		},
+		{
+			"move": "Thunderbolt",
+			"level": 1
+		},
+		{
+			"move": "Electrify",
+			"level": 1
+		},
+		{
+			"move": "Thunder",
+			"level": 1
+		},
+		{
+			"move": "Mud-Slap",
+			"level": 1
+		},
+		{
+			"move": "Tail Whip",
+			"level": 1
+		},
+		{
+			"move": "Pound",
+			"level": 1
+		},
+		{
+			"move": "Thunder Shock",
+			"level": 1
+		},
+		{
+			"move": "Mega Punch",
+			"tm": true
+		},
+		{
+			"move": "Mega Kick",
+			"tm": true
+		},
+		{
+			"move": "Fire Punch",
+			"tm": true
+		},
+		{
+			"move": "Thunder Punch",
+			"tm": true
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": true
+		},
+		{
+			"move": "Giga Impact",
+			"tm": true
+		},
+		{
+			"move": "Solar Beam",
+			"tm": true
+		},
+		{
+			"move": "Thunder Wave",
+			"tm": true
+		},
+		{
+			"move": "Dig",
+			"tm": true
+		},
+		{
+			"move": "Light Screen",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Rock Slide",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Sandstorm",
+			"tm": true
+		},
+		{
+			"move": "Rain Dance",
+			"tm": true
+		},
+		{
+			"move": "Sunny Day",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Swift",
+			"tm": true
+		},
+		{
+			"move": "Weather Ball",
+			"tm": true
+		},
+		{
+			"move": "Rock Tomb",
+			"tm": true
+		},
+		{
+			"move": "U-turn",
+			"tm": true
+		},
+		{
+			"move": "Low Sweep",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Volt Switch",
+			"tm": true
+		},
+		{
+			"move": "Bulldoze",
+			"tm": true
+		},
+		{
+			"move": "Electroweb",
+			"tm": true
+		},
+		{
+			"move": "Electric Terrain",
+			"tm": true
+		},
+		{
+			"move": "Eerie Impulse",
+			"tm": true
+		},
+		{
+			"move": "Brutal Swing",
+			"tm": true
+		},
+		{
+			"move": "Breaking Swipe",
+			"tm": true
+		},
+		{
+			"move": "Surf",
+			"tm": true
+		},
+		{
+			"move": "Low Kick",
+			"tm": true
+		},
+		{
+			"move": "Thunderbolt",
+			"tm": true
+		},
+		{
+			"move": "Thunder",
+			"tm": true
+		},
+		{
+			"move": "Agility",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Iron Tail",
+			"tm": true
+		},
+		{
+			"move": "Hyper Voice",
+			"tm": true
+		},
+		{
+			"move": "Dark Pulse",
+			"tm": true
+		},
+		{
+			"move": "Dragon Pulse",
+			"tm": true
+		},
+		{
+			"move": "Focus Blast",
+			"tm": true
+		},
+		{
+			"move": "Grass Knot",
+			"tm": true
+		},
+		{
+			"move": "Electro Ball",
+			"tm": true
+		},
+		{
+			"move": "Ally Switch",
+			"tm": true
+		},
+		{
+			"move": "Wild Charge",
+			"tm": true
+		},
+		{
+			"move": "Glare",
+			"egg_move": true
+		},
+		{
+			"move": "Dragon Rush",
+			"egg_move": true
+		},
+		{
+			"move": "Dragon Tail",
+			"egg_move": true
+		}
+	]
 }

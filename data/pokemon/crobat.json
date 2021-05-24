@@ -1,331 +1,323 @@
 {
-    "name": "Crobat",
-    "national_id": 169,
-    "types": [
-        "Poison",
-        "Flying"
-    ],
-    "abilities": [
-        {
-            "name": "Inner Focus"
-        },
-        {
-            "name": "Infiltrator",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 90,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Flying"
-    ],
-    "hatch_time": [
-        4080,
-        4334
-    ],
-    "height_us": "5'11\"",
-    "height_eu": "1.8 m",
-    "weight_us": "165.3 lbs.",
-    "weight_eu": "75.0 kg",
-    "base_exp_yield": 241,
-    "leveling_rate": "Medium Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 3
-    },
-    "base_stats": {
-        "hp": 85,
-        "atk": 90,
-        "def": 80,
-        "sp_atk": 70,
-        "sp_def": 80,
-        "speed": 130
-    },
-    "evolution_from": "Golbat",
-    "evolutions": [],
-    "species": "Bat Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "Crobat sneaks up on its intended prey using wings that barely make a sound. This Pokémon rests by hanging on a tree branch with its rear legs that serve as wings.",
-    "move_learnset": [
-        {
-            "move": "Absorb",
-            "level": 1
-        },
-        {
-            "move": "Astonish",
-            "level": 1
-        },
-        {
-            "move": "Bite",
-            "level": 1
-        },
-        {
-            "move": "Cross Poison",
-            "level": 1
-        },
-        {
-            "move": "Screech",
-            "level": 1
-        },
-        {
-            "move": "Supersonic",
-            "level": 1
-        },
-        {
-            "move": "Supersonic",
-            "level": 5
-        },
-        {
-            "move": "Astonish",
-            "level": 7
-        },
-        {
-            "move": "Bite",
-            "level": 11
-        },
-        {
-            "move": "Wing Attack",
-            "level": 13
-        },
-        {
-            "move": "Confuse Ray",
-            "level": 17
-        },
-        {
-            "move": "Air Cutter",
-            "level": 19
-        },
-        {
-            "move": "Swift",
-            "level": 24
-        },
-        {
-            "move": "Poison Fang",
-            "level": 27
-        },
-        {
-            "move": "Mean Look",
-            "level": 32
-        },
-        {
-            "move": "Leech Life",
-            "level": 35
-        },
-        {
-            "move": "Haze",
-            "level": 40
-        },
-        {
-            "move": "Venoshock",
-            "level": 43
-        },
-        {
-            "move": "Air Slash",
-            "level": 48
-        },
-        {
-            "move": "Quick Guard",
-            "level": 51
-        },
-        {
-            "move": "Brave Bird",
-            "egg_move": true
-        },
-        {
-            "move": "Curse",
-            "egg_move": true
-        },
-        {
-            "move": "Defog",
-            "egg_move": true
-        },
-        {
-            "move": "Feint Attack",
-            "egg_move": true
-        },
-        {
-            "move": "Giga Drain",
-            "egg_move": true
-        },
-        {
-            "move": "Gust",
-            "egg_move": true
-        },
-        {
-            "move": "Hypnosis",
-            "egg_move": true
-        },
-        {
-            "move": "Nasty Plot",
-            "egg_move": true
-        },
-        {
-            "move": "Pursuit",
-            "egg_move": true
-        },
-        {
-            "move": "Quick Attack",
-            "egg_move": true
-        },
-        {
-            "move": "Steel Wing",
-            "egg_move": true
-        },
-        {
-            "move": "Venom Drench",
-            "egg_move": true
-        },
-        {
-            "move": "Whirlwind",
-            "egg_move": true
-        },
-        {
-            "move": "Zen Headbutt",
-            "egg_move": true
-        },
-        {
-            "move": "Toxic",
-            "tm": "TM6"
-        },
-        {
-            "move": "Venoshock",
-            "tm": "TM9"
-        },
-        {
-            "move": "Hidden Power",
-            "tm": "TM10"
-        },
-        {
-            "move": "Sunny Day",
-            "tm": "TM11"
-        },
-        {
-            "move": "Taunt",
-            "tm": "TM12"
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": "TM15"
-        },
-        {
-            "move": "Protect",
-            "tm": "TM17"
-        },
-        {
-            "move": "Rain Dance",
-            "tm": "TM18"
-        },
-        {
-            "move": "Roost",
-            "tm": "TM19"
-        },
-        {
-            "move": "Frustration",
-            "tm": "TM21"
-        },
-        {
-            "move": "Return",
-            "tm": "TM27"
-        },
-        {
-            "move": "Leech Life",
-            "tm": "TM28"
-        },
-        {
-            "move": "Shadow Ball",
-            "tm": "TM30"
-        },
-        {
-            "move": "Double Team",
-            "tm": "TM32"
-        },
-        {
-            "move": "Sludge Bomb",
-            "tm": "TM36"
-        },
-        {
-            "move": "Aerial Ace",
-            "tm": "TM40"
-        },
-        {
-            "move": "Torment",
-            "tm": "TM41"
-        },
-        {
-            "move": "Facade",
-            "tm": "TM42"
-        },
-        {
-            "move": "Rest",
-            "tm": "TM44"
-        },
-        {
-            "move": "Attract",
-            "tm": "TM45"
-        },
-        {
-            "move": "Thief",
-            "tm": "TM46"
-        },
-        {
-            "move": "Round",
-            "tm": "TM48"
-        },
-        {
-            "move": "Steel Wing",
-            "tm": "TM51"
-        },
-        {
-            "move": "Acrobatics",
-            "tm": "TM62"
-        },
-        {
-            "move": "Payback",
-            "tm": "TM66"
-        },
-        {
-            "move": "Giga Impact",
-            "tm": "TM68"
-        },
-        {
-            "move": "Fly",
-            "tm": "TM76"
-        },
-        {
-            "move": "X-Scissor",
-            "tm": "TM81"
-        },
-        {
-            "move": "Swagger",
-            "tm": "TM87"
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": "TM88"
-        },
-        {
-            "move": "U-turn",
-            "tm": "TM89"
-        },
-        {
-            "move": "Substitute",
-            "tm": "TM90"
-        },
-        {
-            "move": "Dark Pulse",
-            "tm": "TM97"
-        },
-        {
-            "move": "Confide",
-            "tm": "TM100"
-        }
-    ]
+	"name": "Crobat",
+	"national_id": 169,
+	"types": ["Poison", "Flying"],
+	"abilities": [
+		{
+			"name": "Inner Focus"
+		},
+		{
+			"name": "Infiltrator",
+			"hidden": true
+		}
+	],
+	"catch_rate": 90,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Flying"],
+	"hatch_time": [4080, 4334],
+	"height_us": "5'11\"",
+	"height_eu": "1.8 m",
+	"weight_us": "165.3 lbs.",
+	"weight_eu": "75.0 kg",
+	"base_exp_yield": 241,
+	"leveling_rate": "Medium Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 3
+	},
+	"base_stats": {
+		"hp": 85,
+		"atk": 90,
+		"def": 80,
+		"sp_atk": 70,
+		"sp_def": 80,
+		"speed": 130
+	},
+	"evolution_from": "Golbat",
+	"evolutions": [],
+	"species": "Bat Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "Crobat sneaks up on its intended prey using wings that barely make a sound. This Pokémon rests by hanging on a tree branch with its rear legs that serve as wings.",
+	"move_learnset": [
+		{
+			"move": "Absorb",
+			"level": 1
+		},
+		{
+			"move": "Astonish",
+			"level": 1
+		},
+		{
+			"move": "Bite",
+			"level": 1
+		},
+		{
+			"move": "Cross Poison",
+			"level": 1
+		},
+		{
+			"move": "Screech",
+			"level": 1
+		},
+		{
+			"move": "Supersonic",
+			"level": 1
+		},
+		{
+			"move": "Supersonic",
+			"level": 5
+		},
+		{
+			"move": "Astonish",
+			"level": 7
+		},
+		{
+			"move": "Bite",
+			"level": 11
+		},
+		{
+			"move": "Wing Attack",
+			"level": 13
+		},
+		{
+			"move": "Confuse Ray",
+			"level": 17
+		},
+		{
+			"move": "Air Cutter",
+			"level": 19
+		},
+		{
+			"move": "Swift",
+			"level": 24
+		},
+		{
+			"move": "Poison Fang",
+			"level": 27
+		},
+		{
+			"move": "Mean Look",
+			"level": 32
+		},
+		{
+			"move": "Leech Life",
+			"level": 35
+		},
+		{
+			"move": "Haze",
+			"level": 40
+		},
+		{
+			"move": "Venoshock",
+			"level": 43
+		},
+		{
+			"move": "Air Slash",
+			"level": 48
+		},
+		{
+			"move": "Quick Guard",
+			"level": 51
+		},
+		{
+			"move": "Brave Bird",
+			"egg_move": true
+		},
+		{
+			"move": "Curse",
+			"egg_move": true
+		},
+		{
+			"move": "Defog",
+			"egg_move": true
+		},
+		{
+			"move": "Feint Attack",
+			"egg_move": true
+		},
+		{
+			"move": "Giga Drain",
+			"egg_move": true
+		},
+		{
+			"move": "Gust",
+			"egg_move": true
+		},
+		{
+			"move": "Hypnosis",
+			"egg_move": true
+		},
+		{
+			"move": "Nasty Plot",
+			"egg_move": true
+		},
+		{
+			"move": "Pursuit",
+			"egg_move": true
+		},
+		{
+			"move": "Quick Attack",
+			"egg_move": true
+		},
+		{
+			"move": "Steel Wing",
+			"egg_move": true
+		},
+		{
+			"move": "Venom Drench",
+			"egg_move": true
+		},
+		{
+			"move": "Whirlwind",
+			"egg_move": true
+		},
+		{
+			"move": "Zen Headbutt",
+			"egg_move": true
+		},
+		{
+			"move": "Toxic",
+			"tm": "TM6"
+		},
+		{
+			"move": "Venoshock",
+			"tm": "TM9"
+		},
+		{
+			"move": "Hidden Power",
+			"tm": "TM10"
+		},
+		{
+			"move": "Sunny Day",
+			"tm": "TM11"
+		},
+		{
+			"move": "Taunt",
+			"tm": "TM12"
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": "TM15"
+		},
+		{
+			"move": "Protect",
+			"tm": "TM17"
+		},
+		{
+			"move": "Rain Dance",
+			"tm": "TM18"
+		},
+		{
+			"move": "Roost",
+			"tm": "TM19"
+		},
+		{
+			"move": "Frustration",
+			"tm": "TM21"
+		},
+		{
+			"move": "Return",
+			"tm": "TM27"
+		},
+		{
+			"move": "Leech Life",
+			"tm": "TM28"
+		},
+		{
+			"move": "Shadow Ball",
+			"tm": "TM30"
+		},
+		{
+			"move": "Double Team",
+			"tm": "TM32"
+		},
+		{
+			"move": "Sludge Bomb",
+			"tm": "TM36"
+		},
+		{
+			"move": "Aerial Ace",
+			"tm": "TM40"
+		},
+		{
+			"move": "Torment",
+			"tm": "TM41"
+		},
+		{
+			"move": "Facade",
+			"tm": "TM42"
+		},
+		{
+			"move": "Rest",
+			"tm": "TM44"
+		},
+		{
+			"move": "Attract",
+			"tm": "TM45"
+		},
+		{
+			"move": "Thief",
+			"tm": "TM46"
+		},
+		{
+			"move": "Round",
+			"tm": "TM48"
+		},
+		{
+			"move": "Steel Wing",
+			"tm": "TM51"
+		},
+		{
+			"move": "Acrobatics",
+			"tm": "TM62"
+		},
+		{
+			"move": "Payback",
+			"tm": "TM66"
+		},
+		{
+			"move": "Giga Impact",
+			"tm": "TM68"
+		},
+		{
+			"move": "Fly",
+			"tm": "TM76"
+		},
+		{
+			"move": "X-Scissor",
+			"tm": "TM81"
+		},
+		{
+			"move": "Swagger",
+			"tm": "TM87"
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": "TM88"
+		},
+		{
+			"move": "U-turn",
+			"tm": "TM89"
+		},
+		{
+			"move": "Substitute",
+			"tm": "TM90"
+		},
+		{
+			"move": "Dark Pulse",
+			"tm": "TM97"
+		},
+		{
+			"move": "Confide",
+			"tm": "TM100"
+		}
+	]
 }

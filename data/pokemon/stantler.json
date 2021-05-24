@@ -1,321 +1,314 @@
 {
-    "name": "Stantler",
-    "national_id": 234,
-    "types": [
-        "Normal"
-    ],
-    "abilities": [
-        {
-            "name": "Intimidate"
-        },
-        {
-            "name": "Frisk"
-        },
-        {
-            "name": "Sap Sipper",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 45,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Field"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "4'07\"",
-    "height_eu": "1.4 m",
-    "weight_us": "157.0 lbs.",
-    "weight_eu": "71.2 kg",
-    "base_exp_yield": 163,
-    "leveling_rate": "Slow",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 1,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 73,
-        "atk": 95,
-        "def": 62,
-        "sp_atk": 85,
-        "sp_def": 65,
-        "speed": 85
-    },
-    "evolution_from": null,
-    "evolutions": [],
-    "species": "Big Horn Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "Stantler's magnificent antlers were traded at high prices as works of art. As a result, this Pokémon was hunted close to extinction by those who were after the priceless antlers.",
-    "move_learnset": [
-        {
-            "move": "Me First",
-            "level": 1
-        },
-        {
-            "move": "Tackle",
-            "level": 1
-        },
-        {
-            "move": "Leer",
-            "level": 3
-        },
-        {
-            "move": "Astonish",
-            "level": 7
-        },
-        {
-            "move": "Hypnosis",
-            "level": 10
-        },
-        {
-            "move": "Stomp",
-            "level": 13
-        },
-        {
-            "move": "Sand Attack",
-            "level": 16
-        },
-        {
-            "move": "Take Down",
-            "level": 21
-        },
-        {
-            "move": "Confuse Ray",
-            "level": 23
-        },
-        {
-            "move": "Calm Mind",
-            "level": 27
-        },
-        {
-            "move": "Role Play",
-            "level": 33
-        },
-        {
-            "move": "Zen Headbutt",
-            "level": 38
-        },
-        {
-            "move": "Jump Kick",
-            "level": 43
-        },
-        {
-            "move": "Imprison",
-            "level": 49
-        },
-        {
-            "move": "Captivate",
-            "level": 50
-        },
-        {
-            "move": "Me First",
-            "level": 55
-        },
-        {
-            "move": "Bite",
-            "egg_move": true
-        },
-        {
-            "move": "Disable",
-            "egg_move": true
-        },
-        {
-            "move": "Double Kick",
-            "egg_move": true
-        },
-        {
-            "move": "Extrasensory",
-            "egg_move": true
-        },
-        {
-            "move": "Me First",
-            "egg_move": true
-        },
-        {
-            "move": "Megahorn",
-            "egg_move": true
-        },
-        {
-            "move": "Mud Sport",
-            "egg_move": true
-        },
-        {
-            "move": "Rage",
-            "egg_move": true
-        },
-        {
-            "move": "Spite",
-            "egg_move": true
-        },
-        {
-            "move": "Thrash",
-            "egg_move": true
-        },
-        {
-            "move": "Zen Headbutt",
-            "egg_move": true
-        },
-        {
-            "move": "Work Up",
-            "tm": "TM1"
-        },
-        {
-            "move": "Psyshock",
-            "tm": "TM3"
-        },
-        {
-            "move": "Calm Mind",
-            "tm": "TM4"
-        },
-        {
-            "move": "Roar",
-            "tm": "TM5"
-        },
-        {
-            "move": "Toxic",
-            "tm": "TM6"
-        },
-        {
-            "move": "Hidden Power",
-            "tm": "TM10"
-        },
-        {
-            "move": "Sunny Day",
-            "tm": "TM11"
-        },
-        {
-            "move": "Light Screen",
-            "tm": "TM16"
-        },
-        {
-            "move": "Protect",
-            "tm": "TM17"
-        },
-        {
-            "move": "Rain Dance",
-            "tm": "TM18"
-        },
-        {
-            "move": "Frustration",
-            "tm": "TM21"
-        },
-        {
-            "move": "Solar Beam",
-            "tm": "TM22"
-        },
-        {
-            "move": "Thunderbolt",
-            "tm": "TM24"
-        },
-        {
-            "move": "Thunder",
-            "tm": "TM25"
-        },
-        {
-            "move": "Earthquake",
-            "tm": "TM26"
-        },
-        {
-            "move": "Return",
-            "tm": "TM27"
-        },
-        {
-            "move": "Psychic",
-            "tm": "TM29"
-        },
-        {
-            "move": "Shadow Ball",
-            "tm": "TM30"
-        },
-        {
-            "move": "Double Team",
-            "tm": "TM32"
-        },
-        {
-            "move": "Reflect",
-            "tm": "TM33"
-        },
-        {
-            "move": "Facade",
-            "tm": "TM42"
-        },
-        {
-            "move": "Rest",
-            "tm": "TM44"
-        },
-        {
-            "move": "Attract",
-            "tm": "TM45"
-        },
-        {
-            "move": "Thief",
-            "tm": "TM46"
-        },
-        {
-            "move": "Round",
-            "tm": "TM48"
-        },
-        {
-            "move": "Energy Ball",
-            "tm": "TM53"
-        },
-        {
-            "move": "Charge Beam",
-            "tm": "TM57"
-        },
-        {
-            "move": "Giga Impact",
-            "tm": "TM68"
-        },
-        {
-            "move": "Thunder Wave",
-            "tm": "TM73"
-        },
-        {
-            "move": "Psych Up",
-            "tm": "TM77"
-        },
-        {
-            "move": "Bulldoze",
-            "tm": "TM78"
-        },
-        {
-            "move": "Dream Eater",
-            "tm": "TM85"
-        },
-        {
-            "move": "Swagger",
-            "tm": "TM87"
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": "TM88"
-        },
-        {
-            "move": "Substitute",
-            "tm": "TM90"
-        },
-        {
-            "move": "Trick Room",
-            "tm": "TM92"
-        },
-        {
-            "move": "Wild Charge",
-            "tm": "TM93"
-        },
-        {
-            "move": "Confide",
-            "tm": "TM100"
-        }
-    ]
+	"name": "Stantler",
+	"national_id": 234,
+	"types": ["Normal"],
+	"abilities": [
+		{
+			"name": "Intimidate"
+		},
+		{
+			"name": "Frisk"
+		},
+		{
+			"name": "Sap Sipper",
+			"hidden": true
+		}
+	],
+	"catch_rate": 45,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Field"],
+	"hatch_time": [5355, 5609],
+	"height_us": "4'07\"",
+	"height_eu": "1.4 m",
+	"weight_us": "157.0 lbs.",
+	"weight_eu": "71.2 kg",
+	"base_exp_yield": 163,
+	"leveling_rate": "Slow",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 1,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 73,
+		"atk": 95,
+		"def": 62,
+		"sp_atk": 85,
+		"sp_def": 65,
+		"speed": 85
+	},
+	"evolution_from": null,
+	"evolutions": [],
+	"species": "Big Horn Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "Stantler's magnificent antlers were traded at high prices as works of art. As a result, this Pokémon was hunted close to extinction by those who were after the priceless antlers.",
+	"move_learnset": [
+		{
+			"move": "Me First",
+			"level": 1
+		},
+		{
+			"move": "Tackle",
+			"level": 1
+		},
+		{
+			"move": "Leer",
+			"level": 3
+		},
+		{
+			"move": "Astonish",
+			"level": 7
+		},
+		{
+			"move": "Hypnosis",
+			"level": 10
+		},
+		{
+			"move": "Stomp",
+			"level": 13
+		},
+		{
+			"move": "Sand Attack",
+			"level": 16
+		},
+		{
+			"move": "Take Down",
+			"level": 21
+		},
+		{
+			"move": "Confuse Ray",
+			"level": 23
+		},
+		{
+			"move": "Calm Mind",
+			"level": 27
+		},
+		{
+			"move": "Role Play",
+			"level": 33
+		},
+		{
+			"move": "Zen Headbutt",
+			"level": 38
+		},
+		{
+			"move": "Jump Kick",
+			"level": 43
+		},
+		{
+			"move": "Imprison",
+			"level": 49
+		},
+		{
+			"move": "Captivate",
+			"level": 50
+		},
+		{
+			"move": "Me First",
+			"level": 55
+		},
+		{
+			"move": "Bite",
+			"egg_move": true
+		},
+		{
+			"move": "Disable",
+			"egg_move": true
+		},
+		{
+			"move": "Double Kick",
+			"egg_move": true
+		},
+		{
+			"move": "Extrasensory",
+			"egg_move": true
+		},
+		{
+			"move": "Me First",
+			"egg_move": true
+		},
+		{
+			"move": "Megahorn",
+			"egg_move": true
+		},
+		{
+			"move": "Mud Sport",
+			"egg_move": true
+		},
+		{
+			"move": "Rage",
+			"egg_move": true
+		},
+		{
+			"move": "Spite",
+			"egg_move": true
+		},
+		{
+			"move": "Thrash",
+			"egg_move": true
+		},
+		{
+			"move": "Zen Headbutt",
+			"egg_move": true
+		},
+		{
+			"move": "Work Up",
+			"tm": "TM1"
+		},
+		{
+			"move": "Psyshock",
+			"tm": "TM3"
+		},
+		{
+			"move": "Calm Mind",
+			"tm": "TM4"
+		},
+		{
+			"move": "Roar",
+			"tm": "TM5"
+		},
+		{
+			"move": "Toxic",
+			"tm": "TM6"
+		},
+		{
+			"move": "Hidden Power",
+			"tm": "TM10"
+		},
+		{
+			"move": "Sunny Day",
+			"tm": "TM11"
+		},
+		{
+			"move": "Light Screen",
+			"tm": "TM16"
+		},
+		{
+			"move": "Protect",
+			"tm": "TM17"
+		},
+		{
+			"move": "Rain Dance",
+			"tm": "TM18"
+		},
+		{
+			"move": "Frustration",
+			"tm": "TM21"
+		},
+		{
+			"move": "Solar Beam",
+			"tm": "TM22"
+		},
+		{
+			"move": "Thunderbolt",
+			"tm": "TM24"
+		},
+		{
+			"move": "Thunder",
+			"tm": "TM25"
+		},
+		{
+			"move": "Earthquake",
+			"tm": "TM26"
+		},
+		{
+			"move": "Return",
+			"tm": "TM27"
+		},
+		{
+			"move": "Psychic",
+			"tm": "TM29"
+		},
+		{
+			"move": "Shadow Ball",
+			"tm": "TM30"
+		},
+		{
+			"move": "Double Team",
+			"tm": "TM32"
+		},
+		{
+			"move": "Reflect",
+			"tm": "TM33"
+		},
+		{
+			"move": "Facade",
+			"tm": "TM42"
+		},
+		{
+			"move": "Rest",
+			"tm": "TM44"
+		},
+		{
+			"move": "Attract",
+			"tm": "TM45"
+		},
+		{
+			"move": "Thief",
+			"tm": "TM46"
+		},
+		{
+			"move": "Round",
+			"tm": "TM48"
+		},
+		{
+			"move": "Energy Ball",
+			"tm": "TM53"
+		},
+		{
+			"move": "Charge Beam",
+			"tm": "TM57"
+		},
+		{
+			"move": "Giga Impact",
+			"tm": "TM68"
+		},
+		{
+			"move": "Thunder Wave",
+			"tm": "TM73"
+		},
+		{
+			"move": "Psych Up",
+			"tm": "TM77"
+		},
+		{
+			"move": "Bulldoze",
+			"tm": "TM78"
+		},
+		{
+			"move": "Dream Eater",
+			"tm": "TM85"
+		},
+		{
+			"move": "Swagger",
+			"tm": "TM87"
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": "TM88"
+		},
+		{
+			"move": "Substitute",
+			"tm": "TM90"
+		},
+		{
+			"move": "Trick Room",
+			"tm": "TM92"
+		},
+		{
+			"move": "Wild Charge",
+			"tm": "TM93"
+		},
+		{
+			"move": "Confide",
+			"tm": "TM100"
+		}
+	]
 }

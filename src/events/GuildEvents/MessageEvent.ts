@@ -17,14 +17,16 @@ export const run: RunFunction = async (client, message: Message) => {
 		.trim()
 		.split(/ +/g);
 	const cmd: string = args.shift();
-	const command: Command = client.commands.get(cmd);
+	const command: Command =
+		client.commands.get(cmd) || client.commands.get(client.aliases.get(cmd));
 	if (!command) return;
 
 	command
 		.run(client, message, args)
-		.catch((reason) =>
+		.catch((reason) => {
 			message.channel.send(
 				client.embed({ description: `An Error Came: ${reason}` }, message)
-			)
-		);
+			);
+			return client.logger.error(reason);
+		});
 };

@@ -1,273 +1,266 @@
 {
-    "name": "Duskull",
-    "national_id": 355,
-    "types": [
-        "Ghost"
-    ],
-    "items": [
-        {
-            "name": "Spell Tag",
-            "chance": 5
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Levitate"
-        },
-        {
-            "name": "Frisk",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 190,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Amorphous"
-    ],
-    "hatch_time": [
-        6630,
-        6884
-    ],
-    "height_us": "2'07\"",
-    "height_eu": "0.8 m",
-    "weight_us": "33.1 lbs.",
-    "weight_eu": "15.0 kg",
-    "base_exp_yield": 59,
-    "leveling_rate": "Fast",
-    "base_friendship": 35,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 1,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 20,
-        "atk": 40,
-        "def": 90,
-        "sp_atk": 30,
-        "sp_def": 90,
-        "speed": 25
-    },
-    "evolution_from": null,
-    "evolutions": [
-        {
-            "to": "Dusclops",
-            "level": 37
-        }
-    ],
-    "species": "Requiem Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "Making itself invisible, it silently sneaks up to prey. It has the ability to slip through thick walls.",
-    "move_learnset": [
-        {
-            "move": "Astonish",
-            "level": 1
-        },
-        {
-            "move": "Leer",
-            "level": 1
-        },
-        {
-            "move": "Disable",
-            "level": 4
-        },
-        {
-            "move": "Shadow Sneak",
-            "level": 8
-        },
-        {
-            "move": "Confuse Ray",
-            "level": 12
-        },
-        {
-            "move": "Night Shade",
-            "level": 16
-        },
-        {
-            "move": "Payback",
-            "level": 20
-        },
-        {
-            "move": "Will-O-Wisp",
-            "level": 24
-        },
-        {
-            "move": "Mean Look",
-            "level": 28
-        },
-        {
-            "move": "Hex",
-            "level": 32
-        },
-        {
-            "move": "Curse",
-            "level": 36
-        },
-        {
-            "move": "Shadow Ball",
-            "level": 40
-        },
-        {
-            "move": "Future Sight",
-            "level": 44
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Thief",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Icy Wind",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Rain Dance",
-            "tm": true
-        },
-        {
-            "move": "Sunny Day",
-            "tm": true
-        },
-        {
-            "move": "Will-O-Wisp",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Helping Hand",
-            "tm": true
-        },
-        {
-            "move": "Revenge",
-            "tm": true
-        },
-        {
-            "move": "Imprison",
-            "tm": true
-        },
-        {
-            "move": "Payback",
-            "tm": true
-        },
-        {
-            "move": "Fling",
-            "tm": true
-        },
-        {
-            "move": "Trick Room",
-            "tm": true
-        },
-        {
-            "move": "Wonder Room",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Hex",
-            "tm": true
-        },
-        {
-            "move": "Body Slam",
-            "tm": true
-        },
-        {
-            "move": "Ice Beam",
-            "tm": true
-        },
-        {
-            "move": "Blizzard",
-            "tm": true
-        },
-        {
-            "move": "Psychic",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Shadow Ball",
-            "tm": true
-        },
-        {
-            "move": "Future Sight",
-            "tm": true
-        },
-        {
-            "move": "Taunt",
-            "tm": true
-        },
-        {
-            "move": "Trick",
-            "tm": true
-        },
-        {
-            "move": "Skill Swap",
-            "tm": true
-        },
-        {
-            "move": "Calm Mind",
-            "tm": true
-        },
-        {
-            "move": "Dark Pulse",
-            "tm": true
-        },
-        {
-            "move": "Ally Switch",
-            "tm": true
-        },
-        {
-            "move": "Pain Split",
-            "egg_move": true
-        },
-        {
-            "move": "Grudge",
-            "egg_move": true
-        },
-        {
-            "move": "Memento",
-            "egg_move": true
-        },
-        {
-            "move": "Haze",
-            "egg_move": true
-        }
-    ]
+	"name": "Duskull",
+	"national_id": 355,
+	"types": ["Ghost"],
+	"items": [
+		{
+			"name": "Spell Tag",
+			"chance": 5
+		}
+	],
+	"abilities": [
+		{
+			"name": "Levitate"
+		},
+		{
+			"name": "Frisk",
+			"hidden": true
+		}
+	],
+	"catch_rate": 190,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Amorphous"],
+	"hatch_time": [6630, 6884],
+	"height_us": "2'07\"",
+	"height_eu": "0.8 m",
+	"weight_us": "33.1 lbs.",
+	"weight_eu": "15.0 kg",
+	"base_exp_yield": 59,
+	"leveling_rate": "Fast",
+	"base_friendship": 35,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 1,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 20,
+		"atk": 40,
+		"def": 90,
+		"sp_atk": 30,
+		"sp_def": 90,
+		"speed": 25
+	},
+	"evolution_from": null,
+	"evolutions": [
+		{
+			"to": "Dusclops",
+			"level": 37
+		}
+	],
+	"species": "Requiem Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "Making itself invisible, it silently sneaks up to prey. It has the ability to slip through thick walls.",
+	"move_learnset": [
+		{
+			"move": "Astonish",
+			"level": 1
+		},
+		{
+			"move": "Leer",
+			"level": 1
+		},
+		{
+			"move": "Disable",
+			"level": 4
+		},
+		{
+			"move": "Shadow Sneak",
+			"level": 8
+		},
+		{
+			"move": "Confuse Ray",
+			"level": 12
+		},
+		{
+			"move": "Night Shade",
+			"level": 16
+		},
+		{
+			"move": "Payback",
+			"level": 20
+		},
+		{
+			"move": "Will-O-Wisp",
+			"level": 24
+		},
+		{
+			"move": "Mean Look",
+			"level": 28
+		},
+		{
+			"move": "Hex",
+			"level": 32
+		},
+		{
+			"move": "Curse",
+			"level": 36
+		},
+		{
+			"move": "Shadow Ball",
+			"level": 40
+		},
+		{
+			"move": "Future Sight",
+			"level": 44
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Thief",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Icy Wind",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Rain Dance",
+			"tm": true
+		},
+		{
+			"move": "Sunny Day",
+			"tm": true
+		},
+		{
+			"move": "Will-O-Wisp",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Helping Hand",
+			"tm": true
+		},
+		{
+			"move": "Revenge",
+			"tm": true
+		},
+		{
+			"move": "Imprison",
+			"tm": true
+		},
+		{
+			"move": "Payback",
+			"tm": true
+		},
+		{
+			"move": "Fling",
+			"tm": true
+		},
+		{
+			"move": "Trick Room",
+			"tm": true
+		},
+		{
+			"move": "Wonder Room",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Hex",
+			"tm": true
+		},
+		{
+			"move": "Body Slam",
+			"tm": true
+		},
+		{
+			"move": "Ice Beam",
+			"tm": true
+		},
+		{
+			"move": "Blizzard",
+			"tm": true
+		},
+		{
+			"move": "Psychic",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Shadow Ball",
+			"tm": true
+		},
+		{
+			"move": "Future Sight",
+			"tm": true
+		},
+		{
+			"move": "Taunt",
+			"tm": true
+		},
+		{
+			"move": "Trick",
+			"tm": true
+		},
+		{
+			"move": "Skill Swap",
+			"tm": true
+		},
+		{
+			"move": "Calm Mind",
+			"tm": true
+		},
+		{
+			"move": "Dark Pulse",
+			"tm": true
+		},
+		{
+			"move": "Ally Switch",
+			"tm": true
+		},
+		{
+			"move": "Pain Split",
+			"egg_move": true
+		},
+		{
+			"move": "Grudge",
+			"egg_move": true
+		},
+		{
+			"move": "Memento",
+			"egg_move": true
+		},
+		{
+			"move": "Haze",
+			"egg_move": true
+		}
+	]
 }

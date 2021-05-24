@@ -1,8 +1,8 @@
 {
-    "name": "Black Glasses",
-    "sell_price": 500,
-    "holdable": true,
-    "battle": false,
-    "category": "Item",
-    "subcategory": "Type Boost"
+	"name": "Black Glasses",
+	"sell_price": 500,
+	"holdable": true,
+	"battle": false,
+	"category": "Item",
+	"subcategory": "Type Boost"
 }

@@ -1,288 +1,279 @@
 {
-    "name": "Marill",
-    "national_id": 183,
-    "types": [
-        "Water",
-        "Fairy"
-    ],
-    "abilities": [
-        {
-            "name": "Thick Fat"
-        },
-        {
-            "name": "Huge Power"
-        },
-        {
-            "name": "Sap Sipper",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 190,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Water 1",
-        "Fairy"
-    ],
-    "hatch_time": [
-        2805,
-        3059
-    ],
-    "height_us": "1'04\"",
-    "height_eu": "0.4 m",
-    "weight_us": "18.7 lbs.",
-    "weight_eu": "8.5 kg",
-    "base_exp_yield": 88,
-    "leveling_rate": "Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 2,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 70,
-        "atk": 20,
-        "def": 50,
-        "sp_atk": 20,
-        "sp_def": 50,
-        "speed": 40
-    },
-    "evolution_from": "Azurill",
-    "evolutions": [
-        {
-            "to": "Azumarill",
-            "level": 18
-        }
-    ],
-    "species": "Aqua Mouse Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "When fishing for food at the edge of a fast-running stream, Marill wraps its tail around the trunk of a tree. This Pokémon's tail is flexible and configured to stretch.",
-    "move_learnset": [
-        {
-            "move": "Tackle",
-            "level": 1
-        },
-        {
-            "move": "Water Gun",
-            "level": 1
-        },
-        {
-            "move": "Tail Whip",
-            "level": 2
-        },
-        {
-            "move": "Water Sport",
-            "level": 5
-        },
-        {
-            "move": "Bubble",
-            "level": 7
-        },
-        {
-            "move": "Defense Curl",
-            "level": 10
-        },
-        {
-            "move": "Rollout",
-            "level": 10
-        },
-        {
-            "move": "Bubble Beam",
-            "level": 13
-        },
-        {
-            "move": "Helping Hand",
-            "level": 16
-        },
-        {
-            "move": "Aqua Tail",
-            "level": 20
-        },
-        {
-            "move": "Play Rough",
-            "level": 23
-        },
-        {
-            "move": "Aqua Ring",
-            "level": 28
-        },
-        {
-            "move": "Rain Dance",
-            "level": 31
-        },
-        {
-            "move": "Double-Edge",
-            "level": 37
-        },
-        {
-            "move": "Superpower",
-            "level": 40
-        },
-        {
-            "move": "Hydro Pump",
-            "level": 47
-        },
-        {
-            "move": "Amnesia",
-            "egg_move": true
-        },
-        {
-            "move": "Aqua Jet",
-            "egg_move": true
-        },
-        {
-            "move": "Belly Drum",
-            "egg_move": true
-        },
-        {
-            "move": "Body Slam",
-            "egg_move": true
-        },
-        {
-            "move": "Camouflage",
-            "egg_move": true
-        },
-        {
-            "move": "Future Sight",
-            "egg_move": true
-        },
-        {
-            "move": "Muddy Water",
-            "egg_move": true
-        },
-        {
-            "move": "Perish Song",
-            "egg_move": true
-        },
-        {
-            "move": "Present",
-            "egg_move": true
-        },
-        {
-            "move": "Refresh",
-            "egg_move": true
-        },
-        {
-            "move": "Superpower",
-            "egg_move": true
-        },
-        {
-            "move": "Supersonic",
-            "egg_move": true
-        },
-        {
-            "move": "Water Sport",
-            "egg_move": true
-        },
-        {
-            "move": "Work Up",
-            "tm": "TM1"
-        },
-        {
-            "move": "Toxic",
-            "tm": "TM6"
-        },
-        {
-            "move": "Hail",
-            "tm": "TM7"
-        },
-        {
-            "move": "Hidden Power",
-            "tm": "TM10"
-        },
-        {
-            "move": "Ice Beam",
-            "tm": "TM13"
-        },
-        {
-            "move": "Blizzard",
-            "tm": "TM14"
-        },
-        {
-            "move": "Light Screen",
-            "tm": "TM16"
-        },
-        {
-            "move": "Protect",
-            "tm": "TM17"
-        },
-        {
-            "move": "Rain Dance",
-            "tm": "TM18"
-        },
-        {
-            "move": "Frustration",
-            "tm": "TM21"
-        },
-        {
-            "move": "Return",
-            "tm": "TM27"
-        },
-        {
-            "move": "Brick Break",
-            "tm": "TM31"
-        },
-        {
-            "move": "Double Team",
-            "tm": "TM32"
-        },
-        {
-            "move": "Facade",
-            "tm": "TM42"
-        },
-        {
-            "move": "Rest",
-            "tm": "TM44"
-        },
-        {
-            "move": "Attract",
-            "tm": "TM45"
-        },
-        {
-            "move": "Round",
-            "tm": "TM48"
-        },
-        {
-            "move": "Scald",
-            "tm": "TM55"
-        },
-        {
-            "move": "Fling",
-            "tm": "TM56"
-        },
-        {
-            "move": "Grass Knot",
-            "tm": "TM86"
-        },
-        {
-            "move": "Swagger",
-            "tm": "TM87"
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": "TM88"
-        },
-        {
-            "move": "Substitute",
-            "tm": "TM90"
-        },
-        {
-            "move": "Surf",
-            "tm": "TM94"
-        },
-        {
-            "move": "Waterfall",
-            "tm": "TM98"
-        },
-        {
-            "move": "Confide",
-            "tm": "TM100"
-        }
-    ]
+	"name": "Marill",
+	"national_id": 183,
+	"types": ["Water", "Fairy"],
+	"abilities": [
+		{
+			"name": "Thick Fat"
+		},
+		{
+			"name": "Huge Power"
+		},
+		{
+			"name": "Sap Sipper",
+			"hidden": true
+		}
+	],
+	"catch_rate": 190,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Water 1", "Fairy"],
+	"hatch_time": [2805, 3059],
+	"height_us": "1'04\"",
+	"height_eu": "0.4 m",
+	"weight_us": "18.7 lbs.",
+	"weight_eu": "8.5 kg",
+	"base_exp_yield": 88,
+	"leveling_rate": "Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 2,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 70,
+		"atk": 20,
+		"def": 50,
+		"sp_atk": 20,
+		"sp_def": 50,
+		"speed": 40
+	},
+	"evolution_from": "Azurill",
+	"evolutions": [
+		{
+			"to": "Azumarill",
+			"level": 18
+		}
+	],
+	"species": "Aqua Mouse Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "When fishing for food at the edge of a fast-running stream, Marill wraps its tail around the trunk of a tree. This Pokémon's tail is flexible and configured to stretch.",
+	"move_learnset": [
+		{
+			"move": "Tackle",
+			"level": 1
+		},
+		{
+			"move": "Water Gun",
+			"level": 1
+		},
+		{
+			"move": "Tail Whip",
+			"level": 2
+		},
+		{
+			"move": "Water Sport",
+			"level": 5
+		},
+		{
+			"move": "Bubble",
+			"level": 7
+		},
+		{
+			"move": "Defense Curl",
+			"level": 10
+		},
+		{
+			"move": "Rollout",
+			"level": 10
+		},
+		{
+			"move": "Bubble Beam",
+			"level": 13
+		},
+		{
+			"move": "Helping Hand",
+			"level": 16
+		},
+		{
+			"move": "Aqua Tail",
+			"level": 20
+		},
+		{
+			"move": "Play Rough",
+			"level": 23
+		},
+		{
+			"move": "Aqua Ring",
+			"level": 28
+		},
+		{
+			"move": "Rain Dance",
+			"level": 31
+		},
+		{
+			"move": "Double-Edge",
+			"level": 37
+		},
+		{
+			"move": "Superpower",
+			"level": 40
+		},
+		{
+			"move": "Hydro Pump",
+			"level": 47
+		},
+		{
+			"move": "Amnesia",
+			"egg_move": true
+		},
+		{
+			"move": "Aqua Jet",
+			"egg_move": true
+		},
+		{
+			"move": "Belly Drum",
+			"egg_move": true
+		},
+		{
+			"move": "Body Slam",
+			"egg_move": true
+		},
+		{
+			"move": "Camouflage",
+			"egg_move": true
+		},
+		{
+			"move": "Future Sight",
+			"egg_move": true
+		},
+		{
+			"move": "Muddy Water",
+			"egg_move": true
+		},
+		{
+			"move": "Perish Song",
+			"egg_move": true
+		},
+		{
+			"move": "Present",
+			"egg_move": true
+		},
+		{
+			"move": "Refresh",
+			"egg_move": true
+		},
+		{
+			"move": "Superpower",
+			"egg_move": true
+		},
+		{
+			"move": "Supersonic",
+			"egg_move": true
+		},
+		{
+			"move": "Water Sport",
+			"egg_move": true
+		},
+		{
+			"move": "Work Up",
+			"tm": "TM1"
+		},
+		{
+			"move": "Toxic",
+			"tm": "TM6"
+		},
+		{
+			"move": "Hail",
+			"tm": "TM7"
+		},
+		{
+			"move": "Hidden Power",
+			"tm": "TM10"
+		},
+		{
+			"move": "Ice Beam",
+			"tm": "TM13"
+		},
+		{
+			"move": "Blizzard",
+			"tm": "TM14"
+		},
+		{
+			"move": "Light Screen",
+			"tm": "TM16"
+		},
+		{
+			"move": "Protect",
+			"tm": "TM17"
+		},
+		{
+			"move": "Rain Dance",
+			"tm": "TM18"
+		},
+		{
+			"move": "Frustration",
+			"tm": "TM21"
+		},
+		{
+			"move": "Return",
+			"tm": "TM27"
+		},
+		{
+			"move": "Brick Break",
+			"tm": "TM31"
+		},
+		{
+			"move": "Double Team",
+			"tm": "TM32"
+		},
+		{
+			"move": "Facade",
+			"tm": "TM42"
+		},
+		{
+			"move": "Rest",
+			"tm": "TM44"
+		},
+		{
+			"move": "Attract",
+			"tm": "TM45"
+		},
+		{
+			"move": "Round",
+			"tm": "TM48"
+		},
+		{
+			"move": "Scald",
+			"tm": "TM55"
+		},
+		{
+			"move": "Fling",
+			"tm": "TM56"
+		},
+		{
+			"move": "Grass Knot",
+			"tm": "TM86"
+		},
+		{
+			"move": "Swagger",
+			"tm": "TM87"
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": "TM88"
+		},
+		{
+			"move": "Substitute",
+			"tm": "TM90"
+		},
+		{
+			"move": "Surf",
+			"tm": "TM94"
+		},
+		{
+			"move": "Waterfall",
+			"tm": "TM98"
+		},
+		{
+			"move": "Confide",
+			"tm": "TM100"
+		}
+	]
 }

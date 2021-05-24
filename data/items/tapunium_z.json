@@ -1,8 +1,8 @@
 {
-    "name": "Tapunium Z",
-    "sell_price": null,
-    "holdable": true,
-    "battle": false,
-    "category": "Item",
-    "subcategory": "Z-Crystal"
+	"name": "Tapunium Z",
+	"sell_price": null,
+	"holdable": true,
+	"battle": false,
+	"category": "Item",
+	"subcategory": "Z-Crystal"
 }

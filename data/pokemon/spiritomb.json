@@ -1,289 +1,281 @@
 {
-    "name": "Spiritomb",
-    "national_id": 442,
-    "types": [
-        "Ghost",
-        "Dark"
-    ],
-    "items": [
-        {
-            "name": "Smoke Ball",
-            "chance": 100
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Pressure"
-        },
-        {
-            "name": "Infiltrator",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 100,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Amorphous"
-    ],
-    "hatch_time": [
-        7905,
-        8159
-    ],
-    "height_us": "3'03\"",
-    "height_eu": "1.0 m",
-    "weight_us": "238.1 lbs.",
-    "weight_eu": "108.0 kg",
-    "base_exp_yield": 170,
-    "leveling_rate": "Medium Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 1,
-        "sp_atk": 0,
-        "sp_def": 1,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 50,
-        "atk": 92,
-        "def": 108,
-        "sp_atk": 92,
-        "sp_def": 108,
-        "speed": 35
-    },
-    "evolution_from": null,
-    "evolutions": [],
-    "species": "Forbidden Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "It was bound to a fissure in an Odd Keystone as punishment for misdeeds 500 years ago.",
-    "move_learnset": [
-        {
-            "move": "Confuse Ray",
-            "level": 1
-        },
-        {
-            "move": "Curse",
-            "level": 1
-        },
-        {
-            "move": "Pursuit",
-            "level": 1
-        },
-        {
-            "move": "Shadow Sneak",
-            "level": 1
-        },
-        {
-            "move": "Spite",
-            "level": 1
-        },
-        {
-            "move": "Feint Attack",
-            "level": 7
-        },
-        {
-            "move": "Hypnosis",
-            "level": 13
-        },
-        {
-            "move": "Dream Eater",
-            "level": 19
-        },
-        {
-            "move": "Ominous Wind",
-            "level": 25
-        },
-        {
-            "move": "Sucker Punch",
-            "level": 31
-        },
-        {
-            "move": "Nasty Plot",
-            "level": 37
-        },
-        {
-            "move": "Memento",
-            "level": 43
-        },
-        {
-            "move": "Dark Pulse",
-            "level": 49
-        },
-        {
-            "move": "Captivate",
-            "egg_move": true
-        },
-        {
-            "move": "Destiny Bond",
-            "egg_move": true
-        },
-        {
-            "move": "Disable",
-            "egg_move": true
-        },
-        {
-            "move": "Foul Play",
-            "egg_move": true
-        },
-        {
-            "move": "Grudge",
-            "egg_move": true
-        },
-        {
-            "move": "Imprison",
-            "egg_move": true
-        },
-        {
-            "move": "Nightmare",
-            "egg_move": true
-        },
-        {
-            "move": "Pain Split",
-            "egg_move": true
-        },
-        {
-            "move": "Shadow Sneak",
-            "egg_move": true
-        },
-        {
-            "move": "Smokescreen",
-            "egg_move": true
-        },
-        {
-            "move": "Calm Mind",
-            "tm": "TM4"
-        },
-        {
-            "move": "Toxic",
-            "tm": "TM6"
-        },
-        {
-            "move": "Hidden Power",
-            "tm": "TM10"
-        },
-        {
-            "move": "Sunny Day",
-            "tm": "TM11"
-        },
-        {
-            "move": "Taunt",
-            "tm": "TM12"
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": "TM15"
-        },
-        {
-            "move": "Protect",
-            "tm": "TM17"
-        },
-        {
-            "move": "Rain Dance",
-            "tm": "TM18"
-        },
-        {
-            "move": "Frustration",
-            "tm": "TM21"
-        },
-        {
-            "move": "Return",
-            "tm": "TM27"
-        },
-        {
-            "move": "Psychic",
-            "tm": "TM29"
-        },
-        {
-            "move": "Shadow Ball",
-            "tm": "TM30"
-        },
-        {
-            "move": "Double Team",
-            "tm": "TM32"
-        },
-        {
-            "move": "Rock Tomb",
-            "tm": "TM39"
-        },
-        {
-            "move": "Torment",
-            "tm": "TM41"
-        },
-        {
-            "move": "Facade",
-            "tm": "TM42"
-        },
-        {
-            "move": "Rest",
-            "tm": "TM44"
-        },
-        {
-            "move": "Attract",
-            "tm": "TM45"
-        },
-        {
-            "move": "Thief",
-            "tm": "TM46"
-        },
-        {
-            "move": "Round",
-            "tm": "TM48"
-        },
-        {
-            "move": "Quash",
-            "tm": "TM60"
-        },
-        {
-            "move": "Will-O-Wisp",
-            "tm": "TM61"
-        },
-        {
-            "move": "Embargo",
-            "tm": "TM63"
-        },
-        {
-            "move": "Giga Impact",
-            "tm": "TM68"
-        },
-        {
-            "move": "Psych Up",
-            "tm": "TM77"
-        },
-        {
-            "move": "Infestation",
-            "tm": "TM83"
-        },
-        {
-            "move": "Dream Eater",
-            "tm": "TM85"
-        },
-        {
-            "move": "Swagger",
-            "tm": "TM87"
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": "TM88"
-        },
-        {
-            "move": "Substitute",
-            "tm": "TM90"
-        },
-        {
-            "move": "Snarl",
-            "tm": "TM95"
-        },
-        {
-            "move": "Dark Pulse",
-            "tm": "TM97"
-        },
-        {
-            "move": "Confide",
-            "tm": "TM100"
-        }
-    ]
+	"name": "Spiritomb",
+	"national_id": 442,
+	"types": ["Ghost", "Dark"],
+	"items": [
+		{
+			"name": "Smoke Ball",
+			"chance": 100
+		}
+	],
+	"abilities": [
+		{
+			"name": "Pressure"
+		},
+		{
+			"name": "Infiltrator",
+			"hidden": true
+		}
+	],
+	"catch_rate": 100,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Amorphous"],
+	"hatch_time": [7905, 8159],
+	"height_us": "3'03\"",
+	"height_eu": "1.0 m",
+	"weight_us": "238.1 lbs.",
+	"weight_eu": "108.0 kg",
+	"base_exp_yield": 170,
+	"leveling_rate": "Medium Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 1,
+		"sp_atk": 0,
+		"sp_def": 1,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 50,
+		"atk": 92,
+		"def": 108,
+		"sp_atk": 92,
+		"sp_def": 108,
+		"speed": 35
+	},
+	"evolution_from": null,
+	"evolutions": [],
+	"species": "Forbidden Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "It was bound to a fissure in an Odd Keystone as punishment for misdeeds 500 years ago.",
+	"move_learnset": [
+		{
+			"move": "Confuse Ray",
+			"level": 1
+		},
+		{
+			"move": "Curse",
+			"level": 1
+		},
+		{
+			"move": "Pursuit",
+			"level": 1
+		},
+		{
+			"move": "Shadow Sneak",
+			"level": 1
+		},
+		{
+			"move": "Spite",
+			"level": 1
+		},
+		{
+			"move": "Feint Attack",
+			"level": 7
+		},
+		{
+			"move": "Hypnosis",
+			"level": 13
+		},
+		{
+			"move": "Dream Eater",
+			"level": 19
+		},
+		{
+			"move": "Ominous Wind",
+			"level": 25
+		},
+		{
+			"move": "Sucker Punch",
+			"level": 31
+		},
+		{
+			"move": "Nasty Plot",
+			"level": 37
+		},
+		{
+			"move": "Memento",
+			"level": 43
+		},
+		{
+			"move": "Dark Pulse",
+			"level": 49
+		},
+		{
+			"move": "Captivate",
+			"egg_move": true
+		},
+		{
+			"move": "Destiny Bond",
+			"egg_move": true
+		},
+		{
+			"move": "Disable",
+			"egg_move": true
+		},
+		{
+			"move": "Foul Play",
+			"egg_move": true
+		},
+		{
+			"move": "Grudge",
+			"egg_move": true
+		},
+		{
+			"move": "Imprison",
+			"egg_move": true
+		},
+		{
+			"move": "Nightmare",
+			"egg_move": true
+		},
+		{
+			"move": "Pain Split",
+			"egg_move": true
+		},
+		{
+			"move": "Shadow Sneak",
+			"egg_move": true
+		},
+		{
+			"move": "Smokescreen",
+			"egg_move": true
+		},
+		{
+			"move": "Calm Mind",
+			"tm": "TM4"
+		},
+		{
+			"move": "Toxic",
+			"tm": "TM6"
+		},
+		{
+			"move": "Hidden Power",
+			"tm": "TM10"
+		},
+		{
+			"move": "Sunny Day",
+			"tm": "TM11"
+		},
+		{
+			"move": "Taunt",
+			"tm": "TM12"
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": "TM15"
+		},
+		{
+			"move": "Protect",
+			"tm": "TM17"
+		},
+		{
+			"move": "Rain Dance",
+			"tm": "TM18"
+		},
+		{
+			"move": "Frustration",
+			"tm": "TM21"
+		},
+		{
+			"move": "Return",
+			"tm": "TM27"
+		},
+		{
+			"move": "Psychic",
+			"tm": "TM29"
+		},
+		{
+			"move": "Shadow Ball",
+			"tm": "TM30"
+		},
+		{
+			"move": "Double Team",
+			"tm": "TM32"
+		},
+		{
+			"move": "Rock Tomb",
+			"tm": "TM39"
+		},
+		{
+			"move": "Torment",
+			"tm": "TM41"
+		},
+		{
+			"move": "Facade",
+			"tm": "TM42"
+		},
+		{
+			"move": "Rest",
+			"tm": "TM44"
+		},
+		{
+			"move": "Attract",
+			"tm": "TM45"
+		},
+		{
+			"move": "Thief",
+			"tm": "TM46"
+		},
+		{
+			"move": "Round",
+			"tm": "TM48"
+		},
+		{
+			"move": "Quash",
+			"tm": "TM60"
+		},
+		{
+			"move": "Will-O-Wisp",
+			"tm": "TM61"
+		},
+		{
+			"move": "Embargo",
+			"tm": "TM63"
+		},
+		{
+			"move": "Giga Impact",
+			"tm": "TM68"
+		},
+		{
+			"move": "Psych Up",
+			"tm": "TM77"
+		},
+		{
+			"move": "Infestation",
+			"tm": "TM83"
+		},
+		{
+			"move": "Dream Eater",
+			"tm": "TM85"
+		},
+		{
+			"move": "Swagger",
+			"tm": "TM87"
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": "TM88"
+		},
+		{
+			"move": "Substitute",
+			"tm": "TM90"
+		},
+		{
+			"move": "Snarl",
+			"tm": "TM95"
+		},
+		{
+			"move": "Dark Pulse",
+			"tm": "TM97"
+		},
+		{
+			"move": "Confide",
+			"tm": "TM100"
+		}
+	]
 }

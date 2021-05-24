@@ -1,293 +1,285 @@
 {
-    "name": "Swellow",
-    "national_id": 277,
-    "types": [
-        "Normal",
-        "Flying"
-    ],
-    "items": [
-        {
-            "name": "Charti Berry",
-            "chance": 5
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Guts"
-        },
-        {
-            "name": "Scrappy",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 45,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Flying"
-    ],
-    "hatch_time": [
-        4080,
-        4334
-    ],
-    "height_us": "2'04\"",
-    "height_eu": "0.7 m",
-    "weight_us": "43.7 lbs.",
-    "weight_eu": "19.8 kg",
-    "base_exp_yield": 151,
-    "leveling_rate": "Medium Slow",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 2
-    },
-    "base_stats": {
-        "hp": 60,
-        "atk": 85,
-        "def": 60,
-        "sp_atk": 50,
-        "sp_def": 50,
-        "speed": 125
-    },
-    "evolution_from": "Taillow",
-    "evolutions": [],
-    "species": "Swallow Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "Swellow is very conscientious about the upkeep of its glossy wings. Once two Swellow are gathered, they diligently take care of cleaning each other’s wings.",
-    "move_learnset": [
-        {
-            "move": "Air Slash",
-            "level": 1
-        },
-        {
-            "move": "Brave Bird",
-            "level": 1
-        },
-        {
-            "move": "Focus Energy",
-            "level": 1
-        },
-        {
-            "move": "Growl",
-            "level": 1
-        },
-        {
-            "move": "Peck",
-            "level": 1
-        },
-        {
-            "move": "Pluck",
-            "level": 1
-        },
-        {
-            "move": "Quick Attack",
-            "level": 1
-        },
-        {
-            "move": "Focus Energy",
-            "level": 5
-        },
-        {
-            "move": "Quick Attack",
-            "level": 9
-        },
-        {
-            "move": "Wing Attack",
-            "level": 13
-        },
-        {
-            "move": "Double Team",
-            "level": 17
-        },
-        {
-            "move": "Aerial Ace",
-            "level": 21
-        },
-        {
-            "move": "Quick Guard",
-            "level": 27
-        },
-        {
-            "move": "Agility",
-            "level": 33
-        },
-        {
-            "move": "Air Slash",
-            "level": 39
-        },
-        {
-            "move": "Endeavor",
-            "level": 45
-        },
-        {
-            "move": "Brave Bird",
-            "level": 51
-        },
-        {
-            "move": "Reversal",
-            "level": 57
-        },
-        {
-            "move": "Boomburst",
-            "egg_move": true
-        },
-        {
-            "move": "Brave Bird",
-            "egg_move": true
-        },
-        {
-            "move": "Defog",
-            "egg_move": true
-        },
-        {
-            "move": "Hurricane",
-            "egg_move": true
-        },
-        {
-            "move": "Mirror Move",
-            "egg_move": true
-        },
-        {
-            "move": "Pursuit",
-            "egg_move": true
-        },
-        {
-            "move": "Rage",
-            "egg_move": true
-        },
-        {
-            "move": "Refresh",
-            "egg_move": true
-        },
-        {
-            "move": "Roost",
-            "egg_move": true
-        },
-        {
-            "move": "Sky Attack",
-            "egg_move": true
-        },
-        {
-            "move": "Steel Wing",
-            "egg_move": true
-        },
-        {
-            "move": "Supersonic",
-            "egg_move": true
-        },
-        {
-            "move": "Whirlwind",
-            "egg_move": true
-        },
-        {
-            "move": "Work Up",
-            "tm": "TM1"
-        },
-        {
-            "move": "Toxic",
-            "tm": "TM6"
-        },
-        {
-            "move": "Hidden Power",
-            "tm": "TM10"
-        },
-        {
-            "move": "Sunny Day",
-            "tm": "TM11"
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": "TM15"
-        },
-        {
-            "move": "Protect",
-            "tm": "TM17"
-        },
-        {
-            "move": "Rain Dance",
-            "tm": "TM18"
-        },
-        {
-            "move": "Roost",
-            "tm": "TM19"
-        },
-        {
-            "move": "Frustration",
-            "tm": "TM21"
-        },
-        {
-            "move": "Return",
-            "tm": "TM27"
-        },
-        {
-            "move": "Double Team",
-            "tm": "TM32"
-        },
-        {
-            "move": "Aerial Ace",
-            "tm": "TM40"
-        },
-        {
-            "move": "Facade",
-            "tm": "TM42"
-        },
-        {
-            "move": "Rest",
-            "tm": "TM44"
-        },
-        {
-            "move": "Attract",
-            "tm": "TM45"
-        },
-        {
-            "move": "Thief",
-            "tm": "TM46"
-        },
-        {
-            "move": "Round",
-            "tm": "TM48"
-        },
-        {
-            "move": "Echoed Voice",
-            "tm": "TM49"
-        },
-        {
-            "move": "Steel Wing",
-            "tm": "TM51"
-        },
-        {
-            "move": "Giga Impact",
-            "tm": "TM68"
-        },
-        {
-            "move": "Fly",
-            "tm": "TM76"
-        },
-        {
-            "move": "Swagger",
-            "tm": "TM87"
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": "TM88"
-        },
-        {
-            "move": "U-turn",
-            "tm": "TM89"
-        },
-        {
-            "move": "Substitute",
-            "tm": "TM90"
-        },
-        {
-            "move": "Confide",
-            "tm": "TM100"
-        }
-    ]
+	"name": "Swellow",
+	"national_id": 277,
+	"types": ["Normal", "Flying"],
+	"items": [
+		{
+			"name": "Charti Berry",
+			"chance": 5
+		}
+	],
+	"abilities": [
+		{
+			"name": "Guts"
+		},
+		{
+			"name": "Scrappy",
+			"hidden": true
+		}
+	],
+	"catch_rate": 45,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Flying"],
+	"hatch_time": [4080, 4334],
+	"height_us": "2'04\"",
+	"height_eu": "0.7 m",
+	"weight_us": "43.7 lbs.",
+	"weight_eu": "19.8 kg",
+	"base_exp_yield": 151,
+	"leveling_rate": "Medium Slow",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 2
+	},
+	"base_stats": {
+		"hp": 60,
+		"atk": 85,
+		"def": 60,
+		"sp_atk": 50,
+		"sp_def": 50,
+		"speed": 125
+	},
+	"evolution_from": "Taillow",
+	"evolutions": [],
+	"species": "Swallow Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "Swellow is very conscientious about the upkeep of its glossy wings. Once two Swellow are gathered, they diligently take care of cleaning each other’s wings.",
+	"move_learnset": [
+		{
+			"move": "Air Slash",
+			"level": 1
+		},
+		{
+			"move": "Brave Bird",
+			"level": 1
+		},
+		{
+			"move": "Focus Energy",
+			"level": 1
+		},
+		{
+			"move": "Growl",
+			"level": 1
+		},
+		{
+			"move": "Peck",
+			"level": 1
+		},
+		{
+			"move": "Pluck",
+			"level": 1
+		},
+		{
+			"move": "Quick Attack",
+			"level": 1
+		},
+		{
+			"move": "Focus Energy",
+			"level": 5
+		},
+		{
+			"move": "Quick Attack",
+			"level": 9
+		},
+		{
+			"move": "Wing Attack",
+			"level": 13
+		},
+		{
+			"move": "Double Team",
+			"level": 17
+		},
+		{
+			"move": "Aerial Ace",
+			"level": 21
+		},
+		{
+			"move": "Quick Guard",
+			"level": 27
+		},
+		{
+			"move": "Agility",
+			"level": 33
+		},
+		{
+			"move": "Air Slash",
+			"level": 39
+		},
+		{
+			"move": "Endeavor",
+			"level": 45
+		},
+		{
+			"move": "Brave Bird",
+			"level": 51
+		},
+		{
+			"move": "Reversal",
+			"level": 57
+		},
+		{
+			"move": "Boomburst",
+			"egg_move": true
+		},
+		{
+			"move": "Brave Bird",
+			"egg_move": true
+		},
+		{
+			"move": "Defog",
+			"egg_move": true
+		},
+		{
+			"move": "Hurricane",
+			"egg_move": true
+		},
+		{
+			"move": "Mirror Move",
+			"egg_move": true
+		},
+		{
+			"move": "Pursuit",
+			"egg_move": true
+		},
+		{
+			"move": "Rage",
+			"egg_move": true
+		},
+		{
+			"move": "Refresh",
+			"egg_move": true
+		},
+		{
+			"move": "Roost",
+			"egg_move": true
+		},
+		{
+			"move": "Sky Attack",
+			"egg_move": true
+		},
+		{
+			"move": "Steel Wing",
+			"egg_move": true
+		},
+		{
+			"move": "Supersonic",
+			"egg_move": true
+		},
+		{
+			"move": "Whirlwind",
+			"egg_move": true
+		},
+		{
+			"move": "Work Up",
+			"tm": "TM1"
+		},
+		{
+			"move": "Toxic",
+			"tm": "TM6"
+		},
+		{
+			"move": "Hidden Power",
+			"tm": "TM10"
+		},
+		{
+			"move": "Sunny Day",
+			"tm": "TM11"
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": "TM15"
+		},
+		{
+			"move": "Protect",
+			"tm": "TM17"
+		},
+		{
+			"move": "Rain Dance",
+			"tm": "TM18"
+		},
+		{
+			"move": "Roost",
+			"tm": "TM19"
+		},
+		{
+			"move": "Frustration",
+			"tm": "TM21"
+		},
+		{
+			"move": "Return",
+			"tm": "TM27"
+		},
+		{
+			"move": "Double Team",
+			"tm": "TM32"
+		},
+		{
+			"move": "Aerial Ace",
+			"tm": "TM40"
+		},
+		{
+			"move": "Facade",
+			"tm": "TM42"
+		},
+		{
+			"move": "Rest",
+			"tm": "TM44"
+		},
+		{
+			"move": "Attract",
+			"tm": "TM45"
+		},
+		{
+			"move": "Thief",
+			"tm": "TM46"
+		},
+		{
+			"move": "Round",
+			"tm": "TM48"
+		},
+		{
+			"move": "Echoed Voice",
+			"tm": "TM49"
+		},
+		{
+			"move": "Steel Wing",
+			"tm": "TM51"
+		},
+		{
+			"move": "Giga Impact",
+			"tm": "TM68"
+		},
+		{
+			"move": "Fly",
+			"tm": "TM76"
+		},
+		{
+			"move": "Swagger",
+			"tm": "TM87"
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": "TM88"
+		},
+		{
+			"move": "U-turn",
+			"tm": "TM89"
+		},
+		{
+			"move": "Substitute",
+			"tm": "TM90"
+		},
+		{
+			"move": "Confide",
+			"tm": "TM100"
+		}
+	]
 }

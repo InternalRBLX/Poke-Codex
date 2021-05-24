@@ -1,319 +1,311 @@
 {
-    "name": "Decidueye",
-    "national_id": 724,
-    "types": [
-        "Grass",
-        "Ghost"
-    ],
-    "abilities": [
-        {
-            "name": "Overgrow"
-        },
-        {
-            "name": "Long Reach",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 45,
-    "gender_ratios": {
-        "male": 87.5,
-        "female": 12.5
-    },
-    "egg_groups": [
-        "Flying"
-    ],
-    "hatch_time": [
-        3855,
-        4111
-    ],
-    "height_us": "5'03\"",
-    "height_eu": "1.6 m",
-    "weight_us": "80.7 lbs.",
-    "weight_eu": "36.6 kg",
-    "base_exp_yield": 239,
-    "leveling_rate": "Medium Slow",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 3,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 78,
-        "atk": 107,
-        "def": 75,
-        "sp_atk": 100,
-        "sp_def": 100,
-        "speed": 70
-    },
-    "evolution_from": "Dartrix",
-    "evolutions": [],
-    "species": "Arrow Quill Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "In a tenth of a second, it can nock and fire an arrow quill, piercing an opponent’s weak point before they notice what’s happening.",
-    "move_learnset": [
-        {
-            "move": "Spirit Shackle",
-            "evo": true
-        },
-        {
-            "move": "Spirit Shackle",
-            "level": 1
-        },
-        {
-            "move": "Phantom Force",
-            "level": 1
-        },
-        {
-            "move": "Leaf Storm",
-            "level": 1
-        },
-        {
-            "move": "U-turn",
-            "level": 1
-        },
-        {
-            "move": "Spite",
-            "level": 1
-        },
-        {
-            "move": "Tackle",
-            "level": 1
-        },
-        {
-            "move": "Growl",
-            "level": 1
-        },
-        {
-            "move": "Leafage",
-            "level": 1
-        },
-        {
-            "move": "Astonish",
-            "level": 1
-        },
-        {
-            "move": "Peck",
-            "level": 9
-        },
-        {
-            "move": "Shadow Sneak",
-            "level": 12
-        },
-        {
-            "move": "Razor Leaf",
-            "level": 15
-        },
-        {
-            "move": "Synthesis",
-            "level": 20
-        },
-        {
-            "move": "Pluck",
-            "level": 25
-        },
-        {
-            "move": "Nasty Plot",
-            "level": 30
-        },
-        {
-            "move": "Sucker Punch",
-            "level": 37
-        },
-        {
-            "move": "Leaf Blade",
-            "level": 44
-        },
-        {
-            "move": "Feather Dance",
-            "level": 51
-        },
-        {
-            "move": "Brave Bird",
-            "level": 58
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": true
-        },
-        {
-            "move": "Giga Impact",
-            "tm": true
-        },
-        {
-            "move": "Solar Beam",
-            "tm": true
-        },
-        {
-            "move": "Solar Blade",
-            "tm": true
-        },
-        {
-            "move": "Light Screen",
-            "tm": true
-        },
-        {
-            "move": "Safeguard",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Giga Drain",
-            "tm": true
-        },
-        {
-            "move": "Steel Wing",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Sunny Day",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Swift",
-            "tm": true
-        },
-        {
-            "move": "Imprison",
-            "tm": true
-        },
-        {
-            "move": "U-turn",
-            "tm": true
-        },
-        {
-            "move": "Shadow Claw",
-            "tm": true
-        },
-        {
-            "move": "Psycho Cut",
-            "tm": true
-        },
-        {
-            "move": "Low Sweep",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Hex",
-            "tm": true
-        },
-        {
-            "move": "Acrobatics",
-            "tm": true
-        },
-        {
-            "move": "Phantom Force",
-            "tm": true
-        },
-        {
-            "move": "False Swipe",
-            "tm": true
-        },
-        {
-            "move": "Air Slash",
-            "tm": true
-        },
-        {
-            "move": "Swords Dance",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Baton Pass",
-            "tm": true
-        },
-        {
-            "move": "Shadow Ball",
-            "tm": true
-        },
-        {
-            "move": "Leaf Blade",
-            "tm": true
-        },
-        {
-            "move": "Seed Bomb",
-            "tm": true
-        },
-        {
-            "move": "Energy Ball",
-            "tm": true
-        },
-        {
-            "move": "Brave Bird",
-            "tm": true
-        },
-        {
-            "move": "Nasty Plot",
-            "tm": true
-        },
-        {
-            "move": "Leaf Storm",
-            "tm": true
-        },
-        {
-            "move": "Grass Knot",
-            "tm": true
-        },
-        {
-            "move": "Work Up",
-            "tm": true
-        },
-        {
-            "move": "Hurricane",
-            "tm": true
-        },
-        {
-            "move": "Confuse Ray",
-            "egg_move": true
-        },
-        {
-            "move": "Defog",
-            "egg_move": true
-        },
-        {
-            "move": "Knock Off",
-            "egg_move": true
-        },
-        {
-            "move": "Double Team",
-            "egg_move": true
-        }
-    ]
+	"name": "Decidueye",
+	"national_id": 724,
+	"types": ["Grass", "Ghost"],
+	"abilities": [
+		{
+			"name": "Overgrow"
+		},
+		{
+			"name": "Long Reach",
+			"hidden": true
+		}
+	],
+	"catch_rate": 45,
+	"gender_ratios": {
+		"male": 87.5,
+		"female": 12.5
+	},
+	"egg_groups": ["Flying"],
+	"hatch_time": [3855, 4111],
+	"height_us": "5'03\"",
+	"height_eu": "1.6 m",
+	"weight_us": "80.7 lbs.",
+	"weight_eu": "36.6 kg",
+	"base_exp_yield": 239,
+	"leveling_rate": "Medium Slow",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 3,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 78,
+		"atk": 107,
+		"def": 75,
+		"sp_atk": 100,
+		"sp_def": 100,
+		"speed": 70
+	},
+	"evolution_from": "Dartrix",
+	"evolutions": [],
+	"species": "Arrow Quill Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "In a tenth of a second, it can nock and fire an arrow quill, piercing an opponent’s weak point before they notice what’s happening.",
+	"move_learnset": [
+		{
+			"move": "Spirit Shackle",
+			"evo": true
+		},
+		{
+			"move": "Spirit Shackle",
+			"level": 1
+		},
+		{
+			"move": "Phantom Force",
+			"level": 1
+		},
+		{
+			"move": "Leaf Storm",
+			"level": 1
+		},
+		{
+			"move": "U-turn",
+			"level": 1
+		},
+		{
+			"move": "Spite",
+			"level": 1
+		},
+		{
+			"move": "Tackle",
+			"level": 1
+		},
+		{
+			"move": "Growl",
+			"level": 1
+		},
+		{
+			"move": "Leafage",
+			"level": 1
+		},
+		{
+			"move": "Astonish",
+			"level": 1
+		},
+		{
+			"move": "Peck",
+			"level": 9
+		},
+		{
+			"move": "Shadow Sneak",
+			"level": 12
+		},
+		{
+			"move": "Razor Leaf",
+			"level": 15
+		},
+		{
+			"move": "Synthesis",
+			"level": 20
+		},
+		{
+			"move": "Pluck",
+			"level": 25
+		},
+		{
+			"move": "Nasty Plot",
+			"level": 30
+		},
+		{
+			"move": "Sucker Punch",
+			"level": 37
+		},
+		{
+			"move": "Leaf Blade",
+			"level": 44
+		},
+		{
+			"move": "Feather Dance",
+			"level": 51
+		},
+		{
+			"move": "Brave Bird",
+			"level": 58
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": true
+		},
+		{
+			"move": "Giga Impact",
+			"tm": true
+		},
+		{
+			"move": "Solar Beam",
+			"tm": true
+		},
+		{
+			"move": "Solar Blade",
+			"tm": true
+		},
+		{
+			"move": "Light Screen",
+			"tm": true
+		},
+		{
+			"move": "Safeguard",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Giga Drain",
+			"tm": true
+		},
+		{
+			"move": "Steel Wing",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Sunny Day",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Swift",
+			"tm": true
+		},
+		{
+			"move": "Imprison",
+			"tm": true
+		},
+		{
+			"move": "U-turn",
+			"tm": true
+		},
+		{
+			"move": "Shadow Claw",
+			"tm": true
+		},
+		{
+			"move": "Psycho Cut",
+			"tm": true
+		},
+		{
+			"move": "Low Sweep",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Hex",
+			"tm": true
+		},
+		{
+			"move": "Acrobatics",
+			"tm": true
+		},
+		{
+			"move": "Phantom Force",
+			"tm": true
+		},
+		{
+			"move": "False Swipe",
+			"tm": true
+		},
+		{
+			"move": "Air Slash",
+			"tm": true
+		},
+		{
+			"move": "Swords Dance",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Baton Pass",
+			"tm": true
+		},
+		{
+			"move": "Shadow Ball",
+			"tm": true
+		},
+		{
+			"move": "Leaf Blade",
+			"tm": true
+		},
+		{
+			"move": "Seed Bomb",
+			"tm": true
+		},
+		{
+			"move": "Energy Ball",
+			"tm": true
+		},
+		{
+			"move": "Brave Bird",
+			"tm": true
+		},
+		{
+			"move": "Nasty Plot",
+			"tm": true
+		},
+		{
+			"move": "Leaf Storm",
+			"tm": true
+		},
+		{
+			"move": "Grass Knot",
+			"tm": true
+		},
+		{
+			"move": "Work Up",
+			"tm": true
+		},
+		{
+			"move": "Hurricane",
+			"tm": true
+		},
+		{
+			"move": "Confuse Ray",
+			"egg_move": true
+		},
+		{
+			"move": "Defog",
+			"egg_move": true
+		},
+		{
+			"move": "Knock Off",
+			"egg_move": true
+		},
+		{
+			"move": "Double Team",
+			"egg_move": true
+		}
+	]
 }

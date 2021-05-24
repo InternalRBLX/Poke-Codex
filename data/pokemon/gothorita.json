@@ -1,320 +1,313 @@
 {
-    "name": "Gothorita",
-    "national_id": 575,
-    "types": [
-        "Psychic"
-    ],
-    "items": [
-        {
-            "name": "Persim Berry",
-            "chance": 50
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Frisk"
-        },
-        {
-            "name": "Competitive"
-        },
-        {
-            "name": "Shadow Tag",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 100,
-    "gender_ratios": {
-        "male": 25,
-        "female": 75
-    },
-    "egg_groups": [
-        "Human-Like"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "2'04\"",
-    "height_eu": "0.7 m",
-    "weight_us": "39.7 lbs.",
-    "weight_eu": "18.0 kg",
-    "base_exp_yield": 137,
-    "leveling_rate": "Medium Slow",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 2,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 60,
-        "atk": 45,
-        "def": 70,
-        "sp_atk": 75,
-        "sp_def": 85,
-        "speed": 55
-    },
-    "evolution_from": "Gothita",
-    "evolutions": [
-        {
-            "to": "Gothitelle",
-            "level": 41
-        }
-    ],
-    "species": "Manipulate Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "On nights when the stars shine, this Pokémon’s psychic power is at its strongest. It’s unknown just what link Gothorita has to the greater universe.",
-    "move_learnset": [
-        {
-            "move": "Pound",
-            "level": 1
-        },
-        {
-            "move": "Confusion",
-            "level": 1
-        },
-        {
-            "move": "Play Nice",
-            "level": 1
-        },
-        {
-            "move": "Tickle",
-            "level": 1
-        },
-        {
-            "move": "Psybeam",
-            "level": 12
-        },
-        {
-            "move": "Charm",
-            "level": 16
-        },
-        {
-            "move": "Psyshock",
-            "level": 20
-        },
-        {
-            "move": "Hypnosis",
-            "level": 24
-        },
-        {
-            "move": "Fake Tears",
-            "level": 28
-        },
-        {
-            "move": "Psych Up",
-            "level": 35
-        },
-        {
-            "move": "Psychic",
-            "level": 40
-        },
-        {
-            "move": "Flatter",
-            "level": 46
-        },
-        {
-            "move": "Future Sight",
-            "level": 52
-        },
-        {
-            "move": "Magic Room",
-            "level": 58
-        },
-        {
-            "move": "Thunder Wave",
-            "tm": true
-        },
-        {
-            "move": "Light Screen",
-            "tm": true
-        },
-        {
-            "move": "Reflect",
-            "tm": true
-        },
-        {
-            "move": "Safeguard",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Rock Slide",
-            "tm": true
-        },
-        {
-            "move": "Thief",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Charm",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Rain Dance",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Helping Hand",
-            "tm": true
-        },
-        {
-            "move": "Fake Tears",
-            "tm": true
-        },
-        {
-            "move": "Rock Tomb",
-            "tm": true
-        },
-        {
-            "move": "Payback",
-            "tm": true
-        },
-        {
-            "move": "Fling",
-            "tm": true
-        },
-        {
-            "move": "Guard Swap",
-            "tm": true
-        },
-        {
-            "move": "Trick Room",
-            "tm": true
-        },
-        {
-            "move": "Magic Room",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Thunderbolt",
-            "tm": true
-        },
-        {
-            "move": "Psychic",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Psyshock",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Shadow Ball",
-            "tm": true
-        },
-        {
-            "move": "Future Sight",
-            "tm": true
-        },
-        {
-            "move": "Uproar",
-            "tm": true
-        },
-        {
-            "move": "Taunt",
-            "tm": true
-        },
-        {
-            "move": "Trick",
-            "tm": true
-        },
-        {
-            "move": "Skill Swap",
-            "tm": true
-        },
-        {
-            "move": "Calm Mind",
-            "tm": true
-        },
-        {
-            "move": "Dark Pulse",
-            "tm": true
-        },
-        {
-            "move": "Energy Ball",
-            "tm": true
-        },
-        {
-            "move": "Nasty Plot",
-            "tm": true
-        },
-        {
-            "move": "Zen Headbutt",
-            "tm": true
-        },
-        {
-            "move": "Grass Knot",
-            "tm": true
-        },
-        {
-            "move": "Foul Play",
-            "tm": true
-        },
-        {
-            "move": "Stored Power",
-            "tm": true
-        },
-        {
-            "move": "Ally Switch",
-            "tm": true
-        },
-        {
-            "move": "Mirror Coat",
-            "egg_move": true
-        },
-        {
-            "move": "Mean Look",
-            "egg_move": true
-        },
-        {
-            "move": "Heal Pulse",
-            "egg_move": true
-        },
-        {
-            "move": "Torment",
-            "egg_move": true
-        },
-        {
-            "move": "Fake Out",
-            "egg_move": true
-        }
-    ]
+	"name": "Gothorita",
+	"national_id": 575,
+	"types": ["Psychic"],
+	"items": [
+		{
+			"name": "Persim Berry",
+			"chance": 50
+		}
+	],
+	"abilities": [
+		{
+			"name": "Frisk"
+		},
+		{
+			"name": "Competitive"
+		},
+		{
+			"name": "Shadow Tag",
+			"hidden": true
+		}
+	],
+	"catch_rate": 100,
+	"gender_ratios": {
+		"male": 25,
+		"female": 75
+	},
+	"egg_groups": ["Human-Like"],
+	"hatch_time": [5355, 5609],
+	"height_us": "2'04\"",
+	"height_eu": "0.7 m",
+	"weight_us": "39.7 lbs.",
+	"weight_eu": "18.0 kg",
+	"base_exp_yield": 137,
+	"leveling_rate": "Medium Slow",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 2,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 60,
+		"atk": 45,
+		"def": 70,
+		"sp_atk": 75,
+		"sp_def": 85,
+		"speed": 55
+	},
+	"evolution_from": "Gothita",
+	"evolutions": [
+		{
+			"to": "Gothitelle",
+			"level": 41
+		}
+	],
+	"species": "Manipulate Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "On nights when the stars shine, this Pokémon’s psychic power is at its strongest. It’s unknown just what link Gothorita has to the greater universe.",
+	"move_learnset": [
+		{
+			"move": "Pound",
+			"level": 1
+		},
+		{
+			"move": "Confusion",
+			"level": 1
+		},
+		{
+			"move": "Play Nice",
+			"level": 1
+		},
+		{
+			"move": "Tickle",
+			"level": 1
+		},
+		{
+			"move": "Psybeam",
+			"level": 12
+		},
+		{
+			"move": "Charm",
+			"level": 16
+		},
+		{
+			"move": "Psyshock",
+			"level": 20
+		},
+		{
+			"move": "Hypnosis",
+			"level": 24
+		},
+		{
+			"move": "Fake Tears",
+			"level": 28
+		},
+		{
+			"move": "Psych Up",
+			"level": 35
+		},
+		{
+			"move": "Psychic",
+			"level": 40
+		},
+		{
+			"move": "Flatter",
+			"level": 46
+		},
+		{
+			"move": "Future Sight",
+			"level": 52
+		},
+		{
+			"move": "Magic Room",
+			"level": 58
+		},
+		{
+			"move": "Thunder Wave",
+			"tm": true
+		},
+		{
+			"move": "Light Screen",
+			"tm": true
+		},
+		{
+			"move": "Reflect",
+			"tm": true
+		},
+		{
+			"move": "Safeguard",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Rock Slide",
+			"tm": true
+		},
+		{
+			"move": "Thief",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Charm",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Rain Dance",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Helping Hand",
+			"tm": true
+		},
+		{
+			"move": "Fake Tears",
+			"tm": true
+		},
+		{
+			"move": "Rock Tomb",
+			"tm": true
+		},
+		{
+			"move": "Payback",
+			"tm": true
+		},
+		{
+			"move": "Fling",
+			"tm": true
+		},
+		{
+			"move": "Guard Swap",
+			"tm": true
+		},
+		{
+			"move": "Trick Room",
+			"tm": true
+		},
+		{
+			"move": "Magic Room",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Thunderbolt",
+			"tm": true
+		},
+		{
+			"move": "Psychic",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Psyshock",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Shadow Ball",
+			"tm": true
+		},
+		{
+			"move": "Future Sight",
+			"tm": true
+		},
+		{
+			"move": "Uproar",
+			"tm": true
+		},
+		{
+			"move": "Taunt",
+			"tm": true
+		},
+		{
+			"move": "Trick",
+			"tm": true
+		},
+		{
+			"move": "Skill Swap",
+			"tm": true
+		},
+		{
+			"move": "Calm Mind",
+			"tm": true
+		},
+		{
+			"move": "Dark Pulse",
+			"tm": true
+		},
+		{
+			"move": "Energy Ball",
+			"tm": true
+		},
+		{
+			"move": "Nasty Plot",
+			"tm": true
+		},
+		{
+			"move": "Zen Headbutt",
+			"tm": true
+		},
+		{
+			"move": "Grass Knot",
+			"tm": true
+		},
+		{
+			"move": "Foul Play",
+			"tm": true
+		},
+		{
+			"move": "Stored Power",
+			"tm": true
+		},
+		{
+			"move": "Ally Switch",
+			"tm": true
+		},
+		{
+			"move": "Mirror Coat",
+			"egg_move": true
+		},
+		{
+			"move": "Mean Look",
+			"egg_move": true
+		},
+		{
+			"move": "Heal Pulse",
+			"egg_move": true
+		},
+		{
+			"move": "Torment",
+			"egg_move": true
+		},
+		{
+			"move": "Fake Out",
+			"egg_move": true
+		}
+	]
 }

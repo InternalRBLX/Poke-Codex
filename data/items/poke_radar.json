@@ -1,8 +1,8 @@
 {
-    "name": "Poké Radar",
-    "sell_price": null,
-    "holdable": false,
-    "battle": false,
-    "category": "Key Item",
-    "subcategory": "Passive"
+	"name": "Poké Radar",
+	"sell_price": null,
+	"holdable": false,
+	"battle": false,
+	"category": "Key Item",
+	"subcategory": "Passive"
 }

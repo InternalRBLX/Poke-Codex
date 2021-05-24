@@ -1,317 +1,310 @@
 {
-    "name": "Kingler",
-    "national_id": 99,
-    "types": [
-        "Water"
-    ],
-    "abilities": [
-        {
-            "name": "Hyper Cutter"
-        },
-        {
-            "name": "Shell Armor"
-        },
-        {
-            "name": "Sheer Force",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 60,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Water 3"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "4'03\"",
-    "height_eu": "1.3 m",
-    "weight_us": "132.3 lbs.",
-    "weight_eu": "60.0 kg",
-    "base_exp_yield": 166,
-    "leveling_rate": "Medium Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 2,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 55,
-        "atk": 130,
-        "def": 115,
-        "sp_atk": 50,
-        "sp_def": 50,
-        "speed": 75
-    },
-    "evolution_from": "Krabby",
-    "evolutions": [],
-    "species": "Pincer Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "Its oversized claw is very powerful, but when it’s not in battle, the claw just gets in the way.",
-    "move_learnset": [
-        {
-            "move": "Wide Guard",
-            "level": 1
-        },
-        {
-            "move": "Hammer Arm",
-            "level": 1
-        },
-        {
-            "move": "Water Gun",
-            "level": 1
-        },
-        {
-            "move": "Leer",
-            "level": 1
-        },
-        {
-            "move": "Harden",
-            "level": 1
-        },
-        {
-            "move": "Metal Claw",
-            "level": 1
-        },
-        {
-            "move": "Mud Shot",
-            "level": 12
-        },
-        {
-            "move": "Protect",
-            "level": 16
-        },
-        {
-            "move": "Bubble Beam",
-            "level": 20
-        },
-        {
-            "move": "Stomp",
-            "level": 24
-        },
-        {
-            "move": "Flail",
-            "level": 31
-        },
-        {
-            "move": "Razor Shell",
-            "level": 36
-        },
-        {
-            "move": "Slam",
-            "level": 42
-        },
-        {
-            "move": "Swords Dance",
-            "level": 48
-        },
-        {
-            "move": "Crabhammer",
-            "level": 54
-        },
-        {
-            "move": "Guillotine",
-            "level": 60
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": true
-        },
-        {
-            "move": "Giga Impact",
-            "tm": true
-        },
-        {
-            "move": "Dig",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Rock Slide",
-            "tm": true
-        },
-        {
-            "move": "Thief",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Icy Wind",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Rain Dance",
-            "tm": true
-        },
-        {
-            "move": "Hail",
-            "tm": true
-        },
-        {
-            "move": "Whirlpool",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Brick Break",
-            "tm": true
-        },
-        {
-            "move": "Dive",
-            "tm": true
-        },
-        {
-            "move": "Rock Tomb",
-            "tm": true
-        },
-        {
-            "move": "Mud Shot",
-            "tm": true
-        },
-        {
-            "move": "Brine",
-            "tm": true
-        },
-        {
-            "move": "Fling",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Razor Shell",
-            "tm": true
-        },
-        {
-            "move": "False Swipe",
-            "tm": true
-        },
-        {
-            "move": "Brutal Swing",
-            "tm": true
-        },
-        {
-            "move": "Stomping Tantrum",
-            "tm": true
-        },
-        {
-            "move": "Swords Dance",
-            "tm": true
-        },
-        {
-            "move": "Body Slam",
-            "tm": true
-        },
-        {
-            "move": "Hydro Pump",
-            "tm": true
-        },
-        {
-            "move": "Surf",
-            "tm": true
-        },
-        {
-            "move": "Ice Beam",
-            "tm": true
-        },
-        {
-            "move": "Blizzard",
-            "tm": true
-        },
-        {
-            "move": "Agility",
-            "tm": true
-        },
-        {
-            "move": "Amnesia",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Superpower",
-            "tm": true
-        },
-        {
-            "move": "Iron Defense",
-            "tm": true
-        },
-        {
-            "move": "X-Scissor",
-            "tm": true
-        },
-        {
-            "move": "Ally Switch",
-            "tm": true
-        },
-        {
-            "move": "Scald",
-            "tm": true
-        },
-        {
-            "move": "High Horsepower",
-            "tm": true
-        },
-        {
-            "move": "Liquidation",
-            "tm": true
-        },
-        {
-            "move": "Knock Off",
-            "egg_move": true
-        },
-        {
-            "move": "Ancient Power",
-            "egg_move": true
-        },
-        {
-            "move": "Hammer Arm",
-            "egg_move": true
-        },
-        {
-            "move": "Slash",
-            "egg_move": true
-        },
-        {
-            "move": "Night Slash",
-            "egg_move": true
-        }
-    ]
+	"name": "Kingler",
+	"national_id": 99,
+	"types": ["Water"],
+	"abilities": [
+		{
+			"name": "Hyper Cutter"
+		},
+		{
+			"name": "Shell Armor"
+		},
+		{
+			"name": "Sheer Force",
+			"hidden": true
+		}
+	],
+	"catch_rate": 60,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Water 3"],
+	"hatch_time": [5355, 5609],
+	"height_us": "4'03\"",
+	"height_eu": "1.3 m",
+	"weight_us": "132.3 lbs.",
+	"weight_eu": "60.0 kg",
+	"base_exp_yield": 166,
+	"leveling_rate": "Medium Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 2,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 55,
+		"atk": 130,
+		"def": 115,
+		"sp_atk": 50,
+		"sp_def": 50,
+		"speed": 75
+	},
+	"evolution_from": "Krabby",
+	"evolutions": [],
+	"species": "Pincer Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "Its oversized claw is very powerful, but when it’s not in battle, the claw just gets in the way.",
+	"move_learnset": [
+		{
+			"move": "Wide Guard",
+			"level": 1
+		},
+		{
+			"move": "Hammer Arm",
+			"level": 1
+		},
+		{
+			"move": "Water Gun",
+			"level": 1
+		},
+		{
+			"move": "Leer",
+			"level": 1
+		},
+		{
+			"move": "Harden",
+			"level": 1
+		},
+		{
+			"move": "Metal Claw",
+			"level": 1
+		},
+		{
+			"move": "Mud Shot",
+			"level": 12
+		},
+		{
+			"move": "Protect",
+			"level": 16
+		},
+		{
+			"move": "Bubble Beam",
+			"level": 20
+		},
+		{
+			"move": "Stomp",
+			"level": 24
+		},
+		{
+			"move": "Flail",
+			"level": 31
+		},
+		{
+			"move": "Razor Shell",
+			"level": 36
+		},
+		{
+			"move": "Slam",
+			"level": 42
+		},
+		{
+			"move": "Swords Dance",
+			"level": 48
+		},
+		{
+			"move": "Crabhammer",
+			"level": 54
+		},
+		{
+			"move": "Guillotine",
+			"level": 60
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": true
+		},
+		{
+			"move": "Giga Impact",
+			"tm": true
+		},
+		{
+			"move": "Dig",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Rock Slide",
+			"tm": true
+		},
+		{
+			"move": "Thief",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Icy Wind",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Rain Dance",
+			"tm": true
+		},
+		{
+			"move": "Hail",
+			"tm": true
+		},
+		{
+			"move": "Whirlpool",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Brick Break",
+			"tm": true
+		},
+		{
+			"move": "Dive",
+			"tm": true
+		},
+		{
+			"move": "Rock Tomb",
+			"tm": true
+		},
+		{
+			"move": "Mud Shot",
+			"tm": true
+		},
+		{
+			"move": "Brine",
+			"tm": true
+		},
+		{
+			"move": "Fling",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Razor Shell",
+			"tm": true
+		},
+		{
+			"move": "False Swipe",
+			"tm": true
+		},
+		{
+			"move": "Brutal Swing",
+			"tm": true
+		},
+		{
+			"move": "Stomping Tantrum",
+			"tm": true
+		},
+		{
+			"move": "Swords Dance",
+			"tm": true
+		},
+		{
+			"move": "Body Slam",
+			"tm": true
+		},
+		{
+			"move": "Hydro Pump",
+			"tm": true
+		},
+		{
+			"move": "Surf",
+			"tm": true
+		},
+		{
+			"move": "Ice Beam",
+			"tm": true
+		},
+		{
+			"move": "Blizzard",
+			"tm": true
+		},
+		{
+			"move": "Agility",
+			"tm": true
+		},
+		{
+			"move": "Amnesia",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Superpower",
+			"tm": true
+		},
+		{
+			"move": "Iron Defense",
+			"tm": true
+		},
+		{
+			"move": "X-Scissor",
+			"tm": true
+		},
+		{
+			"move": "Ally Switch",
+			"tm": true
+		},
+		{
+			"move": "Scald",
+			"tm": true
+		},
+		{
+			"move": "High Horsepower",
+			"tm": true
+		},
+		{
+			"move": "Liquidation",
+			"tm": true
+		},
+		{
+			"move": "Knock Off",
+			"egg_move": true
+		},
+		{
+			"move": "Ancient Power",
+			"egg_move": true
+		},
+		{
+			"move": "Hammer Arm",
+			"egg_move": true
+		},
+		{
+			"move": "Slash",
+			"egg_move": true
+		},
+		{
+			"move": "Night Slash",
+			"egg_move": true
+		}
+	]
 }

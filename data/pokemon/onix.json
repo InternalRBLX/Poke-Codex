@@ -1,334 +1,326 @@
 {
-    "name": "Onix",
-    "national_id": 95,
-    "types": [
-        "Rock",
-        "Ground"
-    ],
-    "items": [
-        {
-            "name": "Hard Stone",
-            "chance": 5
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Rock Head"
-        },
-        {
-            "name": "Sturdy"
-        },
-        {
-            "name": "Weak Armor",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 45,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Mineral"
-    ],
-    "hatch_time": [
-        6630,
-        6884
-    ],
-    "height_us": "28'10\"",
-    "height_eu": "8.8 m",
-    "weight_us": "463.0 lbs.",
-    "weight_eu": "210.0 kg",
-    "base_exp_yield": 77,
-    "leveling_rate": "Medium Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 1,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 35,
-        "atk": 45,
-        "def": 160,
-        "sp_atk": 30,
-        "sp_def": 45,
-        "speed": 70
-    },
-    "evolution_from": null,
-    "evolutions": [
-        {
-            "to": "Steelix",
-            "trade": true,
-            "hold_item": "Metal Coat"
-        }
-    ],
-    "species": "Rock Snake Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "It rapidly bores through the ground at 50 mph by squirming and twisting its massive, rugged body.",
-    "move_learnset": [
-        {
-            "move": "Tackle",
-            "level": 1
-        },
-        {
-            "move": "Harden",
-            "level": 1
-        },
-        {
-            "move": "Bind",
-            "level": 1
-        },
-        {
-            "move": "Rock Throw",
-            "level": 1
-        },
-        {
-            "move": "Smack Down",
-            "level": 4
-        },
-        {
-            "move": "Rock Polish",
-            "level": 8
-        },
-        {
-            "move": "Dragon Breath",
-            "level": 12
-        },
-        {
-            "move": "Curse",
-            "level": 16
-        },
-        {
-            "move": "Rock Slide",
-            "level": 20
-        },
-        {
-            "move": "Screech",
-            "level": 24
-        },
-        {
-            "move": "Sand Tomb",
-            "level": 28
-        },
-        {
-            "move": "Stealth Rock",
-            "level": 32
-        },
-        {
-            "move": "Slam",
-            "level": 36
-        },
-        {
-            "move": "Sandstorm",
-            "level": 40
-        },
-        {
-            "move": "Dig",
-            "level": 44
-        },
-        {
-            "move": "Iron Tail",
-            "level": 48
-        },
-        {
-            "move": "Stone Edge",
-            "level": 52
-        },
-        {
-            "move": "Double-Edge",
-            "level": 56
-        },
-        {
-            "move": "Dig",
-            "tm": true
-        },
-        {
-            "move": "Screech",
-            "tm": true
-        },
-        {
-            "move": "Self-Destruct",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Rock Slide",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Scary Face",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Sandstorm",
-            "tm": true
-        },
-        {
-            "move": "Sunny Day",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Rock Tomb",
-            "tm": true
-        },
-        {
-            "move": "Sand Tomb",
-            "tm": true
-        },
-        {
-            "move": "Rock Blast",
-            "tm": true
-        },
-        {
-            "move": "Payback",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Bulldoze",
-            "tm": true
-        },
-        {
-            "move": "Brutal Swing",
-            "tm": true
-        },
-        {
-            "move": "Stomping Tantrum",
-            "tm": true
-        },
-        {
-            "move": "Breaking Swipe",
-            "tm": true
-        },
-        {
-            "move": "Body Slam",
-            "tm": true
-        },
-        {
-            "move": "Earthquake",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Iron Tail",
-            "tm": true
-        },
-        {
-            "move": "Taunt",
-            "tm": true
-        },
-        {
-            "move": "Dragon Dance",
-            "tm": true
-        },
-        {
-            "move": "Gyro Ball",
-            "tm": true
-        },
-        {
-            "move": "Dragon Pulse",
-            "tm": true
-        },
-        {
-            "move": "Earth Power",
-            "tm": true
-        },
-        {
-            "move": "Flash Cannon",
-            "tm": true
-        },
-        {
-            "move": "Iron Head",
-            "tm": true
-        },
-        {
-            "move": "Stone Edge",
-            "tm": true
-        },
-        {
-            "move": "Stealth Rock",
-            "tm": true
-        },
-        {
-            "move": "Heavy Slam",
-            "tm": true
-        },
-        {
-            "move": "Drill Run",
-            "tm": true
-        },
-        {
-            "move": "High Horsepower",
-            "tm": true
-        },
-        {
-            "move": "Body Press",
-            "tm": true
-        },
-        {
-            "move": "Flail",
-            "egg_move": true
-        },
-        {
-            "move": "Block",
-            "egg_move": true
-        },
-        {
-            "move": "Defense Curl",
-            "egg_move": true
-        },
-        {
-            "move": "Wide Guard",
-            "egg_move": true
-        },
-        {
-            "move": "Rollout",
-            "egg_move": true
-        },
-        {
-            "move": "Dragon Tail",
-            "egg_move": true
-        },
-        {
-            "move": "Head Smash",
-            "egg_move": true
-        }
-    ]
+	"name": "Onix",
+	"national_id": 95,
+	"types": ["Rock", "Ground"],
+	"items": [
+		{
+			"name": "Hard Stone",
+			"chance": 5
+		}
+	],
+	"abilities": [
+		{
+			"name": "Rock Head"
+		},
+		{
+			"name": "Sturdy"
+		},
+		{
+			"name": "Weak Armor",
+			"hidden": true
+		}
+	],
+	"catch_rate": 45,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Mineral"],
+	"hatch_time": [6630, 6884],
+	"height_us": "28'10\"",
+	"height_eu": "8.8 m",
+	"weight_us": "463.0 lbs.",
+	"weight_eu": "210.0 kg",
+	"base_exp_yield": 77,
+	"leveling_rate": "Medium Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 1,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 35,
+		"atk": 45,
+		"def": 160,
+		"sp_atk": 30,
+		"sp_def": 45,
+		"speed": 70
+	},
+	"evolution_from": null,
+	"evolutions": [
+		{
+			"to": "Steelix",
+			"trade": true,
+			"hold_item": "Metal Coat"
+		}
+	],
+	"species": "Rock Snake Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "It rapidly bores through the ground at 50 mph by squirming and twisting its massive, rugged body.",
+	"move_learnset": [
+		{
+			"move": "Tackle",
+			"level": 1
+		},
+		{
+			"move": "Harden",
+			"level": 1
+		},
+		{
+			"move": "Bind",
+			"level": 1
+		},
+		{
+			"move": "Rock Throw",
+			"level": 1
+		},
+		{
+			"move": "Smack Down",
+			"level": 4
+		},
+		{
+			"move": "Rock Polish",
+			"level": 8
+		},
+		{
+			"move": "Dragon Breath",
+			"level": 12
+		},
+		{
+			"move": "Curse",
+			"level": 16
+		},
+		{
+			"move": "Rock Slide",
+			"level": 20
+		},
+		{
+			"move": "Screech",
+			"level": 24
+		},
+		{
+			"move": "Sand Tomb",
+			"level": 28
+		},
+		{
+			"move": "Stealth Rock",
+			"level": 32
+		},
+		{
+			"move": "Slam",
+			"level": 36
+		},
+		{
+			"move": "Sandstorm",
+			"level": 40
+		},
+		{
+			"move": "Dig",
+			"level": 44
+		},
+		{
+			"move": "Iron Tail",
+			"level": 48
+		},
+		{
+			"move": "Stone Edge",
+			"level": 52
+		},
+		{
+			"move": "Double-Edge",
+			"level": 56
+		},
+		{
+			"move": "Dig",
+			"tm": true
+		},
+		{
+			"move": "Screech",
+			"tm": true
+		},
+		{
+			"move": "Self-Destruct",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Rock Slide",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Scary Face",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Sandstorm",
+			"tm": true
+		},
+		{
+			"move": "Sunny Day",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Rock Tomb",
+			"tm": true
+		},
+		{
+			"move": "Sand Tomb",
+			"tm": true
+		},
+		{
+			"move": "Rock Blast",
+			"tm": true
+		},
+		{
+			"move": "Payback",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Bulldoze",
+			"tm": true
+		},
+		{
+			"move": "Brutal Swing",
+			"tm": true
+		},
+		{
+			"move": "Stomping Tantrum",
+			"tm": true
+		},
+		{
+			"move": "Breaking Swipe",
+			"tm": true
+		},
+		{
+			"move": "Body Slam",
+			"tm": true
+		},
+		{
+			"move": "Earthquake",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Iron Tail",
+			"tm": true
+		},
+		{
+			"move": "Taunt",
+			"tm": true
+		},
+		{
+			"move": "Dragon Dance",
+			"tm": true
+		},
+		{
+			"move": "Gyro Ball",
+			"tm": true
+		},
+		{
+			"move": "Dragon Pulse",
+			"tm": true
+		},
+		{
+			"move": "Earth Power",
+			"tm": true
+		},
+		{
+			"move": "Flash Cannon",
+			"tm": true
+		},
+		{
+			"move": "Iron Head",
+			"tm": true
+		},
+		{
+			"move": "Stone Edge",
+			"tm": true
+		},
+		{
+			"move": "Stealth Rock",
+			"tm": true
+		},
+		{
+			"move": "Heavy Slam",
+			"tm": true
+		},
+		{
+			"move": "Drill Run",
+			"tm": true
+		},
+		{
+			"move": "High Horsepower",
+			"tm": true
+		},
+		{
+			"move": "Body Press",
+			"tm": true
+		},
+		{
+			"move": "Flail",
+			"egg_move": true
+		},
+		{
+			"move": "Block",
+			"egg_move": true
+		},
+		{
+			"move": "Defense Curl",
+			"egg_move": true
+		},
+		{
+			"move": "Wide Guard",
+			"egg_move": true
+		},
+		{
+			"move": "Rollout",
+			"egg_move": true
+		},
+		{
+			"move": "Dragon Tail",
+			"egg_move": true
+		},
+		{
+			"move": "Head Smash",
+			"egg_move": true
+		}
+	]
 }

@@ -1,362 +1,354 @@
 {
-    "name": "Jirachi",
-    "national_id": 385,
-    "types": [
-        "Steel",
-        "Psychic"
-    ],
-    "items": [
-        {
-            "name": "Star Piece",
-            "chance": 100
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Serene Grace"
-        }
-    ],
-    "catch_rate": 3,
-    "gender_ratios": null,
-    "egg_groups": [
-        "Undiscovered"
-    ],
-    "hatch_time": [
-        30855,
-        31109
-    ],
-    "height_us": "1'00\"",
-    "height_eu": "0.3 m",
-    "weight_us": "2.4 lbs.",
-    "weight_eu": "1.1 kg",
-    "base_exp_yield": 270,
-    "leveling_rate": "Slow",
-    "base_friendship": 100,
-    "ev_yield": {
-        "hp": 3,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 100,
-        "atk": 100,
-        "def": 100,
-        "sp_atk": 100,
-        "sp_def": 100,
-        "speed": 100
-    },
-    "evolution_from": null,
-    "evolutions": [],
-    "species": "Wish Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "It’s believed that when this Pokémon wakes from its 1,000-year slumber, it will grant any wishes written on the notes attached to its head.",
-    "move_learnset": [
-        {
-            "move": "Confusion",
-            "level": 1
-        },
-        {
-            "move": "Wish",
-            "level": 1
-        },
-        {
-            "move": "Swift",
-            "level": 7
-        },
-        {
-            "move": "Helping Hand",
-            "level": 14
-        },
-        {
-            "move": "Life Dew",
-            "level": 21
-        },
-        {
-            "move": "Zen Headbutt",
-            "level": 28
-        },
-        {
-            "move": "Gravity",
-            "level": 35
-        },
-        {
-            "move": "Psychic",
-            "level": 42
-        },
-        {
-            "move": "Meteor Mash",
-            "level": 49
-        },
-        {
-            "move": "Healing Wish",
-            "level": 56
-        },
-        {
-            "move": "Rest",
-            "level": 63
-        },
-        {
-            "move": "Future Sight",
-            "level": 70
-        },
-        {
-            "move": "Double-Edge",
-            "level": 77
-        },
-        {
-            "move": "Cosmic Power",
-            "level": 84
-        },
-        {
-            "move": "Last Resort",
-            "level": 91
-        },
-        {
-            "move": "Doom Desire",
-            "level": 98
-        },
-        {
-            "move": "Mega Punch",
-            "tm": true
-        },
-        {
-            "move": "Mega Kick",
-            "tm": true
-        },
-        {
-            "move": "Fire Punch",
-            "tm": true
-        },
-        {
-            "move": "Ice Punch",
-            "tm": true
-        },
-        {
-            "move": "Thunder Punch",
-            "tm": true
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": true
-        },
-        {
-            "move": "Giga Impact",
-            "tm": true
-        },
-        {
-            "move": "Thunder Wave",
-            "tm": true
-        },
-        {
-            "move": "Light Screen",
-            "tm": true
-        },
-        {
-            "move": "Reflect",
-            "tm": true
-        },
-        {
-            "move": "Safeguard",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Icy Wind",
-            "tm": true
-        },
-        {
-            "move": "Charm",
-            "tm": true
-        },
-        {
-            "move": "Sandstorm",
-            "tm": true
-        },
-        {
-            "move": "Rain Dance",
-            "tm": true
-        },
-        {
-            "move": "Sunny Day",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Swift",
-            "tm": true
-        },
-        {
-            "move": "Helping Hand",
-            "tm": true
-        },
-        {
-            "move": "Imprison",
-            "tm": true
-        },
-        {
-            "move": "U-turn",
-            "tm": true
-        },
-        {
-            "move": "Fling",
-            "tm": true
-        },
-        {
-            "move": "Drain Punch",
-            "tm": true
-        },
-        {
-            "move": "Trick Room",
-            "tm": true
-        },
-        {
-            "move": "Magic Room",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Body Slam",
-            "tm": true
-        },
-        {
-            "move": "Thunderbolt",
-            "tm": true
-        },
-        {
-            "move": "Thunder",
-            "tm": true
-        },
-        {
-            "move": "Psychic",
-            "tm": true
-        },
-        {
-            "move": "Metronome",
-            "tm": true
-        },
-        {
-            "move": "Amnesia",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Psyshock",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Baton Pass",
-            "tm": true
-        },
-        {
-            "move": "Encore",
-            "tm": true
-        },
-        {
-            "move": "Shadow Ball",
-            "tm": true
-        },
-        {
-            "move": "Future Sight",
-            "tm": true
-        },
-        {
-            "move": "Uproar",
-            "tm": true
-        },
-        {
-            "move": "Trick",
-            "tm": true
-        },
-        {
-            "move": "Skill Swap",
-            "tm": true
-        },
-        {
-            "move": "Cosmic Power",
-            "tm": true
-        },
-        {
-            "move": "Iron Defense",
-            "tm": true
-        },
-        {
-            "move": "Calm Mind",
-            "tm": true
-        },
-        {
-            "move": "Aura Sphere",
-            "tm": true
-        },
-        {
-            "move": "Energy Ball",
-            "tm": true
-        },
-        {
-            "move": "Zen Headbutt",
-            "tm": true
-        },
-        {
-            "move": "Flash Cannon",
-            "tm": true
-        },
-        {
-            "move": "Iron Head",
-            "tm": true
-        },
-        {
-            "move": "Stealth Rock",
-            "tm": true
-        },
-        {
-            "move": "Grass Knot",
-            "tm": true
-        },
-        {
-            "move": "Stored Power",
-            "tm": true
-        },
-        {
-            "move": "Ally Switch",
-            "tm": true
-        },
-        {
-            "move": "Play Rough",
-            "tm": true
-        },
-        {
-            "move": "Dazzling Gleam",
-            "tm": true
-        }
-    ]
+	"name": "Jirachi",
+	"national_id": 385,
+	"types": ["Steel", "Psychic"],
+	"items": [
+		{
+			"name": "Star Piece",
+			"chance": 100
+		}
+	],
+	"abilities": [
+		{
+			"name": "Serene Grace"
+		}
+	],
+	"catch_rate": 3,
+	"gender_ratios": null,
+	"egg_groups": ["Undiscovered"],
+	"hatch_time": [30855, 31109],
+	"height_us": "1'00\"",
+	"height_eu": "0.3 m",
+	"weight_us": "2.4 lbs.",
+	"weight_eu": "1.1 kg",
+	"base_exp_yield": 270,
+	"leveling_rate": "Slow",
+	"base_friendship": 100,
+	"ev_yield": {
+		"hp": 3,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 100,
+		"atk": 100,
+		"def": 100,
+		"sp_atk": 100,
+		"sp_def": 100,
+		"speed": 100
+	},
+	"evolution_from": null,
+	"evolutions": [],
+	"species": "Wish Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "It’s believed that when this Pokémon wakes from its 1,000-year slumber, it will grant any wishes written on the notes attached to its head.",
+	"move_learnset": [
+		{
+			"move": "Confusion",
+			"level": 1
+		},
+		{
+			"move": "Wish",
+			"level": 1
+		},
+		{
+			"move": "Swift",
+			"level": 7
+		},
+		{
+			"move": "Helping Hand",
+			"level": 14
+		},
+		{
+			"move": "Life Dew",
+			"level": 21
+		},
+		{
+			"move": "Zen Headbutt",
+			"level": 28
+		},
+		{
+			"move": "Gravity",
+			"level": 35
+		},
+		{
+			"move": "Psychic",
+			"level": 42
+		},
+		{
+			"move": "Meteor Mash",
+			"level": 49
+		},
+		{
+			"move": "Healing Wish",
+			"level": 56
+		},
+		{
+			"move": "Rest",
+			"level": 63
+		},
+		{
+			"move": "Future Sight",
+			"level": 70
+		},
+		{
+			"move": "Double-Edge",
+			"level": 77
+		},
+		{
+			"move": "Cosmic Power",
+			"level": 84
+		},
+		{
+			"move": "Last Resort",
+			"level": 91
+		},
+		{
+			"move": "Doom Desire",
+			"level": 98
+		},
+		{
+			"move": "Mega Punch",
+			"tm": true
+		},
+		{
+			"move": "Mega Kick",
+			"tm": true
+		},
+		{
+			"move": "Fire Punch",
+			"tm": true
+		},
+		{
+			"move": "Ice Punch",
+			"tm": true
+		},
+		{
+			"move": "Thunder Punch",
+			"tm": true
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": true
+		},
+		{
+			"move": "Giga Impact",
+			"tm": true
+		},
+		{
+			"move": "Thunder Wave",
+			"tm": true
+		},
+		{
+			"move": "Light Screen",
+			"tm": true
+		},
+		{
+			"move": "Reflect",
+			"tm": true
+		},
+		{
+			"move": "Safeguard",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Icy Wind",
+			"tm": true
+		},
+		{
+			"move": "Charm",
+			"tm": true
+		},
+		{
+			"move": "Sandstorm",
+			"tm": true
+		},
+		{
+			"move": "Rain Dance",
+			"tm": true
+		},
+		{
+			"move": "Sunny Day",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Swift",
+			"tm": true
+		},
+		{
+			"move": "Helping Hand",
+			"tm": true
+		},
+		{
+			"move": "Imprison",
+			"tm": true
+		},
+		{
+			"move": "U-turn",
+			"tm": true
+		},
+		{
+			"move": "Fling",
+			"tm": true
+		},
+		{
+			"move": "Drain Punch",
+			"tm": true
+		},
+		{
+			"move": "Trick Room",
+			"tm": true
+		},
+		{
+			"move": "Magic Room",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Body Slam",
+			"tm": true
+		},
+		{
+			"move": "Thunderbolt",
+			"tm": true
+		},
+		{
+			"move": "Thunder",
+			"tm": true
+		},
+		{
+			"move": "Psychic",
+			"tm": true
+		},
+		{
+			"move": "Metronome",
+			"tm": true
+		},
+		{
+			"move": "Amnesia",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Psyshock",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Baton Pass",
+			"tm": true
+		},
+		{
+			"move": "Encore",
+			"tm": true
+		},
+		{
+			"move": "Shadow Ball",
+			"tm": true
+		},
+		{
+			"move": "Future Sight",
+			"tm": true
+		},
+		{
+			"move": "Uproar",
+			"tm": true
+		},
+		{
+			"move": "Trick",
+			"tm": true
+		},
+		{
+			"move": "Skill Swap",
+			"tm": true
+		},
+		{
+			"move": "Cosmic Power",
+			"tm": true
+		},
+		{
+			"move": "Iron Defense",
+			"tm": true
+		},
+		{
+			"move": "Calm Mind",
+			"tm": true
+		},
+		{
+			"move": "Aura Sphere",
+			"tm": true
+		},
+		{
+			"move": "Energy Ball",
+			"tm": true
+		},
+		{
+			"move": "Zen Headbutt",
+			"tm": true
+		},
+		{
+			"move": "Flash Cannon",
+			"tm": true
+		},
+		{
+			"move": "Iron Head",
+			"tm": true
+		},
+		{
+			"move": "Stealth Rock",
+			"tm": true
+		},
+		{
+			"move": "Grass Knot",
+			"tm": true
+		},
+		{
+			"move": "Stored Power",
+			"tm": true
+		},
+		{
+			"move": "Ally Switch",
+			"tm": true
+		},
+		{
+			"move": "Play Rough",
+			"tm": true
+		},
+		{
+			"move": "Dazzling Gleam",
+			"tm": true
+		}
+	]
 }

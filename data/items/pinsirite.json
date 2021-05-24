@@ -1,8 +1,8 @@
 {
-    "name": "Pinsirite",
-    "sell_price": null,
-    "holdable": true,
-    "battle": false,
-    "category": "Item",
-    "subcategory": "Mega Stone"
+	"name": "Pinsirite",
+	"sell_price": null,
+	"holdable": true,
+	"battle": false,
+	"category": "Item",
+	"subcategory": "Mega Stone"
 }

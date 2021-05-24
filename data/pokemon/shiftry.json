@@ -1,421 +1,412 @@
 {
-    "name": "Shiftry",
-    "national_id": 275,
-    "types": [
-        "Grass",
-        "Dark"
-    ],
-    "items": [
-        {
-            "name": "Power Herb",
-            "chance": 5
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Chlorophyll"
-        },
-        {
-            "name": "Early Bird"
-        },
-        {
-            "name": "Pickpocket",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 45,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Field",
-        "Grass"
-    ],
-    "hatch_time": [
-        4080,
-        4334
-    ],
-    "height_us": "4'03\"",
-    "height_eu": "1.3 m",
-    "weight_us": "131.4 lbs.",
-    "weight_eu": "59.6 kg",
-    "base_exp_yield": 216,
-    "leveling_rate": "Medium Slow",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 3,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 90,
-        "atk": 100,
-        "def": 60,
-        "sp_atk": 90,
-        "sp_def": 60,
-        "speed": 80
-    },
-    "evolution_from": "Nuzleaf",
-    "evolutions": [],
-    "species": "Wicked Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "It lives quietly in the deep forest. It is said to create chilly winter winds with the fans it holds.",
-    "move_learnset": [
-        {
-            "move": "Leaf Tornado",
-            "evo": true
-        },
-        {
-            "move": "Leaf Tornado",
-            "level": 1
-        },
-        {
-            "move": "Razor Leaf",
-            "level": 1
-        },
-        {
-            "move": "Air Cutter",
-            "level": 1
-        },
-        {
-            "move": "Torment",
-            "level": 1
-        },
-        {
-            "move": "Fake Out",
-            "level": 1
-        },
-        {
-            "move": "Swagger",
-            "level": 1
-        },
-        {
-            "move": "Whirlwind",
-            "level": 1
-        },
-        {
-            "move": "Hurricane",
-            "level": 1
-        },
-        {
-            "move": "Synthesis",
-            "level": 1
-        },
-        {
-            "move": "Explosion",
-            "level": 1
-        },
-        {
-            "move": "Growth",
-            "level": 1
-        },
-        {
-            "move": "Rollout",
-            "level": 1
-        },
-        {
-            "move": "Mega Drain",
-            "level": 1
-        },
-        {
-            "move": "Payback",
-            "level": 1
-        },
-        {
-            "move": "Nature Power",
-            "level": 1
-        },
-        {
-            "move": "Sunny Day",
-            "level": 1
-        },
-        {
-            "move": "Extrasensory",
-            "level": 1
-        },
-        {
-            "move": "Sucker Punch",
-            "level": 1
-        },
-        {
-            "move": "Leaf Blade",
-            "level": 1
-        },
-        {
-            "move": "Tackle",
-            "level": 1
-        },
-        {
-            "move": "Harden",
-            "level": 1
-        },
-        {
-            "move": "Absorb",
-            "level": 1
-        },
-        {
-            "move": "Astonish",
-            "level": 1
-        },
-        {
-            "move": "Mega Kick",
-            "tm": true
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": true
-        },
-        {
-            "move": "Giga Impact",
-            "tm": true
-        },
-        {
-            "move": "Solar Beam",
-            "tm": true
-        },
-        {
-            "move": "Solar Blade",
-            "tm": true
-        },
-        {
-            "move": "Dig",
-            "tm": true
-        },
-        {
-            "move": "Screech",
-            "tm": true
-        },
-        {
-            "move": "Self-Destruct",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Rock Slide",
-            "tm": true
-        },
-        {
-            "move": "Thief",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Icy Wind",
-            "tm": true
-        },
-        {
-            "move": "Giga Drain",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Sunny Day",
-            "tm": true
-        },
-        {
-            "move": "Beat Up",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Swift",
-            "tm": true
-        },
-        {
-            "move": "Revenge",
-            "tm": true
-        },
-        {
-            "move": "Brick Break",
-            "tm": true
-        },
-        {
-            "move": "Rock Tomb",
-            "tm": true
-        },
-        {
-            "move": "Bullet Seed",
-            "tm": true
-        },
-        {
-            "move": "Bounce",
-            "tm": true
-        },
-        {
-            "move": "Payback",
-            "tm": true
-        },
-        {
-            "move": "Assurance",
-            "tm": true
-        },
-        {
-            "move": "Fling",
-            "tm": true
-        },
-        {
-            "move": "Power Swap",
-            "tm": true
-        },
-        {
-            "move": "Low Sweep",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Retaliate",
-            "tm": true
-        },
-        {
-            "move": "Snarl",
-            "tm": true
-        },
-        {
-            "move": "Grassy Terrain",
-            "tm": true
-        },
-        {
-            "move": "False Swipe",
-            "tm": true
-        },
-        {
-            "move": "Air Slash",
-            "tm": true
-        },
-        {
-            "move": "Brutal Swing",
-            "tm": true
-        },
-        {
-            "move": "Swords Dance",
-            "tm": true
-        },
-        {
-            "move": "Body Slam",
-            "tm": true
-        },
-        {
-            "move": "Low Kick",
-            "tm": true
-        },
-        {
-            "move": "Amnesia",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Shadow Ball",
-            "tm": true
-        },
-        {
-            "move": "Heat Wave",
-            "tm": true
-        },
-        {
-            "move": "Leaf Blade",
-            "tm": true
-        },
-        {
-            "move": "Dark Pulse",
-            "tm": true
-        },
-        {
-            "move": "Seed Bomb",
-            "tm": true
-        },
-        {
-            "move": "X-Scissor",
-            "tm": true
-        },
-        {
-            "move": "Focus Blast",
-            "tm": true
-        },
-        {
-            "move": "Energy Ball",
-            "tm": true
-        },
-        {
-            "move": "Nasty Plot",
-            "tm": true
-        },
-        {
-            "move": "Leaf Storm",
-            "tm": true
-        },
-        {
-            "move": "Grass Knot",
-            "tm": true
-        },
-        {
-            "move": "Foul Play",
-            "tm": true
-        },
-        {
-            "move": "Hurricane",
-            "tm": true
-        },
-        {
-            "move": "Throat Chop",
-            "tm": true
-        },
-        {
-            "move": "Leech Seed",
-            "egg_move": true
-        },
-        {
-            "move": "Quick Attack",
-            "egg_move": true
-        },
-        {
-            "move": "Take Down",
-            "egg_move": true
-        },
-        {
-            "move": "Worry Seed",
-            "egg_move": true
-        },
-        {
-            "move": "Defog",
-            "egg_move": true
-        },
-        {
-            "move": "Night Slash",
-            "egg_move": true
-        }
-    ]
+	"name": "Shiftry",
+	"national_id": 275,
+	"types": ["Grass", "Dark"],
+	"items": [
+		{
+			"name": "Power Herb",
+			"chance": 5
+		}
+	],
+	"abilities": [
+		{
+			"name": "Chlorophyll"
+		},
+		{
+			"name": "Early Bird"
+		},
+		{
+			"name": "Pickpocket",
+			"hidden": true
+		}
+	],
+	"catch_rate": 45,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Field", "Grass"],
+	"hatch_time": [4080, 4334],
+	"height_us": "4'03\"",
+	"height_eu": "1.3 m",
+	"weight_us": "131.4 lbs.",
+	"weight_eu": "59.6 kg",
+	"base_exp_yield": 216,
+	"leveling_rate": "Medium Slow",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 3,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 90,
+		"atk": 100,
+		"def": 60,
+		"sp_atk": 90,
+		"sp_def": 60,
+		"speed": 80
+	},
+	"evolution_from": "Nuzleaf",
+	"evolutions": [],
+	"species": "Wicked Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "It lives quietly in the deep forest. It is said to create chilly winter winds with the fans it holds.",
+	"move_learnset": [
+		{
+			"move": "Leaf Tornado",
+			"evo": true
+		},
+		{
+			"move": "Leaf Tornado",
+			"level": 1
+		},
+		{
+			"move": "Razor Leaf",
+			"level": 1
+		},
+		{
+			"move": "Air Cutter",
+			"level": 1
+		},
+		{
+			"move": "Torment",
+			"level": 1
+		},
+		{
+			"move": "Fake Out",
+			"level": 1
+		},
+		{
+			"move": "Swagger",
+			"level": 1
+		},
+		{
+			"move": "Whirlwind",
+			"level": 1
+		},
+		{
+			"move": "Hurricane",
+			"level": 1
+		},
+		{
+			"move": "Synthesis",
+			"level": 1
+		},
+		{
+			"move": "Explosion",
+			"level": 1
+		},
+		{
+			"move": "Growth",
+			"level": 1
+		},
+		{
+			"move": "Rollout",
+			"level": 1
+		},
+		{
+			"move": "Mega Drain",
+			"level": 1
+		},
+		{
+			"move": "Payback",
+			"level": 1
+		},
+		{
+			"move": "Nature Power",
+			"level": 1
+		},
+		{
+			"move": "Sunny Day",
+			"level": 1
+		},
+		{
+			"move": "Extrasensory",
+			"level": 1
+		},
+		{
+			"move": "Sucker Punch",
+			"level": 1
+		},
+		{
+			"move": "Leaf Blade",
+			"level": 1
+		},
+		{
+			"move": "Tackle",
+			"level": 1
+		},
+		{
+			"move": "Harden",
+			"level": 1
+		},
+		{
+			"move": "Absorb",
+			"level": 1
+		},
+		{
+			"move": "Astonish",
+			"level": 1
+		},
+		{
+			"move": "Mega Kick",
+			"tm": true
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": true
+		},
+		{
+			"move": "Giga Impact",
+			"tm": true
+		},
+		{
+			"move": "Solar Beam",
+			"tm": true
+		},
+		{
+			"move": "Solar Blade",
+			"tm": true
+		},
+		{
+			"move": "Dig",
+			"tm": true
+		},
+		{
+			"move": "Screech",
+			"tm": true
+		},
+		{
+			"move": "Self-Destruct",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Rock Slide",
+			"tm": true
+		},
+		{
+			"move": "Thief",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Icy Wind",
+			"tm": true
+		},
+		{
+			"move": "Giga Drain",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Sunny Day",
+			"tm": true
+		},
+		{
+			"move": "Beat Up",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Swift",
+			"tm": true
+		},
+		{
+			"move": "Revenge",
+			"tm": true
+		},
+		{
+			"move": "Brick Break",
+			"tm": true
+		},
+		{
+			"move": "Rock Tomb",
+			"tm": true
+		},
+		{
+			"move": "Bullet Seed",
+			"tm": true
+		},
+		{
+			"move": "Bounce",
+			"tm": true
+		},
+		{
+			"move": "Payback",
+			"tm": true
+		},
+		{
+			"move": "Assurance",
+			"tm": true
+		},
+		{
+			"move": "Fling",
+			"tm": true
+		},
+		{
+			"move": "Power Swap",
+			"tm": true
+		},
+		{
+			"move": "Low Sweep",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Retaliate",
+			"tm": true
+		},
+		{
+			"move": "Snarl",
+			"tm": true
+		},
+		{
+			"move": "Grassy Terrain",
+			"tm": true
+		},
+		{
+			"move": "False Swipe",
+			"tm": true
+		},
+		{
+			"move": "Air Slash",
+			"tm": true
+		},
+		{
+			"move": "Brutal Swing",
+			"tm": true
+		},
+		{
+			"move": "Swords Dance",
+			"tm": true
+		},
+		{
+			"move": "Body Slam",
+			"tm": true
+		},
+		{
+			"move": "Low Kick",
+			"tm": true
+		},
+		{
+			"move": "Amnesia",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Shadow Ball",
+			"tm": true
+		},
+		{
+			"move": "Heat Wave",
+			"tm": true
+		},
+		{
+			"move": "Leaf Blade",
+			"tm": true
+		},
+		{
+			"move": "Dark Pulse",
+			"tm": true
+		},
+		{
+			"move": "Seed Bomb",
+			"tm": true
+		},
+		{
+			"move": "X-Scissor",
+			"tm": true
+		},
+		{
+			"move": "Focus Blast",
+			"tm": true
+		},
+		{
+			"move": "Energy Ball",
+			"tm": true
+		},
+		{
+			"move": "Nasty Plot",
+			"tm": true
+		},
+		{
+			"move": "Leaf Storm",
+			"tm": true
+		},
+		{
+			"move": "Grass Knot",
+			"tm": true
+		},
+		{
+			"move": "Foul Play",
+			"tm": true
+		},
+		{
+			"move": "Hurricane",
+			"tm": true
+		},
+		{
+			"move": "Throat Chop",
+			"tm": true
+		},
+		{
+			"move": "Leech Seed",
+			"egg_move": true
+		},
+		{
+			"move": "Quick Attack",
+			"egg_move": true
+		},
+		{
+			"move": "Take Down",
+			"egg_move": true
+		},
+		{
+			"move": "Worry Seed",
+			"egg_move": true
+		},
+		{
+			"move": "Defog",
+			"egg_move": true
+		},
+		{
+			"move": "Night Slash",
+			"egg_move": true
+		}
+	]
 }

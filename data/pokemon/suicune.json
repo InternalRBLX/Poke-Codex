@@ -1,251 +1,244 @@
 {
-    "name": "Suicune",
-    "national_id": 245,
-    "types": [
-        "Water"
-    ],
-    "abilities": [
-        {
-            "name": "Pressure"
-        },
-        {
-            "name": "Water Absorb",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 3,
-    "gender_ratios": null,
-    "egg_groups": [
-        "Undiscovered"
-    ],
-    "hatch_time": [
-        20655,
-        20909
-    ],
-    "height_us": "6'07\"",
-    "height_eu": "2.0 m",
-    "weight_us": "412.3 lbs.",
-    "weight_eu": "187.0 kg",
-    "base_exp_yield": 261,
-    "leveling_rate": "Slow",
-    "base_friendship": 35,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 1,
-        "sp_atk": 0,
-        "sp_def": 2,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 100,
-        "atk": 75,
-        "def": 115,
-        "sp_atk": 90,
-        "sp_def": 115,
-        "speed": 85
-    },
-    "evolution_from": null,
-    "evolutions": [],
-    "species": "Aurora Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "Suicune embodies the compassion of a pure spring of water. It runs across the land with gracefulness. This Pokémon has the power to purify dirty water.",
-    "move_learnset": [
-        {
-            "move": "Bite",
-            "level": 1
-        },
-        {
-            "move": "Bubble Beam",
-            "level": 1
-        },
-        {
-            "move": "Leer",
-            "level": 1
-        },
-        {
-            "move": "Rain Dance",
-            "level": 1
-        },
-        {
-            "move": "Sheer Cold",
-            "level": 1
-        },
-        {
-            "move": "Bubble Beam",
-            "level": 8
-        },
-        {
-            "move": "Rain Dance",
-            "level": 15
-        },
-        {
-            "move": "Gust",
-            "level": 22
-        },
-        {
-            "move": "Aurora Beam",
-            "level": 29
-        },
-        {
-            "move": "Mist",
-            "level": 36
-        },
-        {
-            "move": "Mirror Coat",
-            "level": 43
-        },
-        {
-            "move": "Ice Fang",
-            "level": 50
-        },
-        {
-            "move": "Tailwind",
-            "level": 57
-        },
-        {
-            "move": "Extrasensory",
-            "level": 64
-        },
-        {
-            "move": "Hydro Pump",
-            "level": 71
-        },
-        {
-            "move": "Calm Mind",
-            "level": 78
-        },
-        {
-            "move": "Blizzard",
-            "level": 85
-        },
-        {
-            "move": "Calm Mind",
-            "tm": "TM4"
-        },
-        {
-            "move": "Roar",
-            "tm": "TM5"
-        },
-        {
-            "move": "Toxic",
-            "tm": "TM6"
-        },
-        {
-            "move": "Hail",
-            "tm": "TM7"
-        },
-        {
-            "move": "Hidden Power",
-            "tm": "TM10"
-        },
-        {
-            "move": "Sunny Day",
-            "tm": "TM11"
-        },
-        {
-            "move": "Ice Beam",
-            "tm": "TM13"
-        },
-        {
-            "move": "Blizzard",
-            "tm": "TM14"
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": "TM15"
-        },
-        {
-            "move": "Protect",
-            "tm": "TM17"
-        },
-        {
-            "move": "Rain Dance",
-            "tm": "TM18"
-        },
-        {
-            "move": "Frustration",
-            "tm": "TM21"
-        },
-        {
-            "move": "Return",
-            "tm": "TM27"
-        },
-        {
-            "move": "Shadow Ball",
-            "tm": "TM30"
-        },
-        {
-            "move": "Double Team",
-            "tm": "TM32"
-        },
-        {
-            "move": "Reflect",
-            "tm": "TM33"
-        },
-        {
-            "move": "Sandstorm",
-            "tm": "TM37"
-        },
-        {
-            "move": "Facade",
-            "tm": "TM42"
-        },
-        {
-            "move": "Rest",
-            "tm": "TM44"
-        },
-        {
-            "move": "Round",
-            "tm": "TM48"
-        },
-        {
-            "move": "Scald",
-            "tm": "TM55"
-        },
-        {
-            "move": "Quash",
-            "tm": "TM60"
-        },
-        {
-            "move": "Giga Impact",
-            "tm": "TM68"
-        },
-        {
-            "move": "Psych Up",
-            "tm": "TM77"
-        },
-        {
-            "move": "Bulldoze",
-            "tm": "TM78"
-        },
-        {
-            "move": "Swagger",
-            "tm": "TM87"
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": "TM88"
-        },
-        {
-            "move": "Substitute",
-            "tm": "TM90"
-        },
-        {
-            "move": "Surf",
-            "tm": "TM94"
-        },
-        {
-            "move": "Snarl",
-            "tm": "TM95"
-        },
-        {
-            "move": "Waterfall",
-            "tm": "TM98"
-        },
-        {
-            "move": "Confide",
-            "tm": "TM100"
-        }
-    ]
+	"name": "Suicune",
+	"national_id": 245,
+	"types": ["Water"],
+	"abilities": [
+		{
+			"name": "Pressure"
+		},
+		{
+			"name": "Water Absorb",
+			"hidden": true
+		}
+	],
+	"catch_rate": 3,
+	"gender_ratios": null,
+	"egg_groups": ["Undiscovered"],
+	"hatch_time": [20655, 20909],
+	"height_us": "6'07\"",
+	"height_eu": "2.0 m",
+	"weight_us": "412.3 lbs.",
+	"weight_eu": "187.0 kg",
+	"base_exp_yield": 261,
+	"leveling_rate": "Slow",
+	"base_friendship": 35,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 1,
+		"sp_atk": 0,
+		"sp_def": 2,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 100,
+		"atk": 75,
+		"def": 115,
+		"sp_atk": 90,
+		"sp_def": 115,
+		"speed": 85
+	},
+	"evolution_from": null,
+	"evolutions": [],
+	"species": "Aurora Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "Suicune embodies the compassion of a pure spring of water. It runs across the land with gracefulness. This Pokémon has the power to purify dirty water.",
+	"move_learnset": [
+		{
+			"move": "Bite",
+			"level": 1
+		},
+		{
+			"move": "Bubble Beam",
+			"level": 1
+		},
+		{
+			"move": "Leer",
+			"level": 1
+		},
+		{
+			"move": "Rain Dance",
+			"level": 1
+		},
+		{
+			"move": "Sheer Cold",
+			"level": 1
+		},
+		{
+			"move": "Bubble Beam",
+			"level": 8
+		},
+		{
+			"move": "Rain Dance",
+			"level": 15
+		},
+		{
+			"move": "Gust",
+			"level": 22
+		},
+		{
+			"move": "Aurora Beam",
+			"level": 29
+		},
+		{
+			"move": "Mist",
+			"level": 36
+		},
+		{
+			"move": "Mirror Coat",
+			"level": 43
+		},
+		{
+			"move": "Ice Fang",
+			"level": 50
+		},
+		{
+			"move": "Tailwind",
+			"level": 57
+		},
+		{
+			"move": "Extrasensory",
+			"level": 64
+		},
+		{
+			"move": "Hydro Pump",
+			"level": 71
+		},
+		{
+			"move": "Calm Mind",
+			"level": 78
+		},
+		{
+			"move": "Blizzard",
+			"level": 85
+		},
+		{
+			"move": "Calm Mind",
+			"tm": "TM4"
+		},
+		{
+			"move": "Roar",
+			"tm": "TM5"
+		},
+		{
+			"move": "Toxic",
+			"tm": "TM6"
+		},
+		{
+			"move": "Hail",
+			"tm": "TM7"
+		},
+		{
+			"move": "Hidden Power",
+			"tm": "TM10"
+		},
+		{
+			"move": "Sunny Day",
+			"tm": "TM11"
+		},
+		{
+			"move": "Ice Beam",
+			"tm": "TM13"
+		},
+		{
+			"move": "Blizzard",
+			"tm": "TM14"
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": "TM15"
+		},
+		{
+			"move": "Protect",
+			"tm": "TM17"
+		},
+		{
+			"move": "Rain Dance",
+			"tm": "TM18"
+		},
+		{
+			"move": "Frustration",
+			"tm": "TM21"
+		},
+		{
+			"move": "Return",
+			"tm": "TM27"
+		},
+		{
+			"move": "Shadow Ball",
+			"tm": "TM30"
+		},
+		{
+			"move": "Double Team",
+			"tm": "TM32"
+		},
+		{
+			"move": "Reflect",
+			"tm": "TM33"
+		},
+		{
+			"move": "Sandstorm",
+			"tm": "TM37"
+		},
+		{
+			"move": "Facade",
+			"tm": "TM42"
+		},
+		{
+			"move": "Rest",
+			"tm": "TM44"
+		},
+		{
+			"move": "Round",
+			"tm": "TM48"
+		},
+		{
+			"move": "Scald",
+			"tm": "TM55"
+		},
+		{
+			"move": "Quash",
+			"tm": "TM60"
+		},
+		{
+			"move": "Giga Impact",
+			"tm": "TM68"
+		},
+		{
+			"move": "Psych Up",
+			"tm": "TM77"
+		},
+		{
+			"move": "Bulldoze",
+			"tm": "TM78"
+		},
+		{
+			"move": "Swagger",
+			"tm": "TM87"
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": "TM88"
+		},
+		{
+			"move": "Substitute",
+			"tm": "TM90"
+		},
+		{
+			"move": "Surf",
+			"tm": "TM94"
+		},
+		{
+			"move": "Snarl",
+			"tm": "TM95"
+		},
+		{
+			"move": "Waterfall",
+			"tm": "TM98"
+		},
+		{
+			"move": "Confide",
+			"tm": "TM100"
+		}
+	]
 }

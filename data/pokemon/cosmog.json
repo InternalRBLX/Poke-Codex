@@ -1,64 +1,57 @@
 {
-    "name": "Cosmog",
-    "national_id": 789,
-    "types": [
-        "Psychic"
-    ],
-    "abilities": [
-        {
-            "name": "Unaware"
-        }
-    ],
-    "catch_rate": 45,
-    "gender_ratios": null,
-    "egg_groups": [
-        "Undiscovered"
-    ],
-    "hatch_time": [
-        30840,
-        31096
-    ],
-    "height_us": "0'08\"",
-    "height_eu": "0.2 m",
-    "weight_us": "0.2 lbs.",
-    "weight_eu": "0.1 kg",
-    "base_exp_yield": 40,
-    "leveling_rate": "Slow",
-    "base_friendship": 0,
-    "ev_yield": {
-        "hp": 1,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 43,
-        "atk": 29,
-        "def": 31,
-        "sp_atk": 29,
-        "sp_def": 31,
-        "speed": 37
-    },
-    "evolution_from": null,
-    "evolutions": [
-        {
-            "to": "Cosmoem",
-            "level": 53
-        }
-    ],
-    "species": "Nebula Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "Cosmog is very curious but not very cautious, often placing itself in danger. If things start to look dicey, it teleports away.",
-    "move_learnset": [
-        {
-            "move": "Splash",
-            "level": 1
-        },
-        {
-            "move": "Teleport",
-            "level": 1
-        }
-    ]
+	"name": "Cosmog",
+	"national_id": 789,
+	"types": ["Psychic"],
+	"abilities": [
+		{
+			"name": "Unaware"
+		}
+	],
+	"catch_rate": 45,
+	"gender_ratios": null,
+	"egg_groups": ["Undiscovered"],
+	"hatch_time": [30840, 31096],
+	"height_us": "0'08\"",
+	"height_eu": "0.2 m",
+	"weight_us": "0.2 lbs.",
+	"weight_eu": "0.1 kg",
+	"base_exp_yield": 40,
+	"leveling_rate": "Slow",
+	"base_friendship": 0,
+	"ev_yield": {
+		"hp": 1,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 43,
+		"atk": 29,
+		"def": 31,
+		"sp_atk": 29,
+		"sp_def": 31,
+		"speed": 37
+	},
+	"evolution_from": null,
+	"evolutions": [
+		{
+			"to": "Cosmoem",
+			"level": 53
+		}
+	],
+	"species": "Nebula Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "Cosmog is very curious but not very cautious, often placing itself in danger. If things start to look dicey, it teleports away.",
+	"move_learnset": [
+		{
+			"move": "Splash",
+			"level": 1
+		},
+		{
+			"move": "Teleport",
+			"level": 1
+		}
+	]
 }

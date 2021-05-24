@@ -1,282 +1,274 @@
 {
-    "name": "Nidorino",
-    "national_id": 33,
-    "types": [
-        "Poison"
-    ],
-    "abilities": [
-        {
-            "name": "Poison Point"
-        },
-        {
-            "name": "Rivalry"
-        },
-        {
-            "name": "Hustle",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 120,
-    "gender_ratios": {
-        "male": 100
-    },
-    "egg_groups": [
-        "Monster",
-        "Field"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "2'11\"",
-    "height_eu": "0.9 m",
-    "weight_us": "43.0 lbs.",
-    "weight_eu": "19.5 kg",
-    "base_exp_yield": 128,
-    "leveling_rate": "Medium Slow",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 2,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 61,
-        "atk": 72,
-        "def": 57,
-        "sp_atk": 55,
-        "sp_def": 55,
-        "speed": 65
-    },
-    "evolution_from": "Nidoran♂",
-    "evolutions": [
-        {
-            "to": "Nidoking",
-            "item": "Moon Stone"
-        }
-    ],
-    "species": "Poison Pin Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "Nidorino has a horn that is harder than a diamond. If it senses a hostile presence, all the barbs on its back bristle up at once, and it challenges the foe with all its might.",
-    "move_learnset": [
-        {
-            "move": "Leer",
-            "level": 1
-        },
-        {
-            "move": "Peck",
-            "level": 1
-        },
-        {
-            "move": "Focus Energy",
-            "level": 7
-        },
-        {
-            "move": "Double Kick",
-            "level": 9
-        },
-        {
-            "move": "Poison Sting",
-            "level": 13
-        },
-        {
-            "move": "Fury Attack",
-            "level": 20
-        },
-        {
-            "move": "Horn Attack",
-            "level": 23
-        },
-        {
-            "move": "Helping Hand",
-            "level": 28
-        },
-        {
-            "move": "Toxic Spikes",
-            "level": 35
-        },
-        {
-            "move": "Flatter",
-            "level": 38
-        },
-        {
-            "move": "Poison Jab",
-            "level": 43
-        },
-        {
-            "move": "Captivate",
-            "level": 50
-        },
-        {
-            "move": "Horn Drill",
-            "level": 58
-        },
-        {
-            "move": "Amnesia",
-            "egg_move": true
-        },
-        {
-            "move": "Beat Up",
-            "egg_move": true
-        },
-        {
-            "move": "Chip Away",
-            "egg_move": true
-        },
-        {
-            "move": "Confusion",
-            "egg_move": true
-        },
-        {
-            "move": "Counter",
-            "egg_move": true
-        },
-        {
-            "move": "Disable",
-            "egg_move": true
-        },
-        {
-            "move": "Endure",
-            "egg_move": true
-        },
-        {
-            "move": "Head Smash",
-            "egg_move": true
-        },
-        {
-            "move": "Iron Tail",
-            "egg_move": true
-        },
-        {
-            "move": "Poison Tail",
-            "egg_move": true
-        },
-        {
-            "move": "Sucker Punch",
-            "egg_move": true
-        },
-        {
-            "move": "Supersonic",
-            "egg_move": true
-        },
-        {
-            "move": "Take Down",
-            "egg_move": true
-        },
-        {
-            "move": "Venom Drench",
-            "egg_move": true
-        },
-        {
-            "move": "Toxic",
-            "tm": "TM6"
-        },
-        {
-            "move": "Venoshock",
-            "tm": "TM9"
-        },
-        {
-            "move": "Hidden Power",
-            "tm": "TM10"
-        },
-        {
-            "move": "Sunny Day",
-            "tm": "TM11"
-        },
-        {
-            "move": "Ice Beam",
-            "tm": "TM13"
-        },
-        {
-            "move": "Blizzard",
-            "tm": "TM14"
-        },
-        {
-            "move": "Protect",
-            "tm": "TM17"
-        },
-        {
-            "move": "Rain Dance",
-            "tm": "TM18"
-        },
-        {
-            "move": "Frustration",
-            "tm": "TM21"
-        },
-        {
-            "move": "Thunderbolt",
-            "tm": "TM24"
-        },
-        {
-            "move": "Thunder",
-            "tm": "TM25"
-        },
-        {
-            "move": "Return",
-            "tm": "TM27"
-        },
-        {
-            "move": "Double Team",
-            "tm": "TM32"
-        },
-        {
-            "move": "Sludge Bomb",
-            "tm": "TM36"
-        },
-        {
-            "move": "Facade",
-            "tm": "TM42"
-        },
-        {
-            "move": "Rest",
-            "tm": "TM44"
-        },
-        {
-            "move": "Attract",
-            "tm": "TM45"
-        },
-        {
-            "move": "Thief",
-            "tm": "TM46"
-        },
-        {
-            "move": "Round",
-            "tm": "TM48"
-        },
-        {
-            "move": "Echoed Voice",
-            "tm": "TM49"
-        },
-        {
-            "move": "Shadow Claw",
-            "tm": "TM65"
-        },
-        {
-            "move": "Smart Strike",
-            "tm": "TM67"
-        },
-        {
-            "move": "Poison Jab",
-            "tm": "TM84"
-        },
-        {
-            "move": "Swagger",
-            "tm": "TM87"
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": "TM88"
-        },
-        {
-            "move": "Substitute",
-            "tm": "TM90"
-        },
-        {
-            "move": "Confide",
-            "tm": "TM100"
-        }
-    ]
+	"name": "Nidorino",
+	"national_id": 33,
+	"types": ["Poison"],
+	"abilities": [
+		{
+			"name": "Poison Point"
+		},
+		{
+			"name": "Rivalry"
+		},
+		{
+			"name": "Hustle",
+			"hidden": true
+		}
+	],
+	"catch_rate": 120,
+	"gender_ratios": {
+		"male": 100
+	},
+	"egg_groups": ["Monster", "Field"],
+	"hatch_time": [5355, 5609],
+	"height_us": "2'11\"",
+	"height_eu": "0.9 m",
+	"weight_us": "43.0 lbs.",
+	"weight_eu": "19.5 kg",
+	"base_exp_yield": 128,
+	"leveling_rate": "Medium Slow",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 2,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 61,
+		"atk": 72,
+		"def": 57,
+		"sp_atk": 55,
+		"sp_def": 55,
+		"speed": 65
+	},
+	"evolution_from": "Nidoran♂",
+	"evolutions": [
+		{
+			"to": "Nidoking",
+			"item": "Moon Stone"
+		}
+	],
+	"species": "Poison Pin Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "Nidorino has a horn that is harder than a diamond. If it senses a hostile presence, all the barbs on its back bristle up at once, and it challenges the foe with all its might.",
+	"move_learnset": [
+		{
+			"move": "Leer",
+			"level": 1
+		},
+		{
+			"move": "Peck",
+			"level": 1
+		},
+		{
+			"move": "Focus Energy",
+			"level": 7
+		},
+		{
+			"move": "Double Kick",
+			"level": 9
+		},
+		{
+			"move": "Poison Sting",
+			"level": 13
+		},
+		{
+			"move": "Fury Attack",
+			"level": 20
+		},
+		{
+			"move": "Horn Attack",
+			"level": 23
+		},
+		{
+			"move": "Helping Hand",
+			"level": 28
+		},
+		{
+			"move": "Toxic Spikes",
+			"level": 35
+		},
+		{
+			"move": "Flatter",
+			"level": 38
+		},
+		{
+			"move": "Poison Jab",
+			"level": 43
+		},
+		{
+			"move": "Captivate",
+			"level": 50
+		},
+		{
+			"move": "Horn Drill",
+			"level": 58
+		},
+		{
+			"move": "Amnesia",
+			"egg_move": true
+		},
+		{
+			"move": "Beat Up",
+			"egg_move": true
+		},
+		{
+			"move": "Chip Away",
+			"egg_move": true
+		},
+		{
+			"move": "Confusion",
+			"egg_move": true
+		},
+		{
+			"move": "Counter",
+			"egg_move": true
+		},
+		{
+			"move": "Disable",
+			"egg_move": true
+		},
+		{
+			"move": "Endure",
+			"egg_move": true
+		},
+		{
+			"move": "Head Smash",
+			"egg_move": true
+		},
+		{
+			"move": "Iron Tail",
+			"egg_move": true
+		},
+		{
+			"move": "Poison Tail",
+			"egg_move": true
+		},
+		{
+			"move": "Sucker Punch",
+			"egg_move": true
+		},
+		{
+			"move": "Supersonic",
+			"egg_move": true
+		},
+		{
+			"move": "Take Down",
+			"egg_move": true
+		},
+		{
+			"move": "Venom Drench",
+			"egg_move": true
+		},
+		{
+			"move": "Toxic",
+			"tm": "TM6"
+		},
+		{
+			"move": "Venoshock",
+			"tm": "TM9"
+		},
+		{
+			"move": "Hidden Power",
+			"tm": "TM10"
+		},
+		{
+			"move": "Sunny Day",
+			"tm": "TM11"
+		},
+		{
+			"move": "Ice Beam",
+			"tm": "TM13"
+		},
+		{
+			"move": "Blizzard",
+			"tm": "TM14"
+		},
+		{
+			"move": "Protect",
+			"tm": "TM17"
+		},
+		{
+			"move": "Rain Dance",
+			"tm": "TM18"
+		},
+		{
+			"move": "Frustration",
+			"tm": "TM21"
+		},
+		{
+			"move": "Thunderbolt",
+			"tm": "TM24"
+		},
+		{
+			"move": "Thunder",
+			"tm": "TM25"
+		},
+		{
+			"move": "Return",
+			"tm": "TM27"
+		},
+		{
+			"move": "Double Team",
+			"tm": "TM32"
+		},
+		{
+			"move": "Sludge Bomb",
+			"tm": "TM36"
+		},
+		{
+			"move": "Facade",
+			"tm": "TM42"
+		},
+		{
+			"move": "Rest",
+			"tm": "TM44"
+		},
+		{
+			"move": "Attract",
+			"tm": "TM45"
+		},
+		{
+			"move": "Thief",
+			"tm": "TM46"
+		},
+		{
+			"move": "Round",
+			"tm": "TM48"
+		},
+		{
+			"move": "Echoed Voice",
+			"tm": "TM49"
+		},
+		{
+			"move": "Shadow Claw",
+			"tm": "TM65"
+		},
+		{
+			"move": "Smart Strike",
+			"tm": "TM67"
+		},
+		{
+			"move": "Poison Jab",
+			"tm": "TM84"
+		},
+		{
+			"move": "Swagger",
+			"tm": "TM87"
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": "TM88"
+		},
+		{
+			"move": "Substitute",
+			"tm": "TM90"
+		},
+		{
+			"move": "Confide",
+			"tm": "TM100"
+		}
+	]
 }

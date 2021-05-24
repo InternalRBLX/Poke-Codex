@@ -1,8 +1,8 @@
 {
-    "name": "Lum Berry",
-    "sell_price": 100,
-    "holdable": true,
-    "battle": true,
-    "category": "Berry",
-    "subcategory": "Berry"
+	"name": "Lum Berry",
+	"sell_price": 100,
+	"holdable": true,
+	"battle": true,
+	"category": "Berry",
+	"subcategory": "Berry"
 }

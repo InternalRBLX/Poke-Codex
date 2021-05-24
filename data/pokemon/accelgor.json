@@ -1,301 +1,294 @@
 {
-    "name": "Accelgor",
-    "national_id": 617,
-    "types": [
-        "Bug"
-    ],
-    "abilities": [
-        {
-            "name": "Hydration"
-        },
-        {
-            "name": "Sticky Hold"
-        },
-        {
-            "name": "Unburden",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 75,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Bug"
-    ],
-    "hatch_time": [
-        3855,
-        4111
-    ],
-    "height_us": "2'07\"",
-    "height_eu": "0.8 m",
-    "weight_us": "55.8 lbs.",
-    "weight_eu": "25.3 kg",
-    "base_exp_yield": 173,
-    "leveling_rate": "Medium Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 2
-    },
-    "base_stats": {
-        "hp": 80,
-        "atk": 70,
-        "def": 40,
-        "sp_atk": 100,
-        "sp_def": 60,
-        "speed": 145
-    },
-    "evolution_from": "Shelmet",
-    "evolutions": [],
-    "species": "Shell Out Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "Discarding its shell made it nimble. To keep itself from dehydrating, it wraps its body in bands of membrane.",
-    "move_learnset": [
-        {
-            "move": "Water Shuriken",
-            "level": 1
-        },
-        {
-            "move": "Acid",
-            "level": 1
-        },
-        {
-            "move": "Curse",
-            "level": 1
-        },
-        {
-            "move": "Yawn",
-            "level": 1
-        },
-        {
-            "move": "Acid Armor",
-            "level": 1
-        },
-        {
-            "move": "Guard Swap",
-            "level": 1
-        },
-        {
-            "move": "Body Slam",
-            "level": 1
-        },
-        {
-            "move": "Absorb",
-            "level": 1
-        },
-        {
-            "move": "Double Team",
-            "level": 1
-        },
-        {
-            "move": "Acid Spray",
-            "level": 1
-        },
-        {
-            "move": "Quick Attack",
-            "level": 1
-        },
-        {
-            "move": "Mega Drain",
-            "level": 12
-        },
-        {
-            "move": "Struggle Bug",
-            "level": 16
-        },
-        {
-            "move": "Swift",
-            "level": 20
-        },
-        {
-            "move": "Agility",
-            "level": 24
-        },
-        {
-            "move": "Giga Drain",
-            "level": 28
-        },
-        {
-            "move": "Power Swap",
-            "level": 32
-        },
-        {
-            "move": "U-turn",
-            "level": 36
-        },
-        {
-            "move": "Recover",
-            "level": 40
-        },
-        {
-            "move": "Bug Buzz",
-            "level": 44
-        },
-        {
-            "move": "Final Gambit",
-            "level": 48
-        },
-        {
-            "move": "Toxic",
-            "level": 52
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": true
-        },
-        {
-            "move": "Giga Impact",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Giga Drain",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Sandstorm",
-            "tm": true
-        },
-        {
-            "move": "Rain Dance",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Swift",
-            "tm": true
-        },
-        {
-            "move": "Mud Shot",
-            "tm": true
-        },
-        {
-            "move": "U-turn",
-            "tm": true
-        },
-        {
-            "move": "Power Swap",
-            "tm": true
-        },
-        {
-            "move": "Guard Swap",
-            "tm": true
-        },
-        {
-            "move": "Drain Punch",
-            "tm": true
-        },
-        {
-            "move": "Venoshock",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Body Slam",
-            "tm": true
-        },
-        {
-            "move": "Agility",
-            "tm": true
-        },
-        {
-            "move": "Leech Life",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Reversal",
-            "tm": true
-        },
-        {
-            "move": "Sludge Bomb",
-            "tm": true
-        },
-        {
-            "move": "Spikes",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Baton Pass",
-            "tm": true
-        },
-        {
-            "move": "Encore",
-            "tm": true
-        },
-        {
-            "move": "Toxic Spikes",
-            "tm": true
-        },
-        {
-            "move": "Bug Buzz",
-            "tm": true
-        },
-        {
-            "move": "Focus Blast",
-            "tm": true
-        },
-        {
-            "move": "Energy Ball",
-            "tm": true
-        },
-        {
-            "move": "Venom Drench",
-            "tm": true
-        },
-        {
-            "move": "Double-Edge",
-            "egg_move": true
-        },
-        {
-            "move": "Guard Split",
-            "egg_move": true
-        },
-        {
-            "move": "Mind Reader",
-            "egg_move": true
-        },
-        {
-            "move": "Feint",
-            "egg_move": true
-        }
-    ]
+	"name": "Accelgor",
+	"national_id": 617,
+	"types": ["Bug"],
+	"abilities": [
+		{
+			"name": "Hydration"
+		},
+		{
+			"name": "Sticky Hold"
+		},
+		{
+			"name": "Unburden",
+			"hidden": true
+		}
+	],
+	"catch_rate": 75,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Bug"],
+	"hatch_time": [3855, 4111],
+	"height_us": "2'07\"",
+	"height_eu": "0.8 m",
+	"weight_us": "55.8 lbs.",
+	"weight_eu": "25.3 kg",
+	"base_exp_yield": 173,
+	"leveling_rate": "Medium Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 2
+	},
+	"base_stats": {
+		"hp": 80,
+		"atk": 70,
+		"def": 40,
+		"sp_atk": 100,
+		"sp_def": 60,
+		"speed": 145
+	},
+	"evolution_from": "Shelmet",
+	"evolutions": [],
+	"species": "Shell Out Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "Discarding its shell made it nimble. To keep itself from dehydrating, it wraps its body in bands of membrane.",
+	"move_learnset": [
+		{
+			"move": "Water Shuriken",
+			"level": 1
+		},
+		{
+			"move": "Acid",
+			"level": 1
+		},
+		{
+			"move": "Curse",
+			"level": 1
+		},
+		{
+			"move": "Yawn",
+			"level": 1
+		},
+		{
+			"move": "Acid Armor",
+			"level": 1
+		},
+		{
+			"move": "Guard Swap",
+			"level": 1
+		},
+		{
+			"move": "Body Slam",
+			"level": 1
+		},
+		{
+			"move": "Absorb",
+			"level": 1
+		},
+		{
+			"move": "Double Team",
+			"level": 1
+		},
+		{
+			"move": "Acid Spray",
+			"level": 1
+		},
+		{
+			"move": "Quick Attack",
+			"level": 1
+		},
+		{
+			"move": "Mega Drain",
+			"level": 12
+		},
+		{
+			"move": "Struggle Bug",
+			"level": 16
+		},
+		{
+			"move": "Swift",
+			"level": 20
+		},
+		{
+			"move": "Agility",
+			"level": 24
+		},
+		{
+			"move": "Giga Drain",
+			"level": 28
+		},
+		{
+			"move": "Power Swap",
+			"level": 32
+		},
+		{
+			"move": "U-turn",
+			"level": 36
+		},
+		{
+			"move": "Recover",
+			"level": 40
+		},
+		{
+			"move": "Bug Buzz",
+			"level": 44
+		},
+		{
+			"move": "Final Gambit",
+			"level": 48
+		},
+		{
+			"move": "Toxic",
+			"level": 52
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": true
+		},
+		{
+			"move": "Giga Impact",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Giga Drain",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Sandstorm",
+			"tm": true
+		},
+		{
+			"move": "Rain Dance",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Swift",
+			"tm": true
+		},
+		{
+			"move": "Mud Shot",
+			"tm": true
+		},
+		{
+			"move": "U-turn",
+			"tm": true
+		},
+		{
+			"move": "Power Swap",
+			"tm": true
+		},
+		{
+			"move": "Guard Swap",
+			"tm": true
+		},
+		{
+			"move": "Drain Punch",
+			"tm": true
+		},
+		{
+			"move": "Venoshock",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Body Slam",
+			"tm": true
+		},
+		{
+			"move": "Agility",
+			"tm": true
+		},
+		{
+			"move": "Leech Life",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Reversal",
+			"tm": true
+		},
+		{
+			"move": "Sludge Bomb",
+			"tm": true
+		},
+		{
+			"move": "Spikes",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Baton Pass",
+			"tm": true
+		},
+		{
+			"move": "Encore",
+			"tm": true
+		},
+		{
+			"move": "Toxic Spikes",
+			"tm": true
+		},
+		{
+			"move": "Bug Buzz",
+			"tm": true
+		},
+		{
+			"move": "Focus Blast",
+			"tm": true
+		},
+		{
+			"move": "Energy Ball",
+			"tm": true
+		},
+		{
+			"move": "Venom Drench",
+			"tm": true
+		},
+		{
+			"move": "Double-Edge",
+			"egg_move": true
+		},
+		{
+			"move": "Guard Split",
+			"egg_move": true
+		},
+		{
+			"move": "Mind Reader",
+			"egg_move": true
+		},
+		{
+			"move": "Feint",
+			"egg_move": true
+		}
+	]
 }

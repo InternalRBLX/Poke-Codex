@@ -1,288 +1,280 @@
 {
-    "name": "Keldeo",
-    "national_id": 647,
-    "types": [
-        "Water",
-        "Fighting"
-    ],
-    "abilities": [
-        {
-            "name": "Justified"
-        }
-    ],
-    "catch_rate": 3,
-    "gender_ratios": null,
-    "egg_groups": [
-        "Undiscovered"
-    ],
-    "hatch_time": [
-        20655,
-        20909
-    ],
-    "height_us": "4'07\"",
-    "height_eu": "1.4 m",
-    "weight_us": "106.9 lbs.",
-    "weight_eu": "48.5 kg",
-    "base_exp_yield": 261,
-    "leveling_rate": "Slow",
-    "base_friendship": 35,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 3,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 91,
-        "atk": 72,
-        "def": 90,
-        "sp_atk": 129,
-        "sp_def": 90,
-        "speed": 108
-    },
-    "evolution_from": null,
-    "evolutions": [],
-    "species": "Colt Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "They say that Keldeo must survive harsh battles and fully develop the horn on its forehead before this Pokémon’s true power will awaken.",
-    "move_learnset": [
-        {
-            "move": "Secret Sword",
-            "level": 1
-        },
-        {
-            "move": "Aqua Jet",
-            "level": 1
-        },
-        {
-            "move": "Leer",
-            "level": 1
-        },
-        {
-            "move": "Helping Hand",
-            "level": 1
-        },
-        {
-            "move": "Work Up",
-            "level": 1
-        },
-        {
-            "move": "Bubble Beam",
-            "level": 7
-        },
-        {
-            "move": "Quick Guard",
-            "level": 14
-        },
-        {
-            "move": "Double Kick",
-            "level": 21
-        },
-        {
-            "move": "Retaliate",
-            "level": 28
-        },
-        {
-            "move": "Aqua Tail",
-            "level": 35
-        },
-        {
-            "move": "Take Down",
-            "level": 42
-        },
-        {
-            "move": "Sacred Sword",
-            "level": 49
-        },
-        {
-            "move": "Swords Dance",
-            "level": 56
-        },
-        {
-            "move": "Hydro Pump",
-            "level": 63
-        },
-        {
-            "move": "Close Combat",
-            "level": 70
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": true
-        },
-        {
-            "move": "Giga Impact",
-            "tm": true
-        },
-        {
-            "move": "Reflect",
-            "tm": true
-        },
-        {
-            "move": "Safeguard",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Icy Wind",
-            "tm": true
-        },
-        {
-            "move": "Rain Dance",
-            "tm": true
-        },
-        {
-            "move": "Sunny Day",
-            "tm": true
-        },
-        {
-            "move": "Hail",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Swift",
-            "tm": true
-        },
-        {
-            "move": "Helping Hand",
-            "tm": true
-        },
-        {
-            "move": "Revenge",
-            "tm": true
-        },
-        {
-            "move": "Brick Break",
-            "tm": true
-        },
-        {
-            "move": "Bounce",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Retaliate",
-            "tm": true
-        },
-        {
-            "move": "False Swipe",
-            "tm": true
-        },
-        {
-            "move": "Air Slash",
-            "tm": true
-        },
-        {
-            "move": "Smart Strike",
-            "tm": true
-        },
-        {
-            "move": "Swords Dance",
-            "tm": true
-        },
-        {
-            "move": "Hydro Pump",
-            "tm": true
-        },
-        {
-            "move": "Surf",
-            "tm": true
-        },
-        {
-            "move": "Low Kick",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Reversal",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Megahorn",
-            "tm": true
-        },
-        {
-            "move": "Taunt",
-            "tm": true
-        },
-        {
-            "move": "Superpower",
-            "tm": true
-        },
-        {
-            "move": "Muddy Water",
-            "tm": true
-        },
-        {
-            "move": "Calm Mind",
-            "tm": true
-        },
-        {
-            "move": "Close Combat",
-            "tm": true
-        },
-        {
-            "move": "Aura Sphere",
-            "tm": true
-        },
-        {
-            "move": "Poison Jab",
-            "tm": true
-        },
-        {
-            "move": "X-Scissor",
-            "tm": true
-        },
-        {
-            "move": "Focus Blast",
-            "tm": true
-        },
-        {
-            "move": "Stone Edge",
-            "tm": true
-        },
-        {
-            "move": "Scald",
-            "tm": true
-        },
-        {
-            "move": "Work Up",
-            "tm": true
-        },
-        {
-            "move": "Liquidation",
-            "tm": true
-        }
-    ]
+	"name": "Keldeo",
+	"national_id": 647,
+	"types": ["Water", "Fighting"],
+	"abilities": [
+		{
+			"name": "Justified"
+		}
+	],
+	"catch_rate": 3,
+	"gender_ratios": null,
+	"egg_groups": ["Undiscovered"],
+	"hatch_time": [20655, 20909],
+	"height_us": "4'07\"",
+	"height_eu": "1.4 m",
+	"weight_us": "106.9 lbs.",
+	"weight_eu": "48.5 kg",
+	"base_exp_yield": 261,
+	"leveling_rate": "Slow",
+	"base_friendship": 35,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 3,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 91,
+		"atk": 72,
+		"def": 90,
+		"sp_atk": 129,
+		"sp_def": 90,
+		"speed": 108
+	},
+	"evolution_from": null,
+	"evolutions": [],
+	"species": "Colt Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "They say that Keldeo must survive harsh battles and fully develop the horn on its forehead before this Pokémon’s true power will awaken.",
+	"move_learnset": [
+		{
+			"move": "Secret Sword",
+			"level": 1
+		},
+		{
+			"move": "Aqua Jet",
+			"level": 1
+		},
+		{
+			"move": "Leer",
+			"level": 1
+		},
+		{
+			"move": "Helping Hand",
+			"level": 1
+		},
+		{
+			"move": "Work Up",
+			"level": 1
+		},
+		{
+			"move": "Bubble Beam",
+			"level": 7
+		},
+		{
+			"move": "Quick Guard",
+			"level": 14
+		},
+		{
+			"move": "Double Kick",
+			"level": 21
+		},
+		{
+			"move": "Retaliate",
+			"level": 28
+		},
+		{
+			"move": "Aqua Tail",
+			"level": 35
+		},
+		{
+			"move": "Take Down",
+			"level": 42
+		},
+		{
+			"move": "Sacred Sword",
+			"level": 49
+		},
+		{
+			"move": "Swords Dance",
+			"level": 56
+		},
+		{
+			"move": "Hydro Pump",
+			"level": 63
+		},
+		{
+			"move": "Close Combat",
+			"level": 70
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": true
+		},
+		{
+			"move": "Giga Impact",
+			"tm": true
+		},
+		{
+			"move": "Reflect",
+			"tm": true
+		},
+		{
+			"move": "Safeguard",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Icy Wind",
+			"tm": true
+		},
+		{
+			"move": "Rain Dance",
+			"tm": true
+		},
+		{
+			"move": "Sunny Day",
+			"tm": true
+		},
+		{
+			"move": "Hail",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Swift",
+			"tm": true
+		},
+		{
+			"move": "Helping Hand",
+			"tm": true
+		},
+		{
+			"move": "Revenge",
+			"tm": true
+		},
+		{
+			"move": "Brick Break",
+			"tm": true
+		},
+		{
+			"move": "Bounce",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Retaliate",
+			"tm": true
+		},
+		{
+			"move": "False Swipe",
+			"tm": true
+		},
+		{
+			"move": "Air Slash",
+			"tm": true
+		},
+		{
+			"move": "Smart Strike",
+			"tm": true
+		},
+		{
+			"move": "Swords Dance",
+			"tm": true
+		},
+		{
+			"move": "Hydro Pump",
+			"tm": true
+		},
+		{
+			"move": "Surf",
+			"tm": true
+		},
+		{
+			"move": "Low Kick",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Reversal",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Megahorn",
+			"tm": true
+		},
+		{
+			"move": "Taunt",
+			"tm": true
+		},
+		{
+			"move": "Superpower",
+			"tm": true
+		},
+		{
+			"move": "Muddy Water",
+			"tm": true
+		},
+		{
+			"move": "Calm Mind",
+			"tm": true
+		},
+		{
+			"move": "Close Combat",
+			"tm": true
+		},
+		{
+			"move": "Aura Sphere",
+			"tm": true
+		},
+		{
+			"move": "Poison Jab",
+			"tm": true
+		},
+		{
+			"move": "X-Scissor",
+			"tm": true
+		},
+		{
+			"move": "Focus Blast",
+			"tm": true
+		},
+		{
+			"move": "Stone Edge",
+			"tm": true
+		},
+		{
+			"move": "Scald",
+			"tm": true
+		},
+		{
+			"move": "Work Up",
+			"tm": true
+		},
+		{
+			"move": "Liquidation",
+			"tm": true
+		}
+	]
 }

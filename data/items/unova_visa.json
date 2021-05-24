@@ -1,8 +1,8 @@
 {
-    "name": "Unova Visa",
-    "sell_price": null,
-    "holdable": false,
-    "battle": false,
-    "category": "Key Item",
-    "subcategory": "Visa"
+	"name": "Unova Visa",
+	"sell_price": null,
+	"holdable": false,
+	"battle": false,
+	"category": "Key Item",
+	"subcategory": "Visa"
 }

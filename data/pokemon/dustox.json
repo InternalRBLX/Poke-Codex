@@ -1,237 +1,229 @@
 {
-    "name": "Dustox",
-    "national_id": 269,
-    "types": [
-        "Bug",
-        "Poison"
-    ],
-    "items": [
-        {
-            "name": "Shed Shell",
-            "chance": 5
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Shield Dust"
-        },
-        {
-            "name": "Compound Eyes",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 45,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Bug"
-    ],
-    "hatch_time": [
-        4080,
-        4334
-    ],
-    "height_us": "3'11\"",
-    "height_eu": "1.2 m",
-    "weight_us": "69.7 lbs.",
-    "weight_eu": "31.6 kg",
-    "base_exp_yield": 135,
-    "leveling_rate": "Medium Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 3,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 60,
-        "atk": 50,
-        "def": 70,
-        "sp_atk": 50,
-        "sp_def": 90,
-        "speed": 65
-    },
-    "evolution_from": "Cascoon",
-    "evolutions": [],
-    "species": "Poison Moth Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "When Dustox flaps its wings, a fine dust is scattered all over. This dust is actually a powerful poison that will even make a pro wrestler sick. This Pokémon searches for food using its antennae like radar.",
-    "move_learnset": [
-        {
-            "move": "Gust",
-            "level": 1
-        },
-        {
-            "move": "Confusion",
-            "level": 12
-        },
-        {
-            "move": "Poison Powder",
-            "level": 15
-        },
-        {
-            "move": "Moonlight",
-            "level": 17
-        },
-        {
-            "move": "Venoshock",
-            "level": 20
-        },
-        {
-            "move": "Psybeam",
-            "level": 22
-        },
-        {
-            "move": "Silver Wind",
-            "level": 25
-        },
-        {
-            "move": "Light Screen",
-            "level": 27
-        },
-        {
-            "move": "Whirlwind",
-            "level": 30
-        },
-        {
-            "move": "Toxic",
-            "level": 32
-        },
-        {
-            "move": "Bug Buzz",
-            "level": 35
-        },
-        {
-            "move": "Protect",
-            "level": 37
-        },
-        {
-            "move": "Quiver Dance",
-            "level": 40
-        },
-        {
-            "move": "Toxic",
-            "tm": "TM6"
-        },
-        {
-            "move": "Venoshock",
-            "tm": "TM9"
-        },
-        {
-            "move": "Hidden Power",
-            "tm": "TM10"
-        },
-        {
-            "move": "Sunny Day",
-            "tm": "TM11"
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": "TM15"
-        },
-        {
-            "move": "Light Screen",
-            "tm": "TM16"
-        },
-        {
-            "move": "Protect",
-            "tm": "TM17"
-        },
-        {
-            "move": "Roost",
-            "tm": "TM19"
-        },
-        {
-            "move": "Frustration",
-            "tm": "TM21"
-        },
-        {
-            "move": "Solar Beam",
-            "tm": "TM22"
-        },
-        {
-            "move": "Return",
-            "tm": "TM27"
-        },
-        {
-            "move": "Psychic",
-            "tm": "TM29"
-        },
-        {
-            "move": "Shadow Ball",
-            "tm": "TM30"
-        },
-        {
-            "move": "Double Team",
-            "tm": "TM32"
-        },
-        {
-            "move": "Sludge Bomb",
-            "tm": "TM36"
-        },
-        {
-            "move": "Aerial Ace",
-            "tm": "TM40"
-        },
-        {
-            "move": "Facade",
-            "tm": "TM42"
-        },
-        {
-            "move": "Rest",
-            "tm": "TM44"
-        },
-        {
-            "move": "Attract",
-            "tm": "TM45"
-        },
-        {
-            "move": "Thief",
-            "tm": "TM46"
-        },
-        {
-            "move": "Round",
-            "tm": "TM48"
-        },
-        {
-            "move": "Energy Ball",
-            "tm": "TM53"
-        },
-        {
-            "move": "Acrobatics",
-            "tm": "TM62"
-        },
-        {
-            "move": "Giga Impact",
-            "tm": "TM68"
-        },
-        {
-            "move": "Infestation",
-            "tm": "TM83"
-        },
-        {
-            "move": "Swagger",
-            "tm": "TM87"
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": "TM88"
-        },
-        {
-            "move": "U-turn",
-            "tm": "TM89"
-        },
-        {
-            "move": "Substitute",
-            "tm": "TM90"
-        },
-        {
-            "move": "Confide",
-            "tm": "TM100"
-        }
-    ]
+	"name": "Dustox",
+	"national_id": 269,
+	"types": ["Bug", "Poison"],
+	"items": [
+		{
+			"name": "Shed Shell",
+			"chance": 5
+		}
+	],
+	"abilities": [
+		{
+			"name": "Shield Dust"
+		},
+		{
+			"name": "Compound Eyes",
+			"hidden": true
+		}
+	],
+	"catch_rate": 45,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Bug"],
+	"hatch_time": [4080, 4334],
+	"height_us": "3'11\"",
+	"height_eu": "1.2 m",
+	"weight_us": "69.7 lbs.",
+	"weight_eu": "31.6 kg",
+	"base_exp_yield": 135,
+	"leveling_rate": "Medium Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 3,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 60,
+		"atk": 50,
+		"def": 70,
+		"sp_atk": 50,
+		"sp_def": 90,
+		"speed": 65
+	},
+	"evolution_from": "Cascoon",
+	"evolutions": [],
+	"species": "Poison Moth Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "When Dustox flaps its wings, a fine dust is scattered all over. This dust is actually a powerful poison that will even make a pro wrestler sick. This Pokémon searches for food using its antennae like radar.",
+	"move_learnset": [
+		{
+			"move": "Gust",
+			"level": 1
+		},
+		{
+			"move": "Confusion",
+			"level": 12
+		},
+		{
+			"move": "Poison Powder",
+			"level": 15
+		},
+		{
+			"move": "Moonlight",
+			"level": 17
+		},
+		{
+			"move": "Venoshock",
+			"level": 20
+		},
+		{
+			"move": "Psybeam",
+			"level": 22
+		},
+		{
+			"move": "Silver Wind",
+			"level": 25
+		},
+		{
+			"move": "Light Screen",
+			"level": 27
+		},
+		{
+			"move": "Whirlwind",
+			"level": 30
+		},
+		{
+			"move": "Toxic",
+			"level": 32
+		},
+		{
+			"move": "Bug Buzz",
+			"level": 35
+		},
+		{
+			"move": "Protect",
+			"level": 37
+		},
+		{
+			"move": "Quiver Dance",
+			"level": 40
+		},
+		{
+			"move": "Toxic",
+			"tm": "TM6"
+		},
+		{
+			"move": "Venoshock",
+			"tm": "TM9"
+		},
+		{
+			"move": "Hidden Power",
+			"tm": "TM10"
+		},
+		{
+			"move": "Sunny Day",
+			"tm": "TM11"
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": "TM15"
+		},
+		{
+			"move": "Light Screen",
+			"tm": "TM16"
+		},
+		{
+			"move": "Protect",
+			"tm": "TM17"
+		},
+		{
+			"move": "Roost",
+			"tm": "TM19"
+		},
+		{
+			"move": "Frustration",
+			"tm": "TM21"
+		},
+		{
+			"move": "Solar Beam",
+			"tm": "TM22"
+		},
+		{
+			"move": "Return",
+			"tm": "TM27"
+		},
+		{
+			"move": "Psychic",
+			"tm": "TM29"
+		},
+		{
+			"move": "Shadow Ball",
+			"tm": "TM30"
+		},
+		{
+			"move": "Double Team",
+			"tm": "TM32"
+		},
+		{
+			"move": "Sludge Bomb",
+			"tm": "TM36"
+		},
+		{
+			"move": "Aerial Ace",
+			"tm": "TM40"
+		},
+		{
+			"move": "Facade",
+			"tm": "TM42"
+		},
+		{
+			"move": "Rest",
+			"tm": "TM44"
+		},
+		{
+			"move": "Attract",
+			"tm": "TM45"
+		},
+		{
+			"move": "Thief",
+			"tm": "TM46"
+		},
+		{
+			"move": "Round",
+			"tm": "TM48"
+		},
+		{
+			"move": "Energy Ball",
+			"tm": "TM53"
+		},
+		{
+			"move": "Acrobatics",
+			"tm": "TM62"
+		},
+		{
+			"move": "Giga Impact",
+			"tm": "TM68"
+		},
+		{
+			"move": "Infestation",
+			"tm": "TM83"
+		},
+		{
+			"move": "Swagger",
+			"tm": "TM87"
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": "TM88"
+		},
+		{
+			"move": "U-turn",
+			"tm": "TM89"
+		},
+		{
+			"move": "Substitute",
+			"tm": "TM90"
+		},
+		{
+			"move": "Confide",
+			"tm": "TM100"
+		}
+	]
 }

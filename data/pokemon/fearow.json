@@ -1,285 +1,277 @@
 {
-    "name": "Fearow",
-    "national_id": 22,
-    "types": [
-        "Normal",
-        "Flying"
-    ],
-    "items": [
-        {
-            "name": "Sharp Beak",
-            "chance": 5
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Keen Eye"
-        },
-        {
-            "name": "Sniper",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 90,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Flying"
-    ],
-    "hatch_time": [
-        4080,
-        4334
-    ],
-    "height_us": "3'11\"",
-    "height_eu": "1.2 m",
-    "weight_us": "83.8 lbs.",
-    "weight_eu": "38.0 kg",
-    "base_exp_yield": 155,
-    "leveling_rate": "Medium Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 2
-    },
-    "base_stats": {
-        "hp": 65,
-        "atk": 90,
-        "def": 65,
-        "sp_atk": 61,
-        "sp_def": 61,
-        "speed": 100
-    },
-    "evolution_from": "Spearow",
-    "evolutions": [],
-    "species": "Beak Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "Fearow is recognized by its long neck and elongated beak. They are conveniently shaped for catching prey in soil or water. It deftly moves its long and skinny beak to pluck prey.",
-    "move_learnset": [
-        {
-            "move": "Drill Run",
-            "level": 1
-        },
-        {
-            "move": "Growl",
-            "level": 1
-        },
-        {
-            "move": "Leer",
-            "level": 1
-        },
-        {
-            "move": "Peck",
-            "level": 1
-        },
-        {
-            "move": "Pluck",
-            "level": 1
-        },
-        {
-            "move": "Pursuit",
-            "level": 1
-        },
-        {
-            "move": "Leer",
-            "level": 4
-        },
-        {
-            "move": "Pursuit",
-            "level": 8
-        },
-        {
-            "move": "Fury Attack",
-            "level": 11
-        },
-        {
-            "move": "Aerial Ace",
-            "level": 15
-        },
-        {
-            "move": "Mirror Move",
-            "level": 18
-        },
-        {
-            "move": "Assurance",
-            "level": 23
-        },
-        {
-            "move": "Agility",
-            "level": 27
-        },
-        {
-            "move": "Focus Energy",
-            "level": 32
-        },
-        {
-            "move": "Roost",
-            "level": 36
-        },
-        {
-            "move": "Drill Peck",
-            "level": 41
-        },
-        {
-            "move": "Drill Run",
-            "level": 45
-        },
-        {
-            "move": "Astonish",
-            "egg_move": true
-        },
-        {
-            "move": "Feather Dance",
-            "egg_move": true
-        },
-        {
-            "move": "Feint Attack",
-            "egg_move": true
-        },
-        {
-            "move": "Quick Attack",
-            "egg_move": true
-        },
-        {
-            "move": "Razor Wind",
-            "egg_move": true
-        },
-        {
-            "move": "Scary Face",
-            "egg_move": true
-        },
-        {
-            "move": "Sky Attack",
-            "egg_move": true
-        },
-        {
-            "move": "Steel Wing",
-            "egg_move": true
-        },
-        {
-            "move": "Tri Attack",
-            "egg_move": true
-        },
-        {
-            "move": "Uproar",
-            "egg_move": true
-        },
-        {
-            "move": "Whirlwind",
-            "egg_move": true
-        },
-        {
-            "move": "Work Up",
-            "tm": "TM1"
-        },
-        {
-            "move": "Toxic",
-            "tm": "TM6"
-        },
-        {
-            "move": "Hidden Power",
-            "tm": "TM10"
-        },
-        {
-            "move": "Sunny Day",
-            "tm": "TM11"
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": "TM15"
-        },
-        {
-            "move": "Protect",
-            "tm": "TM17"
-        },
-        {
-            "move": "Rain Dance",
-            "tm": "TM18"
-        },
-        {
-            "move": "Roost",
-            "tm": "TM19"
-        },
-        {
-            "move": "Frustration",
-            "tm": "TM21"
-        },
-        {
-            "move": "Return",
-            "tm": "TM27"
-        },
-        {
-            "move": "Double Team",
-            "tm": "TM32"
-        },
-        {
-            "move": "Aerial Ace",
-            "tm": "TM40"
-        },
-        {
-            "move": "Facade",
-            "tm": "TM42"
-        },
-        {
-            "move": "Rest",
-            "tm": "TM44"
-        },
-        {
-            "move": "Attract",
-            "tm": "TM45"
-        },
-        {
-            "move": "Thief",
-            "tm": "TM46"
-        },
-        {
-            "move": "Round",
-            "tm": "TM48"
-        },
-        {
-            "move": "Echoed Voice",
-            "tm": "TM49"
-        },
-        {
-            "move": "Steel Wing",
-            "tm": "TM51"
-        },
-        {
-            "move": "False Swipe",
-            "tm": "TM54"
-        },
-        {
-            "move": "Giga Impact",
-            "tm": "TM68"
-        },
-        {
-            "move": "Fly",
-            "tm": "TM76"
-        },
-        {
-            "move": "Swagger",
-            "tm": "TM87"
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": "TM88"
-        },
-        {
-            "move": "U-turn",
-            "tm": "TM89"
-        },
-        {
-            "move": "Substitute",
-            "tm": "TM90"
-        },
-        {
-            "move": "Confide",
-            "tm": "TM100"
-        }
-    ]
+	"name": "Fearow",
+	"national_id": 22,
+	"types": ["Normal", "Flying"],
+	"items": [
+		{
+			"name": "Sharp Beak",
+			"chance": 5
+		}
+	],
+	"abilities": [
+		{
+			"name": "Keen Eye"
+		},
+		{
+			"name": "Sniper",
+			"hidden": true
+		}
+	],
+	"catch_rate": 90,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Flying"],
+	"hatch_time": [4080, 4334],
+	"height_us": "3'11\"",
+	"height_eu": "1.2 m",
+	"weight_us": "83.8 lbs.",
+	"weight_eu": "38.0 kg",
+	"base_exp_yield": 155,
+	"leveling_rate": "Medium Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 2
+	},
+	"base_stats": {
+		"hp": 65,
+		"atk": 90,
+		"def": 65,
+		"sp_atk": 61,
+		"sp_def": 61,
+		"speed": 100
+	},
+	"evolution_from": "Spearow",
+	"evolutions": [],
+	"species": "Beak Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "Fearow is recognized by its long neck and elongated beak. They are conveniently shaped for catching prey in soil or water. It deftly moves its long and skinny beak to pluck prey.",
+	"move_learnset": [
+		{
+			"move": "Drill Run",
+			"level": 1
+		},
+		{
+			"move": "Growl",
+			"level": 1
+		},
+		{
+			"move": "Leer",
+			"level": 1
+		},
+		{
+			"move": "Peck",
+			"level": 1
+		},
+		{
+			"move": "Pluck",
+			"level": 1
+		},
+		{
+			"move": "Pursuit",
+			"level": 1
+		},
+		{
+			"move": "Leer",
+			"level": 4
+		},
+		{
+			"move": "Pursuit",
+			"level": 8
+		},
+		{
+			"move": "Fury Attack",
+			"level": 11
+		},
+		{
+			"move": "Aerial Ace",
+			"level": 15
+		},
+		{
+			"move": "Mirror Move",
+			"level": 18
+		},
+		{
+			"move": "Assurance",
+			"level": 23
+		},
+		{
+			"move": "Agility",
+			"level": 27
+		},
+		{
+			"move": "Focus Energy",
+			"level": 32
+		},
+		{
+			"move": "Roost",
+			"level": 36
+		},
+		{
+			"move": "Drill Peck",
+			"level": 41
+		},
+		{
+			"move": "Drill Run",
+			"level": 45
+		},
+		{
+			"move": "Astonish",
+			"egg_move": true
+		},
+		{
+			"move": "Feather Dance",
+			"egg_move": true
+		},
+		{
+			"move": "Feint Attack",
+			"egg_move": true
+		},
+		{
+			"move": "Quick Attack",
+			"egg_move": true
+		},
+		{
+			"move": "Razor Wind",
+			"egg_move": true
+		},
+		{
+			"move": "Scary Face",
+			"egg_move": true
+		},
+		{
+			"move": "Sky Attack",
+			"egg_move": true
+		},
+		{
+			"move": "Steel Wing",
+			"egg_move": true
+		},
+		{
+			"move": "Tri Attack",
+			"egg_move": true
+		},
+		{
+			"move": "Uproar",
+			"egg_move": true
+		},
+		{
+			"move": "Whirlwind",
+			"egg_move": true
+		},
+		{
+			"move": "Work Up",
+			"tm": "TM1"
+		},
+		{
+			"move": "Toxic",
+			"tm": "TM6"
+		},
+		{
+			"move": "Hidden Power",
+			"tm": "TM10"
+		},
+		{
+			"move": "Sunny Day",
+			"tm": "TM11"
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": "TM15"
+		},
+		{
+			"move": "Protect",
+			"tm": "TM17"
+		},
+		{
+			"move": "Rain Dance",
+			"tm": "TM18"
+		},
+		{
+			"move": "Roost",
+			"tm": "TM19"
+		},
+		{
+			"move": "Frustration",
+			"tm": "TM21"
+		},
+		{
+			"move": "Return",
+			"tm": "TM27"
+		},
+		{
+			"move": "Double Team",
+			"tm": "TM32"
+		},
+		{
+			"move": "Aerial Ace",
+			"tm": "TM40"
+		},
+		{
+			"move": "Facade",
+			"tm": "TM42"
+		},
+		{
+			"move": "Rest",
+			"tm": "TM44"
+		},
+		{
+			"move": "Attract",
+			"tm": "TM45"
+		},
+		{
+			"move": "Thief",
+			"tm": "TM46"
+		},
+		{
+			"move": "Round",
+			"tm": "TM48"
+		},
+		{
+			"move": "Echoed Voice",
+			"tm": "TM49"
+		},
+		{
+			"move": "Steel Wing",
+			"tm": "TM51"
+		},
+		{
+			"move": "False Swipe",
+			"tm": "TM54"
+		},
+		{
+			"move": "Giga Impact",
+			"tm": "TM68"
+		},
+		{
+			"move": "Fly",
+			"tm": "TM76"
+		},
+		{
+			"move": "Swagger",
+			"tm": "TM87"
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": "TM88"
+		},
+		{
+			"move": "U-turn",
+			"tm": "TM89"
+		},
+		{
+			"move": "Substitute",
+			"tm": "TM90"
+		},
+		{
+			"move": "Confide",
+			"tm": "TM100"
+		}
+	]
 }

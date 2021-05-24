@@ -1,317 +1,308 @@
 {
-    "name": "Marshtomp",
-    "national_id": 259,
-    "types": [
-        "Water",
-        "Ground"
-    ],
-    "abilities": [
-        {
-            "name": "Torrent"
-        },
-        {
-            "name": "Damp",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 45,
-    "gender_ratios": {
-        "male": 87.5,
-        "female": 12.5
-    },
-    "egg_groups": [
-        "Monster",
-        "Water 1"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "2'04\"",
-    "height_eu": "0.7 m",
-    "weight_us": "61.7 lbs.",
-    "weight_eu": "28.0 kg",
-    "base_exp_yield": 142,
-    "leveling_rate": "Medium Slow",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 2,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 70,
-        "atk": 85,
-        "def": 70,
-        "sp_atk": 60,
-        "sp_def": 70,
-        "speed": 50
-    },
-    "evolution_from": "Mudkip",
-    "evolutions": [
-        {
-            "to": "Swampert",
-            "level": 36
-        }
-    ],
-    "species": "Mud Fish Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "Marshtomp is much faster at traveling through mud than it is at swimming. This Pokémon’s hindquarters exhibit obvious development, giving it the ability to walk on just its hind legs.",
-    "move_learnset": [
-        {
-            "move": "Growl",
-            "level": 1
-        },
-        {
-            "move": "Mud Shot",
-            "level": 1
-        },
-        {
-            "move": "Mud-Slap",
-            "level": 1
-        },
-        {
-            "move": "Tackle",
-            "level": 1
-        },
-        {
-            "move": "Water Gun",
-            "level": 1
-        },
-        {
-            "move": "Water Gun",
-            "level": 4
-        },
-        {
-            "move": "Mud-Slap",
-            "level": 9
-        },
-        {
-            "move": "Foresight",
-            "level": 12
-        },
-        {
-            "move": "Bide",
-            "level": 18
-        },
-        {
-            "move": "Mud Bomb",
-            "level": 22
-        },
-        {
-            "move": "Rock Slide",
-            "level": 28
-        },
-        {
-            "move": "Protect",
-            "level": 32
-        },
-        {
-            "move": "Muddy Water",
-            "level": 38
-        },
-        {
-            "move": "Take Down",
-            "level": 42
-        },
-        {
-            "move": "Earthquake",
-            "level": 48
-        },
-        {
-            "move": "Endeavor",
-            "level": 52
-        },
-        {
-            "move": "Ancient Power",
-            "egg_move": true
-        },
-        {
-            "move": "Avalanche",
-            "egg_move": true
-        },
-        {
-            "move": "Barrier",
-            "egg_move": true
-        },
-        {
-            "move": "Bite",
-            "egg_move": true
-        },
-        {
-            "move": "Counter",
-            "egg_move": true
-        },
-        {
-            "move": "Curse",
-            "egg_move": true
-        },
-        {
-            "move": "Double-Edge",
-            "egg_move": true
-        },
-        {
-            "move": "Ice Ball",
-            "egg_move": true
-        },
-        {
-            "move": "Mirror Coat",
-            "egg_move": true
-        },
-        {
-            "move": "Mud Bomb",
-            "egg_move": true
-        },
-        {
-            "move": "Refresh",
-            "egg_move": true
-        },
-        {
-            "move": "Sludge",
-            "egg_move": true
-        },
-        {
-            "move": "Stomp",
-            "egg_move": true
-        },
-        {
-            "move": "Uproar",
-            "egg_move": true
-        },
-        {
-            "move": "Whirlpool",
-            "egg_move": true
-        },
-        {
-            "move": "Wide Guard",
-            "egg_move": true
-        },
-        {
-            "move": "Yawn",
-            "egg_move": true
-        },
-        {
-            "move": "Work Up",
-            "tm": "TM1"
-        },
-        {
-            "move": "Toxic",
-            "tm": "TM6"
-        },
-        {
-            "move": "Hail",
-            "tm": "TM7"
-        },
-        {
-            "move": "Hidden Power",
-            "tm": "TM10"
-        },
-        {
-            "move": "Ice Beam",
-            "tm": "TM13"
-        },
-        {
-            "move": "Blizzard",
-            "tm": "TM14"
-        },
-        {
-            "move": "Protect",
-            "tm": "TM17"
-        },
-        {
-            "move": "Rain Dance",
-            "tm": "TM18"
-        },
-        {
-            "move": "Frustration",
-            "tm": "TM21"
-        },
-        {
-            "move": "Earthquake",
-            "tm": "TM26"
-        },
-        {
-            "move": "Return",
-            "tm": "TM27"
-        },
-        {
-            "move": "Brick Break",
-            "tm": "TM31"
-        },
-        {
-            "move": "Double Team",
-            "tm": "TM32"
-        },
-        {
-            "move": "Sludge Wave",
-            "tm": "TM34"
-        },
-        {
-            "move": "Rock Tomb",
-            "tm": "TM39"
-        },
-        {
-            "move": "Facade",
-            "tm": "TM42"
-        },
-        {
-            "move": "Rest",
-            "tm": "TM44"
-        },
-        {
-            "move": "Attract",
-            "tm": "TM45"
-        },
-        {
-            "move": "Round",
-            "tm": "TM48"
-        },
-        {
-            "move": "Echoed Voice",
-            "tm": "TM49"
-        },
-        {
-            "move": "Scald",
-            "tm": "TM55"
-        },
-        {
-            "move": "Fling",
-            "tm": "TM56"
-        },
-        {
-            "move": "Bulldoze",
-            "tm": "TM78"
-        },
-        {
-            "move": "Rock Slide",
-            "tm": "TM80"
-        },
-        {
-            "move": "Swagger",
-            "tm": "TM87"
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": "TM88"
-        },
-        {
-            "move": "Substitute",
-            "tm": "TM90"
-        },
-        {
-            "move": "Surf",
-            "tm": "TM94"
-        },
-        {
-            "move": "Waterfall",
-            "tm": "TM98"
-        },
-        {
-            "move": "Confide",
-            "tm": "TM100"
-        }
-    ]
+	"name": "Marshtomp",
+	"national_id": 259,
+	"types": ["Water", "Ground"],
+	"abilities": [
+		{
+			"name": "Torrent"
+		},
+		{
+			"name": "Damp",
+			"hidden": true
+		}
+	],
+	"catch_rate": 45,
+	"gender_ratios": {
+		"male": 87.5,
+		"female": 12.5
+	},
+	"egg_groups": ["Monster", "Water 1"],
+	"hatch_time": [5355, 5609],
+	"height_us": "2'04\"",
+	"height_eu": "0.7 m",
+	"weight_us": "61.7 lbs.",
+	"weight_eu": "28.0 kg",
+	"base_exp_yield": 142,
+	"leveling_rate": "Medium Slow",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 2,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 70,
+		"atk": 85,
+		"def": 70,
+		"sp_atk": 60,
+		"sp_def": 70,
+		"speed": 50
+	},
+	"evolution_from": "Mudkip",
+	"evolutions": [
+		{
+			"to": "Swampert",
+			"level": 36
+		}
+	],
+	"species": "Mud Fish Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "Marshtomp is much faster at traveling through mud than it is at swimming. This Pokémon’s hindquarters exhibit obvious development, giving it the ability to walk on just its hind legs.",
+	"move_learnset": [
+		{
+			"move": "Growl",
+			"level": 1
+		},
+		{
+			"move": "Mud Shot",
+			"level": 1
+		},
+		{
+			"move": "Mud-Slap",
+			"level": 1
+		},
+		{
+			"move": "Tackle",
+			"level": 1
+		},
+		{
+			"move": "Water Gun",
+			"level": 1
+		},
+		{
+			"move": "Water Gun",
+			"level": 4
+		},
+		{
+			"move": "Mud-Slap",
+			"level": 9
+		},
+		{
+			"move": "Foresight",
+			"level": 12
+		},
+		{
+			"move": "Bide",
+			"level": 18
+		},
+		{
+			"move": "Mud Bomb",
+			"level": 22
+		},
+		{
+			"move": "Rock Slide",
+			"level": 28
+		},
+		{
+			"move": "Protect",
+			"level": 32
+		},
+		{
+			"move": "Muddy Water",
+			"level": 38
+		},
+		{
+			"move": "Take Down",
+			"level": 42
+		},
+		{
+			"move": "Earthquake",
+			"level": 48
+		},
+		{
+			"move": "Endeavor",
+			"level": 52
+		},
+		{
+			"move": "Ancient Power",
+			"egg_move": true
+		},
+		{
+			"move": "Avalanche",
+			"egg_move": true
+		},
+		{
+			"move": "Barrier",
+			"egg_move": true
+		},
+		{
+			"move": "Bite",
+			"egg_move": true
+		},
+		{
+			"move": "Counter",
+			"egg_move": true
+		},
+		{
+			"move": "Curse",
+			"egg_move": true
+		},
+		{
+			"move": "Double-Edge",
+			"egg_move": true
+		},
+		{
+			"move": "Ice Ball",
+			"egg_move": true
+		},
+		{
+			"move": "Mirror Coat",
+			"egg_move": true
+		},
+		{
+			"move": "Mud Bomb",
+			"egg_move": true
+		},
+		{
+			"move": "Refresh",
+			"egg_move": true
+		},
+		{
+			"move": "Sludge",
+			"egg_move": true
+		},
+		{
+			"move": "Stomp",
+			"egg_move": true
+		},
+		{
+			"move": "Uproar",
+			"egg_move": true
+		},
+		{
+			"move": "Whirlpool",
+			"egg_move": true
+		},
+		{
+			"move": "Wide Guard",
+			"egg_move": true
+		},
+		{
+			"move": "Yawn",
+			"egg_move": true
+		},
+		{
+			"move": "Work Up",
+			"tm": "TM1"
+		},
+		{
+			"move": "Toxic",
+			"tm": "TM6"
+		},
+		{
+			"move": "Hail",
+			"tm": "TM7"
+		},
+		{
+			"move": "Hidden Power",
+			"tm": "TM10"
+		},
+		{
+			"move": "Ice Beam",
+			"tm": "TM13"
+		},
+		{
+			"move": "Blizzard",
+			"tm": "TM14"
+		},
+		{
+			"move": "Protect",
+			"tm": "TM17"
+		},
+		{
+			"move": "Rain Dance",
+			"tm": "TM18"
+		},
+		{
+			"move": "Frustration",
+			"tm": "TM21"
+		},
+		{
+			"move": "Earthquake",
+			"tm": "TM26"
+		},
+		{
+			"move": "Return",
+			"tm": "TM27"
+		},
+		{
+			"move": "Brick Break",
+			"tm": "TM31"
+		},
+		{
+			"move": "Double Team",
+			"tm": "TM32"
+		},
+		{
+			"move": "Sludge Wave",
+			"tm": "TM34"
+		},
+		{
+			"move": "Rock Tomb",
+			"tm": "TM39"
+		},
+		{
+			"move": "Facade",
+			"tm": "TM42"
+		},
+		{
+			"move": "Rest",
+			"tm": "TM44"
+		},
+		{
+			"move": "Attract",
+			"tm": "TM45"
+		},
+		{
+			"move": "Round",
+			"tm": "TM48"
+		},
+		{
+			"move": "Echoed Voice",
+			"tm": "TM49"
+		},
+		{
+			"move": "Scald",
+			"tm": "TM55"
+		},
+		{
+			"move": "Fling",
+			"tm": "TM56"
+		},
+		{
+			"move": "Bulldoze",
+			"tm": "TM78"
+		},
+		{
+			"move": "Rock Slide",
+			"tm": "TM80"
+		},
+		{
+			"move": "Swagger",
+			"tm": "TM87"
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": "TM88"
+		},
+		{
+			"move": "Substitute",
+			"tm": "TM90"
+		},
+		{
+			"move": "Surf",
+			"tm": "TM94"
+		},
+		{
+			"move": "Waterfall",
+			"tm": "TM98"
+		},
+		{
+			"move": "Confide",
+			"tm": "TM100"
+		}
+	]
 }

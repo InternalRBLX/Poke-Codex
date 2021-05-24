@@ -1,241 +1,233 @@
 {
-    "name": "Starmie",
-    "national_id": 121,
-    "types": [
-        "Water",
-        "Psychic"
-    ],
-    "items": [
-        {
-            "name": "Star Piece",
-            "chance": 5
-        },
-        {
-            "name": "Stardust",
-            "chance": 50
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Illuminate"
-        },
-        {
-            "name": "Natural Cure"
-        },
-        {
-            "name": "Analytic",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 60,
-    "gender_ratios": null,
-    "egg_groups": [
-        "Water 3"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "3'07\"",
-    "height_eu": "1.1 m",
-    "weight_us": "176.4 lbs.",
-    "weight_eu": "80.0 kg",
-    "base_exp_yield": 182,
-    "leveling_rate": "Slow",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 2
-    },
-    "base_stats": {
-        "hp": 60,
-        "atk": 75,
-        "def": 85,
-        "sp_atk": 100,
-        "sp_def": 85,
-        "speed": 115
-    },
-    "evolution_from": "Staryu",
-    "evolutions": [],
-    "species": "Mysterious Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "Starmie swims through water by spinning its star-shaped body as if it were a propeller on a ship. The core at the center of this Pokémon's body glows in seven colors.",
-    "move_learnset": [
-        {
-            "move": "Hydro Pump",
-            "level": 1
-        },
-        {
-            "move": "Rapid Spin",
-            "level": 1
-        },
-        {
-            "move": "Recover",
-            "level": 1
-        },
-        {
-            "move": "Spotlight",
-            "level": 1
-        },
-        {
-            "move": "Swift",
-            "level": 1
-        },
-        {
-            "move": "Water Gun",
-            "level": 1
-        },
-        {
-            "move": "Confuse Ray",
-            "level": 40
-        },
-        {
-            "move": "Psyshock",
-            "tm": "TM3"
-        },
-        {
-            "move": "Toxic",
-            "tm": "TM6"
-        },
-        {
-            "move": "Hail",
-            "tm": "TM7"
-        },
-        {
-            "move": "Hidden Power",
-            "tm": "TM10"
-        },
-        {
-            "move": "Ice Beam",
-            "tm": "TM13"
-        },
-        {
-            "move": "Blizzard",
-            "tm": "TM14"
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": "TM15"
-        },
-        {
-            "move": "Light Screen",
-            "tm": "TM16"
-        },
-        {
-            "move": "Protect",
-            "tm": "TM17"
-        },
-        {
-            "move": "Rain Dance",
-            "tm": "TM18"
-        },
-        {
-            "move": "Frustration",
-            "tm": "TM21"
-        },
-        {
-            "move": "Thunderbolt",
-            "tm": "TM24"
-        },
-        {
-            "move": "Thunder",
-            "tm": "TM25"
-        },
-        {
-            "move": "Return",
-            "tm": "TM27"
-        },
-        {
-            "move": "Psychic",
-            "tm": "TM29"
-        },
-        {
-            "move": "Double Team",
-            "tm": "TM32"
-        },
-        {
-            "move": "Reflect",
-            "tm": "TM33"
-        },
-        {
-            "move": "Facade",
-            "tm": "TM42"
-        },
-        {
-            "move": "Rest",
-            "tm": "TM44"
-        },
-        {
-            "move": "Round",
-            "tm": "TM48"
-        },
-        {
-            "move": "Scald",
-            "tm": "TM55"
-        },
-        {
-            "move": "Giga Impact",
-            "tm": "TM68"
-        },
-        {
-            "move": "Thunder Wave",
-            "tm": "TM73"
-        },
-        {
-            "move": "Gyro Ball",
-            "tm": "TM74"
-        },
-        {
-            "move": "Psych Up",
-            "tm": "TM77"
-        },
-        {
-            "move": "Dream Eater",
-            "tm": "TM85"
-        },
-        {
-            "move": "Grass Knot",
-            "tm": "TM86"
-        },
-        {
-            "move": "Swagger",
-            "tm": "TM87"
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": "TM88"
-        },
-        {
-            "move": "Substitute",
-            "tm": "TM90"
-        },
-        {
-            "move": "Flash Cannon",
-            "tm": "TM91"
-        },
-        {
-            "move": "Trick Room",
-            "tm": "TM92"
-        },
-        {
-            "move": "Surf",
-            "tm": "TM94"
-        },
-        {
-            "move": "Waterfall",
-            "tm": "TM98"
-        },
-        {
-            "move": "Dazzling Gleam",
-            "tm": "TM99"
-        },
-        {
-            "move": "Confide",
-            "tm": "TM100"
-        }
-    ]
+	"name": "Starmie",
+	"national_id": 121,
+	"types": ["Water", "Psychic"],
+	"items": [
+		{
+			"name": "Star Piece",
+			"chance": 5
+		},
+		{
+			"name": "Stardust",
+			"chance": 50
+		}
+	],
+	"abilities": [
+		{
+			"name": "Illuminate"
+		},
+		{
+			"name": "Natural Cure"
+		},
+		{
+			"name": "Analytic",
+			"hidden": true
+		}
+	],
+	"catch_rate": 60,
+	"gender_ratios": null,
+	"egg_groups": ["Water 3"],
+	"hatch_time": [5355, 5609],
+	"height_us": "3'07\"",
+	"height_eu": "1.1 m",
+	"weight_us": "176.4 lbs.",
+	"weight_eu": "80.0 kg",
+	"base_exp_yield": 182,
+	"leveling_rate": "Slow",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 2
+	},
+	"base_stats": {
+		"hp": 60,
+		"atk": 75,
+		"def": 85,
+		"sp_atk": 100,
+		"sp_def": 85,
+		"speed": 115
+	},
+	"evolution_from": "Staryu",
+	"evolutions": [],
+	"species": "Mysterious Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "Starmie swims through water by spinning its star-shaped body as if it were a propeller on a ship. The core at the center of this Pokémon's body glows in seven colors.",
+	"move_learnset": [
+		{
+			"move": "Hydro Pump",
+			"level": 1
+		},
+		{
+			"move": "Rapid Spin",
+			"level": 1
+		},
+		{
+			"move": "Recover",
+			"level": 1
+		},
+		{
+			"move": "Spotlight",
+			"level": 1
+		},
+		{
+			"move": "Swift",
+			"level": 1
+		},
+		{
+			"move": "Water Gun",
+			"level": 1
+		},
+		{
+			"move": "Confuse Ray",
+			"level": 40
+		},
+		{
+			"move": "Psyshock",
+			"tm": "TM3"
+		},
+		{
+			"move": "Toxic",
+			"tm": "TM6"
+		},
+		{
+			"move": "Hail",
+			"tm": "TM7"
+		},
+		{
+			"move": "Hidden Power",
+			"tm": "TM10"
+		},
+		{
+			"move": "Ice Beam",
+			"tm": "TM13"
+		},
+		{
+			"move": "Blizzard",
+			"tm": "TM14"
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": "TM15"
+		},
+		{
+			"move": "Light Screen",
+			"tm": "TM16"
+		},
+		{
+			"move": "Protect",
+			"tm": "TM17"
+		},
+		{
+			"move": "Rain Dance",
+			"tm": "TM18"
+		},
+		{
+			"move": "Frustration",
+			"tm": "TM21"
+		},
+		{
+			"move": "Thunderbolt",
+			"tm": "TM24"
+		},
+		{
+			"move": "Thunder",
+			"tm": "TM25"
+		},
+		{
+			"move": "Return",
+			"tm": "TM27"
+		},
+		{
+			"move": "Psychic",
+			"tm": "TM29"
+		},
+		{
+			"move": "Double Team",
+			"tm": "TM32"
+		},
+		{
+			"move": "Reflect",
+			"tm": "TM33"
+		},
+		{
+			"move": "Facade",
+			"tm": "TM42"
+		},
+		{
+			"move": "Rest",
+			"tm": "TM44"
+		},
+		{
+			"move": "Round",
+			"tm": "TM48"
+		},
+		{
+			"move": "Scald",
+			"tm": "TM55"
+		},
+		{
+			"move": "Giga Impact",
+			"tm": "TM68"
+		},
+		{
+			"move": "Thunder Wave",
+			"tm": "TM73"
+		},
+		{
+			"move": "Gyro Ball",
+			"tm": "TM74"
+		},
+		{
+			"move": "Psych Up",
+			"tm": "TM77"
+		},
+		{
+			"move": "Dream Eater",
+			"tm": "TM85"
+		},
+		{
+			"move": "Grass Knot",
+			"tm": "TM86"
+		},
+		{
+			"move": "Swagger",
+			"tm": "TM87"
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": "TM88"
+		},
+		{
+			"move": "Substitute",
+			"tm": "TM90"
+		},
+		{
+			"move": "Flash Cannon",
+			"tm": "TM91"
+		},
+		{
+			"move": "Trick Room",
+			"tm": "TM92"
+		},
+		{
+			"move": "Surf",
+			"tm": "TM94"
+		},
+		{
+			"move": "Waterfall",
+			"tm": "TM98"
+		},
+		{
+			"move": "Dazzling Gleam",
+			"tm": "TM99"
+		},
+		{
+			"move": "Confide",
+			"tm": "TM100"
+		}
+	]
 }

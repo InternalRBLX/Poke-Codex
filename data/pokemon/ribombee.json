@@ -1,301 +1,292 @@
 {
-    "name": "Ribombee",
-    "national_id": 743,
-    "types": [
-        "Bug",
-        "Fairy"
-    ],
-    "items": [
-        {
-            "name": "Honey",
-            "chance": 5
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Honey Gather"
-        },
-        {
-            "name": "Shield Dust"
-        },
-        {
-            "name": "Sweet Veil",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 75,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Bug",
-        "Fairy"
-    ],
-    "hatch_time": [
-        5140,
-        5396
-    ],
-    "height_us": "0'08\"",
-    "height_eu": "0.2 m",
-    "weight_us": "1.1 lbs.",
-    "weight_eu": "0.5 kg",
-    "base_exp_yield": 162,
-    "leveling_rate": "Medium Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 2
-    },
-    "base_stats": {
-        "hp": 60,
-        "atk": 55,
-        "def": 60,
-        "sp_atk": 95,
-        "sp_def": 70,
-        "speed": 124
-    },
-    "evolution_from": "Cutiefly",
-    "evolutions": [],
-    "species": "Bee Fly Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "Ribombee absolutely hate getting wet or rained on. In the cloudy Galar region, they are very seldom seen.",
-    "move_learnset": [
-        {
-            "move": "Pollen Puff",
-            "evo": true
-        },
-        {
-            "move": "Pollen Puff",
-            "level": 1
-        },
-        {
-            "move": "Covet",
-            "level": 1
-        },
-        {
-            "move": "Absorb",
-            "level": 1
-        },
-        {
-            "move": "Fairy Wind",
-            "level": 1
-        },
-        {
-            "move": "Stun Spore",
-            "level": 1
-        },
-        {
-            "move": "Sweet Scent",
-            "level": 1
-        },
-        {
-            "move": "Draining Kiss",
-            "level": 18
-        },
-        {
-            "move": "Struggle Bug",
-            "level": 24
-        },
-        {
-            "move": "Aromatherapy",
-            "level": 32
-        },
-        {
-            "move": "Switcheroo",
-            "level": 40
-        },
-        {
-            "move": "Dazzling Gleam",
-            "level": 48
-        },
-        {
-            "move": "Bug Buzz",
-            "level": 56
-        },
-        {
-            "move": "Quiver Dance",
-            "level": 64
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": true
-        },
-        {
-            "move": "Giga Impact",
-            "tm": true
-        },
-        {
-            "move": "Magical Leaf",
-            "tm": true
-        },
-        {
-            "move": "Solar Beam",
-            "tm": true
-        },
-        {
-            "move": "Light Screen",
-            "tm": true
-        },
-        {
-            "move": "Reflect",
-            "tm": true
-        },
-        {
-            "move": "Safeguard",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Thief",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Charm",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Sunny Day",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Swift",
-            "tm": true
-        },
-        {
-            "move": "Helping Hand",
-            "tm": true
-        },
-        {
-            "move": "Imprison",
-            "tm": true
-        },
-        {
-            "move": "Fake Tears",
-            "tm": true
-        },
-        {
-            "move": "U-turn",
-            "tm": true
-        },
-        {
-            "move": "Speed Swap",
-            "tm": true
-        },
-        {
-            "move": "Wonder Room",
-            "tm": true
-        },
-        {
-            "move": "Magic Room",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Acrobatics",
-            "tm": true
-        },
-        {
-            "move": "Draining Kiss",
-            "tm": true
-        },
-        {
-            "move": "Psychic",
-            "tm": true
-        },
-        {
-            "move": "Leech Life",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Baton Pass",
-            "tm": true
-        },
-        {
-            "move": "Trick",
-            "tm": true
-        },
-        {
-            "move": "Skill Swap",
-            "tm": true
-        },
-        {
-            "move": "Calm Mind",
-            "tm": true
-        },
-        {
-            "move": "Bug Buzz",
-            "tm": true
-        },
-        {
-            "move": "Energy Ball",
-            "tm": true
-        },
-        {
-            "move": "Ally Switch",
-            "tm": true
-        },
-        {
-            "move": "Play Rough",
-            "tm": true
-        },
-        {
-            "move": "Dazzling Gleam",
-            "tm": true
-        },
-        {
-            "move": "Pollen Puff",
-            "tm": true
-        },
-        {
-            "move": "Moonblast",
-            "egg_move": true
-        },
-        {
-            "move": "Sticky Web",
-            "egg_move": true
-        },
-        {
-            "move": "Aromatic Mist",
-            "egg_move": true
-        }
-    ]
+	"name": "Ribombee",
+	"national_id": 743,
+	"types": ["Bug", "Fairy"],
+	"items": [
+		{
+			"name": "Honey",
+			"chance": 5
+		}
+	],
+	"abilities": [
+		{
+			"name": "Honey Gather"
+		},
+		{
+			"name": "Shield Dust"
+		},
+		{
+			"name": "Sweet Veil",
+			"hidden": true
+		}
+	],
+	"catch_rate": 75,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Bug", "Fairy"],
+	"hatch_time": [5140, 5396],
+	"height_us": "0'08\"",
+	"height_eu": "0.2 m",
+	"weight_us": "1.1 lbs.",
+	"weight_eu": "0.5 kg",
+	"base_exp_yield": 162,
+	"leveling_rate": "Medium Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 2
+	},
+	"base_stats": {
+		"hp": 60,
+		"atk": 55,
+		"def": 60,
+		"sp_atk": 95,
+		"sp_def": 70,
+		"speed": 124
+	},
+	"evolution_from": "Cutiefly",
+	"evolutions": [],
+	"species": "Bee Fly Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "Ribombee absolutely hate getting wet or rained on. In the cloudy Galar region, they are very seldom seen.",
+	"move_learnset": [
+		{
+			"move": "Pollen Puff",
+			"evo": true
+		},
+		{
+			"move": "Pollen Puff",
+			"level": 1
+		},
+		{
+			"move": "Covet",
+			"level": 1
+		},
+		{
+			"move": "Absorb",
+			"level": 1
+		},
+		{
+			"move": "Fairy Wind",
+			"level": 1
+		},
+		{
+			"move": "Stun Spore",
+			"level": 1
+		},
+		{
+			"move": "Sweet Scent",
+			"level": 1
+		},
+		{
+			"move": "Draining Kiss",
+			"level": 18
+		},
+		{
+			"move": "Struggle Bug",
+			"level": 24
+		},
+		{
+			"move": "Aromatherapy",
+			"level": 32
+		},
+		{
+			"move": "Switcheroo",
+			"level": 40
+		},
+		{
+			"move": "Dazzling Gleam",
+			"level": 48
+		},
+		{
+			"move": "Bug Buzz",
+			"level": 56
+		},
+		{
+			"move": "Quiver Dance",
+			"level": 64
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": true
+		},
+		{
+			"move": "Giga Impact",
+			"tm": true
+		},
+		{
+			"move": "Magical Leaf",
+			"tm": true
+		},
+		{
+			"move": "Solar Beam",
+			"tm": true
+		},
+		{
+			"move": "Light Screen",
+			"tm": true
+		},
+		{
+			"move": "Reflect",
+			"tm": true
+		},
+		{
+			"move": "Safeguard",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Thief",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Charm",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Sunny Day",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Swift",
+			"tm": true
+		},
+		{
+			"move": "Helping Hand",
+			"tm": true
+		},
+		{
+			"move": "Imprison",
+			"tm": true
+		},
+		{
+			"move": "Fake Tears",
+			"tm": true
+		},
+		{
+			"move": "U-turn",
+			"tm": true
+		},
+		{
+			"move": "Speed Swap",
+			"tm": true
+		},
+		{
+			"move": "Wonder Room",
+			"tm": true
+		},
+		{
+			"move": "Magic Room",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Acrobatics",
+			"tm": true
+		},
+		{
+			"move": "Draining Kiss",
+			"tm": true
+		},
+		{
+			"move": "Psychic",
+			"tm": true
+		},
+		{
+			"move": "Leech Life",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Baton Pass",
+			"tm": true
+		},
+		{
+			"move": "Trick",
+			"tm": true
+		},
+		{
+			"move": "Skill Swap",
+			"tm": true
+		},
+		{
+			"move": "Calm Mind",
+			"tm": true
+		},
+		{
+			"move": "Bug Buzz",
+			"tm": true
+		},
+		{
+			"move": "Energy Ball",
+			"tm": true
+		},
+		{
+			"move": "Ally Switch",
+			"tm": true
+		},
+		{
+			"move": "Play Rough",
+			"tm": true
+		},
+		{
+			"move": "Dazzling Gleam",
+			"tm": true
+		},
+		{
+			"move": "Pollen Puff",
+			"tm": true
+		},
+		{
+			"move": "Moonblast",
+			"egg_move": true
+		},
+		{
+			"move": "Sticky Web",
+			"egg_move": true
+		},
+		{
+			"move": "Aromatic Mist",
+			"egg_move": true
+		}
+	]
 }

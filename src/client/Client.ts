@@ -21,7 +21,9 @@ const globPromise = promisify(glob);
 class Bot extends Client {
 	public logger: Consola = consola;
 	public commands: Collection<string, Command> = new Collection();
+	public aliases: Collection<string, string> = new Collection();
 	public events: Collection<string, Event> = new Collection();
+	public categories: Set<string> = new Set();
 	public config: Config;
 
 	public constructor() {
@@ -45,6 +47,11 @@ class Bot extends Client {
 		commandFiles.map(async (value: string) => {
 			const file: Command = await import(value);
 			this.commands.set(file.name, file);
+			this.categories.add(file.category);
+
+			if(file.aliases != null && file.aliases.length) {
+				file.aliases.map((value: string) => this.aliases.set(value, file.name));
+			}
 		});
 
 		/* Loading/Running Events */
@@ -56,16 +63,6 @@ class Bot extends Client {
 			this.events.set(file.name, file);
 			this.on(file.name, file.run.bind(null, this));
 		});
-
-		const con = mysql.createConnection(File.database_data);
-		con.connect((err) => {
-			if (err) {
-				this.logger.error(err);
-				process.exit();
-			}
-
-			this.logger.success('Connected to MySQL Database!');
-		});
 	}
 
 	public async sendMessage(
@@ -75,10 +72,7 @@ class Bot extends Client {
 		return channel.send(content);
 	}
 
-	public async embed(
-		options: MessageEmbedOptions,
-		message: Message
-	): Promise<MessageEmbed> {
+	public embed(options: MessageEmbedOptions, message: Message): MessageEmbed {
 		return new MessageEmbed({ ...options, color: 'RANDOM' }).setFooter(
 			`${message.author.tag} | ${this.user.username}`,
 			message.author.displayAvatarURL({ format: 'png', dynamic: true })

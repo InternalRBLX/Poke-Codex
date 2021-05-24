@@ -1,296 +1,288 @@
 {
-    "name": "Treecko",
-    "national_id": 252,
-    "types": [
-        "Grass"
-    ],
-    "abilities": [
-        {
-            "name": "Overgrow"
-        },
-        {
-            "name": "Unburden",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 45,
-    "gender_ratios": {
-        "male": 87.5,
-        "female": 12.5
-    },
-    "egg_groups": [
-        "Monster",
-        "Dragon"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "1'08\"",
-    "height_eu": "0.5 m",
-    "weight_us": "11.0 lbs.",
-    "weight_eu": "5.0 kg",
-    "base_exp_yield": 62,
-    "leveling_rate": "Medium Slow",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 1
-    },
-    "base_stats": {
-        "hp": 40,
-        "atk": 45,
-        "def": 35,
-        "sp_atk": 65,
-        "sp_def": 55,
-        "speed": 70
-    },
-    "evolution_from": null,
-    "evolutions": [
-        {
-            "to": "Grovyle",
-            "level": 16
-        }
-    ],
-    "species": "Wood Gecko Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "Treecko is cool, calm, and collected—it never panics under any situation. If a bigger foe were to glare at this Pokémon, it would glare right back without conceding an inch of ground.",
-    "move_learnset": [
-        {
-            "move": "Leer",
-            "level": 1
-        },
-        {
-            "move": "Pound",
-            "level": 1
-        },
-        {
-            "move": "Absorb",
-            "level": 5
-        },
-        {
-            "move": "Quick Attack",
-            "level": 9
-        },
-        {
-            "move": "Mega Drain",
-            "level": 13
-        },
-        {
-            "move": "Pursuit",
-            "level": 17
-        },
-        {
-            "move": "Giga Drain",
-            "level": 21
-        },
-        {
-            "move": "Agility",
-            "level": 25
-        },
-        {
-            "move": "Slam",
-            "level": 29
-        },
-        {
-            "move": "Detect",
-            "level": 33
-        },
-        {
-            "move": "Energy Ball",
-            "level": 37
-        },
-        {
-            "move": "Quick Guard",
-            "level": 41
-        },
-        {
-            "move": "Endeavor",
-            "level": 45
-        },
-        {
-            "move": "Screech",
-            "level": 49
-        },
-        {
-            "move": "Bullet Seed",
-            "egg_move": true
-        },
-        {
-            "move": "Crunch",
-            "egg_move": true
-        },
-        {
-            "move": "Crush Claw",
-            "egg_move": true
-        },
-        {
-            "move": "Double Kick",
-            "egg_move": true
-        },
-        {
-            "move": "Dragon Breath",
-            "egg_move": true
-        },
-        {
-            "move": "Endeavor",
-            "egg_move": true
-        },
-        {
-            "move": "Grass Whistle",
-            "egg_move": true
-        },
-        {
-            "move": "Grassy Terrain",
-            "egg_move": true
-        },
-        {
-            "move": "Leaf Storm",
-            "egg_move": true
-        },
-        {
-            "move": "Leech Seed",
-            "egg_move": true
-        },
-        {
-            "move": "Magical Leaf",
-            "egg_move": true
-        },
-        {
-            "move": "Mud Sport",
-            "egg_move": true
-        },
-        {
-            "move": "Natural Gift",
-            "egg_move": true
-        },
-        {
-            "move": "Razor Wind",
-            "egg_move": true
-        },
-        {
-            "move": "Synthesis",
-            "egg_move": true
-        },
-        {
-            "move": "Worry Seed",
-            "egg_move": true
-        },
-        {
-            "move": "Work Up",
-            "tm": "TM1"
-        },
-        {
-            "move": "Toxic",
-            "tm": "TM6"
-        },
-        {
-            "move": "Hidden Power",
-            "tm": "TM10"
-        },
-        {
-            "move": "Sunny Day",
-            "tm": "TM11"
-        },
-        {
-            "move": "Protect",
-            "tm": "TM17"
-        },
-        {
-            "move": "Safeguard",
-            "tm": "TM20"
-        },
-        {
-            "move": "Frustration",
-            "tm": "TM21"
-        },
-        {
-            "move": "Solar Beam",
-            "tm": "TM22"
-        },
-        {
-            "move": "Return",
-            "tm": "TM27"
-        },
-        {
-            "move": "Brick Break",
-            "tm": "TM31"
-        },
-        {
-            "move": "Double Team",
-            "tm": "TM32"
-        },
-        {
-            "move": "Rock Tomb",
-            "tm": "TM39"
-        },
-        {
-            "move": "Aerial Ace",
-            "tm": "TM40"
-        },
-        {
-            "move": "Facade",
-            "tm": "TM42"
-        },
-        {
-            "move": "Rest",
-            "tm": "TM44"
-        },
-        {
-            "move": "Attract",
-            "tm": "TM45"
-        },
-        {
-            "move": "Round",
-            "tm": "TM48"
-        },
-        {
-            "move": "Energy Ball",
-            "tm": "TM53"
-        },
-        {
-            "move": "Fling",
-            "tm": "TM56"
-        },
-        {
-            "move": "Acrobatics",
-            "tm": "TM62"
-        },
-        {
-            "move": "Swords Dance",
-            "tm": "TM75"
-        },
-        {
-            "move": "Rock Slide",
-            "tm": "TM80"
-        },
-        {
-            "move": "Grass Knot",
-            "tm": "TM86"
-        },
-        {
-            "move": "Swagger",
-            "tm": "TM87"
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": "TM88"
-        },
-        {
-            "move": "Substitute",
-            "tm": "TM90"
-        },
-        {
-            "move": "Nature Power",
-            "tm": "TM96"
-        },
-        {
-            "move": "Confide",
-            "tm": "TM100"
-        }
-    ]
+	"name": "Treecko",
+	"national_id": 252,
+	"types": ["Grass"],
+	"abilities": [
+		{
+			"name": "Overgrow"
+		},
+		{
+			"name": "Unburden",
+			"hidden": true
+		}
+	],
+	"catch_rate": 45,
+	"gender_ratios": {
+		"male": 87.5,
+		"female": 12.5
+	},
+	"egg_groups": ["Monster", "Dragon"],
+	"hatch_time": [5355, 5609],
+	"height_us": "1'08\"",
+	"height_eu": "0.5 m",
+	"weight_us": "11.0 lbs.",
+	"weight_eu": "5.0 kg",
+	"base_exp_yield": 62,
+	"leveling_rate": "Medium Slow",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 1
+	},
+	"base_stats": {
+		"hp": 40,
+		"atk": 45,
+		"def": 35,
+		"sp_atk": 65,
+		"sp_def": 55,
+		"speed": 70
+	},
+	"evolution_from": null,
+	"evolutions": [
+		{
+			"to": "Grovyle",
+			"level": 16
+		}
+	],
+	"species": "Wood Gecko Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "Treecko is cool, calm, and collected—it never panics under any situation. If a bigger foe were to glare at this Pokémon, it would glare right back without conceding an inch of ground.",
+	"move_learnset": [
+		{
+			"move": "Leer",
+			"level": 1
+		},
+		{
+			"move": "Pound",
+			"level": 1
+		},
+		{
+			"move": "Absorb",
+			"level": 5
+		},
+		{
+			"move": "Quick Attack",
+			"level": 9
+		},
+		{
+			"move": "Mega Drain",
+			"level": 13
+		},
+		{
+			"move": "Pursuit",
+			"level": 17
+		},
+		{
+			"move": "Giga Drain",
+			"level": 21
+		},
+		{
+			"move": "Agility",
+			"level": 25
+		},
+		{
+			"move": "Slam",
+			"level": 29
+		},
+		{
+			"move": "Detect",
+			"level": 33
+		},
+		{
+			"move": "Energy Ball",
+			"level": 37
+		},
+		{
+			"move": "Quick Guard",
+			"level": 41
+		},
+		{
+			"move": "Endeavor",
+			"level": 45
+		},
+		{
+			"move": "Screech",
+			"level": 49
+		},
+		{
+			"move": "Bullet Seed",
+			"egg_move": true
+		},
+		{
+			"move": "Crunch",
+			"egg_move": true
+		},
+		{
+			"move": "Crush Claw",
+			"egg_move": true
+		},
+		{
+			"move": "Double Kick",
+			"egg_move": true
+		},
+		{
+			"move": "Dragon Breath",
+			"egg_move": true
+		},
+		{
+			"move": "Endeavor",
+			"egg_move": true
+		},
+		{
+			"move": "Grass Whistle",
+			"egg_move": true
+		},
+		{
+			"move": "Grassy Terrain",
+			"egg_move": true
+		},
+		{
+			"move": "Leaf Storm",
+			"egg_move": true
+		},
+		{
+			"move": "Leech Seed",
+			"egg_move": true
+		},
+		{
+			"move": "Magical Leaf",
+			"egg_move": true
+		},
+		{
+			"move": "Mud Sport",
+			"egg_move": true
+		},
+		{
+			"move": "Natural Gift",
+			"egg_move": true
+		},
+		{
+			"move": "Razor Wind",
+			"egg_move": true
+		},
+		{
+			"move": "Synthesis",
+			"egg_move": true
+		},
+		{
+			"move": "Worry Seed",
+			"egg_move": true
+		},
+		{
+			"move": "Work Up",
+			"tm": "TM1"
+		},
+		{
+			"move": "Toxic",
+			"tm": "TM6"
+		},
+		{
+			"move": "Hidden Power",
+			"tm": "TM10"
+		},
+		{
+			"move": "Sunny Day",
+			"tm": "TM11"
+		},
+		{
+			"move": "Protect",
+			"tm": "TM17"
+		},
+		{
+			"move": "Safeguard",
+			"tm": "TM20"
+		},
+		{
+			"move": "Frustration",
+			"tm": "TM21"
+		},
+		{
+			"move": "Solar Beam",
+			"tm": "TM22"
+		},
+		{
+			"move": "Return",
+			"tm": "TM27"
+		},
+		{
+			"move": "Brick Break",
+			"tm": "TM31"
+		},
+		{
+			"move": "Double Team",
+			"tm": "TM32"
+		},
+		{
+			"move": "Rock Tomb",
+			"tm": "TM39"
+		},
+		{
+			"move": "Aerial Ace",
+			"tm": "TM40"
+		},
+		{
+			"move": "Facade",
+			"tm": "TM42"
+		},
+		{
+			"move": "Rest",
+			"tm": "TM44"
+		},
+		{
+			"move": "Attract",
+			"tm": "TM45"
+		},
+		{
+			"move": "Round",
+			"tm": "TM48"
+		},
+		{
+			"move": "Energy Ball",
+			"tm": "TM53"
+		},
+		{
+			"move": "Fling",
+			"tm": "TM56"
+		},
+		{
+			"move": "Acrobatics",
+			"tm": "TM62"
+		},
+		{
+			"move": "Swords Dance",
+			"tm": "TM75"
+		},
+		{
+			"move": "Rock Slide",
+			"tm": "TM80"
+		},
+		{
+			"move": "Grass Knot",
+			"tm": "TM86"
+		},
+		{
+			"move": "Swagger",
+			"tm": "TM87"
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": "TM88"
+		},
+		{
+			"move": "Substitute",
+			"tm": "TM90"
+		},
+		{
+			"move": "Nature Power",
+			"tm": "TM96"
+		},
+		{
+			"move": "Confide",
+			"tm": "TM100"
+		}
+	]
 }

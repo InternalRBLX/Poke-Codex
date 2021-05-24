@@ -1,85 +1,78 @@
 {
-    "name": "Kricketot",
-    "national_id": 401,
-    "types": [
-        "Bug"
-    ],
-    "items": [
-        {
-            "name": "Metronome",
-            "chance": 5
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Shed Skin"
-        },
-        {
-            "name": "Run Away",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 255,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Bug"
-    ],
-    "hatch_time": [
-        4080,
-        4334
-    ],
-    "height_us": "1'00\"",
-    "height_eu": "0.3 m",
-    "weight_us": "4.9 lbs.",
-    "weight_eu": "2.2 kg",
-    "base_exp_yield": 39,
-    "leveling_rate": "Medium Slow",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 1,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 37,
-        "atk": 25,
-        "def": 41,
-        "sp_atk": 25,
-        "sp_def": 41,
-        "speed": 25
-    },
-    "evolution_from": null,
-    "evolutions": [
-        {
-            "to": "Kricketune",
-            "level": 10
-        }
-    ],
-    "species": "Cricket Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "When its antennae hit each other, it sounds like the music of a xylophone.",
-    "move_learnset": [
-        {
-            "move": "Bide",
-            "level": 1
-        },
-        {
-            "move": "Growl",
-            "level": 1
-        },
-        {
-            "move": "Struggle Bug",
-            "level": 6
-        },
-        {
-            "move": "Bug Bite",
-            "level": 16
-        }
-    ]
+	"name": "Kricketot",
+	"national_id": 401,
+	"types": ["Bug"],
+	"items": [
+		{
+			"name": "Metronome",
+			"chance": 5
+		}
+	],
+	"abilities": [
+		{
+			"name": "Shed Skin"
+		},
+		{
+			"name": "Run Away",
+			"hidden": true
+		}
+	],
+	"catch_rate": 255,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Bug"],
+	"hatch_time": [4080, 4334],
+	"height_us": "1'00\"",
+	"height_eu": "0.3 m",
+	"weight_us": "4.9 lbs.",
+	"weight_eu": "2.2 kg",
+	"base_exp_yield": 39,
+	"leveling_rate": "Medium Slow",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 1,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 37,
+		"atk": 25,
+		"def": 41,
+		"sp_atk": 25,
+		"sp_def": 41,
+		"speed": 25
+	},
+	"evolution_from": null,
+	"evolutions": [
+		{
+			"to": "Kricketune",
+			"level": 10
+		}
+	],
+	"species": "Cricket Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "When its antennae hit each other, it sounds like the music of a xylophone.",
+	"move_learnset": [
+		{
+			"move": "Bide",
+			"level": 1
+		},
+		{
+			"move": "Growl",
+			"level": 1
+		},
+		{
+			"move": "Struggle Bug",
+			"level": 6
+		},
+		{
+			"move": "Bug Bite",
+			"level": 16
+		}
+	]
 }

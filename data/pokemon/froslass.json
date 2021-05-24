@@ -1,345 +1,336 @@
 {
-    "name": "Froslass",
-    "national_id": 478,
-    "types": [
-        "Ice",
-        "Ghost"
-    ],
-    "items": [
-        {
-            "name": "Babiri Berry",
-            "chance": 5
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Snow Cloak"
-        },
-        {
-            "name": "Cursed Body",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 75,
-    "gender_ratios": {
-        "female": 100
-    },
-    "egg_groups": [
-        "Fairy",
-        "Mineral"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "4'03\"",
-    "height_eu": "1.3 m",
-    "weight_us": "58.6 lbs.",
-    "weight_eu": "26.6 kg",
-    "base_exp_yield": 168,
-    "leveling_rate": "Medium Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 2
-    },
-    "base_stats": {
-        "hp": 70,
-        "atk": 80,
-        "def": 70,
-        "sp_atk": 80,
-        "sp_def": 70,
-        "speed": 110
-    },
-    "evolution_from": "Snorunt",
-    "evolutions": [],
-    "species": "Snow Land Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "It spits out cold air of nearly −60 degrees Fahrenheit to freeze its quarry. It brings frozen prey back to its lair and neatly lines them up.",
-    "move_learnset": [
-        {
-            "move": "Hex",
-            "evo": true
-        },
-        {
-            "move": "Hex",
-            "level": 1
-        },
-        {
-            "move": "Destiny Bond",
-            "level": 1
-        },
-        {
-            "move": "Protect",
-            "level": 1
-        },
-        {
-            "move": "Bite",
-            "level": 1
-        },
-        {
-            "move": "Ice Fang",
-            "level": 1
-        },
-        {
-            "move": "Headbutt",
-            "level": 1
-        },
-        {
-            "move": "Crunch",
-            "level": 1
-        },
-        {
-            "move": "Powder Snow",
-            "level": 1
-        },
-        {
-            "move": "Astonish",
-            "level": 1
-        },
-        {
-            "move": "Leer",
-            "level": 1
-        },
-        {
-            "move": "Double Team",
-            "level": 1
-        },
-        {
-            "move": "Ice Shard",
-            "level": 15
-        },
-        {
-            "move": "Draining Kiss",
-            "level": 20
-        },
-        {
-            "move": "Icy Wind",
-            "level": 25
-        },
-        {
-            "move": "Frost Breath",
-            "level": 30
-        },
-        {
-            "move": "Confuse Ray",
-            "level": 35
-        },
-        {
-            "move": "Hail",
-            "level": 40
-        },
-        {
-            "move": "Will-O-Wisp",
-            "level": 47
-        },
-        {
-            "move": "Aurora Veil",
-            "level": 54
-        },
-        {
-            "move": "Shadow Ball",
-            "level": 61
-        },
-        {
-            "move": "Blizzard",
-            "level": 68
-        },
-        {
-            "move": "Ice Punch",
-            "tm": true
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": true
-        },
-        {
-            "move": "Giga Impact",
-            "tm": true
-        },
-        {
-            "move": "Thunder Wave",
-            "tm": true
-        },
-        {
-            "move": "Light Screen",
-            "tm": true
-        },
-        {
-            "move": "Reflect",
-            "tm": true
-        },
-        {
-            "move": "Safeguard",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Icy Wind",
-            "tm": true
-        },
-        {
-            "move": "Charm",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Rain Dance",
-            "tm": true
-        },
-        {
-            "move": "Hail",
-            "tm": true
-        },
-        {
-            "move": "Will-O-Wisp",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Imprison",
-            "tm": true
-        },
-        {
-            "move": "Weather Ball",
-            "tm": true
-        },
-        {
-            "move": "Fake Tears",
-            "tm": true
-        },
-        {
-            "move": "Icicle Spear",
-            "tm": true
-        },
-        {
-            "move": "Payback",
-            "tm": true
-        },
-        {
-            "move": "Fling",
-            "tm": true
-        },
-        {
-            "move": "Avalanche",
-            "tm": true
-        },
-        {
-            "move": "Ice Fang",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Hex",
-            "tm": true
-        },
-        {
-            "move": "Draining Kiss",
-            "tm": true
-        },
-        {
-            "move": "Body Slam",
-            "tm": true
-        },
-        {
-            "move": "Ice Beam",
-            "tm": true
-        },
-        {
-            "move": "Blizzard",
-            "tm": true
-        },
-        {
-            "move": "Thunderbolt",
-            "tm": true
-        },
-        {
-            "move": "Thunder",
-            "tm": true
-        },
-        {
-            "move": "Psychic",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Spikes",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Crunch",
-            "tm": true
-        },
-        {
-            "move": "Shadow Ball",
-            "tm": true
-        },
-        {
-            "move": "Taunt",
-            "tm": true
-        },
-        {
-            "move": "Trick",
-            "tm": true
-        },
-        {
-            "move": "Ally Switch",
-            "tm": true
-        },
-        {
-            "move": "Block",
-            "egg_move": true
-        },
-        {
-            "move": "Disable",
-            "egg_move": true
-        },
-        {
-            "move": "Switcheroo",
-            "egg_move": true
-        },
-        {
-            "move": "Rollout",
-            "egg_move": true
-        },
-        {
-            "move": "Icicle Crash",
-            "egg_move": true
-        }
-    ]
+	"name": "Froslass",
+	"national_id": 478,
+	"types": ["Ice", "Ghost"],
+	"items": [
+		{
+			"name": "Babiri Berry",
+			"chance": 5
+		}
+	],
+	"abilities": [
+		{
+			"name": "Snow Cloak"
+		},
+		{
+			"name": "Cursed Body",
+			"hidden": true
+		}
+	],
+	"catch_rate": 75,
+	"gender_ratios": {
+		"female": 100
+	},
+	"egg_groups": ["Fairy", "Mineral"],
+	"hatch_time": [5355, 5609],
+	"height_us": "4'03\"",
+	"height_eu": "1.3 m",
+	"weight_us": "58.6 lbs.",
+	"weight_eu": "26.6 kg",
+	"base_exp_yield": 168,
+	"leveling_rate": "Medium Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 2
+	},
+	"base_stats": {
+		"hp": 70,
+		"atk": 80,
+		"def": 70,
+		"sp_atk": 80,
+		"sp_def": 70,
+		"speed": 110
+	},
+	"evolution_from": "Snorunt",
+	"evolutions": [],
+	"species": "Snow Land Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "It spits out cold air of nearly −60 degrees Fahrenheit to freeze its quarry. It brings frozen prey back to its lair and neatly lines them up.",
+	"move_learnset": [
+		{
+			"move": "Hex",
+			"evo": true
+		},
+		{
+			"move": "Hex",
+			"level": 1
+		},
+		{
+			"move": "Destiny Bond",
+			"level": 1
+		},
+		{
+			"move": "Protect",
+			"level": 1
+		},
+		{
+			"move": "Bite",
+			"level": 1
+		},
+		{
+			"move": "Ice Fang",
+			"level": 1
+		},
+		{
+			"move": "Headbutt",
+			"level": 1
+		},
+		{
+			"move": "Crunch",
+			"level": 1
+		},
+		{
+			"move": "Powder Snow",
+			"level": 1
+		},
+		{
+			"move": "Astonish",
+			"level": 1
+		},
+		{
+			"move": "Leer",
+			"level": 1
+		},
+		{
+			"move": "Double Team",
+			"level": 1
+		},
+		{
+			"move": "Ice Shard",
+			"level": 15
+		},
+		{
+			"move": "Draining Kiss",
+			"level": 20
+		},
+		{
+			"move": "Icy Wind",
+			"level": 25
+		},
+		{
+			"move": "Frost Breath",
+			"level": 30
+		},
+		{
+			"move": "Confuse Ray",
+			"level": 35
+		},
+		{
+			"move": "Hail",
+			"level": 40
+		},
+		{
+			"move": "Will-O-Wisp",
+			"level": 47
+		},
+		{
+			"move": "Aurora Veil",
+			"level": 54
+		},
+		{
+			"move": "Shadow Ball",
+			"level": 61
+		},
+		{
+			"move": "Blizzard",
+			"level": 68
+		},
+		{
+			"move": "Ice Punch",
+			"tm": true
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": true
+		},
+		{
+			"move": "Giga Impact",
+			"tm": true
+		},
+		{
+			"move": "Thunder Wave",
+			"tm": true
+		},
+		{
+			"move": "Light Screen",
+			"tm": true
+		},
+		{
+			"move": "Reflect",
+			"tm": true
+		},
+		{
+			"move": "Safeguard",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Icy Wind",
+			"tm": true
+		},
+		{
+			"move": "Charm",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Rain Dance",
+			"tm": true
+		},
+		{
+			"move": "Hail",
+			"tm": true
+		},
+		{
+			"move": "Will-O-Wisp",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Imprison",
+			"tm": true
+		},
+		{
+			"move": "Weather Ball",
+			"tm": true
+		},
+		{
+			"move": "Fake Tears",
+			"tm": true
+		},
+		{
+			"move": "Icicle Spear",
+			"tm": true
+		},
+		{
+			"move": "Payback",
+			"tm": true
+		},
+		{
+			"move": "Fling",
+			"tm": true
+		},
+		{
+			"move": "Avalanche",
+			"tm": true
+		},
+		{
+			"move": "Ice Fang",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Hex",
+			"tm": true
+		},
+		{
+			"move": "Draining Kiss",
+			"tm": true
+		},
+		{
+			"move": "Body Slam",
+			"tm": true
+		},
+		{
+			"move": "Ice Beam",
+			"tm": true
+		},
+		{
+			"move": "Blizzard",
+			"tm": true
+		},
+		{
+			"move": "Thunderbolt",
+			"tm": true
+		},
+		{
+			"move": "Thunder",
+			"tm": true
+		},
+		{
+			"move": "Psychic",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Spikes",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Crunch",
+			"tm": true
+		},
+		{
+			"move": "Shadow Ball",
+			"tm": true
+		},
+		{
+			"move": "Taunt",
+			"tm": true
+		},
+		{
+			"move": "Trick",
+			"tm": true
+		},
+		{
+			"move": "Ally Switch",
+			"tm": true
+		},
+		{
+			"move": "Block",
+			"egg_move": true
+		},
+		{
+			"move": "Disable",
+			"egg_move": true
+		},
+		{
+			"move": "Switcheroo",
+			"egg_move": true
+		},
+		{
+			"move": "Rollout",
+			"egg_move": true
+		},
+		{
+			"move": "Icicle Crash",
+			"egg_move": true
+		}
+	]
 }

@@ -1,330 +1,323 @@
 {
-    "name": "Glaceon",
-    "national_id": 471,
-    "types": [
-        "Ice"
-    ],
-    "abilities": [
-        {
-            "name": "Snow Cloak"
-        },
-        {
-            "name": "Ice Body",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 45,
-    "gender_ratios": {
-        "male": 87.5,
-        "female": 12.5
-    },
-    "egg_groups": [
-        "Field"
-    ],
-    "hatch_time": [
-        9180,
-        9434
-    ],
-    "height_us": "2'07\"",
-    "height_eu": "0.8 m",
-    "weight_us": "57.1 lbs.",
-    "weight_eu": "25.9 kg",
-    "base_exp_yield": 184,
-    "leveling_rate": "Medium Fast",
-    "base_friendship": 35,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 2,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 65,
-        "atk": 60,
-        "def": 110,
-        "sp_atk": 130,
-        "sp_def": 95,
-        "speed": 65
-    },
-    "evolution_from": "Eevee",
-    "evolutions": [],
-    "species": "Fresh Snow Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "The coldness emanating from Glaceon causes powdery snow to form, making it quite a popular Pokémon at ski resorts.",
-    "move_learnset": [
-        {
-            "move": "Icy Wind",
-            "evo": true
-        },
-        {
-            "move": "Icy Wind",
-            "level": 1
-        },
-        {
-            "move": "Covet",
-            "level": 1
-        },
-        {
-            "move": "Swift",
-            "level": 1
-        },
-        {
-            "move": "Copycat",
-            "level": 1
-        },
-        {
-            "move": "Baton Pass",
-            "level": 1
-        },
-        {
-            "move": "Take Down",
-            "level": 1
-        },
-        {
-            "move": "Charm",
-            "level": 1
-        },
-        {
-            "move": "Double-Edge",
-            "level": 1
-        },
-        {
-            "move": "Helping Hand",
-            "level": 1
-        },
-        {
-            "move": "Tackle",
-            "level": 1
-        },
-        {
-            "move": "Growl",
-            "level": 1
-        },
-        {
-            "move": "Tail Whip",
-            "level": 1
-        },
-        {
-            "move": "Sand Attack",
-            "level": 5
-        },
-        {
-            "move": "Quick Attack",
-            "level": 10
-        },
-        {
-            "move": "Baby-Doll Eyes",
-            "level": 15
-        },
-        {
-            "move": "Ice Shard",
-            "level": 20
-        },
-        {
-            "move": "Bite",
-            "level": 25
-        },
-        {
-            "move": "Ice Fang",
-            "level": 30
-        },
-        {
-            "move": "Hail",
-            "level": 35
-        },
-        {
-            "move": "Freeze-Dry",
-            "level": 40
-        },
-        {
-            "move": "Mirror Coat",
-            "level": 45
-        },
-        {
-            "move": "Blizzard",
-            "level": 50
-        },
-        {
-            "move": "Last Resort",
-            "level": 55
-        },
-        {
-            "move": "Pay Day",
-            "tm": true
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": true
-        },
-        {
-            "move": "Giga Impact",
-            "tm": true
-        },
-        {
-            "move": "Dig",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Icy Wind",
-            "tm": true
-        },
-        {
-            "move": "Charm",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Rain Dance",
-            "tm": true
-        },
-        {
-            "move": "Sunny Day",
-            "tm": true
-        },
-        {
-            "move": "Hail",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Swift",
-            "tm": true
-        },
-        {
-            "move": "Helping Hand",
-            "tm": true
-        },
-        {
-            "move": "Weather Ball",
-            "tm": true
-        },
-        {
-            "move": "Fake Tears",
-            "tm": true
-        },
-        {
-            "move": "Icicle Spear",
-            "tm": true
-        },
-        {
-            "move": "Avalanche",
-            "tm": true
-        },
-        {
-            "move": "Ice Fang",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Retaliate",
-            "tm": true
-        },
-        {
-            "move": "Body Slam",
-            "tm": true
-        },
-        {
-            "move": "Ice Beam",
-            "tm": true
-        },
-        {
-            "move": "Blizzard",
-            "tm": true
-        },
-        {
-            "move": "Focus Energy",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Baton Pass",
-            "tm": true
-        },
-        {
-            "move": "Iron Tail",
-            "tm": true
-        },
-        {
-            "move": "Shadow Ball",
-            "tm": true
-        },
-        {
-            "move": "Hyper Voice",
-            "tm": true
-        },
-        {
-            "move": "Stored Power",
-            "tm": true
-        },
-        {
-            "move": "Work Up",
-            "tm": true
-        },
-        {
-            "move": "Flail",
-            "egg_move": true
-        },
-        {
-            "move": "Curse",
-            "egg_move": true
-        },
-        {
-            "move": "Tickle",
-            "egg_move": true
-        },
-        {
-            "move": "Yawn",
-            "egg_move": true
-        },
-        {
-            "move": "Detect",
-            "egg_move": true
-        },
-        {
-            "move": "Double Kick",
-            "egg_move": true
-        },
-        {
-            "move": "Mud-Slap",
-            "egg_move": true
-        },
-        {
-            "move": "Wish",
-            "egg_move": true
-        }
-    ]
+	"name": "Glaceon",
+	"national_id": 471,
+	"types": ["Ice"],
+	"abilities": [
+		{
+			"name": "Snow Cloak"
+		},
+		{
+			"name": "Ice Body",
+			"hidden": true
+		}
+	],
+	"catch_rate": 45,
+	"gender_ratios": {
+		"male": 87.5,
+		"female": 12.5
+	},
+	"egg_groups": ["Field"],
+	"hatch_time": [9180, 9434],
+	"height_us": "2'07\"",
+	"height_eu": "0.8 m",
+	"weight_us": "57.1 lbs.",
+	"weight_eu": "25.9 kg",
+	"base_exp_yield": 184,
+	"leveling_rate": "Medium Fast",
+	"base_friendship": 35,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 2,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 65,
+		"atk": 60,
+		"def": 110,
+		"sp_atk": 130,
+		"sp_def": 95,
+		"speed": 65
+	},
+	"evolution_from": "Eevee",
+	"evolutions": [],
+	"species": "Fresh Snow Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "The coldness emanating from Glaceon causes powdery snow to form, making it quite a popular Pokémon at ski resorts.",
+	"move_learnset": [
+		{
+			"move": "Icy Wind",
+			"evo": true
+		},
+		{
+			"move": "Icy Wind",
+			"level": 1
+		},
+		{
+			"move": "Covet",
+			"level": 1
+		},
+		{
+			"move": "Swift",
+			"level": 1
+		},
+		{
+			"move": "Copycat",
+			"level": 1
+		},
+		{
+			"move": "Baton Pass",
+			"level": 1
+		},
+		{
+			"move": "Take Down",
+			"level": 1
+		},
+		{
+			"move": "Charm",
+			"level": 1
+		},
+		{
+			"move": "Double-Edge",
+			"level": 1
+		},
+		{
+			"move": "Helping Hand",
+			"level": 1
+		},
+		{
+			"move": "Tackle",
+			"level": 1
+		},
+		{
+			"move": "Growl",
+			"level": 1
+		},
+		{
+			"move": "Tail Whip",
+			"level": 1
+		},
+		{
+			"move": "Sand Attack",
+			"level": 5
+		},
+		{
+			"move": "Quick Attack",
+			"level": 10
+		},
+		{
+			"move": "Baby-Doll Eyes",
+			"level": 15
+		},
+		{
+			"move": "Ice Shard",
+			"level": 20
+		},
+		{
+			"move": "Bite",
+			"level": 25
+		},
+		{
+			"move": "Ice Fang",
+			"level": 30
+		},
+		{
+			"move": "Hail",
+			"level": 35
+		},
+		{
+			"move": "Freeze-Dry",
+			"level": 40
+		},
+		{
+			"move": "Mirror Coat",
+			"level": 45
+		},
+		{
+			"move": "Blizzard",
+			"level": 50
+		},
+		{
+			"move": "Last Resort",
+			"level": 55
+		},
+		{
+			"move": "Pay Day",
+			"tm": true
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": true
+		},
+		{
+			"move": "Giga Impact",
+			"tm": true
+		},
+		{
+			"move": "Dig",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Icy Wind",
+			"tm": true
+		},
+		{
+			"move": "Charm",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Rain Dance",
+			"tm": true
+		},
+		{
+			"move": "Sunny Day",
+			"tm": true
+		},
+		{
+			"move": "Hail",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Swift",
+			"tm": true
+		},
+		{
+			"move": "Helping Hand",
+			"tm": true
+		},
+		{
+			"move": "Weather Ball",
+			"tm": true
+		},
+		{
+			"move": "Fake Tears",
+			"tm": true
+		},
+		{
+			"move": "Icicle Spear",
+			"tm": true
+		},
+		{
+			"move": "Avalanche",
+			"tm": true
+		},
+		{
+			"move": "Ice Fang",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Retaliate",
+			"tm": true
+		},
+		{
+			"move": "Body Slam",
+			"tm": true
+		},
+		{
+			"move": "Ice Beam",
+			"tm": true
+		},
+		{
+			"move": "Blizzard",
+			"tm": true
+		},
+		{
+			"move": "Focus Energy",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Baton Pass",
+			"tm": true
+		},
+		{
+			"move": "Iron Tail",
+			"tm": true
+		},
+		{
+			"move": "Shadow Ball",
+			"tm": true
+		},
+		{
+			"move": "Hyper Voice",
+			"tm": true
+		},
+		{
+			"move": "Stored Power",
+			"tm": true
+		},
+		{
+			"move": "Work Up",
+			"tm": true
+		},
+		{
+			"move": "Flail",
+			"egg_move": true
+		},
+		{
+			"move": "Curse",
+			"egg_move": true
+		},
+		{
+			"move": "Tickle",
+			"egg_move": true
+		},
+		{
+			"move": "Yawn",
+			"egg_move": true
+		},
+		{
+			"move": "Detect",
+			"egg_move": true
+		},
+		{
+			"move": "Double Kick",
+			"egg_move": true
+		},
+		{
+			"move": "Mud-Slap",
+			"egg_move": true
+		},
+		{
+			"move": "Wish",
+			"egg_move": true
+		}
+	]
 }

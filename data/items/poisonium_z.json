@@ -1,8 +1,8 @@
 {
-    "name": "Poisonium Z",
-    "sell_price": null,
-    "holdable": true,
-    "battle": false,
-    "category": "Item",
-    "subcategory": "Z-Crystal"
+	"name": "Poisonium Z",
+	"sell_price": null,
+	"holdable": true,
+	"battle": false,
+	"category": "Item",
+	"subcategory": "Z-Crystal"
 }

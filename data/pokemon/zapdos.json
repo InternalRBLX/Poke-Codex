@@ -1,248 +1,240 @@
 {
-    "name": "Zapdos",
-    "national_id": 145,
-    "types": [
-        "Electric",
-        "Flying"
-    ],
-    "abilities": [
-        {
-            "name": "Pressure"
-        },
-        {
-            "name": "Static",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 3,
-    "gender_ratios": null,
-    "egg_groups": [
-        "Undiscovered"
-    ],
-    "hatch_time": [
-        20655,
-        20909
-    ],
-    "height_us": "5'03\"",
-    "height_eu": "1.6 m",
-    "weight_us": "116.0 lbs.",
-    "weight_eu": "52.6 kg",
-    "base_exp_yield": 261,
-    "leveling_rate": "Slow",
-    "base_friendship": 35,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 3,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 90,
-        "atk": 90,
-        "def": 85,
-        "sp_atk": 125,
-        "sp_def": 90,
-        "speed": 100
-    },
-    "evolution_from": null,
-    "evolutions": [],
-    "species": "Electric Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "Zapdos is a legendary bird Pokémon that has the ability to control electricity. It usually lives in thunderclouds. The Pokémon gains power if it is stricken by lightning bolts.",
-    "move_learnset": [
-        {
-            "move": "Peck",
-            "level": 1
-        },
-        {
-            "move": "Thunder Shock",
-            "level": 1
-        },
-        {
-            "move": "Thunder Wave",
-            "level": 8
-        },
-        {
-            "move": "Detect",
-            "level": 15
-        },
-        {
-            "move": "Pluck",
-            "level": 22
-        },
-        {
-            "move": "Ancient Power",
-            "level": 29
-        },
-        {
-            "move": "Charge",
-            "level": 36
-        },
-        {
-            "move": "Agility",
-            "level": 43
-        },
-        {
-            "move": "Discharge",
-            "level": 50
-        },
-        {
-            "move": "Rain Dance",
-            "level": 57
-        },
-        {
-            "move": "Light Screen",
-            "level": 64
-        },
-        {
-            "move": "Drill Peck",
-            "level": 71
-        },
-        {
-            "move": "Thunder",
-            "level": 78
-        },
-        {
-            "move": "Roost",
-            "level": 85
-        },
-        {
-            "move": "Magnetic Flux",
-            "level": 92
-        },
-        {
-            "move": "Zap Cannon",
-            "level": 99
-        },
-        {
-            "move": "Roar",
-            "tm": "TM5"
-        },
-        {
-            "move": "Toxic",
-            "tm": "TM6"
-        },
-        {
-            "move": "Hidden Power",
-            "tm": "TM10"
-        },
-        {
-            "move": "Sunny Day",
-            "tm": "TM11"
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": "TM15"
-        },
-        {
-            "move": "Light Screen",
-            "tm": "TM16"
-        },
-        {
-            "move": "Protect",
-            "tm": "TM17"
-        },
-        {
-            "move": "Rain Dance",
-            "tm": "TM18"
-        },
-        {
-            "move": "Roost",
-            "tm": "TM19"
-        },
-        {
-            "move": "Frustration",
-            "tm": "TM21"
-        },
-        {
-            "move": "Thunderbolt",
-            "tm": "TM24"
-        },
-        {
-            "move": "Thunder",
-            "tm": "TM25"
-        },
-        {
-            "move": "Return",
-            "tm": "TM27"
-        },
-        {
-            "move": "Double Team",
-            "tm": "TM32"
-        },
-        {
-            "move": "Sandstorm",
-            "tm": "TM37"
-        },
-        {
-            "move": "Aerial Ace",
-            "tm": "TM40"
-        },
-        {
-            "move": "Facade",
-            "tm": "TM42"
-        },
-        {
-            "move": "Rest",
-            "tm": "TM44"
-        },
-        {
-            "move": "Round",
-            "tm": "TM48"
-        },
-        {
-            "move": "Steel Wing",
-            "tm": "TM51"
-        },
-        {
-            "move": "Charge Beam",
-            "tm": "TM57"
-        },
-        {
-            "move": "Sky Drop",
-            "tm": "TM58"
-        },
-        {
-            "move": "Giga Impact",
-            "tm": "TM68"
-        },
-        {
-            "move": "Volt Switch",
-            "tm": "TM72"
-        },
-        {
-            "move": "Thunder Wave",
-            "tm": "TM73"
-        },
-        {
-            "move": "Fly",
-            "tm": "TM76"
-        },
-        {
-            "move": "Swagger",
-            "tm": "TM87"
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": "TM88"
-        },
-        {
-            "move": "U-turn",
-            "tm": "TM89"
-        },
-        {
-            "move": "Substitute",
-            "tm": "TM90"
-        },
-        {
-            "move": "Wild Charge",
-            "tm": "TM93"
-        },
-        {
-            "move": "Confide",
-            "tm": "TM100"
-        }
-    ]
+	"name": "Zapdos",
+	"national_id": 145,
+	"types": ["Electric", "Flying"],
+	"abilities": [
+		{
+			"name": "Pressure"
+		},
+		{
+			"name": "Static",
+			"hidden": true
+		}
+	],
+	"catch_rate": 3,
+	"gender_ratios": null,
+	"egg_groups": ["Undiscovered"],
+	"hatch_time": [20655, 20909],
+	"height_us": "5'03\"",
+	"height_eu": "1.6 m",
+	"weight_us": "116.0 lbs.",
+	"weight_eu": "52.6 kg",
+	"base_exp_yield": 261,
+	"leveling_rate": "Slow",
+	"base_friendship": 35,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 3,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 90,
+		"atk": 90,
+		"def": 85,
+		"sp_atk": 125,
+		"sp_def": 90,
+		"speed": 100
+	},
+	"evolution_from": null,
+	"evolutions": [],
+	"species": "Electric Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "Zapdos is a legendary bird Pokémon that has the ability to control electricity. It usually lives in thunderclouds. The Pokémon gains power if it is stricken by lightning bolts.",
+	"move_learnset": [
+		{
+			"move": "Peck",
+			"level": 1
+		},
+		{
+			"move": "Thunder Shock",
+			"level": 1
+		},
+		{
+			"move": "Thunder Wave",
+			"level": 8
+		},
+		{
+			"move": "Detect",
+			"level": 15
+		},
+		{
+			"move": "Pluck",
+			"level": 22
+		},
+		{
+			"move": "Ancient Power",
+			"level": 29
+		},
+		{
+			"move": "Charge",
+			"level": 36
+		},
+		{
+			"move": "Agility",
+			"level": 43
+		},
+		{
+			"move": "Discharge",
+			"level": 50
+		},
+		{
+			"move": "Rain Dance",
+			"level": 57
+		},
+		{
+			"move": "Light Screen",
+			"level": 64
+		},
+		{
+			"move": "Drill Peck",
+			"level": 71
+		},
+		{
+			"move": "Thunder",
+			"level": 78
+		},
+		{
+			"move": "Roost",
+			"level": 85
+		},
+		{
+			"move": "Magnetic Flux",
+			"level": 92
+		},
+		{
+			"move": "Zap Cannon",
+			"level": 99
+		},
+		{
+			"move": "Roar",
+			"tm": "TM5"
+		},
+		{
+			"move": "Toxic",
+			"tm": "TM6"
+		},
+		{
+			"move": "Hidden Power",
+			"tm": "TM10"
+		},
+		{
+			"move": "Sunny Day",
+			"tm": "TM11"
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": "TM15"
+		},
+		{
+			"move": "Light Screen",
+			"tm": "TM16"
+		},
+		{
+			"move": "Protect",
+			"tm": "TM17"
+		},
+		{
+			"move": "Rain Dance",
+			"tm": "TM18"
+		},
+		{
+			"move": "Roost",
+			"tm": "TM19"
+		},
+		{
+			"move": "Frustration",
+			"tm": "TM21"
+		},
+		{
+			"move": "Thunderbolt",
+			"tm": "TM24"
+		},
+		{
+			"move": "Thunder",
+			"tm": "TM25"
+		},
+		{
+			"move": "Return",
+			"tm": "TM27"
+		},
+		{
+			"move": "Double Team",
+			"tm": "TM32"
+		},
+		{
+			"move": "Sandstorm",
+			"tm": "TM37"
+		},
+		{
+			"move": "Aerial Ace",
+			"tm": "TM40"
+		},
+		{
+			"move": "Facade",
+			"tm": "TM42"
+		},
+		{
+			"move": "Rest",
+			"tm": "TM44"
+		},
+		{
+			"move": "Round",
+			"tm": "TM48"
+		},
+		{
+			"move": "Steel Wing",
+			"tm": "TM51"
+		},
+		{
+			"move": "Charge Beam",
+			"tm": "TM57"
+		},
+		{
+			"move": "Sky Drop",
+			"tm": "TM58"
+		},
+		{
+			"move": "Giga Impact",
+			"tm": "TM68"
+		},
+		{
+			"move": "Volt Switch",
+			"tm": "TM72"
+		},
+		{
+			"move": "Thunder Wave",
+			"tm": "TM73"
+		},
+		{
+			"move": "Fly",
+			"tm": "TM76"
+		},
+		{
+			"move": "Swagger",
+			"tm": "TM87"
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": "TM88"
+		},
+		{
+			"move": "U-turn",
+			"tm": "TM89"
+		},
+		{
+			"move": "Substitute",
+			"tm": "TM90"
+		},
+		{
+			"move": "Wild Charge",
+			"tm": "TM93"
+		},
+		{
+			"move": "Confide",
+			"tm": "TM100"
+		}
+	]
 }

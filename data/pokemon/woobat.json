@@ -1,336 +1,327 @@
 {
-    "name": "Woobat",
-    "national_id": 527,
-    "types": [
-        "Psychic",
-        "Flying"
-    ],
-    "abilities": [
-        {
-            "name": "Unaware"
-        },
-        {
-            "name": "Klutz"
-        },
-        {
-            "name": "Simple",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 190,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Field",
-        "Flying"
-    ],
-    "hatch_time": [
-        4080,
-        4334
-    ],
-    "height_us": "1'04\"",
-    "height_eu": "0.4 m",
-    "weight_us": "4.6 lbs.",
-    "weight_eu": "2.1 kg",
-    "base_exp_yield": 63,
-    "leveling_rate": "Medium Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 1
-    },
-    "base_stats": {
-        "hp": 55,
-        "atk": 45,
-        "def": 43,
-        "sp_atk": 55,
-        "sp_def": 43,
-        "speed": 72
-    },
-    "evolution_from": null,
-    "evolutions": [
-        {
-            "to": "Swoobat",
-            "happiness": true
-        }
-    ],
-    "species": "Bat Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "It emits ultrasonic waves as it flutters about, searching for its prey—bug Pokémon.",
-    "move_learnset": [
-        {
-            "move": "Gust",
-            "level": 1
-        },
-        {
-            "move": "Attract",
-            "level": 1
-        },
-        {
-            "move": "Confusion",
-            "level": 5
-        },
-        {
-            "move": "Endeavor",
-            "level": 10
-        },
-        {
-            "move": "Air Cutter",
-            "level": 15
-        },
-        {
-            "move": "Imprison",
-            "level": 20
-        },
-        {
-            "move": "Assurance",
-            "level": 25
-        },
-        {
-            "move": "Amnesia",
-            "level": 30
-        },
-        {
-            "move": "Air Slash",
-            "level": 35
-        },
-        {
-            "move": "Psychic",
-            "level": 40
-        },
-        {
-            "move": "Calm Mind",
-            "level": 45
-        },
-        {
-            "move": "Future Sight",
-            "level": 50
-        },
-        {
-            "move": "Simple Beam",
-            "level": 55
-        },
-        {
-            "move": "Fly",
-            "tm": true
-        },
-        {
-            "move": "Thunder Wave",
-            "tm": true
-        },
-        {
-            "move": "Light Screen",
-            "tm": true
-        },
-        {
-            "move": "Reflect",
-            "tm": true
-        },
-        {
-            "move": "Safeguard",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Thief",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Giga Drain",
-            "tm": true
-        },
-        {
-            "move": "Charm",
-            "tm": true
-        },
-        {
-            "move": "Steel Wing",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Rain Dance",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Swift",
-            "tm": true
-        },
-        {
-            "move": "Helping Hand",
-            "tm": true
-        },
-        {
-            "move": "Imprison",
-            "tm": true
-        },
-        {
-            "move": "Fake Tears",
-            "tm": true
-        },
-        {
-            "move": "U-turn",
-            "tm": true
-        },
-        {
-            "move": "Assurance",
-            "tm": true
-        },
-        {
-            "move": "Speed Swap",
-            "tm": true
-        },
-        {
-            "move": "Psycho Cut",
-            "tm": true
-        },
-        {
-            "move": "Trick Room",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Acrobatics",
-            "tm": true
-        },
-        {
-            "move": "Air Slash",
-            "tm": true
-        },
-        {
-            "move": "Psychic",
-            "tm": true
-        },
-        {
-            "move": "Amnesia",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Psyshock",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Baton Pass",
-            "tm": true
-        },
-        {
-            "move": "Shadow Ball",
-            "tm": true
-        },
-        {
-            "move": "Future Sight",
-            "tm": true
-        },
-        {
-            "move": "Uproar",
-            "tm": true
-        },
-        {
-            "move": "Heat Wave",
-            "tm": true
-        },
-        {
-            "move": "Taunt",
-            "tm": true
-        },
-        {
-            "move": "Trick",
-            "tm": true
-        },
-        {
-            "move": "Skill Swap",
-            "tm": true
-        },
-        {
-            "move": "Calm Mind",
-            "tm": true
-        },
-        {
-            "move": "Gyro Ball",
-            "tm": true
-        },
-        {
-            "move": "Energy Ball",
-            "tm": true
-        },
-        {
-            "move": "Nasty Plot",
-            "tm": true
-        },
-        {
-            "move": "Zen Headbutt",
-            "tm": true
-        },
-        {
-            "move": "Stored Power",
-            "tm": true
-        },
-        {
-            "move": "Ally Switch",
-            "tm": true
-        },
-        {
-            "move": "Venom Drench",
-            "tm": true
-        },
-        {
-            "move": "Knock Off",
-            "egg_move": true
-        },
-        {
-            "move": "Supersonic",
-            "egg_move": true
-        },
-        {
-            "move": "Roost",
-            "egg_move": true
-        },
-        {
-            "move": "Flatter",
-            "egg_move": true
-        },
-        {
-            "move": "Psycho Shift",
-            "egg_move": true
-        }
-    ]
+	"name": "Woobat",
+	"national_id": 527,
+	"types": ["Psychic", "Flying"],
+	"abilities": [
+		{
+			"name": "Unaware"
+		},
+		{
+			"name": "Klutz"
+		},
+		{
+			"name": "Simple",
+			"hidden": true
+		}
+	],
+	"catch_rate": 190,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Field", "Flying"],
+	"hatch_time": [4080, 4334],
+	"height_us": "1'04\"",
+	"height_eu": "0.4 m",
+	"weight_us": "4.6 lbs.",
+	"weight_eu": "2.1 kg",
+	"base_exp_yield": 63,
+	"leveling_rate": "Medium Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 1
+	},
+	"base_stats": {
+		"hp": 55,
+		"atk": 45,
+		"def": 43,
+		"sp_atk": 55,
+		"sp_def": 43,
+		"speed": 72
+	},
+	"evolution_from": null,
+	"evolutions": [
+		{
+			"to": "Swoobat",
+			"happiness": true
+		}
+	],
+	"species": "Bat Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "It emits ultrasonic waves as it flutters about, searching for its prey—bug Pokémon.",
+	"move_learnset": [
+		{
+			"move": "Gust",
+			"level": 1
+		},
+		{
+			"move": "Attract",
+			"level": 1
+		},
+		{
+			"move": "Confusion",
+			"level": 5
+		},
+		{
+			"move": "Endeavor",
+			"level": 10
+		},
+		{
+			"move": "Air Cutter",
+			"level": 15
+		},
+		{
+			"move": "Imprison",
+			"level": 20
+		},
+		{
+			"move": "Assurance",
+			"level": 25
+		},
+		{
+			"move": "Amnesia",
+			"level": 30
+		},
+		{
+			"move": "Air Slash",
+			"level": 35
+		},
+		{
+			"move": "Psychic",
+			"level": 40
+		},
+		{
+			"move": "Calm Mind",
+			"level": 45
+		},
+		{
+			"move": "Future Sight",
+			"level": 50
+		},
+		{
+			"move": "Simple Beam",
+			"level": 55
+		},
+		{
+			"move": "Fly",
+			"tm": true
+		},
+		{
+			"move": "Thunder Wave",
+			"tm": true
+		},
+		{
+			"move": "Light Screen",
+			"tm": true
+		},
+		{
+			"move": "Reflect",
+			"tm": true
+		},
+		{
+			"move": "Safeguard",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Thief",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Giga Drain",
+			"tm": true
+		},
+		{
+			"move": "Charm",
+			"tm": true
+		},
+		{
+			"move": "Steel Wing",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Rain Dance",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Swift",
+			"tm": true
+		},
+		{
+			"move": "Helping Hand",
+			"tm": true
+		},
+		{
+			"move": "Imprison",
+			"tm": true
+		},
+		{
+			"move": "Fake Tears",
+			"tm": true
+		},
+		{
+			"move": "U-turn",
+			"tm": true
+		},
+		{
+			"move": "Assurance",
+			"tm": true
+		},
+		{
+			"move": "Speed Swap",
+			"tm": true
+		},
+		{
+			"move": "Psycho Cut",
+			"tm": true
+		},
+		{
+			"move": "Trick Room",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Acrobatics",
+			"tm": true
+		},
+		{
+			"move": "Air Slash",
+			"tm": true
+		},
+		{
+			"move": "Psychic",
+			"tm": true
+		},
+		{
+			"move": "Amnesia",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Psyshock",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Baton Pass",
+			"tm": true
+		},
+		{
+			"move": "Shadow Ball",
+			"tm": true
+		},
+		{
+			"move": "Future Sight",
+			"tm": true
+		},
+		{
+			"move": "Uproar",
+			"tm": true
+		},
+		{
+			"move": "Heat Wave",
+			"tm": true
+		},
+		{
+			"move": "Taunt",
+			"tm": true
+		},
+		{
+			"move": "Trick",
+			"tm": true
+		},
+		{
+			"move": "Skill Swap",
+			"tm": true
+		},
+		{
+			"move": "Calm Mind",
+			"tm": true
+		},
+		{
+			"move": "Gyro Ball",
+			"tm": true
+		},
+		{
+			"move": "Energy Ball",
+			"tm": true
+		},
+		{
+			"move": "Nasty Plot",
+			"tm": true
+		},
+		{
+			"move": "Zen Headbutt",
+			"tm": true
+		},
+		{
+			"move": "Stored Power",
+			"tm": true
+		},
+		{
+			"move": "Ally Switch",
+			"tm": true
+		},
+		{
+			"move": "Venom Drench",
+			"tm": true
+		},
+		{
+			"move": "Knock Off",
+			"egg_move": true
+		},
+		{
+			"move": "Supersonic",
+			"egg_move": true
+		},
+		{
+			"move": "Roost",
+			"egg_move": true
+		},
+		{
+			"move": "Flatter",
+			"egg_move": true
+		},
+		{
+			"move": "Psycho Shift",
+			"egg_move": true
+		}
+	]
 }

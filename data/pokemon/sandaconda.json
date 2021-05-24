@@ -1,270 +1,262 @@
 {
-    "name": "Sandaconda",
-    "national_id": 844,
-    "types": [
-        "Ground"
-    ],
-    "abilities": [
-        {
-            "name": "Sand Spit"
-        },
-        {
-            "name": "Shed Skin"
-        },
-        {
-            "name": "Sand Veil",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 120,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Field",
-        "Dragon"
-    ],
-    "hatch_time": [
-        5140,
-        5396
-    ],
-    "height_us": "12'06\"",
-    "height_eu": "3.8 m",
-    "weight_us": "144.4 lbs.",
-    "weight_eu": "65.5 kg",
-    "base_exp_yield": 179,
-    "leveling_rate": "Medium Fast",
-    "base_friendship": 50,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 2,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 72,
-        "atk": 107,
-        "def": 125,
-        "sp_atk": 65,
-        "sp_def": 70,
-        "speed": 71
-    },
-    "evolution_from": "Silicobra",
-    "evolutions": [],
-    "species": "Sand Snake Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "Its unique style of coiling allows it to blast sand out of its sand sac more efficiently.",
-    "move_learnset": [
-        {
-            "move": "Skull Bash",
-            "level": 1
-        },
-        {
-            "move": "Wrap",
-            "level": 1
-        },
-        {
-            "move": "Sand Attack",
-            "level": 1
-        },
-        {
-            "move": "Minimize",
-            "level": 1
-        },
-        {
-            "move": "Brutal Swing",
-            "level": 1
-        },
-        {
-            "move": "Bulldoze",
-            "level": 15
-        },
-        {
-            "move": "Headbutt",
-            "level": 20
-        },
-        {
-            "move": "Glare",
-            "level": 25
-        },
-        {
-            "move": "Dig",
-            "level": 30
-        },
-        {
-            "move": "Sandstorm",
-            "level": 35
-        },
-        {
-            "move": "Slam",
-            "level": 42
-        },
-        {
-            "move": "Coil",
-            "level": 49
-        },
-        {
-            "move": "Sand Tomb",
-            "level": 51
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": true
-        },
-        {
-            "move": "Giga Impact",
-            "tm": true
-        },
-        {
-            "move": "Dig",
-            "tm": true
-        },
-        {
-            "move": "Screech",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Rock Slide",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Sandstorm",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Rock Tomb",
-            "tm": true
-        },
-        {
-            "move": "Sand Tomb",
-            "tm": true
-        },
-        {
-            "move": "Mud Shot",
-            "tm": true
-        },
-        {
-            "move": "Rock Blast",
-            "tm": true
-        },
-        {
-            "move": "Fire Fang",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Bulldoze",
-            "tm": true
-        },
-        {
-            "move": "Brutal Swing",
-            "tm": true
-        },
-        {
-            "move": "Earthquake",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Outrage",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Iron Defense",
-            "tm": true
-        },
-        {
-            "move": "Earth Power",
-            "tm": true
-        },
-        {
-            "move": "Zen Headbutt",
-            "tm": true
-        },
-        {
-            "move": "Iron Head",
-            "tm": true
-        },
-        {
-            "move": "Stone Edge",
-            "tm": true
-        },
-        {
-            "move": "Stealth Rock",
-            "tm": true
-        },
-        {
-            "move": "Drill Run",
-            "tm": true
-        },
-        {
-            "move": "Hurricane",
-            "tm": true
-        },
-        {
-            "move": "High Horsepower",
-            "tm": true
-        },
-        {
-            "move": "Body Press",
-            "tm": true
-        },
-        {
-            "move": "Dragon Rush",
-            "egg_move": true
-        },
-        {
-            "move": "Mud-Slap",
-            "egg_move": true
-        },
-        {
-            "move": "Last Resort",
-            "egg_move": true
-        },
-        {
-            "move": "Belch",
-            "egg_move": true
-        },
-        {
-            "move": "Poison Tail",
-            "egg_move": true
-        }
-    ]
+	"name": "Sandaconda",
+	"national_id": 844,
+	"types": ["Ground"],
+	"abilities": [
+		{
+			"name": "Sand Spit"
+		},
+		{
+			"name": "Shed Skin"
+		},
+		{
+			"name": "Sand Veil",
+			"hidden": true
+		}
+	],
+	"catch_rate": 120,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Field", "Dragon"],
+	"hatch_time": [5140, 5396],
+	"height_us": "12'06\"",
+	"height_eu": "3.8 m",
+	"weight_us": "144.4 lbs.",
+	"weight_eu": "65.5 kg",
+	"base_exp_yield": 179,
+	"leveling_rate": "Medium Fast",
+	"base_friendship": 50,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 2,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 72,
+		"atk": 107,
+		"def": 125,
+		"sp_atk": 65,
+		"sp_def": 70,
+		"speed": 71
+	},
+	"evolution_from": "Silicobra",
+	"evolutions": [],
+	"species": "Sand Snake Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "Its unique style of coiling allows it to blast sand out of its sand sac more efficiently.",
+	"move_learnset": [
+		{
+			"move": "Skull Bash",
+			"level": 1
+		},
+		{
+			"move": "Wrap",
+			"level": 1
+		},
+		{
+			"move": "Sand Attack",
+			"level": 1
+		},
+		{
+			"move": "Minimize",
+			"level": 1
+		},
+		{
+			"move": "Brutal Swing",
+			"level": 1
+		},
+		{
+			"move": "Bulldoze",
+			"level": 15
+		},
+		{
+			"move": "Headbutt",
+			"level": 20
+		},
+		{
+			"move": "Glare",
+			"level": 25
+		},
+		{
+			"move": "Dig",
+			"level": 30
+		},
+		{
+			"move": "Sandstorm",
+			"level": 35
+		},
+		{
+			"move": "Slam",
+			"level": 42
+		},
+		{
+			"move": "Coil",
+			"level": 49
+		},
+		{
+			"move": "Sand Tomb",
+			"level": 51
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": true
+		},
+		{
+			"move": "Giga Impact",
+			"tm": true
+		},
+		{
+			"move": "Dig",
+			"tm": true
+		},
+		{
+			"move": "Screech",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Rock Slide",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Sandstorm",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Rock Tomb",
+			"tm": true
+		},
+		{
+			"move": "Sand Tomb",
+			"tm": true
+		},
+		{
+			"move": "Mud Shot",
+			"tm": true
+		},
+		{
+			"move": "Rock Blast",
+			"tm": true
+		},
+		{
+			"move": "Fire Fang",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Bulldoze",
+			"tm": true
+		},
+		{
+			"move": "Brutal Swing",
+			"tm": true
+		},
+		{
+			"move": "Earthquake",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Outrage",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Iron Defense",
+			"tm": true
+		},
+		{
+			"move": "Earth Power",
+			"tm": true
+		},
+		{
+			"move": "Zen Headbutt",
+			"tm": true
+		},
+		{
+			"move": "Iron Head",
+			"tm": true
+		},
+		{
+			"move": "Stone Edge",
+			"tm": true
+		},
+		{
+			"move": "Stealth Rock",
+			"tm": true
+		},
+		{
+			"move": "Drill Run",
+			"tm": true
+		},
+		{
+			"move": "Hurricane",
+			"tm": true
+		},
+		{
+			"move": "High Horsepower",
+			"tm": true
+		},
+		{
+			"move": "Body Press",
+			"tm": true
+		},
+		{
+			"move": "Dragon Rush",
+			"egg_move": true
+		},
+		{
+			"move": "Mud-Slap",
+			"egg_move": true
+		},
+		{
+			"move": "Last Resort",
+			"egg_move": true
+		},
+		{
+			"move": "Belch",
+			"egg_move": true
+		},
+		{
+			"move": "Poison Tail",
+			"egg_move": true
+		}
+	]
 }

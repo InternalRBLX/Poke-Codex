@@ -1,325 +1,316 @@
 {
-    "name": "Whimsicott",
-    "national_id": 547,
-    "types": [
-        "Grass",
-        "Fairy"
-    ],
-    "items": [
-        {
-            "name": "Absorb Bulb",
-            "chance": 5
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Prankster"
-        },
-        {
-            "name": "Infiltrator"
-        },
-        {
-            "name": "Chlorophyll",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 75,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Grass",
-        "Fairy"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "2'04\"",
-    "height_eu": "0.7 m",
-    "weight_us": "14.6 lbs.",
-    "weight_eu": "6.6 kg",
-    "base_exp_yield": 168,
-    "leveling_rate": "Medium Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 2
-    },
-    "base_stats": {
-        "hp": 60,
-        "atk": 67,
-        "def": 85,
-        "sp_atk": 77,
-        "sp_def": 75,
-        "speed": 116
-    },
-    "evolution_from": "Cottonee",
-    "evolutions": [],
-    "species": "Windveiled Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "As long as this Pokémon bathes in sunlight, its cotton keeps growing. If too much cotton fluff builds up, Whimsicott tears it off and scatters it.",
-    "move_learnset": [
-        {
-            "move": "Gust",
-            "level": 1
-        },
-        {
-            "move": "Tailwind",
-            "level": 1
-        },
-        {
-            "move": "Moonblast",
-            "level": 1
-        },
-        {
-            "move": "Memento",
-            "level": 1
-        },
-        {
-            "move": "Hurricane",
-            "level": 1
-        },
-        {
-            "move": "Mega Drain",
-            "level": 1
-        },
-        {
-            "move": "Razor Leaf",
-            "level": 1
-        },
-        {
-            "move": "Growth",
-            "level": 1
-        },
-        {
-            "move": "Poison Powder",
-            "level": 1
-        },
-        {
-            "move": "Giga Drain",
-            "level": 1
-        },
-        {
-            "move": "Charm",
-            "level": 1
-        },
-        {
-            "move": "Leech Seed",
-            "level": 1
-        },
-        {
-            "move": "Cotton Spore",
-            "level": 1
-        },
-        {
-            "move": "Energy Ball",
-            "level": 1
-        },
-        {
-            "move": "Sunny Day",
-            "level": 1
-        },
-        {
-            "move": "Endeavor",
-            "level": 1
-        },
-        {
-            "move": "Cotton Guard",
-            "level": 1
-        },
-        {
-            "move": "Solar Beam",
-            "level": 1
-        },
-        {
-            "move": "Absorb",
-            "level": 1
-        },
-        {
-            "move": "Helping Hand",
-            "level": 1
-        },
-        {
-            "move": "Fairy Wind",
-            "level": 1
-        },
-        {
-            "move": "Stun Spore",
-            "level": 1
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": true
-        },
-        {
-            "move": "Giga Impact",
-            "tm": true
-        },
-        {
-            "move": "Solar Beam",
-            "tm": true
-        },
-        {
-            "move": "Light Screen",
-            "tm": true
-        },
-        {
-            "move": "Safeguard",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Thief",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Giga Drain",
-            "tm": true
-        },
-        {
-            "move": "Charm",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Sunny Day",
-            "tm": true
-        },
-        {
-            "move": "Beat Up",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Swift",
-            "tm": true
-        },
-        {
-            "move": "Helping Hand",
-            "tm": true
-        },
-        {
-            "move": "Fake Tears",
-            "tm": true
-        },
-        {
-            "move": "U-turn",
-            "tm": true
-        },
-        {
-            "move": "Fling",
-            "tm": true
-        },
-        {
-            "move": "Trick Room",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Grassy Terrain",
-            "tm": true
-        },
-        {
-            "move": "Misty Terrain",
-            "tm": true
-        },
-        {
-            "move": "Psychic",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Encore",
-            "tm": true
-        },
-        {
-            "move": "Shadow Ball",
-            "tm": true
-        },
-        {
-            "move": "Taunt",
-            "tm": true
-        },
-        {
-            "move": "Seed Bomb",
-            "tm": true
-        },
-        {
-            "move": "Energy Ball",
-            "tm": true
-        },
-        {
-            "move": "Grass Knot",
-            "tm": true
-        },
-        {
-            "move": "Hurricane",
-            "tm": true
-        },
-        {
-            "move": "Play Rough",
-            "tm": true
-        },
-        {
-            "move": "Dazzling Gleam",
-            "tm": true
-        },
-        {
-            "move": "Tickle",
-            "egg_move": true
-        },
-        {
-            "move": "Memento",
-            "egg_move": true
-        },
-        {
-            "move": "Switcheroo",
-            "egg_move": true
-        },
-        {
-            "move": "Worry Seed",
-            "egg_move": true
-        },
-        {
-            "move": "Nature Power",
-            "egg_move": true
-        }
-    ]
+	"name": "Whimsicott",
+	"national_id": 547,
+	"types": ["Grass", "Fairy"],
+	"items": [
+		{
+			"name": "Absorb Bulb",
+			"chance": 5
+		}
+	],
+	"abilities": [
+		{
+			"name": "Prankster"
+		},
+		{
+			"name": "Infiltrator"
+		},
+		{
+			"name": "Chlorophyll",
+			"hidden": true
+		}
+	],
+	"catch_rate": 75,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Grass", "Fairy"],
+	"hatch_time": [5355, 5609],
+	"height_us": "2'04\"",
+	"height_eu": "0.7 m",
+	"weight_us": "14.6 lbs.",
+	"weight_eu": "6.6 kg",
+	"base_exp_yield": 168,
+	"leveling_rate": "Medium Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 2
+	},
+	"base_stats": {
+		"hp": 60,
+		"atk": 67,
+		"def": 85,
+		"sp_atk": 77,
+		"sp_def": 75,
+		"speed": 116
+	},
+	"evolution_from": "Cottonee",
+	"evolutions": [],
+	"species": "Windveiled Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "As long as this Pokémon bathes in sunlight, its cotton keeps growing. If too much cotton fluff builds up, Whimsicott tears it off and scatters it.",
+	"move_learnset": [
+		{
+			"move": "Gust",
+			"level": 1
+		},
+		{
+			"move": "Tailwind",
+			"level": 1
+		},
+		{
+			"move": "Moonblast",
+			"level": 1
+		},
+		{
+			"move": "Memento",
+			"level": 1
+		},
+		{
+			"move": "Hurricane",
+			"level": 1
+		},
+		{
+			"move": "Mega Drain",
+			"level": 1
+		},
+		{
+			"move": "Razor Leaf",
+			"level": 1
+		},
+		{
+			"move": "Growth",
+			"level": 1
+		},
+		{
+			"move": "Poison Powder",
+			"level": 1
+		},
+		{
+			"move": "Giga Drain",
+			"level": 1
+		},
+		{
+			"move": "Charm",
+			"level": 1
+		},
+		{
+			"move": "Leech Seed",
+			"level": 1
+		},
+		{
+			"move": "Cotton Spore",
+			"level": 1
+		},
+		{
+			"move": "Energy Ball",
+			"level": 1
+		},
+		{
+			"move": "Sunny Day",
+			"level": 1
+		},
+		{
+			"move": "Endeavor",
+			"level": 1
+		},
+		{
+			"move": "Cotton Guard",
+			"level": 1
+		},
+		{
+			"move": "Solar Beam",
+			"level": 1
+		},
+		{
+			"move": "Absorb",
+			"level": 1
+		},
+		{
+			"move": "Helping Hand",
+			"level": 1
+		},
+		{
+			"move": "Fairy Wind",
+			"level": 1
+		},
+		{
+			"move": "Stun Spore",
+			"level": 1
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": true
+		},
+		{
+			"move": "Giga Impact",
+			"tm": true
+		},
+		{
+			"move": "Solar Beam",
+			"tm": true
+		},
+		{
+			"move": "Light Screen",
+			"tm": true
+		},
+		{
+			"move": "Safeguard",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Thief",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Giga Drain",
+			"tm": true
+		},
+		{
+			"move": "Charm",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Sunny Day",
+			"tm": true
+		},
+		{
+			"move": "Beat Up",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Swift",
+			"tm": true
+		},
+		{
+			"move": "Helping Hand",
+			"tm": true
+		},
+		{
+			"move": "Fake Tears",
+			"tm": true
+		},
+		{
+			"move": "U-turn",
+			"tm": true
+		},
+		{
+			"move": "Fling",
+			"tm": true
+		},
+		{
+			"move": "Trick Room",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Grassy Terrain",
+			"tm": true
+		},
+		{
+			"move": "Misty Terrain",
+			"tm": true
+		},
+		{
+			"move": "Psychic",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Encore",
+			"tm": true
+		},
+		{
+			"move": "Shadow Ball",
+			"tm": true
+		},
+		{
+			"move": "Taunt",
+			"tm": true
+		},
+		{
+			"move": "Seed Bomb",
+			"tm": true
+		},
+		{
+			"move": "Energy Ball",
+			"tm": true
+		},
+		{
+			"move": "Grass Knot",
+			"tm": true
+		},
+		{
+			"move": "Hurricane",
+			"tm": true
+		},
+		{
+			"move": "Play Rough",
+			"tm": true
+		},
+		{
+			"move": "Dazzling Gleam",
+			"tm": true
+		},
+		{
+			"move": "Tickle",
+			"egg_move": true
+		},
+		{
+			"move": "Memento",
+			"egg_move": true
+		},
+		{
+			"move": "Switcheroo",
+			"egg_move": true
+		},
+		{
+			"move": "Worry Seed",
+			"egg_move": true
+		},
+		{
+			"move": "Nature Power",
+			"egg_move": true
+		}
+	]
 }

@@ -1,281 +1,273 @@
 {
-    "name": "Castform",
-    "national_id": 351,
-    "types": [
-        "Water"
-    ],
-    "items": [
-        {
-            "name": "Mystic Water",
-            "chance": 100
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Forecast"
-        }
-    ],
-    "catch_rate": 45,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Fairy",
-        "Amorphous"
-    ],
-    "hatch_time": [
-        6630,
-        6884
-    ],
-    "height_us": "1'00\"",
-    "height_eu": "0.3 m",
-    "weight_us": "1.8 lbs.",
-    "weight_eu": "0.8 kg",
-    "base_exp_yield": 147,
-    "leveling_rate": "Medium Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 1,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 70,
-        "atk": 70,
-        "def": 70,
-        "sp_atk": 70,
-        "sp_def": 70,
-        "speed": 70
-    },
-    "evolution_from": null,
-    "evolutions": [],
-    "species": "Weather Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "Castform borrows the power of nature to transform itself into the guises of the sun, rain, and snow-clouds. This Pokémon’s feelings change with the weather.",
-    "move_learnset": [
-        {
-            "move": "Tackle",
-            "level": 1
-        },
-        {
-            "move": "Ember",
-            "level": 10
-        },
-        {
-            "move": "Powder Snow",
-            "level": 10
-        },
-        {
-            "move": "Water Gun",
-            "level": 10
-        },
-        {
-            "move": "Headbutt",
-            "level": 15
-        },
-        {
-            "move": "Hail",
-            "level": 20
-        },
-        {
-            "move": "Rain Dance",
-            "level": 20
-        },
-        {
-            "move": "Sunny Day",
-            "level": 20
-        },
-        {
-            "move": "Weather Ball",
-            "level": 25
-        },
-        {
-            "move": "Blizzard",
-            "level": 35
-        },
-        {
-            "move": "Fire Blast",
-            "level": 35
-        },
-        {
-            "move": "Hydro Pump",
-            "level": 35
-        },
-        {
-            "move": "Hurricane",
-            "level": 45
-        },
-        {
-            "move": "Amnesia",
-            "egg_move": true
-        },
-        {
-            "move": "Clear Smog",
-            "egg_move": true
-        },
-        {
-            "move": "Cosmic Power",
-            "egg_move": true
-        },
-        {
-            "move": "Disable",
-            "egg_move": true
-        },
-        {
-            "move": "Future Sight",
-            "egg_move": true
-        },
-        {
-            "move": "Guard Swap",
-            "egg_move": true
-        },
-        {
-            "move": "Hex",
-            "egg_move": true
-        },
-        {
-            "move": "Lucky Chant",
-            "egg_move": true
-        },
-        {
-            "move": "Ominous Wind",
-            "egg_move": true
-        },
-        {
-            "move": "Reflect Type",
-            "egg_move": true
-        },
-        {
-            "move": "Work Up",
-            "tm": "TM1"
-        },
-        {
-            "move": "Toxic",
-            "tm": "TM6"
-        },
-        {
-            "move": "Hail",
-            "tm": "TM7"
-        },
-        {
-            "move": "Hidden Power",
-            "tm": "TM10"
-        },
-        {
-            "move": "Sunny Day",
-            "tm": "TM11"
-        },
-        {
-            "move": "Ice Beam",
-            "tm": "TM13"
-        },
-        {
-            "move": "Blizzard",
-            "tm": "TM14"
-        },
-        {
-            "move": "Protect",
-            "tm": "TM17"
-        },
-        {
-            "move": "Rain Dance",
-            "tm": "TM18"
-        },
-        {
-            "move": "Frustration",
-            "tm": "TM21"
-        },
-        {
-            "move": "Solar Beam",
-            "tm": "TM22"
-        },
-        {
-            "move": "Thunderbolt",
-            "tm": "TM24"
-        },
-        {
-            "move": "Thunder",
-            "tm": "TM25"
-        },
-        {
-            "move": "Return",
-            "tm": "TM27"
-        },
-        {
-            "move": "Shadow Ball",
-            "tm": "TM30"
-        },
-        {
-            "move": "Double Team",
-            "tm": "TM32"
-        },
-        {
-            "move": "Flamethrower",
-            "tm": "TM35"
-        },
-        {
-            "move": "Sandstorm",
-            "tm": "TM37"
-        },
-        {
-            "move": "Fire Blast",
-            "tm": "TM38"
-        },
-        {
-            "move": "Facade",
-            "tm": "TM42"
-        },
-        {
-            "move": "Rest",
-            "tm": "TM44"
-        },
-        {
-            "move": "Attract",
-            "tm": "TM45"
-        },
-        {
-            "move": "Thief",
-            "tm": "TM46"
-        },
-        {
-            "move": "Round",
-            "tm": "TM48"
-        },
-        {
-            "move": "Energy Ball",
-            "tm": "TM53"
-        },
-        {
-            "move": "Scald",
-            "tm": "TM55"
-        },
-        {
-            "move": "Thunder Wave",
-            "tm": "TM73"
-        },
-        {
-            "move": "Psych Up",
-            "tm": "TM77"
-        },
-        {
-            "move": "Swagger",
-            "tm": "TM87"
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": "TM88"
-        },
-        {
-            "move": "Substitute",
-            "tm": "TM90"
-        },
-        {
-            "move": "Confide",
-            "tm": "TM100"
-        }
-    ]
+	"name": "Castform",
+	"national_id": 351,
+	"types": ["Water"],
+	"items": [
+		{
+			"name": "Mystic Water",
+			"chance": 100
+		}
+	],
+	"abilities": [
+		{
+			"name": "Forecast"
+		}
+	],
+	"catch_rate": 45,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Fairy", "Amorphous"],
+	"hatch_time": [6630, 6884],
+	"height_us": "1'00\"",
+	"height_eu": "0.3 m",
+	"weight_us": "1.8 lbs.",
+	"weight_eu": "0.8 kg",
+	"base_exp_yield": 147,
+	"leveling_rate": "Medium Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 1,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 70,
+		"atk": 70,
+		"def": 70,
+		"sp_atk": 70,
+		"sp_def": 70,
+		"speed": 70
+	},
+	"evolution_from": null,
+	"evolutions": [],
+	"species": "Weather Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "Castform borrows the power of nature to transform itself into the guises of the sun, rain, and snow-clouds. This Pokémon’s feelings change with the weather.",
+	"move_learnset": [
+		{
+			"move": "Tackle",
+			"level": 1
+		},
+		{
+			"move": "Ember",
+			"level": 10
+		},
+		{
+			"move": "Powder Snow",
+			"level": 10
+		},
+		{
+			"move": "Water Gun",
+			"level": 10
+		},
+		{
+			"move": "Headbutt",
+			"level": 15
+		},
+		{
+			"move": "Hail",
+			"level": 20
+		},
+		{
+			"move": "Rain Dance",
+			"level": 20
+		},
+		{
+			"move": "Sunny Day",
+			"level": 20
+		},
+		{
+			"move": "Weather Ball",
+			"level": 25
+		},
+		{
+			"move": "Blizzard",
+			"level": 35
+		},
+		{
+			"move": "Fire Blast",
+			"level": 35
+		},
+		{
+			"move": "Hydro Pump",
+			"level": 35
+		},
+		{
+			"move": "Hurricane",
+			"level": 45
+		},
+		{
+			"move": "Amnesia",
+			"egg_move": true
+		},
+		{
+			"move": "Clear Smog",
+			"egg_move": true
+		},
+		{
+			"move": "Cosmic Power",
+			"egg_move": true
+		},
+		{
+			"move": "Disable",
+			"egg_move": true
+		},
+		{
+			"move": "Future Sight",
+			"egg_move": true
+		},
+		{
+			"move": "Guard Swap",
+			"egg_move": true
+		},
+		{
+			"move": "Hex",
+			"egg_move": true
+		},
+		{
+			"move": "Lucky Chant",
+			"egg_move": true
+		},
+		{
+			"move": "Ominous Wind",
+			"egg_move": true
+		},
+		{
+			"move": "Reflect Type",
+			"egg_move": true
+		},
+		{
+			"move": "Work Up",
+			"tm": "TM1"
+		},
+		{
+			"move": "Toxic",
+			"tm": "TM6"
+		},
+		{
+			"move": "Hail",
+			"tm": "TM7"
+		},
+		{
+			"move": "Hidden Power",
+			"tm": "TM10"
+		},
+		{
+			"move": "Sunny Day",
+			"tm": "TM11"
+		},
+		{
+			"move": "Ice Beam",
+			"tm": "TM13"
+		},
+		{
+			"move": "Blizzard",
+			"tm": "TM14"
+		},
+		{
+			"move": "Protect",
+			"tm": "TM17"
+		},
+		{
+			"move": "Rain Dance",
+			"tm": "TM18"
+		},
+		{
+			"move": "Frustration",
+			"tm": "TM21"
+		},
+		{
+			"move": "Solar Beam",
+			"tm": "TM22"
+		},
+		{
+			"move": "Thunderbolt",
+			"tm": "TM24"
+		},
+		{
+			"move": "Thunder",
+			"tm": "TM25"
+		},
+		{
+			"move": "Return",
+			"tm": "TM27"
+		},
+		{
+			"move": "Shadow Ball",
+			"tm": "TM30"
+		},
+		{
+			"move": "Double Team",
+			"tm": "TM32"
+		},
+		{
+			"move": "Flamethrower",
+			"tm": "TM35"
+		},
+		{
+			"move": "Sandstorm",
+			"tm": "TM37"
+		},
+		{
+			"move": "Fire Blast",
+			"tm": "TM38"
+		},
+		{
+			"move": "Facade",
+			"tm": "TM42"
+		},
+		{
+			"move": "Rest",
+			"tm": "TM44"
+		},
+		{
+			"move": "Attract",
+			"tm": "TM45"
+		},
+		{
+			"move": "Thief",
+			"tm": "TM46"
+		},
+		{
+			"move": "Round",
+			"tm": "TM48"
+		},
+		{
+			"move": "Energy Ball",
+			"tm": "TM53"
+		},
+		{
+			"move": "Scald",
+			"tm": "TM55"
+		},
+		{
+			"move": "Thunder Wave",
+			"tm": "TM73"
+		},
+		{
+			"move": "Psych Up",
+			"tm": "TM77"
+		},
+		{
+			"move": "Swagger",
+			"tm": "TM87"
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": "TM88"
+		},
+		{
+			"move": "Substitute",
+			"tm": "TM90"
+		},
+		{
+			"move": "Confide",
+			"tm": "TM100"
+		}
+	]
 }

@@ -1,286 +1,278 @@
 {
-    "name": "Buizel",
-    "national_id": 418,
-    "types": [
-        "Water"
-    ],
-    "items": [
-        {
-            "name": "Wacan Berry",
-            "chance": 5
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Swift Swim"
-        },
-        {
-            "name": "Water Veil",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 190,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Water 1",
-        "Field"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "2'04\"",
-    "height_eu": "0.7 m",
-    "weight_us": "65.0 lbs.",
-    "weight_eu": "29.5 kg",
-    "base_exp_yield": 66,
-    "leveling_rate": "Medium Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 1
-    },
-    "base_stats": {
-        "hp": 55,
-        "atk": 65,
-        "def": 35,
-        "sp_atk": 60,
-        "sp_def": 30,
-        "speed": 85
-    },
-    "evolution_from": null,
-    "evolutions": [
-        {
-            "to": "Floatzel",
-            "level": 26
-        }
-    ],
-    "species": "Sea Weasel Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "It inflates the flotation sac around its neck and pokes its head out of the water to see what is going on.",
-    "move_learnset": [
-        {
-            "move": "Sonic Boom",
-            "level": 1
-        },
-        {
-            "move": "Growl",
-            "level": 4
-        },
-        {
-            "move": "Water Sport",
-            "level": 7
-        },
-        {
-            "move": "Quick Attack",
-            "level": 11
-        },
-        {
-            "move": "Water Gun",
-            "level": 15
-        },
-        {
-            "move": "Pursuit",
-            "level": 18
-        },
-        {
-            "move": "Swift",
-            "level": 21
-        },
-        {
-            "move": "Aqua Jet",
-            "level": 24
-        },
-        {
-            "move": "Double Hit",
-            "level": 27
-        },
-        {
-            "move": "Whirlpool",
-            "level": 31
-        },
-        {
-            "move": "Razor Wind",
-            "level": 35
-        },
-        {
-            "move": "Aqua Tail",
-            "level": 38
-        },
-        {
-            "move": "Agility",
-            "level": 41
-        },
-        {
-            "move": "Hydro Pump",
-            "level": 45
-        },
-        {
-            "move": "Aqua Ring",
-            "egg_move": true
-        },
-        {
-            "move": "Aqua Tail",
-            "egg_move": true
-        },
-        {
-            "move": "Baton Pass",
-            "egg_move": true
-        },
-        {
-            "move": "Double Slap",
-            "egg_move": true
-        },
-        {
-            "move": "Fury Cutter",
-            "egg_move": true
-        },
-        {
-            "move": "Fury Swipes",
-            "egg_move": true
-        },
-        {
-            "move": "Headbutt",
-            "egg_move": true
-        },
-        {
-            "move": "Helping Hand",
-            "egg_move": true
-        },
-        {
-            "move": "Me First",
-            "egg_move": true
-        },
-        {
-            "move": "Mud-Slap",
-            "egg_move": true
-        },
-        {
-            "move": "Odor Sleuth",
-            "egg_move": true
-        },
-        {
-            "move": "Slash",
-            "egg_move": true
-        },
-        {
-            "move": "Soak",
-            "egg_move": true
-        },
-        {
-            "move": "Switcheroo",
-            "egg_move": true
-        },
-        {
-            "move": "Tail Slap",
-            "egg_move": true
-        },
-        {
-            "move": "Toxic",
-            "tm": "TM6"
-        },
-        {
-            "move": "Hail",
-            "tm": "TM7"
-        },
-        {
-            "move": "Bulk Up",
-            "tm": "TM8"
-        },
-        {
-            "move": "Hidden Power",
-            "tm": "TM10"
-        },
-        {
-            "move": "Ice Beam",
-            "tm": "TM13"
-        },
-        {
-            "move": "Blizzard",
-            "tm": "TM14"
-        },
-        {
-            "move": "Protect",
-            "tm": "TM17"
-        },
-        {
-            "move": "Rain Dance",
-            "tm": "TM18"
-        },
-        {
-            "move": "Frustration",
-            "tm": "TM21"
-        },
-        {
-            "move": "Return",
-            "tm": "TM27"
-        },
-        {
-            "move": "Brick Break",
-            "tm": "TM31"
-        },
-        {
-            "move": "Double Team",
-            "tm": "TM32"
-        },
-        {
-            "move": "Rock Tomb",
-            "tm": "TM39"
-        },
-        {
-            "move": "Facade",
-            "tm": "TM42"
-        },
-        {
-            "move": "Rest",
-            "tm": "TM44"
-        },
-        {
-            "move": "Attract",
-            "tm": "TM45"
-        },
-        {
-            "move": "Round",
-            "tm": "TM48"
-        },
-        {
-            "move": "Echoed Voice",
-            "tm": "TM49"
-        },
-        {
-            "move": "Scald",
-            "tm": "TM55"
-        },
-        {
-            "move": "Swagger",
-            "tm": "TM87"
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": "TM88"
-        },
-        {
-            "move": "Substitute",
-            "tm": "TM90"
-        },
-        {
-            "move": "Surf",
-            "tm": "TM94"
-        },
-        {
-            "move": "Waterfall",
-            "tm": "TM98"
-        },
-        {
-            "move": "Confide",
-            "tm": "TM100"
-        }
-    ]
+	"name": "Buizel",
+	"national_id": 418,
+	"types": ["Water"],
+	"items": [
+		{
+			"name": "Wacan Berry",
+			"chance": 5
+		}
+	],
+	"abilities": [
+		{
+			"name": "Swift Swim"
+		},
+		{
+			"name": "Water Veil",
+			"hidden": true
+		}
+	],
+	"catch_rate": 190,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Water 1", "Field"],
+	"hatch_time": [5355, 5609],
+	"height_us": "2'04\"",
+	"height_eu": "0.7 m",
+	"weight_us": "65.0 lbs.",
+	"weight_eu": "29.5 kg",
+	"base_exp_yield": 66,
+	"leveling_rate": "Medium Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 1
+	},
+	"base_stats": {
+		"hp": 55,
+		"atk": 65,
+		"def": 35,
+		"sp_atk": 60,
+		"sp_def": 30,
+		"speed": 85
+	},
+	"evolution_from": null,
+	"evolutions": [
+		{
+			"to": "Floatzel",
+			"level": 26
+		}
+	],
+	"species": "Sea Weasel Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "It inflates the flotation sac around its neck and pokes its head out of the water to see what is going on.",
+	"move_learnset": [
+		{
+			"move": "Sonic Boom",
+			"level": 1
+		},
+		{
+			"move": "Growl",
+			"level": 4
+		},
+		{
+			"move": "Water Sport",
+			"level": 7
+		},
+		{
+			"move": "Quick Attack",
+			"level": 11
+		},
+		{
+			"move": "Water Gun",
+			"level": 15
+		},
+		{
+			"move": "Pursuit",
+			"level": 18
+		},
+		{
+			"move": "Swift",
+			"level": 21
+		},
+		{
+			"move": "Aqua Jet",
+			"level": 24
+		},
+		{
+			"move": "Double Hit",
+			"level": 27
+		},
+		{
+			"move": "Whirlpool",
+			"level": 31
+		},
+		{
+			"move": "Razor Wind",
+			"level": 35
+		},
+		{
+			"move": "Aqua Tail",
+			"level": 38
+		},
+		{
+			"move": "Agility",
+			"level": 41
+		},
+		{
+			"move": "Hydro Pump",
+			"level": 45
+		},
+		{
+			"move": "Aqua Ring",
+			"egg_move": true
+		},
+		{
+			"move": "Aqua Tail",
+			"egg_move": true
+		},
+		{
+			"move": "Baton Pass",
+			"egg_move": true
+		},
+		{
+			"move": "Double Slap",
+			"egg_move": true
+		},
+		{
+			"move": "Fury Cutter",
+			"egg_move": true
+		},
+		{
+			"move": "Fury Swipes",
+			"egg_move": true
+		},
+		{
+			"move": "Headbutt",
+			"egg_move": true
+		},
+		{
+			"move": "Helping Hand",
+			"egg_move": true
+		},
+		{
+			"move": "Me First",
+			"egg_move": true
+		},
+		{
+			"move": "Mud-Slap",
+			"egg_move": true
+		},
+		{
+			"move": "Odor Sleuth",
+			"egg_move": true
+		},
+		{
+			"move": "Slash",
+			"egg_move": true
+		},
+		{
+			"move": "Soak",
+			"egg_move": true
+		},
+		{
+			"move": "Switcheroo",
+			"egg_move": true
+		},
+		{
+			"move": "Tail Slap",
+			"egg_move": true
+		},
+		{
+			"move": "Toxic",
+			"tm": "TM6"
+		},
+		{
+			"move": "Hail",
+			"tm": "TM7"
+		},
+		{
+			"move": "Bulk Up",
+			"tm": "TM8"
+		},
+		{
+			"move": "Hidden Power",
+			"tm": "TM10"
+		},
+		{
+			"move": "Ice Beam",
+			"tm": "TM13"
+		},
+		{
+			"move": "Blizzard",
+			"tm": "TM14"
+		},
+		{
+			"move": "Protect",
+			"tm": "TM17"
+		},
+		{
+			"move": "Rain Dance",
+			"tm": "TM18"
+		},
+		{
+			"move": "Frustration",
+			"tm": "TM21"
+		},
+		{
+			"move": "Return",
+			"tm": "TM27"
+		},
+		{
+			"move": "Brick Break",
+			"tm": "TM31"
+		},
+		{
+			"move": "Double Team",
+			"tm": "TM32"
+		},
+		{
+			"move": "Rock Tomb",
+			"tm": "TM39"
+		},
+		{
+			"move": "Facade",
+			"tm": "TM42"
+		},
+		{
+			"move": "Rest",
+			"tm": "TM44"
+		},
+		{
+			"move": "Attract",
+			"tm": "TM45"
+		},
+		{
+			"move": "Round",
+			"tm": "TM48"
+		},
+		{
+			"move": "Echoed Voice",
+			"tm": "TM49"
+		},
+		{
+			"move": "Scald",
+			"tm": "TM55"
+		},
+		{
+			"move": "Swagger",
+			"tm": "TM87"
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": "TM88"
+		},
+		{
+			"move": "Substitute",
+			"tm": "TM90"
+		},
+		{
+			"move": "Surf",
+			"tm": "TM94"
+		},
+		{
+			"move": "Waterfall",
+			"tm": "TM98"
+		},
+		{
+			"move": "Confide",
+			"tm": "TM100"
+		}
+	]
 }

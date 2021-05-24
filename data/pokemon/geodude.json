@@ -1,465 +1,345 @@
 {
-    "name": "Geodude",
-    "national_id": 74,
-    "types": [
-        "Rock",
-        "Ground"
-    ],
-    "items": [
-        {
-            "name": "Everstone",
-            "chance": 5
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Rock Head"
-        },
-        {
-            "name": "Sturdy"
-        },
-        {
-            "name": "Sand Veil",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 255,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Mineral"
-    ],
-    "hatch_time": [
-        4080,
-        4334
-    ],
-    "height_us": "1'04\"",
-    "height_eu": "0.4 m",
-    "weight_us": "44.1 lbs.",
-    "weight_eu": "20.0 kg",
-    "base_exp_yield": 60,
-    "leveling_rate": "Medium Slow",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 1,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 40,
-        "atk": 80,
-        "def": 100,
-        "sp_atk": 30,
-        "sp_def": 30,
-        "speed": 20
-    },
-    "evolution_from": null,
-    "evolutions": [
-        {
-            "to": "Graveler",
-            "level": 25
-        }
-    ],
-    "species": "Rock Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "When Geodude sleeps deeply, it buries itself halfway into the ground. It will not awaken even if hikers step on it unwittingly. In the morning, this Pokémon rolls downhill in search of food.",
-    "move_learnset": [
-        {
-            "move": "Defense Curl",
-            "level": 1,
-            "variations": [
-                "Geodude"
-            ]
-        },
-        {
-            "move": "Tackle",
-            "level": 1,
-            "variations": [
-                "Geodude"
-            ]
-        },
-        {
-            "move": "Mud Sport",
-            "level": 4,
-            "variations": [
-                "Geodude"
-            ]
-        },
-        {
-            "move": "Rock Polish",
-            "level": 6,
-            "variations": [
-                "Geodude"
-            ]
-        },
-        {
-            "move": "Rollout",
-            "level": 10,
-            "variations": [
-                "Geodude"
-            ]
-        },
-        {
-            "move": "Magnitude",
-            "level": 12,
-            "variations": [
-                "Geodude"
-            ]
-        },
-        {
-            "move": "Rock Throw",
-            "level": 16,
-            "variations": [
-                "Geodude"
-            ]
-        },
-        {
-            "move": "Smack Down",
-            "level": 18,
-            "variations": [
-                "Geodude"
-            ]
-        },
-        {
-            "move": "Bulldoze",
-            "level": 22,
-            "variations": [
-                "Geodude"
-            ]
-        },
-        {
-            "move": "Self-Destruct",
-            "level": 24,
-            "variations": [
-                "Geodude"
-            ]
-        },
-        {
-            "move": "Stealth Rock",
-            "level": 28,
-            "variations": [
-                "Geodude"
-            ]
-        },
-        {
-            "move": "Rock Blast",
-            "level": 30,
-            "variations": [
-                "Geodude"
-            ]
-        },
-        {
-            "move": "Earthquake",
-            "level": 34,
-            "variations": [
-                "Geodude"
-            ]
-        },
-        {
-            "move": "Explosion",
-            "level": 36,
-            "variations": [
-                "Geodude"
-            ]
-        },
-        {
-            "move": "Double-Edge",
-            "level": 40,
-            "variations": [
-                "Geodude"
-            ]
-        },
-        {
-            "move": "Stone Edge",
-            "level": 42,
-            "variations": [
-                "Geodude"
-            ]
-        },
-        {
-            "move": "Autotomize",
-            "egg_move": true,
-            "variations": [
-                "Geodude"
-            ]
-        },
-        {
-            "move": "Block",
-            "egg_move": true,
-            "variations": [
-                "Geodude"
-            ]
-        },
-        {
-            "move": "Curse",
-            "egg_move": true,
-            "variations": [
-                "Geodude"
-            ]
-        },
-        {
-            "move": "Endure",
-            "egg_move": true,
-            "variations": [
-                "Geodude"
-            ]
-        },
-        {
-            "move": "Flail",
-            "egg_move": true,
-            "variations": [
-                "Geodude"
-            ]
-        },
-        {
-            "move": "Focus Punch",
-            "egg_move": true,
-            "variations": [
-                "Geodude"
-            ]
-        },
-        {
-            "move": "Hammer Arm",
-            "egg_move": true,
-            "variations": [
-                "Geodude"
-            ]
-        },
-        {
-            "move": "Mega Punch",
-            "egg_move": true,
-            "variations": [
-                "Geodude"
-            ]
-        },
-        {
-            "move": "Rock Climb",
-            "egg_move": true,
-            "variations": [
-                "Geodude"
-            ]
-        },
-        {
-            "move": "Wide Guard",
-            "egg_move": true,
-            "variations": [
-                "Geodude"
-            ]
-        },
-        {
-            "move": "Toxic",
-            "tm": "TM6",
-            "variations": [
-                "Geodude"
-            ]
-        },
-        {
-            "move": "Hidden Power",
-            "tm": "TM10",
-            "variations": [
-                "Geodude"
-            ]
-        },
-        {
-            "move": "Sunny Day",
-            "tm": "TM11",
-            "variations": [
-                "Geodude"
-            ]
-        },
-        {
-            "move": "Protect",
-            "tm": "TM17",
-            "variations": [
-                "Geodude"
-            ]
-        },
-        {
-            "move": "Frustration",
-            "tm": "TM21",
-            "variations": [
-                "Geodude"
-            ]
-        },
-        {
-            "move": "Smack Down",
-            "tm": "TM23",
-            "variations": [
-                "Geodude"
-            ]
-        },
-        {
-            "move": "Earthquake",
-            "tm": "TM26",
-            "variations": [
-                "Geodude"
-            ]
-        },
-        {
-            "move": "Return",
-            "tm": "TM27",
-            "variations": [
-                "Geodude"
-            ]
-        },
-        {
-            "move": "Brick Break",
-            "tm": "TM31",
-            "variations": [
-                "Geodude"
-            ]
-        },
-        {
-            "move": "Double Team",
-            "tm": "TM32",
-            "variations": [
-                "Geodude"
-            ]
-        },
-        {
-            "move": "Flamethrower",
-            "tm": "TM35",
-            "variations": [
-                "Geodude"
-            ]
-        },
-        {
-            "move": "Sandstorm",
-            "tm": "TM37",
-            "variations": [
-                "Geodude"
-            ]
-        },
-        {
-            "move": "Fire Blast",
-            "tm": "TM38",
-            "variations": [
-                "Geodude"
-            ]
-        },
-        {
-            "move": "Rock Tomb",
-            "tm": "TM39",
-            "variations": [
-                "Geodude"
-            ]
-        },
-        {
-            "move": "Facade",
-            "tm": "TM42",
-            "variations": [
-                "Geodude"
-            ]
-        },
-        {
-            "move": "Rest",
-            "tm": "TM44",
-            "variations": [
-                "Geodude"
-            ]
-        },
-        {
-            "move": "Attract",
-            "tm": "TM45",
-            "variations": [
-                "Geodude"
-            ]
-        },
-        {
-            "move": "Round",
-            "tm": "TM48",
-            "variations": [
-                "Geodude"
-            ]
-        },
-        {
-            "move": "Fling",
-            "tm": "TM56",
-            "variations": [
-                "Geodude"
-            ]
-        },
-        {
-            "move": "Explosion",
-            "tm": "TM64",
-            "variations": [
-                "Geodude"
-            ]
-        },
-        {
-            "move": "Rock Polish",
-            "tm": "TM69",
-            "variations": [
-                "Geodude"
-            ]
-        },
-        {
-            "move": "Stone Edge",
-            "tm": "TM71",
-            "variations": [
-                "Geodude"
-            ]
-        },
-        {
-            "move": "Gyro Ball",
-            "tm": "TM74",
-            "variations": [
-                "Geodude"
-            ]
-        },
-        {
-            "move": "Bulldoze",
-            "tm": "TM78",
-            "variations": [
-                "Geodude"
-            ]
-        },
-        {
-            "move": "Rock Slide",
-            "tm": "TM80",
-            "variations": [
-                "Geodude"
-            ]
-        },
-        {
-            "move": "Swagger",
-            "tm": "TM87",
-            "variations": [
-                "Geodude"
-            ]
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": "TM88",
-            "variations": [
-                "Geodude"
-            ]
-        },
-        {
-            "move": "Substitute",
-            "tm": "TM90",
-            "variations": [
-                "Geodude"
-            ]
-        },
-        {
-            "move": "Nature Power",
-            "tm": "TM96",
-            "variations": [
-                "Geodude"
-            ]
-        },
-        {
-            "move": "Confide",
-            "tm": "TM100",
-            "variations": [
-                "Geodude"
-            ]
-        }
-    ]
+	"name": "Geodude",
+	"national_id": 74,
+	"types": ["Rock", "Ground"],
+	"items": [
+		{
+			"name": "Everstone",
+			"chance": 5
+		}
+	],
+	"abilities": [
+		{
+			"name": "Rock Head"
+		},
+		{
+			"name": "Sturdy"
+		},
+		{
+			"name": "Sand Veil",
+			"hidden": true
+		}
+	],
+	"catch_rate": 255,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Mineral"],
+	"hatch_time": [4080, 4334],
+	"height_us": "1'04\"",
+	"height_eu": "0.4 m",
+	"weight_us": "44.1 lbs.",
+	"weight_eu": "20.0 kg",
+	"base_exp_yield": 60,
+	"leveling_rate": "Medium Slow",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 1,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 40,
+		"atk": 80,
+		"def": 100,
+		"sp_atk": 30,
+		"sp_def": 30,
+		"speed": 20
+	},
+	"evolution_from": null,
+	"evolutions": [
+		{
+			"to": "Graveler",
+			"level": 25
+		}
+	],
+	"species": "Rock Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "When Geodude sleeps deeply, it buries itself halfway into the ground. It will not awaken even if hikers step on it unwittingly. In the morning, this Pokémon rolls downhill in search of food.",
+	"move_learnset": [
+		{
+			"move": "Defense Curl",
+			"level": 1,
+			"variations": ["Geodude"]
+		},
+		{
+			"move": "Tackle",
+			"level": 1,
+			"variations": ["Geodude"]
+		},
+		{
+			"move": "Mud Sport",
+			"level": 4,
+			"variations": ["Geodude"]
+		},
+		{
+			"move": "Rock Polish",
+			"level": 6,
+			"variations": ["Geodude"]
+		},
+		{
+			"move": "Rollout",
+			"level": 10,
+			"variations": ["Geodude"]
+		},
+		{
+			"move": "Magnitude",
+			"level": 12,
+			"variations": ["Geodude"]
+		},
+		{
+			"move": "Rock Throw",
+			"level": 16,
+			"variations": ["Geodude"]
+		},
+		{
+			"move": "Smack Down",
+			"level": 18,
+			"variations": ["Geodude"]
+		},
+		{
+			"move": "Bulldoze",
+			"level": 22,
+			"variations": ["Geodude"]
+		},
+		{
+			"move": "Self-Destruct",
+			"level": 24,
+			"variations": ["Geodude"]
+		},
+		{
+			"move": "Stealth Rock",
+			"level": 28,
+			"variations": ["Geodude"]
+		},
+		{
+			"move": "Rock Blast",
+			"level": 30,
+			"variations": ["Geodude"]
+		},
+		{
+			"move": "Earthquake",
+			"level": 34,
+			"variations": ["Geodude"]
+		},
+		{
+			"move": "Explosion",
+			"level": 36,
+			"variations": ["Geodude"]
+		},
+		{
+			"move": "Double-Edge",
+			"level": 40,
+			"variations": ["Geodude"]
+		},
+		{
+			"move": "Stone Edge",
+			"level": 42,
+			"variations": ["Geodude"]
+		},
+		{
+			"move": "Autotomize",
+			"egg_move": true,
+			"variations": ["Geodude"]
+		},
+		{
+			"move": "Block",
+			"egg_move": true,
+			"variations": ["Geodude"]
+		},
+		{
+			"move": "Curse",
+			"egg_move": true,
+			"variations": ["Geodude"]
+		},
+		{
+			"move": "Endure",
+			"egg_move": true,
+			"variations": ["Geodude"]
+		},
+		{
+			"move": "Flail",
+			"egg_move": true,
+			"variations": ["Geodude"]
+		},
+		{
+			"move": "Focus Punch",
+			"egg_move": true,
+			"variations": ["Geodude"]
+		},
+		{
+			"move": "Hammer Arm",
+			"egg_move": true,
+			"variations": ["Geodude"]
+		},
+		{
+			"move": "Mega Punch",
+			"egg_move": true,
+			"variations": ["Geodude"]
+		},
+		{
+			"move": "Rock Climb",
+			"egg_move": true,
+			"variations": ["Geodude"]
+		},
+		{
+			"move": "Wide Guard",
+			"egg_move": true,
+			"variations": ["Geodude"]
+		},
+		{
+			"move": "Toxic",
+			"tm": "TM6",
+			"variations": ["Geodude"]
+		},
+		{
+			"move": "Hidden Power",
+			"tm": "TM10",
+			"variations": ["Geodude"]
+		},
+		{
+			"move": "Sunny Day",
+			"tm": "TM11",
+			"variations": ["Geodude"]
+		},
+		{
+			"move": "Protect",
+			"tm": "TM17",
+			"variations": ["Geodude"]
+		},
+		{
+			"move": "Frustration",
+			"tm": "TM21",
+			"variations": ["Geodude"]
+		},
+		{
+			"move": "Smack Down",
+			"tm": "TM23",
+			"variations": ["Geodude"]
+		},
+		{
+			"move": "Earthquake",
+			"tm": "TM26",
+			"variations": ["Geodude"]
+		},
+		{
+			"move": "Return",
+			"tm": "TM27",
+			"variations": ["Geodude"]
+		},
+		{
+			"move": "Brick Break",
+			"tm": "TM31",
+			"variations": ["Geodude"]
+		},
+		{
+			"move": "Double Team",
+			"tm": "TM32",
+			"variations": ["Geodude"]
+		},
+		{
+			"move": "Flamethrower",
+			"tm": "TM35",
+			"variations": ["Geodude"]
+		},
+		{
+			"move": "Sandstorm",
+			"tm": "TM37",
+			"variations": ["Geodude"]
+		},
+		{
+			"move": "Fire Blast",
+			"tm": "TM38",
+			"variations": ["Geodude"]
+		},
+		{
+			"move": "Rock Tomb",
+			"tm": "TM39",
+			"variations": ["Geodude"]
+		},
+		{
+			"move": "Facade",
+			"tm": "TM42",
+			"variations": ["Geodude"]
+		},
+		{
+			"move": "Rest",
+			"tm": "TM44",
+			"variations": ["Geodude"]
+		},
+		{
+			"move": "Attract",
+			"tm": "TM45",
+			"variations": ["Geodude"]
+		},
+		{
+			"move": "Round",
+			"tm": "TM48",
+			"variations": ["Geodude"]
+		},
+		{
+			"move": "Fling",
+			"tm": "TM56",
+			"variations": ["Geodude"]
+		},
+		{
+			"move": "Explosion",
+			"tm": "TM64",
+			"variations": ["Geodude"]
+		},
+		{
+			"move": "Rock Polish",
+			"tm": "TM69",
+			"variations": ["Geodude"]
+		},
+		{
+			"move": "Stone Edge",
+			"tm": "TM71",
+			"variations": ["Geodude"]
+		},
+		{
+			"move": "Gyro Ball",
+			"tm": "TM74",
+			"variations": ["Geodude"]
+		},
+		{
+			"move": "Bulldoze",
+			"tm": "TM78",
+			"variations": ["Geodude"]
+		},
+		{
+			"move": "Rock Slide",
+			"tm": "TM80",
+			"variations": ["Geodude"]
+		},
+		{
+			"move": "Swagger",
+			"tm": "TM87",
+			"variations": ["Geodude"]
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": "TM88",
+			"variations": ["Geodude"]
+		},
+		{
+			"move": "Substitute",
+			"tm": "TM90",
+			"variations": ["Geodude"]
+		},
+		{
+			"move": "Nature Power",
+			"tm": "TM96",
+			"variations": ["Geodude"]
+		},
+		{
+			"move": "Confide",
+			"tm": "TM100",
+			"variations": ["Geodude"]
+		}
+	]
 }

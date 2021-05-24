@@ -1,472 +1,368 @@
 {
-    "name": "Raticate",
-    "national_id": 20,
-    "types": [
-        "Dark",
-        "Normal"
-    ],
-    "items": [
-        {
-            "name": "Pecha Berry",
-            "chance": 5
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Gluttony"
-        },
-        {
-            "name": "Hustle"
-        },
-        {
-            "name": "Thick Fat",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 127,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Field"
-    ],
-    "hatch_time": [
-        4080,
-        4334
-    ],
-    "height_us": "2'04\"",
-    "height_eu": "0.7 m",
-    "weight_us": "56.2 lbs.",
-    "weight_eu": "25.5 kg",
-    "base_exp_yield": 145,
-    "leveling_rate": "Medium Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 2
-    },
-    "base_stats": {
-        "hp": 75,
-        "atk": 71,
-        "def": 70,
-        "sp_atk": 40,
-        "sp_def": 80,
-        "speed": 77
-    },
-    "evolution_from": "Rattata",
-    "evolutions": [],
-    "species": "Mouse Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "Raticate’s sturdy fangs grow steadily. To keep them ground down, it gnaws on rocks and logs. It may even chew on the walls of houses.",
-    "move_learnset": [
-        {
-            "move": "Focus Energy",
-            "level": 1
-        },
-        {
-            "move": "Quick Attack",
-            "level": 1
-        },
-        {
-            "move": "Scary Face",
-            "level": 1
-        },
-        {
-            "move": "Swords Dance",
-            "level": 1
-        },
-        {
-            "move": "Tackle",
-            "level": 1
-        },
-        {
-            "move": "Tail Whip",
-            "level": 1
-        },
-        {
-            "move": "Quick Attack",
-            "level": 4
-        },
-        {
-            "move": "Focus Energy",
-            "level": 7
-        },
-        {
-            "move": "Bite",
-            "level": 10
-        },
-        {
-            "move": "Pursuit",
-            "level": 13
-        },
-        {
-            "move": "Hyper Fang",
-            "level": 16
-        },
-        {
-            "move": "Assurance",
-            "level": 19
-        },
-        {
-            "move": "Crunch",
-            "level": 24
-        },
-        {
-            "move": "Sucker Punch",
-            "level": 29
-        },
-        {
-            "move": "Super Fang",
-            "level": 34
-        },
-        {
-            "move": "Double-Edge",
-            "level": 39
-        },
-        {
-            "move": "Endeavor",
-            "level": 44
-        },
-        {
-            "move": "Counter",
-            "egg_move": true,
-            "variations": [
-                "Alolan Raticate"
-            ]
-        },
-        {
-            "move": "Final Gambit",
-            "egg_move": true,
-            "variations": [
-                "Alolan Raticate"
-            ]
-        },
-        {
-            "move": "Fury Swipes",
-            "egg_move": true,
-            "variations": [
-                "Alolan Raticate"
-            ]
-        },
-        {
-            "move": "Me First",
-            "egg_move": true,
-            "variations": [
-                "Alolan Raticate"
-            ]
-        },
-        {
-            "move": "Revenge",
-            "egg_move": true,
-            "variations": [
-                "Alolan Raticate"
-            ]
-        },
-        {
-            "move": "Reversal",
-            "egg_move": true,
-            "variations": [
-                "Alolan Raticate"
-            ]
-        },
-        {
-            "move": "Snatch",
-            "egg_move": true,
-            "variations": [
-                "Alolan Raticate"
-            ]
-        },
-        {
-            "move": "Stockpile",
-            "egg_move": true,
-            "variations": [
-                "Alolan Raticate"
-            ]
-        },
-        {
-            "move": "Swallow",
-            "egg_move": true,
-            "variations": [
-                "Alolan Raticate"
-            ]
-        },
-        {
-            "move": "Switcheroo",
-            "egg_move": true,
-            "variations": [
-                "Alolan Raticate"
-            ]
-        },
-        {
-            "move": "Uproar",
-            "egg_move": true,
-            "variations": [
-                "Alolan Raticate"
-            ]
-        },
-        {
-            "move": "Roar",
-            "tm": "TM5",
-            "variations": [
-                "Alolan Raticate"
-            ]
-        },
-        {
-            "move": "Toxic",
-            "tm": "TM6",
-            "variations": [
-                "Alolan Raticate"
-            ]
-        },
-        {
-            "move": "Bulk Up",
-            "tm": "TM8",
-            "variations": [
-                "Alolan Raticate"
-            ]
-        },
-        {
-            "move": "Venoshock",
-            "tm": "TM9",
-            "variations": [
-                "Alolan Raticate"
-            ]
-        },
-        {
-            "move": "Hidden Power",
-            "tm": "TM10",
-            "variations": [
-                "Alolan Raticate"
-            ]
-        },
-        {
-            "move": "Sunny Day",
-            "tm": "TM11",
-            "variations": [
-                "Alolan Raticate"
-            ]
-        },
-        {
-            "move": "Taunt",
-            "tm": "TM12",
-            "variations": [
-                "Alolan Raticate"
-            ]
-        },
-        {
-            "move": "Ice Beam",
-            "tm": "TM13",
-            "variations": [
-                "Alolan Raticate"
-            ]
-        },
-        {
-            "move": "Blizzard",
-            "tm": "TM14",
-            "variations": [
-                "Alolan Raticate"
-            ]
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": "TM15",
-            "variations": [
-                "Alolan Raticate"
-            ]
-        },
-        {
-            "move": "Protect",
-            "tm": "TM17",
-            "variations": [
-                "Alolan Raticate"
-            ]
-        },
-        {
-            "move": "Rain Dance",
-            "tm": "TM18",
-            "variations": [
-                "Alolan Raticate"
-            ]
-        },
-        {
-            "move": "Frustration",
-            "tm": "TM21",
-            "variations": [
-                "Alolan Raticate"
-            ]
-        },
-        {
-            "move": "Return",
-            "tm": "TM27",
-            "variations": [
-                "Alolan Raticate"
-            ]
-        },
-        {
-            "move": "Shadow Ball",
-            "tm": "TM30",
-            "variations": [
-                "Alolan Raticate"
-            ]
-        },
-        {
-            "move": "Double Team",
-            "tm": "TM32",
-            "variations": [
-                "Alolan Raticate"
-            ]
-        },
-        {
-            "move": "Sludge Wave",
-            "tm": "TM34",
-            "variations": [
-                "Alolan Raticate"
-            ]
-        },
-        {
-            "move": "Sludge Bomb",
-            "tm": "TM36",
-            "variations": [
-                "Alolan Raticate"
-            ]
-        },
-        {
-            "move": "Torment",
-            "tm": "TM41",
-            "variations": [
-                "Alolan Raticate"
-            ]
-        },
-        {
-            "move": "Facade",
-            "tm": "TM42",
-            "variations": [
-                "Alolan Raticate"
-            ]
-        },
-        {
-            "move": "Rest",
-            "tm": "TM44",
-            "variations": [
-                "Alolan Raticate"
-            ]
-        },
-        {
-            "move": "Attract",
-            "tm": "TM45",
-            "variations": [
-                "Alolan Raticate"
-            ]
-        },
-        {
-            "move": "Thief",
-            "tm": "TM46",
-            "variations": [
-                "Alolan Raticate"
-            ]
-        },
-        {
-            "move": "Round",
-            "tm": "TM48",
-            "variations": [
-                "Alolan Raticate"
-            ]
-        },
-        {
-            "move": "Quash",
-            "tm": "TM60",
-            "variations": [
-                "Alolan Raticate"
-            ]
-        },
-        {
-            "move": "Embargo",
-            "tm": "TM63",
-            "variations": [
-                "Alolan Raticate"
-            ]
-        },
-        {
-            "move": "Shadow Claw",
-            "tm": "TM65",
-            "variations": [
-                "Alolan Raticate"
-            ]
-        },
-        {
-            "move": "Giga Impact",
-            "tm": "TM68",
-            "variations": [
-                "Alolan Raticate"
-            ]
-        },
-        {
-            "move": "Swords Dance",
-            "tm": "TM75",
-            "variations": [
-                "Alolan Raticate"
-            ]
-        },
-        {
-            "move": "Grass Knot",
-            "tm": "TM86",
-            "variations": [
-                "Alolan Raticate"
-            ]
-        },
-        {
-            "move": "Swagger",
-            "tm": "TM87",
-            "variations": [
-                "Alolan Raticate"
-            ]
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": "TM88",
-            "variations": [
-                "Alolan Raticate"
-            ]
-        },
-        {
-            "move": "U-turn",
-            "tm": "TM89",
-            "variations": [
-                "Alolan Raticate"
-            ]
-        },
-        {
-            "move": "Substitute",
-            "tm": "TM90",
-            "variations": [
-                "Alolan Raticate"
-            ]
-        },
-        {
-            "move": "Snarl",
-            "tm": "TM95",
-            "variations": [
-                "Alolan Raticate"
-            ]
-        },
-        {
-            "move": "Dark Pulse",
-            "tm": "TM97",
-            "variations": [
-                "Alolan Raticate"
-            ]
-        },
-        {
-            "move": "Confide",
-            "tm": "TM100",
-            "variations": [
-                "Alolan Raticate"
-            ]
-        }
-    ]
+	"name": "Raticate",
+	"national_id": 20,
+	"types": ["Dark", "Normal"],
+	"items": [
+		{
+			"name": "Pecha Berry",
+			"chance": 5
+		}
+	],
+	"abilities": [
+		{
+			"name": "Gluttony"
+		},
+		{
+			"name": "Hustle"
+		},
+		{
+			"name": "Thick Fat",
+			"hidden": true
+		}
+	],
+	"catch_rate": 127,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Field"],
+	"hatch_time": [4080, 4334],
+	"height_us": "2'04\"",
+	"height_eu": "0.7 m",
+	"weight_us": "56.2 lbs.",
+	"weight_eu": "25.5 kg",
+	"base_exp_yield": 145,
+	"leveling_rate": "Medium Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 2
+	},
+	"base_stats": {
+		"hp": 75,
+		"atk": 71,
+		"def": 70,
+		"sp_atk": 40,
+		"sp_def": 80,
+		"speed": 77
+	},
+	"evolution_from": "Rattata",
+	"evolutions": [],
+	"species": "Mouse Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "Raticate’s sturdy fangs grow steadily. To keep them ground down, it gnaws on rocks and logs. It may even chew on the walls of houses.",
+	"move_learnset": [
+		{
+			"move": "Focus Energy",
+			"level": 1
+		},
+		{
+			"move": "Quick Attack",
+			"level": 1
+		},
+		{
+			"move": "Scary Face",
+			"level": 1
+		},
+		{
+			"move": "Swords Dance",
+			"level": 1
+		},
+		{
+			"move": "Tackle",
+			"level": 1
+		},
+		{
+			"move": "Tail Whip",
+			"level": 1
+		},
+		{
+			"move": "Quick Attack",
+			"level": 4
+		},
+		{
+			"move": "Focus Energy",
+			"level": 7
+		},
+		{
+			"move": "Bite",
+			"level": 10
+		},
+		{
+			"move": "Pursuit",
+			"level": 13
+		},
+		{
+			"move": "Hyper Fang",
+			"level": 16
+		},
+		{
+			"move": "Assurance",
+			"level": 19
+		},
+		{
+			"move": "Crunch",
+			"level": 24
+		},
+		{
+			"move": "Sucker Punch",
+			"level": 29
+		},
+		{
+			"move": "Super Fang",
+			"level": 34
+		},
+		{
+			"move": "Double-Edge",
+			"level": 39
+		},
+		{
+			"move": "Endeavor",
+			"level": 44
+		},
+		{
+			"move": "Counter",
+			"egg_move": true,
+			"variations": ["Alolan Raticate"]
+		},
+		{
+			"move": "Final Gambit",
+			"egg_move": true,
+			"variations": ["Alolan Raticate"]
+		},
+		{
+			"move": "Fury Swipes",
+			"egg_move": true,
+			"variations": ["Alolan Raticate"]
+		},
+		{
+			"move": "Me First",
+			"egg_move": true,
+			"variations": ["Alolan Raticate"]
+		},
+		{
+			"move": "Revenge",
+			"egg_move": true,
+			"variations": ["Alolan Raticate"]
+		},
+		{
+			"move": "Reversal",
+			"egg_move": true,
+			"variations": ["Alolan Raticate"]
+		},
+		{
+			"move": "Snatch",
+			"egg_move": true,
+			"variations": ["Alolan Raticate"]
+		},
+		{
+			"move": "Stockpile",
+			"egg_move": true,
+			"variations": ["Alolan Raticate"]
+		},
+		{
+			"move": "Swallow",
+			"egg_move": true,
+			"variations": ["Alolan Raticate"]
+		},
+		{
+			"move": "Switcheroo",
+			"egg_move": true,
+			"variations": ["Alolan Raticate"]
+		},
+		{
+			"move": "Uproar",
+			"egg_move": true,
+			"variations": ["Alolan Raticate"]
+		},
+		{
+			"move": "Roar",
+			"tm": "TM5",
+			"variations": ["Alolan Raticate"]
+		},
+		{
+			"move": "Toxic",
+			"tm": "TM6",
+			"variations": ["Alolan Raticate"]
+		},
+		{
+			"move": "Bulk Up",
+			"tm": "TM8",
+			"variations": ["Alolan Raticate"]
+		},
+		{
+			"move": "Venoshock",
+			"tm": "TM9",
+			"variations": ["Alolan Raticate"]
+		},
+		{
+			"move": "Hidden Power",
+			"tm": "TM10",
+			"variations": ["Alolan Raticate"]
+		},
+		{
+			"move": "Sunny Day",
+			"tm": "TM11",
+			"variations": ["Alolan Raticate"]
+		},
+		{
+			"move": "Taunt",
+			"tm": "TM12",
+			"variations": ["Alolan Raticate"]
+		},
+		{
+			"move": "Ice Beam",
+			"tm": "TM13",
+			"variations": ["Alolan Raticate"]
+		},
+		{
+			"move": "Blizzard",
+			"tm": "TM14",
+			"variations": ["Alolan Raticate"]
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": "TM15",
+			"variations": ["Alolan Raticate"]
+		},
+		{
+			"move": "Protect",
+			"tm": "TM17",
+			"variations": ["Alolan Raticate"]
+		},
+		{
+			"move": "Rain Dance",
+			"tm": "TM18",
+			"variations": ["Alolan Raticate"]
+		},
+		{
+			"move": "Frustration",
+			"tm": "TM21",
+			"variations": ["Alolan Raticate"]
+		},
+		{
+			"move": "Return",
+			"tm": "TM27",
+			"variations": ["Alolan Raticate"]
+		},
+		{
+			"move": "Shadow Ball",
+			"tm": "TM30",
+			"variations": ["Alolan Raticate"]
+		},
+		{
+			"move": "Double Team",
+			"tm": "TM32",
+			"variations": ["Alolan Raticate"]
+		},
+		{
+			"move": "Sludge Wave",
+			"tm": "TM34",
+			"variations": ["Alolan Raticate"]
+		},
+		{
+			"move": "Sludge Bomb",
+			"tm": "TM36",
+			"variations": ["Alolan Raticate"]
+		},
+		{
+			"move": "Torment",
+			"tm": "TM41",
+			"variations": ["Alolan Raticate"]
+		},
+		{
+			"move": "Facade",
+			"tm": "TM42",
+			"variations": ["Alolan Raticate"]
+		},
+		{
+			"move": "Rest",
+			"tm": "TM44",
+			"variations": ["Alolan Raticate"]
+		},
+		{
+			"move": "Attract",
+			"tm": "TM45",
+			"variations": ["Alolan Raticate"]
+		},
+		{
+			"move": "Thief",
+			"tm": "TM46",
+			"variations": ["Alolan Raticate"]
+		},
+		{
+			"move": "Round",
+			"tm": "TM48",
+			"variations": ["Alolan Raticate"]
+		},
+		{
+			"move": "Quash",
+			"tm": "TM60",
+			"variations": ["Alolan Raticate"]
+		},
+		{
+			"move": "Embargo",
+			"tm": "TM63",
+			"variations": ["Alolan Raticate"]
+		},
+		{
+			"move": "Shadow Claw",
+			"tm": "TM65",
+			"variations": ["Alolan Raticate"]
+		},
+		{
+			"move": "Giga Impact",
+			"tm": "TM68",
+			"variations": ["Alolan Raticate"]
+		},
+		{
+			"move": "Swords Dance",
+			"tm": "TM75",
+			"variations": ["Alolan Raticate"]
+		},
+		{
+			"move": "Grass Knot",
+			"tm": "TM86",
+			"variations": ["Alolan Raticate"]
+		},
+		{
+			"move": "Swagger",
+			"tm": "TM87",
+			"variations": ["Alolan Raticate"]
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": "TM88",
+			"variations": ["Alolan Raticate"]
+		},
+		{
+			"move": "U-turn",
+			"tm": "TM89",
+			"variations": ["Alolan Raticate"]
+		},
+		{
+			"move": "Substitute",
+			"tm": "TM90",
+			"variations": ["Alolan Raticate"]
+		},
+		{
+			"move": "Snarl",
+			"tm": "TM95",
+			"variations": ["Alolan Raticate"]
+		},
+		{
+			"move": "Dark Pulse",
+			"tm": "TM97",
+			"variations": ["Alolan Raticate"]
+		},
+		{
+			"move": "Confide",
+			"tm": "TM100",
+			"variations": ["Alolan Raticate"]
+		}
+	]
 }

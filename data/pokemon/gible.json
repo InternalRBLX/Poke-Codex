@@ -1,275 +1,266 @@
 {
-    "name": "Gible",
-    "national_id": 443,
-    "types": [
-        "Dragon",
-        "Ground"
-    ],
-    "items": [
-        {
-            "name": "Haban Berry",
-            "chance": 5
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Sand Veil"
-        },
-        {
-            "name": "Rough Skin",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 45,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Monster",
-        "Dragon"
-    ],
-    "hatch_time": [
-        10455,
-        10709
-    ],
-    "height_us": "2'04\"",
-    "height_eu": "0.7 m",
-    "weight_us": "45.2 lbs.",
-    "weight_eu": "20.5 kg",
-    "base_exp_yield": 60,
-    "leveling_rate": "Slow",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 1,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 58,
-        "atk": 70,
-        "def": 45,
-        "sp_atk": 40,
-        "sp_def": 45,
-        "speed": 42
-    },
-    "evolution_from": null,
-    "evolutions": [
-        {
-            "to": "Gabite",
-            "level": 24
-        }
-    ],
-    "species": "Land Shark Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "It nests in small, horizontal holes in cave walls. It pounces to catch prey that stray too close.",
-    "move_learnset": [
-        {
-            "move": "Tackle",
-            "level": 1
-        },
-        {
-            "move": "Sand Attack",
-            "level": 3
-        },
-        {
-            "move": "Dragon Rage",
-            "level": 7
-        },
-        {
-            "move": "Sandstorm",
-            "level": 13
-        },
-        {
-            "move": "Take Down",
-            "level": 15
-        },
-        {
-            "move": "Sand Tomb",
-            "level": 19
-        },
-        {
-            "move": "Slash",
-            "level": 25
-        },
-        {
-            "move": "Dragon Claw",
-            "level": 27
-        },
-        {
-            "move": "Dig",
-            "level": 31
-        },
-        {
-            "move": "Dragon Rush",
-            "level": 37
-        },
-        {
-            "move": "Body Slam",
-            "egg_move": true
-        },
-        {
-            "move": "Double-Edge",
-            "egg_move": true
-        },
-        {
-            "move": "Dragon Breath",
-            "egg_move": true
-        },
-        {
-            "move": "Iron Head",
-            "egg_move": true
-        },
-        {
-            "move": "Iron Tail",
-            "egg_move": true
-        },
-        {
-            "move": "Metal Claw",
-            "egg_move": true
-        },
-        {
-            "move": "Mud Shot",
-            "egg_move": true
-        },
-        {
-            "move": "Outrage",
-            "egg_move": true
-        },
-        {
-            "move": "Rock Climb",
-            "egg_move": true
-        },
-        {
-            "move": "Sand Tomb",
-            "egg_move": true
-        },
-        {
-            "move": "Scary Face",
-            "egg_move": true
-        },
-        {
-            "move": "Thrash",
-            "egg_move": true
-        },
-        {
-            "move": "Twister",
-            "egg_move": true
-        },
-        {
-            "move": "Dragon Claw",
-            "tm": "TM2"
-        },
-        {
-            "move": "Roar",
-            "tm": "TM5"
-        },
-        {
-            "move": "Toxic",
-            "tm": "TM6"
-        },
-        {
-            "move": "Hidden Power",
-            "tm": "TM10"
-        },
-        {
-            "move": "Sunny Day",
-            "tm": "TM11"
-        },
-        {
-            "move": "Protect",
-            "tm": "TM17"
-        },
-        {
-            "move": "Rain Dance",
-            "tm": "TM18"
-        },
-        {
-            "move": "Frustration",
-            "tm": "TM21"
-        },
-        {
-            "move": "Earthquake",
-            "tm": "TM26"
-        },
-        {
-            "move": "Return",
-            "tm": "TM27"
-        },
-        {
-            "move": "Double Team",
-            "tm": "TM32"
-        },
-        {
-            "move": "Flamethrower",
-            "tm": "TM35"
-        },
-        {
-            "move": "Sandstorm",
-            "tm": "TM37"
-        },
-        {
-            "move": "Fire Blast",
-            "tm": "TM38"
-        },
-        {
-            "move": "Rock Tomb",
-            "tm": "TM39"
-        },
-        {
-            "move": "Aerial Ace",
-            "tm": "TM40"
-        },
-        {
-            "move": "Facade",
-            "tm": "TM42"
-        },
-        {
-            "move": "Rest",
-            "tm": "TM44"
-        },
-        {
-            "move": "Attract",
-            "tm": "TM45"
-        },
-        {
-            "move": "Round",
-            "tm": "TM48"
-        },
-        {
-            "move": "Shadow Claw",
-            "tm": "TM65"
-        },
-        {
-            "move": "Stone Edge",
-            "tm": "TM71"
-        },
-        {
-            "move": "Bulldoze",
-            "tm": "TM78"
-        },
-        {
-            "move": "Rock Slide",
-            "tm": "TM80"
-        },
-        {
-            "move": "Swagger",
-            "tm": "TM87"
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": "TM88"
-        },
-        {
-            "move": "Substitute",
-            "tm": "TM90"
-        },
-        {
-            "move": "Confide",
-            "tm": "TM100"
-        }
-    ]
+	"name": "Gible",
+	"national_id": 443,
+	"types": ["Dragon", "Ground"],
+	"items": [
+		{
+			"name": "Haban Berry",
+			"chance": 5
+		}
+	],
+	"abilities": [
+		{
+			"name": "Sand Veil"
+		},
+		{
+			"name": "Rough Skin",
+			"hidden": true
+		}
+	],
+	"catch_rate": 45,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Monster", "Dragon"],
+	"hatch_time": [10455, 10709],
+	"height_us": "2'04\"",
+	"height_eu": "0.7 m",
+	"weight_us": "45.2 lbs.",
+	"weight_eu": "20.5 kg",
+	"base_exp_yield": 60,
+	"leveling_rate": "Slow",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 1,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 58,
+		"atk": 70,
+		"def": 45,
+		"sp_atk": 40,
+		"sp_def": 45,
+		"speed": 42
+	},
+	"evolution_from": null,
+	"evolutions": [
+		{
+			"to": "Gabite",
+			"level": 24
+		}
+	],
+	"species": "Land Shark Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "It nests in small, horizontal holes in cave walls. It pounces to catch prey that stray too close.",
+	"move_learnset": [
+		{
+			"move": "Tackle",
+			"level": 1
+		},
+		{
+			"move": "Sand Attack",
+			"level": 3
+		},
+		{
+			"move": "Dragon Rage",
+			"level": 7
+		},
+		{
+			"move": "Sandstorm",
+			"level": 13
+		},
+		{
+			"move": "Take Down",
+			"level": 15
+		},
+		{
+			"move": "Sand Tomb",
+			"level": 19
+		},
+		{
+			"move": "Slash",
+			"level": 25
+		},
+		{
+			"move": "Dragon Claw",
+			"level": 27
+		},
+		{
+			"move": "Dig",
+			"level": 31
+		},
+		{
+			"move": "Dragon Rush",
+			"level": 37
+		},
+		{
+			"move": "Body Slam",
+			"egg_move": true
+		},
+		{
+			"move": "Double-Edge",
+			"egg_move": true
+		},
+		{
+			"move": "Dragon Breath",
+			"egg_move": true
+		},
+		{
+			"move": "Iron Head",
+			"egg_move": true
+		},
+		{
+			"move": "Iron Tail",
+			"egg_move": true
+		},
+		{
+			"move": "Metal Claw",
+			"egg_move": true
+		},
+		{
+			"move": "Mud Shot",
+			"egg_move": true
+		},
+		{
+			"move": "Outrage",
+			"egg_move": true
+		},
+		{
+			"move": "Rock Climb",
+			"egg_move": true
+		},
+		{
+			"move": "Sand Tomb",
+			"egg_move": true
+		},
+		{
+			"move": "Scary Face",
+			"egg_move": true
+		},
+		{
+			"move": "Thrash",
+			"egg_move": true
+		},
+		{
+			"move": "Twister",
+			"egg_move": true
+		},
+		{
+			"move": "Dragon Claw",
+			"tm": "TM2"
+		},
+		{
+			"move": "Roar",
+			"tm": "TM5"
+		},
+		{
+			"move": "Toxic",
+			"tm": "TM6"
+		},
+		{
+			"move": "Hidden Power",
+			"tm": "TM10"
+		},
+		{
+			"move": "Sunny Day",
+			"tm": "TM11"
+		},
+		{
+			"move": "Protect",
+			"tm": "TM17"
+		},
+		{
+			"move": "Rain Dance",
+			"tm": "TM18"
+		},
+		{
+			"move": "Frustration",
+			"tm": "TM21"
+		},
+		{
+			"move": "Earthquake",
+			"tm": "TM26"
+		},
+		{
+			"move": "Return",
+			"tm": "TM27"
+		},
+		{
+			"move": "Double Team",
+			"tm": "TM32"
+		},
+		{
+			"move": "Flamethrower",
+			"tm": "TM35"
+		},
+		{
+			"move": "Sandstorm",
+			"tm": "TM37"
+		},
+		{
+			"move": "Fire Blast",
+			"tm": "TM38"
+		},
+		{
+			"move": "Rock Tomb",
+			"tm": "TM39"
+		},
+		{
+			"move": "Aerial Ace",
+			"tm": "TM40"
+		},
+		{
+			"move": "Facade",
+			"tm": "TM42"
+		},
+		{
+			"move": "Rest",
+			"tm": "TM44"
+		},
+		{
+			"move": "Attract",
+			"tm": "TM45"
+		},
+		{
+			"move": "Round",
+			"tm": "TM48"
+		},
+		{
+			"move": "Shadow Claw",
+			"tm": "TM65"
+		},
+		{
+			"move": "Stone Edge",
+			"tm": "TM71"
+		},
+		{
+			"move": "Bulldoze",
+			"tm": "TM78"
+		},
+		{
+			"move": "Rock Slide",
+			"tm": "TM80"
+		},
+		{
+			"move": "Swagger",
+			"tm": "TM87"
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": "TM88"
+		},
+		{
+			"move": "Substitute",
+			"tm": "TM90"
+		},
+		{
+			"move": "Confide",
+			"tm": "TM100"
+		}
+	]
 }

@@ -1,564 +1,415 @@
 {
-    "name": "Muk",
-    "national_id": 89,
-    "types": [
-        "Poison"
-    ],
-    "items": [
-        {
-            "name": "Black Sludge",
-            "chance": 50
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Stench"
-        },
-        {
-            "name": "Sticky Hold"
-        },
-        {
-            "name": "Poison Touch",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 75,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Amorphous"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "3'11\"",
-    "height_eu": "1.2 m",
-    "weight_us": "66.1 lbs.",
-    "weight_eu": "30.0 kg",
-    "base_exp_yield": 175,
-    "leveling_rate": "Medium Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 1,
-        "atk": 1,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 105,
-        "atk": 105,
-        "def": 75,
-        "sp_atk": 65,
-        "sp_def": 100,
-        "speed": 50
-    },
-    "evolution_from": "Grimer",
-    "evolutions": [],
-    "species": "Sludge Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "This Pokémon's favorite food is anything that is repugnantly filthy. In dirty towns where people think nothing of throwing away litter on the streets, Muk are certain to gather.",
-    "move_learnset": [
-        {
-            "move": "Harden",
-            "level": 1,
-            "variations": [
-                "Muk"
-            ]
-        },
-        {
-            "move": "Mud-Slap",
-            "level": 1,
-            "variations": [
-                "Muk"
-            ]
-        },
-        {
-            "move": "Poison Gas",
-            "level": 1,
-            "variations": [
-                "Muk"
-            ]
-        },
-        {
-            "move": "Pound",
-            "level": 1,
-            "variations": [
-                "Muk"
-            ]
-        },
-        {
-            "move": "Venom Drench",
-            "level": 1,
-            "variations": [
-                "Muk"
-            ]
-        },
-        {
-            "move": "Harden",
-            "level": 4,
-            "variations": [
-                "Muk"
-            ]
-        },
-        {
-            "move": "Mud-Slap",
-            "level": 7,
-            "variations": [
-                "Muk"
-            ]
-        },
-        {
-            "move": "Disable",
-            "level": 12,
-            "variations": [
-                "Muk"
-            ]
-        },
-        {
-            "move": "Sludge",
-            "level": 15,
-            "variations": [
-                "Muk"
-            ]
-        },
-        {
-            "move": "Mud Bomb",
-            "level": 18,
-            "variations": [
-                "Muk"
-            ]
-        },
-        {
-            "move": "Minimize",
-            "level": 21,
-            "variations": [
-                "Muk"
-            ]
-        },
-        {
-            "move": "Fling",
-            "level": 26,
-            "variations": [
-                "Muk"
-            ]
-        },
-        {
-            "move": "Sludge Bomb",
-            "level": 29,
-            "variations": [
-                "Muk"
-            ]
-        },
-        {
-            "move": "Sludge Wave",
-            "level": 32,
-            "variations": [
-                "Muk"
-            ]
-        },
-        {
-            "move": "Screech",
-            "level": 37,
-            "variations": [
-                "Muk"
-            ]
-        },
-        {
-            "move": "Gunk Shot",
-            "level": 40,
-            "variations": [
-                "Muk"
-            ]
-        },
-        {
-            "move": "Acid Armor",
-            "level": 46,
-            "variations": [
-                "Muk"
-            ]
-        },
-        {
-            "move": "Belch",
-            "level": 52,
-            "variations": [
-                "Muk"
-            ]
-        },
-        {
-            "move": "Memento",
-            "level": 57,
-            "variations": [
-                "Muk"
-            ]
-        },
-        {
-            "move": "Acid Spray",
-            "egg_move": true,
-            "variations": [
-                "Muk"
-            ]
-        },
-        {
-            "move": "Curse",
-            "egg_move": true,
-            "variations": [
-                "Muk"
-            ]
-        },
-        {
-            "move": "Haze",
-            "egg_move": true,
-            "variations": [
-                "Muk"
-            ]
-        },
-        {
-            "move": "Imprison",
-            "egg_move": true,
-            "variations": [
-                "Muk"
-            ]
-        },
-        {
-            "move": "Lick",
-            "egg_move": true,
-            "variations": [
-                "Muk"
-            ]
-        },
-        {
-            "move": "Mean Look",
-            "egg_move": true,
-            "variations": [
-                "Muk"
-            ]
-        },
-        {
-            "move": "Power-Up Punch",
-            "egg_move": true,
-            "variations": [
-                "Muk"
-            ]
-        },
-        {
-            "move": "Scary Face",
-            "egg_move": true,
-            "variations": [
-                "Muk"
-            ]
-        },
-        {
-            "move": "Shadow Punch",
-            "egg_move": true,
-            "variations": [
-                "Muk"
-            ]
-        },
-        {
-            "move": "Shadow Sneak",
-            "egg_move": true,
-            "variations": [
-                "Muk"
-            ]
-        },
-        {
-            "move": "Spit Up",
-            "egg_move": true,
-            "variations": [
-                "Muk"
-            ]
-        },
-        {
-            "move": "Stockpile",
-            "egg_move": true,
-            "variations": [
-                "Muk"
-            ]
-        },
-        {
-            "move": "Swallow",
-            "egg_move": true,
-            "variations": [
-                "Muk"
-            ]
-        },
-        {
-            "move": "Toxic",
-            "tm": "TM6",
-            "variations": [
-                "Muk"
-            ]
-        },
-        {
-            "move": "Venoshock",
-            "tm": "TM9",
-            "variations": [
-                "Muk"
-            ]
-        },
-        {
-            "move": "Hidden Power",
-            "tm": "TM10",
-            "variations": [
-                "Muk"
-            ]
-        },
-        {
-            "move": "Sunny Day",
-            "tm": "TM11",
-            "variations": [
-                "Muk"
-            ]
-        },
-        {
-            "move": "Taunt",
-            "tm": "TM12",
-            "variations": [
-                "Muk"
-            ]
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": "TM15",
-            "variations": [
-                "Muk"
-            ]
-        },
-        {
-            "move": "Protect",
-            "tm": "TM17",
-            "variations": [
-                "Muk"
-            ]
-        },
-        {
-            "move": "Rain Dance",
-            "tm": "TM18",
-            "variations": [
-                "Muk"
-            ]
-        },
-        {
-            "move": "Frustration",
-            "tm": "TM21",
-            "variations": [
-                "Muk"
-            ]
-        },
-        {
-            "move": "Thunderbolt",
-            "tm": "TM24",
-            "variations": [
-                "Muk"
-            ]
-        },
-        {
-            "move": "Thunder",
-            "tm": "TM25",
-            "variations": [
-                "Muk"
-            ]
-        },
-        {
-            "move": "Return",
-            "tm": "TM27",
-            "variations": [
-                "Muk"
-            ]
-        },
-        {
-            "move": "Shadow Ball",
-            "tm": "TM30",
-            "variations": [
-                "Muk"
-            ]
-        },
-        {
-            "move": "Brick Break",
-            "tm": "TM31",
-            "variations": [
-                "Muk"
-            ]
-        },
-        {
-            "move": "Double Team",
-            "tm": "TM32",
-            "variations": [
-                "Muk"
-            ]
-        },
-        {
-            "move": "Sludge Wave",
-            "tm": "TM34",
-            "variations": [
-                "Muk"
-            ]
-        },
-        {
-            "move": "Flamethrower",
-            "tm": "TM35",
-            "variations": [
-                "Muk"
-            ]
-        },
-        {
-            "move": "Sludge Bomb",
-            "tm": "TM36",
-            "variations": [
-                "Muk"
-            ]
-        },
-        {
-            "move": "Fire Blast",
-            "tm": "TM38",
-            "variations": [
-                "Muk"
-            ]
-        },
-        {
-            "move": "Rock Tomb",
-            "tm": "TM39",
-            "variations": [
-                "Muk"
-            ]
-        },
-        {
-            "move": "Torment",
-            "tm": "TM41",
-            "variations": [
-                "Muk"
-            ]
-        },
-        {
-            "move": "Facade",
-            "tm": "TM42",
-            "variations": [
-                "Muk"
-            ]
-        },
-        {
-            "move": "Rest",
-            "tm": "TM44",
-            "variations": [
-                "Muk"
-            ]
-        },
-        {
-            "move": "Attract",
-            "tm": "TM45",
-            "variations": [
-                "Muk"
-            ]
-        },
-        {
-            "move": "Thief",
-            "tm": "TM46",
-            "variations": [
-                "Muk"
-            ]
-        },
-        {
-            "move": "Round",
-            "tm": "TM48",
-            "variations": [
-                "Muk"
-            ]
-        },
-        {
-            "move": "Focus Blast",
-            "tm": "TM52",
-            "variations": [
-                "Muk"
-            ]
-        },
-        {
-            "move": "Fling",
-            "tm": "TM56",
-            "variations": [
-                "Muk"
-            ]
-        },
-        {
-            "move": "Explosion",
-            "tm": "TM64",
-            "variations": [
-                "Muk"
-            ]
-        },
-        {
-            "move": "Payback",
-            "tm": "TM66",
-            "variations": [
-                "Muk"
-            ]
-        },
-        {
-            "move": "Giga Impact",
-            "tm": "TM68",
-            "variations": [
-                "Muk"
-            ]
-        },
-        {
-            "move": "Rock Slide",
-            "tm": "TM80",
-            "variations": [
-                "Muk"
-            ]
-        },
-        {
-            "move": "Infestation",
-            "tm": "TM83",
-            "variations": [
-                "Muk"
-            ]
-        },
-        {
-            "move": "Poison Jab",
-            "tm": "TM84",
-            "variations": [
-                "Muk"
-            ]
-        },
-        {
-            "move": "Swagger",
-            "tm": "TM87",
-            "variations": [
-                "Muk"
-            ]
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": "TM88",
-            "variations": [
-                "Muk"
-            ]
-        },
-        {
-            "move": "Substitute",
-            "tm": "TM90",
-            "variations": [
-                "Muk"
-            ]
-        },
-        {
-            "move": "Dark Pulse",
-            "tm": "TM97",
-            "variations": [
-                "Muk"
-            ]
-        },
-        {
-            "move": "Confide",
-            "tm": "TM100",
-            "variations": [
-                "Muk"
-            ]
-        }
-    ]
+	"name": "Muk",
+	"national_id": 89,
+	"types": ["Poison"],
+	"items": [
+		{
+			"name": "Black Sludge",
+			"chance": 50
+		}
+	],
+	"abilities": [
+		{
+			"name": "Stench"
+		},
+		{
+			"name": "Sticky Hold"
+		},
+		{
+			"name": "Poison Touch",
+			"hidden": true
+		}
+	],
+	"catch_rate": 75,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Amorphous"],
+	"hatch_time": [5355, 5609],
+	"height_us": "3'11\"",
+	"height_eu": "1.2 m",
+	"weight_us": "66.1 lbs.",
+	"weight_eu": "30.0 kg",
+	"base_exp_yield": 175,
+	"leveling_rate": "Medium Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 1,
+		"atk": 1,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 105,
+		"atk": 105,
+		"def": 75,
+		"sp_atk": 65,
+		"sp_def": 100,
+		"speed": 50
+	},
+	"evolution_from": "Grimer",
+	"evolutions": [],
+	"species": "Sludge Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "This Pokémon's favorite food is anything that is repugnantly filthy. In dirty towns where people think nothing of throwing away litter on the streets, Muk are certain to gather.",
+	"move_learnset": [
+		{
+			"move": "Harden",
+			"level": 1,
+			"variations": ["Muk"]
+		},
+		{
+			"move": "Mud-Slap",
+			"level": 1,
+			"variations": ["Muk"]
+		},
+		{
+			"move": "Poison Gas",
+			"level": 1,
+			"variations": ["Muk"]
+		},
+		{
+			"move": "Pound",
+			"level": 1,
+			"variations": ["Muk"]
+		},
+		{
+			"move": "Venom Drench",
+			"level": 1,
+			"variations": ["Muk"]
+		},
+		{
+			"move": "Harden",
+			"level": 4,
+			"variations": ["Muk"]
+		},
+		{
+			"move": "Mud-Slap",
+			"level": 7,
+			"variations": ["Muk"]
+		},
+		{
+			"move": "Disable",
+			"level": 12,
+			"variations": ["Muk"]
+		},
+		{
+			"move": "Sludge",
+			"level": 15,
+			"variations": ["Muk"]
+		},
+		{
+			"move": "Mud Bomb",
+			"level": 18,
+			"variations": ["Muk"]
+		},
+		{
+			"move": "Minimize",
+			"level": 21,
+			"variations": ["Muk"]
+		},
+		{
+			"move": "Fling",
+			"level": 26,
+			"variations": ["Muk"]
+		},
+		{
+			"move": "Sludge Bomb",
+			"level": 29,
+			"variations": ["Muk"]
+		},
+		{
+			"move": "Sludge Wave",
+			"level": 32,
+			"variations": ["Muk"]
+		},
+		{
+			"move": "Screech",
+			"level": 37,
+			"variations": ["Muk"]
+		},
+		{
+			"move": "Gunk Shot",
+			"level": 40,
+			"variations": ["Muk"]
+		},
+		{
+			"move": "Acid Armor",
+			"level": 46,
+			"variations": ["Muk"]
+		},
+		{
+			"move": "Belch",
+			"level": 52,
+			"variations": ["Muk"]
+		},
+		{
+			"move": "Memento",
+			"level": 57,
+			"variations": ["Muk"]
+		},
+		{
+			"move": "Acid Spray",
+			"egg_move": true,
+			"variations": ["Muk"]
+		},
+		{
+			"move": "Curse",
+			"egg_move": true,
+			"variations": ["Muk"]
+		},
+		{
+			"move": "Haze",
+			"egg_move": true,
+			"variations": ["Muk"]
+		},
+		{
+			"move": "Imprison",
+			"egg_move": true,
+			"variations": ["Muk"]
+		},
+		{
+			"move": "Lick",
+			"egg_move": true,
+			"variations": ["Muk"]
+		},
+		{
+			"move": "Mean Look",
+			"egg_move": true,
+			"variations": ["Muk"]
+		},
+		{
+			"move": "Power-Up Punch",
+			"egg_move": true,
+			"variations": ["Muk"]
+		},
+		{
+			"move": "Scary Face",
+			"egg_move": true,
+			"variations": ["Muk"]
+		},
+		{
+			"move": "Shadow Punch",
+			"egg_move": true,
+			"variations": ["Muk"]
+		},
+		{
+			"move": "Shadow Sneak",
+			"egg_move": true,
+			"variations": ["Muk"]
+		},
+		{
+			"move": "Spit Up",
+			"egg_move": true,
+			"variations": ["Muk"]
+		},
+		{
+			"move": "Stockpile",
+			"egg_move": true,
+			"variations": ["Muk"]
+		},
+		{
+			"move": "Swallow",
+			"egg_move": true,
+			"variations": ["Muk"]
+		},
+		{
+			"move": "Toxic",
+			"tm": "TM6",
+			"variations": ["Muk"]
+		},
+		{
+			"move": "Venoshock",
+			"tm": "TM9",
+			"variations": ["Muk"]
+		},
+		{
+			"move": "Hidden Power",
+			"tm": "TM10",
+			"variations": ["Muk"]
+		},
+		{
+			"move": "Sunny Day",
+			"tm": "TM11",
+			"variations": ["Muk"]
+		},
+		{
+			"move": "Taunt",
+			"tm": "TM12",
+			"variations": ["Muk"]
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": "TM15",
+			"variations": ["Muk"]
+		},
+		{
+			"move": "Protect",
+			"tm": "TM17",
+			"variations": ["Muk"]
+		},
+		{
+			"move": "Rain Dance",
+			"tm": "TM18",
+			"variations": ["Muk"]
+		},
+		{
+			"move": "Frustration",
+			"tm": "TM21",
+			"variations": ["Muk"]
+		},
+		{
+			"move": "Thunderbolt",
+			"tm": "TM24",
+			"variations": ["Muk"]
+		},
+		{
+			"move": "Thunder",
+			"tm": "TM25",
+			"variations": ["Muk"]
+		},
+		{
+			"move": "Return",
+			"tm": "TM27",
+			"variations": ["Muk"]
+		},
+		{
+			"move": "Shadow Ball",
+			"tm": "TM30",
+			"variations": ["Muk"]
+		},
+		{
+			"move": "Brick Break",
+			"tm": "TM31",
+			"variations": ["Muk"]
+		},
+		{
+			"move": "Double Team",
+			"tm": "TM32",
+			"variations": ["Muk"]
+		},
+		{
+			"move": "Sludge Wave",
+			"tm": "TM34",
+			"variations": ["Muk"]
+		},
+		{
+			"move": "Flamethrower",
+			"tm": "TM35",
+			"variations": ["Muk"]
+		},
+		{
+			"move": "Sludge Bomb",
+			"tm": "TM36",
+			"variations": ["Muk"]
+		},
+		{
+			"move": "Fire Blast",
+			"tm": "TM38",
+			"variations": ["Muk"]
+		},
+		{
+			"move": "Rock Tomb",
+			"tm": "TM39",
+			"variations": ["Muk"]
+		},
+		{
+			"move": "Torment",
+			"tm": "TM41",
+			"variations": ["Muk"]
+		},
+		{
+			"move": "Facade",
+			"tm": "TM42",
+			"variations": ["Muk"]
+		},
+		{
+			"move": "Rest",
+			"tm": "TM44",
+			"variations": ["Muk"]
+		},
+		{
+			"move": "Attract",
+			"tm": "TM45",
+			"variations": ["Muk"]
+		},
+		{
+			"move": "Thief",
+			"tm": "TM46",
+			"variations": ["Muk"]
+		},
+		{
+			"move": "Round",
+			"tm": "TM48",
+			"variations": ["Muk"]
+		},
+		{
+			"move": "Focus Blast",
+			"tm": "TM52",
+			"variations": ["Muk"]
+		},
+		{
+			"move": "Fling",
+			"tm": "TM56",
+			"variations": ["Muk"]
+		},
+		{
+			"move": "Explosion",
+			"tm": "TM64",
+			"variations": ["Muk"]
+		},
+		{
+			"move": "Payback",
+			"tm": "TM66",
+			"variations": ["Muk"]
+		},
+		{
+			"move": "Giga Impact",
+			"tm": "TM68",
+			"variations": ["Muk"]
+		},
+		{
+			"move": "Rock Slide",
+			"tm": "TM80",
+			"variations": ["Muk"]
+		},
+		{
+			"move": "Infestation",
+			"tm": "TM83",
+			"variations": ["Muk"]
+		},
+		{
+			"move": "Poison Jab",
+			"tm": "TM84",
+			"variations": ["Muk"]
+		},
+		{
+			"move": "Swagger",
+			"tm": "TM87",
+			"variations": ["Muk"]
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": "TM88",
+			"variations": ["Muk"]
+		},
+		{
+			"move": "Substitute",
+			"tm": "TM90",
+			"variations": ["Muk"]
+		},
+		{
+			"move": "Dark Pulse",
+			"tm": "TM97",
+			"variations": ["Muk"]
+		},
+		{
+			"move": "Confide",
+			"tm": "TM100",
+			"variations": ["Muk"]
+		}
+	]
 }

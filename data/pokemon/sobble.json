@@ -1,231 +1,223 @@
 {
-    "name": "Sobble",
-    "national_id": 816,
-    "types": [
-        "Water"
-    ],
-    "abilities": [
-        {
-            "name": "Torrent"
-        },
-        {
-            "name": "Sniper",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 45,
-    "gender_ratios": {
-        "male": 87.5,
-        "female": 12.5
-    },
-    "egg_groups": [
-        "Water1",
-        "Field"
-    ],
-    "hatch_time": [
-        5140,
-        5396
-    ],
-    "height_us": "1'00\"",
-    "height_eu": "0.3 m",
-    "weight_us": "8.8 lbs.",
-    "weight_eu": "4.0 kg",
-    "base_exp_yield": 62,
-    "leveling_rate": "Medium Slow",
-    "base_friendship": 50,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 1,
-        "speed": 1
-    },
-    "base_stats": {
-        "hp": 50,
-        "atk": 40,
-        "def": 40,
-        "sp_atk": 70,
-        "sp_def": 40,
-        "speed": 70
-    },
-    "evolution_from": null,
-    "evolutions": [],
-    "species": "Water Lizard Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "When it gets wet, its skin changes color, and this Pokémon becomes invisible as if it were camouflaged.",
-    "move_learnset": [
-        {
-            "move": "Pound",
-            "level": 1
-        },
-        {
-            "move": "Growl",
-            "level": 1
-        },
-        {
-            "move": "Water Gun",
-            "level": 6
-        },
-        {
-            "move": "Bind",
-            "level": 8
-        },
-        {
-            "move": "Water Pulse",
-            "level": 12
-        },
-        {
-            "move": "Tearful Look",
-            "level": 17
-        },
-        {
-            "move": "Sucker Punch",
-            "level": 20
-        },
-        {
-            "move": "U-turn",
-            "level": 24
-        },
-        {
-            "move": "Liquidation",
-            "level": 28
-        },
-        {
-            "move": "Soak",
-            "level": 32
-        },
-        {
-            "move": "Rain Dance",
-            "level": 36
-        },
-        {
-            "move": "Light Screen",
-            "tm": true
-        },
-        {
-            "move": "Reflect",
-            "tm": true
-        },
-        {
-            "move": "Safeguard",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Rain Dance",
-            "tm": true
-        },
-        {
-            "move": "Whirlpool",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Swift",
-            "tm": true
-        },
-        {
-            "move": "Dive",
-            "tm": true
-        },
-        {
-            "move": "Weather Ball",
-            "tm": true
-        },
-        {
-            "move": "Bounce",
-            "tm": true
-        },
-        {
-            "move": "Mud Shot",
-            "tm": true
-        },
-        {
-            "move": "U-turn",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Surf",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Baton Pass",
-            "tm": true
-        },
-        {
-            "move": "Muddy Water",
-            "tm": true
-        },
-        {
-            "move": "Work Up",
-            "tm": true
-        },
-        {
-            "move": "Liquidation",
-            "tm": true
-        },
-        {
-            "move": "Aqua Jet",
-            "egg_move": true
-        },
-        {
-            "move": "Double Team",
-            "egg_move": true
-        },
-        {
-            "move": "Aqua Ring",
-            "egg_move": true
-        },
-        {
-            "move": "Mist",
-            "egg_move": true
-        },
-        {
-            "move": "Haze",
-            "egg_move": true
-        },
-        {
-            "move": "Ice Shard",
-            "egg_move": true
-        },
-        {
-            "move": "Fell Stinger",
-            "egg_move": true
-        }
-    ]
+	"name": "Sobble",
+	"national_id": 816,
+	"types": ["Water"],
+	"abilities": [
+		{
+			"name": "Torrent"
+		},
+		{
+			"name": "Sniper",
+			"hidden": true
+		}
+	],
+	"catch_rate": 45,
+	"gender_ratios": {
+		"male": 87.5,
+		"female": 12.5
+	},
+	"egg_groups": ["Water1", "Field"],
+	"hatch_time": [5140, 5396],
+	"height_us": "1'00\"",
+	"height_eu": "0.3 m",
+	"weight_us": "8.8 lbs.",
+	"weight_eu": "4.0 kg",
+	"base_exp_yield": 62,
+	"leveling_rate": "Medium Slow",
+	"base_friendship": 50,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 1,
+		"speed": 1
+	},
+	"base_stats": {
+		"hp": 50,
+		"atk": 40,
+		"def": 40,
+		"sp_atk": 70,
+		"sp_def": 40,
+		"speed": 70
+	},
+	"evolution_from": null,
+	"evolutions": [],
+	"species": "Water Lizard Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "When it gets wet, its skin changes color, and this Pokémon becomes invisible as if it were camouflaged.",
+	"move_learnset": [
+		{
+			"move": "Pound",
+			"level": 1
+		},
+		{
+			"move": "Growl",
+			"level": 1
+		},
+		{
+			"move": "Water Gun",
+			"level": 6
+		},
+		{
+			"move": "Bind",
+			"level": 8
+		},
+		{
+			"move": "Water Pulse",
+			"level": 12
+		},
+		{
+			"move": "Tearful Look",
+			"level": 17
+		},
+		{
+			"move": "Sucker Punch",
+			"level": 20
+		},
+		{
+			"move": "U-turn",
+			"level": 24
+		},
+		{
+			"move": "Liquidation",
+			"level": 28
+		},
+		{
+			"move": "Soak",
+			"level": 32
+		},
+		{
+			"move": "Rain Dance",
+			"level": 36
+		},
+		{
+			"move": "Light Screen",
+			"tm": true
+		},
+		{
+			"move": "Reflect",
+			"tm": true
+		},
+		{
+			"move": "Safeguard",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Rain Dance",
+			"tm": true
+		},
+		{
+			"move": "Whirlpool",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Swift",
+			"tm": true
+		},
+		{
+			"move": "Dive",
+			"tm": true
+		},
+		{
+			"move": "Weather Ball",
+			"tm": true
+		},
+		{
+			"move": "Bounce",
+			"tm": true
+		},
+		{
+			"move": "Mud Shot",
+			"tm": true
+		},
+		{
+			"move": "U-turn",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Surf",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Baton Pass",
+			"tm": true
+		},
+		{
+			"move": "Muddy Water",
+			"tm": true
+		},
+		{
+			"move": "Work Up",
+			"tm": true
+		},
+		{
+			"move": "Liquidation",
+			"tm": true
+		},
+		{
+			"move": "Aqua Jet",
+			"egg_move": true
+		},
+		{
+			"move": "Double Team",
+			"egg_move": true
+		},
+		{
+			"move": "Aqua Ring",
+			"egg_move": true
+		},
+		{
+			"move": "Mist",
+			"egg_move": true
+		},
+		{
+			"move": "Haze",
+			"egg_move": true
+		},
+		{
+			"move": "Ice Shard",
+			"egg_move": true
+		},
+		{
+			"move": "Fell Stinger",
+			"egg_move": true
+		}
+	]
 }

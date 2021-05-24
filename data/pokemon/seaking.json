@@ -1,271 +1,264 @@
 {
-    "name": "Seaking",
-    "national_id": 119,
-    "types": [
-        "Water"
-    ],
-    "items": [
-        {
-            "name": "Mystic Water",
-            "chance": 5
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Swift Swim"
-        },
-        {
-            "name": "Water Veil"
-        },
-        {
-            "name": "Lightning Rod",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 60,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Water 2"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "4'03\"",
-    "height_eu": "1.3 m",
-    "weight_us": "86.0 lbs.",
-    "weight_eu": "39.0 kg",
-    "base_exp_yield": 158,
-    "leveling_rate": "Medium Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 2,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 80,
-        "atk": 92,
-        "def": 65,
-        "sp_atk": 65,
-        "sp_def": 80,
-        "speed": 68
-    },
-    "evolution_from": "Goldeen",
-    "evolutions": [],
-    "species": "Goldfish Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "Using its horn, it bores holes in riverbed boulders, making nests to prevent its eggs from washing away.",
-    "move_learnset": [
-        {
-            "move": "Peck",
-            "level": 1
-        },
-        {
-            "move": "Tail Whip",
-            "level": 1
-        },
-        {
-            "move": "Supersonic",
-            "level": 1
-        },
-        {
-            "move": "Water Pulse",
-            "level": 1
-        },
-        {
-            "move": "Horn Attack",
-            "level": 15
-        },
-        {
-            "move": "Agility",
-            "level": 20
-        },
-        {
-            "move": "Aqua Ring",
-            "level": 25
-        },
-        {
-            "move": "Flail",
-            "level": 30
-        },
-        {
-            "move": "Waterfall",
-            "level": 37
-        },
-        {
-            "move": "Soak",
-            "level": 44
-        },
-        {
-            "move": "Megahorn",
-            "level": 51
-        },
-        {
-            "move": "Horn Drill",
-            "level": 58
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": true
-        },
-        {
-            "move": "Giga Impact",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Icy Wind",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Rain Dance",
-            "tm": true
-        },
-        {
-            "move": "Hail",
-            "tm": true
-        },
-        {
-            "move": "Whirlpool",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Swift",
-            "tm": true
-        },
-        {
-            "move": "Dive",
-            "tm": true
-        },
-        {
-            "move": "Bounce",
-            "tm": true
-        },
-        {
-            "move": "Mud Shot",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Smart Strike",
-            "tm": true
-        },
-        {
-            "move": "Swords Dance",
-            "tm": true
-        },
-        {
-            "move": "Body Slam",
-            "tm": true
-        },
-        {
-            "move": "Hydro Pump",
-            "tm": true
-        },
-        {
-            "move": "Surf",
-            "tm": true
-        },
-        {
-            "move": "Ice Beam",
-            "tm": true
-        },
-        {
-            "move": "Blizzard",
-            "tm": true
-        },
-        {
-            "move": "Agility",
-            "tm": true
-        },
-        {
-            "move": "Waterfall",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Megahorn",
-            "tm": true
-        },
-        {
-            "move": "Muddy Water",
-            "tm": true
-        },
-        {
-            "move": "Poison Jab",
-            "tm": true
-        },
-        {
-            "move": "Scald",
-            "tm": true
-        },
-        {
-            "move": "Drill Run",
-            "tm": true
-        },
-        {
-            "move": "Throat Chop",
-            "tm": true
-        },
-        {
-            "move": "Psybeam",
-            "egg_move": true
-        },
-        {
-            "move": "Haze",
-            "egg_move": true
-        },
-        {
-            "move": "Aqua Tail",
-            "egg_move": true
-        },
-        {
-            "move": "Acupressure",
-            "egg_move": true
-        },
-        {
-            "move": "Mud-Slap",
-            "egg_move": true
-        }
-    ]
+	"name": "Seaking",
+	"national_id": 119,
+	"types": ["Water"],
+	"items": [
+		{
+			"name": "Mystic Water",
+			"chance": 5
+		}
+	],
+	"abilities": [
+		{
+			"name": "Swift Swim"
+		},
+		{
+			"name": "Water Veil"
+		},
+		{
+			"name": "Lightning Rod",
+			"hidden": true
+		}
+	],
+	"catch_rate": 60,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Water 2"],
+	"hatch_time": [5355, 5609],
+	"height_us": "4'03\"",
+	"height_eu": "1.3 m",
+	"weight_us": "86.0 lbs.",
+	"weight_eu": "39.0 kg",
+	"base_exp_yield": 158,
+	"leveling_rate": "Medium Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 2,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 80,
+		"atk": 92,
+		"def": 65,
+		"sp_atk": 65,
+		"sp_def": 80,
+		"speed": 68
+	},
+	"evolution_from": "Goldeen",
+	"evolutions": [],
+	"species": "Goldfish Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "Using its horn, it bores holes in riverbed boulders, making nests to prevent its eggs from washing away.",
+	"move_learnset": [
+		{
+			"move": "Peck",
+			"level": 1
+		},
+		{
+			"move": "Tail Whip",
+			"level": 1
+		},
+		{
+			"move": "Supersonic",
+			"level": 1
+		},
+		{
+			"move": "Water Pulse",
+			"level": 1
+		},
+		{
+			"move": "Horn Attack",
+			"level": 15
+		},
+		{
+			"move": "Agility",
+			"level": 20
+		},
+		{
+			"move": "Aqua Ring",
+			"level": 25
+		},
+		{
+			"move": "Flail",
+			"level": 30
+		},
+		{
+			"move": "Waterfall",
+			"level": 37
+		},
+		{
+			"move": "Soak",
+			"level": 44
+		},
+		{
+			"move": "Megahorn",
+			"level": 51
+		},
+		{
+			"move": "Horn Drill",
+			"level": 58
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": true
+		},
+		{
+			"move": "Giga Impact",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Icy Wind",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Rain Dance",
+			"tm": true
+		},
+		{
+			"move": "Hail",
+			"tm": true
+		},
+		{
+			"move": "Whirlpool",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Swift",
+			"tm": true
+		},
+		{
+			"move": "Dive",
+			"tm": true
+		},
+		{
+			"move": "Bounce",
+			"tm": true
+		},
+		{
+			"move": "Mud Shot",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Smart Strike",
+			"tm": true
+		},
+		{
+			"move": "Swords Dance",
+			"tm": true
+		},
+		{
+			"move": "Body Slam",
+			"tm": true
+		},
+		{
+			"move": "Hydro Pump",
+			"tm": true
+		},
+		{
+			"move": "Surf",
+			"tm": true
+		},
+		{
+			"move": "Ice Beam",
+			"tm": true
+		},
+		{
+			"move": "Blizzard",
+			"tm": true
+		},
+		{
+			"move": "Agility",
+			"tm": true
+		},
+		{
+			"move": "Waterfall",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Megahorn",
+			"tm": true
+		},
+		{
+			"move": "Muddy Water",
+			"tm": true
+		},
+		{
+			"move": "Poison Jab",
+			"tm": true
+		},
+		{
+			"move": "Scald",
+			"tm": true
+		},
+		{
+			"move": "Drill Run",
+			"tm": true
+		},
+		{
+			"move": "Throat Chop",
+			"tm": true
+		},
+		{
+			"move": "Psybeam",
+			"egg_move": true
+		},
+		{
+			"move": "Haze",
+			"egg_move": true
+		},
+		{
+			"move": "Aqua Tail",
+			"egg_move": true
+		},
+		{
+			"move": "Acupressure",
+			"egg_move": true
+		},
+		{
+			"move": "Mud-Slap",
+			"egg_move": true
+		}
+	]
 }

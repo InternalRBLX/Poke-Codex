@@ -1,334 +1,326 @@
 {
-    "name": "Arbok",
-    "national_id": 24,
-    "types": [
-        "Poison"
-    ],
-    "abilities": [
-        {
-            "name": "Intimidate"
-        },
-        {
-            "name": "Shed Skin"
-        },
-        {
-            "name": "Unnerve",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 90,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Field",
-        "Dragon"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "11'06\"",
-    "height_eu": "3.5 m",
-    "weight_us": "143.3 lbs.",
-    "weight_eu": "65.0 kg",
-    "base_exp_yield": 153,
-    "leveling_rate": "Medium Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 2,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 60,
-        "atk": 85,
-        "def": 69,
-        "sp_atk": 65,
-        "sp_def": 79,
-        "speed": 80
-    },
-    "evolution_from": "Ekans",
-    "evolutions": [],
-    "species": "Cobra Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "This Pokémon is terrifically strong in order to constrict things with its body. It can even flatten steel oil drums. Once Arbok wraps its body around its foe, escaping its crunching embrace is impossible.",
-    "move_learnset": [
-        {
-            "move": "Bite",
-            "level": 1
-        },
-        {
-            "move": "Crunch",
-            "level": 1
-        },
-        {
-            "move": "Fire Fang",
-            "level": 1
-        },
-        {
-            "move": "Ice Fang",
-            "level": 1
-        },
-        {
-            "move": "Leer",
-            "level": 1
-        },
-        {
-            "move": "Poison Sting",
-            "level": 1
-        },
-        {
-            "move": "Thunder Fang",
-            "level": 1
-        },
-        {
-            "move": "Wrap",
-            "level": 1
-        },
-        {
-            "move": "Poison Sting",
-            "level": 4
-        },
-        {
-            "move": "Bite",
-            "level": 9
-        },
-        {
-            "move": "Glare",
-            "level": 12
-        },
-        {
-            "move": "Screech",
-            "level": 17
-        },
-        {
-            "move": "Acid",
-            "level": 20
-        },
-        {
-            "move": "Spit Up",
-            "level": 27
-        },
-        {
-            "move": "Stockpile",
-            "level": 27
-        },
-        {
-            "move": "Swallow",
-            "level": 27
-        },
-        {
-            "move": "Acid Spray",
-            "level": 32
-        },
-        {
-            "move": "Mud Bomb",
-            "level": 39
-        },
-        {
-            "move": "Gastro Acid",
-            "level": 44
-        },
-        {
-            "move": "Belch",
-            "level": 48
-        },
-        {
-            "move": "Haze",
-            "level": 51
-        },
-        {
-            "move": "Coil",
-            "level": 56
-        },
-        {
-            "move": "Gunk Shot",
-            "level": 63
-        },
-        {
-            "move": "Beat Up",
-            "egg_move": true
-        },
-        {
-            "move": "Disable",
-            "egg_move": true
-        },
-        {
-            "move": "Iron Tail",
-            "egg_move": true
-        },
-        {
-            "move": "Poison Fang",
-            "egg_move": true
-        },
-        {
-            "move": "Poison Tail",
-            "egg_move": true
-        },
-        {
-            "move": "Pursuit",
-            "egg_move": true
-        },
-        {
-            "move": "Scary Face",
-            "egg_move": true
-        },
-        {
-            "move": "Slam",
-            "egg_move": true
-        },
-        {
-            "move": "Snatch",
-            "egg_move": true
-        },
-        {
-            "move": "Spite",
-            "egg_move": true
-        },
-        {
-            "move": "Sucker Punch",
-            "egg_move": true
-        },
-        {
-            "move": "Switcheroo",
-            "egg_move": true
-        },
-        {
-            "move": "Toxic",
-            "tm": "TM6"
-        },
-        {
-            "move": "Venoshock",
-            "tm": "TM9"
-        },
-        {
-            "move": "Hidden Power",
-            "tm": "TM10"
-        },
-        {
-            "move": "Sunny Day",
-            "tm": "TM11"
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": "TM15"
-        },
-        {
-            "move": "Protect",
-            "tm": "TM17"
-        },
-        {
-            "move": "Rain Dance",
-            "tm": "TM18"
-        },
-        {
-            "move": "Frustration",
-            "tm": "TM21"
-        },
-        {
-            "move": "Earthquake",
-            "tm": "TM26"
-        },
-        {
-            "move": "Return",
-            "tm": "TM27"
-        },
-        {
-            "move": "Double Team",
-            "tm": "TM32"
-        },
-        {
-            "move": "Sludge Wave",
-            "tm": "TM34"
-        },
-        {
-            "move": "Sludge Bomb",
-            "tm": "TM36"
-        },
-        {
-            "move": "Rock Tomb",
-            "tm": "TM39"
-        },
-        {
-            "move": "Torment",
-            "tm": "TM41"
-        },
-        {
-            "move": "Facade",
-            "tm": "TM42"
-        },
-        {
-            "move": "Rest",
-            "tm": "TM44"
-        },
-        {
-            "move": "Attract",
-            "tm": "TM45"
-        },
-        {
-            "move": "Thief",
-            "tm": "TM46"
-        },
-        {
-            "move": "Round",
-            "tm": "TM48"
-        },
-        {
-            "move": "Brutal Swing",
-            "tm": "TM59"
-        },
-        {
-            "move": "Payback",
-            "tm": "TM66"
-        },
-        {
-            "move": "Giga Impact",
-            "tm": "TM68"
-        },
-        {
-            "move": "Bulldoze",
-            "tm": "TM78"
-        },
-        {
-            "move": "Rock Slide",
-            "tm": "TM80"
-        },
-        {
-            "move": "Dragon Tail",
-            "tm": "TM82"
-        },
-        {
-            "move": "Infestation",
-            "tm": "TM83"
-        },
-        {
-            "move": "Poison Jab",
-            "tm": "TM84"
-        },
-        {
-            "move": "Swagger",
-            "tm": "TM87"
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": "TM88"
-        },
-        {
-            "move": "Substitute",
-            "tm": "TM90"
-        },
-        {
-            "move": "Dark Pulse",
-            "tm": "TM97"
-        },
-        {
-            "move": "Confide",
-            "tm": "TM100"
-        }
-    ]
+	"name": "Arbok",
+	"national_id": 24,
+	"types": ["Poison"],
+	"abilities": [
+		{
+			"name": "Intimidate"
+		},
+		{
+			"name": "Shed Skin"
+		},
+		{
+			"name": "Unnerve",
+			"hidden": true
+		}
+	],
+	"catch_rate": 90,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Field", "Dragon"],
+	"hatch_time": [5355, 5609],
+	"height_us": "11'06\"",
+	"height_eu": "3.5 m",
+	"weight_us": "143.3 lbs.",
+	"weight_eu": "65.0 kg",
+	"base_exp_yield": 153,
+	"leveling_rate": "Medium Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 2,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 60,
+		"atk": 85,
+		"def": 69,
+		"sp_atk": 65,
+		"sp_def": 79,
+		"speed": 80
+	},
+	"evolution_from": "Ekans",
+	"evolutions": [],
+	"species": "Cobra Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "This Pokémon is terrifically strong in order to constrict things with its body. It can even flatten steel oil drums. Once Arbok wraps its body around its foe, escaping its crunching embrace is impossible.",
+	"move_learnset": [
+		{
+			"move": "Bite",
+			"level": 1
+		},
+		{
+			"move": "Crunch",
+			"level": 1
+		},
+		{
+			"move": "Fire Fang",
+			"level": 1
+		},
+		{
+			"move": "Ice Fang",
+			"level": 1
+		},
+		{
+			"move": "Leer",
+			"level": 1
+		},
+		{
+			"move": "Poison Sting",
+			"level": 1
+		},
+		{
+			"move": "Thunder Fang",
+			"level": 1
+		},
+		{
+			"move": "Wrap",
+			"level": 1
+		},
+		{
+			"move": "Poison Sting",
+			"level": 4
+		},
+		{
+			"move": "Bite",
+			"level": 9
+		},
+		{
+			"move": "Glare",
+			"level": 12
+		},
+		{
+			"move": "Screech",
+			"level": 17
+		},
+		{
+			"move": "Acid",
+			"level": 20
+		},
+		{
+			"move": "Spit Up",
+			"level": 27
+		},
+		{
+			"move": "Stockpile",
+			"level": 27
+		},
+		{
+			"move": "Swallow",
+			"level": 27
+		},
+		{
+			"move": "Acid Spray",
+			"level": 32
+		},
+		{
+			"move": "Mud Bomb",
+			"level": 39
+		},
+		{
+			"move": "Gastro Acid",
+			"level": 44
+		},
+		{
+			"move": "Belch",
+			"level": 48
+		},
+		{
+			"move": "Haze",
+			"level": 51
+		},
+		{
+			"move": "Coil",
+			"level": 56
+		},
+		{
+			"move": "Gunk Shot",
+			"level": 63
+		},
+		{
+			"move": "Beat Up",
+			"egg_move": true
+		},
+		{
+			"move": "Disable",
+			"egg_move": true
+		},
+		{
+			"move": "Iron Tail",
+			"egg_move": true
+		},
+		{
+			"move": "Poison Fang",
+			"egg_move": true
+		},
+		{
+			"move": "Poison Tail",
+			"egg_move": true
+		},
+		{
+			"move": "Pursuit",
+			"egg_move": true
+		},
+		{
+			"move": "Scary Face",
+			"egg_move": true
+		},
+		{
+			"move": "Slam",
+			"egg_move": true
+		},
+		{
+			"move": "Snatch",
+			"egg_move": true
+		},
+		{
+			"move": "Spite",
+			"egg_move": true
+		},
+		{
+			"move": "Sucker Punch",
+			"egg_move": true
+		},
+		{
+			"move": "Switcheroo",
+			"egg_move": true
+		},
+		{
+			"move": "Toxic",
+			"tm": "TM6"
+		},
+		{
+			"move": "Venoshock",
+			"tm": "TM9"
+		},
+		{
+			"move": "Hidden Power",
+			"tm": "TM10"
+		},
+		{
+			"move": "Sunny Day",
+			"tm": "TM11"
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": "TM15"
+		},
+		{
+			"move": "Protect",
+			"tm": "TM17"
+		},
+		{
+			"move": "Rain Dance",
+			"tm": "TM18"
+		},
+		{
+			"move": "Frustration",
+			"tm": "TM21"
+		},
+		{
+			"move": "Earthquake",
+			"tm": "TM26"
+		},
+		{
+			"move": "Return",
+			"tm": "TM27"
+		},
+		{
+			"move": "Double Team",
+			"tm": "TM32"
+		},
+		{
+			"move": "Sludge Wave",
+			"tm": "TM34"
+		},
+		{
+			"move": "Sludge Bomb",
+			"tm": "TM36"
+		},
+		{
+			"move": "Rock Tomb",
+			"tm": "TM39"
+		},
+		{
+			"move": "Torment",
+			"tm": "TM41"
+		},
+		{
+			"move": "Facade",
+			"tm": "TM42"
+		},
+		{
+			"move": "Rest",
+			"tm": "TM44"
+		},
+		{
+			"move": "Attract",
+			"tm": "TM45"
+		},
+		{
+			"move": "Thief",
+			"tm": "TM46"
+		},
+		{
+			"move": "Round",
+			"tm": "TM48"
+		},
+		{
+			"move": "Brutal Swing",
+			"tm": "TM59"
+		},
+		{
+			"move": "Payback",
+			"tm": "TM66"
+		},
+		{
+			"move": "Giga Impact",
+			"tm": "TM68"
+		},
+		{
+			"move": "Bulldoze",
+			"tm": "TM78"
+		},
+		{
+			"move": "Rock Slide",
+			"tm": "TM80"
+		},
+		{
+			"move": "Dragon Tail",
+			"tm": "TM82"
+		},
+		{
+			"move": "Infestation",
+			"tm": "TM83"
+		},
+		{
+			"move": "Poison Jab",
+			"tm": "TM84"
+		},
+		{
+			"move": "Swagger",
+			"tm": "TM87"
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": "TM88"
+		},
+		{
+			"move": "Substitute",
+			"tm": "TM90"
+		},
+		{
+			"move": "Dark Pulse",
+			"tm": "TM97"
+		},
+		{
+			"move": "Confide",
+			"tm": "TM100"
+		}
+	]
 }

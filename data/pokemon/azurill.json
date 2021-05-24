@@ -1,247 +1,239 @@
 {
-    "name": "Azurill",
-    "national_id": 298,
-    "types": [
-        "Normal",
-        "Fairy"
-    ],
-    "abilities": [
-        {
-            "name": "Thick Fat"
-        },
-        {
-            "name": "Huge Power"
-        },
-        {
-            "name": "Sap Sipper",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 150,
-    "gender_ratios": {
-        "male": 25,
-        "female": 75
-    },
-    "egg_groups": [
-        "Undiscovered"
-    ],
-    "hatch_time": [
-        2805,
-        3059
-    ],
-    "height_us": "0'08\"",
-    "height_eu": "0.2 m",
-    "weight_us": "4.4 lbs.",
-    "weight_eu": "2.0 kg",
-    "base_exp_yield": 38,
-    "leveling_rate": "Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 1,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 50,
-        "atk": 20,
-        "def": 40,
-        "sp_atk": 20,
-        "sp_def": 40,
-        "speed": 20
-    },
-    "evolution_from": null,
-    "evolutions": [
-        {
-            "to": "Marill",
-            "happiness": true
-        }
-    ],
-    "species": "Polka Dot Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "Azurill’s tail is large and bouncy. It is packed full of the nutrients this Pokémon needs to grow. Azurill can be seen bouncing and playing on its big, rubbery tail.",
-    "move_learnset": [
-        {
-            "move": "Splash",
-            "level": 1
-        },
-        {
-            "move": "Water Gun",
-            "level": 1
-        },
-        {
-            "move": "Tail Whip",
-            "level": 2
-        },
-        {
-            "move": "Water Sport",
-            "level": 5
-        },
-        {
-            "move": "Bubble",
-            "level": 7
-        },
-        {
-            "move": "Charm",
-            "level": 10
-        },
-        {
-            "move": "Bubble Beam",
-            "level": 13
-        },
-        {
-            "move": "Helping Hand",
-            "level": 16
-        },
-        {
-            "move": "Slam",
-            "level": 20
-        },
-        {
-            "move": "Bounce",
-            "level": 23
-        },
-        {
-            "move": "Body Slam",
-            "egg_move": true
-        },
-        {
-            "move": "Camouflage",
-            "egg_move": true
-        },
-        {
-            "move": "Copycat",
-            "egg_move": true
-        },
-        {
-            "move": "Encore",
-            "egg_move": true
-        },
-        {
-            "move": "Fake Tears",
-            "egg_move": true
-        },
-        {
-            "move": "Muddy Water",
-            "egg_move": true
-        },
-        {
-            "move": "Refresh",
-            "egg_move": true
-        },
-        {
-            "move": "Sing",
-            "egg_move": true
-        },
-        {
-            "move": "Slam",
-            "egg_move": true
-        },
-        {
-            "move": "Soak",
-            "egg_move": true
-        },
-        {
-            "move": "Tickle",
-            "egg_move": true
-        },
-        {
-            "move": "Water Sport",
-            "egg_move": true
-        },
-        {
-            "move": "Work Up",
-            "tm": "TM1"
-        },
-        {
-            "move": "Toxic",
-            "tm": "TM6"
-        },
-        {
-            "move": "Hail",
-            "tm": "TM7"
-        },
-        {
-            "move": "Hidden Power",
-            "tm": "TM10"
-        },
-        {
-            "move": "Ice Beam",
-            "tm": "TM13"
-        },
-        {
-            "move": "Blizzard",
-            "tm": "TM14"
-        },
-        {
-            "move": "Light Screen",
-            "tm": "TM16"
-        },
-        {
-            "move": "Protect",
-            "tm": "TM17"
-        },
-        {
-            "move": "Rain Dance",
-            "tm": "TM18"
-        },
-        {
-            "move": "Frustration",
-            "tm": "TM21"
-        },
-        {
-            "move": "Return",
-            "tm": "TM27"
-        },
-        {
-            "move": "Double Team",
-            "tm": "TM32"
-        },
-        {
-            "move": "Facade",
-            "tm": "TM42"
-        },
-        {
-            "move": "Rest",
-            "tm": "TM44"
-        },
-        {
-            "move": "Attract",
-            "tm": "TM45"
-        },
-        {
-            "move": "Round",
-            "tm": "TM48"
-        },
-        {
-            "move": "Scald",
-            "tm": "TM55"
-        },
-        {
-            "move": "Swagger",
-            "tm": "TM87"
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": "TM88"
-        },
-        {
-            "move": "Substitute",
-            "tm": "TM90"
-        },
-        {
-            "move": "Surf",
-            "tm": "TM94"
-        },
-        {
-            "move": "Waterfall",
-            "tm": "TM98"
-        },
-        {
-            "move": "Confide",
-            "tm": "TM100"
-        }
-    ]
+	"name": "Azurill",
+	"national_id": 298,
+	"types": ["Normal", "Fairy"],
+	"abilities": [
+		{
+			"name": "Thick Fat"
+		},
+		{
+			"name": "Huge Power"
+		},
+		{
+			"name": "Sap Sipper",
+			"hidden": true
+		}
+	],
+	"catch_rate": 150,
+	"gender_ratios": {
+		"male": 25,
+		"female": 75
+	},
+	"egg_groups": ["Undiscovered"],
+	"hatch_time": [2805, 3059],
+	"height_us": "0'08\"",
+	"height_eu": "0.2 m",
+	"weight_us": "4.4 lbs.",
+	"weight_eu": "2.0 kg",
+	"base_exp_yield": 38,
+	"leveling_rate": "Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 1,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 50,
+		"atk": 20,
+		"def": 40,
+		"sp_atk": 20,
+		"sp_def": 40,
+		"speed": 20
+	},
+	"evolution_from": null,
+	"evolutions": [
+		{
+			"to": "Marill",
+			"happiness": true
+		}
+	],
+	"species": "Polka Dot Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "Azurill’s tail is large and bouncy. It is packed full of the nutrients this Pokémon needs to grow. Azurill can be seen bouncing and playing on its big, rubbery tail.",
+	"move_learnset": [
+		{
+			"move": "Splash",
+			"level": 1
+		},
+		{
+			"move": "Water Gun",
+			"level": 1
+		},
+		{
+			"move": "Tail Whip",
+			"level": 2
+		},
+		{
+			"move": "Water Sport",
+			"level": 5
+		},
+		{
+			"move": "Bubble",
+			"level": 7
+		},
+		{
+			"move": "Charm",
+			"level": 10
+		},
+		{
+			"move": "Bubble Beam",
+			"level": 13
+		},
+		{
+			"move": "Helping Hand",
+			"level": 16
+		},
+		{
+			"move": "Slam",
+			"level": 20
+		},
+		{
+			"move": "Bounce",
+			"level": 23
+		},
+		{
+			"move": "Body Slam",
+			"egg_move": true
+		},
+		{
+			"move": "Camouflage",
+			"egg_move": true
+		},
+		{
+			"move": "Copycat",
+			"egg_move": true
+		},
+		{
+			"move": "Encore",
+			"egg_move": true
+		},
+		{
+			"move": "Fake Tears",
+			"egg_move": true
+		},
+		{
+			"move": "Muddy Water",
+			"egg_move": true
+		},
+		{
+			"move": "Refresh",
+			"egg_move": true
+		},
+		{
+			"move": "Sing",
+			"egg_move": true
+		},
+		{
+			"move": "Slam",
+			"egg_move": true
+		},
+		{
+			"move": "Soak",
+			"egg_move": true
+		},
+		{
+			"move": "Tickle",
+			"egg_move": true
+		},
+		{
+			"move": "Water Sport",
+			"egg_move": true
+		},
+		{
+			"move": "Work Up",
+			"tm": "TM1"
+		},
+		{
+			"move": "Toxic",
+			"tm": "TM6"
+		},
+		{
+			"move": "Hail",
+			"tm": "TM7"
+		},
+		{
+			"move": "Hidden Power",
+			"tm": "TM10"
+		},
+		{
+			"move": "Ice Beam",
+			"tm": "TM13"
+		},
+		{
+			"move": "Blizzard",
+			"tm": "TM14"
+		},
+		{
+			"move": "Light Screen",
+			"tm": "TM16"
+		},
+		{
+			"move": "Protect",
+			"tm": "TM17"
+		},
+		{
+			"move": "Rain Dance",
+			"tm": "TM18"
+		},
+		{
+			"move": "Frustration",
+			"tm": "TM21"
+		},
+		{
+			"move": "Return",
+			"tm": "TM27"
+		},
+		{
+			"move": "Double Team",
+			"tm": "TM32"
+		},
+		{
+			"move": "Facade",
+			"tm": "TM42"
+		},
+		{
+			"move": "Rest",
+			"tm": "TM44"
+		},
+		{
+			"move": "Attract",
+			"tm": "TM45"
+		},
+		{
+			"move": "Round",
+			"tm": "TM48"
+		},
+		{
+			"move": "Scald",
+			"tm": "TM55"
+		},
+		{
+			"move": "Swagger",
+			"tm": "TM87"
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": "TM88"
+		},
+		{
+			"move": "Substitute",
+			"tm": "TM90"
+		},
+		{
+			"move": "Surf",
+			"tm": "TM94"
+		},
+		{
+			"move": "Waterfall",
+			"tm": "TM98"
+		},
+		{
+			"move": "Confide",
+			"tm": "TM100"
+		}
+	]
 }

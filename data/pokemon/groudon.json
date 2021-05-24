@@ -1,286 +1,279 @@
 {
-    "name": "Groudon",
-    "national_id": 383,
-    "types": [
-        "Ground"
-    ],
-    "abilities": [
-        {
-            "name": "Drought"
-        },
-        {
-            "name": "Desolate Land"
-        }
-    ],
-    "catch_rate": 3,
-    "gender_ratios": null,
-    "egg_groups": [
-        "Undiscovered"
-    ],
-    "hatch_time": [
-        30855,
-        31109
-    ],
-    "height_us": "11'06\"",
-    "height_eu": "3.5 m",
-    "weight_us": "2094.4 lbs.",
-    "weight_eu": "950.0 kg",
-    "base_exp_yield": 302,
-    "leveling_rate": "Slow",
-    "base_friendship": 0,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 3,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 100,
-        "atk": 150,
-        "def": 140,
-        "sp_atk": 100,
-        "sp_def": 90,
-        "speed": 90
-    },
-    "evolution_from": null,
-    "evolutions": [],
-    "species": "Continent Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "Through Primal Reversion and with nature’s full power, it will take back its true form. It can cause magma to erupt and expand the landmass of the world.",
-    "move_learnset": [
-        {
-            "move": "Ancient Power",
-            "level": 1
-        },
-        {
-            "move": "Mud Shot",
-            "level": 1
-        },
-        {
-            "move": "Scary Face",
-            "level": 5
-        },
-        {
-            "move": "Earth Power",
-            "level": 15
-        },
-        {
-            "move": "Lava Plume",
-            "level": 20
-        },
-        {
-            "move": "Rest",
-            "level": 30
-        },
-        {
-            "move": "Earthquake",
-            "level": 35
-        },
-        {
-            "move": "Precipice Blades",
-            "level": 45
-        },
-        {
-            "move": "Bulk Up",
-            "level": 50
-        },
-        {
-            "move": "Solar Beam",
-            "level": 60
-        },
-        {
-            "move": "Fissure",
-            "level": 65
-        },
-        {
-            "move": "Fire Blast",
-            "level": 75
-        },
-        {
-            "move": "Hammer Arm",
-            "level": 80
-        },
-        {
-            "move": "Eruption",
-            "level": 90
-        },
-        {
-            "move": "Dragon Claw",
-            "tm": "TM2"
-        },
-        {
-            "move": "Roar",
-            "tm": "TM5"
-        },
-        {
-            "move": "Toxic",
-            "tm": "TM6"
-        },
-        {
-            "move": "Bulk Up",
-            "tm": "TM8"
-        },
-        {
-            "move": "Hidden Power",
-            "tm": "TM10"
-        },
-        {
-            "move": "Sunny Day",
-            "tm": "TM11"
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": "TM15"
-        },
-        {
-            "move": "Protect",
-            "tm": "TM17"
-        },
-        {
-            "move": "Safeguard",
-            "tm": "TM20"
-        },
-        {
-            "move": "Frustration",
-            "tm": "TM21"
-        },
-        {
-            "move": "Solar Beam",
-            "tm": "TM22"
-        },
-        {
-            "move": "Smack Down",
-            "tm": "TM23"
-        },
-        {
-            "move": "Thunderbolt",
-            "tm": "TM24"
-        },
-        {
-            "move": "Thunder",
-            "tm": "TM25"
-        },
-        {
-            "move": "Earthquake",
-            "tm": "TM26"
-        },
-        {
-            "move": "Return",
-            "tm": "TM27"
-        },
-        {
-            "move": "Brick Break",
-            "tm": "TM31"
-        },
-        {
-            "move": "Double Team",
-            "tm": "TM32"
-        },
-        {
-            "move": "Flamethrower",
-            "tm": "TM35"
-        },
-        {
-            "move": "Sandstorm",
-            "tm": "TM37"
-        },
-        {
-            "move": "Fire Blast",
-            "tm": "TM38"
-        },
-        {
-            "move": "Rock Tomb",
-            "tm": "TM39"
-        },
-        {
-            "move": "Aerial Ace",
-            "tm": "TM40"
-        },
-        {
-            "move": "Facade",
-            "tm": "TM42"
-        },
-        {
-            "move": "Rest",
-            "tm": "TM44"
-        },
-        {
-            "move": "Round",
-            "tm": "TM48"
-        },
-        {
-            "move": "Overheat",
-            "tm": "TM50"
-        },
-        {
-            "move": "Focus Blast",
-            "tm": "TM52"
-        },
-        {
-            "move": "Fling",
-            "tm": "TM56"
-        },
-        {
-            "move": "Brutal Swing",
-            "tm": "TM59"
-        },
-        {
-            "move": "Shadow Claw",
-            "tm": "TM65"
-        },
-        {
-            "move": "Giga Impact",
-            "tm": "TM68"
-        },
-        {
-            "move": "Rock Polish",
-            "tm": "TM69"
-        },
-        {
-            "move": "Stone Edge",
-            "tm": "TM71"
-        },
-        {
-            "move": "Thunder Wave",
-            "tm": "TM73"
-        },
-        {
-            "move": "Swords Dance",
-            "tm": "TM75"
-        },
-        {
-            "move": "Psych Up",
-            "tm": "TM77"
-        },
-        {
-            "move": "Bulldoze",
-            "tm": "TM78"
-        },
-        {
-            "move": "Rock Slide",
-            "tm": "TM80"
-        },
-        {
-            "move": "Dragon Tail",
-            "tm": "TM82"
-        },
-        {
-            "move": "Swagger",
-            "tm": "TM87"
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": "TM88"
-        },
-        {
-            "move": "Substitute",
-            "tm": "TM90"
-        },
-        {
-            "move": "Confide",
-            "tm": "TM100"
-        }
-    ]
+	"name": "Groudon",
+	"national_id": 383,
+	"types": ["Ground"],
+	"abilities": [
+		{
+			"name": "Drought"
+		},
+		{
+			"name": "Desolate Land"
+		}
+	],
+	"catch_rate": 3,
+	"gender_ratios": null,
+	"egg_groups": ["Undiscovered"],
+	"hatch_time": [30855, 31109],
+	"height_us": "11'06\"",
+	"height_eu": "3.5 m",
+	"weight_us": "2094.4 lbs.",
+	"weight_eu": "950.0 kg",
+	"base_exp_yield": 302,
+	"leveling_rate": "Slow",
+	"base_friendship": 0,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 3,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 100,
+		"atk": 150,
+		"def": 140,
+		"sp_atk": 100,
+		"sp_def": 90,
+		"speed": 90
+	},
+	"evolution_from": null,
+	"evolutions": [],
+	"species": "Continent Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "Through Primal Reversion and with nature’s full power, it will take back its true form. It can cause magma to erupt and expand the landmass of the world.",
+	"move_learnset": [
+		{
+			"move": "Ancient Power",
+			"level": 1
+		},
+		{
+			"move": "Mud Shot",
+			"level": 1
+		},
+		{
+			"move": "Scary Face",
+			"level": 5
+		},
+		{
+			"move": "Earth Power",
+			"level": 15
+		},
+		{
+			"move": "Lava Plume",
+			"level": 20
+		},
+		{
+			"move": "Rest",
+			"level": 30
+		},
+		{
+			"move": "Earthquake",
+			"level": 35
+		},
+		{
+			"move": "Precipice Blades",
+			"level": 45
+		},
+		{
+			"move": "Bulk Up",
+			"level": 50
+		},
+		{
+			"move": "Solar Beam",
+			"level": 60
+		},
+		{
+			"move": "Fissure",
+			"level": 65
+		},
+		{
+			"move": "Fire Blast",
+			"level": 75
+		},
+		{
+			"move": "Hammer Arm",
+			"level": 80
+		},
+		{
+			"move": "Eruption",
+			"level": 90
+		},
+		{
+			"move": "Dragon Claw",
+			"tm": "TM2"
+		},
+		{
+			"move": "Roar",
+			"tm": "TM5"
+		},
+		{
+			"move": "Toxic",
+			"tm": "TM6"
+		},
+		{
+			"move": "Bulk Up",
+			"tm": "TM8"
+		},
+		{
+			"move": "Hidden Power",
+			"tm": "TM10"
+		},
+		{
+			"move": "Sunny Day",
+			"tm": "TM11"
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": "TM15"
+		},
+		{
+			"move": "Protect",
+			"tm": "TM17"
+		},
+		{
+			"move": "Safeguard",
+			"tm": "TM20"
+		},
+		{
+			"move": "Frustration",
+			"tm": "TM21"
+		},
+		{
+			"move": "Solar Beam",
+			"tm": "TM22"
+		},
+		{
+			"move": "Smack Down",
+			"tm": "TM23"
+		},
+		{
+			"move": "Thunderbolt",
+			"tm": "TM24"
+		},
+		{
+			"move": "Thunder",
+			"tm": "TM25"
+		},
+		{
+			"move": "Earthquake",
+			"tm": "TM26"
+		},
+		{
+			"move": "Return",
+			"tm": "TM27"
+		},
+		{
+			"move": "Brick Break",
+			"tm": "TM31"
+		},
+		{
+			"move": "Double Team",
+			"tm": "TM32"
+		},
+		{
+			"move": "Flamethrower",
+			"tm": "TM35"
+		},
+		{
+			"move": "Sandstorm",
+			"tm": "TM37"
+		},
+		{
+			"move": "Fire Blast",
+			"tm": "TM38"
+		},
+		{
+			"move": "Rock Tomb",
+			"tm": "TM39"
+		},
+		{
+			"move": "Aerial Ace",
+			"tm": "TM40"
+		},
+		{
+			"move": "Facade",
+			"tm": "TM42"
+		},
+		{
+			"move": "Rest",
+			"tm": "TM44"
+		},
+		{
+			"move": "Round",
+			"tm": "TM48"
+		},
+		{
+			"move": "Overheat",
+			"tm": "TM50"
+		},
+		{
+			"move": "Focus Blast",
+			"tm": "TM52"
+		},
+		{
+			"move": "Fling",
+			"tm": "TM56"
+		},
+		{
+			"move": "Brutal Swing",
+			"tm": "TM59"
+		},
+		{
+			"move": "Shadow Claw",
+			"tm": "TM65"
+		},
+		{
+			"move": "Giga Impact",
+			"tm": "TM68"
+		},
+		{
+			"move": "Rock Polish",
+			"tm": "TM69"
+		},
+		{
+			"move": "Stone Edge",
+			"tm": "TM71"
+		},
+		{
+			"move": "Thunder Wave",
+			"tm": "TM73"
+		},
+		{
+			"move": "Swords Dance",
+			"tm": "TM75"
+		},
+		{
+			"move": "Psych Up",
+			"tm": "TM77"
+		},
+		{
+			"move": "Bulldoze",
+			"tm": "TM78"
+		},
+		{
+			"move": "Rock Slide",
+			"tm": "TM80"
+		},
+		{
+			"move": "Dragon Tail",
+			"tm": "TM82"
+		},
+		{
+			"move": "Swagger",
+			"tm": "TM87"
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": "TM88"
+		},
+		{
+			"move": "Substitute",
+			"tm": "TM90"
+		},
+		{
+			"move": "Confide",
+			"tm": "TM100"
+		}
+	]
 }

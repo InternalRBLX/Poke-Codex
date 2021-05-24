@@ -1,329 +1,321 @@
 {
-    "name": "Bronzong",
-    "national_id": 437,
-    "types": [
-        "Steel",
-        "Psychic"
-    ],
-    "items": [
-        {
-            "name": "Metal Coat",
-            "chance": 5
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Levitate"
-        },
-        {
-            "name": "Heatproof"
-        },
-        {
-            "name": "Heavy Metal",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 90,
-    "gender_ratios": null,
-    "egg_groups": [
-        "Mineral"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "4'03\"",
-    "height_eu": "1.3 m",
-    "weight_us": "412.3 lbs.",
-    "weight_eu": "187.0 kg",
-    "base_exp_yield": 175,
-    "leveling_rate": "Medium Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 1,
-        "sp_atk": 0,
-        "sp_def": 1,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 67,
-        "atk": 89,
-        "def": 116,
-        "sp_atk": 79,
-        "sp_def": 116,
-        "speed": 33
-    },
-    "evolution_from": "Bronzor",
-    "evolutions": [],
-    "species": "Bronze Bell Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "Ancient people believed that petitioning Bronzong for rain was the way to make crops grow.",
-    "move_learnset": [
-        {
-            "move": "Block",
-            "evo": true
-        },
-        {
-            "move": "Block",
-            "level": 1
-        },
-        {
-            "move": "Sunny Day",
-            "level": 1
-        },
-        {
-            "move": "Weather Ball",
-            "level": 1
-        },
-        {
-            "move": "Tackle",
-            "level": 1
-        },
-        {
-            "move": "Confusion",
-            "level": 1
-        },
-        {
-            "move": "Confuse Ray",
-            "level": 1
-        },
-        {
-            "move": "Payback",
-            "level": 1
-        },
-        {
-            "move": "Imprison",
-            "level": 12
-        },
-        {
-            "move": "Gyro Ball",
-            "level": 16
-        },
-        {
-            "move": "Hypnosis",
-            "level": 20
-        },
-        {
-            "move": "Safeguard",
-            "level": 24
-        },
-        {
-            "move": "Extrasensory",
-            "level": 28
-        },
-        {
-            "move": "Heavy Slam",
-            "level": 32
-        },
-        {
-            "move": "Iron Defense",
-            "level": 38
-        },
-        {
-            "move": "Metal Sound",
-            "level": 44
-        },
-        {
-            "move": "Future Sight",
-            "level": 50
-        },
-        {
-            "move": "Rain Dance",
-            "level": 56
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": true
-        },
-        {
-            "move": "Giga Impact",
-            "tm": true
-        },
-        {
-            "move": "Solar Beam",
-            "tm": true
-        },
-        {
-            "move": "Light Screen",
-            "tm": true
-        },
-        {
-            "move": "Reflect",
-            "tm": true
-        },
-        {
-            "move": "Safeguard",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Rock Slide",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Sandstorm",
-            "tm": true
-        },
-        {
-            "move": "Rain Dance",
-            "tm": true
-        },
-        {
-            "move": "Sunny Day",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Imprison",
-            "tm": true
-        },
-        {
-            "move": "Weather Ball",
-            "tm": true
-        },
-        {
-            "move": "Rock Tomb",
-            "tm": true
-        },
-        {
-            "move": "Payback",
-            "tm": true
-        },
-        {
-            "move": "Power Swap",
-            "tm": true
-        },
-        {
-            "move": "Guard Swap",
-            "tm": true
-        },
-        {
-            "move": "Speed Swap",
-            "tm": true
-        },
-        {
-            "move": "Trick Room",
-            "tm": true
-        },
-        {
-            "move": "Wonder Room",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Hex",
-            "tm": true
-        },
-        {
-            "move": "Bulldoze",
-            "tm": true
-        },
-        {
-            "move": "Psychic Terrain",
-            "tm": true
-        },
-        {
-            "move": "Earthquake",
-            "tm": true
-        },
-        {
-            "move": "Psychic",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Psyshock",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Shadow Ball",
-            "tm": true
-        },
-        {
-            "move": "Future Sight",
-            "tm": true
-        },
-        {
-            "move": "Trick",
-            "tm": true
-        },
-        {
-            "move": "Skill Swap",
-            "tm": true
-        },
-        {
-            "move": "Iron Defense",
-            "tm": true
-        },
-        {
-            "move": "Calm Mind",
-            "tm": true
-        },
-        {
-            "move": "Gyro Ball",
-            "tm": true
-        },
-        {
-            "move": "Zen Headbutt",
-            "tm": true
-        },
-        {
-            "move": "Flash Cannon",
-            "tm": true
-        },
-        {
-            "move": "Iron Head",
-            "tm": true
-        },
-        {
-            "move": "Stealth Rock",
-            "tm": true
-        },
-        {
-            "move": "Grass Knot",
-            "tm": true
-        },
-        {
-            "move": "Heavy Slam",
-            "tm": true
-        },
-        {
-            "move": "Ally Switch",
-            "tm": true
-        },
-        {
-            "move": "Body Press",
-            "tm": true
-        }
-    ]
+	"name": "Bronzong",
+	"national_id": 437,
+	"types": ["Steel", "Psychic"],
+	"items": [
+		{
+			"name": "Metal Coat",
+			"chance": 5
+		}
+	],
+	"abilities": [
+		{
+			"name": "Levitate"
+		},
+		{
+			"name": "Heatproof"
+		},
+		{
+			"name": "Heavy Metal",
+			"hidden": true
+		}
+	],
+	"catch_rate": 90,
+	"gender_ratios": null,
+	"egg_groups": ["Mineral"],
+	"hatch_time": [5355, 5609],
+	"height_us": "4'03\"",
+	"height_eu": "1.3 m",
+	"weight_us": "412.3 lbs.",
+	"weight_eu": "187.0 kg",
+	"base_exp_yield": 175,
+	"leveling_rate": "Medium Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 1,
+		"sp_atk": 0,
+		"sp_def": 1,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 67,
+		"atk": 89,
+		"def": 116,
+		"sp_atk": 79,
+		"sp_def": 116,
+		"speed": 33
+	},
+	"evolution_from": "Bronzor",
+	"evolutions": [],
+	"species": "Bronze Bell Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "Ancient people believed that petitioning Bronzong for rain was the way to make crops grow.",
+	"move_learnset": [
+		{
+			"move": "Block",
+			"evo": true
+		},
+		{
+			"move": "Block",
+			"level": 1
+		},
+		{
+			"move": "Sunny Day",
+			"level": 1
+		},
+		{
+			"move": "Weather Ball",
+			"level": 1
+		},
+		{
+			"move": "Tackle",
+			"level": 1
+		},
+		{
+			"move": "Confusion",
+			"level": 1
+		},
+		{
+			"move": "Confuse Ray",
+			"level": 1
+		},
+		{
+			"move": "Payback",
+			"level": 1
+		},
+		{
+			"move": "Imprison",
+			"level": 12
+		},
+		{
+			"move": "Gyro Ball",
+			"level": 16
+		},
+		{
+			"move": "Hypnosis",
+			"level": 20
+		},
+		{
+			"move": "Safeguard",
+			"level": 24
+		},
+		{
+			"move": "Extrasensory",
+			"level": 28
+		},
+		{
+			"move": "Heavy Slam",
+			"level": 32
+		},
+		{
+			"move": "Iron Defense",
+			"level": 38
+		},
+		{
+			"move": "Metal Sound",
+			"level": 44
+		},
+		{
+			"move": "Future Sight",
+			"level": 50
+		},
+		{
+			"move": "Rain Dance",
+			"level": 56
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": true
+		},
+		{
+			"move": "Giga Impact",
+			"tm": true
+		},
+		{
+			"move": "Solar Beam",
+			"tm": true
+		},
+		{
+			"move": "Light Screen",
+			"tm": true
+		},
+		{
+			"move": "Reflect",
+			"tm": true
+		},
+		{
+			"move": "Safeguard",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Rock Slide",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Sandstorm",
+			"tm": true
+		},
+		{
+			"move": "Rain Dance",
+			"tm": true
+		},
+		{
+			"move": "Sunny Day",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Imprison",
+			"tm": true
+		},
+		{
+			"move": "Weather Ball",
+			"tm": true
+		},
+		{
+			"move": "Rock Tomb",
+			"tm": true
+		},
+		{
+			"move": "Payback",
+			"tm": true
+		},
+		{
+			"move": "Power Swap",
+			"tm": true
+		},
+		{
+			"move": "Guard Swap",
+			"tm": true
+		},
+		{
+			"move": "Speed Swap",
+			"tm": true
+		},
+		{
+			"move": "Trick Room",
+			"tm": true
+		},
+		{
+			"move": "Wonder Room",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Hex",
+			"tm": true
+		},
+		{
+			"move": "Bulldoze",
+			"tm": true
+		},
+		{
+			"move": "Psychic Terrain",
+			"tm": true
+		},
+		{
+			"move": "Earthquake",
+			"tm": true
+		},
+		{
+			"move": "Psychic",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Psyshock",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Shadow Ball",
+			"tm": true
+		},
+		{
+			"move": "Future Sight",
+			"tm": true
+		},
+		{
+			"move": "Trick",
+			"tm": true
+		},
+		{
+			"move": "Skill Swap",
+			"tm": true
+		},
+		{
+			"move": "Iron Defense",
+			"tm": true
+		},
+		{
+			"move": "Calm Mind",
+			"tm": true
+		},
+		{
+			"move": "Gyro Ball",
+			"tm": true
+		},
+		{
+			"move": "Zen Headbutt",
+			"tm": true
+		},
+		{
+			"move": "Flash Cannon",
+			"tm": true
+		},
+		{
+			"move": "Iron Head",
+			"tm": true
+		},
+		{
+			"move": "Stealth Rock",
+			"tm": true
+		},
+		{
+			"move": "Grass Knot",
+			"tm": true
+		},
+		{
+			"move": "Heavy Slam",
+			"tm": true
+		},
+		{
+			"move": "Ally Switch",
+			"tm": true
+		},
+		{
+			"move": "Body Press",
+			"tm": true
+		}
+	]
 }

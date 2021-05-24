@@ -1,8 +1,8 @@
 {
-    "name": "Stardust",
-    "sell_price": 1500,
-    "holdable": true,
-    "battle": false,
-    "category": "Item",
-    "subcategory": "Treasure"
+	"name": "Stardust",
+	"sell_price": 1500,
+	"holdable": true,
+	"battle": false,
+	"category": "Item",
+	"subcategory": "Treasure"
 }

@@ -1,254 +1,245 @@
 {
-    "name": "Wingull",
-    "national_id": 278,
-    "types": [
-        "Water",
-        "Flying"
-    ],
-    "items": [
-        {
-            "name": "Pretty Feather",
-            "chance": 50
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Keen Eye"
-        },
-        {
-            "name": "Hydration"
-        },
-        {
-            "name": "Rain Dish",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 190,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Water 1",
-        "Flying"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "2'00\"",
-    "height_eu": "0.6 m",
-    "weight_us": "20.9 lbs.",
-    "weight_eu": "9.5 kg",
-    "base_exp_yield": 54,
-    "leveling_rate": "Medium Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 1
-    },
-    "base_stats": {
-        "hp": 40,
-        "atk": 30,
-        "def": 30,
-        "sp_atk": 55,
-        "sp_def": 30,
-        "speed": 85
-    },
-    "evolution_from": null,
-    "evolutions": [
-        {
-            "to": "Pelipper",
-            "level": 25
-        }
-    ],
-    "species": "Seagull Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "It soars on updrafts without flapping its wings. It makes a nest on sheer cliffs at the sea’s edge.",
-    "move_learnset": [
-        {
-            "move": "Growl",
-            "level": 1
-        },
-        {
-            "move": "Water Gun",
-            "level": 1
-        },
-        {
-            "move": "Quick Attack",
-            "level": 5
-        },
-        {
-            "move": "Supersonic",
-            "level": 10
-        },
-        {
-            "move": "Wing Attack",
-            "level": 15
-        },
-        {
-            "move": "Water Pulse",
-            "level": 20
-        },
-        {
-            "move": "Agility",
-            "level": 26
-        },
-        {
-            "move": "Air Slash",
-            "level": 30
-        },
-        {
-            "move": "Mist",
-            "level": 35
-        },
-        {
-            "move": "Roost",
-            "level": 40
-        },
-        {
-            "move": "Hurricane",
-            "level": 45
-        },
-        {
-            "move": "Fly",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Thief",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Icy Wind",
-            "tm": true
-        },
-        {
-            "move": "Steel Wing",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Rain Dance",
-            "tm": true
-        },
-        {
-            "move": "Hail",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Swift",
-            "tm": true
-        },
-        {
-            "move": "Brine",
-            "tm": true
-        },
-        {
-            "move": "U-turn",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Air Slash",
-            "tm": true
-        },
-        {
-            "move": "Ice Beam",
-            "tm": true
-        },
-        {
-            "move": "Blizzard",
-            "tm": true
-        },
-        {
-            "move": "Agility",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Uproar",
-            "tm": true
-        },
-        {
-            "move": "Scald",
-            "tm": true
-        },
-        {
-            "move": "Hurricane",
-            "tm": true
-        },
-        {
-            "move": "Liquidation",
-            "tm": true
-        },
-        {
-            "move": "Twister",
-            "egg_move": true
-        },
-        {
-            "move": "Gust",
-            "egg_move": true
-        },
-        {
-            "move": "Aqua Ring",
-            "egg_move": true
-        },
-        {
-            "move": "Knock Off",
-            "egg_move": true
-        },
-        {
-            "move": "Soak",
-            "egg_move": true
-        },
-        {
-            "move": "Wide Guard",
-            "egg_move": true
-        },
-        {
-            "move": "Air Cutter",
-            "egg_move": true
-        },
-        {
-            "move": "Aerial Ace",
-            "egg_move": true
-        }
-    ]
+	"name": "Wingull",
+	"national_id": 278,
+	"types": ["Water", "Flying"],
+	"items": [
+		{
+			"name": "Pretty Feather",
+			"chance": 50
+		}
+	],
+	"abilities": [
+		{
+			"name": "Keen Eye"
+		},
+		{
+			"name": "Hydration"
+		},
+		{
+			"name": "Rain Dish",
+			"hidden": true
+		}
+	],
+	"catch_rate": 190,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Water 1", "Flying"],
+	"hatch_time": [5355, 5609],
+	"height_us": "2'00\"",
+	"height_eu": "0.6 m",
+	"weight_us": "20.9 lbs.",
+	"weight_eu": "9.5 kg",
+	"base_exp_yield": 54,
+	"leveling_rate": "Medium Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 1
+	},
+	"base_stats": {
+		"hp": 40,
+		"atk": 30,
+		"def": 30,
+		"sp_atk": 55,
+		"sp_def": 30,
+		"speed": 85
+	},
+	"evolution_from": null,
+	"evolutions": [
+		{
+			"to": "Pelipper",
+			"level": 25
+		}
+	],
+	"species": "Seagull Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "It soars on updrafts without flapping its wings. It makes a nest on sheer cliffs at the sea’s edge.",
+	"move_learnset": [
+		{
+			"move": "Growl",
+			"level": 1
+		},
+		{
+			"move": "Water Gun",
+			"level": 1
+		},
+		{
+			"move": "Quick Attack",
+			"level": 5
+		},
+		{
+			"move": "Supersonic",
+			"level": 10
+		},
+		{
+			"move": "Wing Attack",
+			"level": 15
+		},
+		{
+			"move": "Water Pulse",
+			"level": 20
+		},
+		{
+			"move": "Agility",
+			"level": 26
+		},
+		{
+			"move": "Air Slash",
+			"level": 30
+		},
+		{
+			"move": "Mist",
+			"level": 35
+		},
+		{
+			"move": "Roost",
+			"level": 40
+		},
+		{
+			"move": "Hurricane",
+			"level": 45
+		},
+		{
+			"move": "Fly",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Thief",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Icy Wind",
+			"tm": true
+		},
+		{
+			"move": "Steel Wing",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Rain Dance",
+			"tm": true
+		},
+		{
+			"move": "Hail",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Swift",
+			"tm": true
+		},
+		{
+			"move": "Brine",
+			"tm": true
+		},
+		{
+			"move": "U-turn",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Air Slash",
+			"tm": true
+		},
+		{
+			"move": "Ice Beam",
+			"tm": true
+		},
+		{
+			"move": "Blizzard",
+			"tm": true
+		},
+		{
+			"move": "Agility",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Uproar",
+			"tm": true
+		},
+		{
+			"move": "Scald",
+			"tm": true
+		},
+		{
+			"move": "Hurricane",
+			"tm": true
+		},
+		{
+			"move": "Liquidation",
+			"tm": true
+		},
+		{
+			"move": "Twister",
+			"egg_move": true
+		},
+		{
+			"move": "Gust",
+			"egg_move": true
+		},
+		{
+			"move": "Aqua Ring",
+			"egg_move": true
+		},
+		{
+			"move": "Knock Off",
+			"egg_move": true
+		},
+		{
+			"move": "Soak",
+			"egg_move": true
+		},
+		{
+			"move": "Wide Guard",
+			"egg_move": true
+		},
+		{
+			"move": "Air Cutter",
+			"egg_move": true
+		},
+		{
+			"move": "Aerial Ace",
+			"egg_move": true
+		}
+	]
 }

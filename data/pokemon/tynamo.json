@@ -1,83 +1,76 @@
 {
-    "name": "Tynamo",
-    "national_id": 602,
-    "types": [
-        "Electric"
-    ],
-    "abilities": [
-        {
-            "name": "Levitate"
-        }
-    ],
-    "catch_rate": 190,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Amorphous"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "0'08\"",
-    "height_eu": "0.2 m",
-    "weight_us": "0.7 lbs.",
-    "weight_eu": "0.3 kg",
-    "base_exp_yield": 55,
-    "leveling_rate": "Slow",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 1
-    },
-    "base_stats": {
-        "hp": 35,
-        "atk": 55,
-        "def": 40,
-        "sp_atk": 45,
-        "sp_def": 40,
-        "speed": 60
-    },
-    "evolution_from": null,
-    "evolutions": [
-        {
-            "to": "Eelektrik",
-            "level": 39
-        }
-    ],
-    "species": "EleFish Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "One alone can emit only trickle of electricity, so a group of them gathers to unleash a powerful electric shock.",
-    "move_learnset": [
-        {
-            "move": "Charge Beam",
-            "level": 1
-        },
-        {
-            "move": "Spark",
-            "level": 1
-        },
-        {
-            "move": "Tackle",
-            "level": 1
-        },
-        {
-            "move": "Thunder Wave",
-            "level": 1
-        },
-        {
-            "move": "Charge Beam",
-            "tm": "TM57"
-        },
-        {
-            "move": "Thunder Wave",
-            "tm": "TM73"
-        }
-    ]
+	"name": "Tynamo",
+	"national_id": 602,
+	"types": ["Electric"],
+	"abilities": [
+		{
+			"name": "Levitate"
+		}
+	],
+	"catch_rate": 190,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Amorphous"],
+	"hatch_time": [5355, 5609],
+	"height_us": "0'08\"",
+	"height_eu": "0.2 m",
+	"weight_us": "0.7 lbs.",
+	"weight_eu": "0.3 kg",
+	"base_exp_yield": 55,
+	"leveling_rate": "Slow",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 1
+	},
+	"base_stats": {
+		"hp": 35,
+		"atk": 55,
+		"def": 40,
+		"sp_atk": 45,
+		"sp_def": 40,
+		"speed": 60
+	},
+	"evolution_from": null,
+	"evolutions": [
+		{
+			"to": "Eelektrik",
+			"level": 39
+		}
+	],
+	"species": "EleFish Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "One alone can emit only trickle of electricity, so a group of them gathers to unleash a powerful electric shock.",
+	"move_learnset": [
+		{
+			"move": "Charge Beam",
+			"level": 1
+		},
+		{
+			"move": "Spark",
+			"level": 1
+		},
+		{
+			"move": "Tackle",
+			"level": 1
+		},
+		{
+			"move": "Thunder Wave",
+			"level": 1
+		},
+		{
+			"move": "Charge Beam",
+			"tm": "TM57"
+		},
+		{
+			"move": "Thunder Wave",
+			"tm": "TM73"
+		}
+	]
 }

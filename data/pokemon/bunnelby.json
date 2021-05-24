@@ -1,270 +1,263 @@
 {
-    "name": "Bunnelby",
-    "national_id": 659,
-    "types": [
-        "Normal"
-    ],
-    "abilities": [
-        {
-            "name": "Pickup"
-        },
-        {
-            "name": "Cheeck Pouch"
-        },
-        {
-            "name": "Huge Power",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 255,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Field"
-    ],
-    "hatch_time": [
-        4080,
-        4334
-    ],
-    "height_us": "1'04\"",
-    "height_eu": "0.4 m",
-    "weight_us": "11.0 lbs.",
-    "weight_eu": "5.0 kg",
-    "base_exp_yield": 47,
-    "leveling_rate": "Medium Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 1
-    },
-    "base_stats": {
-        "hp": 38,
-        "atk": 36,
-        "def": 38,
-        "sp_atk": 32,
-        "sp_def": 36,
-        "speed": 57
-    },
-    "evolution_from": null,
-    "evolutions": [
-        {
-            "to": "Diggersby",
-            "level": 20
-        }
-    ],
-    "species": "Digging Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "It has ears like shovels. Digging holes strengthens its ears so much that they can sever thick roots effortlessly.",
-    "move_learnset": [
-        {
-            "move": "Mud-Slap",
-            "level": 1
-        },
-        {
-            "move": "Leer",
-            "level": 1
-        },
-        {
-            "move": "Tackle",
-            "level": 3
-        },
-        {
-            "move": "Laser Focus",
-            "level": 6
-        },
-        {
-            "move": "Quick Attack",
-            "level": 9
-        },
-        {
-            "move": "Mud Shot",
-            "level": 12
-        },
-        {
-            "move": "Flail",
-            "level": 15
-        },
-        {
-            "move": "Double Kick",
-            "level": 18
-        },
-        {
-            "move": "Bulldoze",
-            "level": 21
-        },
-        {
-            "move": "Dig",
-            "level": 24
-        },
-        {
-            "move": "Bounce",
-            "level": 27
-        },
-        {
-            "move": "Take Down",
-            "level": 30
-        },
-        {
-            "move": "Swords Dance",
-            "level": 33
-        },
-        {
-            "move": "Earthquake",
-            "level": 36
-        },
-        {
-            "move": "Super Fang",
-            "level": 39
-        },
-        {
-            "move": "Dig",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Rock Slide",
-            "tm": true
-        },
-        {
-            "move": "Thief",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Sandstorm",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Brick Break",
-            "tm": true
-        },
-        {
-            "move": "Rock Tomb",
-            "tm": true
-        },
-        {
-            "move": "Bounce",
-            "tm": true
-        },
-        {
-            "move": "Mud Shot",
-            "tm": true
-        },
-        {
-            "move": "U-turn",
-            "tm": true
-        },
-        {
-            "move": "Payback",
-            "tm": true
-        },
-        {
-            "move": "Fling",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Bulldoze",
-            "tm": true
-        },
-        {
-            "move": "Swords Dance",
-            "tm": true
-        },
-        {
-            "move": "Surf",
-            "tm": true
-        },
-        {
-            "move": "Earthquake",
-            "tm": true
-        },
-        {
-            "move": "Agility",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Sludge Bomb",
-            "tm": true
-        },
-        {
-            "move": "Spikes",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Iron Tail",
-            "tm": true
-        },
-        {
-            "move": "Bulk Up",
-            "tm": true
-        },
-        {
-            "move": "Iron Head",
-            "tm": true
-        },
-        {
-            "move": "Stone Edge",
-            "tm": true
-        },
-        {
-            "move": "Grass Knot",
-            "tm": true
-        },
-        {
-            "move": "Work Up",
-            "tm": true
-        },
-        {
-            "move": "Wild Charge",
-            "tm": true
-        },
-        {
-            "move": "Defense Curl",
-            "egg_move": true
-        },
-        {
-            "move": "Rollout",
-            "egg_move": true
-        }
-    ]
+	"name": "Bunnelby",
+	"national_id": 659,
+	"types": ["Normal"],
+	"abilities": [
+		{
+			"name": "Pickup"
+		},
+		{
+			"name": "Cheeck Pouch"
+		},
+		{
+			"name": "Huge Power",
+			"hidden": true
+		}
+	],
+	"catch_rate": 255,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Field"],
+	"hatch_time": [4080, 4334],
+	"height_us": "1'04\"",
+	"height_eu": "0.4 m",
+	"weight_us": "11.0 lbs.",
+	"weight_eu": "5.0 kg",
+	"base_exp_yield": 47,
+	"leveling_rate": "Medium Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 1
+	},
+	"base_stats": {
+		"hp": 38,
+		"atk": 36,
+		"def": 38,
+		"sp_atk": 32,
+		"sp_def": 36,
+		"speed": 57
+	},
+	"evolution_from": null,
+	"evolutions": [
+		{
+			"to": "Diggersby",
+			"level": 20
+		}
+	],
+	"species": "Digging Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "It has ears like shovels. Digging holes strengthens its ears so much that they can sever thick roots effortlessly.",
+	"move_learnset": [
+		{
+			"move": "Mud-Slap",
+			"level": 1
+		},
+		{
+			"move": "Leer",
+			"level": 1
+		},
+		{
+			"move": "Tackle",
+			"level": 3
+		},
+		{
+			"move": "Laser Focus",
+			"level": 6
+		},
+		{
+			"move": "Quick Attack",
+			"level": 9
+		},
+		{
+			"move": "Mud Shot",
+			"level": 12
+		},
+		{
+			"move": "Flail",
+			"level": 15
+		},
+		{
+			"move": "Double Kick",
+			"level": 18
+		},
+		{
+			"move": "Bulldoze",
+			"level": 21
+		},
+		{
+			"move": "Dig",
+			"level": 24
+		},
+		{
+			"move": "Bounce",
+			"level": 27
+		},
+		{
+			"move": "Take Down",
+			"level": 30
+		},
+		{
+			"move": "Swords Dance",
+			"level": 33
+		},
+		{
+			"move": "Earthquake",
+			"level": 36
+		},
+		{
+			"move": "Super Fang",
+			"level": 39
+		},
+		{
+			"move": "Dig",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Rock Slide",
+			"tm": true
+		},
+		{
+			"move": "Thief",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Sandstorm",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Brick Break",
+			"tm": true
+		},
+		{
+			"move": "Rock Tomb",
+			"tm": true
+		},
+		{
+			"move": "Bounce",
+			"tm": true
+		},
+		{
+			"move": "Mud Shot",
+			"tm": true
+		},
+		{
+			"move": "U-turn",
+			"tm": true
+		},
+		{
+			"move": "Payback",
+			"tm": true
+		},
+		{
+			"move": "Fling",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Bulldoze",
+			"tm": true
+		},
+		{
+			"move": "Swords Dance",
+			"tm": true
+		},
+		{
+			"move": "Surf",
+			"tm": true
+		},
+		{
+			"move": "Earthquake",
+			"tm": true
+		},
+		{
+			"move": "Agility",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Sludge Bomb",
+			"tm": true
+		},
+		{
+			"move": "Spikes",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Iron Tail",
+			"tm": true
+		},
+		{
+			"move": "Bulk Up",
+			"tm": true
+		},
+		{
+			"move": "Iron Head",
+			"tm": true
+		},
+		{
+			"move": "Stone Edge",
+			"tm": true
+		},
+		{
+			"move": "Grass Knot",
+			"tm": true
+		},
+		{
+			"move": "Work Up",
+			"tm": true
+		},
+		{
+			"move": "Wild Charge",
+			"tm": true
+		},
+		{
+			"move": "Defense Curl",
+			"egg_move": true
+		},
+		{
+			"move": "Rollout",
+			"egg_move": true
+		}
+	]
 }

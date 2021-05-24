@@ -1,199 +1,192 @@
 {
-    "name": "Grubbin",
-    "national_id": 736,
-    "types": [
-        "Bug"
-    ],
-    "abilities": [
-        {
-            "name": "Swarm"
-        }
-    ],
-    "catch_rate": 255,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Bug"
-    ],
-    "hatch_time": [
-        3855,
-        4111
-    ],
-    "height_us": "1'04\"",
-    "height_eu": "0.4 m",
-    "weight_us": "9.7 lbs.",
-    "weight_eu": "4.4 kg",
-    "base_exp_yield": 60,
-    "leveling_rate": "Medium Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 1,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 47,
-        "atk": 62,
-        "def": 45,
-        "sp_atk": 55,
-        "sp_def": 45,
-        "speed": 46
-    },
-    "evolution_from": null,
-    "evolutions": [
-        {
-            "to": "Charjabug",
-            "level": 20
-        }
-    ],
-    "species": "Larva Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "It uses its big jaws to dig nests into the forest floor, and it loves to feed on sweet tree sap.",
-    "move_learnset": [
-        {
-            "move": "Vise Grip",
-            "level": 1
-        },
-        {
-            "move": "Mud-Slap",
-            "level": 1
-        },
-        {
-            "move": "String Shot",
-            "level": 5
-        },
-        {
-            "move": "Bug Bite",
-            "level": 10
-        },
-        {
-            "move": "Bite",
-            "level": 15
-        },
-        {
-            "move": "Spark",
-            "level": 21
-        },
-        {
-            "move": "Sticky Web",
-            "level": 25
-        },
-        {
-            "move": "X-Scissor",
-            "level": 30
-        },
-        {
-            "move": "Crunch",
-            "level": 35
-        },
-        {
-            "move": "Dig",
-            "level": 40
-        },
-        {
-            "move": "Thunder Wave",
-            "tm": true
-        },
-        {
-            "move": "Dig",
-            "tm": true
-        },
-        {
-            "move": "Screech",
-            "tm": true
-        },
-        {
-            "move": "Light Screen",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Rain Dance",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Mud Shot",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Acrobatics",
-            "tm": true
-        },
-        {
-            "move": "Volt Switch",
-            "tm": true
-        },
-        {
-            "move": "Electroweb",
-            "tm": true
-        },
-        {
-            "move": "Thunderbolt",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Crunch",
-            "tm": true
-        },
-        {
-            "move": "Poison Jab",
-            "tm": true
-        },
-        {
-            "move": "X-Scissor",
-            "tm": true
-        },
-        {
-            "move": "Wild Charge",
-            "tm": true
-        },
-        {
-            "move": "Harden",
-            "egg_move": true
-        },
-        {
-            "move": "Discharge",
-            "egg_move": true
-        }
-    ]
+	"name": "Grubbin",
+	"national_id": 736,
+	"types": ["Bug"],
+	"abilities": [
+		{
+			"name": "Swarm"
+		}
+	],
+	"catch_rate": 255,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Bug"],
+	"hatch_time": [3855, 4111],
+	"height_us": "1'04\"",
+	"height_eu": "0.4 m",
+	"weight_us": "9.7 lbs.",
+	"weight_eu": "4.4 kg",
+	"base_exp_yield": 60,
+	"leveling_rate": "Medium Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 1,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 47,
+		"atk": 62,
+		"def": 45,
+		"sp_atk": 55,
+		"sp_def": 45,
+		"speed": 46
+	},
+	"evolution_from": null,
+	"evolutions": [
+		{
+			"to": "Charjabug",
+			"level": 20
+		}
+	],
+	"species": "Larva Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "It uses its big jaws to dig nests into the forest floor, and it loves to feed on sweet tree sap.",
+	"move_learnset": [
+		{
+			"move": "Vise Grip",
+			"level": 1
+		},
+		{
+			"move": "Mud-Slap",
+			"level": 1
+		},
+		{
+			"move": "String Shot",
+			"level": 5
+		},
+		{
+			"move": "Bug Bite",
+			"level": 10
+		},
+		{
+			"move": "Bite",
+			"level": 15
+		},
+		{
+			"move": "Spark",
+			"level": 21
+		},
+		{
+			"move": "Sticky Web",
+			"level": 25
+		},
+		{
+			"move": "X-Scissor",
+			"level": 30
+		},
+		{
+			"move": "Crunch",
+			"level": 35
+		},
+		{
+			"move": "Dig",
+			"level": 40
+		},
+		{
+			"move": "Thunder Wave",
+			"tm": true
+		},
+		{
+			"move": "Dig",
+			"tm": true
+		},
+		{
+			"move": "Screech",
+			"tm": true
+		},
+		{
+			"move": "Light Screen",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Rain Dance",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Mud Shot",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Acrobatics",
+			"tm": true
+		},
+		{
+			"move": "Volt Switch",
+			"tm": true
+		},
+		{
+			"move": "Electroweb",
+			"tm": true
+		},
+		{
+			"move": "Thunderbolt",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Crunch",
+			"tm": true
+		},
+		{
+			"move": "Poison Jab",
+			"tm": true
+		},
+		{
+			"move": "X-Scissor",
+			"tm": true
+		},
+		{
+			"move": "Wild Charge",
+			"tm": true
+		},
+		{
+			"move": "Harden",
+			"egg_move": true
+		},
+		{
+			"move": "Discharge",
+			"egg_move": true
+		}
+	]
 }

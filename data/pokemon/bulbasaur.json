@@ -1,277 +1,268 @@
 {
-    "name": "Bulbasaur",
-    "national_id": 1,
-    "types": [
-        "Grass",
-        "Poison"
-    ],
-    "abilities": [
-        {
-            "name": "Overgrow"
-        },
-        {
-            "name": "Chlorophyll",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 45,
-    "gender_ratios": {
-        "male": 87.5,
-        "female": 12.5
-    },
-    "egg_groups": [
-        "Monster",
-        "Grass"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "2'04\"",
-    "height_eu": "0.7 m",
-    "weight_us": "15.2 lbs.",
-    "weight_eu": "6.9 kg",
-    "base_exp_yield": 64,
-    "leveling_rate": "Medium Slow",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 1,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 45,
-        "atk": 49,
-        "def": 49,
-        "sp_atk": 65,
-        "sp_def": 65,
-        "speed": 45
-    },
-    "evolution_from": null,
-    "evolutions": [
-        {
-            "to": "Ivysaur",
-            "level": 16
-        }
-    ],
-    "species": "Seed Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun’s rays, the seed grows progressively larger.",
-    "move_learnset": [
-        {
-            "move": "Tackle",
-            "level": 1
-        },
-        {
-            "move": "Growl",
-            "level": 1
-        },
-        {
-            "move": "Vine Whip",
-            "level": 3
-        },
-        {
-            "move": "Growth",
-            "level": 6
-        },
-        {
-            "move": "Leech Seed",
-            "level": 9
-        },
-        {
-            "move": "Razor Leaf",
-            "level": 12
-        },
-        {
-            "move": "Poison Powder",
-            "level": 15
-        },
-        {
-            "move": "Sleep Powder",
-            "level": 15
-        },
-        {
-            "move": "Seed Bomb",
-            "level": 18
-        },
-        {
-            "move": "Take Down",
-            "level": 21
-        },
-        {
-            "move": "Sweet Scent",
-            "level": 24
-        },
-        {
-            "move": "Synthesis",
-            "level": 27
-        },
-        {
-            "move": "Worry Seed",
-            "level": 30
-        },
-        {
-            "move": "Double-Edge",
-            "level": 33
-        },
-        {
-            "move": "Solar Beam",
-            "level": 36
-        },
-        {
-            "move": "Magical Leaf",
-            "tm": true
-        },
-        {
-            "move": "Solar Beam",
-            "tm": true
-        },
-        {
-            "move": "Light Screen",
-            "tm": true
-        },
-        {
-            "move": "Safeguard",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Giga Drain",
-            "tm": true
-        },
-        {
-            "move": "Charm",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Sunny Day",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Helping Hand",
-            "tm": true
-        },
-        {
-            "move": "Weather Ball",
-            "tm": true
-        },
-        {
-            "move": "Bullet Seed",
-            "tm": true
-        },
-        {
-            "move": "Venoshock",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Grassy Terrain",
-            "tm": true
-        },
-        {
-            "move": "False Swipe",
-            "tm": true
-        },
-        {
-            "move": "Swords Dance",
-            "tm": true
-        },
-        {
-            "move": "Body Slam",
-            "tm": true
-        },
-        {
-            "move": "Amnesia",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Sludge Bomb",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Seed Bomb",
-            "tm": true
-        },
-        {
-            "move": "Energy Ball",
-            "tm": true
-        },
-        {
-            "move": "Leaf Storm",
-            "tm": true
-        },
-        {
-            "move": "Power Whip",
-            "tm": true
-        },
-        {
-            "move": "Grass Knot",
-            "tm": true
-        },
-        {
-            "move": "Work Up",
-            "tm": true
-        },
-        {
-            "move": "Skull Bash",
-            "egg_move": true
-        },
-        {
-            "move": "Petal Dance",
-            "egg_move": true
-        },
-        {
-            "move": "Curse",
-            "egg_move": true
-        },
-        {
-            "move": "Ingrain",
-            "egg_move": true
-        },
-        {
-            "move": "Nature Power",
-            "egg_move": true
-        },
-        {
-            "move": "Toxic",
-            "egg_move": true
-        }
-    ]
+	"name": "Bulbasaur",
+	"national_id": 1,
+	"types": ["Grass", "Poison"],
+	"abilities": [
+		{
+			"name": "Overgrow"
+		},
+		{
+			"name": "Chlorophyll",
+			"hidden": true
+		}
+	],
+	"catch_rate": 45,
+	"gender_ratios": {
+		"male": 87.5,
+		"female": 12.5
+	},
+	"egg_groups": ["Monster", "Grass"],
+	"hatch_time": [5355, 5609],
+	"height_us": "2'04\"",
+	"height_eu": "0.7 m",
+	"weight_us": "15.2 lbs.",
+	"weight_eu": "6.9 kg",
+	"base_exp_yield": 64,
+	"leveling_rate": "Medium Slow",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 1,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 45,
+		"atk": 49,
+		"def": 49,
+		"sp_atk": 65,
+		"sp_def": 65,
+		"speed": 45
+	},
+	"evolution_from": null,
+	"evolutions": [
+		{
+			"to": "Ivysaur",
+			"level": 16
+		}
+	],
+	"species": "Seed Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun’s rays, the seed grows progressively larger.",
+	"move_learnset": [
+		{
+			"move": "Tackle",
+			"level": 1
+		},
+		{
+			"move": "Growl",
+			"level": 1
+		},
+		{
+			"move": "Vine Whip",
+			"level": 3
+		},
+		{
+			"move": "Growth",
+			"level": 6
+		},
+		{
+			"move": "Leech Seed",
+			"level": 9
+		},
+		{
+			"move": "Razor Leaf",
+			"level": 12
+		},
+		{
+			"move": "Poison Powder",
+			"level": 15
+		},
+		{
+			"move": "Sleep Powder",
+			"level": 15
+		},
+		{
+			"move": "Seed Bomb",
+			"level": 18
+		},
+		{
+			"move": "Take Down",
+			"level": 21
+		},
+		{
+			"move": "Sweet Scent",
+			"level": 24
+		},
+		{
+			"move": "Synthesis",
+			"level": 27
+		},
+		{
+			"move": "Worry Seed",
+			"level": 30
+		},
+		{
+			"move": "Double-Edge",
+			"level": 33
+		},
+		{
+			"move": "Solar Beam",
+			"level": 36
+		},
+		{
+			"move": "Magical Leaf",
+			"tm": true
+		},
+		{
+			"move": "Solar Beam",
+			"tm": true
+		},
+		{
+			"move": "Light Screen",
+			"tm": true
+		},
+		{
+			"move": "Safeguard",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Giga Drain",
+			"tm": true
+		},
+		{
+			"move": "Charm",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Sunny Day",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Helping Hand",
+			"tm": true
+		},
+		{
+			"move": "Weather Ball",
+			"tm": true
+		},
+		{
+			"move": "Bullet Seed",
+			"tm": true
+		},
+		{
+			"move": "Venoshock",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Grassy Terrain",
+			"tm": true
+		},
+		{
+			"move": "False Swipe",
+			"tm": true
+		},
+		{
+			"move": "Swords Dance",
+			"tm": true
+		},
+		{
+			"move": "Body Slam",
+			"tm": true
+		},
+		{
+			"move": "Amnesia",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Sludge Bomb",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Seed Bomb",
+			"tm": true
+		},
+		{
+			"move": "Energy Ball",
+			"tm": true
+		},
+		{
+			"move": "Leaf Storm",
+			"tm": true
+		},
+		{
+			"move": "Power Whip",
+			"tm": true
+		},
+		{
+			"move": "Grass Knot",
+			"tm": true
+		},
+		{
+			"move": "Work Up",
+			"tm": true
+		},
+		{
+			"move": "Skull Bash",
+			"egg_move": true
+		},
+		{
+			"move": "Petal Dance",
+			"egg_move": true
+		},
+		{
+			"move": "Curse",
+			"egg_move": true
+		},
+		{
+			"move": "Ingrain",
+			"egg_move": true
+		},
+		{
+			"move": "Nature Power",
+			"egg_move": true
+		},
+		{
+			"move": "Toxic",
+			"egg_move": true
+		}
+	]
 }

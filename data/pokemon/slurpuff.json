@@ -1,266 +1,259 @@
 {
-    "name": "Slurpuff",
-    "national_id": 685,
-    "types": [
-        "Fairy"
-    ],
-    "abilities": [
-        {
-            "name": "Sweet Veil"
-        },
-        {
-            "name": "Unburden",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 140,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Fairy"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "2'07\"",
-    "height_eu": "0.8 m",
-    "weight_us": "11.0 lbs.",
-    "weight_eu": "5.0 kg",
-    "base_exp_yield": 168,
-    "leveling_rate": "Medium Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 2,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 82,
-        "atk": 80,
-        "def": 86,
-        "sp_atk": 85,
-        "sp_def": 75,
-        "speed": 72
-    },
-    "evolution_from": "Swirlix",
-    "evolutions": [],
-    "species": "Meringue Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "Slurpuff’s fur contains a lot of air, making it soft to the touch and lighter than it looks.",
-    "move_learnset": [
-        {
-            "move": "Tackle",
-            "level": 1
-        },
-        {
-            "move": "Sweet Scent",
-            "level": 1
-        },
-        {
-            "move": "Play Nice",
-            "level": 1
-        },
-        {
-            "move": "Fairy Wind",
-            "level": 1
-        },
-        {
-            "move": "Aromatherapy",
-            "level": 9
-        },
-        {
-            "move": "Draining Kiss",
-            "level": 12
-        },
-        {
-            "move": "Fake Tears",
-            "level": 15
-        },
-        {
-            "move": "Round",
-            "level": 18
-        },
-        {
-            "move": "String Shot",
-            "level": 21
-        },
-        {
-            "move": "Cotton Spore",
-            "level": 24
-        },
-        {
-            "move": "Energy Ball",
-            "level": 27
-        },
-        {
-            "move": "Wish",
-            "level": 30
-        },
-        {
-            "move": "Play Rough",
-            "level": 33
-        },
-        {
-            "move": "Cotton Guard",
-            "level": 36
-        },
-        {
-            "move": "Endeavor",
-            "level": 39
-        },
-        {
-            "move": "Sticky Web",
-            "level": 42
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": true
-        },
-        {
-            "move": "Giga Impact",
-            "tm": true
-        },
-        {
-            "move": "Light Screen",
-            "tm": true
-        },
-        {
-            "move": "Safeguard",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Thief",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Charm",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Rain Dance",
-            "tm": true
-        },
-        {
-            "move": "Sunny Day",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Helping Hand",
-            "tm": true
-        },
-        {
-            "move": "Fake Tears",
-            "tm": true
-        },
-        {
-            "move": "Drain Punch",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Draining Kiss",
-            "tm": true
-        },
-        {
-            "move": "Flamethrower",
-            "tm": true
-        },
-        {
-            "move": "Surf",
-            "tm": true
-        },
-        {
-            "move": "Thunderbolt",
-            "tm": true
-        },
-        {
-            "move": "Thunder",
-            "tm": true
-        },
-        {
-            "move": "Psychic",
-            "tm": true
-        },
-        {
-            "move": "Metronome",
-            "tm": true
-        },
-        {
-            "move": "Amnesia",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Calm Mind",
-            "tm": true
-        },
-        {
-            "move": "Energy Ball",
-            "tm": true
-        },
-        {
-            "move": "Play Rough",
-            "tm": true
-        },
-        {
-            "move": "Dazzling Gleam",
-            "tm": true
-        },
-        {
-            "move": "After You",
-            "egg_move": true
-        },
-        {
-            "move": "Yawn",
-            "egg_move": true
-        },
-        {
-            "move": "Copycat",
-            "egg_move": true
-        },
-        {
-            "move": "Sticky Web",
-            "egg_move": true
-        }
-    ]
+	"name": "Slurpuff",
+	"national_id": 685,
+	"types": ["Fairy"],
+	"abilities": [
+		{
+			"name": "Sweet Veil"
+		},
+		{
+			"name": "Unburden",
+			"hidden": true
+		}
+	],
+	"catch_rate": 140,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Fairy"],
+	"hatch_time": [5355, 5609],
+	"height_us": "2'07\"",
+	"height_eu": "0.8 m",
+	"weight_us": "11.0 lbs.",
+	"weight_eu": "5.0 kg",
+	"base_exp_yield": 168,
+	"leveling_rate": "Medium Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 2,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 82,
+		"atk": 80,
+		"def": 86,
+		"sp_atk": 85,
+		"sp_def": 75,
+		"speed": 72
+	},
+	"evolution_from": "Swirlix",
+	"evolutions": [],
+	"species": "Meringue Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "Slurpuff’s fur contains a lot of air, making it soft to the touch and lighter than it looks.",
+	"move_learnset": [
+		{
+			"move": "Tackle",
+			"level": 1
+		},
+		{
+			"move": "Sweet Scent",
+			"level": 1
+		},
+		{
+			"move": "Play Nice",
+			"level": 1
+		},
+		{
+			"move": "Fairy Wind",
+			"level": 1
+		},
+		{
+			"move": "Aromatherapy",
+			"level": 9
+		},
+		{
+			"move": "Draining Kiss",
+			"level": 12
+		},
+		{
+			"move": "Fake Tears",
+			"level": 15
+		},
+		{
+			"move": "Round",
+			"level": 18
+		},
+		{
+			"move": "String Shot",
+			"level": 21
+		},
+		{
+			"move": "Cotton Spore",
+			"level": 24
+		},
+		{
+			"move": "Energy Ball",
+			"level": 27
+		},
+		{
+			"move": "Wish",
+			"level": 30
+		},
+		{
+			"move": "Play Rough",
+			"level": 33
+		},
+		{
+			"move": "Cotton Guard",
+			"level": 36
+		},
+		{
+			"move": "Endeavor",
+			"level": 39
+		},
+		{
+			"move": "Sticky Web",
+			"level": 42
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": true
+		},
+		{
+			"move": "Giga Impact",
+			"tm": true
+		},
+		{
+			"move": "Light Screen",
+			"tm": true
+		},
+		{
+			"move": "Safeguard",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Thief",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Charm",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Rain Dance",
+			"tm": true
+		},
+		{
+			"move": "Sunny Day",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Helping Hand",
+			"tm": true
+		},
+		{
+			"move": "Fake Tears",
+			"tm": true
+		},
+		{
+			"move": "Drain Punch",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Draining Kiss",
+			"tm": true
+		},
+		{
+			"move": "Flamethrower",
+			"tm": true
+		},
+		{
+			"move": "Surf",
+			"tm": true
+		},
+		{
+			"move": "Thunderbolt",
+			"tm": true
+		},
+		{
+			"move": "Thunder",
+			"tm": true
+		},
+		{
+			"move": "Psychic",
+			"tm": true
+		},
+		{
+			"move": "Metronome",
+			"tm": true
+		},
+		{
+			"move": "Amnesia",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Calm Mind",
+			"tm": true
+		},
+		{
+			"move": "Energy Ball",
+			"tm": true
+		},
+		{
+			"move": "Play Rough",
+			"tm": true
+		},
+		{
+			"move": "Dazzling Gleam",
+			"tm": true
+		},
+		{
+			"move": "After You",
+			"egg_move": true
+		},
+		{
+			"move": "Yawn",
+			"egg_move": true
+		},
+		{
+			"move": "Copycat",
+			"egg_move": true
+		},
+		{
+			"move": "Sticky Web",
+			"egg_move": true
+		}
+	]
 }

@@ -1,371 +1,364 @@
 {
-    "name": "Audino",
-    "national_id": 531,
-    "types": [
-        "Normal"
-    ],
-    "items": [
-        {
-            "name": "Sitrus Berry",
-            "chance": 5
-        },
-        {
-            "name": "Oran Berry",
-            "chance": 50
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Healer"
-        },
-        {
-            "name": "Regenerator"
-        },
-        {
-            "name": "Klutz",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 255,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Fairy"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "3'07\"",
-    "height_eu": "1.1 m",
-    "weight_us": "68.3 lbs.",
-    "weight_eu": "31.0 kg",
-    "base_exp_yield": 390,
-    "leveling_rate": "Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 2,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 103,
-        "atk": 60,
-        "def": 86,
-        "sp_atk": 60,
-        "sp_def": 86,
-        "speed": 50
-    },
-    "evolution_from": null,
-    "evolutions": [],
-    "species": "Hearing Pokémon",
-    "mega_evolves": true,
-    "pokedex_entry": "It touches others with the feelers on its ears, using the sound of their heartbeats to tell how they are feeling.",
-    "move_learnset": [
-        {
-            "move": "Growl",
-            "level": 1
-        },
-        {
-            "move": "Helping Hand",
-            "level": 1
-        },
-        {
-            "move": "Hyper Voice",
-            "level": 1
-        },
-        {
-            "move": "Last Resort",
-            "level": 1
-        },
-        {
-            "move": "Misty Terrain",
-            "level": 1
-        },
-        {
-            "move": "Play Nice",
-            "level": 1
-        },
-        {
-            "move": "Pound",
-            "level": 1
-        },
-        {
-            "move": "Baby-Doll Eyes",
-            "level": 5
-        },
-        {
-            "move": "Refresh",
-            "level": 9
-        },
-        {
-            "move": "Disarming Voice",
-            "level": 13
-        },
-        {
-            "move": "Double Slap",
-            "level": 17
-        },
-        {
-            "move": "Attract",
-            "level": 21
-        },
-        {
-            "move": "Secret Power",
-            "level": 25
-        },
-        {
-            "move": "Entrainment",
-            "level": 29
-        },
-        {
-            "move": "Take Down",
-            "level": 33
-        },
-        {
-            "move": "Heal Pulse",
-            "level": 37
-        },
-        {
-            "move": "After You",
-            "level": 41
-        },
-        {
-            "move": "Simple Beam",
-            "level": 45
-        },
-        {
-            "move": "Double-Edge",
-            "level": 49
-        },
-        {
-            "move": "Hyper Voice",
-            "level": 53
-        },
-        {
-            "move": "Last Resort",
-            "level": 57
-        },
-        {
-            "move": "Amnesia",
-            "egg_move": true
-        },
-        {
-            "move": "Bestow",
-            "egg_move": true
-        },
-        {
-            "move": "Draining Kiss",
-            "egg_move": true
-        },
-        {
-            "move": "Encore",
-            "egg_move": true
-        },
-        {
-            "move": "Heal Bell",
-            "egg_move": true
-        },
-        {
-            "move": "Healing Wish",
-            "egg_move": true
-        },
-        {
-            "move": "Lucky Chant",
-            "egg_move": true
-        },
-        {
-            "move": "Sleep Talk",
-            "egg_move": true
-        },
-        {
-            "move": "Sweet Kiss",
-            "egg_move": true
-        },
-        {
-            "move": "Wish",
-            "egg_move": true
-        },
-        {
-            "move": "Yawn",
-            "egg_move": true
-        },
-        {
-            "move": "Work Up",
-            "tm": "TM1"
-        },
-        {
-            "move": "Psyshock",
-            "tm": "TM3"
-        },
-        {
-            "move": "Calm Mind",
-            "tm": "TM4"
-        },
-        {
-            "move": "Toxic",
-            "tm": "TM6"
-        },
-        {
-            "move": "Hidden Power",
-            "tm": "TM10"
-        },
-        {
-            "move": "Sunny Day",
-            "tm": "TM11"
-        },
-        {
-            "move": "Ice Beam",
-            "tm": "TM13"
-        },
-        {
-            "move": "Blizzard",
-            "tm": "TM14"
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": "TM15"
-        },
-        {
-            "move": "Light Screen",
-            "tm": "TM16"
-        },
-        {
-            "move": "Protect",
-            "tm": "TM17"
-        },
-        {
-            "move": "Rain Dance",
-            "tm": "TM18"
-        },
-        {
-            "move": "Safeguard",
-            "tm": "TM20"
-        },
-        {
-            "move": "Frustration",
-            "tm": "TM21"
-        },
-        {
-            "move": "Solar Beam",
-            "tm": "TM22"
-        },
-        {
-            "move": "Thunderbolt",
-            "tm": "TM24"
-        },
-        {
-            "move": "Thunder",
-            "tm": "TM25"
-        },
-        {
-            "move": "Return",
-            "tm": "TM27"
-        },
-        {
-            "move": "Psychic",
-            "tm": "TM29"
-        },
-        {
-            "move": "Shadow Ball",
-            "tm": "TM30"
-        },
-        {
-            "move": "Double Team",
-            "tm": "TM32"
-        },
-        {
-            "move": "Reflect",
-            "tm": "TM33"
-        },
-        {
-            "move": "Flamethrower",
-            "tm": "TM35"
-        },
-        {
-            "move": "Fire Blast",
-            "tm": "TM38"
-        },
-        {
-            "move": "Facade",
-            "tm": "TM42"
-        },
-        {
-            "move": "Rest",
-            "tm": "TM44"
-        },
-        {
-            "move": "Attract",
-            "tm": "TM45"
-        },
-        {
-            "move": "Round",
-            "tm": "TM48"
-        },
-        {
-            "move": "Echoed Voice",
-            "tm": "TM49"
-        },
-        {
-            "move": "Fling",
-            "tm": "TM56"
-        },
-        {
-            "move": "Charge Beam",
-            "tm": "TM57"
-        },
-        {
-            "move": "Thunder Wave",
-            "tm": "TM73"
-        },
-        {
-            "move": "Psych Up",
-            "tm": "TM77"
-        },
-        {
-            "move": "Dream Eater",
-            "tm": "TM85"
-        },
-        {
-            "move": "Grass Knot",
-            "tm": "TM86"
-        },
-        {
-            "move": "Swagger",
-            "tm": "TM87"
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": "TM88"
-        },
-        {
-            "move": "Substitute",
-            "tm": "TM90"
-        },
-        {
-            "move": "Trick Room",
-            "tm": "TM92"
-        },
-        {
-            "move": "Wild Charge",
-            "tm": "TM93"
-        },
-        {
-            "move": "Surf",
-            "tm": "TM94"
-        },
-        {
-            "move": "Dazzling Gleam",
-            "tm": "TM99"
-        },
-        {
-            "move": "Confide",
-            "tm": "TM100"
-        }
-    ]
+	"name": "Audino",
+	"national_id": 531,
+	"types": ["Normal"],
+	"items": [
+		{
+			"name": "Sitrus Berry",
+			"chance": 5
+		},
+		{
+			"name": "Oran Berry",
+			"chance": 50
+		}
+	],
+	"abilities": [
+		{
+			"name": "Healer"
+		},
+		{
+			"name": "Regenerator"
+		},
+		{
+			"name": "Klutz",
+			"hidden": true
+		}
+	],
+	"catch_rate": 255,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Fairy"],
+	"hatch_time": [5355, 5609],
+	"height_us": "3'07\"",
+	"height_eu": "1.1 m",
+	"weight_us": "68.3 lbs.",
+	"weight_eu": "31.0 kg",
+	"base_exp_yield": 390,
+	"leveling_rate": "Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 2,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 103,
+		"atk": 60,
+		"def": 86,
+		"sp_atk": 60,
+		"sp_def": 86,
+		"speed": 50
+	},
+	"evolution_from": null,
+	"evolutions": [],
+	"species": "Hearing Pokémon",
+	"mega_evolves": true,
+	"pokedex_entry": "It touches others with the feelers on its ears, using the sound of their heartbeats to tell how they are feeling.",
+	"move_learnset": [
+		{
+			"move": "Growl",
+			"level": 1
+		},
+		{
+			"move": "Helping Hand",
+			"level": 1
+		},
+		{
+			"move": "Hyper Voice",
+			"level": 1
+		},
+		{
+			"move": "Last Resort",
+			"level": 1
+		},
+		{
+			"move": "Misty Terrain",
+			"level": 1
+		},
+		{
+			"move": "Play Nice",
+			"level": 1
+		},
+		{
+			"move": "Pound",
+			"level": 1
+		},
+		{
+			"move": "Baby-Doll Eyes",
+			"level": 5
+		},
+		{
+			"move": "Refresh",
+			"level": 9
+		},
+		{
+			"move": "Disarming Voice",
+			"level": 13
+		},
+		{
+			"move": "Double Slap",
+			"level": 17
+		},
+		{
+			"move": "Attract",
+			"level": 21
+		},
+		{
+			"move": "Secret Power",
+			"level": 25
+		},
+		{
+			"move": "Entrainment",
+			"level": 29
+		},
+		{
+			"move": "Take Down",
+			"level": 33
+		},
+		{
+			"move": "Heal Pulse",
+			"level": 37
+		},
+		{
+			"move": "After You",
+			"level": 41
+		},
+		{
+			"move": "Simple Beam",
+			"level": 45
+		},
+		{
+			"move": "Double-Edge",
+			"level": 49
+		},
+		{
+			"move": "Hyper Voice",
+			"level": 53
+		},
+		{
+			"move": "Last Resort",
+			"level": 57
+		},
+		{
+			"move": "Amnesia",
+			"egg_move": true
+		},
+		{
+			"move": "Bestow",
+			"egg_move": true
+		},
+		{
+			"move": "Draining Kiss",
+			"egg_move": true
+		},
+		{
+			"move": "Encore",
+			"egg_move": true
+		},
+		{
+			"move": "Heal Bell",
+			"egg_move": true
+		},
+		{
+			"move": "Healing Wish",
+			"egg_move": true
+		},
+		{
+			"move": "Lucky Chant",
+			"egg_move": true
+		},
+		{
+			"move": "Sleep Talk",
+			"egg_move": true
+		},
+		{
+			"move": "Sweet Kiss",
+			"egg_move": true
+		},
+		{
+			"move": "Wish",
+			"egg_move": true
+		},
+		{
+			"move": "Yawn",
+			"egg_move": true
+		},
+		{
+			"move": "Work Up",
+			"tm": "TM1"
+		},
+		{
+			"move": "Psyshock",
+			"tm": "TM3"
+		},
+		{
+			"move": "Calm Mind",
+			"tm": "TM4"
+		},
+		{
+			"move": "Toxic",
+			"tm": "TM6"
+		},
+		{
+			"move": "Hidden Power",
+			"tm": "TM10"
+		},
+		{
+			"move": "Sunny Day",
+			"tm": "TM11"
+		},
+		{
+			"move": "Ice Beam",
+			"tm": "TM13"
+		},
+		{
+			"move": "Blizzard",
+			"tm": "TM14"
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": "TM15"
+		},
+		{
+			"move": "Light Screen",
+			"tm": "TM16"
+		},
+		{
+			"move": "Protect",
+			"tm": "TM17"
+		},
+		{
+			"move": "Rain Dance",
+			"tm": "TM18"
+		},
+		{
+			"move": "Safeguard",
+			"tm": "TM20"
+		},
+		{
+			"move": "Frustration",
+			"tm": "TM21"
+		},
+		{
+			"move": "Solar Beam",
+			"tm": "TM22"
+		},
+		{
+			"move": "Thunderbolt",
+			"tm": "TM24"
+		},
+		{
+			"move": "Thunder",
+			"tm": "TM25"
+		},
+		{
+			"move": "Return",
+			"tm": "TM27"
+		},
+		{
+			"move": "Psychic",
+			"tm": "TM29"
+		},
+		{
+			"move": "Shadow Ball",
+			"tm": "TM30"
+		},
+		{
+			"move": "Double Team",
+			"tm": "TM32"
+		},
+		{
+			"move": "Reflect",
+			"tm": "TM33"
+		},
+		{
+			"move": "Flamethrower",
+			"tm": "TM35"
+		},
+		{
+			"move": "Fire Blast",
+			"tm": "TM38"
+		},
+		{
+			"move": "Facade",
+			"tm": "TM42"
+		},
+		{
+			"move": "Rest",
+			"tm": "TM44"
+		},
+		{
+			"move": "Attract",
+			"tm": "TM45"
+		},
+		{
+			"move": "Round",
+			"tm": "TM48"
+		},
+		{
+			"move": "Echoed Voice",
+			"tm": "TM49"
+		},
+		{
+			"move": "Fling",
+			"tm": "TM56"
+		},
+		{
+			"move": "Charge Beam",
+			"tm": "TM57"
+		},
+		{
+			"move": "Thunder Wave",
+			"tm": "TM73"
+		},
+		{
+			"move": "Psych Up",
+			"tm": "TM77"
+		},
+		{
+			"move": "Dream Eater",
+			"tm": "TM85"
+		},
+		{
+			"move": "Grass Knot",
+			"tm": "TM86"
+		},
+		{
+			"move": "Swagger",
+			"tm": "TM87"
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": "TM88"
+		},
+		{
+			"move": "Substitute",
+			"tm": "TM90"
+		},
+		{
+			"move": "Trick Room",
+			"tm": "TM92"
+		},
+		{
+			"move": "Wild Charge",
+			"tm": "TM93"
+		},
+		{
+			"move": "Surf",
+			"tm": "TM94"
+		},
+		{
+			"move": "Dazzling Gleam",
+			"tm": "TM99"
+		},
+		{
+			"move": "Confide",
+			"tm": "TM100"
+		}
+	]
 }

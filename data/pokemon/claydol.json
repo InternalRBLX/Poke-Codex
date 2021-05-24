@@ -1,354 +1,346 @@
 {
-    "name": "Claydol",
-    "national_id": 344,
-    "types": [
-        "Ground",
-        "Psychic"
-    ],
-    "items": [
-        {
-            "name": "Light Clay",
-            "chance": 5
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Levitate"
-        }
-    ],
-    "catch_rate": 90,
-    "gender_ratios": null,
-    "egg_groups": [
-        "Mineral"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "4'11\"",
-    "height_eu": "1.5 m",
-    "weight_us": "238.0 lbs.",
-    "weight_eu": "107.9 kg",
-    "base_exp_yield": 175,
-    "leveling_rate": "Medium Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 2,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 60,
-        "atk": 70,
-        "def": 105,
-        "sp_atk": 70,
-        "sp_def": 120,
-        "speed": 75
-    },
-    "evolution_from": "Baltoy",
-    "evolutions": [],
-    "species": "Clay Doll Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "It appears to have been born from clay dolls made by ancient people. It uses telekinesis to float and move.",
-    "move_learnset": [
-        {
-            "move": "Hyper Beam",
-            "evo": true
-        },
-        {
-            "move": "Hyper Beam",
-            "level": 1
-        },
-        {
-            "move": "Teleport",
-            "level": 1
-        },
-        {
-            "move": "Harden",
-            "level": 1
-        },
-        {
-            "move": "Mud-Slap",
-            "level": 1
-        },
-        {
-            "move": "Rapid Spin",
-            "level": 1
-        },
-        {
-            "move": "Confusion",
-            "level": 1
-        },
-        {
-            "move": "Rock Tomb",
-            "level": 9
-        },
-        {
-            "move": "Power Trick",
-            "level": 12
-        },
-        {
-            "move": "Psybeam",
-            "level": 15
-        },
-        {
-            "move": "Ancient Power",
-            "level": 18
-        },
-        {
-            "move": "Imprison",
-            "level": 21
-        },
-        {
-            "move": "Cosmic Power",
-            "level": 24
-        },
-        {
-            "move": "Extrasensory",
-            "level": 27
-        },
-        {
-            "move": "Earth Power",
-            "level": 30
-        },
-        {
-            "move": "Self-Destruct",
-            "level": 33
-        },
-        {
-            "move": "Guard Split",
-            "level": 38
-        },
-        {
-            "move": "Power Split",
-            "level": 38
-        },
-        {
-            "move": "Sandstorm",
-            "level": 43
-        },
-        {
-            "move": "Explosion",
-            "level": 48
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": true
-        },
-        {
-            "move": "Giga Impact",
-            "tm": true
-        },
-        {
-            "move": "Solar Beam",
-            "tm": true
-        },
-        {
-            "move": "Dig",
-            "tm": true
-        },
-        {
-            "move": "Light Screen",
-            "tm": true
-        },
-        {
-            "move": "Reflect",
-            "tm": true
-        },
-        {
-            "move": "Safeguard",
-            "tm": true
-        },
-        {
-            "move": "Self-Destruct",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Rock Slide",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Sandstorm",
-            "tm": true
-        },
-        {
-            "move": "Rain Dance",
-            "tm": true
-        },
-        {
-            "move": "Sunny Day",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Imprison",
-            "tm": true
-        },
-        {
-            "move": "Rock Tomb",
-            "tm": true
-        },
-        {
-            "move": "Sand Tomb",
-            "tm": true
-        },
-        {
-            "move": "Power Swap",
-            "tm": true
-        },
-        {
-            "move": "Guard Swap",
-            "tm": true
-        },
-        {
-            "move": "Trick Room",
-            "tm": true
-        },
-        {
-            "move": "Wonder Room",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Hex",
-            "tm": true
-        },
-        {
-            "move": "Bulldoze",
-            "tm": true
-        },
-        {
-            "move": "Psychic Terrain",
-            "tm": true
-        },
-        {
-            "move": "Eerie Impulse",
-            "tm": true
-        },
-        {
-            "move": "Ice Beam",
-            "tm": true
-        },
-        {
-            "move": "Earthquake",
-            "tm": true
-        },
-        {
-            "move": "Psychic",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Psyshock",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Shadow Ball",
-            "tm": true
-        },
-        {
-            "move": "Future Sight",
-            "tm": true
-        },
-        {
-            "move": "Trick",
-            "tm": true
-        },
-        {
-            "move": "Skill Swap",
-            "tm": true
-        },
-        {
-            "move": "Cosmic Power",
-            "tm": true
-        },
-        {
-            "move": "Iron Defense",
-            "tm": true
-        },
-        {
-            "move": "Calm Mind",
-            "tm": true
-        },
-        {
-            "move": "Gyro Ball",
-            "tm": true
-        },
-        {
-            "move": "Earth Power",
-            "tm": true
-        },
-        {
-            "move": "Nasty Plot",
-            "tm": true
-        },
-        {
-            "move": "Zen Headbutt",
-            "tm": true
-        },
-        {
-            "move": "Stone Edge",
-            "tm": true
-        },
-        {
-            "move": "Stealth Rock",
-            "tm": true
-        },
-        {
-            "move": "Grass Knot",
-            "tm": true
-        },
-        {
-            "move": "Stored Power",
-            "tm": true
-        },
-        {
-            "move": "Ally Switch",
-            "tm": true
-        },
-        {
-            "move": "Drill Run",
-            "tm": true
-        },
-        {
-            "move": "Dazzling Gleam",
-            "tm": true
-        },
-        {
-            "move": "Body Press",
-            "tm": true
-        }
-    ]
+	"name": "Claydol",
+	"national_id": 344,
+	"types": ["Ground", "Psychic"],
+	"items": [
+		{
+			"name": "Light Clay",
+			"chance": 5
+		}
+	],
+	"abilities": [
+		{
+			"name": "Levitate"
+		}
+	],
+	"catch_rate": 90,
+	"gender_ratios": null,
+	"egg_groups": ["Mineral"],
+	"hatch_time": [5355, 5609],
+	"height_us": "4'11\"",
+	"height_eu": "1.5 m",
+	"weight_us": "238.0 lbs.",
+	"weight_eu": "107.9 kg",
+	"base_exp_yield": 175,
+	"leveling_rate": "Medium Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 2,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 60,
+		"atk": 70,
+		"def": 105,
+		"sp_atk": 70,
+		"sp_def": 120,
+		"speed": 75
+	},
+	"evolution_from": "Baltoy",
+	"evolutions": [],
+	"species": "Clay Doll Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "It appears to have been born from clay dolls made by ancient people. It uses telekinesis to float and move.",
+	"move_learnset": [
+		{
+			"move": "Hyper Beam",
+			"evo": true
+		},
+		{
+			"move": "Hyper Beam",
+			"level": 1
+		},
+		{
+			"move": "Teleport",
+			"level": 1
+		},
+		{
+			"move": "Harden",
+			"level": 1
+		},
+		{
+			"move": "Mud-Slap",
+			"level": 1
+		},
+		{
+			"move": "Rapid Spin",
+			"level": 1
+		},
+		{
+			"move": "Confusion",
+			"level": 1
+		},
+		{
+			"move": "Rock Tomb",
+			"level": 9
+		},
+		{
+			"move": "Power Trick",
+			"level": 12
+		},
+		{
+			"move": "Psybeam",
+			"level": 15
+		},
+		{
+			"move": "Ancient Power",
+			"level": 18
+		},
+		{
+			"move": "Imprison",
+			"level": 21
+		},
+		{
+			"move": "Cosmic Power",
+			"level": 24
+		},
+		{
+			"move": "Extrasensory",
+			"level": 27
+		},
+		{
+			"move": "Earth Power",
+			"level": 30
+		},
+		{
+			"move": "Self-Destruct",
+			"level": 33
+		},
+		{
+			"move": "Guard Split",
+			"level": 38
+		},
+		{
+			"move": "Power Split",
+			"level": 38
+		},
+		{
+			"move": "Sandstorm",
+			"level": 43
+		},
+		{
+			"move": "Explosion",
+			"level": 48
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": true
+		},
+		{
+			"move": "Giga Impact",
+			"tm": true
+		},
+		{
+			"move": "Solar Beam",
+			"tm": true
+		},
+		{
+			"move": "Dig",
+			"tm": true
+		},
+		{
+			"move": "Light Screen",
+			"tm": true
+		},
+		{
+			"move": "Reflect",
+			"tm": true
+		},
+		{
+			"move": "Safeguard",
+			"tm": true
+		},
+		{
+			"move": "Self-Destruct",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Rock Slide",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Sandstorm",
+			"tm": true
+		},
+		{
+			"move": "Rain Dance",
+			"tm": true
+		},
+		{
+			"move": "Sunny Day",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Imprison",
+			"tm": true
+		},
+		{
+			"move": "Rock Tomb",
+			"tm": true
+		},
+		{
+			"move": "Sand Tomb",
+			"tm": true
+		},
+		{
+			"move": "Power Swap",
+			"tm": true
+		},
+		{
+			"move": "Guard Swap",
+			"tm": true
+		},
+		{
+			"move": "Trick Room",
+			"tm": true
+		},
+		{
+			"move": "Wonder Room",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Hex",
+			"tm": true
+		},
+		{
+			"move": "Bulldoze",
+			"tm": true
+		},
+		{
+			"move": "Psychic Terrain",
+			"tm": true
+		},
+		{
+			"move": "Eerie Impulse",
+			"tm": true
+		},
+		{
+			"move": "Ice Beam",
+			"tm": true
+		},
+		{
+			"move": "Earthquake",
+			"tm": true
+		},
+		{
+			"move": "Psychic",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Psyshock",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Shadow Ball",
+			"tm": true
+		},
+		{
+			"move": "Future Sight",
+			"tm": true
+		},
+		{
+			"move": "Trick",
+			"tm": true
+		},
+		{
+			"move": "Skill Swap",
+			"tm": true
+		},
+		{
+			"move": "Cosmic Power",
+			"tm": true
+		},
+		{
+			"move": "Iron Defense",
+			"tm": true
+		},
+		{
+			"move": "Calm Mind",
+			"tm": true
+		},
+		{
+			"move": "Gyro Ball",
+			"tm": true
+		},
+		{
+			"move": "Earth Power",
+			"tm": true
+		},
+		{
+			"move": "Nasty Plot",
+			"tm": true
+		},
+		{
+			"move": "Zen Headbutt",
+			"tm": true
+		},
+		{
+			"move": "Stone Edge",
+			"tm": true
+		},
+		{
+			"move": "Stealth Rock",
+			"tm": true
+		},
+		{
+			"move": "Grass Knot",
+			"tm": true
+		},
+		{
+			"move": "Stored Power",
+			"tm": true
+		},
+		{
+			"move": "Ally Switch",
+			"tm": true
+		},
+		{
+			"move": "Drill Run",
+			"tm": true
+		},
+		{
+			"move": "Dazzling Gleam",
+			"tm": true
+		},
+		{
+			"move": "Body Press",
+			"tm": true
+		}
+	]
 }

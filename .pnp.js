@@ -40,14 +40,17 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@commitlint/cli", "npm:12.1.4"],
             ["@commitlint/config-angular", "npm:12.1.4"],
             ["@types/glob", "npm:7.1.3"],
+            ["@types/ms", "npm:0.7.31"],
             ["@types/mysql", "npm:2.15.18"],
             ["@types/node", "npm:15.6.0"],
+            ["alpha-sort", "npm:5.0.0"],
             ["consola", "npm:2.15.3"],
             ["discord.js", "npm:12.5.3"],
             ["glob", "npm:7.1.7"],
             ["husky", "npm:6.0.0"],
             ["lint-staged", "npm:11.0.0"],
             ["moment", "npm:2.29.1"],
+            ["ms", "npm:2.1.3"],
             ["mysql", "npm:2.18.1"],
             ["prettier", "npm:2.3.0"],
             ["ts-node", "virtual:cdfc25253e4997efeb1acfaf9a7eecba45f2844dd31bcdcbce07236c098fddcc036d20f9833cfd0b09fe1c74bf126b11ea1ee4b469800cf3e23319c50f017bbb#npm:9.1.1"],
@@ -355,6 +358,15 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "linkType": "HARD",
         }]
       ]],
+      ["@types/ms", [
+        ["npm:0.7.31", {
+          "packageLocation": "./.yarn/cache/@types-ms-npm-0.7.31-ea3b89342b-7ff9798a40.zip/node_modules/@types/ms/",
+          "packageDependencies": [
+            ["@types/ms", "npm:0.7.31"]
+          ],
+          "linkType": "HARD",
+        }]
+      ]],
       ["@types/mysql", [
         ["npm:2.15.18", {
           "packageLocation": "./.yarn/cache/@types-mysql-npm-2.15.18-310111ab59-e45226c4ac.zip/node_modules/@types/mysql/",
@@ -429,14 +441,17 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@commitlint/cli", "npm:12.1.4"],
             ["@commitlint/config-angular", "npm:12.1.4"],
             ["@types/glob", "npm:7.1.3"],
+            ["@types/ms", "npm:0.7.31"],
             ["@types/mysql", "npm:2.15.18"],
             ["@types/node", "npm:15.6.0"],
+            ["alpha-sort", "npm:5.0.0"],
             ["consola", "npm:2.15.3"],
             ["discord.js", "npm:12.5.3"],
             ["glob", "npm:7.1.7"],
             ["husky", "npm:6.0.0"],
             ["lint-staged", "npm:11.0.0"],
             ["moment", "npm:2.29.1"],
+            ["ms", "npm:2.1.3"],
             ["mysql", "npm:2.18.1"],
             ["prettier", "npm:2.3.0"],
             ["ts-node", "virtual:cdfc25253e4997efeb1acfaf9a7eecba45f2844dd31bcdcbce07236c098fddcc036d20f9833cfd0b09fe1c74bf126b11ea1ee4b469800cf3e23319c50f017bbb#npm:9.1.1"],
@@ -494,6 +509,15 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["aggregate-error", "npm:3.1.0"],
             ["clean-stack", "npm:2.2.0"],
             ["indent-string", "npm:4.0.0"]
+          ],
+          "linkType": "HARD",
+        }]
+      ]],
+      ["alpha-sort", [
+        ["npm:5.0.0", {
+          "packageLocation": "./.yarn/cache/alpha-sort-npm-5.0.0-d0565fa30d-6b33ba5b3d.zip/node_modules/alpha-sort/",
+          "packageDependencies": [
+            ["alpha-sort", "npm:5.0.0"]
           ],
           "linkType": "HARD",
         }]

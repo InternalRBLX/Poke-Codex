@@ -1,266 +1,258 @@
 {
-    "name": "Starly",
-    "national_id": 396,
-    "types": [
-        "Normal",
-        "Flying"
-    ],
-    "items": [
-        {
-            "name": "Yache Berry",
-            "chance": 5
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Keen Eye"
-        },
-        {
-            "name": "Reckless",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 255,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Flying"
-    ],
-    "hatch_time": [
-        4080,
-        4334
-    ],
-    "height_us": "1'00\"",
-    "height_eu": "0.3 m",
-    "weight_us": "4.4 lbs.",
-    "weight_eu": "2.0 kg",
-    "base_exp_yield": 49,
-    "leveling_rate": "Medium Slow",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 1
-    },
-    "base_stats": {
-        "hp": 40,
-        "atk": 55,
-        "def": 30,
-        "sp_atk": 30,
-        "sp_def": 30,
-        "speed": 60
-    },
-    "evolution_from": null,
-    "evolutions": [
-        {
-            "to": "Staravia",
-            "level": 14
-        }
-    ],
-    "species": "Starling Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "They flock around mountains and fields, chasing after bug Pokémon. Their singing is noisy and annoying.",
-    "move_learnset": [
-        {
-            "move": "Growl",
-            "level": 1
-        },
-        {
-            "move": "Tackle",
-            "level": 1
-        },
-        {
-            "move": "Quick Attack",
-            "level": 5
-        },
-        {
-            "move": "Wing Attack",
-            "level": 9
-        },
-        {
-            "move": "Double Team",
-            "level": 13
-        },
-        {
-            "move": "Endeavor",
-            "level": 17
-        },
-        {
-            "move": "Whirlwind",
-            "level": 21
-        },
-        {
-            "move": "Aerial Ace",
-            "level": 25
-        },
-        {
-            "move": "Take Down",
-            "level": 29
-        },
-        {
-            "move": "Agility",
-            "level": 33
-        },
-        {
-            "move": "Brave Bird",
-            "level": 37
-        },
-        {
-            "move": "Final Gambit",
-            "level": 41
-        },
-        {
-            "move": "Astonish",
-            "egg_move": true
-        },
-        {
-            "move": "Detect",
-            "egg_move": true
-        },
-        {
-            "move": "Double-Edge",
-            "egg_move": true
-        },
-        {
-            "move": "Feather Dance",
-            "egg_move": true
-        },
-        {
-            "move": "Foresight",
-            "egg_move": true
-        },
-        {
-            "move": "Fury Attack",
-            "egg_move": true
-        },
-        {
-            "move": "Mirror Move",
-            "egg_move": true
-        },
-        {
-            "move": "Pursuit",
-            "egg_move": true
-        },
-        {
-            "move": "Revenge",
-            "egg_move": true
-        },
-        {
-            "move": "Roost",
-            "egg_move": true
-        },
-        {
-            "move": "Sand Attack",
-            "egg_move": true
-        },
-        {
-            "move": "Steel Wing",
-            "egg_move": true
-        },
-        {
-            "move": "Uproar",
-            "egg_move": true
-        },
-        {
-            "move": "Work Up",
-            "tm": "TM1"
-        },
-        {
-            "move": "Toxic",
-            "tm": "TM6"
-        },
-        {
-            "move": "Hidden Power",
-            "tm": "TM10"
-        },
-        {
-            "move": "Sunny Day",
-            "tm": "TM11"
-        },
-        {
-            "move": "Protect",
-            "tm": "TM17"
-        },
-        {
-            "move": "Rain Dance",
-            "tm": "TM18"
-        },
-        {
-            "move": "Roost",
-            "tm": "TM19"
-        },
-        {
-            "move": "Frustration",
-            "tm": "TM21"
-        },
-        {
-            "move": "Return",
-            "tm": "TM27"
-        },
-        {
-            "move": "Double Team",
-            "tm": "TM32"
-        },
-        {
-            "move": "Aerial Ace",
-            "tm": "TM40"
-        },
-        {
-            "move": "Facade",
-            "tm": "TM42"
-        },
-        {
-            "move": "Rest",
-            "tm": "TM44"
-        },
-        {
-            "move": "Attract",
-            "tm": "TM45"
-        },
-        {
-            "move": "Thief",
-            "tm": "TM46"
-        },
-        {
-            "move": "Round",
-            "tm": "TM48"
-        },
-        {
-            "move": "Echoed Voice",
-            "tm": "TM49"
-        },
-        {
-            "move": "Steel Wing",
-            "tm": "TM51"
-        },
-        {
-            "move": "Fly",
-            "tm": "TM76"
-        },
-        {
-            "move": "Swagger",
-            "tm": "TM87"
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": "TM88"
-        },
-        {
-            "move": "U-turn",
-            "tm": "TM89"
-        },
-        {
-            "move": "Substitute",
-            "tm": "TM90"
-        },
-        {
-            "move": "Confide",
-            "tm": "TM100"
-        }
-    ]
+	"name": "Starly",
+	"national_id": 396,
+	"types": ["Normal", "Flying"],
+	"items": [
+		{
+			"name": "Yache Berry",
+			"chance": 5
+		}
+	],
+	"abilities": [
+		{
+			"name": "Keen Eye"
+		},
+		{
+			"name": "Reckless",
+			"hidden": true
+		}
+	],
+	"catch_rate": 255,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Flying"],
+	"hatch_time": [4080, 4334],
+	"height_us": "1'00\"",
+	"height_eu": "0.3 m",
+	"weight_us": "4.4 lbs.",
+	"weight_eu": "2.0 kg",
+	"base_exp_yield": 49,
+	"leveling_rate": "Medium Slow",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 1
+	},
+	"base_stats": {
+		"hp": 40,
+		"atk": 55,
+		"def": 30,
+		"sp_atk": 30,
+		"sp_def": 30,
+		"speed": 60
+	},
+	"evolution_from": null,
+	"evolutions": [
+		{
+			"to": "Staravia",
+			"level": 14
+		}
+	],
+	"species": "Starling Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "They flock around mountains and fields, chasing after bug Pokémon. Their singing is noisy and annoying.",
+	"move_learnset": [
+		{
+			"move": "Growl",
+			"level": 1
+		},
+		{
+			"move": "Tackle",
+			"level": 1
+		},
+		{
+			"move": "Quick Attack",
+			"level": 5
+		},
+		{
+			"move": "Wing Attack",
+			"level": 9
+		},
+		{
+			"move": "Double Team",
+			"level": 13
+		},
+		{
+			"move": "Endeavor",
+			"level": 17
+		},
+		{
+			"move": "Whirlwind",
+			"level": 21
+		},
+		{
+			"move": "Aerial Ace",
+			"level": 25
+		},
+		{
+			"move": "Take Down",
+			"level": 29
+		},
+		{
+			"move": "Agility",
+			"level": 33
+		},
+		{
+			"move": "Brave Bird",
+			"level": 37
+		},
+		{
+			"move": "Final Gambit",
+			"level": 41
+		},
+		{
+			"move": "Astonish",
+			"egg_move": true
+		},
+		{
+			"move": "Detect",
+			"egg_move": true
+		},
+		{
+			"move": "Double-Edge",
+			"egg_move": true
+		},
+		{
+			"move": "Feather Dance",
+			"egg_move": true
+		},
+		{
+			"move": "Foresight",
+			"egg_move": true
+		},
+		{
+			"move": "Fury Attack",
+			"egg_move": true
+		},
+		{
+			"move": "Mirror Move",
+			"egg_move": true
+		},
+		{
+			"move": "Pursuit",
+			"egg_move": true
+		},
+		{
+			"move": "Revenge",
+			"egg_move": true
+		},
+		{
+			"move": "Roost",
+			"egg_move": true
+		},
+		{
+			"move": "Sand Attack",
+			"egg_move": true
+		},
+		{
+			"move": "Steel Wing",
+			"egg_move": true
+		},
+		{
+			"move": "Uproar",
+			"egg_move": true
+		},
+		{
+			"move": "Work Up",
+			"tm": "TM1"
+		},
+		{
+			"move": "Toxic",
+			"tm": "TM6"
+		},
+		{
+			"move": "Hidden Power",
+			"tm": "TM10"
+		},
+		{
+			"move": "Sunny Day",
+			"tm": "TM11"
+		},
+		{
+			"move": "Protect",
+			"tm": "TM17"
+		},
+		{
+			"move": "Rain Dance",
+			"tm": "TM18"
+		},
+		{
+			"move": "Roost",
+			"tm": "TM19"
+		},
+		{
+			"move": "Frustration",
+			"tm": "TM21"
+		},
+		{
+			"move": "Return",
+			"tm": "TM27"
+		},
+		{
+			"move": "Double Team",
+			"tm": "TM32"
+		},
+		{
+			"move": "Aerial Ace",
+			"tm": "TM40"
+		},
+		{
+			"move": "Facade",
+			"tm": "TM42"
+		},
+		{
+			"move": "Rest",
+			"tm": "TM44"
+		},
+		{
+			"move": "Attract",
+			"tm": "TM45"
+		},
+		{
+			"move": "Thief",
+			"tm": "TM46"
+		},
+		{
+			"move": "Round",
+			"tm": "TM48"
+		},
+		{
+			"move": "Echoed Voice",
+			"tm": "TM49"
+		},
+		{
+			"move": "Steel Wing",
+			"tm": "TM51"
+		},
+		{
+			"move": "Fly",
+			"tm": "TM76"
+		},
+		{
+			"move": "Swagger",
+			"tm": "TM87"
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": "TM88"
+		},
+		{
+			"move": "U-turn",
+			"tm": "TM89"
+		},
+		{
+			"move": "Substitute",
+			"tm": "TM90"
+		},
+		{
+			"move": "Confide",
+			"tm": "TM100"
+		}
+	]
 }

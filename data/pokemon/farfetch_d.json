@@ -1,335 +1,326 @@
 {
-    "name": "Farfetch'd",
-    "national_id": 83,
-    "types": [
-        "Normal",
-        "Flying"
-    ],
-    "items": [
-        {
-            "name": "Leek",
-            "chance": 5
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Keen Eye"
-        },
-        {
-            "name": "Inner Focus"
-        },
-        {
-            "name": "Defiant",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 45,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Flying",
-        "Field"
-    ],
-    "hatch_time": [
-        5140,
-        5396
-    ],
-    "height_us": "2'07\"",
-    "height_eu": "0.8 m",
-    "weight_us": "33.1 lbs.",
-    "weight_eu": "15.0 kg",
-    "base_exp_yield": 132,
-    "leveling_rate": "Medium Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 1,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 52,
-        "atk": 90,
-        "def": 55,
-        "sp_atk": 58,
-        "sp_def": 62,
-        "speed": 60
-    },
-    "evolution_from": null,
-    "evolutions": [
-        {
-            "to": "Sirfetch'd",
-            "variant": "Galarian",
-            "battle_crits": 3
-        }
-    ],
-    "species": "Wild Duck Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "They use a plant stalk as a weapon, but not all of them use it in the same way. Several distinct styles of stalk fighting have been observed.",
-    "move_learnset": [
-        {
-            "move": "Peck",
-            "level": 1
-        },
-        {
-            "move": "Sand Attack",
-            "level": 1
-        },
-        {
-            "move": "Leer",
-            "level": 5
-        },
-        {
-            "move": "Fury Cutter",
-            "level": 10
-        },
-        {
-            "move": "Cut",
-            "level": 15
-        },
-        {
-            "move": "Aerial Ace",
-            "level": 20
-        },
-        {
-            "move": "Air Cutter",
-            "level": 25
-        },
-        {
-            "move": "Knock Off",
-            "level": 30
-        },
-        {
-            "move": "False Swipe",
-            "level": 35
-        },
-        {
-            "move": "Slash",
-            "level": 40
-        },
-        {
-            "move": "Swords Dance",
-            "level": 45
-        },
-        {
-            "move": "Air Slash",
-            "level": 50
-        },
-        {
-            "move": "Leaf Blade",
-            "level": 55
-        },
-        {
-            "move": "Agility",
-            "level": 60
-        },
-        {
-            "move": "Brave Bird",
-            "level": 65
-        },
-        {
-            "move": "Fly",
-            "tm": true
-        },
-        {
-            "move": "Solar Blade",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Thief",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Steel Wing",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Sunny Day",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Swift",
-            "tm": true
-        },
-        {
-            "move": "Helping Hand",
-            "tm": true
-        },
-        {
-            "move": "Revenge",
-            "tm": true
-        },
-        {
-            "move": "U-turn",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Acrobatics",
-            "tm": true
-        },
-        {
-            "move": "Retaliate",
-            "tm": true
-        },
-        {
-            "move": "False Swipe",
-            "tm": true
-        },
-        {
-            "move": "Air Slash",
-            "tm": true
-        },
-        {
-            "move": "Brutal Swing",
-            "tm": true
-        },
-        {
-            "move": "Swords Dance",
-            "tm": true
-        },
-        {
-            "move": "Body Slam",
-            "tm": true
-        },
-        {
-            "move": "Agility",
-            "tm": true
-        },
-        {
-            "move": "Focus Energy",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Baton Pass",
-            "tm": true
-        },
-        {
-            "move": "Iron Tail",
-            "tm": true
-        },
-        {
-            "move": "Uproar",
-            "tm": true
-        },
-        {
-            "move": "Heat Wave",
-            "tm": true
-        },
-        {
-            "move": "Leaf Blade",
-            "tm": true
-        },
-        {
-            "move": "Close Combat",
-            "tm": true
-        },
-        {
-            "move": "Poison Jab",
-            "tm": true
-        },
-        {
-            "move": "Brave Bird",
-            "tm": true
-        },
-        {
-            "move": "Work Up",
-            "tm": true
-        },
-        {
-            "move": "Throat Chop",
-            "tm": true
-        },
-        {
-            "move": "Gust",
-            "egg_move": true
-        },
-        {
-            "move": "Quick Attack",
-            "egg_move": true
-        },
-        {
-            "move": "Flail",
-            "egg_move": true
-        },
-        {
-            "move": "Feather Dance",
-            "egg_move": true
-        },
-        {
-            "move": "Curse",
-            "egg_move": true
-        },
-        {
-            "move": "Covet",
-            "egg_move": true
-        },
-        {
-            "move": "Night Slash",
-            "egg_move": true
-        },
-        {
-            "move": "Roost",
-            "egg_move": true
-        },
-        {
-            "move": "Simple Beam",
-            "egg_move": true
-        },
-        {
-            "move": "First Impression",
-            "egg_move": true
-        },
-        {
-            "move": "Final Gambit",
-            "egg_move": true
-        },
-        {
-            "move": "Feint",
-            "egg_move": true
-        },
-        {
-            "move": "Sky Attack",
-            "egg_move": true
-        }
-    ]
+	"name": "Farfetch'd",
+	"national_id": 83,
+	"types": ["Normal", "Flying"],
+	"items": [
+		{
+			"name": "Leek",
+			"chance": 5
+		}
+	],
+	"abilities": [
+		{
+			"name": "Keen Eye"
+		},
+		{
+			"name": "Inner Focus"
+		},
+		{
+			"name": "Defiant",
+			"hidden": true
+		}
+	],
+	"catch_rate": 45,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Flying", "Field"],
+	"hatch_time": [5140, 5396],
+	"height_us": "2'07\"",
+	"height_eu": "0.8 m",
+	"weight_us": "33.1 lbs.",
+	"weight_eu": "15.0 kg",
+	"base_exp_yield": 132,
+	"leveling_rate": "Medium Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 1,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 52,
+		"atk": 90,
+		"def": 55,
+		"sp_atk": 58,
+		"sp_def": 62,
+		"speed": 60
+	},
+	"evolution_from": null,
+	"evolutions": [
+		{
+			"to": "Sirfetch'd",
+			"variant": "Galarian",
+			"battle_crits": 3
+		}
+	],
+	"species": "Wild Duck Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "They use a plant stalk as a weapon, but not all of them use it in the same way. Several distinct styles of stalk fighting have been observed.",
+	"move_learnset": [
+		{
+			"move": "Peck",
+			"level": 1
+		},
+		{
+			"move": "Sand Attack",
+			"level": 1
+		},
+		{
+			"move": "Leer",
+			"level": 5
+		},
+		{
+			"move": "Fury Cutter",
+			"level": 10
+		},
+		{
+			"move": "Cut",
+			"level": 15
+		},
+		{
+			"move": "Aerial Ace",
+			"level": 20
+		},
+		{
+			"move": "Air Cutter",
+			"level": 25
+		},
+		{
+			"move": "Knock Off",
+			"level": 30
+		},
+		{
+			"move": "False Swipe",
+			"level": 35
+		},
+		{
+			"move": "Slash",
+			"level": 40
+		},
+		{
+			"move": "Swords Dance",
+			"level": 45
+		},
+		{
+			"move": "Air Slash",
+			"level": 50
+		},
+		{
+			"move": "Leaf Blade",
+			"level": 55
+		},
+		{
+			"move": "Agility",
+			"level": 60
+		},
+		{
+			"move": "Brave Bird",
+			"level": 65
+		},
+		{
+			"move": "Fly",
+			"tm": true
+		},
+		{
+			"move": "Solar Blade",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Thief",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Steel Wing",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Sunny Day",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Swift",
+			"tm": true
+		},
+		{
+			"move": "Helping Hand",
+			"tm": true
+		},
+		{
+			"move": "Revenge",
+			"tm": true
+		},
+		{
+			"move": "U-turn",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Acrobatics",
+			"tm": true
+		},
+		{
+			"move": "Retaliate",
+			"tm": true
+		},
+		{
+			"move": "False Swipe",
+			"tm": true
+		},
+		{
+			"move": "Air Slash",
+			"tm": true
+		},
+		{
+			"move": "Brutal Swing",
+			"tm": true
+		},
+		{
+			"move": "Swords Dance",
+			"tm": true
+		},
+		{
+			"move": "Body Slam",
+			"tm": true
+		},
+		{
+			"move": "Agility",
+			"tm": true
+		},
+		{
+			"move": "Focus Energy",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Baton Pass",
+			"tm": true
+		},
+		{
+			"move": "Iron Tail",
+			"tm": true
+		},
+		{
+			"move": "Uproar",
+			"tm": true
+		},
+		{
+			"move": "Heat Wave",
+			"tm": true
+		},
+		{
+			"move": "Leaf Blade",
+			"tm": true
+		},
+		{
+			"move": "Close Combat",
+			"tm": true
+		},
+		{
+			"move": "Poison Jab",
+			"tm": true
+		},
+		{
+			"move": "Brave Bird",
+			"tm": true
+		},
+		{
+			"move": "Work Up",
+			"tm": true
+		},
+		{
+			"move": "Throat Chop",
+			"tm": true
+		},
+		{
+			"move": "Gust",
+			"egg_move": true
+		},
+		{
+			"move": "Quick Attack",
+			"egg_move": true
+		},
+		{
+			"move": "Flail",
+			"egg_move": true
+		},
+		{
+			"move": "Feather Dance",
+			"egg_move": true
+		},
+		{
+			"move": "Curse",
+			"egg_move": true
+		},
+		{
+			"move": "Covet",
+			"egg_move": true
+		},
+		{
+			"move": "Night Slash",
+			"egg_move": true
+		},
+		{
+			"move": "Roost",
+			"egg_move": true
+		},
+		{
+			"move": "Simple Beam",
+			"egg_move": true
+		},
+		{
+			"move": "First Impression",
+			"egg_move": true
+		},
+		{
+			"move": "Final Gambit",
+			"egg_move": true
+		},
+		{
+			"move": "Feint",
+			"egg_move": true
+		},
+		{
+			"move": "Sky Attack",
+			"egg_move": true
+		}
+	]
 }

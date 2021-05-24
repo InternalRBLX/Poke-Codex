@@ -1,8 +1,8 @@
 {
-    "name": "N-Lunarizer",
-    "sell_price": null,
-    "holdable": false,
-    "battle": false,
-    "category": "Key Item",
-    "subcategory": "Use"
+	"name": "N-Lunarizer",
+	"sell_price": null,
+	"holdable": false,
+	"battle": false,
+	"category": "Key Item",
+	"subcategory": "Use"
 }

@@ -1,294 +1,287 @@
 {
-    "name": "Electabuzz",
-    "national_id": 125,
-    "types": [
-        "Electric"
-    ],
-    "items": [
-        {
-            "name": "Electirizer",
-            "chance": 5
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Static"
-        },
-        {
-            "name": "Vital Spirit",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 45,
-    "gender_ratios": {
-        "male": 75,
-        "female": 25
-    },
-    "egg_groups": [
-        "Human-Like"
-    ],
-    "hatch_time": [
-        6630,
-        6884
-    ],
-    "height_us": "3'07\"",
-    "height_eu": "1.1 m",
-    "weight_us": "66.1 lbs.",
-    "weight_eu": "30.0 kg",
-    "base_exp_yield": 172,
-    "leveling_rate": "Medium Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 2
-    },
-    "base_stats": {
-        "hp": 65,
-        "atk": 83,
-        "def": 57,
-        "sp_atk": 95,
-        "sp_def": 85,
-        "speed": 105
-    },
-    "evolution_from": "Elekid",
-    "evolutions": [
-        {
-            "to": "Electivire",
-            "trade": true,
-            "hold_item": "Electrizer"
-        }
-    ],
-    "species": "Electric Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "When a storm arrives, gangs of this Pokémon compete with each other to scale heights that are likely to be stricken by lightning bolts. Some towns use Electabuzz in place of lightning rods.",
-    "move_learnset": [
-        {
-            "move": "Leer",
-            "level": 1
-        },
-        {
-            "move": "Quick Attack",
-            "level": 1
-        },
-        {
-            "move": "Thunder Shock",
-            "level": 1
-        },
-        {
-            "move": "Thunder Shock",
-            "level": 5
-        },
-        {
-            "move": "Low Kick",
-            "level": 8
-        },
-        {
-            "move": "Swift",
-            "level": 12
-        },
-        {
-            "move": "Shock Wave",
-            "level": 15
-        },
-        {
-            "move": "Thunder Wave",
-            "level": 19
-        },
-        {
-            "move": "Electro Ball",
-            "level": 22
-        },
-        {
-            "move": "Light Screen",
-            "level": 26
-        },
-        {
-            "move": "Thunder Punch",
-            "level": 29
-        },
-        {
-            "move": "Discharge",
-            "level": 36
-        },
-        {
-            "move": "Screech",
-            "level": 42
-        },
-        {
-            "move": "Thunderbolt",
-            "level": 49
-        },
-        {
-            "move": "Thunder",
-            "level": 55
-        },
-        {
-            "move": "Barrier",
-            "egg_move": true
-        },
-        {
-            "move": "Cross Chop",
-            "egg_move": true
-        },
-        {
-            "move": "Dynamic Punch",
-            "egg_move": true
-        },
-        {
-            "move": "Feint",
-            "egg_move": true
-        },
-        {
-            "move": "Fire Punch",
-            "egg_move": true
-        },
-        {
-            "move": "Focus Punch",
-            "egg_move": true
-        },
-        {
-            "move": "Hammer Arm",
-            "egg_move": true
-        },
-        {
-            "move": "Ice Punch",
-            "egg_move": true
-        },
-        {
-            "move": "Karate Chop",
-            "egg_move": true
-        },
-        {
-            "move": "Meditate",
-            "egg_move": true
-        },
-        {
-            "move": "Rolling Kick",
-            "egg_move": true
-        },
-        {
-            "move": "Toxic",
-            "tm": "TM6"
-        },
-        {
-            "move": "Hidden Power",
-            "tm": "TM10"
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": "TM15"
-        },
-        {
-            "move": "Light Screen",
-            "tm": "TM16"
-        },
-        {
-            "move": "Protect",
-            "tm": "TM17"
-        },
-        {
-            "move": "Rain Dance",
-            "tm": "TM18"
-        },
-        {
-            "move": "Frustration",
-            "tm": "TM21"
-        },
-        {
-            "move": "Thunderbolt",
-            "tm": "TM24"
-        },
-        {
-            "move": "Thunder",
-            "tm": "TM25"
-        },
-        {
-            "move": "Return",
-            "tm": "TM27"
-        },
-        {
-            "move": "Psychic",
-            "tm": "TM29"
-        },
-        {
-            "move": "Brick Break",
-            "tm": "TM31"
-        },
-        {
-            "move": "Double Team",
-            "tm": "TM32"
-        },
-        {
-            "move": "Facade",
-            "tm": "TM42"
-        },
-        {
-            "move": "Rest",
-            "tm": "TM44"
-        },
-        {
-            "move": "Attract",
-            "tm": "TM45"
-        },
-        {
-            "move": "Thief",
-            "tm": "TM46"
-        },
-        {
-            "move": "Low Sweep",
-            "tm": "TM47"
-        },
-        {
-            "move": "Round",
-            "tm": "TM48"
-        },
-        {
-            "move": "Focus Blast",
-            "tm": "TM52"
-        },
-        {
-            "move": "Fling",
-            "tm": "TM56"
-        },
-        {
-            "move": "Charge Beam",
-            "tm": "TM57"
-        },
-        {
-            "move": "Giga Impact",
-            "tm": "TM68"
-        },
-        {
-            "move": "Volt Switch",
-            "tm": "TM72"
-        },
-        {
-            "move": "Thunder Wave",
-            "tm": "TM73"
-        },
-        {
-            "move": "Swagger",
-            "tm": "TM87"
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": "TM88"
-        },
-        {
-            "move": "Substitute",
-            "tm": "TM90"
-        },
-        {
-            "move": "Wild Charge",
-            "tm": "TM93"
-        },
-        {
-            "move": "Confide",
-            "tm": "TM100"
-        }
-    ]
+	"name": "Electabuzz",
+	"national_id": 125,
+	"types": ["Electric"],
+	"items": [
+		{
+			"name": "Electirizer",
+			"chance": 5
+		}
+	],
+	"abilities": [
+		{
+			"name": "Static"
+		},
+		{
+			"name": "Vital Spirit",
+			"hidden": true
+		}
+	],
+	"catch_rate": 45,
+	"gender_ratios": {
+		"male": 75,
+		"female": 25
+	},
+	"egg_groups": ["Human-Like"],
+	"hatch_time": [6630, 6884],
+	"height_us": "3'07\"",
+	"height_eu": "1.1 m",
+	"weight_us": "66.1 lbs.",
+	"weight_eu": "30.0 kg",
+	"base_exp_yield": 172,
+	"leveling_rate": "Medium Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 2
+	},
+	"base_stats": {
+		"hp": 65,
+		"atk": 83,
+		"def": 57,
+		"sp_atk": 95,
+		"sp_def": 85,
+		"speed": 105
+	},
+	"evolution_from": "Elekid",
+	"evolutions": [
+		{
+			"to": "Electivire",
+			"trade": true,
+			"hold_item": "Electrizer"
+		}
+	],
+	"species": "Electric Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "When a storm arrives, gangs of this Pokémon compete with each other to scale heights that are likely to be stricken by lightning bolts. Some towns use Electabuzz in place of lightning rods.",
+	"move_learnset": [
+		{
+			"move": "Leer",
+			"level": 1
+		},
+		{
+			"move": "Quick Attack",
+			"level": 1
+		},
+		{
+			"move": "Thunder Shock",
+			"level": 1
+		},
+		{
+			"move": "Thunder Shock",
+			"level": 5
+		},
+		{
+			"move": "Low Kick",
+			"level": 8
+		},
+		{
+			"move": "Swift",
+			"level": 12
+		},
+		{
+			"move": "Shock Wave",
+			"level": 15
+		},
+		{
+			"move": "Thunder Wave",
+			"level": 19
+		},
+		{
+			"move": "Electro Ball",
+			"level": 22
+		},
+		{
+			"move": "Light Screen",
+			"level": 26
+		},
+		{
+			"move": "Thunder Punch",
+			"level": 29
+		},
+		{
+			"move": "Discharge",
+			"level": 36
+		},
+		{
+			"move": "Screech",
+			"level": 42
+		},
+		{
+			"move": "Thunderbolt",
+			"level": 49
+		},
+		{
+			"move": "Thunder",
+			"level": 55
+		},
+		{
+			"move": "Barrier",
+			"egg_move": true
+		},
+		{
+			"move": "Cross Chop",
+			"egg_move": true
+		},
+		{
+			"move": "Dynamic Punch",
+			"egg_move": true
+		},
+		{
+			"move": "Feint",
+			"egg_move": true
+		},
+		{
+			"move": "Fire Punch",
+			"egg_move": true
+		},
+		{
+			"move": "Focus Punch",
+			"egg_move": true
+		},
+		{
+			"move": "Hammer Arm",
+			"egg_move": true
+		},
+		{
+			"move": "Ice Punch",
+			"egg_move": true
+		},
+		{
+			"move": "Karate Chop",
+			"egg_move": true
+		},
+		{
+			"move": "Meditate",
+			"egg_move": true
+		},
+		{
+			"move": "Rolling Kick",
+			"egg_move": true
+		},
+		{
+			"move": "Toxic",
+			"tm": "TM6"
+		},
+		{
+			"move": "Hidden Power",
+			"tm": "TM10"
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": "TM15"
+		},
+		{
+			"move": "Light Screen",
+			"tm": "TM16"
+		},
+		{
+			"move": "Protect",
+			"tm": "TM17"
+		},
+		{
+			"move": "Rain Dance",
+			"tm": "TM18"
+		},
+		{
+			"move": "Frustration",
+			"tm": "TM21"
+		},
+		{
+			"move": "Thunderbolt",
+			"tm": "TM24"
+		},
+		{
+			"move": "Thunder",
+			"tm": "TM25"
+		},
+		{
+			"move": "Return",
+			"tm": "TM27"
+		},
+		{
+			"move": "Psychic",
+			"tm": "TM29"
+		},
+		{
+			"move": "Brick Break",
+			"tm": "TM31"
+		},
+		{
+			"move": "Double Team",
+			"tm": "TM32"
+		},
+		{
+			"move": "Facade",
+			"tm": "TM42"
+		},
+		{
+			"move": "Rest",
+			"tm": "TM44"
+		},
+		{
+			"move": "Attract",
+			"tm": "TM45"
+		},
+		{
+			"move": "Thief",
+			"tm": "TM46"
+		},
+		{
+			"move": "Low Sweep",
+			"tm": "TM47"
+		},
+		{
+			"move": "Round",
+			"tm": "TM48"
+		},
+		{
+			"move": "Focus Blast",
+			"tm": "TM52"
+		},
+		{
+			"move": "Fling",
+			"tm": "TM56"
+		},
+		{
+			"move": "Charge Beam",
+			"tm": "TM57"
+		},
+		{
+			"move": "Giga Impact",
+			"tm": "TM68"
+		},
+		{
+			"move": "Volt Switch",
+			"tm": "TM72"
+		},
+		{
+			"move": "Thunder Wave",
+			"tm": "TM73"
+		},
+		{
+			"move": "Swagger",
+			"tm": "TM87"
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": "TM88"
+		},
+		{
+			"move": "Substitute",
+			"tm": "TM90"
+		},
+		{
+			"move": "Wild Charge",
+			"tm": "TM93"
+		},
+		{
+			"move": "Confide",
+			"tm": "TM100"
+		}
+	]
 }

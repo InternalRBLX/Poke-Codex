@@ -1,8 +1,8 @@
 {
-    "name": "Steel Memory",
-    "sell_price": 500,
-    "holdable": true,
-    "battle": false,
-    "category": "Item",
-    "subcategory": "Memory"
+	"name": "Steel Memory",
+	"sell_price": 500,
+	"holdable": true,
+	"battle": false,
+	"category": "Item",
+	"subcategory": "Memory"
 }

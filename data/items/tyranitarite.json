@@ -1,8 +1,8 @@
 {
-    "name": "Tyranitarite",
-    "sell_price": null,
-    "holdable": true,
-    "battle": false,
-    "category": "Item",
-    "subcategory": "Mega Stone"
+	"name": "Tyranitarite",
+	"sell_price": null,
+	"holdable": true,
+	"battle": false,
+	"category": "Item",
+	"subcategory": "Mega Stone"
 }

@@ -1,314 +1,306 @@
 {
-    "name": "Noivern",
-    "national_id": 715,
-    "types": [
-        "Flying",
-        "Dragon"
-    ],
-    "abilities": [
-        {
-            "name": "Frisk"
-        },
-        {
-            "name": "Infiltrator"
-        },
-        {
-            "name": "Telepathy",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 45,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Flying"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "4'11\"",
-    "height_eu": "1.5 m",
-    "weight_us": "187.4 lbs.",
-    "weight_eu": "85.0 kg",
-    "base_exp_yield": 187,
-    "leveling_rate": "Medium Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 2
-    },
-    "base_stats": {
-        "hp": 85,
-        "atk": 70,
-        "def": 80,
-        "sp_atk": 97,
-        "sp_def": 80,
-        "speed": 123
-    },
-    "evolution_from": "Noibat",
-    "evolutions": [],
-    "species": "Sound Wave Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "Flying through the darkness, it weakens enemies with ultrasonic waves that could crush stone. Its fangs finish the fight.",
-    "move_learnset": [
-        {
-            "move": "Dragon Pulse",
-            "evo": true
-        },
-        {
-            "move": "Dragon Pulse",
-            "level": 1
-        },
-        {
-            "move": "Moonlight",
-            "level": 1
-        },
-        {
-            "move": "Absorb",
-            "level": 1
-        },
-        {
-            "move": "Tackle",
-            "level": 1
-        },
-        {
-            "move": "Gust",
-            "level": 1
-        },
-        {
-            "move": "Supersonic",
-            "level": 1
-        },
-        {
-            "move": "Double Team",
-            "level": 12
-        },
-        {
-            "move": "Wing Attack",
-            "level": 16
-        },
-        {
-            "move": "Bite",
-            "level": 20
-        },
-        {
-            "move": "Air Cutter",
-            "level": 24
-        },
-        {
-            "move": "Whirlwind",
-            "level": 28
-        },
-        {
-            "move": "Super Fang",
-            "level": 32
-        },
-        {
-            "move": "Air Slash",
-            "level": 36
-        },
-        {
-            "move": "Screech",
-            "level": 40
-        },
-        {
-            "move": "Roost",
-            "level": 44
-        },
-        {
-            "move": "Tailwind",
-            "level": 51
-        },
-        {
-            "move": "Hurricane",
-            "level": 56
-        },
-        {
-            "move": "Boomburst",
-            "level": 62
-        },
-        {
-            "move": "Fly",
-            "tm": true
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": true
-        },
-        {
-            "move": "Giga Impact",
-            "tm": true
-        },
-        {
-            "move": "Solar Beam",
-            "tm": true
-        },
-        {
-            "move": "Screech",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Thief",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Steel Wing",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Sunny Day",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Swift",
-            "tm": true
-        },
-        {
-            "move": "Brick Break",
-            "tm": true
-        },
-        {
-            "move": "U-turn",
-            "tm": true
-        },
-        {
-            "move": "Shadow Claw",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Acrobatics",
-            "tm": true
-        },
-        {
-            "move": "Air Slash",
-            "tm": true
-        },
-        {
-            "move": "Flamethrower",
-            "tm": true
-        },
-        {
-            "move": "Psychic",
-            "tm": true
-        },
-        {
-            "move": "Agility",
-            "tm": true
-        },
-        {
-            "move": "Leech Life",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Outrage",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Iron Tail",
-            "tm": true
-        },
-        {
-            "move": "Shadow Ball",
-            "tm": true
-        },
-        {
-            "move": "Uproar",
-            "tm": true
-        },
-        {
-            "move": "Heat Wave",
-            "tm": true
-        },
-        {
-            "move": "Taunt",
-            "tm": true
-        },
-        {
-            "move": "Hyper Voice",
-            "tm": true
-        },
-        {
-            "move": "Dragon Claw",
-            "tm": true
-        },
-        {
-            "move": "Dragon Dance",
-            "tm": true
-        },
-        {
-            "move": "Dark Pulse",
-            "tm": true
-        },
-        {
-            "move": "X-Scissor",
-            "tm": true
-        },
-        {
-            "move": "Dragon Pulse",
-            "tm": true
-        },
-        {
-            "move": "Focus Blast",
-            "tm": true
-        },
-        {
-            "move": "Wild Charge",
-            "tm": true
-        },
-        {
-            "move": "Hurricane",
-            "tm": true
-        },
-        {
-            "move": "Defog",
-            "egg_move": true
-        },
-        {
-            "move": "Dragon Rush",
-            "egg_move": true
-        }
-    ]
+	"name": "Noivern",
+	"national_id": 715,
+	"types": ["Flying", "Dragon"],
+	"abilities": [
+		{
+			"name": "Frisk"
+		},
+		{
+			"name": "Infiltrator"
+		},
+		{
+			"name": "Telepathy",
+			"hidden": true
+		}
+	],
+	"catch_rate": 45,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Flying"],
+	"hatch_time": [5355, 5609],
+	"height_us": "4'11\"",
+	"height_eu": "1.5 m",
+	"weight_us": "187.4 lbs.",
+	"weight_eu": "85.0 kg",
+	"base_exp_yield": 187,
+	"leveling_rate": "Medium Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 0,
+		"sp_def": 0,
+		"speed": 2
+	},
+	"base_stats": {
+		"hp": 85,
+		"atk": 70,
+		"def": 80,
+		"sp_atk": 97,
+		"sp_def": 80,
+		"speed": 123
+	},
+	"evolution_from": "Noibat",
+	"evolutions": [],
+	"species": "Sound Wave Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "Flying through the darkness, it weakens enemies with ultrasonic waves that could crush stone. Its fangs finish the fight.",
+	"move_learnset": [
+		{
+			"move": "Dragon Pulse",
+			"evo": true
+		},
+		{
+			"move": "Dragon Pulse",
+			"level": 1
+		},
+		{
+			"move": "Moonlight",
+			"level": 1
+		},
+		{
+			"move": "Absorb",
+			"level": 1
+		},
+		{
+			"move": "Tackle",
+			"level": 1
+		},
+		{
+			"move": "Gust",
+			"level": 1
+		},
+		{
+			"move": "Supersonic",
+			"level": 1
+		},
+		{
+			"move": "Double Team",
+			"level": 12
+		},
+		{
+			"move": "Wing Attack",
+			"level": 16
+		},
+		{
+			"move": "Bite",
+			"level": 20
+		},
+		{
+			"move": "Air Cutter",
+			"level": 24
+		},
+		{
+			"move": "Whirlwind",
+			"level": 28
+		},
+		{
+			"move": "Super Fang",
+			"level": 32
+		},
+		{
+			"move": "Air Slash",
+			"level": 36
+		},
+		{
+			"move": "Screech",
+			"level": 40
+		},
+		{
+			"move": "Roost",
+			"level": 44
+		},
+		{
+			"move": "Tailwind",
+			"level": 51
+		},
+		{
+			"move": "Hurricane",
+			"level": 56
+		},
+		{
+			"move": "Boomburst",
+			"level": 62
+		},
+		{
+			"move": "Fly",
+			"tm": true
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": true
+		},
+		{
+			"move": "Giga Impact",
+			"tm": true
+		},
+		{
+			"move": "Solar Beam",
+			"tm": true
+		},
+		{
+			"move": "Screech",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Thief",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Steel Wing",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Sunny Day",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Swift",
+			"tm": true
+		},
+		{
+			"move": "Brick Break",
+			"tm": true
+		},
+		{
+			"move": "U-turn",
+			"tm": true
+		},
+		{
+			"move": "Shadow Claw",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Acrobatics",
+			"tm": true
+		},
+		{
+			"move": "Air Slash",
+			"tm": true
+		},
+		{
+			"move": "Flamethrower",
+			"tm": true
+		},
+		{
+			"move": "Psychic",
+			"tm": true
+		},
+		{
+			"move": "Agility",
+			"tm": true
+		},
+		{
+			"move": "Leech Life",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Outrage",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Iron Tail",
+			"tm": true
+		},
+		{
+			"move": "Shadow Ball",
+			"tm": true
+		},
+		{
+			"move": "Uproar",
+			"tm": true
+		},
+		{
+			"move": "Heat Wave",
+			"tm": true
+		},
+		{
+			"move": "Taunt",
+			"tm": true
+		},
+		{
+			"move": "Hyper Voice",
+			"tm": true
+		},
+		{
+			"move": "Dragon Claw",
+			"tm": true
+		},
+		{
+			"move": "Dragon Dance",
+			"tm": true
+		},
+		{
+			"move": "Dark Pulse",
+			"tm": true
+		},
+		{
+			"move": "X-Scissor",
+			"tm": true
+		},
+		{
+			"move": "Dragon Pulse",
+			"tm": true
+		},
+		{
+			"move": "Focus Blast",
+			"tm": true
+		},
+		{
+			"move": "Wild Charge",
+			"tm": true
+		},
+		{
+			"move": "Hurricane",
+			"tm": true
+		},
+		{
+			"move": "Defog",
+			"egg_move": true
+		},
+		{
+			"move": "Dragon Rush",
+			"egg_move": true
+		}
+	]
 }

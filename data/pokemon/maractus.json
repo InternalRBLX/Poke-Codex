@@ -1,283 +1,276 @@
 {
-    "name": "Maractus",
-    "national_id": 556,
-    "types": [
-        "Grass"
-    ],
-    "items": [
-        {
-            "name": "Miracle Seed",
-            "chance": 5
-        }
-    ],
-    "abilities": [
-        {
-            "name": "Water Absorb"
-        },
-        {
-            "name": "Chlorophyll"
-        },
-        {
-            "name": "Storm Drain",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 255,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Grass"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "3'03\"",
-    "height_eu": "1.0 m",
-    "weight_us": "61.7 lbs.",
-    "weight_eu": "28.0 kg",
-    "base_exp_yield": 161,
-    "leveling_rate": "Medium Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 2,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 75,
-        "atk": 86,
-        "def": 67,
-        "sp_atk": 106,
-        "sp_def": 67,
-        "speed": 60
-    },
-    "evolution_from": null,
-    "evolutions": [],
-    "species": "Cactus Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "Once each year, this Pokémon scatters its seeds. They’re jam-packed with nutrients, making them a precious food source out in the desert.",
-    "move_learnset": [
-        {
-            "move": "Spiky Shield",
-            "level": 1
-        },
-        {
-            "move": "Peck",
-            "level": 1
-        },
-        {
-            "move": "Absorb",
-            "level": 1
-        },
-        {
-            "move": "After You",
-            "level": 1
-        },
-        {
-            "move": "Ingrain",
-            "level": 1
-        },
-        {
-            "move": "Growth",
-            "level": 4
-        },
-        {
-            "move": "Mega Drain",
-            "level": 8
-        },
-        {
-            "move": "Leech Seed",
-            "level": 12
-        },
-        {
-            "move": "Sucker Punch",
-            "level": 16
-        },
-        {
-            "move": "Pin Missile",
-            "level": 20
-        },
-        {
-            "move": "Giga Drain",
-            "level": 24
-        },
-        {
-            "move": "Sweet Scent",
-            "level": 28
-        },
-        {
-            "move": "Synthesis",
-            "level": 32
-        },
-        {
-            "move": "Petal Blizzard",
-            "level": 36
-        },
-        {
-            "move": "Cotton Spore",
-            "level": 40
-        },
-        {
-            "move": "Sunny Day",
-            "level": 44
-        },
-        {
-            "move": "Solar Beam",
-            "level": 48
-        },
-        {
-            "move": "Acupressure",
-            "level": 52
-        },
-        {
-            "move": "Petal Dance",
-            "level": 56
-        },
-        {
-            "move": "Cotton Guard",
-            "level": 60
-        },
-        {
-            "move": "Pin Missile",
-            "tm": true
-        },
-        {
-            "move": "Solar Beam",
-            "tm": true
-        },
-        {
-            "move": "Screech",
-            "tm": true
-        },
-        {
-            "move": "Safeguard",
-            "tm": true
-        },
-        {
-            "move": "Rest",
-            "tm": true
-        },
-        {
-            "move": "Snore",
-            "tm": true
-        },
-        {
-            "move": "Protect",
-            "tm": true
-        },
-        {
-            "move": "Giga Drain",
-            "tm": true
-        },
-        {
-            "move": "Attract",
-            "tm": true
-        },
-        {
-            "move": "Rain Dance",
-            "tm": true
-        },
-        {
-            "move": "Sunny Day",
-            "tm": true
-        },
-        {
-            "move": "Facade",
-            "tm": true
-        },
-        {
-            "move": "Helping Hand",
-            "tm": true
-        },
-        {
-            "move": "Weather Ball",
-            "tm": true
-        },
-        {
-            "move": "Bullet Seed",
-            "tm": true
-        },
-        {
-            "move": "Bounce",
-            "tm": true
-        },
-        {
-            "move": "Assurance",
-            "tm": true
-        },
-        {
-            "move": "Drain Punch",
-            "tm": true
-        },
-        {
-            "move": "Round",
-            "tm": true
-        },
-        {
-            "move": "Grassy Terrain",
-            "tm": true
-        },
-        {
-            "move": "Substitute",
-            "tm": true
-        },
-        {
-            "move": "Spikes",
-            "tm": true
-        },
-        {
-            "move": "Endure",
-            "tm": true
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": true
-        },
-        {
-            "move": "Uproar",
-            "tm": true
-        },
-        {
-            "move": "Hyper Voice",
-            "tm": true
-        },
-        {
-            "move": "Poison Jab",
-            "tm": true
-        },
-        {
-            "move": "Seed Bomb",
-            "tm": true
-        },
-        {
-            "move": "Energy Ball",
-            "tm": true
-        },
-        {
-            "move": "Leaf Storm",
-            "tm": true
-        },
-        {
-            "move": "Grass Knot",
-            "tm": true
-        },
-        {
-            "move": "Throat Chop",
-            "tm": true
-        },
-        {
-            "move": "Worry Seed",
-            "egg_move": true
-        },
-        {
-            "move": "Wood Hammer",
-            "egg_move": true
-        }
-    ]
+	"name": "Maractus",
+	"national_id": 556,
+	"types": ["Grass"],
+	"items": [
+		{
+			"name": "Miracle Seed",
+			"chance": 5
+		}
+	],
+	"abilities": [
+		{
+			"name": "Water Absorb"
+		},
+		{
+			"name": "Chlorophyll"
+		},
+		{
+			"name": "Storm Drain",
+			"hidden": true
+		}
+	],
+	"catch_rate": 255,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Grass"],
+	"hatch_time": [5355, 5609],
+	"height_us": "3'03\"",
+	"height_eu": "1.0 m",
+	"weight_us": "61.7 lbs.",
+	"weight_eu": "28.0 kg",
+	"base_exp_yield": 161,
+	"leveling_rate": "Medium Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 2,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 75,
+		"atk": 86,
+		"def": 67,
+		"sp_atk": 106,
+		"sp_def": 67,
+		"speed": 60
+	},
+	"evolution_from": null,
+	"evolutions": [],
+	"species": "Cactus Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "Once each year, this Pokémon scatters its seeds. They’re jam-packed with nutrients, making them a precious food source out in the desert.",
+	"move_learnset": [
+		{
+			"move": "Spiky Shield",
+			"level": 1
+		},
+		{
+			"move": "Peck",
+			"level": 1
+		},
+		{
+			"move": "Absorb",
+			"level": 1
+		},
+		{
+			"move": "After You",
+			"level": 1
+		},
+		{
+			"move": "Ingrain",
+			"level": 1
+		},
+		{
+			"move": "Growth",
+			"level": 4
+		},
+		{
+			"move": "Mega Drain",
+			"level": 8
+		},
+		{
+			"move": "Leech Seed",
+			"level": 12
+		},
+		{
+			"move": "Sucker Punch",
+			"level": 16
+		},
+		{
+			"move": "Pin Missile",
+			"level": 20
+		},
+		{
+			"move": "Giga Drain",
+			"level": 24
+		},
+		{
+			"move": "Sweet Scent",
+			"level": 28
+		},
+		{
+			"move": "Synthesis",
+			"level": 32
+		},
+		{
+			"move": "Petal Blizzard",
+			"level": 36
+		},
+		{
+			"move": "Cotton Spore",
+			"level": 40
+		},
+		{
+			"move": "Sunny Day",
+			"level": 44
+		},
+		{
+			"move": "Solar Beam",
+			"level": 48
+		},
+		{
+			"move": "Acupressure",
+			"level": 52
+		},
+		{
+			"move": "Petal Dance",
+			"level": 56
+		},
+		{
+			"move": "Cotton Guard",
+			"level": 60
+		},
+		{
+			"move": "Pin Missile",
+			"tm": true
+		},
+		{
+			"move": "Solar Beam",
+			"tm": true
+		},
+		{
+			"move": "Screech",
+			"tm": true
+		},
+		{
+			"move": "Safeguard",
+			"tm": true
+		},
+		{
+			"move": "Rest",
+			"tm": true
+		},
+		{
+			"move": "Snore",
+			"tm": true
+		},
+		{
+			"move": "Protect",
+			"tm": true
+		},
+		{
+			"move": "Giga Drain",
+			"tm": true
+		},
+		{
+			"move": "Attract",
+			"tm": true
+		},
+		{
+			"move": "Rain Dance",
+			"tm": true
+		},
+		{
+			"move": "Sunny Day",
+			"tm": true
+		},
+		{
+			"move": "Facade",
+			"tm": true
+		},
+		{
+			"move": "Helping Hand",
+			"tm": true
+		},
+		{
+			"move": "Weather Ball",
+			"tm": true
+		},
+		{
+			"move": "Bullet Seed",
+			"tm": true
+		},
+		{
+			"move": "Bounce",
+			"tm": true
+		},
+		{
+			"move": "Assurance",
+			"tm": true
+		},
+		{
+			"move": "Drain Punch",
+			"tm": true
+		},
+		{
+			"move": "Round",
+			"tm": true
+		},
+		{
+			"move": "Grassy Terrain",
+			"tm": true
+		},
+		{
+			"move": "Substitute",
+			"tm": true
+		},
+		{
+			"move": "Spikes",
+			"tm": true
+		},
+		{
+			"move": "Endure",
+			"tm": true
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": true
+		},
+		{
+			"move": "Uproar",
+			"tm": true
+		},
+		{
+			"move": "Hyper Voice",
+			"tm": true
+		},
+		{
+			"move": "Poison Jab",
+			"tm": true
+		},
+		{
+			"move": "Seed Bomb",
+			"tm": true
+		},
+		{
+			"move": "Energy Ball",
+			"tm": true
+		},
+		{
+			"move": "Leaf Storm",
+			"tm": true
+		},
+		{
+			"move": "Grass Knot",
+			"tm": true
+		},
+		{
+			"move": "Throat Chop",
+			"tm": true
+		},
+		{
+			"move": "Worry Seed",
+			"egg_move": true
+		},
+		{
+			"move": "Wood Hammer",
+			"egg_move": true
+		}
+	]
 }

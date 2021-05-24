@@ -1,338 +1,330 @@
 {
-    "name": "Golduck",
-    "national_id": 55,
-    "types": [
-        "Water"
-    ],
-    "abilities": [
-        {
-            "name": "Damp"
-        },
-        {
-            "name": "Cloud Nine"
-        },
-        {
-            "name": "Swift Swim",
-            "hidden": true
-        }
-    ],
-    "catch_rate": 75,
-    "gender_ratios": {
-        "male": 50,
-        "female": 50
-    },
-    "egg_groups": [
-        "Water 1",
-        "Field"
-    ],
-    "hatch_time": [
-        5355,
-        5609
-    ],
-    "height_us": "5'07\"",
-    "height_eu": "1.7 m",
-    "weight_us": "168.9 lbs.",
-    "weight_eu": "76.6 kg",
-    "base_exp_yield": 175,
-    "leveling_rate": "Medium Fast",
-    "base_friendship": 70,
-    "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 2,
-        "sp_def": 0,
-        "speed": 0
-    },
-    "base_stats": {
-        "hp": 80,
-        "atk": 82,
-        "def": 78,
-        "sp_atk": 95,
-        "sp_def": 80,
-        "speed": 85
-    },
-    "evolution_from": "Psyduck",
-    "evolutions": [],
-    "species": "Duck Pokémon",
-    "mega_evolves": false,
-    "pokedex_entry": "Golduck is the fastest swimmer among all Pokémon. It swims effortlessly, even in a rough, stormy sea. It sometimes rescues people from wrecked ships floundering in high seas.",
-    "move_learnset": [
-        {
-            "move": "Aqua Jet",
-            "level": 1
-        },
-        {
-            "move": "Me First",
-            "level": 1
-        },
-        {
-            "move": "Scratch",
-            "level": 1
-        },
-        {
-            "move": "Tail Whip",
-            "level": 1
-        },
-        {
-            "move": "Water Gun",
-            "level": 1
-        },
-        {
-            "move": "Water Sport",
-            "level": 1
-        },
-        {
-            "move": "Tail Whip",
-            "level": 4
-        },
-        {
-            "move": "Water Gun",
-            "level": 7
-        },
-        {
-            "move": "Confusion",
-            "level": 10
-        },
-        {
-            "move": "Fury Swipes",
-            "level": 13
-        },
-        {
-            "move": "Water Pulse",
-            "level": 16
-        },
-        {
-            "move": "Disable",
-            "level": 19
-        },
-        {
-            "move": "Screech",
-            "level": 22
-        },
-        {
-            "move": "Zen Headbutt",
-            "level": 25
-        },
-        {
-            "move": "Aqua Tail",
-            "level": 28
-        },
-        {
-            "move": "Soak",
-            "level": 31
-        },
-        {
-            "move": "Psych Up",
-            "level": 36
-        },
-        {
-            "move": "Amnesia",
-            "level": 41
-        },
-        {
-            "move": "Hydro Pump",
-            "level": 46
-        },
-        {
-            "move": "Wonder Room",
-            "level": 51
-        },
-        {
-            "move": "Clear Smog",
-            "egg_move": true
-        },
-        {
-            "move": "Confuse Ray",
-            "egg_move": true
-        },
-        {
-            "move": "Cross Chop",
-            "egg_move": true
-        },
-        {
-            "move": "Encore",
-            "egg_move": true
-        },
-        {
-            "move": "Foresight",
-            "egg_move": true
-        },
-        {
-            "move": "Future Sight",
-            "egg_move": true
-        },
-        {
-            "move": "Hypnosis",
-            "egg_move": true
-        },
-        {
-            "move": "Mud Bomb",
-            "egg_move": true
-        },
-        {
-            "move": "Psybeam",
-            "egg_move": true
-        },
-        {
-            "move": "Refresh",
-            "egg_move": true
-        },
-        {
-            "move": "Secret Power",
-            "egg_move": true
-        },
-        {
-            "move": "Simple Beam",
-            "egg_move": true
-        },
-        {
-            "move": "Sleep Talk",
-            "egg_move": true
-        },
-        {
-            "move": "Synchronoise",
-            "egg_move": true
-        },
-        {
-            "move": "Yawn",
-            "egg_move": true
-        },
-        {
-            "move": "Psyshock",
-            "tm": "TM3"
-        },
-        {
-            "move": "Calm Mind",
-            "tm": "TM4"
-        },
-        {
-            "move": "Toxic",
-            "tm": "TM6"
-        },
-        {
-            "move": "Hail",
-            "tm": "TM7"
-        },
-        {
-            "move": "Hidden Power",
-            "tm": "TM10"
-        },
-        {
-            "move": "Ice Beam",
-            "tm": "TM13"
-        },
-        {
-            "move": "Blizzard",
-            "tm": "TM14"
-        },
-        {
-            "move": "Hyper Beam",
-            "tm": "TM15"
-        },
-        {
-            "move": "Light Screen",
-            "tm": "TM16"
-        },
-        {
-            "move": "Protect",
-            "tm": "TM17"
-        },
-        {
-            "move": "Rain Dance",
-            "tm": "TM18"
-        },
-        {
-            "move": "Frustration",
-            "tm": "TM21"
-        },
-        {
-            "move": "Return",
-            "tm": "TM27"
-        },
-        {
-            "move": "Psychic",
-            "tm": "TM29"
-        },
-        {
-            "move": "Brick Break",
-            "tm": "TM31"
-        },
-        {
-            "move": "Double Team",
-            "tm": "TM32"
-        },
-        {
-            "move": "Aerial Ace",
-            "tm": "TM40"
-        },
-        {
-            "move": "Facade",
-            "tm": "TM42"
-        },
-        {
-            "move": "Rest",
-            "tm": "TM44"
-        },
-        {
-            "move": "Attract",
-            "tm": "TM45"
-        },
-        {
-            "move": "Low Sweep",
-            "tm": "TM47"
-        },
-        {
-            "move": "Round",
-            "tm": "TM48"
-        },
-        {
-            "move": "Focus Blast",
-            "tm": "TM52"
-        },
-        {
-            "move": "Scald",
-            "tm": "TM55"
-        },
-        {
-            "move": "Fling",
-            "tm": "TM56"
-        },
-        {
-            "move": "Shadow Claw",
-            "tm": "TM65"
-        },
-        {
-            "move": "Giga Impact",
-            "tm": "TM68"
-        },
-        {
-            "move": "Psych Up",
-            "tm": "TM77"
-        },
-        {
-            "move": "Swagger",
-            "tm": "TM87"
-        },
-        {
-            "move": "Sleep Talk",
-            "tm": "TM88"
-        },
-        {
-            "move": "Substitute",
-            "tm": "TM90"
-        },
-        {
-            "move": "Surf",
-            "tm": "TM94"
-        },
-        {
-            "move": "Waterfall",
-            "tm": "TM98"
-        },
-        {
-            "move": "Confide",
-            "tm": "TM100"
-        }
-    ]
+	"name": "Golduck",
+	"national_id": 55,
+	"types": ["Water"],
+	"abilities": [
+		{
+			"name": "Damp"
+		},
+		{
+			"name": "Cloud Nine"
+		},
+		{
+			"name": "Swift Swim",
+			"hidden": true
+		}
+	],
+	"catch_rate": 75,
+	"gender_ratios": {
+		"male": 50,
+		"female": 50
+	},
+	"egg_groups": ["Water 1", "Field"],
+	"hatch_time": [5355, 5609],
+	"height_us": "5'07\"",
+	"height_eu": "1.7 m",
+	"weight_us": "168.9 lbs.",
+	"weight_eu": "76.6 kg",
+	"base_exp_yield": 175,
+	"leveling_rate": "Medium Fast",
+	"base_friendship": 70,
+	"ev_yield": {
+		"hp": 0,
+		"atk": 0,
+		"def": 0,
+		"sp_atk": 2,
+		"sp_def": 0,
+		"speed": 0
+	},
+	"base_stats": {
+		"hp": 80,
+		"atk": 82,
+		"def": 78,
+		"sp_atk": 95,
+		"sp_def": 80,
+		"speed": 85
+	},
+	"evolution_from": "Psyduck",
+	"evolutions": [],
+	"species": "Duck Pokémon",
+	"mega_evolves": false,
+	"pokedex_entry": "Golduck is the fastest swimmer among all Pokémon. It swims effortlessly, even in a rough, stormy sea. It sometimes rescues people from wrecked ships floundering in high seas.",
+	"move_learnset": [
+		{
+			"move": "Aqua Jet",
+			"level": 1
+		},
+		{
+			"move": "Me First",
+			"level": 1
+		},
+		{
+			"move": "Scratch",
+			"level": 1
+		},
+		{
+			"move": "Tail Whip",
+			"level": 1
+		},
+		{
+			"move": "Water Gun",
+			"level": 1
+		},
+		{
+			"move": "Water Sport",
+			"level": 1
+		},
+		{
+			"move": "Tail Whip",
+			"level": 4
+		},
+		{
+			"move": "Water Gun",
+			"level": 7
+		},
+		{
+			"move": "Confusion",
+			"level": 10
+		},
+		{
+			"move": "Fury Swipes",
+			"level": 13
+		},
+		{
+			"move": "Water Pulse",
+			"level": 16
+		},
+		{
+			"move": "Disable",
+			"level": 19
+		},
+		{
+			"move": "Screech",
+			"level": 22
+		},
+		{
+			"move": "Zen Headbutt",
+			"level": 25
+		},
+		{
+			"move": "Aqua Tail",
+			"level": 28
+		},
+		{
+			"move": "Soak",
+			"level": 31
+		},
+		{
+			"move": "Psych Up",
+			"level": 36
+		},
+		{
+			"move": "Amnesia",
+			"level": 41
+		},
+		{
+			"move": "Hydro Pump",
+			"level": 46
+		},
+		{
+			"move": "Wonder Room",
+			"level": 51
+		},
+		{
+			"move": "Clear Smog",
+			"egg_move": true
+		},
+		{
+			"move": "Confuse Ray",
+			"egg_move": true
+		},
+		{
+			"move": "Cross Chop",
+			"egg_move": true
+		},
+		{
+			"move": "Encore",
+			"egg_move": true
+		},
+		{
+			"move": "Foresight",
+			"egg_move": true
+		},
+		{
+			"move": "Future Sight",
+			"egg_move": true
+		},
+		{
+			"move": "Hypnosis",
+			"egg_move": true
+		},
+		{
+			"move": "Mud Bomb",
+			"egg_move": true
+		},
+		{
+			"move": "Psybeam",
+			"egg_move": true
+		},
+		{
+			"move": "Refresh",
+			"egg_move": true
+		},
+		{
+			"move": "Secret Power",
+			"egg_move": true
+		},
+		{
+			"move": "Simple Beam",
+			"egg_move": true
+		},
+		{
+			"move": "Sleep Talk",
+			"egg_move": true
+		},
+		{
+			"move": "Synchronoise",
+			"egg_move": true
+		},
+		{
+			"move": "Yawn",
+			"egg_move": true
+		},
+		{
+			"move": "Psyshock",
+			"tm": "TM3"
+		},
+		{
+			"move": "Calm Mind",
+			"tm": "TM4"
+		},
+		{
+			"move": "Toxic",
+			"tm": "TM6"
+		},
+		{
+			"move": "Hail",
+			"tm": "TM7"
+		},
+		{
+			"move": "Hidden Power",
+			"tm": "TM10"
+		},
+		{
+			"move": "Ice Beam",
+			"tm": "TM13"
+		},
+		{
+			"move": "Blizzard",
+			"tm": "TM14"
+		},
+		{
+			"move": "Hyper Beam",
+			"tm": "TM15"
+		},
+		{
+			"move": "Light Screen",
+			"tm": "TM16"
+		},
+		{
+			"move": "Protect",
+			"tm": "TM17"
+		},
+		{
+			"move": "Rain Dance",
+			"tm": "TM18"
+		},
+		{
+			"move": "Frustration",
+			"tm": "TM21"
+		},
+		{
+			"move": "Return",
+			"tm": "TM27"
+		},
+		{
+			"move": "Psychic",
+			"tm": "TM29"
+		},
+		{
+			"move": "Brick Break",
+			"tm": "TM31"
+		},
+		{
+			"move": "Double Team",
+			"tm": "TM32"
+		},
+		{
+			"move": "Aerial Ace",
+			"tm": "TM40"
+		},
+		{
+			"move": "Facade",
+			"tm": "TM42"
+		},
+		{
+			"move": "Rest",
+			"tm": "TM44"
+		},
+		{
+			"move": "Attract",
+			"tm": "TM45"
+		},
+		{
+			"move": "Low Sweep",
+			"tm": "TM47"
+		},
+		{
+			"move": "Round",
+			"tm": "TM48"
+		},
+		{
+			"move": "Focus Blast",
+			"tm": "TM52"
+		},
+		{
+			"move": "Scald",
+			"tm": "TM55"
+		},
+		{
+			"move": "Fling",
+			"tm": "TM56"
+		},
+		{
+			"move": "Shadow Claw",
+			"tm": "TM65"
+		},
+		{
+			"move": "Giga Impact",
+			"tm": "TM68"
+		},
+		{
+			"move": "Psych Up",
+			"tm": "TM77"
+		},
+		{
+			"move": "Swagger",
+			"tm": "TM87"
+		},
+		{
+			"move": "Sleep Talk",
+			"tm": "TM88"
+		},
+		{
+			"move": "Substitute",
+			"tm": "TM90"
+		},
+		{
+			"move": "Surf",
+			"tm": "TM94"
+		},
+		{
+			"move": "Waterfall",
+			"tm": "TM98"
+		},
+		{
+			"move": "Confide",
+			"tm": "TM100"
+		}
+	]
 }

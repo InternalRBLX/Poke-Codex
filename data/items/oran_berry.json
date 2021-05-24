@@ -1,8 +1,8 @@
 {
-    "name": "Oran Berry",
-    "sell_price": 100,
-    "holdable": true,
-    "battle": true,
-    "category": "Berry",
-    "subcategory": "Berry"
+	"name": "Oran Berry",
+	"sell_price": 100,
+	"holdable": true,
+	"battle": true,
+	"category": "Berry",
+	"subcategory": "Berry"
 }
