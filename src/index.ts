@@ -1,5 +1,5 @@
-import { Config } from './Interfaces/Config';
-import * as File from './config/config.json';
 import { Bot } from './client/Client';
+import { Server } from './server/Server';
 
-new Bot().start(File as Config);
+let bot = new Bot();
+let server = new Server(bot);

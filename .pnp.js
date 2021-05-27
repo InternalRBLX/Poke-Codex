@@ -44,12 +44,15 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/mysql", "npm:2.15.18"],
             ["@types/node", "npm:15.6.0"],
             ["alpha-sort", "npm:5.0.0"],
+            ["chalk", "npm:4.1.1"],
             ["consola", "npm:2.15.3"],
             ["discord.js", "npm:12.5.3"],
+            ["fs", "npm:0.0.1-security"],
             ["glob", "npm:7.1.7"],
             ["husky", "npm:6.0.0"],
             ["lint-staged", "npm:11.0.0"],
             ["moment", "npm:2.29.1"],
+            ["moment-timezone", "npm:0.5.33"],
             ["ms", "npm:2.1.3"],
             ["mysql", "npm:2.18.1"],
             ["prettier", "npm:2.3.0"],
@@ -445,12 +448,15 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/mysql", "npm:2.15.18"],
             ["@types/node", "npm:15.6.0"],
             ["alpha-sort", "npm:5.0.0"],
+            ["chalk", "npm:4.1.1"],
             ["consola", "npm:2.15.3"],
             ["discord.js", "npm:12.5.3"],
+            ["fs", "npm:0.0.1-security"],
             ["glob", "npm:7.1.7"],
             ["husky", "npm:6.0.0"],
             ["lint-staged", "npm:11.0.0"],
             ["moment", "npm:2.29.1"],
+            ["moment-timezone", "npm:0.5.33"],
             ["ms", "npm:2.1.3"],
             ["mysql", "npm:2.18.1"],
             ["prettier", "npm:2.3.0"],
@@ -1365,6 +1371,15 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["find-up", "npm:5.0.0"],
             ["locate-path", "npm:6.0.0"],
             ["path-exists", "npm:4.0.0"]
+          ],
+          "linkType": "HARD",
+        }]
+      ]],
+      ["fs", [
+        ["npm:0.0.1-security", {
+          "packageLocation": "./.yarn/cache/fs-npm-0.0.1-security-5060b47e87-d23d3c0dd4.zip/node_modules/fs/",
+          "packageDependencies": [
+            ["fs", "npm:0.0.1-security"]
           ],
           "linkType": "HARD",
         }]
@@ -2392,6 +2407,16 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         ["npm:2.29.1", {
           "packageLocation": "./.yarn/cache/moment-npm-2.29.1-787d9fdafd-86729013fe.zip/node_modules/moment/",
           "packageDependencies": [
+            ["moment", "npm:2.29.1"]
+          ],
+          "linkType": "HARD",
+        }]
+      ]],
+      ["moment-timezone", [
+        ["npm:0.5.33", {
+          "packageLocation": "./.yarn/cache/moment-timezone-npm-0.5.33-f2b784cd1b-d4e72a3514.zip/node_modules/moment-timezone/",
+          "packageDependencies": [
+            ["moment-timezone", "npm:0.5.33"],
             ["moment", "npm:2.29.1"]
           ],
           "linkType": "HARD",
